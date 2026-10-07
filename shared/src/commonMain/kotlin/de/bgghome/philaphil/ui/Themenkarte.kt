@@ -41,6 +41,7 @@ import de.bgghome.philaphil.res.fakt_entwurf
 import de.bgghome.philaphil.res.fakt_wert
 import de.bgghome.philaphil.res.kein_bild
 import de.bgghome.philaphil.res.marken_zum_thema
+import de.bgghome.philaphil.res.marken_zum_thema_titel
 import de.bgghome.philaphil.res.mehr_bei_wikipedia
 import de.bgghome.philaphil.res.quelle_daten
 import de.bgghome.philaphil.res.text_quelle_wikipedia
@@ -175,7 +176,7 @@ fun ThemaSeite(zustand: AppZustand, viewModel: AppViewModel) {
             Column(Modifier.padding(20.dp)) {
                 ThemaText(seite.thema, viewModel, mitTitel = false)
                 Spacer(Modifier.height(20.dp))
-                Text(stringResource(Res.string.marken_zum_thema, seite.marken.size), style = MaterialTheme.typography.titleMedium)
+                Text(stringResource(Res.string.marken_zum_thema_titel, seite.marken.size), style = MaterialTheme.typography.titleMedium)
             }
         }
         items(seite.marken, key = { it.id }) { marke ->

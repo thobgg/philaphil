@@ -12,6 +12,14 @@ gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und w
 - Fakten und Themen stammen aus der Wikipedia (CC BY-SA 4.0), Bilder zur Laufzeit von Wikimedia Commons
   mit Lizenzangabe unter jedem Bild. Keine Preise, keine Katalog-Systematik.
 
+<p>
+<img src="docs/bilder/handy-liste.png" width="230" alt="Markenliste eines Jahrgangs">&nbsp;
+<img src="docs/bilder/handy-marke.png" width="230" alt="Eine Marke mit Fakten">&nbsp;
+<img src="docs/bilder/handy-wusstest-du.png" width="230" alt="Themenkarte mit Kurztext und Wusstest du">
+</p>
+
+<img src="docs/bilder/desktop-tablet.png" width="720" alt="Tablet und Desktop: Liste links, Marke und Themenkarte rechts">
+
 Stand: Bund 1978 bis 1980 (111 Marken, 183 Themen) mit Themenkarten (Kurztext aus der Wikipedia, „Wusstest du?“, Marken zum Thema), Suche und Blättern durch die Jahrgänge.
 
 ```
