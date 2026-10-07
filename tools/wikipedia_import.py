@@ -280,6 +280,23 @@ def datum_parsen(text, jahr):
     return f"{j:04d}-{monat:02d}-{tag:02d}", t
 
 
+def minr_parsen(text):
+    """MiNr-Zelle: '959', 'Block 16<br />959' (Blockmarke), '1037<br />\'\'614\'\'' (dahinter die Berliner Nummer).
+
+    Liefert (mi_nr, block). Die erste reine Nummer ist die MiNr; eine Marke, die nur als Block
+    erschien, bekommt 'Bl. 16' als Nummer.
+    """
+    teile = [klartext(t) for t in re.split(r"<br\s*/?>", text, flags=re.IGNORECASE)]
+    teile = [t for t in teile if t]
+    nummern = [t for t in teile if re.fullmatch(r"\d+[A-Za-z]?", t)]
+    block = next((t.replace("\xa0", " ") for t in teile if t.lower().startswith("block")), None)
+    if nummern:
+        return nummern[0], block
+    if block:
+        return "Bl. " + block.split()[-1], block
+    return (teile[0] if teile else ""), None
+
+
 def zahl_parsen(text):
     t = klartext(text)
     ziffern = re.sub(r"[.\s]", "", t)
@@ -326,7 +343,7 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             print(f"  Hinweis: Zeile mit {len(zellen)} Zellen übersprungen: {klartext(' '.join(zellen))[:60]}", file=sys.stderr)
             continue
         bild, beschreibung, wert, datum, auflage, entwurf, minr = zellen[:7]
-        mi_nr = klartext(minr)
+        mi_nr, block = minr_parsen(minr)
         if not mi_nr:
             continue
         neuer_anlass, beschreibung_wiki = beschreibung_parsen(beschreibung)
@@ -339,6 +356,7 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             print(f"  Hinweis: Datum nicht erkannt bei MiNr {mi_nr}: {datum_text}", file=sys.stderr)
         marke = {
             "mi_nr": mi_nr,
+            "block": block,                 # 'Block 16', wenn die Marke nur im Block erschien
             "art": (abschnitt or "").rstrip("n") if abschnitt else None,   # Sondermarken -> Sondermarke
             "ausgabetag": ausgabetag,
             "wert": klartext(wert),

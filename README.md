@@ -12,7 +12,7 @@ gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und w
 - Fakten und Themen stammen aus der Wikipedia (CC BY-SA 4.0), Bilder zur Laufzeit von Wikimedia Commons
   mit Lizenzangabe unter jedem Bild. Keine Preise, keine Katalog-Systematik.
 
-Stand: Jahrgang Bund 1979 mit Themenkarten (Kurztext aus der Wikipedia, „Wusstest du?“, Marken zum Thema) und Suche.
+Stand: Bund 1978 bis 1980 (111 Marken, 183 Themen) mit Themenkarten (Kurztext aus der Wikipedia, „Wusstest du?“, Marken zum Thema), Suche und Blättern durch die Jahrgänge.
 
 ```
 daten/     JSON pro Gebiet und Jahrgang (CC BY-SA 4.0), später eigenes Repo briefmarken-daten
@@ -25,7 +25,7 @@ desktop/   Linux/Windows-Hülle
 ## Daten erzeugen
 
 ```
-tools/wikipedia_import.py --gebiet bund --jahr 1979   # -> daten/bund/1979.json
+tools/wikipedia_import.py --gebiet bund --jahr 1978 1979 1980   # -> daten/bund/<jahr>.json
 tools/themen_laden.py                                  # Kurztexte der Themen -> daten/themen.json
 tools/katalog_bauen.py                                 # -> shared/.../composeResources/files/katalog.db
 ```

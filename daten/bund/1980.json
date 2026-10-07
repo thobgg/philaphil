@@ -1,0 +1,1021 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1980,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1980 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1980_der_Deutschen_Bundespost",
+    "revision": 259355990,
+    "abgerufen": "2026-10-07",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1033,
+    "mi_nr_bis": 1067,
+    "luecken": [],
+    "sondermarken_gezaehlt": 33,
+    "sondermarken_laut_einleitung": 33
+  },
+  "marken": [
+    {
+      "mi_nr": "1033",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-01-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "100. Todestag von Anselm Feuerbach (1829–1880)",
+      "bild_beschreibung": "Detail des Gemäldes „Iphigenie“",
+      "entwerfer": "H. P. Schall",
+      "auflage": 22680000,
+      "commons_datei": "DBP 1980 1033 Anselm Feuerbach - Iphigenie.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Anselm Feuerbach",
+          "beschriftung": "Anselm Feuerbach",
+          "haupt": true,
+          "artikel": "Anselm Feuerbach",
+          "wikidata": "Q250194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1034",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-01-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "anlass": "25 Jahre Zugehörigkeit der Bundesrepublik Deutschland zur NATO",
+      "bild_beschreibung": "",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 21630000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "NATO",
+          "beschriftung": "NATO",
+          "haupt": true,
+          "artikel": "NATO",
+          "wikidata": "Q7184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1035",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-01-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "1200 Jahre Stadt und Bistum Osnabrück",
+      "bild_beschreibung": "Rathaus, Kirche St. Marien und der Dom St. Peter von Osnabrück",
+      "entwerfer": "Otto Rohse",
+      "auflage": 28580000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Diözese",
+          "beschriftung": "Bistum",
+          "haupt": true,
+          "artikel": "Diözese",
+          "wikidata": "Q665487"
+        },
+        {
+          "titel": "Osnabrück",
+          "beschriftung": "Osnabrück",
+          "haupt": false,
+          "artikel": "Osnabrück",
+          "wikidata": "Q2916"
+        },
+        {
+          "titel": "Rathaus Osnabrück",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Rathaus Osnabrück",
+          "wikidata": "Q2132598"
+        },
+        {
+          "titel": "St. Marien (Osnabrück)",
+          "beschriftung": "Kirche St. Marien",
+          "haupt": false,
+          "artikel": "St. Marien (Osnabrück)",
+          "wikidata": "Q2320860"
+        },
+        {
+          "titel": "Dom St. Peter (Osnabrück)",
+          "beschriftung": "Dom St. Peter",
+          "haupt": false,
+          "artikel": "Dom St. Peter (Osnabrück)",
+          "wikidata": "Q471633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1036",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-01-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "500. Geburtstag von Götz von Berlichingen (1480–1562)",
+      "bild_beschreibung": "Glasbild mit seinem Porträt im Schlossmuseum der Burg Jagsthausen",
+      "entwerfer": "Günter Jacki",
+      "auflage": 31730000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Götz von Berlichingen",
+          "beschriftung": "Götz von Berlichingen",
+          "haupt": true,
+          "artikel": "Götz von Berlichingen",
+          "wikidata": "Q61839"
+        },
+        {
+          "titel": "Burg Jagsthausen",
+          "beschriftung": "Burg Jagsthausen",
+          "haupt": false,
+          "artikel": "Burg Jagsthausen",
+          "wikidata": "Q1012578"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1039",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-02-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "100 Jahre Rechtschreiblexikon von Konrad Duden",
+      "bild_beschreibung": "Vergleichende Ansicht der Duden von ca. 1880 und 1980 am Beispiel des Wortes That mit Tat",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 31100000,
+      "commons_datei": "DBP 1980 1039 Rechtschreiblexikon Konrad Duden.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konrad Duden",
+          "beschriftung": "Konrad Duden",
+          "haupt": true,
+          "artikel": "Konrad Duden",
+          "wikidata": "Q65340"
+        },
+        {
+          "titel": "Duden",
+          "beschriftung": "Duden",
+          "haupt": false,
+          "artikel": "Duden",
+          "wikidata": "Q511823"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1040",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Segelflugzeug Fs 24 Phönix",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5831000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelflugzeug",
+          "beschriftung": "Segelflugzeug",
+          "haupt": true,
+          "artikel": "Segelflugzeug",
+          "wikidata": "Q180173"
+        },
+        {
+          "titel": "Fs 24 Phönix",
+          "beschriftung": "Fs 24 Phönix",
+          "haupt": false,
+          "artikel": "Fs 24 Phönix",
+          "wikidata": "Q1472320"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1041",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Lockheed Super Constellation",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5958000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lockheed Super Constellation",
+          "beschriftung": "Lockheed Super Constellation",
+          "haupt": true,
+          "artikel": "Lockheed Super Constellation",
+          "wikidata": "Q1418274"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1042",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Airbus A300",
+      "entwerfer": "Fritz Haase",
+      "auflage": 6086000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Airbus A300",
+          "beschriftung": "Airbus A300",
+          "haupt": true,
+          "artikel": "Airbus A300",
+          "wikidata": "Q6437"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1043",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Boeing 747",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5762000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Boeing 747",
+          "beschriftung": "Boeing 747",
+          "haupt": true,
+          "artikel": "Boeing 747",
+          "wikidata": "Q179"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1044",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "100 Jahre Deutscher Verein für öffentliche und private Fürsorge",
+      "bild_beschreibung": "verschiedene Symbole der Mitgliedsverbände des Vereins",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Verein für öffentliche und private Fürsorge",
+          "beschriftung": "Deutscher Verein für öffentliche und private Fürsorge",
+          "haupt": true,
+          "artikel": "Deutscher Verein für öffentliche und private Fürsorge",
+          "wikidata": "Q1205446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1045",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "800. Jahrestag des Reichstages zu Gelnhausen",
+      "bild_beschreibung": "Friedrich I. Barbarossa mit seinen Söhnen König Heinrich und Herzog Friedrich von Schwaben, Miniatur aus der Welfenchronik",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 32700000,
+      "commons_datei": "DBP 1980 1045 Reichstag zu Gelnhausen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hoftag zu Gelnhausen",
+          "beschriftung": "Reichstages zu Gelnhausen",
+          "haupt": true,
+          "artikel": "Hoftag zu Gelnhausen",
+          "wikidata": "Q1623307"
+        },
+        {
+          "titel": "Friedrich I. (HRR)",
+          "beschriftung": "Friedrich I. Barbarossa",
+          "haupt": false,
+          "artikel": "Friedrich I. (HRR)",
+          "wikidata": "Q79789"
+        },
+        {
+          "titel": "Heinrich VI. (HRR)",
+          "beschriftung": "König Heinrich",
+          "haupt": false,
+          "artikel": "Heinrich VI. (HRR)",
+          "wikidata": "Q150953"
+        },
+        {
+          "titel": "Historia Welforum",
+          "beschriftung": "Welfenchronik",
+          "haupt": false,
+          "artikel": "Historia Welforum",
+          "wikidata": "Q1620771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1046",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Fußball",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 5058000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": true,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1047",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Dressurreiten",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 5139000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dressurreiten",
+          "beschriftung": "Dressurreiten",
+          "haupt": true,
+          "artikel": "Dressurreiten",
+          "wikidata": "Q216033"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1048",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Skilanglauf",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 4959000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skilanglauf",
+          "beschriftung": "Skilanglauf",
+          "haupt": true,
+          "artikel": "Skilanglauf",
+          "wikidata": "Q179687"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1049",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Europamarken Bedeutende Persönlichkeiten",
+      "bild_beschreibung": "Albertus Magnus",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 120450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albertus Magnus",
+          "beschriftung": "Albertus Magnus",
+          "haupt": true,
+          "artikel": "Albertus Magnus",
+          "wikidata": "Q60059"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1050",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Europamarken Bedeutende Persönlichkeiten",
+      "bild_beschreibung": "Gottfried Wilhelm Leibniz",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 136050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gottfried Wilhelm Leibniz",
+          "beschriftung": "Gottfried Wilhelm Leibniz",
+          "haupt": true,
+          "artikel": "Gottfried Wilhelm Leibniz",
+          "wikidata": "Q9047"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1051",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "450 Jahre Augsburger Bekenntnis Confessio Augustana",
+      "bild_beschreibung": "Verlesung der Confessio Augustana vor Karl V. auf dem Reichstag zu Augsburg, Stich von ca. 1630",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Confessio Augustana",
+          "beschriftung": "Confessio Augustana",
+          "haupt": true,
+          "artikel": "Confessio Augustana",
+          "wikidata": "Q154483"
+        },
+        {
+          "titel": "Karl V. (HRR)",
+          "beschriftung": "Karl V.",
+          "haupt": false,
+          "artikel": "Karl V. (HRR)",
+          "wikidata": "Q32500"
+        },
+        {
+          "titel": "Stich und Schnitt",
+          "beschriftung": "Stich",
+          "haupt": false,
+          "artikel": "Stich und Schnitt",
+          "wikidata": "Q8418372"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1052",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "Naturschutzgebiete",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Naturschutzgebiet (Deutschland)",
+          "beschriftung": "Naturschutzgebiete",
+          "haupt": true,
+          "artikel": "Naturschutzgebiet (Deutschland)",
+          "wikidata": "Q759421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1053",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-07-10",
+      "wert": "90",
+      "waehrung": "Pf",
+      "anlass": "Internationaler Kongreß für Erziehung und Bildung Hörgeschädigter",
+      "bild_beschreibung": "",
+      "entwerfer": "Erwin Poell",
+      "auflage": 22700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gehörlosigkeit",
+          "beschriftung": "Hörgeschädigter",
+          "haupt": true,
+          "artikel": "Gehörlosigkeit",
+          "wikidata": "Q12133"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1054",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-07-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "250. Ausgabe des Losungsbuches der Herrnhuter Brüdergemeine",
+      "bild_beschreibung": "Das erste gedruckte Losungsbuch von 1731",
+      "entwerfer": "Peter Steiner",
+      "auflage": 32350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Herrnhuter Losungen",
+          "beschriftung": "Losungsbuches",
+          "haupt": true,
+          "artikel": "Herrnhuter Losungen",
+          "wikidata": "Q574707"
+        },
+        {
+          "titel": "Herrnhuter Brüdergemeine",
+          "beschriftung": "Herrnhuter Brüdergemeine",
+          "haupt": false,
+          "artikel": "Herrnhuter Brüdergemeine",
+          "wikidata": "Q159318"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1055",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-07-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "1500. Geburtstag von Benedikt von Nursia (um 480–547)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31780000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Benedikt von Nursia",
+          "beschriftung": "Benedikt von Nursia",
+          "haupt": true,
+          "artikel": "Benedikt von Nursia",
+          "wikidata": "Q44265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1056",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-08-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "200. Geburtstag von Friedrich Joseph Haass (1780–1853)",
+      "bild_beschreibung": "Hand",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 30900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Joseph Haass",
+          "beschriftung": "Friedrich Joseph Haass",
+          "haupt": true,
+          "artikel": "Friedrich Joseph Haass",
+          "wikidata": "Q70096"
+        },
+        {
+          "titel": "Hand",
+          "beschriftung": "Hand",
+          "haupt": false,
+          "artikel": "Hand",
+          "wikidata": "Q33767"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1057",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-08-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "150. Geburtstag von Marie von Ebner-Eschenbach (1830–1916)",
+      "bild_beschreibung": "",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 34100000,
+      "commons_datei": "DBP 1980 1057 Marie von Ebner-Eschenbach.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Marie von Ebner-Eschenbach",
+          "beschriftung": "Marie von Ebner-Eschenbach",
+          "haupt": true,
+          "artikel": "Marie von Ebner-Eschenbach",
+          "wikidata": "Q93525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1058",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-08-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "100. Geburtstag von Gorch Fock (Johann Wilhelm Kinau) (1880–1916)",
+      "bild_beschreibung": "Segel und Takelage",
+      "entwerfer": "Günter Jacki",
+      "auflage": 34100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gorch Fock (Schriftsteller)",
+          "beschriftung": "Gorch Fock",
+          "haupt": true,
+          "artikel": "Gorch Fock (Schriftsteller)",
+          "wikidata": "Q69087"
+        },
+        {
+          "titel": "Segel",
+          "beschriftung": "Segel",
+          "haupt": false,
+          "artikel": "Segel",
+          "wikidata": "Q25999"
+        },
+        {
+          "titel": "Takelage",
+          "beschriftung": "Takelage",
+          "haupt": false,
+          "artikel": "Takelage",
+          "wikidata": "Q942890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1059",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Hornköpfchen, Ceratocephala falcata",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 15201000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1060",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Ranken-Platterbse, Lathyrus aphaca",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 15106000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ranken-Platterbse",
+          "beschriftung": "Ranken-Platterbse",
+          "haupt": true,
+          "artikel": "Ranken-Platterbse",
+          "wikidata": "Q158592"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1061",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Kornrade, Agrostemma githago",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 19193000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kornrade",
+          "beschriftung": "Kornrade",
+          "haupt": true,
+          "artikel": "Kornrade",
+          "wikidata": "Q147852"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1062",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Schopfige Traubenhyazinthe, Muscari comosum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7854000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schopfige Traubenhyazinthe",
+          "beschriftung": "Schopfige Traubenhyazinthe",
+          "haupt": true,
+          "artikel": "Schopfige Traubenhyazinthe",
+          "wikidata": "Q163946"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1063",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Zwei Jahrtausende Weinbau in Mitteleuropa",
+      "bild_beschreibung": "Holzschnitt aus dem Lehrbuch Rucelia commoda von Petrus de Crescentiis",
+      "entwerfer": "Erwin Poell",
+      "auflage": 29800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weinbau",
+          "beschriftung": "Weinbau",
+          "haupt": true,
+          "artikel": "Weinbau",
+          "wikidata": "Q253140"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        },
+        {
+          "titel": "Petrus de Crescentiis",
+          "beschriftung": "Petrus de Crescentiis",
+          "haupt": false,
+          "artikel": "Petrus de Crescentiis",
+          "wikidata": "Q1933377"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1064",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "100 Jahre Vollendung des Kölner Doms",
+      "bild_beschreibung": "Einfügung des Schlusssteins in die Südturm-Kreuzblume des Kölner Doms",
+      "entwerfer": "Peter Steiner",
+      "auflage": 33050000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kölner Dom",
+          "beschriftung": "Kölner Dom",
+          "haupt": true,
+          "artikel": "Kölner Dom",
+          "wikidata": "Q4176"
+        },
+        {
+          "titel": "Schlussstein",
+          "beschriftung": "Schlussstein",
+          "haupt": false,
+          "artikel": "Schlussstein",
+          "wikidata": "Q220919"
+        },
+        {
+          "titel": "Kreuzblume",
+          "beschriftung": "Kreuzblume",
+          "haupt": false,
+          "artikel": "Kreuzblume",
+          "wikidata": "Q14523555"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1065",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "FIP-Kongress für Philatelie und Postgeschichte",
+      "bild_beschreibung": "Posthausschild Altheim / Saar",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 34810000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Altheim (Blieskastel)",
+          "beschriftung": "Altheim / Saar",
+          "haupt": true,
+          "artikel": "Altheim (Blieskastel)",
+          "wikidata": "Q440643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1066",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Die Geburt Christi, Detail aus einer Handschrift aus Altomünster aus dem frühen 12. Jahrhundert",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 11818000,
+      "commons_datei": "DBP 1980 1066 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Altomünster",
+          "beschriftung": "Altomünster",
+          "haupt": true,
+          "artikel": "Altomünster",
+          "wikidata": "Q443815"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1067",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "500. Geburtstag von Albrecht Altdorfer (1480–1538)",
+      "bild_beschreibung": "Radierung „Landschaft mit den zwei Fichten“",
+      "entwerfer": "Peter Steiner",
+      "auflage": 32600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albrecht Altdorfer",
+          "beschriftung": "Albrecht Altdorfer",
+          "haupt": true,
+          "artikel": "Albrecht Altdorfer",
+          "wikidata": "Q153746"
+        },
+        {
+          "titel": "Radierung",
+          "beschriftung": "Radierung",
+          "haupt": false,
+          "artikel": "Radierung",
+          "wikidata": "Q186986"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1037",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1980-02-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Wolfsburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Wolfsburg",
+          "beschriftung": "Schloss Wolfsburg",
+          "haupt": true,
+          "artikel": "Wolfsburg (Schloss)",
+          "wikidata": "Q882569"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1038",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1980-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Inzlinger Wasserschloss",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Inzlinger Wasserschloss",
+          "beschriftung": "Inzlinger Wasserschloss",
+          "haupt": true,
+          "artikel": "Inzlinger Wasserschloss",
+          "wikidata": "Q1671861"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}
