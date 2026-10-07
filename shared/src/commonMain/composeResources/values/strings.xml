@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Deutsch ist die Grundsprache; weitere Sprachen kommen als values-en usw. dazu (wie app4webtrees). -->
+<resources>
+    <string name="app_titel">Freund der Philatelie · Briefmarken als Zeitgeschichte</string>
+    <string name="jahrgang_titel">%1$s %2$s</string>
+    <string name="jahrgang_untertitel">Wähle links eine Marke – sie erzählt dir, warum es sie gibt.</string>
+    <string name="zurueck">Zurück</string>
+    <string name="schliessen">Schließen</string>
+    <string name="fehler_laden">Der Katalog konnte nicht geladen werden: %1$s</string>
+    <string name="kein_bild">Für diese Marke liegt bei Wikimedia Commons noch kein Bild.</string>
+    <string name="bild_quelle">Bild: Wikimedia Commons · %1$s · %2$s</string>
+    <string name="fakt_ausgabetag">Ausgabetag</string>
+    <string name="fakt_wert">Wert</string>
+    <string name="fakt_auflage">Auflage</string>
+    <string name="fakt_entwurf">Entwurf</string>
+    <string name="themen_titel">Themen</string>
+    <string name="weitere_marken">%1$s (+%2$d)</string>
+    <string name="mehr_bei_wikipedia">Mehr bei Wikipedia ›</string>
+    <string name="quelle_daten">Daten: Wikipedia, „%1$s“, %2$s</string>
+</resources>

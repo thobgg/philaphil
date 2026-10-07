@@ -1,0 +1,24 @@
+{
+  "_hinweis": "Handkorrekturen zum Import. Schlüssel = MiNr. Felder überschreiben das JSON aus Wikipedia; 'hauptthema' zieht das genannte Thema nach vorn. Bleibt bei jedem Neuimport erhalten.",
+  "1002": {
+    "hauptthema": "Europäisches Parlament"
+  },
+  "1003": {
+    "hauptthema": "Internationale Kurzfilmtage Oberhausen"
+  },
+  "1005": {
+    "hauptthema": "Dornier Wal"
+  },
+  "1008": {
+    "hauptthema": "Focke-Wulf Fw 61"
+  },
+  "1019": {
+    "commons_datei": "Einstein Physik Preis.JPG"
+  },
+  "1020": {
+    "commons_datei": "Hahn Chemie Preis.JPG"
+  },
+  "1028": {
+    "hauptthema": "Schloss Rheydt"
+  }
+}

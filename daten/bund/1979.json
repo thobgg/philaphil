@@ -1,0 +1,1153 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1979,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1979 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1979_der_Deutschen_Bundespost",
+    "revision": 259356003,
+    "abgerufen": "2026-10-07",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1000,
+    "mi_nr_bis": 1032,
+    "luecken": [],
+    "sondermarken_gezaehlt": 32,
+    "sondermarken_laut_einleitung": 32
+  },
+  "marken": [
+    {
+      "mi_nr": "1000",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-01-11",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Internationales Jahr des Kindes",
+      "bild_beschreibung": "Kind und Haussilhouette",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 31900000,
+      "commons_datei": "DBP 1979 1000 Int Jahr d Kindes Blase 2.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationales Jahr des Kindes",
+          "beschriftung": "Internationales Jahr des Kindes",
+          "haupt": true,
+          "artikel": "Internationales Jahr des Kindes",
+          "wikidata": "Q2273691"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1001",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "100. Geburtstag von Agnes Miegel (1879–1964)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 30900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Agnes Miegel",
+          "beschriftung": "Agnes Miegel",
+          "haupt": true,
+          "artikel": "Agnes Miegel",
+          "wikidata": "Q67013"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1002",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Erste Direktwahlen zum Europäischen Parlament",
+      "bild_beschreibung": "stilisiertes Parlament mit Sitzverteilung der Europäischen Staaten in den Farben der Landesfahnen",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Direktwahl",
+          "beschriftung": "Direktwahl",
+          "haupt": true,
+          "artikel": "Direktwahl",
+          "wikidata": "Q1196727"
+        },
+        {
+          "titel": "Europäisches Parlament",
+          "beschriftung": "Europäischen Parlament",
+          "haupt": false,
+          "artikel": "Europäisches Parlament",
+          "wikidata": "Q8889"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1003",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "25 Jahre Westdeutsche Kurzfilmtage",
+      "bild_beschreibung": "Filmstreifen",
+      "entwerfer": "Dieter Urban",
+      "auflage": 30850000,
+      "commons_datei": "DBP 1979 1003 25 Jahre Westdeutsche Kurzfilmtage.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "35-mm-Film",
+          "beschriftung": "Filmstreifen",
+          "haupt": true,
+          "artikel": "35-mm-Film",
+          "wikidata": "Q226528"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1004",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Straßen-Rettungsdienste",
+      "bild_beschreibung": "Symbole der Rettungsorganisationen",
+      "entwerfer": "Hanswerner Klein",
+      "auflage": 30550000,
+      "commons_datei": "DBP 1979 1004 Rettungsdienste.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rettungsdienst",
+          "beschriftung": "Straßen-Rettungsdienste",
+          "haupt": true,
+          "artikel": "Rettungsdienst",
+          "wikidata": "Q860447"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1005",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Flugboot Dornier Wal",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5619000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flugboot",
+          "beschriftung": "Flugboot",
+          "haupt": true,
+          "artikel": "Flugboot",
+          "wikidata": "Q1153376"
+        },
+        {
+          "titel": "Dornier Wal",
+          "beschriftung": "Dornier Wal",
+          "haupt": false,
+          "artikel": "Dornier Wal",
+          "wikidata": "Q1245981"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1006",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Heinkel He 70",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5725000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinkel He 70",
+          "beschriftung": "Heinkel He 70",
+          "haupt": true,
+          "artikel": "Heinkel He 70",
+          "wikidata": "Q705063"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1007",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Junkers W 33 „Bremen“",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5807000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Junkers W 33",
+          "beschriftung": "Junkers W 33",
+          "haupt": true,
+          "artikel": "Junkers W 33",
+          "wikidata": "Q559278"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1008",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Hubschrauber von Focke-Wulf Fw 61",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5455000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hubschrauber",
+          "beschriftung": "Hubschrauber",
+          "haupt": true,
+          "artikel": "Hubschrauber",
+          "wikidata": "Q34486"
+        },
+        {
+          "titel": "Focke-Wulf Fw 61",
+          "beschriftung": "Focke-Wulf Fw 61",
+          "haupt": false,
+          "artikel": "Focke-Wulf Fw 61",
+          "wikidata": "Q1435037"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1009",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Handball",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 5286500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Handball",
+          "beschriftung": "Handball",
+          "haupt": true,
+          "artikel": "Handball",
+          "wikidata": "Q8418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1010",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Zweier-Canadier",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 5018500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweier-Canadier",
+          "beschriftung": "Zweier-Canadier",
+          "haupt": true,
+          "artikel": "Zweier-Canadier",
+          "wikidata": "Q232393"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1011",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Geschichte des Post- und Fernmeldewesens",
+      "bild_beschreibung": "Telegrafenbüro um 1863",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 51300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "Post-",
+          "haupt": true,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Telekommunikation",
+          "beschriftung": "Fernmeldewesens",
+          "haupt": false,
+          "artikel": "Telekommunikation",
+          "wikidata": "Q418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1012",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Geschichte des Post- und Fernmeldewesens",
+      "bild_beschreibung": "Postschalter um 1854",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 122800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "Post-",
+          "haupt": true,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Telekommunikation",
+          "beschriftung": "Fernmeldewesens",
+          "haupt": false,
+          "artikel": "Telekommunikation",
+          "wikidata": "Q418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1013",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "50. Geburtstag von Anne Frank (1929–1945)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Anne Frank",
+          "beschriftung": "Anne Frank",
+          "haupt": true,
+          "artikel": "Anne Frank",
+          "wikidata": "Q4583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1014",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Internationale Verkehrsausstellung in Hamburg",
+      "bild_beschreibung": "Die erste elektrische Bahn auf der Berliner Gewerbeausstellung, 1879",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": true,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        },
+        {
+          "titel": "Berliner Gewerbeausstellung",
+          "beschriftung": "Berliner Gewerbeausstellung",
+          "haupt": false,
+          "artikel": "Berliner Gewerbeausstellung",
+          "wikidata": "Q821540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1015",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Weltweite Funkverwaltungskonferenz in Genf",
+      "bild_beschreibung": "",
+      "entwerfer": "W. P. Seiter",
+      "auflage": 31550000,
+      "commons_datei": "DBP 1979 1015 Weltweite Funkverwaltungskonferenz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltfunkkonferenz",
+          "beschriftung": "Weltweite Funkverwaltungskonferenz",
+          "haupt": true,
+          "artikel": "Weltfunkkonferenz",
+          "wikidata": "Q680268"
+        },
+        {
+          "titel": "Genf",
+          "beschriftung": "Genf",
+          "haupt": false,
+          "artikel": "Genf",
+          "wikidata": "Q71"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1016",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "450 Jahre Katechismus in Martin Luther",
+      "bild_beschreibung": "Moses empfängt die Gesetzestafeln auf dem Berg Sinai. Holzschnitt von Lucas Cranach dem Älteren",
+      "entwerfer": "Wilhelm Neufeld",
+      "auflage": 30200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katechismus",
+          "beschriftung": "Katechismus",
+          "haupt": true,
+          "artikel": "Katechismus",
+          "wikidata": "Q189279"
+        },
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": false,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        },
+        {
+          "titel": "Mose",
+          "beschriftung": "Mose",
+          "haupt": false,
+          "artikel": "Mose",
+          "wikidata": "Q9077"
+        },
+        {
+          "titel": "Gesetzestafeln",
+          "beschriftung": "Gesetzestafeln",
+          "haupt": false,
+          "artikel": "Zehn Gebote",
+          "wikidata": "Q34623"
+        },
+        {
+          "titel": "Sinai (Berg)",
+          "beschriftung": "Sinai",
+          "haupt": false,
+          "artikel": "Sinai (Berg)",
+          "wikidata": "Q377485"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        },
+        {
+          "titel": "Lucas Cranach der Ältere",
+          "beschriftung": "Lucas Cranach dem Älteren",
+          "haupt": false,
+          "artikel": "Lucas Cranach der Ältere",
+          "wikidata": "Q191748"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1017",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Aachener Heiligtumsfahrt",
+      "bild_beschreibung": "Kreuz mit dem Symbol Karls des Großen",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 33600000,
+      "commons_datei": "DBP 1979 1017 Heiligtumsfahrt Aachen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aachener Heiligtumsfahrt",
+          "beschriftung": "Aachener Heiligtumsfahrt",
+          "haupt": true,
+          "artikel": "Aachener Heiligtumsfahrt",
+          "wikidata": "Q300726"
+        },
+        {
+          "titel": "Kreuz (Christentum)",
+          "beschriftung": "Kreuz",
+          "haupt": false,
+          "artikel": "Kreuz (Christentum)",
+          "wikidata": "Q392371"
+        },
+        {
+          "titel": "Karl der Große",
+          "beschriftung": "Karls des Großen",
+          "haupt": false,
+          "artikel": "Karl der Große",
+          "wikidata": "Q3044"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1018",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "110",
+      "waehrung": "Pf",
+      "anlass": "800. Todestag von Hildegard von Bingen (1098–1179)",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 19680000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hildegard von Bingen",
+          "beschriftung": "Hildegard von Bingen",
+          "haupt": true,
+          "artikel": "Hildegard von Bingen",
+          "wikidata": "Q70991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1019",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Nobelpreisträger der Physik und Chemie",
+      "bild_beschreibung": "Albert Einstein, 1921 Nobelpreis für Physik für seine Entdeckungen um den Photoelektrischen Effekt",
+      "entwerfer": "Brigitte von der Linde",
+      "auflage": 31430000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albert Einstein",
+          "beschriftung": "Albert Einstein",
+          "haupt": true,
+          "artikel": "Albert Einstein",
+          "wikidata": "Q937"
+        },
+        {
+          "titel": "Nobelpreis für Physik",
+          "beschriftung": "Nobelpreis für Physik",
+          "haupt": false,
+          "artikel": "Nobelpreis für Physik",
+          "wikidata": "Q38104"
+        },
+        {
+          "titel": "Photoelektrischer Effekt",
+          "beschriftung": "Photoelektrischen Effekt",
+          "haupt": false,
+          "artikel": "Photoelektrischer Effekt",
+          "wikidata": "Q83213"
+        },
+        {
+          "titel": "Liste der deutschen Nobelpreisträger",
+          "beschriftung": "Nobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der deutschen Nobelpreisträger",
+          "wikidata": "Q122944802"
+        },
+        {
+          "titel": "Physik",
+          "beschriftung": "Physik",
+          "haupt": false,
+          "artikel": "Physik",
+          "wikidata": "Q413"
+        },
+        {
+          "titel": "Chemie",
+          "beschriftung": "Chemie",
+          "haupt": false,
+          "artikel": "Chemie",
+          "wikidata": "Q2329"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1020",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Nobelpreisträger der Physik und Chemie",
+      "bild_beschreibung": "Otto Hahn, 1944 Nobelpreis für Chemie für seine Entdeckung der Kernspaltung",
+      "entwerfer": "Brigitte von der Linde",
+      "auflage": 30880000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Hahn",
+          "beschriftung": "Otto Hahn",
+          "haupt": true,
+          "artikel": "Otto Hahn",
+          "wikidata": "Q57065"
+        },
+        {
+          "titel": "Nobelpreis für Chemie",
+          "beschriftung": "Nobelpreis für Chemie",
+          "haupt": false,
+          "artikel": "Nobelpreis für Chemie",
+          "wikidata": "Q44585"
+        },
+        {
+          "titel": "Entdeckung der Kernspaltung",
+          "beschriftung": "Entdeckung der Kernspaltung",
+          "haupt": false,
+          "artikel": "Entdeckung der Kernspaltung",
+          "wikidata": "Q1344449"
+        },
+        {
+          "titel": "Liste der deutschen Nobelpreisträger",
+          "beschriftung": "Nobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der deutschen Nobelpreisträger",
+          "wikidata": "Q122944802"
+        },
+        {
+          "titel": "Physik",
+          "beschriftung": "Physik",
+          "haupt": false,
+          "artikel": "Physik",
+          "wikidata": "Q413"
+        },
+        {
+          "titel": "Chemie",
+          "beschriftung": "Chemie",
+          "haupt": false,
+          "artikel": "Chemie",
+          "wikidata": "Q2329"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1021",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Nobelpreisträger der Physik und Chemie",
+      "bild_beschreibung": "Max von Laue, 1914 Nobelpreis für Physik für seine Entdeckung der Beugung von Röntgenstrahlen an Kristallen",
+      "entwerfer": "Brigitte von der Linde",
+      "auflage": 31630000,
+      "commons_datei": "DBP 1979 1021 Max von Laue Röntgenstrahl-Beugung am Kristallgitter.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max von Laue",
+          "beschriftung": "Max von Laue",
+          "haupt": true,
+          "artikel": "Max von Laue",
+          "wikidata": "Q57067"
+        },
+        {
+          "titel": "Nobelpreis für Physik",
+          "beschriftung": "Nobelpreis für Physik",
+          "haupt": false,
+          "artikel": "Nobelpreis für Physik",
+          "wikidata": "Q38104"
+        },
+        {
+          "titel": "Röntgenstrahlen",
+          "beschriftung": "Röntgenstrahlen",
+          "haupt": false,
+          "artikel": "Röntgenstrahlung",
+          "wikidata": "Q34777"
+        },
+        {
+          "titel": "Liste der deutschen Nobelpreisträger",
+          "beschriftung": "Nobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der deutschen Nobelpreisträger",
+          "wikidata": "Q122944802"
+        },
+        {
+          "titel": "Physik",
+          "beschriftung": "Physik",
+          "haupt": false,
+          "artikel": "Physik",
+          "wikidata": "Q413"
+        },
+        {
+          "titel": "Chemie",
+          "beschriftung": "Chemie",
+          "haupt": false,
+          "artikel": "Chemie",
+          "wikidata": "Q2329"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1022",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "300 Jahre Lotsen-Reglements",
+      "bild_beschreibung": "Lotse und Steuermann",
+      "entwerfer": "Arthur Löffelhardt",
+      "auflage": 31800000,
+      "commons_datei": "DBP 1979 1022 3 Jahrhunderte Lotsen-Reglements.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lotse",
+          "beschriftung": "Lotse",
+          "haupt": true,
+          "artikel": "Lotse",
+          "wikidata": "Q475604"
+        },
+        {
+          "titel": "Steuermann",
+          "beschriftung": "Steuermann",
+          "haupt": false,
+          "artikel": "Steuermann",
+          "wikidata": "Q20820147"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1023",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Posthausschild aus Altheim an der Saar um 1754",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 27790000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Altheim (Blieskastel)",
+          "beschriftung": "Altheim an der Saar",
+          "haupt": false,
+          "artikel": "Altheim (Blieskastel)",
+          "wikidata": "Q440643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1024",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Blätter, Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Rotbuche, Fagus sylvatica",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 11700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotbuche",
+          "beschriftung": "Rotbuche",
+          "haupt": true,
+          "artikel": "Rotbuche",
+          "wikidata": "Q146149"
+        },
+        {
+          "titel": "Blatt (Pflanze)",
+          "beschriftung": "Blätter",
+          "haupt": false,
+          "artikel": "Blatt (Pflanze)",
+          "wikidata": "Q33971"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1025",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Blätter, Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Stieleiche, Quercus robur",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 14500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stieleiche",
+          "beschriftung": "Stieleiche",
+          "haupt": true,
+          "artikel": "Stieleiche",
+          "wikidata": "Q165145"
+        },
+        {
+          "titel": "Blatt (Pflanze)",
+          "beschriftung": "Blätter",
+          "haupt": false,
+          "artikel": "Blatt (Pflanze)",
+          "wikidata": "Q33971"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1026",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Blätter, Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Weißdorne, Crataegus",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 17100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weißdorne",
+          "beschriftung": "Weißdorne",
+          "haupt": true,
+          "artikel": "Weißdorne",
+          "wikidata": "Q132557"
+        },
+        {
+          "titel": "Blatt (Pflanze)",
+          "beschriftung": "Blätter",
+          "haupt": false,
+          "artikel": "Blatt (Pflanze)",
+          "wikidata": "Q33971"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1027",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Blätter, Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Bergkiefer, Pinus mugo",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bergkiefer",
+          "beschriftung": "Bergkiefer",
+          "haupt": true,
+          "artikel": "Bergkiefer",
+          "wikidata": "Q147475"
+        },
+        {
+          "titel": "Blatt (Pflanze)",
+          "beschriftung": "Blätter",
+          "haupt": false,
+          "artikel": "Blatt (Pflanze)",
+          "wikidata": "Q33971"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1029",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "90",
+      "waehrung": "Pf",
+      "anlass": "100. Geburtstag von Paul Klee (1879–1940)",
+      "bild_beschreibung": "Vogelgarten, Aquarell",
+      "entwerfer": "H. P. Schall",
+      "auflage": 15580000,
+      "commons_datei": "DBP 1979 1029 Paul Klee - Vogelgarten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Klee",
+          "beschriftung": "Paul Klee",
+          "haupt": true,
+          "artikel": "Paul Klee",
+          "wikidata": "Q44007"
+        },
+        {
+          "titel": "Aquarell",
+          "beschriftung": "Aquarell",
+          "haupt": false,
+          "artikel": "Aquarell",
+          "wikidata": "Q50030"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1030",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Johann Faust (um 1480 bis um 1541)",
+      "bild_beschreibung": "Doctor Faust mit Homunculus, Holzschnitt um 1616",
+      "entwerfer": "Heribert Burkert",
+      "auflage": 33330000,
+      "commons_datei": "DBP 1979 1030 Doctor Johannes Faust.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Georg Faust",
+          "beschriftung": "Johann Faust",
+          "haupt": true,
+          "artikel": "Johann Georg Faust",
+          "wikidata": "Q76918"
+        },
+        {
+          "titel": "Homunculus",
+          "beschriftung": "Homunculus",
+          "haupt": false,
+          "artikel": "Homunkulus",
+          "wikidata": "Q485205"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1031",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "Energie sparen",
+      "bild_beschreibung": "eine zur Hälfte verdunkelte Glühlampe",
+      "entwerfer": "Coordt von Mannstein",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1979 1031 Energie Sparen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Energieeinsparung",
+          "beschriftung": "Energie sparen",
+          "haupt": true,
+          "artikel": "Energieeinsparung",
+          "wikidata": "Q380170"
+        },
+        {
+          "titel": "Glühlampe",
+          "beschriftung": "Glühlampe",
+          "haupt": false,
+          "artikel": "Glühlampe",
+          "wikidata": "Q47616"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1032",
+      "art": "Sondermarke",
+      "ausgabetag": "1979-11-16",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Die Geburt Christi, Detail aus einer Handschrift der ehemaligen Zisterzienserabtei in Altenberg",
+      "entwerfer": "Willy Fleckhaus",
+      "auflage": 11200000,
+      "commons_datei": "DBP 1979 1032 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Abtei Altenberg",
+          "beschriftung": "Zisterzienserabtei",
+          "haupt": true,
+          "artikel": "Abtei Altenberg",
+          "wikidata": "Q125125"
+        },
+        {
+          "titel": "Altenberg (Bergisches Land)",
+          "beschriftung": "Altenberg",
+          "haupt": false,
+          "artikel": "Altenberg (Bergisches Land)",
+          "wikidata": "Q436691"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1028",
+      "art": "Dauermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Rheydt",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": true,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        },
+        {
+          "titel": "Schloss Rheydt",
+          "beschriftung": "Schloss Rheydt",
+          "haupt": false,
+          "artikel": "Schloss Rheydt",
+          "wikidata": "Q883459"
+        }
+      ]
+    }
+  ]
+}
