@@ -43,12 +43,18 @@ class Katalog private constructor(private val db: KatalogDb) {
 
     fun info(schluessel: String): String? = db.katalogQueries.info(schluessel).executeAsOneOrNull()?.wert
 
+    fun thema(id: Long): Thema? = db.katalogQueries.thema(id).executeAsOneOrNull()
+
     fun suche(text: String): List<Marke> {
+        val woerter = text.trim().split(Regex("\\s+")).filter { it.isNotBlank() }
+        if (woerter.isEmpty()) return emptyList()
         // Jedes Wort als Praefix, damit "Einst" schon Einstein findet.
-        val ausdruck = text.trim().split(Regex("\\s+")).filter { it.isNotBlank() }
-            .joinToString(" ") { "\"" + it.replace("\"", "") + "\"*" }
-        if (ausdruck.isBlank()) return emptyList()
-        return runCatching { db.katalogQueries.suche(ausdruck).executeAsList() }.getOrDefault(emptyList())
+        val ausdruck = woerter.joinToString(" ") { "\"" + it.replace("\"", "") + "\"*" }
+        return runCatching { db.katalogQueries.suche(ausdruck).executeAsList() }.getOrElse {
+            // Kein FTS5 auf dieser Plattform: einfache LIKE-Suche mit dem ganzen Text.
+            val muster = "%" + text.trim() + "%"
+            db.katalogQueries.sucheEinfach(muster, muster, muster, muster).executeAsList()
+        }
     }
 
     companion object {

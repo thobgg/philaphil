@@ -15,16 +15,20 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.Clear
+import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
@@ -39,6 +43,7 @@ import androidx.compose.ui.backhandler.BackHandler
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import de.bgghome.philaphil.daten.datumLesbar
@@ -49,6 +54,10 @@ import de.bgghome.philaphil.res.app_titel
 import de.bgghome.philaphil.res.fehler_laden
 import de.bgghome.philaphil.res.jahrgang_titel
 import de.bgghome.philaphil.res.jahrgang_untertitel
+import de.bgghome.philaphil.res.keine_treffer
+import de.bgghome.philaphil.res.suche_hinweis
+import de.bgghome.philaphil.res.suche_loeschen
+import de.bgghome.philaphil.res.suche_treffer
 import de.bgghome.philaphil.res.zurueck
 import org.jetbrains.compose.resources.stringResource
 
@@ -59,16 +68,21 @@ private val BREIT_AB = 840.dp
 fun AppRoot(viewModel: AppViewModel) {
     val zustand by viewModel.zustand.collectAsState()
 
-    BackHandler(enabled = zustand.vollbild || zustand.gewaehlt != null) { viewModel.zurueck() }
+    BackHandler(enabled = zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
+        viewModel.zurueck()
+    }
 
     BoxWithConstraints(Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background)) {
         val breit = maxWidth >= BREIT_AB
         when {
             zustand.vollbild && zustand.marke != null ->
                 Bildbetrachter(zustand, viewModel, onClose = { viewModel.vollbild(false) })
+            // Handy: Themenseite und Marke sind eigene Seiten mit Zurueck-Pfeil.
+            !breit && zustand.themaSeite != null ->
+                Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
             !breit && zustand.marke != null ->
-                MarkenSeite(zustand, viewModel, onZurueck = { viewModel.waehlen(null) })
-            else -> Scaffold(topBar = { JahrgangKopf(zustand) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
+                Seite("MiNr. ${zustand.marke!!.mi_nr}", onZurueck = { viewModel.waehlen(null) }) { MarkenDetail(zustand, viewModel) }
+            else -> Scaffold(topBar = { Kopf(zustand, viewModel) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
                 Row(Modifier.padding(innen).fillMaxSize()) {
                     Box(if (breit) Modifier.width(420.dp).fillMaxHeight() else Modifier.fillMaxSize()) {
                         Markenliste(zustand, onWahl = viewModel::waehlen)
@@ -76,11 +90,13 @@ fun AppRoot(viewModel: AppViewModel) {
                     if (breit) {
                         VerticalDivider(color = MaterialTheme.colorScheme.outlineVariant)
                         Box(Modifier.weight(1f).fillMaxHeight()) {
-                            val marke = zustand.marke
-                            if (marke != null) MarkenDetail(zustand, viewModel)
-                            else Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                                Text(stringResource(Res.string.jahrgang_untertitel), style = MaterialTheme.typography.bodyLarge,
-                                    color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(32.dp))
+                            when {
+                                zustand.themaSeite != null -> Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
+                                zustand.marke != null -> MarkenDetail(zustand, viewModel)
+                                else -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                                    Text(stringResource(Res.string.jahrgang_untertitel), style = MaterialTheme.typography.bodyLarge,
+                                        color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(32.dp))
+                                }
                             }
                         }
                     }
@@ -90,30 +106,56 @@ fun AppRoot(viewModel: AppViewModel) {
     }
 }
 
+/** Kopfzeile mit Jahrgang und Suchfeld. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-private fun JahrgangKopf(zustand: AppZustand) {
-    TopAppBar(
-        title = {
-            Column {
-                Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()))
-                Text(stringResource(Res.string.app_titel), style = MaterialTheme.typography.bodyMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant)
-            }
-        },
-        colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.surface),
-    )
+private fun Kopf(zustand: AppZustand, viewModel: AppViewModel) {
+    Column(Modifier.background(MaterialTheme.colorScheme.surface)) {
+        TopAppBar(
+            title = {
+                Column {
+                    Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()))
+                    Text(stringResource(Res.string.app_titel), style = MaterialTheme.typography.bodyMedium,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant)
+                }
+            },
+            colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.surface),
+        )
+        OutlinedTextField(
+            value = zustand.suchtext,
+            onValueChange = viewModel::suchen,
+            singleLine = true,
+            placeholder = { Text(stringResource(Res.string.suche_hinweis)) },
+            leadingIcon = { Icon(Icons.Default.Search, contentDescription = null) },
+            trailingIcon = {
+                if (zustand.suchtext.isNotEmpty()) IconButton(onClick = { viewModel.suchen("") }) {
+                    Icon(Icons.Default.Clear, contentDescription = stringResource(Res.string.suche_loeschen))
+                }
+            },
+            keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp),
+        )
+        Spacer(Modifier.height(6.dp))
+    }
 }
 
 @Composable
-private fun Markenliste(zustand: AppZustand, onWahl: (Int) -> Unit) {
+private fun Markenliste(zustand: AppZustand, onWahl: (Marke) -> Unit) {
     when {
         zustand.laedt -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
         zustand.fehler != null -> Text(stringResource(Res.string.fehler_laden, zustand.fehler), Modifier.padding(24.dp),
             color = MaterialTheme.colorScheme.error)
+        zustand.suchtreffer?.isEmpty() == true -> Text(stringResource(Res.string.keine_treffer), Modifier.padding(24.dp),
+            color = MaterialTheme.colorScheme.onSurfaceVariant)
         else -> LazyColumn(Modifier.fillMaxSize()) {
-            itemsIndexed(zustand.marken, key = { _, m -> m.id }) { index, marke ->
-                MarkenZeile(marke, zustand, gewaehlt = zustand.gewaehlt == index, onClick = { onWahl(index) })
+            if (zustand.suchtreffer != null) {
+                item {
+                    Text(stringResource(Res.string.suche_treffer, zustand.suchtreffer.size), Modifier.padding(horizontal = 12.dp, vertical = 6.dp),
+                        style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                }
+            }
+            items(zustand.liste, key = { it.id }) { marke ->
+                MarkenZeile(marke, zustand, gewaehlt = zustand.marke?.id == marke.id, mitJahr = zustand.suchtreffer != null, onClick = { onWahl(marke) })
                 HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
             }
         }
@@ -121,7 +163,7 @@ private fun Markenliste(zustand: AppZustand, onWahl: (Int) -> Unit) {
 }
 
 @Composable
-private fun MarkenZeile(marke: Marke, zustand: AppZustand, gewaehlt: Boolean, onClick: () -> Unit) {
+fun MarkenZeile(marke: Marke, zustand: AppZustand, gewaehlt: Boolean, mitJahr: Boolean, onClick: () -> Unit) {
     val hintergrund = if (gewaehlt) MaterialTheme.colorScheme.primaryContainer else MaterialTheme.colorScheme.background
     Row(
         Modifier.fillMaxWidth().background(hintergrund).clickable(onClick = onClick).padding(horizontal = 12.dp, vertical = 10.dp),
@@ -136,7 +178,8 @@ private fun MarkenZeile(marke: Marke, zustand: AppZustand, gewaehlt: Boolean, on
                     color = MaterialTheme.colorScheme.onSurfaceVariant)
             }
             Spacer(Modifier.height(4.dp))
-            Text("MiNr. ${marke.mi_nr} · ${wertLesbar(marke)} · ${datumLesbar(marke.ausgabetag)}",
+            val nummer = if (mitJahr) "${marke.gebiet} ${marke.jahr} · MiNr. ${marke.mi_nr}" else "MiNr. ${marke.mi_nr}"
+            Text("$nummer · ${wertLesbar(marke)} · ${datumLesbar(marke.ausgabetag)}",
                 style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
         }
     }
@@ -157,14 +200,14 @@ fun MarkenBild(url: String?, marke: Marke, modifier: Modifier = Modifier, conten
     }
 }
 
-/** Handy: die gewaehlte Marke als eigene Seite mit Zurueck-Pfeil. */
+/** Eine Unterseite mit Titel und Zurueck-Pfeil (Handy: ganze Seite, Tablet: rechte Spalte). */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-private fun MarkenSeite(zustand: AppZustand, viewModel: AppViewModel, onZurueck: () -> Unit) {
+private fun Seite(titel: String, onZurueck: () -> Unit, inhalt: @Composable () -> Unit) {
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("MiNr. ${zustand.marke?.mi_nr.orEmpty()}") },
+                title = { Text(titel, maxLines = 1) },
                 navigationIcon = {
                     IconButton(onClick = onZurueck) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = stringResource(Res.string.zurueck)) }
                 },
@@ -172,5 +215,5 @@ private fun MarkenSeite(zustand: AppZustand, viewModel: AppViewModel, onZurueck:
             )
         },
         containerColor = MaterialTheme.colorScheme.background,
-    ) { innen -> Box(Modifier.padding(innen)) { MarkenDetail(zustand, viewModel) } }
+    ) { innen -> Box(Modifier.padding(innen)) { inhalt() } }
 }

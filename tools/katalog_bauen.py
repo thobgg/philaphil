@@ -115,15 +115,23 @@ def bauen(ziel):
     db.executescript(SCHEMA)
 
     themen_ids = {}     # Schlüssel (wikidata oder titel) -> thema.id
+    # Kurztexte aus Wikipedia (tools/themen_laden.py) und eigene Ergänzungen
+    texte = json.loads((DATEN / "themen.json").read_text(encoding="utf-8")) if (DATEN / "themen.json").exists() else {}
+    hand_themen = json.loads((DATEN / "themen.hand.json").read_text(encoding="utf-8")) if (DATEN / "themen.hand.json").exists() else {}
 
     def thema_id(t):
         schluessel = t.get("wikidata") or "titel:" + t["artikel"]
         if schluessel in themen_ids:
             return themen_ids[schluessel]
-        url = "https://de.wikipedia.org/wiki/" + t["artikel"].replace(" ", "_")
+        text = texte.get(schluessel, {})
+        hand = hand_themen.get(schluessel, {})
+        url = text.get("quelle_url") or "https://de.wikipedia.org/wiki/" + t["artikel"].replace(" ", "_")
+        kurztext, quelle = text.get("kurztext"), "wikipedia" if text.get("kurztext") else None
+        if hand.get("kurztext"):
+            kurztext, quelle = hand["kurztext"], "eigen"
         cur = db.execute(
-            "INSERT INTO thema (wikidata, titel, artikel_url, quelle) VALUES (?, ?, ?, 'wikipedia')",
-            (t.get("wikidata"), t["artikel"], url))
+            "INSERT INTO thema (wikidata, titel, artikel_url, kurztext, wusstest_du, quelle, geladen_am) VALUES (?,?,?,?,?,?,?)",
+            (t.get("wikidata") or text.get("wikidata"), text.get("titel") or t["artikel"], url, kurztext, hand.get("wusstest_du"), quelle, text.get("geladen_am")))
         themen_ids[schluessel] = cur.lastrowid
         return cur.lastrowid
 
@@ -172,7 +180,16 @@ def bauen(ziel):
     db.commit()
     db.execute("VACUUM")
     db.close()
-    print(f"{anzahl} Marken, {len(themen_ids)} Themen -> {ziel}", file=sys.stderr)
+    mit_text = db_zaehlen(ziel, "SELECT COUNT(*) FROM thema WHERE kurztext IS NOT NULL")
+    print(f"{anzahl} Marken, {len(themen_ids)} Themen ({mit_text} mit Kurztext) -> {ziel}", file=sys.stderr)
+
+
+def db_zaehlen(ziel, sql):
+    db = sqlite3.connect(ziel)
+    try:
+        return db.execute(sql).fetchone()[0]
+    finally:
+        db.close()
 
 
 def main():

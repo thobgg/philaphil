@@ -57,17 +57,18 @@ private const val DOPPELTIPP_ZOOM = 2.5f
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun Bildbetrachter(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> Unit) {
-    val mitBild = remember(zustand.marken, zustand.bilder) {
-        zustand.marken.withIndex().mapNotNull { (i, m) -> zustand.bild(m)?.let { Triple(i, m, it) } }
+    val liste = zustand.liste
+    val mitBild = remember(liste, zustand.bilder) {
+        liste.withIndex().mapNotNull { (i, m) -> zustand.bild(m)?.let { Triple(i, m, it) } }
     }
     if (mitBild.isEmpty()) { onClose(); return }
-    val start = mitBild.indexOfFirst { it.first == zustand.gewaehlt }.coerceAtLeast(0)
+    val start = mitBild.indexOfFirst { it.second.id == zustand.marke?.id }.coerceAtLeast(0)
     val pager = rememberPagerState(initialPage = start) { mitBild.size }
     var leiste by remember { mutableStateOf(true) }
     var gezoomt by remember { mutableStateOf(false) }
 
     // Die Auswahl in der Liste folgt dem Wischen, damit Liste und Themenkarte nach dem Schliessen passen.
-    LaunchedEffect(pager.currentPage) { viewModel.waehlen(mitBild[pager.currentPage].first) }
+    LaunchedEffect(pager.currentPage) { viewModel.waehlen(mitBild[pager.currentPage].second) }
 
     Box(Modifier.fillMaxSize().background(Color.Black)) {
         HorizontalPager(state = pager, userScrollEnabled = !gezoomt, beyondViewportPageCount = 1, modifier = Modifier.fillMaxSize()) { seite ->
