@@ -7,6 +7,7 @@ import de.bgghome.philaphil.daten.BildInfo
 import de.bgghome.philaphil.daten.CommonsBilder
 import de.bgghome.philaphil.daten.Katalog
 import de.bgghome.philaphil.daten.MarkenThema
+import de.bgghome.philaphil.db.Jahrgaenge
 import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.db.Quelle
 import de.bgghome.philaphil.db.Thema
@@ -28,6 +29,8 @@ data class AppZustand(
     val fehler: String? = null,
     val gebiet: String = "Bund",
     val jahr: Long = 1979,
+    /** Alle Jahrgaenge im Katalog, zum Blaettern. */
+    val jahrgaenge: List<Jahrgaenge> = emptyList(),
     /** Die Marken des Jahrgangs. */
     val jahrgang: List<Marke> = emptyList(),
     val quelle: Quelle? = null,
@@ -47,6 +50,9 @@ data class AppZustand(
     /** Was die Liste zeigt: Suchtreffer oder der Jahrgang. */
     val liste: List<Marke> get() = suchtreffer ?: jahrgang
     val hauptthema: MarkenThema? get() = themen.firstOrNull { it.haupt }
+    private val jahrIndex: Int get() = jahrgaenge.indexOfFirst { it.gebiet == gebiet && it.jahr == jahr }
+    val voriger: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex - 1)
+    val naechster: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex + 1)
     fun bild(marke: Marke?): BildInfo? = marke?.commons_datei?.let { bilder[it] }
 }
 
@@ -63,16 +69,28 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         viewModelScope.launch {
             try {
                 val k = Katalog.oeffnen(plattform.datenOrdner).also { katalog = it }
-                val z = _zustand.value
-                val marken = withContext(Dispatchers.IO) { k.markenImJahr(z.gebiet, z.jahr) }
-                val quelle = withContext(Dispatchers.IO) { k.quelle(z.gebiet, z.jahr) }
-                _zustand.update { it.copy(laedt = false, jahrgang = marken, quelle = quelle) }
-                bilderNachladen(marken)
-                startMiNr?.let { nr -> marken.firstOrNull { it.mi_nr == nr }?.let(::waehlen) }
+                val jahrgaenge = withContext(Dispatchers.IO) { k.jahrgaenge }
+                _zustand.update { it.copy(jahrgaenge = jahrgaenge) }
+                jahrgangLaden(_zustand.value.gebiet, _zustand.value.jahr)
+                startMiNr?.let { nr -> _zustand.value.jahrgang.firstOrNull { it.mi_nr == nr }?.let(::waehlen) }
             } catch (e: Exception) {
                 _zustand.update { it.copy(laedt = false, fehler = e.message ?: e.toString()) }
             }
         }
+    }
+
+    private suspend fun jahrgangLaden(gebiet: String, jahr: Long) {
+        val k = katalog ?: return
+        val marken = withContext(Dispatchers.IO) { k.markenImJahr(gebiet, jahr) }
+        val quelle = withContext(Dispatchers.IO) { k.quelle(gebiet, jahr) }
+        _zustand.update { it.copy(laedt = false, gebiet = gebiet, jahr = jahr, jahrgang = marken, quelle = quelle) }
+        bilderNachladen(marken)
+    }
+
+    /** Blaettern wie im Geschichtsbuch: anderer Jahrgang, Auswahl und Suche zu. */
+    fun jahrgangWaehlen(j: Jahrgaenge) {
+        _zustand.update { it.copy(marke = null, themen = emptyList(), themaSeite = null, suchtext = "", suchtreffer = null) }
+        viewModelScope.launch { jahrgangLaden(j.gebiet, j.jahr) }
     }
 
     /** Bildadressen und Lizenzen - erst aus der Ablage, sonst von Commons. */

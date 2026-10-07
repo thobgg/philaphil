@@ -57,6 +57,7 @@ CREATE TABLE marke (
   zaehnung TEXT,                 -- später von Hand ergänzt
   druckart TEXT,                 -- später von Hand ergänzt
   commons_datei TEXT,
+  block TEXT,                    -- 'Block 16', wenn nur im Block erschienen
   UNIQUE (gebiet, mi_nr)
 );
 CREATE INDEX marke_jahr ON marke (gebiet, jahr, sortier_nr);
@@ -152,13 +153,13 @@ def bauen(ziel):
                 hand_anwenden(mk, hand[mk["mi_nr"]])
             ziffern = "".join(ch for ch in mk["mi_nr"] if ch.isdigit())
             cur = db.execute("""INSERT INTO marke (gebiet, mi_nr, sortier_nr, jahr, art, ausgabetag, wert, waehrung,
-                anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei)
-                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
+                anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei, block)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
                 jahrgang["gebiet"], mk["mi_nr"], int(ziffern) if ziffern else None, jahrgang["jahr"],
                 mk.get("art"), mk.get("ausgabetag"), mk.get("wert"), mk.get("waehrung"),
                 mk.get("anlass"), 1 if mk.get("satz") else 0, mk.get("bild_beschreibung"),
                 mk.get("entwerfer"), mk.get("auflage"), mk.get("zaehnung"), mk.get("druckart"),
-                mk.get("commons_datei")))
+                mk.get("commons_datei"), mk.get("block")))
             marke_id = cur.lastrowid
             for reihe, t in enumerate(mk.get("themen", [])):
                 db.execute("INSERT OR IGNORE INTO marke_thema VALUES (?,?,?,?)",

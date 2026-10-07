@@ -1,0 +1,1320 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1978,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1978 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1978_der_Deutschen_Bundespost",
+    "revision": 259356012,
+    "abgerufen": "2026-10-07",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 956,
+    "mi_nr_bis": 999,
+    "luecken": [
+      991
+    ],
+    "sondermarken_gezaehlt": 34,
+    "sondermarken_laut_einleitung": 34
+  },
+  "marken": [
+    {
+      "mi_nr": "956",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "100. Geburtstag von Rudolf Alexander Schröder (1878–1962)",
+      "bild_beschreibung": "Buchumschlag",
+      "entwerfer": "Günter Jacki",
+      "auflage": 31800000,
+      "commons_datei": "DBP 1978 956 Rudolf Alexander Schröder.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rudolf Alexander Schröder",
+          "beschriftung": "Rudolf Alexander Schröder",
+          "haupt": true,
+          "artikel": "Rudolf Alexander Schröder",
+          "wikidata": "Q76332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "957",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "20 Jahre Friedlandhilfe",
+      "bild_beschreibung": "",
+      "entwerfer": "Albrecht Ade",
+      "auflage": 30200000,
+      "commons_datei": "DBP 1978 957 Friedlandhilfe.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lager Friedland",
+          "beschriftung": "Friedlandhilfe",
+          "haupt": true,
+          "artikel": "Grenzdurchgangslager Friedland",
+          "wikidata": "Q325176"
+        }
+      ]
+    },
+    {
+      "mi_nr": "958",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-12",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Abfahrtslauf",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 6751000,
+      "commons_datei": "DBP 1978 958 Sporthilfe, Abfahrtslauf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Abfahrt",
+          "beschriftung": "Abfahrt",
+          "haupt": true,
+          "artikel": "Abfahrt",
+          "wikidata": "Q319899"
+        },
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "959",
+      "block": "Block 16",
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "anlass": "Briefmarkenblock – Nobelpreisträger deutschsprachiger Literatur",
+      "bild_beschreibung": "Gerhart Hauptmann (1862–1946)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": true,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "960",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Briefmarkenblock – Nobelpreisträger deutschsprachiger Literatur",
+      "bild_beschreibung": "Hermann Hesse (1877–1962)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hermann Hesse",
+          "beschriftung": "Hermann Hesse",
+          "haupt": true,
+          "artikel": "Hermann Hesse",
+          "wikidata": "Q25973"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "961",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-16",
+      "wert": "70",
+      "waehrung": "Pf",
+      "anlass": "Briefmarkenblock – Nobelpreisträger deutschsprachiger Literatur",
+      "bild_beschreibung": "Thomas Mann (1875–1955)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thomas Mann",
+          "beschriftung": "Thomas Mann",
+          "haupt": true,
+          "artikel": "Thomas Mann",
+          "wikidata": "Q37030"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "962",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "100. Geburtstag von Martin Buber (1878–1965)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin Buber",
+          "beschriftung": "Martin Buber",
+          "haupt": true,
+          "artikel": "Martin Buber",
+          "wikidata": "Q84423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "963",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "75 Jahre Deutsches Museum München",
+      "bild_beschreibung": "Aussichtsturm und Sternwarte, nach einem Plakat von Ludwig Hohlwein",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Museum",
+          "beschriftung": "Deutsches Museum",
+          "haupt": true,
+          "artikel": "Deutsches Museum",
+          "wikidata": "Q131617"
+        },
+        {
+          "titel": "Aussichtsturm",
+          "beschriftung": "Aussichtsturm",
+          "haupt": false,
+          "artikel": "Aussichtsturm",
+          "wikidata": "Q1440300"
+        },
+        {
+          "titel": "Sternwarte",
+          "beschriftung": "Sternwarte",
+          "haupt": false,
+          "artikel": "Sternwarte",
+          "wikidata": "Q1254933"
+        },
+        {
+          "titel": "Plakat",
+          "beschriftung": "Plakat",
+          "haupt": false,
+          "artikel": "Plakat",
+          "wikidata": "Q429785"
+        },
+        {
+          "titel": "Ludwig Hohlwein",
+          "beschriftung": "Ludwig Hohlwein",
+          "haupt": false,
+          "artikel": "Ludwig Hohlwein",
+          "wikidata": "Q314525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "964",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Ballonfahrt auf dem Oktoberfest in München von 1820",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5921000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ballonfahrt",
+          "beschriftung": "Ballonfahrt",
+          "haupt": true,
+          "artikel": "Ballonfahren",
+          "wikidata": "Q805325"
+        },
+        {
+          "titel": "Oktoberfest",
+          "beschriftung": "Oktoberfest",
+          "haupt": false,
+          "artikel": "Oktoberfest",
+          "wikidata": "Q102400"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "965",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Luftschiff LZ 1",
+      "entwerfer": "Fritz Haase",
+      "auflage": 6307000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeppelin",
+          "beschriftung": "Luftschiff LZ 1",
+          "haupt": true,
+          "artikel": "Zeppelin",
+          "wikidata": "Q191413"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "966",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Eindecker von Louis Blériot",
+      "entwerfer": "Fritz Haase",
+      "auflage": 6073000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eindecker",
+          "beschriftung": "Eindecker",
+          "haupt": true,
+          "artikel": "Eindecker",
+          "wikidata": "Q627537"
+        },
+        {
+          "titel": "Louis Blériot",
+          "beschriftung": "Louis Blériot",
+          "haupt": false,
+          "artikel": "Louis Blériot",
+          "wikidata": "Q5396"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "967",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "anlass": "Für die Jugend, Luftfahrt",
+      "bild_beschreibung": "Eindecker von Hans Grade",
+      "entwerfer": "Fritz Haase",
+      "auflage": 5687000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Grade",
+          "beschriftung": "Hans Grade",
+          "haupt": true,
+          "artikel": "Hans Grade",
+          "wikidata": "Q84916"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "968",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "anlass": "Sporthilfe",
+      "bild_beschreibung": "Springreiten",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 4895000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": true,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        }
+      ]
+    },
+    {
+      "mi_nr": "969",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "Europamarken, Baudenkmäler",
+      "bild_beschreibung": "Altes Rathaus Bamberg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 51500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Bamberg)",
+          "beschriftung": "Altes Rathaus Bamberg",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Bamberg)",
+          "wikidata": "Q439335"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "970",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Europamarken, Baudenkmäler",
+      "bild_beschreibung": "Altes Rathaus Regensburg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 140050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Regensburg)",
+          "beschriftung": "Altes Rathaus Regensburg",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Regensburg)",
+          "wikidata": "Q439447"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "971",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-22",
+      "wert": "70",
+      "waehrung": "Pf",
+      "anlass": "Europamarken, Baudenkmäler",
+      "bild_beschreibung": "Altes Rathaus Esslingen",
+      "entwerfer": "Otto Rohse",
+      "auflage": 31300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten der Stadt Esslingen am Neckar",
+          "beschriftung": "Altes Rathaus Esslingen",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten der Stadt Esslingen am Neckar",
+          "wikidata": "Q2266323"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "972",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Rattenfänger von Hameln",
+      "bild_beschreibung": "Der Rattenfänger gefolgt von einer Kinderschar",
+      "entwerfer": "Günter Jacki",
+      "auflage": 32800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rattenfänger von Hameln",
+          "beschriftung": "Rattenfänger von Hameln",
+          "haupt": true,
+          "artikel": "Rattenfänger von Hameln",
+          "wikidata": "Q111502"
+        }
+      ]
+    },
+    {
+      "mi_nr": "973",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-13",
+      "wert": "90",
+      "waehrung": "Pf",
+      "anlass": "100. Geburtstag von Janusz Korczak (1878–1942)",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Magnus",
+      "auflage": 20400000,
+      "commons_datei": "DBP 1978 973 Janusz Korczak.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Janusz Korczak",
+          "beschriftung": "Janusz Korczak",
+          "haupt": true,
+          "artikel": "Janusz Korczak",
+          "wikidata": "Q152441"
+        }
+      ]
+    },
+    {
+      "mi_nr": "974",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "anlass": "Fossilien",
+      "bild_beschreibung": "fossile Fledermaus Palaeochiropteryx tupaiodon",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 8600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fledermäuse",
+          "beschriftung": "Fledermaus",
+          "haupt": true,
+          "artikel": "Fledermäuse",
+          "wikidata": "Q971343"
+        },
+        {
+          "titel": "Fossilien",
+          "beschriftung": "Fossilien",
+          "haupt": false,
+          "artikel": "Fossil",
+          "wikidata": "Q40614"
+        }
+      ]
+    },
+    {
+      "mi_nr": "975",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-13",
+      "wert": "200",
+      "waehrung": "Pf",
+      "anlass": "Fossilien",
+      "bild_beschreibung": "fossiles Urpferdchen Propalaeotherium messelense",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Propalaeotherium",
+          "beschriftung": "Urpferdchen",
+          "haupt": true,
+          "artikel": "Propalaeotherium",
+          "wikidata": "Q133295"
+        },
+        {
+          "titel": "Fossilien",
+          "beschriftung": "Fossilien",
+          "haupt": false,
+          "artikel": "Fossil",
+          "wikidata": "Q40614"
+        }
+      ]
+    },
+    {
+      "mi_nr": "976",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-17",
+      "wert": "70",
+      "waehrung": "Pf",
+      "anlass": "Interparlamentarische Konferenz in Bonn",
+      "bild_beschreibung": "Bundeshaus in Bonn",
+      "entwerfer": "Erwin Poell",
+      "auflage": 21150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Interparlamentarische Union",
+          "beschriftung": "Interparlamentarische Konferenz",
+          "haupt": true,
+          "artikel": "Interparlamentarische Union",
+          "wikidata": "Q176815"
+        },
+        {
+          "titel": "Bundeshaus (Bonn)",
+          "beschriftung": "Bundeshaus",
+          "haupt": false,
+          "artikel": "Bundeshaus (Bonn)",
+          "wikidata": "Q1006170"
+        }
+      ]
+    },
+    {
+      "mi_nr": "977",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "85. Deutscher Katholikentag Freiburg",
+      "bild_beschreibung": "Rosettenfenster des Freiburger Münsters",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 34700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Rosette (Architektur)",
+          "beschriftung": "Rosettenfenster",
+          "haupt": false,
+          "artikel": "Fensterrose",
+          "wikidata": "Q174520"
+        },
+        {
+          "titel": "Freiburger Münster",
+          "beschriftung": "Freiburger Münster",
+          "haupt": false,
+          "artikel": "Freiburger Münster",
+          "wikidata": "Q250212"
+        }
+      ]
+    },
+    {
+      "mi_nr": "978",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "anlass": "200. Geburtstag von Clemens Brentano (1778–1842)",
+      "bild_beschreibung": "Der Dichter als Schmetterling nach einem Scherenschnitt von Luise Duttenhofer",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Clemens Brentano",
+          "beschriftung": "Clemens Brentano",
+          "haupt": true,
+          "artikel": "Clemens Brentano",
+          "wikidata": "Q57235"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterling",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        },
+        {
+          "titel": "Scherenschnitt",
+          "beschriftung": "Scherenschnitt",
+          "haupt": false,
+          "artikel": "Scherenschnitt",
+          "wikidata": "Q12969198"
+        },
+        {
+          "titel": "Luise Duttenhofer",
+          "beschriftung": "Luise Duttenhofer",
+          "haupt": false,
+          "artikel": "Luise Duttenhofer",
+          "wikidata": "Q1876606"
+        }
+      ]
+    },
+    {
+      "mi_nr": "979",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-17",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "25 Jahre Europäische Konvention zum Schutz der Menschenrechte",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 31450000,
+      "commons_datei": "DBP 1978 979 Menschenrechte.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europäische Menschenrechtskonvention",
+          "beschriftung": "Europäische Konvention zum Schutz der Menschenrechte",
+          "haupt": true,
+          "artikel": "Europäische Menschenrechtskonvention",
+          "wikidata": "Q183191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "980",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Posthausschild Baden, um 1844",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 59095750,
+      "commons_datei": "DBP 1978 980 Tag der Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baden (Land)",
+          "beschriftung": "Baden",
+          "haupt": true,
+          "artikel": "Baden (Land)",
+          "wikidata": "Q6877935"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "981",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Sachsendreier",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 59095750,
+      "commons_datei": "DBP 1978 981 Tag der Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sachsendreier",
+          "beschriftung": "Sachsendreier",
+          "haupt": true,
+          "artikel": "Sachsendreier",
+          "wikidata": "Q317127"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "982",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Waldblumen",
+      "bild_beschreibung": "Aronstab, Arum maculatum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 15454000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aronstab",
+          "beschriftung": "Aronstab",
+          "haupt": true,
+          "artikel": "Aronstab",
+          "wikidata": "Q161121"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "983",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Waldblumen",
+      "bild_beschreibung": "Goldnessel, Lamiastrum galeobdolon",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 13956000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewöhnliche Goldnessel",
+          "beschriftung": "Goldnessel",
+          "haupt": true,
+          "artikel": "Gewöhnliche Goldnessel",
+          "wikidata": "Q159749"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "984",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Waldblumen",
+      "bild_beschreibung": "Türkenbund, Lilium martagon",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 16157000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Türkenbund",
+          "beschriftung": "Türkenbund",
+          "haupt": true,
+          "artikel": "Türkenbund",
+          "wikidata": "Q156363"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "985",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "anlass": "Wohlfahrtsmarken: Waldblumen",
+      "bild_beschreibung": "Leberblümchen, Hepatica nobilis",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7154000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leberblümchen",
+          "beschriftung": "Leberblümchen",
+          "haupt": true,
+          "artikel": "Leberblümchen",
+          "wikidata": "Q161050"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "986",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "anlass": "Deutscher Impressionismus",
+      "bild_beschreibung": "Ostern am Walchensee von Lovis Corinth",
+      "entwerfer": "H. P. Schall",
+      "auflage": 31600000,
+      "commons_datei": "DBP 1978 986 Lovis Corinth - Ostern am Walchensee.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lovis Corinth",
+          "beschriftung": "Lovis Corinth",
+          "haupt": true,
+          "artikel": "Lovis Corinth",
+          "wikidata": "Q157610"
+        },
+        {
+          "titel": "Impressionismus",
+          "beschriftung": "Impressionismus",
+          "haupt": false,
+          "artikel": "Impressionismus",
+          "wikidata": "Q40415"
+        }
+      ]
+    },
+    {
+      "mi_nr": "987",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "70",
+      "waehrung": "Pf",
+      "anlass": "Deutscher Impressionismus",
+      "bild_beschreibung": "Reiter nach links am Strand von Max Liebermann",
+      "entwerfer": "H. P. Schall",
+      "auflage": 21100000,
+      "commons_datei": "DBP 1978 987 Max Liebermann - Reiter nach links am Strand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Liebermann",
+          "beschriftung": "Max Liebermann",
+          "haupt": true,
+          "artikel": "Max Liebermann",
+          "wikidata": "Q158062"
+        },
+        {
+          "titel": "Impressionismus",
+          "beschriftung": "Impressionismus",
+          "haupt": false,
+          "artikel": "Impressionismus",
+          "wikidata": "Q40415"
+        }
+      ]
+    },
+    {
+      "mi_nr": "988",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "120",
+      "waehrung": "Pf",
+      "anlass": "Deutscher Impressionismus",
+      "bild_beschreibung": "Dame mit Katze von Max Slevogt",
+      "entwerfer": "H. P. Schall",
+      "auflage": 9800000,
+      "commons_datei": "DBP 1978 988 Max Slevogt - Dame mit Katze.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Slevogt",
+          "beschriftung": "Max Slevogt",
+          "haupt": true,
+          "artikel": "Max Slevogt",
+          "wikidata": "Q703356"
+        },
+        {
+          "titel": "Impressionismus",
+          "beschriftung": "Impressionismus",
+          "haupt": false,
+          "artikel": "Impressionismus",
+          "wikidata": "Q40415"
+        }
+      ]
+    },
+    {
+      "mi_nr": "989",
+      "block": "Block 17",
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "anlass": "Briefmarkenblock – Weihnachtsmarke",
+      "bild_beschreibung": "Das Christkind, Ausschnitt aus einem Fenster der Frauenkirche in München",
+      "entwerfer": "Willy Fleckhaus",
+      "auflage": 10356000,
+      "commons_datei": "DBP 1978 989 Weihnachten 1978.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauenkirche (München)",
+          "beschriftung": "Frauenkirche",
+          "haupt": true,
+          "artikel": "Frauenkirche (München)",
+          "wikidata": "Q167193"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "990",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Röntgengerät",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 3125000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Röntgenröhre",
+          "beschriftung": "Röntgengerät",
+          "haupt": true,
+          "artikel": "Röntgenröhre",
+          "wikidata": "Q174443"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "992",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "150",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Löffelbagger",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löffelbagger",
+          "beschriftung": "Löffelbagger",
+          "haupt": true,
+          "artikel": "Bagger",
+          "wikidata": "Q182661"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "993",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "180",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Radlader",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 69000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radlader",
+          "beschriftung": "Radlader",
+          "haupt": true,
+          "artikel": "Radlader",
+          "wikidata": "Q217416"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "994",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "230",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Flughafen Frankfurt Main",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 80000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Frankfurt Main",
+          "beschriftung": "Flughafen Frankfurt Main",
+          "haupt": true,
+          "artikel": "Flughafen Frankfurt Main",
+          "wikidata": "Q46033"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "995",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Pfaueninsel Berlin",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Pfaueninsel",
+          "beschriftung": "Schloss Pfaueninsel Berlin",
+          "haupt": true,
+          "artikel": "Schloss Pfaueninsel",
+          "wikidata": "Q1229920"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "996",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-01-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Gemen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Gemen",
+          "beschriftung": "Burg Gemen",
+          "haupt": true,
+          "artikel": "Burg Gemen",
+          "wikidata": "Q1011929"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "997",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-01-11",
+      "wert": "90",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Vischering",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 207390000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Vischering",
+          "beschriftung": "Burg Vischering",
+          "haupt": true,
+          "artikel": "Burg Vischering",
+          "wikidata": "Q449031"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "998",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "210",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schwanenburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 107892000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwanenburg",
+          "beschriftung": "Schwanenburg",
+          "haupt": true,
+          "artikel": "Schwanenburg",
+          "wikidata": "Q316178"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "999",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "230",
+      "waehrung": "Pf",
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Lichtenberg in der Pfalz",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 169242000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Lichtenberg (Pfalz)",
+          "beschriftung": "Burg Lichtenberg",
+          "haupt": true,
+          "artikel": "Burg Lichtenberg (Pfalz)",
+          "wikidata": "Q885150"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}

@@ -20,6 +20,8 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
+import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.CircularProgressIndicator
@@ -54,6 +56,8 @@ import de.bgghome.philaphil.res.app_titel
 import de.bgghome.philaphil.res.fehler_laden
 import de.bgghome.philaphil.res.jahrgang_titel
 import de.bgghome.philaphil.res.jahrgang_untertitel
+import de.bgghome.philaphil.res.jahrgang_vor
+import de.bgghome.philaphil.res.jahrgang_zurueck
 import de.bgghome.philaphil.res.keine_treffer
 import de.bgghome.philaphil.res.suche_hinweis
 import de.bgghome.philaphil.res.suche_loeschen
@@ -119,6 +123,20 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel) {
                         color = MaterialTheme.colorScheme.onSurfaceVariant)
                 }
             },
+            actions = {
+                // Blaettern durch die Jahrgaenge wie durch ein Geschichtsbuch
+                val voriger = zustand.voriger
+                val naechster = zustand.naechster
+                IconButton(onClick = { voriger?.let(viewModel::jahrgangWaehlen) }, enabled = voriger != null) {
+                    Icon(Icons.AutoMirrored.Filled.KeyboardArrowLeft, contentDescription = stringResource(Res.string.jahrgang_zurueck))
+                }
+                Text(voriger?.jahr?.toString() ?: "", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Spacer(Modifier.width(8.dp))
+                Text(naechster?.jahr?.toString() ?: "", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                IconButton(onClick = { naechster?.let(viewModel::jahrgangWaehlen) }, enabled = naechster != null) {
+                    Icon(Icons.AutoMirrored.Filled.KeyboardArrowRight, contentDescription = stringResource(Res.string.jahrgang_vor))
+                }
+            },
             colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.surface),
         )
         OutlinedTextField(
@@ -178,7 +196,8 @@ fun MarkenZeile(marke: Marke, zustand: AppZustand, gewaehlt: Boolean, mitJahr: B
                     color = MaterialTheme.colorScheme.onSurfaceVariant)
             }
             Spacer(Modifier.height(4.dp))
-            val nummer = if (mitJahr) "${marke.gebiet} ${marke.jahr} · MiNr. ${marke.mi_nr}" else "MiNr. ${marke.mi_nr}"
+            val nummer = (if (mitJahr) "${marke.gebiet} ${marke.jahr} · MiNr. ${marke.mi_nr}" else "MiNr. ${marke.mi_nr}") +
+                (marke.block?.let { " · $it" } ?: "")
             Text("$nummer · ${wertLesbar(marke)} · ${datumLesbar(marke.ausgabetag)}",
                 style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
         }
