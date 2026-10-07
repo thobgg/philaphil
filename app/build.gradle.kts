@@ -54,6 +54,15 @@ android {
     }
     kotlinOptions { jvmTarget = "11" }
     buildFeatures { compose = true }
+
+    // Dateiname des Pakets: PhilaAnd-0.1.apk bzw. PhilaAnd-0.1-debug.apk (App heisst weiter PhilaPhil)
+    applicationVariants.all {
+        val variante = this
+        outputs.all {
+            (this as com.android.build.gradle.internal.api.BaseVariantOutputImpl).outputFileName =
+                "PhilaAnd-${variante.versionName}" + (if (variante.buildType.name == "debug") "-debug" else "") + ".apk"
+        }
+    }
 }
 
 dependencies {

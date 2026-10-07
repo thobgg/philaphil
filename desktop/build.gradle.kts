@@ -34,6 +34,11 @@ val commitZahl: String = runCatching {
 }.getOrNull() ?: desktopBuild
 val windowsVersion = if (versionName.count { it == '.' } == 1) "$versionName.$commitZahl" else versionName
 
+// Ein Code, zwei Paketnamen: PhilaWin unter Windows, PhilaTux unter Linux (wie wtWin/wtTux bei app4webtrees).
+// Jedes Paket wird auf seinem eigenen System gebaut, darum entscheidet das System, auf dem Gradle laeuft.
+val osName = System.getProperty("os.name").orEmpty()
+val paketName = if (osName.startsWith("Windows")) "PhilaWin" else "PhilaTux"
+
 compose.desktop {
     application {
         mainClass = "de.bgghome.philaphil.desktop.MainKt"
@@ -43,22 +48,22 @@ compose.desktop {
         nativeDistributions {
             targetFormats(TargetFormat.Deb, TargetFormat.Msi, TargetFormat.Exe)
             // NIE mehr aendern, sobald das erste Paket verteilt ist (Installationsordner, Startmenue).
-            packageName = "PhilaPhil"
+            packageName = paketName
             modules("java.instrument", "java.prefs", "java.sql", "jdk.unsupported")
             packageVersion = versionName
-            description = "PhilaPhil - Briefmarken als Zeitgeschichte"
+            description = "$paketName - PhilaPhil, Briefmarken als Zeitgeschichte"
             vendor = "bgg-home.de"
 
             linux {
                 menuGroup = "Office"
-                packageName = "philaphil"
+                packageName = "philatux"
                 appRelease = desktopBuild
                 iconFile.set(project.file("icons/app.png"))
             }
             windows {
                 packageVersion = windowsVersion
                 perUserInstall = true
-                menuGroup = "PhilaPhil"
+                menuGroup = "PhilaWin"
                 shortcut = true
                 dirChooser = true
                 // NIE aendern: nur mit gleicher Kennung ersetzt eine neue Version die alte.
