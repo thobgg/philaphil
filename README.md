@@ -37,6 +37,19 @@ Handkorrekturen (Bilder, Hauptthema, Zähnung, Druckart) kommen nach
 
 Lizenz: Code GPL-3.0 (LICENSE), Daten CC BY-SA 4.0 (daten/LICENSE).
 
+## Pakete
+
+Fertige Pakete liegen bei den [Releases](https://github.com/thobgg/philaphil/releases):
+
+```
+PhilaAnd-<version>.apk   Android (ab Android 8)
+PhilaWin-<version>.exe   Windows-Installer
+PhilaTux-<version>.deb   Debian/Ubuntu
+```
+
+Ein Release auf GitHub stößt den Workflow `.github/workflows/release.yml` an, der die drei Pakete baut
+und anhängt.
+
 ## App bauen
 
 Gradle 8.13 braucht JDK 21 (das System-Java 25 geht nicht):
