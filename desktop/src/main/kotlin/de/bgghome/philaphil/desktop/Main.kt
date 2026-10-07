@@ -15,12 +15,14 @@ import de.bgghome.philaphil.ui.PhilaTheme
 import de.bgghome.philaphil.ui.philaImageLoader
 
 /** Linux/Windows: derselbe Kern wie auf Android, in einem Fenster. */
-fun main() {
+fun main(args: Array<String>) {
     val plattform = DesktopPlattform()
+    // --minr 1031: diese Marke gleich oeffnen
+    val startMiNr = args.toList().zipWithNext().firstOrNull { it.first == "--minr" }?.second
     SingletonImageLoader.setSafe { context -> philaImageLoader(context, plattform) }
 
     application {
-        val viewModel = remember { AppViewModel(plattform) }
+        val viewModel = remember { AppViewModel(plattform, startMiNr) }
         Window(
             onCloseRequest = ::exitApplication,
             title = APP_NAME,

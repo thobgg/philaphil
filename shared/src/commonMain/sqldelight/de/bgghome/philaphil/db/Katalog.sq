@@ -107,3 +107,14 @@ SELECT marke.* FROM marke_fts
 JOIN marke ON marke.id = marke_fts.rowid
 WHERE marke_fts MATCH ?
 ORDER BY marke.jahr, marke.sortier_nr;
+
+thema:
+SELECT * FROM thema WHERE id = ?;
+
+-- Ersatz fuer die Volltextsuche, falls SQLite der Plattform kein FTS5 kennt.
+sucheEinfach:
+SELECT DISTINCT marke.* FROM marke
+LEFT JOIN marke_thema ON marke_thema.marke_id = marke.id
+LEFT JOIN thema ON thema.id = marke_thema.thema_id
+WHERE marke.anlass LIKE ? OR marke.bild_beschreibung LIKE ? OR thema.titel LIKE ? OR marke.mi_nr LIKE ?
+ORDER BY marke.jahr, marke.sortier_nr;

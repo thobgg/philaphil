@@ -17,4 +17,11 @@
     <string name="weitere_marken">%1$s (+%2$d)</string>
     <string name="mehr_bei_wikipedia">Mehr bei Wikipedia ›</string>
     <string name="quelle_daten">Daten: Wikipedia, „%1$s“, %2$s</string>
+    <string name="suche_hinweis">Suchen: Anlass, Motiv, Thema, MiNr.</string>
+    <string name="suche_loeschen">Suche löschen</string>
+    <string name="suche_treffer">%1$d Treffer</string>
+    <string name="keine_treffer">Nichts gefunden.</string>
+    <string name="wusstest_du">Wusstest du?</string>
+    <string name="text_quelle_wikipedia">Text: Wikipedia, CC BY-SA 4.0</string>
+    <string name="marken_zum_thema">Marken zum Thema (%1$d) ›</string>
 </resources>
