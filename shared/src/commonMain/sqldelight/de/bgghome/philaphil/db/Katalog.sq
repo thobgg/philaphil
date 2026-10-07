@@ -1,0 +1,109 @@
+-- Katalog-Datenbank. Das Schema hier muss zu tools/katalog_bauen.py passen:
+-- die Datei kommt fertig gebaut mit, SQLDelight erzeugt daraus nur die Abfragen.
+
+CREATE TABLE info (
+  schluessel TEXT PRIMARY KEY,
+  wert TEXT
+);
+
+CREATE TABLE quelle (
+  gebiet TEXT NOT NULL,
+  jahr INTEGER NOT NULL,
+  titel TEXT NOT NULL,
+  url TEXT NOT NULL,
+  revision INTEGER,
+  abgerufen TEXT,
+  lizenz TEXT,
+  lizenz_url TEXT,
+  PRIMARY KEY (gebiet, jahr)
+);
+
+CREATE TABLE marke (
+  id INTEGER PRIMARY KEY,
+  gebiet TEXT NOT NULL,
+  mi_nr TEXT NOT NULL,
+  sortier_nr INTEGER,
+  jahr INTEGER NOT NULL,
+  art TEXT,
+  ausgabetag TEXT,
+  wert TEXT,
+  waehrung TEXT,
+  anlass TEXT,
+  satz INTEGER DEFAULT 0,
+  bild_beschreibung TEXT,
+  entwerfer TEXT,
+  auflage INTEGER,
+  zaehnung TEXT,
+  druckart TEXT,
+  commons_datei TEXT,
+  UNIQUE (gebiet, mi_nr)
+);
+CREATE INDEX marke_jahr ON marke (gebiet, jahr, sortier_nr);
+
+CREATE TABLE thema (
+  id INTEGER PRIMARY KEY,
+  wikidata TEXT UNIQUE,
+  titel TEXT NOT NULL,
+  artikel_url TEXT,
+  kurztext TEXT,
+  wusstest_du TEXT,
+  quelle TEXT,
+  geladen_am TEXT
+);
+
+CREATE TABLE marke_thema (
+  marke_id INTEGER NOT NULL REFERENCES marke(id),
+  thema_id INTEGER NOT NULL REFERENCES thema(id),
+  haupt INTEGER DEFAULT 0,
+  reihe INTEGER DEFAULT 0,
+  PRIMARY KEY (marke_id, thema_id)
+);
+
+CREATE VIRTUAL TABLE marke_fts USING fts5 (
+  mi_nr, anlass, bild_beschreibung, themen, entwerfer,
+  tokenize = 'unicode61 remove_diacritics 2'
+);
+
+-- ------------------------------------------------------------ Abfragen
+
+info:
+SELECT wert FROM info WHERE schluessel = ?;
+
+jahrgaenge:
+SELECT gebiet, jahr, COUNT(*) AS anzahl
+FROM marke
+GROUP BY gebiet, jahr
+ORDER BY gebiet, jahr;
+
+markenImJahr:
+SELECT * FROM marke
+WHERE gebiet = ? AND jahr = ?
+ORDER BY sortier_nr, mi_nr;
+
+marke:
+SELECT * FROM marke WHERE id = ?;
+
+themenZurMarke:
+SELECT thema.*, marke_thema.haupt
+FROM marke_thema
+JOIN thema ON thema.id = marke_thema.thema_id
+WHERE marke_thema.marke_id = ?
+ORDER BY marke_thema.haupt DESC, marke_thema.reihe;
+
+anzahlMarkenZumThema:
+SELECT COUNT(*) FROM marke_thema WHERE thema_id = ?;
+
+markenZumThema:
+SELECT marke.* FROM marke_thema
+JOIN marke ON marke.id = marke_thema.marke_id
+WHERE marke_thema.thema_id = ?
+ORDER BY marke.jahr, marke.sortier_nr;
+
+quelle:
+SELECT * FROM quelle WHERE gebiet = ? AND jahr = ?;
+
+suche:
+SELECT marke.* FROM marke_fts
+JOIN marke ON marke.id = marke_fts.rowid
+WHERE marke_fts MATCH ?
+ORDER BY marke.jahr, marke.sortier_nr;

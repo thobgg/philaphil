@@ -1,0 +1,46 @@
+# Versionen wie in app4webtrees (Stand 07.10.2026), damit sie im Gradle-Cache liegen.
+[versions]
+agp = "8.13.2"
+# Compose Multiplatform 1.11.1 braucht Kotlin 2.2.x.
+kotlin = "2.2.10"
+composeMultiplatform = "1.11.1"
+coreKtx = "1.18.0"
+activityCompose = "1.9.3"
+# Coil 3: multiplattform (Android + Desktop), Netz ueber OkHttp (User-Agent fuer Wikimedia).
+coil = "3.3.0"
+# Jetbrains-Fassung von ViewModel/Lifecycle fuer commonMain.
+jetbrainsLifecycle = "2.9.6"
+okhttp = "4.12.0"
+serialization = "1.7.3"
+# Muss zur kotlinx-coroutines-core passen, die Compose mitbringt.
+coroutines = "1.9.0"
+# SQLite ueber SQLDelight: Schema in shared/src/commonMain/sqldelight, Treiber je Plattform.
+sqldelight = "2.1.0"
+junit = "4.13.2"
+
+[libraries]
+androidx-core-ktx           = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-activity-compose   = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
+coil-compose                = { group = "io.coil-kt.coil3", name = "coil-compose", version.ref = "coil" }
+coil-network-okhttp         = { group = "io.coil-kt.coil3", name = "coil-network-okhttp", version.ref = "coil" }
+jetbrains-lifecycle-viewmodel = { group = "org.jetbrains.androidx.lifecycle", name = "lifecycle-viewmodel", version.ref = "jetbrainsLifecycle" }
+jetbrains-lifecycle-viewmodel-compose = { group = "org.jetbrains.androidx.lifecycle", name = "lifecycle-viewmodel-compose", version.ref = "jetbrainsLifecycle" }
+compose-ui-backhandler      = { group = "org.jetbrains.compose.ui", name = "ui-backhandler", version.ref = "composeMultiplatform" }
+okhttp                      = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttp" }
+kotlinx-serialization-json  = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "serialization" }
+kotlinx-coroutines-swing    = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-swing", version.ref = "coroutines" }
+sqldelight-runtime          = { group = "app.cash.sqldelight", name = "runtime", version.ref = "sqldelight" }
+sqldelight-android-driver   = { group = "app.cash.sqldelight", name = "android-driver", version.ref = "sqldelight" }
+sqldelight-sqlite-driver    = { group = "app.cash.sqldelight", name = "sqlite-driver", version.ref = "sqldelight" }
+junit                       = { group = "junit", name = "junit", version.ref = "junit" }
+
+[plugins]
+android-application  = { id = "com.android.application", version.ref = "agp" }
+android-library      = { id = "com.android.library", version.ref = "agp" }
+kotlin-android       = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+kotlin-jvm           = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+compose-multiplatform = { id = "org.jetbrains.compose", version.ref = "composeMultiplatform" }
+kotlin-compose       = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+sqldelight           = { id = "app.cash.sqldelight", version.ref = "sqldelight" }

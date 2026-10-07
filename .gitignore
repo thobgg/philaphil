@@ -1,0 +1,23 @@
+# Gradle / Kotlin
+.gradle/
+build/
+*/build/
+.kotlin/
+local.properties
+keystore.properties
+*.jks
+
+# IDE
+.idea/
+*.iml
+
+# Import-Cache (Wikipedia-Rohdaten)
+tools/cache/
+__pycache__/
+
+# Eigene Scans bleiben privat
+bilder/
+
+# Arbeitsnotizen bleiben lokal, nur README und daten/README gehen mit
+/*.md
+!/README.md
