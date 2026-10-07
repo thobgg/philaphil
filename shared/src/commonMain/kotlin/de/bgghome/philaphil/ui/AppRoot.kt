@@ -17,6 +17,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
@@ -43,8 +44,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.backhandler.BackHandler
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
@@ -115,6 +118,7 @@ fun AppRoot(viewModel: AppViewModel) {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
+    val fokus = LocalFocusManager.current
     Column(Modifier.background(MaterialTheme.colorScheme.surface)) {
         TopAppBar(
             title = {
@@ -152,6 +156,8 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
                 }
             },
             keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
+            // Lupe auf der Tastatur: Tastatur zu, die Treffer stehen schon da
+            keyboardActions = KeyboardActions(onSearch = { fokus.clearFocus() }),
             modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp),
         )
         Spacer(Modifier.height(8.dp))
@@ -227,7 +233,7 @@ private fun Seite(titel: String, onZurueck: () -> Unit, inhalt: @Composable () -
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text(titel, maxLines = 1) },
+                title = { Text(titel, maxLines = 1, overflow = TextOverflow.Ellipsis) },
                 navigationIcon = {
                     IconButton(onClick = onZurueck) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = stringResource(Res.string.zurueck)) }
                 },
