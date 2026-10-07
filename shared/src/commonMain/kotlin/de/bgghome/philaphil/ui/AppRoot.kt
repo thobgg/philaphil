@@ -60,6 +60,7 @@ import de.bgghome.philaphil.res.jahrgang_vor
 import de.bgghome.philaphil.res.jahrgang_zurueck
 import de.bgghome.philaphil.res.keine_treffer
 import de.bgghome.philaphil.res.suche_hinweis
+import de.bgghome.philaphil.res.suche_kurz
 import de.bgghome.philaphil.res.suche_loeschen
 import de.bgghome.philaphil.res.suche_treffer
 import de.bgghome.philaphil.res.zurueck
@@ -86,7 +87,7 @@ fun AppRoot(viewModel: AppViewModel) {
                 Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
             !breit && zustand.marke != null ->
                 Seite("MiNr. ${zustand.marke!!.mi_nr}", onZurueck = { viewModel.waehlen(null) }) { MarkenDetail(zustand, viewModel) }
-            else -> Scaffold(topBar = { Kopf(zustand, viewModel) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
+            else -> Scaffold(topBar = { Kopf(zustand, viewModel, breit) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
                 Row(Modifier.padding(innen).fillMaxSize()) {
                     Box(if (breit) Modifier.width(420.dp).fillMaxHeight() else Modifier.fillMaxSize()) {
                         Markenliste(zustand, onWahl = viewModel::waehlen)
@@ -110,17 +111,17 @@ fun AppRoot(viewModel: AppViewModel) {
     }
 }
 
-/** Kopfzeile mit Jahrgang und Suchfeld. */
+/** Kopfzeile mit Jahrgang und Suchfeld. Am Handy knapp: kein Untertitel, kurzer Platzhalter. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-private fun Kopf(zustand: AppZustand, viewModel: AppViewModel) {
+private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
     Column(Modifier.background(MaterialTheme.colorScheme.surface)) {
         TopAppBar(
             title = {
                 Column {
-                    Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()))
-                    Text(stringResource(Res.string.app_titel), style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant)
+                    Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
+                    if (breit) Text(stringResource(Res.string.app_titel), style = MaterialTheme.typography.bodyMedium,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
                 }
             },
             actions = {
@@ -143,7 +144,7 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel) {
             value = zustand.suchtext,
             onValueChange = viewModel::suchen,
             singleLine = true,
-            placeholder = { Text(stringResource(Res.string.suche_hinweis)) },
+            placeholder = { Text(stringResource(if (breit) Res.string.suche_hinweis else Res.string.suche_kurz), maxLines = 1) },
             leadingIcon = { Icon(Icons.Default.Search, contentDescription = null) },
             trailingIcon = {
                 if (zustand.suchtext.isNotEmpty()) IconButton(onClick = { viewModel.suchen("") }) {
@@ -151,9 +152,9 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel) {
                 }
             },
             keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
-            modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp),
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp),
         )
-        Spacer(Modifier.height(6.dp))
+        Spacer(Modifier.height(8.dp))
     }
 }
 
