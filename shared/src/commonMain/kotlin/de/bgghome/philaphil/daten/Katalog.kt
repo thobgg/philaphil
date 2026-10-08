@@ -53,6 +53,9 @@ class Katalog private constructor(private val db: KatalogDb) {
 
     fun ausgabenAmTag(monatTag: String): List<Marke> = db.katalogQueries.ausgabenAmTag(monatTag).executeAsList()
 
+    fun jahrInfo(jahr: Long) = db.katalogQueries.jahrInfo(jahr).executeAsOneOrNull()
+    fun ereignisse(jahr: Long) = db.katalogQueries.ereignisseImJahr(jahr).executeAsList()
+
     fun thema(id: Long): Thema? = db.katalogQueries.thema(id).executeAsOneOrNull()
 
     fun suche(text: String): List<Marke> {

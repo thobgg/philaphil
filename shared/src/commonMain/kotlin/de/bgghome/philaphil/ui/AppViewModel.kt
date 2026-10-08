@@ -13,7 +13,9 @@ import de.bgghome.philaphil.daten.Ordner
 import de.bgghome.philaphil.daten.OrdnerDatei
 import de.bgghome.philaphil.daten.Sammlung
 import de.bgghome.philaphil.EINSTELLUNG_SAMMLUNG
+import de.bgghome.philaphil.db.EreignisseImJahr
 import de.bgghome.philaphil.db.Gebiete
+import de.bgghome.philaphil.db.Jahr_info
 import de.bgghome.philaphil.db.Jahrgaenge
 import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.db.Quelle
@@ -68,6 +70,11 @@ data class AppZustand(
     /** Die Marken des Jahrgangs. */
     val jahrgang: List<Marke> = emptyList(),
     val quelle: Quelle? = null,
+    /** Zeitreise: was in diesem Jahr geschah. */
+    val jahrInfo: Jahr_info? = null,
+    val ereignisse: List<EreignisseImJahr> = emptyList(),
+    /** Am Handy als eigene Seite geoeffnet. */
+    val zeitreiseOffen: Boolean = false,
     /** Suche: Eingabe und Treffer; bei leerer Eingabe zeigt die Liste den Jahrgang. */
     val suchtext: String = "",
     val suchtreffer: List<Marke>? = null,
@@ -165,7 +172,9 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         val k = katalog ?: return
         val marken = withContext(Dispatchers.IO) { k.markenImJahr(gebiet, jahr) }
         val quelle = withContext(Dispatchers.IO) { k.quelle(gebiet, jahr) }
-        _zustand.update { it.copy(laedt = false, gebiet = gebiet, jahr = jahr, jahrgang = marken, quelle = quelle) }
+        val info = withContext(Dispatchers.IO) { k.jahrInfo(jahr) }
+        val ereignisse = withContext(Dispatchers.IO) { k.ereignisse(jahr) }
+        _zustand.update { it.copy(laedt = false, gebiet = gebiet, jahr = jahr, jahrgang = marken, quelle = quelle, jahrInfo = info, ereignisse = ereignisse) }
         plattform.einstellungen.schreiben("jahr", jahr.toString())
         plattform.einstellungen.schreiben("gebiet", gebiet)
         bilderNachladen(marken)
@@ -336,6 +345,14 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         }
     }
 
+    fun zeitreise(offen: Boolean) = _zustand.update { it.copy(zeitreiseOffen = offen) }
+
+    /** Ein Ereignis mit Bezug oeffnet die Themenseite des Markenthemas. */
+    fun themaOeffnen(themaId: Long) {
+        val t = katalog?.thema(themaId) ?: return
+        themaOeffnen(t)
+    }
+
     fun heuteSchliessen() = _zustand.update { it.copy(heute = null) }
 
     /** Von "Heute" zu einer Marke: ihren Jahrgang laden und die Marke zeigen. */
@@ -394,6 +411,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         return when {
             z.einstellungenOffen -> { einstellungen(false); true }
             z.heute != null && !z.vollbild -> { heuteSchliessen(); true }
+            z.zeitreiseOffen && z.themaSeite == null && z.marke == null -> { zeitreise(false); true }
             z.vollbild -> { vollbild(false); true }
             z.themaSeite != null -> { themaSchliessen(); true }
             z.marke != null -> { waehlen(null); true }

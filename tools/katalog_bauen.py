@@ -103,6 +103,22 @@ CREATE TABLE thema_datum (
 CREATE INDEX thema_datum_tag ON thema_datum (monat_tag);
 CREATE INDEX marke_tag ON marke (substr(ausgabetag, 6, 5));
 
+-- Zeitreise: was in einem Jahr geschah (Auswahl aus dem Wikipedia-Jahresartikel, tools/zeitgeschehen.py)
+CREATE TABLE jahr_info (
+  jahr INTEGER PRIMARY KEY,
+  einleitung TEXT,
+  quelle_url TEXT
+);
+CREATE TABLE ereignis (
+  id INTEGER PRIMARY KEY,
+  jahr INTEGER NOT NULL,
+  datum TEXT,                    -- ISO, NULL wenn nur das Jahr bekannt
+  rubrik TEXT,
+  text TEXT NOT NULL,
+  bezug TEXT                     -- Artikeltitel eines Markenthemas dieses Jahres, sonst NULL
+);
+CREATE INDEX ereignis_jahr ON ereignis (jahr);
+
 -- Volltextsuche über Anlass, Bildbeschreibung und Themen; rowid = marke.id
 CREATE VIRTUAL TABLE marke_fts USING fts5 (
   mi_nr, anlass, bild_beschreibung, themen, entwerfer,
@@ -161,7 +177,7 @@ def bauen(ziel):
     gebiete = {k: v for k, v in json.loads((DATEN / "gebiete.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
     for reihe, (k, g) in enumerate(gebiete.items()):
         db.execute("INSERT INTO gebiet VALUES (?,?,?,?,?,?,?)", (k, g["name"], g.get("anzeige", g["name"]), g.get("dateiname", g["name"]), g.get("von"), g.get("bis"), reihe))
-    dateien = sorted(p for p in DATEN.glob("*/*.json") if not p.name.endswith((".hand.json", ".commons.json")))
+    dateien = sorted(p for p in DATEN.glob("*/*.json") if not p.name.endswith((".hand.json", ".commons.json")) and p.parent.name != "zeitgeschehen")
     if not dateien:
         sys.exit("Keine JSON-Dateien in daten/ gefunden")
     anzahl = 0
@@ -231,6 +247,14 @@ def bauen(ziel):
     for schluessel, tid in themen_ids.items():
         for e in kalender.get(schluessel, []):
             db.execute("INSERT INTO thema_datum VALUES (?,?,?,?)", (tid, e["art"], e["datum"], e["datum"][5:10]))
+
+    # Zeitreise
+    for datei in sorted((DATEN / "zeitgeschehen").glob("*.json")):
+        z = json.loads(datei.read_text(encoding="utf-8"))
+        db.execute("INSERT INTO jahr_info VALUES (?,?,?)", (z["jahr"], z.get("einleitung"), z["quelle"]["url"]))
+        for e in z["ereignisse"]:
+            db.execute("INSERT INTO ereignis (jahr, datum, rubrik, text, bezug) VALUES (?,?,?,?,?)",
+                       (z["jahr"], e.get("datum"), e.get("rubrik"), e["text"], (e.get("bezug") or [None])[0]))
 
     db.execute("INSERT INTO info VALUES ('schema_version', '1')")
     db.execute("INSERT INTO info VALUES ('gebaut_am', ?)", (date.today().isoformat(),))

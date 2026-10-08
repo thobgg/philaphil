@@ -82,6 +82,7 @@ import de.bgghome.philaphil.res.suche_hinweis
 import de.bgghome.philaphil.res.suche_kurz
 import de.bgghome.philaphil.res.suche_loeschen
 import de.bgghome.philaphil.res.suche_treffer
+import de.bgghome.philaphil.res.zeitreise_titel
 import de.bgghome.philaphil.res.zurueck
 import org.jetbrains.compose.resources.stringResource
 
@@ -92,7 +93,7 @@ private val BREIT_AB = 840.dp
 fun AppRoot(viewModel: AppViewModel) {
     val zustand by viewModel.zustand.collectAsState()
 
-    BackHandler(enabled = zustand.heute != null || zustand.einstellungenOffen || zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
+    BackHandler(enabled = zustand.zeitreiseOffen || zustand.heute != null || zustand.einstellungenOffen || zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
         viewModel.zurueck()
     }
     if (zustand.einstellungenOffen) Einstellungen(zustand, viewModel, onClose = { viewModel.einstellungen(false) })
@@ -105,6 +106,8 @@ fun AppRoot(viewModel: AppViewModel) {
             zustand.heute != null ->
                 Seite(stringResource(Res.string.heute_titel), onZurueck = viewModel::heuteSchliessen) { HeuteAnsicht(zustand, viewModel, breit) }
             // Handy: Themenseite und Marke sind eigene Seiten mit Zurueck-Pfeil.
+            !breit && zustand.zeitreiseOffen && zustand.themaSeite == null && zustand.marke == null ->
+                Seite(stringResource(Res.string.zeitreise_titel, zustand.jahr.toString()), onZurueck = { viewModel.zeitreise(false) }) { Zeitreise(zustand, viewModel) }
             !breit && zustand.themaSeite != null ->
                 Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
             !breit && zustand.marke != null ->
@@ -112,7 +115,7 @@ fun AppRoot(viewModel: AppViewModel) {
             else -> Scaffold(topBar = { Kopf(zustand, viewModel, breit) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
                 Row(Modifier.padding(innen).fillMaxSize()) {
                     Box(if (breit) Modifier.width(420.dp).fillMaxHeight() else Modifier.fillMaxSize()) {
-                        Markenliste(zustand, onWahl = viewModel::waehlen)
+                        Markenliste(zustand, onWahl = viewModel::waehlen, breit = breit, onZeitreise = { viewModel.zeitreise(true) })
                     }
                     if (breit) {
                         VerticalDivider(color = MaterialTheme.colorScheme.outlineVariant)
@@ -120,7 +123,9 @@ fun AppRoot(viewModel: AppViewModel) {
                             when {
                                 zustand.themaSeite != null -> Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
                                 zustand.marke != null -> MarkenDetail(zustand, viewModel)
-                                else -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                                // Tablet/Desktop ohne gewaehlte Marke: die Zeitreise zum Jahrgang
+                                else -> if (zustand.ereignisse.isNotEmpty() || zustand.jahrInfo?.einleitung != null) Zeitreise(zustand, viewModel, mitTitel = true)
+                                else Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                                     Text(stringResource(Res.string.jahrgang_untertitel), style = MaterialTheme.typography.bodyLarge,
                                         color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(32.dp))
                                 }
@@ -207,7 +212,7 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
 }
 
 @Composable
-private fun Markenliste(zustand: AppZustand, onWahl: (Marke) -> Unit) {
+private fun Markenliste(zustand: AppZustand, onWahl: (Marke) -> Unit, breit: Boolean = true, onZeitreise: () -> Unit = {}) {
     when {
         zustand.laedt -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
         zustand.fehler != null -> Text(stringResource(Res.string.fehler_laden, zustand.fehler), Modifier.padding(24.dp),
@@ -215,6 +220,13 @@ private fun Markenliste(zustand: AppZustand, onWahl: (Marke) -> Unit) {
         zustand.suchtreffer?.isEmpty() == true -> Text(stringResource(Res.string.keine_treffer), Modifier.padding(24.dp),
             color = MaterialTheme.colorScheme.onSurfaceVariant)
         else -> LazyColumn(Modifier.fillMaxSize()) {
+            if (!breit && zustand.suchtreffer == null && zustand.ereignisse.isNotEmpty()) {
+                item {
+                    Text(stringResource(Res.string.zeitreise_titel, zustand.jahr.toString()) + " ›",
+                        Modifier.fillMaxWidth().clickable { onZeitreise() }.background(MaterialTheme.colorScheme.secondaryContainer).padding(horizontal = 16.dp, vertical = 14.dp),
+                        style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onSecondaryContainer)
+                }
+            }
             if (zustand.suchtreffer != null) {
                 item {
                     Text(stringResource(Res.string.suche_treffer, zustand.suchtreffer.size), Modifier.padding(horizontal = 12.dp, vertical = 6.dp),

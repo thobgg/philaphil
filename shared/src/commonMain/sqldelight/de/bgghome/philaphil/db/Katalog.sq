@@ -79,6 +79,21 @@ CREATE TABLE thema_datum (
 );
 CREATE INDEX thema_datum_tag ON thema_datum (monat_tag);
 
+CREATE TABLE jahr_info (
+  jahr INTEGER PRIMARY KEY,
+  einleitung TEXT,
+  quelle_url TEXT
+);
+CREATE TABLE ereignis (
+  id INTEGER PRIMARY KEY,
+  jahr INTEGER NOT NULL,
+  datum TEXT,
+  rubrik TEXT,
+  text TEXT NOT NULL,
+  bezug TEXT
+);
+CREATE INDEX ereignis_jahr ON ereignis (jahr);
+
 CREATE VIRTUAL TABLE marke_fts USING fts5 (
   mi_nr, anlass, bild_beschreibung, themen, entwerfer,
   tokenize = 'unicode61 remove_diacritics 2'
@@ -161,3 +176,12 @@ ORDER BY thema_datum.datum;
 -- Heute vor Jahren: Marken, die an diesem Tag erschienen
 ausgabenAmTag:
 SELECT * FROM marke WHERE substr(ausgabetag, 6, 5) = ? ORDER BY jahr, gebiet, sortier_nr;
+
+jahrInfo:
+SELECT * FROM jahr_info WHERE jahr = ?;
+
+ereignisseImJahr:
+SELECT ereignis.*, thema.id AS thema_id FROM ereignis
+LEFT JOIN thema ON thema.titel = ereignis.bezug
+WHERE ereignis.jahr = ?
+ORDER BY ereignis.datum IS NULL, ereignis.datum;
