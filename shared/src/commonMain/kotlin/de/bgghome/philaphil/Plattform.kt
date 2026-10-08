@@ -25,6 +25,8 @@ interface Plattform {
     fun sammlungsordner(): Ordner
     /** Ein HTTP-Client fuer Wikipedia und Commons - mit User-Agent, wie Wikimedia es verlangt. */
     val http: OkHttpClient
+    /** true, wenn das Netz nicht nach Volumen zaehlt (WLAN, LAN) - fuers Vorladen der Bilder. */
+    fun unbegrenztesNetz(): Boolean = true
     /** Oeffnet eine Adresse im Browser des Systems (Wikipedia, Commons). */
     fun oeffneWeb(url: String)
 }

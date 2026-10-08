@@ -17,7 +17,16 @@ import de.bgghome.philaphil.db.Jahrgaenge
 import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.db.Quelle
 import de.bgghome.philaphil.db.Thema
+import coil3.PlatformContext
+import coil3.SingletonImageLoader
+import coil3.request.CachePolicy
+import coil3.request.ImageRequest
+import coil3.request.SuccessResult
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.async
+import kotlinx.coroutines.awaitAll
+import kotlinx.coroutines.sync.Semaphore
+import kotlinx.coroutines.sync.withPermit
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -65,6 +74,9 @@ data class AppZustand(
     /** Vollbild mit Wischen und Zoom ueber alle Marken der Liste mit Bild. */
     val vollbild: Boolean = false,
     val einstellungenOffen: Boolean = false,
+    /** Vorladen der Vorschaubilder: (fertig, gesamt), null = laeuft nicht. */
+    val vorladen: Pair<Int, Int>? = null,
+    val vorladenMeldung: String? = null,
 ) {
     /** Was die Liste zeigt: Suchtreffer oder der Jahrgang, nach Bestand gefiltert. */
     val liste: List<Marke> get() = (suchtreffer ?: jahrgang).filter {
@@ -226,6 +238,48 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         viewModelScope.launch {
             withContext(Dispatchers.IO) { sammlung?.ordnerWechseln(ordner) }
             bilderNeuEinlesen()
+        }
+    }
+
+    private var vorladeLauf: Job? = null
+
+    /**
+     * Alle Commons-Vorschaubilder in den Bild-Cache holen, damit Liste und Karte offline Bilder zeigen.
+     * Am Handy nur im WLAN; Originale fuers Vollbild kommen weiter erst bei Bedarf.
+     */
+    fun vorladen(context: PlatformContext) {
+        if (vorladeLauf?.isActive == true) { vorladeLauf?.cancel(); _zustand.update { it.copy(vorladen = null, vorladenMeldung = "abgebrochen") }; return }
+        if (!plattform.unbegrenztesNetz()) { _zustand.update { it.copy(vorladenMeldung = "kein WLAN") }; return }
+        val k = katalog ?: return
+        vorladeLauf = viewModelScope.launch {
+            val dateien = withContext(Dispatchers.IO) { k.alleCommonsDateien() }
+            _zustand.update { it.copy(vorladen = 0 to dateien.size, vorladenMeldung = null) }
+            val infos = commons.infos(dateien)          // Adressen und Lizenzen, in Bloecken zu 50
+            _zustand.update { it.copy(bilder = it.bilder + infos) }
+            val lader = SingletonImageLoader.get(context)
+            val gleichzeitig = Semaphore(2)              // Wikimedia bremst sonst mit HTTP 429
+            var fertig = 0
+            var fehler = 0
+            infos.values.map { info ->
+                async(Dispatchers.IO) {
+                    gleichzeitig.withPermit {
+                        var ok = false
+                        var warten = 2000L
+                        for (versuch in 1..5) {
+                            val r = lader.execute(ImageRequest.Builder(context).data(info.vorschauUrl).memoryCachePolicy(CachePolicy.DISABLED).build())
+                            if (r is SuccessResult) { ok = true; break }
+                            val grund = (r as? coil3.request.ErrorResult)?.throwable?.message.orEmpty()
+                            if ("429" !in grund && "503" !in grund) break      // nur bei "zu viele Anfragen" erneut versuchen
+                            delay(warten); warten *= 2
+                        }
+                        if (!ok) fehler++
+                        fertig++
+                        _zustand.update { it.copy(vorladen = fertig to dateien.size) }
+                        delay(150)
+                    }
+                }
+            }.awaitAll()
+            _zustand.update { it.copy(vorladen = null, vorladenMeldung = if (fehler == 0) "${dateien.size} Bilder geladen" else "${dateien.size - fehler} geladen, $fehler nicht erreichbar") }
         }
     }
 
