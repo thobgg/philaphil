@@ -371,7 +371,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
             val eintraege = withContext(Dispatchers.IO) {
                 val themen = k.jahrestage(md).groupBy { it.id }.map { (_, zeilen) ->
                     val z = zeilen.first()
-                    val thema = Thema(z.id, z.wikidata, z.titel, z.artikel_url, z.kurztext, z.wusstest_du, z.quelle, z.geladen_am)
+                    val thema = Thema(z.id, z.wikidata, z.titel, z.artikel_url, z.kurztext, z.wusstest_du, z.wusstest_quelle, z.quelle, z.geladen_am)
                     HeuteEintrag(z.art, z.datum, thema, k.markenZumThema(z.id))
                 }
                 val ausgaben = k.ausgabenAmTag(md).groupBy { it.ausgabetag.orEmpty() }.map { (datum, marken) ->

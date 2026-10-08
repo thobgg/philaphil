@@ -66,10 +66,19 @@ class KatalogTest {
     }
 
     @Test
+    fun kiSatzGekennzeichnet() {
+        val einstein = katalog.markenImJahr("Bund", 1979).first { it.mi_nr == "1019" }
+        val haupt = katalog.themenZurMarke(einstein.id).first { it.haupt }
+        assertEquals("ki-entwurf", haupt.thema.wusstest_quelle)
+        assertTrue(!haupt.thema.wusstest_du.isNullOrBlank())
+    }
+
+    @Test
     fun wusstestDuAusHandkorrektur() {
         val energie = katalog.markenImJahr("Bund", 1979).first { it.mi_nr == "1031" }
         val haupt = katalog.themenZurMarke(energie.id).first { it.haupt }
         assertTrue(haupt.thema.wusstest_du.orEmpty().contains("Ölkrise"))
+        assertEquals("eigen", haupt.thema.wusstest_quelle)
     }
 
     @Test

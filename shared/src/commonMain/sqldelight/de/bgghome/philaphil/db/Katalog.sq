@@ -59,6 +59,7 @@ CREATE TABLE thema (
   artikel_url TEXT,
   kurztext TEXT,
   wusstest_du TEXT,
+  wusstest_quelle TEXT,
   quelle TEXT,
   geladen_am TEXT
 );
