@@ -1,0 +1,917 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1955,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1955 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1955_der_Deutschen_Bundespost",
+    "revision": 236347788,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 204,
+    "mi_nr_bis": 226,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 22,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "204",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-02-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "100. Todestag von Carl Friedrich Gauß (1777–1855)",
+      "bild_beschreibung": "Mathematiker, Astronom, Geodät und Physiker",
+      "entwerfer": "Hermann Eidenbenz",
+      "auflage": 22250000,
+      "commons_datei": "DBP 1955 204 Carl Friedrich Gauß.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Friedrich Gauß",
+          "beschriftung": "Carl Friedrich Gauß",
+          "haupt": true,
+          "artikel": "Carl Friedrich Gauß",
+          "wikidata": "Q6722"
+        },
+        {
+          "titel": "Mathematiker",
+          "beschriftung": "Mathematiker",
+          "haupt": false,
+          "artikel": "Mathematiker",
+          "wikidata": "Q170790"
+        },
+        {
+          "titel": "Astronom",
+          "beschriftung": "Astronom",
+          "haupt": false,
+          "artikel": "Astronom",
+          "wikidata": "Q11063"
+        },
+        {
+          "titel": "Geodäsie",
+          "beschriftung": "Geodät",
+          "haupt": false,
+          "artikel": "Geodäsie",
+          "wikidata": "Q131089"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        }
+      ]
+    },
+    {
+      "mi_nr": "205",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-31",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Flugbeginn der Deutschen Lufthansa",
+      "bild_beschreibung": "Das Lufthansa Logo, ein stilisierter Kranich",
+      "entwerfer": "Müller und Blase",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 205 Lufthansa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kranich (Art)",
+          "beschriftung": "Kranich",
+          "haupt": true,
+          "artikel": "Kranich",
+          "wikidata": "Q4764"
+        },
+        {
+          "titel": "Lufthansa",
+          "beschriftung": "Lufthansa",
+          "haupt": false,
+          "artikel": "Lufthansa",
+          "wikidata": "Q9325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "206",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-31",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Flugbeginn der Deutschen Lufthansa",
+      "bild_beschreibung": "Das Lufthansa Logo, ein stilisierter Kranich",
+      "entwerfer": "Müller und Blase",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 206 Lufthansa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lufthansa",
+          "beschriftung": "Lufthansa",
+          "haupt": true,
+          "artikel": "Lufthansa",
+          "wikidata": "Q9325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "207",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-31",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Flugbeginn der Deutschen Lufthansa",
+      "bild_beschreibung": "Das Lufthansa Logo, ein stilisierter Kranich",
+      "entwerfer": "Müller und Blase",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 207 Lufthansa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lufthansa",
+          "beschriftung": "Lufthansa",
+          "haupt": true,
+          "artikel": "Lufthansa",
+          "wikidata": "Q9325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "208",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-31",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Flugbeginn der Deutschen Lufthansa",
+      "bild_beschreibung": "Das Lufthansa Logo, ein stilisierter Kranich",
+      "entwerfer": "Müller und Blase",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 208 Lufthansa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lufthansa",
+          "beschriftung": "Lufthansa",
+          "haupt": true,
+          "artikel": "Lufthansa",
+          "wikidata": "Q9325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "209",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-05-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "100. Geburtstag von Oskar von Miller (1855–1934)",
+      "bild_beschreibung": "Bauingenieur, Wasserkraftpionier und Begründer des Deutschen Museums",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1955 209 Oskar von Miller.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Oskar von Miller",
+          "beschriftung": "Oskar von Miller",
+          "haupt": true,
+          "artikel": "Oskar von Miller",
+          "wikidata": "Q76456"
+        },
+        {
+          "titel": "Bauingenieurwesen",
+          "beschriftung": "Bauingenieur",
+          "haupt": false,
+          "artikel": "Bauingenieurwesen",
+          "wikidata": "Q77590"
+        },
+        {
+          "titel": "Wasserkraft",
+          "beschriftung": "Wasserkraft",
+          "haupt": false,
+          "artikel": "Wasserkraft",
+          "wikidata": "Q170196"
+        },
+        {
+          "titel": "Deutsches Museum",
+          "beschriftung": "Deutschen Museums",
+          "haupt": false,
+          "artikel": "Deutsches Museum",
+          "wikidata": "Q131617"
+        }
+      ]
+    },
+    {
+      "mi_nr": "210",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-05-09",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "150. Todestag von Friedrich Schiller (1759–1805)",
+      "bild_beschreibung": "Dichter, Dramatiker, Philosoph und Historiker",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1955 210 Friedrich Schiller.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Dramatiker",
+          "beschriftung": "Dramatiker",
+          "haupt": false,
+          "artikel": "Dramatiker",
+          "wikidata": "Q214917"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "211",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "50 Jahre Kraftpost",
+      "bild_beschreibung": "Historischer Kraftomnibus von 1906",
+      "entwerfer": "Müller und Blase",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kraftpost",
+          "beschriftung": "Kraftpost",
+          "haupt": true,
+          "artikel": "Kraftpost",
+          "wikidata": "Q1785998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "212",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-15",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "Landesausstellung Baden-Württemberg",
+      "bild_beschreibung": "Wappen von Baden-Württemberg",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 212 Landesausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen",
+          "beschriftung": "Wappen",
+          "haupt": true,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        },
+        {
+          "titel": "Baden-Württemberg",
+          "beschriftung": "Baden-Württemberg",
+          "haupt": false,
+          "artikel": "Baden-Württemberg",
+          "wikidata": "Q985"
+        }
+      ]
+    },
+    {
+      "mi_nr": "213",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "Landesausstellung Baden-Württemberg",
+      "bild_beschreibung": "Wappen von Baden-Württemberg",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 213 Landesausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baden-Württemberg",
+          "beschriftung": "Baden-Württemberg",
+          "haupt": true,
+          "artikel": "Baden-Württemberg",
+          "wikidata": "Q985"
+        }
+      ]
+    },
+    {
+      "mi_nr": "214",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-06-30",
+      "anlass": "Forschungsförderung",
+      "bild_beschreibung": "Das Weltall als Makrokosmos-Symbol über einem Atommodell als Mikrokosmos-Symbol",
+      "entwerfer": "Kurt Kranz",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 214 Forschungsförderung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Forschungsförderung",
+          "beschriftung": "Forschungsförderung",
+          "haupt": true,
+          "artikel": "Forschungsförderung",
+          "wikidata": "Q372353"
+        },
+        {
+          "titel": "Universum",
+          "beschriftung": "Weltall",
+          "haupt": false,
+          "artikel": "Universum",
+          "wikidata": "Q1"
+        },
+        {
+          "titel": "Makrokosmos",
+          "beschriftung": "Makrokosmos",
+          "haupt": false,
+          "artikel": "Makrokosmos",
+          "wikidata": "Q1886467"
+        },
+        {
+          "titel": "Atommodell",
+          "beschriftung": "Atommodell",
+          "haupt": false,
+          "artikel": "Liste der Atommodelle",
+          "wikidata": "Q210553"
+        },
+        {
+          "titel": "Mikrokosmos",
+          "beschriftung": "Mikrokosmos",
+          "haupt": false,
+          "artikel": "Mikrokosmos",
+          "wikidata": "Q6277460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "215",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-08-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10 Jahre Vertreibung",
+      "bild_beschreibung": "Gruppe von Heimatvertriebenen",
+      "entwerfer": "Hahn und Lemcke",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1955 215 Vertreibung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vertreibung",
+          "beschriftung": "Vertreibung",
+          "haupt": true,
+          "artikel": "Vertreibung",
+          "wikidata": "Q837556"
+        },
+        {
+          "titel": "Heimatvertriebener (Bundesvertriebenengesetz)",
+          "beschriftung": "Heimatvertriebenen",
+          "haupt": false,
+          "artikel": "Heimatvertriebener (Bundesvertriebenengesetz)",
+          "wikidata": "Q13427787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "216",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-08-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "1000 Jahre Schlacht auf dem Lechfeld",
+      "bild_beschreibung": "Das Ende der Ungarnkriege im Jahre 955; Das Wappen Augsburgs, der Reichsapfel mit Schwert und Pinienzapfen, getroffen von 3 Pfeilen",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1955 216 Lechfeld.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schlacht auf dem Lechfeld",
+          "beschriftung": "Schlacht auf dem Lechfeld",
+          "haupt": true,
+          "artikel": "Schlacht auf dem Lechfeld",
+          "wikidata": "Q273069"
+        },
+        {
+          "titel": "Augsburg",
+          "beschriftung": "Augsburg",
+          "haupt": false,
+          "artikel": "Augsburg",
+          "wikidata": "Q2749"
+        },
+        {
+          "titel": "Reichsapfel",
+          "beschriftung": "Reichsapfel",
+          "haupt": false,
+          "artikel": "Reichsapfel",
+          "wikidata": "Q461585"
+        },
+        {
+          "titel": "Schwert",
+          "beschriftung": "Schwert",
+          "haupt": false,
+          "artikel": "Schwert",
+          "wikidata": "Q12791"
+        },
+        {
+          "titel": "Pinie",
+          "beschriftung": "Pinie",
+          "haupt": false,
+          "artikel": "Pinie",
+          "wikidata": "Q106094"
+        },
+        {
+          "titel": "Pfeil (Geschoss)",
+          "beschriftung": "Pfeilen",
+          "haupt": false,
+          "artikel": "Pfeil (Geschoss)",
+          "wikidata": "Q45922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "217",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-09-14",
+      "wert": "10+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationale Briefmarkenausstellung WESTROPA 1955",
+      "bild_beschreibung": "stilisierte Brieftaube und Lupe",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 2000000,
+      "commons_datei": "DBP 1955 217 Briefmarkenausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brieftaube",
+          "beschriftung": "Brieftaube",
+          "haupt": true,
+          "artikel": "Brieftaube",
+          "wikidata": "Q138756"
+        },
+        {
+          "titel": "Lupe",
+          "beschriftung": "Lupe",
+          "haupt": false,
+          "artikel": "Lupe",
+          "wikidata": "Q166849"
+        }
+      ]
+    },
+    {
+      "mi_nr": "218",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-09-14",
+      "wert": "20+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationale Briefmarkenausstellung WESTROPA 1955",
+      "bild_beschreibung": "stilisiertes Posthorn und Pinzette",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 1500000,
+      "commons_datei": "DBP 1955 218 Briefmarkenausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Pinzette",
+          "beschriftung": "Pinzette",
+          "haupt": false,
+          "artikel": "Pinzette",
+          "wikidata": "Q192504"
+        }
+      ]
+    },
+    {
+      "mi_nr": "219",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Europäische Fahrplankonferenz in Wiesbaden",
+      "bild_beschreibung": "Eisenbahnsignal vor symbolisierten Schienen",
+      "entwerfer": "Anton Stankowski",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 219 Fahrplankonferenz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wiesbaden",
+          "beschriftung": "Wiesbaden",
+          "haupt": true,
+          "artikel": "Wiesbaden",
+          "wikidata": "Q1721"
+        },
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": false,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        },
+        {
+          "titel": "Schiene (Schienenverkehr)",
+          "beschriftung": "Schienen",
+          "haupt": false,
+          "artikel": "Schiene (Bahn)",
+          "wikidata": "Q633423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "220",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "150. Geburtstag von Adalbert Stifter (1805–1868)",
+      "bild_beschreibung": "Schriftsteller, Maler und Pädagoge",
+      "entwerfer": "Anton Stankowski",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1955 220 Adalbert Stifter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adalbert Stifter",
+          "beschriftung": "Adalbert Stifter",
+          "haupt": true,
+          "artikel": "Adalbert Stifter",
+          "wikidata": "Q168542"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Malerei",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Pädagoge",
+          "beschriftung": "Pädagoge",
+          "haupt": false,
+          "artikel": "Pädagoge",
+          "wikidata": "Q1231865"
+        }
+      ]
+    },
+    {
+      "mi_nr": "221",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10 Jahre UNO (Vereinte Nationen)",
+      "bild_beschreibung": "Das Emblem der UNO, stilisierter Weltkugel umrahmt von Lorbeerkranz",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1955 221 Vereinte Nationen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": true,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Globus (Kartografie)",
+          "beschriftung": "Weltkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Lorbeerkranz",
+          "beschriftung": "Lorbeerkranz",
+          "haupt": false,
+          "artikel": "Lorbeerkranz",
+          "wikidata": "Q734844"
+        }
+      ]
+    },
+    {
+      "mi_nr": "222",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-15",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Amalie Sieveking (1794–1859); Mitbegründerin der organisierten Diakonie",
+      "entwerfer": "Hubert Berke",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Amalie Sieveking",
+          "beschriftung": "Amalie Sieveking",
+          "haupt": true,
+          "artikel": "Amalie Sieveking",
+          "wikidata": "Q108680"
+        },
+        {
+          "titel": "Diakonie",
+          "beschriftung": "Diakonie",
+          "haupt": false,
+          "artikel": "Diakonie",
+          "wikidata": "Q1208280"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "223",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-15",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Adolph Kolping (1813–1865); Katholischer Priester und Begründer des Kolpingwerkes",
+      "entwerfer": "Hubert Berke",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolph Kolping",
+          "beschriftung": "Adolph Kolping",
+          "haupt": true,
+          "artikel": "Adolph Kolping",
+          "wikidata": "Q60619"
+        },
+        {
+          "titel": "Römisch-katholische Kirche",
+          "beschriftung": "Katholischer",
+          "haupt": false,
+          "artikel": "Römisch-katholische Kirche",
+          "wikidata": "Q9592"
+        },
+        {
+          "titel": "Priester (Christentum)",
+          "beschriftung": "Priester",
+          "haupt": false,
+          "artikel": "Priester (Christentum)",
+          "wikidata": "Q831474"
+        },
+        {
+          "titel": "Kolpingwerk",
+          "beschriftung": "Kolpingwerk",
+          "haupt": false,
+          "artikel": "Kolping Deutschland",
+          "wikidata": "Q315825"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "224",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-15",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Samuel Hahnemann (1755–1843); Arzt, medizinischer Schriftsteller und Übersetzer, er ist der Begründer der Homöopathie",
+      "entwerfer": "Hubert Berke",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Samuel Hahnemann",
+          "beschriftung": "Samuel Hahnemann",
+          "haupt": true,
+          "artikel": "Samuel Hahnemann",
+          "wikidata": "Q157056"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "medizin",
+          "beschriftung": "medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Übersetzer",
+          "beschriftung": "Übersetzer",
+          "haupt": false,
+          "artikel": "Übersetzer",
+          "wikidata": "Q333634"
+        },
+        {
+          "titel": "Homöopathie",
+          "beschriftung": "Homöopathie",
+          "haupt": false,
+          "artikel": "Homöopathie",
+          "wikidata": "Q81058"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "225",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-15",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Florence Nightingale (1820–1910); Britische Krankenschwester, sie gilt als Pionierin der modernen Krankenpflege, Ehrenmitglied in der American Statistical Association; Eine kleine Besonderheit stellt diese Marke insofern dar, dass der Vorname Florence fälschlich als Florentine gedruckt wurde",
+      "entwerfer": "Hubert Berke",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Florence Nightingale",
+          "beschriftung": "Florence Nightingale",
+          "haupt": true,
+          "artikel": "Florence Nightingale",
+          "wikidata": "Q37103"
+        },
+        {
+          "titel": "Vereinigtes Königreich",
+          "beschriftung": "Britische",
+          "haupt": false,
+          "artikel": "Vereinigtes Königreich",
+          "wikidata": "Q145"
+        },
+        {
+          "titel": "Gesundheits- und Krankenpfleger",
+          "beschriftung": "Krankenschwester",
+          "haupt": false,
+          "artikel": "Gesundheits- und Krankenpfleger",
+          "wikidata": "Q186360"
+        },
+        {
+          "titel": "American Statistical Association",
+          "beschriftung": "American Statistical Association",
+          "haupt": false,
+          "artikel": "American Statistical Association",
+          "wikidata": "Q467040"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "226",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-12-01",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "",
+      "bild_beschreibung": "Als Ergänzung zu anderen Werten gedacht; gleiches Motiv wie Marke von 1958 MiNr. 285, jedoch anderes Wasserzeichen",
+      "entwerfer": "Arthur Schraml",
+      "auflage": 113500000,
+      "commons_datei": "DBP 1955 226 Einer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1958 der Deutschen Bundespost",
+          "beschriftung": "gleiches Motiv wie Marke von 1958",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1958 der Deutschen Bundespost",
+          "wikidata": "Q914436"
+        },
+        {
+          "titel": "Wasserzeichen (Briefmarkenpapier)",
+          "beschriftung": "Wasserzeichen",
+          "haupt": false,
+          "artikel": "Wasserzeichen (Briefmarkenpapier)",
+          "wikidata": "Q18632671"
+        }
+      ]
+    }
+  ]
+}

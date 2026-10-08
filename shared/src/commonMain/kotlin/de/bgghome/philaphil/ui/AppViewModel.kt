@@ -51,6 +51,7 @@ data class AppZustand(
     val liste: List<Marke> get() = suchtreffer ?: jahrgang
     val hauptthema: MarkenThema? get() = themen.firstOrNull { it.haupt }
     private val jahrIndex: Int get() = jahrgaenge.indexOfFirst { it.gebiet == gebiet && it.jahr == jahr }
+    val aktuellerJahrgang: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex)
     val voriger: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex - 1)
     val naechster: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex + 1)
     fun bild(marke: Marke?): BildInfo? = marke?.commons_datei?.let { bilder[it] }

@@ -1,0 +1,323 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1949,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1949 der Deutschen Post",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1949_der_Deutschen_Post",
+    "revision": 230551053,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 111,
+    "mi_nr_bis": 120,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 10,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-09-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-08-31",
+      "anlass": "Eröffnung des 1. Deutschen Bundestages",
+      "bild_beschreibung": "Richtfest",
+      "entwerfer": "Max Bittrof",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Richtfest",
+          "beschriftung": "Richtfest",
+          "haupt": true,
+          "artikel": "Richtfest",
+          "wikidata": "Q1075723"
+        },
+        {
+          "titel": "Deutscher Bundestag",
+          "beschriftung": "Deutschen Bundestages",
+          "haupt": false,
+          "artikel": "Deutscher Bundestag",
+          "wikidata": "Q154797"
+        }
+      ]
+    },
+    {
+      "mi_nr": "112",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-09-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-08-31",
+      "anlass": "Eröffnung des 1. Deutschen Bundestages",
+      "bild_beschreibung": "Richtfest",
+      "entwerfer": "Max Bittrof",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Bundestag",
+          "beschriftung": "Deutschen Bundestages",
+          "haupt": true,
+          "artikel": "Deutscher Bundestag",
+          "wikidata": "Q154797"
+        }
+      ]
+    },
+    {
+      "mi_nr": "113",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-09-30",
+      "wert": "10+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-08-31",
+      "anlass": "100 Jahre deutsche Briefmarken",
+      "bild_beschreibung": "1 Kreuzer Königreich Bayern; Zuschlagmarke",
+      "entwerfer": "Bruckmann",
+      "auflage": 1000000,
+      "commons_datei": "DBP 1949 113 Briefmarken.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzer Einser",
+          "beschriftung": "1 Kreuzer Königreich Bayern",
+          "haupt": true,
+          "artikel": "Schwarzer Einser",
+          "wikidata": "Q252093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "114",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-09-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-08-31",
+      "anlass": "100 Jahre deutsche Briefmarken",
+      "bild_beschreibung": "3 Kreuzer Königreich Bayern",
+      "entwerfer": "Bruckmann",
+      "auflage": 1000000,
+      "commons_datei": "DBP 1949 114 Briefmarken.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "115",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-09-30",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-08-31",
+      "anlass": "100 Jahre deutsche Briefmarken",
+      "bild_beschreibung": "6 Kreuzer Königreich Bayern",
+      "entwerfer": "Bruckmann",
+      "auflage": 1000000,
+      "commons_datei": "DBP 1949 115 Briefmarken.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "116",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-10-09",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-08-31",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan (1831–1897); Mitbegründer des Weltpostvereins",
+      "entwerfer": "Max Bittrof",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "117",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-14",
+      "wert": "8+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-03-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Wohlfahrtsmarken mit Zuschlag; Heilige Elisabeth von Thüringen (1207–1231); Landgräfin",
+      "entwerfer": "unbekannt",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1949 117 Elisabeth v Thüringen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "Elisabeth von Thüringen",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        },
+        {
+          "titel": "Graf",
+          "beschriftung": "Landgräfin",
+          "haupt": false,
+          "artikel": "Graf",
+          "wikidata": "Q3519259"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "118",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-14",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-03-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Paracelsus von Hohenheim (1493–1541); Philosoph und Arzt",
+      "entwerfer": "unbekannt",
+      "auflage": 6000000,
+      "commons_datei": "DBP 1949 118 Paracelsus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paracelsus",
+          "beschriftung": "Paracelsus",
+          "haupt": true,
+          "artikel": "Paracelsus",
+          "wikidata": "Q83428"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "119",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-14",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-03-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Friedrich Fröbel (1782–1852); Pädagoge",
+      "entwerfer": "unbekannt",
+      "auflage": 6000000,
+      "commons_datei": "DBP 1949 119 Fröbel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Fröbel",
+          "beschriftung": "Friedrich Fröbel",
+          "haupt": true,
+          "artikel": "Friedrich Fröbel",
+          "wikidata": "Q76679"
+        },
+        {
+          "titel": "Pädagoge",
+          "beschriftung": "Pädagoge",
+          "haupt": false,
+          "artikel": "Pädagoge",
+          "wikidata": "Q1231865"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "120",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-14",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-03-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Johann Hinrich Wichern (1808–1881); Theologe",
+      "entwerfer": "unbekannt",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1949 120 Wichern.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Hinrich Wichern",
+          "beschriftung": "Johann Hinrich Wichern",
+          "haupt": true,
+          "artikel": "Johann Hinrich Wichern",
+          "wikidata": "Q73048"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    }
+  ]
+}

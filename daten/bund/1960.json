@@ -1,0 +1,768 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1960,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1960 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1960_der_Deutschen_Bundespost",
+    "revision": 260383527,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 326,
+    "mi_nr_bis": 345,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Weltflüchtlingsjahr",
+      "bild_beschreibung": "stilisierter Baum in einer Weltkugel",
+      "entwerfer": "Rastorfer",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1960 326 Weltflüchtlingsjahr.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Weltflüchtlingsjahr",
+          "haupt": true,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Weltflüchtlingsjahr",
+      "bild_beschreibung": "stilisierter Baum in einer Weltkugel",
+      "entwerfer": "Rastorfer",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1960 327 Weltflüchtlingsjahr.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Weltflüchtlingsjahr",
+          "haupt": true,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "400. Todestag von Philipp Melanchthon (1497–1560)",
+      "bild_beschreibung": "Philologe, Philosoph, Humanist, Theologe, Lehrbuchautor und Dichter; nach einem Gemälde von Lucas Cranach dem Älteren (1472–1553)",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1960 328 Philipp Melanchthon.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Philipp Melanchthon",
+          "beschriftung": "Philipp Melanchthon",
+          "haupt": true,
+          "artikel": "Philipp Melanchthon",
+          "wikidata": "Q76325"
+        },
+        {
+          "titel": "Philologe",
+          "beschriftung": "Philologe",
+          "haupt": false,
+          "artikel": "Philologie",
+          "wikidata": "Q40634"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Humanist",
+          "beschriftung": "Humanist",
+          "haupt": false,
+          "artikel": "Humanismus",
+          "wikidata": "Q46158"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Autor",
+          "beschriftung": "Lehrbuchautor",
+          "haupt": false,
+          "artikel": "Autor",
+          "wikidata": "Q482980"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Lucas Cranach der Ältere",
+          "beschriftung": "Lucas Cranach dem Älteren",
+          "haupt": false,
+          "artikel": "Lucas Cranach der Ältere",
+          "wikidata": "Q191748"
+        }
+      ]
+    },
+    {
+      "mi_nr": "329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-05-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Passionsspiele in Oberammergau",
+      "bild_beschreibung": "Kreuz und Folterinstrumente",
+      "entwerfer": "Herbert Kern",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Oberammergauer Passionsspiele",
+          "beschriftung": "Passionsspiele",
+          "haupt": true,
+          "artikel": "Oberammergauer Passionsspiele",
+          "wikidata": "Q2008913"
+        },
+        {
+          "titel": "Oberammergau",
+          "beschriftung": "Oberammergau",
+          "haupt": false,
+          "artikel": "Oberammergau",
+          "wikidata": "Q503757"
+        },
+        {
+          "titel": "Kreuz (Christentum)",
+          "beschriftung": "Kreuz",
+          "haupt": false,
+          "artikel": "Kreuz (Christentum)",
+          "wikidata": "Q392371"
+        },
+        {
+          "titel": "Folterinstrument",
+          "beschriftung": "Folterinstrument",
+          "haupt": false,
+          "artikel": "Folterinstrument",
+          "wikidata": "Q933870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "37. Eucharistischer Weltkongress in München",
+      "bild_beschreibung": "Stilisierte Taube, Kreuz und Kelch",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1960 330 Eucharistischer Weltkongress.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tauben",
+          "beschriftung": "Taube",
+          "haupt": true,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        },
+        {
+          "titel": "Kelch (Gefäß)",
+          "beschriftung": "Kelch",
+          "haupt": false,
+          "artikel": "Kelch (Gefäß)",
+          "wikidata": "Q18451251"
+        },
+        {
+          "titel": "37. Eucharistischer Weltkongress",
+          "beschriftung": "37. Eucharistischer Weltkongress",
+          "haupt": false,
+          "artikel": "37. Eucharistischer Weltkongress",
+          "wikidata": "Q19833940"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "331",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "37. Eucharistischer Weltkongress in München",
+      "bild_beschreibung": "Stilisierte Taube, Kreuz und Kelch",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "37. Eucharistischer Weltkongress",
+          "beschriftung": "37. Eucharistischer Weltkongress",
+          "haupt": true,
+          "artikel": "37. Eucharistischer Weltkongress",
+          "wikidata": "Q19833940"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-08-08",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Olympische Spiele in Rom",
+      "bild_beschreibung": "Ringen, historische Abbildung",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ringen",
+          "beschriftung": "Ringen",
+          "haupt": true,
+          "artikel": "Ringen",
+          "wikidata": "Q42486"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        }
+      ]
+    },
+    {
+      "mi_nr": "333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-08-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Olympische Spiele in Rom",
+      "bild_beschreibung": "Laufen, historische Abbildung",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Laufsport",
+          "beschriftung": "Laufen",
+          "haupt": true,
+          "artikel": "Laufsport",
+          "wikidata": "Q10572883"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        }
+      ]
+    },
+    {
+      "mi_nr": "334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-08-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Olympische Spiele in Rom",
+      "bild_beschreibung": "Diskuswurf und Speerwurf, historische Abbildung",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diskuswurf",
+          "beschriftung": "Diskuswurf",
+          "haupt": true,
+          "artikel": "Diskuswurf",
+          "wikidata": "Q182570"
+        },
+        {
+          "titel": "Speerwurf",
+          "beschriftung": "Speerwurf",
+          "haupt": false,
+          "artikel": "Speerwurf",
+          "wikidata": "Q178108"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        }
+      ]
+    },
+    {
+      "mi_nr": "335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-08-08",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Olympische Spiele in Rom",
+      "bild_beschreibung": "Wagenrennen, historische Abbildung",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1960 335 Olympische Spiele.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wagenrennen",
+          "beschriftung": "Wagenrennen",
+          "haupt": true,
+          "artikel": "Wagenrennen",
+          "wikidata": "Q1164462"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        }
+      ]
+    },
+    {
+      "mi_nr": "336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "1000. Geburtstag der Bischöfe hl. Bernward und Godehard",
+      "bild_beschreibung": "Michaeliskirche in Hildesheim und die Bischofsinsignien",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1960 336 Bernward und Godehard.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bischof",
+          "beschriftung": "Bischöfe",
+          "haupt": true,
+          "artikel": "Bischof",
+          "wikidata": "Q29182"
+        },
+        {
+          "titel": "Bernward von Hildesheim",
+          "beschriftung": "hl. Bernward",
+          "haupt": false,
+          "artikel": "Bernward von Hildesheim",
+          "wikidata": "Q702308"
+        },
+        {
+          "titel": "Godehard von Hildesheim",
+          "beschriftung": "Godehard",
+          "haupt": false,
+          "artikel": "Godehard von Hildesheim",
+          "wikidata": "Q61914"
+        },
+        {
+          "titel": "St. Michael (Hildesheim)",
+          "beschriftung": "Michaeliskirche",
+          "haupt": false,
+          "artikel": "Michaeliskirche (Hildesheim)",
+          "wikidata": "Q158324"
+        },
+        {
+          "titel": "Hildesheim",
+          "beschriftung": "Hildesheim",
+          "haupt": false,
+          "artikel": "Hildesheim",
+          "wikidata": "Q3185"
+        }
+      ]
+    },
+    {
+      "mi_nr": "337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Wagenrad mit 19 Speichen",
+      "entwerfer": "Rahikainen",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rad",
+          "beschriftung": "Wagenrad",
+          "haupt": true,
+          "artikel": "Rad",
+          "wikidata": "Q446"
+        },
+        {
+          "titel": "Speiche (Rad)",
+          "beschriftung": "Speichen",
+          "haupt": false,
+          "artikel": "Speiche (Rad)",
+          "wikidata": "Q845671"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "338",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Wagenrad mit 19 Speichen",
+      "entwerfer": "Rahikainen",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Wagenrad mit 19 Speichen",
+      "entwerfer": "Rahikainen",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-01",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Wohlfahrtsmarken, Rotkäppchen",
+      "bild_beschreibung": "Märchen der Brüder Grimm; Rotkäppchen trifft den Wolf",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 8500000,
+      "commons_datei": "DBP 1960 340 Wohlfahrt Rotkäppchen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Wolf",
+          "beschriftung": "Wolf",
+          "haupt": false,
+          "artikel": "Wolf",
+          "wikidata": "Q18498"
+        },
+        {
+          "titel": "Rotkäppchen",
+          "beschriftung": "Rotkäppchen",
+          "haupt": false,
+          "artikel": "Rotkäppchen",
+          "wikidata": "Q11838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Wohlfahrtsmarken, Rotkäppchen",
+      "bild_beschreibung": "Rotkäppchen am Bett der Großmutter, worin aber der verkleidete Wolf liegt",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 15250000,
+      "commons_datei": "DBP 1960 341 Wohlfahrt Rotkäppchen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotkäppchen",
+          "beschriftung": "Rotkäppchen",
+          "haupt": true,
+          "artikel": "Rotkäppchen",
+          "wikidata": "Q11838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Wohlfahrtsmarken, Rotkäppchen",
+      "bild_beschreibung": "Der Jäger befreit Großmutter und Rotkäppchen aus dem Bauch des Wolfs",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 10300000,
+      "commons_datei": "DBP 1960 342 Wohlfahrt Rotkäppchen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jäger",
+          "beschriftung": "Jäger",
+          "haupt": true,
+          "artikel": "Jäger",
+          "wikidata": "Q1714828"
+        },
+        {
+          "titel": "Rotkäppchen",
+          "beschriftung": "Rotkäppchen",
+          "haupt": false,
+          "artikel": "Rotkäppchen",
+          "wikidata": "Q11838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "343",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-01",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Wohlfahrtsmarken, Rotkäppchen",
+      "bild_beschreibung": "Großmutter und Rotkäppchen wieder wohlauf und erfreuen sich an den mitgebrachten Gaben",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 5200000,
+      "commons_datei": "DBP 1960 343 Wohlfahrt Rotkäppchen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotkäppchen",
+          "beschriftung": "Rotkäppchen",
+          "haupt": true,
+          "artikel": "Rotkäppchen",
+          "wikidata": "Q11838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "1. Todestag von George C. Marshall (1880–1959)",
+      "bild_beschreibung": "Amerikanischer General, bekam 1953 den Friedensnobelpreis",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1960 344 George C. Marshall.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "George C. Marshall",
+          "beschriftung": "George C. Marshall",
+          "haupt": true,
+          "artikel": "George C. Marshall",
+          "wikidata": "Q151414"
+        },
+        {
+          "titel": "General",
+          "beschriftung": "General",
+          "haupt": false,
+          "artikel": "General",
+          "wikidata": "Q83460"
+        },
+        {
+          "titel": "Friedensnobelpreis",
+          "beschriftung": "Friedensnobelpreis",
+          "haupt": false,
+          "artikel": "Friedensnobelpreis",
+          "wikidata": "Q35637"
+        }
+      ]
+    },
+    {
+      "mi_nr": "345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-12-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "125 Jahre deutsche Eisenbahnen",
+      "bild_beschreibung": "Der Adler, erste Dampflokomotive von 1835 zwischen Nürnberg und Fürth",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1960 345 125 Jahre Eisenbahnen, Adler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": true,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        },
+        {
+          "titel": "LEG – Adler und Pfeil",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "LEG – Adler und Pfeil",
+          "wikidata": "Q358107"
+        },
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": false,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        },
+        {
+          "titel": "Fürth",
+          "beschriftung": "Fürth",
+          "haupt": false,
+          "artikel": "Fürth",
+          "wikidata": "Q3075"
+        }
+      ]
+    }
+  ]
+}

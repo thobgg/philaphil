@@ -1,0 +1,2046 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2002,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2002 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2002_der_Bundesrepublik_Deutschland",
+    "revision": 259737309,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2231,
+    "mi_nr_bis": 2304,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 64,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2231",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-01-10",
+      "wert": "56+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Umweltschutz",
+      "bild_beschreibung": "Internationales Jahr der Berge",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 2130000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2232",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-01-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Bautzen",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner, Regina Steiner",
+      "auflage": 30872000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bautzen",
+          "beschriftung": "Bautzen",
+          "haupt": true,
+          "artikel": "Bautzen",
+          "wikidata": "Q14835"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2233",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-01-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Hans von Dohnanyi",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 22000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans von Dohnanyi",
+          "beschriftung": "Hans von Dohnanyi",
+          "haupt": true,
+          "artikel": "Hans von Dohnanyi",
+          "wikidata": "Q63470"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2234",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-01-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Einführung des EURO",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 52360000,
+      "commons_datei": "Stamp Germany 2002 MiNr2234 Euroeinführung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "EURO",
+          "beschriftung": "EURO",
+          "haupt": true,
+          "artikel": "Euro",
+          "wikidata": "Q4916"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2235",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-01-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Kampagne für mehr Toleranz",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 23000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2236",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-01-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Einführung des EURO",
+      "bild_beschreibung": "Selbstklebend aus Rolle",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 63456000,
+      "commons_datei": "Stamp Germany 2002 MiNr2234 Euroeinführung.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2237",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-02-07",
+      "wert": "51+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Olympische Winterspiele in Salt Lake City",
+      "bild_beschreibung": "Biathlon",
+      "entwerfer": "Lutz Menze",
+      "auflage": 3534904,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biathlon",
+          "beschriftung": "Biathlon",
+          "haupt": true,
+          "artikel": "Biathlon",
+          "wikidata": "Q166788"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Winterspiele 2002",
+          "beschriftung": "Olympische Winterspiele in Salt Lake City",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 2002",
+          "wikidata": "Q9668"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2238",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-02-07",
+      "wert": "56+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Olympische Winterspiele in Salt Lake City",
+      "bild_beschreibung": "Eisschnelllauf",
+      "entwerfer": "Lutz Menze",
+      "auflage": 3394904,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisschnelllauf",
+          "beschriftung": "Eisschnelllauf",
+          "haupt": true,
+          "artikel": "Eisschnelllauf",
+          "wikidata": "Q17165362"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Winterspiele 2002",
+          "beschriftung": "Olympische Winterspiele in Salt Lake City",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 2002",
+          "wikidata": "Q9668"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2239",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-02-07",
+      "wert": "56+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Olympische Winterspiele in Salt Lake City",
+      "bild_beschreibung": "Skispringen",
+      "entwerfer": "Lutz Menze",
+      "auflage": 3394904,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": true,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Winterspiele 2002",
+          "beschriftung": "Olympische Winterspiele in Salt Lake City",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 2002",
+          "wikidata": "Q9668"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2240",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-02-07",
+      "wert": "153+51",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Olympische Winterspiele in Salt Lake City",
+      "bild_beschreibung": "Rodeln",
+      "entwerfer": "Lutz Menze",
+      "auflage": 3304904,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rennrodeln",
+          "beschriftung": "Rodeln",
+          "haupt": true,
+          "artikel": "Rennrodeln",
+          "wikidata": "Q273285"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Winterspiele 2002",
+          "beschriftung": "Olympische Winterspiele in Salt Lake City",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 2002",
+          "wikidata": "Q9668"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2241",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-02-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Adolph Freiherr Knigge",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2241 Knigge.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolph Freiherr Knigge",
+          "beschriftung": "Adolph Freiherr Knigge",
+          "haupt": true,
+          "artikel": "Adolph Knigge",
+          "wikidata": "Q213681"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2242",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-02-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Berliner U-Bahn",
+      "bild_beschreibung": "",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 50000000,
+      "commons_datei": "Sondermarke 100 Jahre Berliner U-Bahn.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "U-Bahn Berlin",
+          "beschriftung": "Berliner U-Bahn",
+          "haupt": true,
+          "artikel": "U-Bahn Berlin",
+          "wikidata": "Q68646"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2243",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-03-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Kulturstiftung der Länder",
+      "bild_beschreibung": "Rechenmaschine von Johann Christoph Schuster",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 30170000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "beschriftung": "Kulturstiftung der Länder",
+          "haupt": true,
+          "artikel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "wikidata": "Q1538086"
+        },
+        {
+          "titel": "Johann Christoph Schuster",
+          "beschriftung": "Johann Christoph Schuster",
+          "haupt": false,
+          "artikel": "Johann Christoph Schuster",
+          "wikidata": "Q3112099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2244",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-03-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Deggendorf",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deggendorf",
+          "beschriftung": "Deggendorf",
+          "haupt": true,
+          "artikel": "Deggendorf",
+          "wikidata": "Q16083"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2245",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-03-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Bautzen",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 57150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2246",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Stiftung Ecksberg für geistig Behinderte",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2247",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsches Freimaurermuseum, Bayreuth",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Freimaurer-Museum",
+          "beschriftung": "Deutsches Freimaurermuseum",
+          "haupt": true,
+          "artikel": "Deutsches Freimaurer-Museum",
+          "wikidata": "Q1205644"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2248",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Baden-Württemberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 50100000,
+      "commons_datei": "Stamp Germany 2002 MiNr2248 Baden-Württemberg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Baden-Württemberg",
+          "beschriftung": "Baden-Württemberg",
+          "haupt": true,
+          "artikel": "Baden-Württemberg",
+          "wikidata": "Q985"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2249",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "153",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bundesanstalt für Arbeit",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 50000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2249 Bundesanstalt für Arbeit.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesagentur für Arbeit",
+          "beschriftung": "Bundesanstalt für Arbeit",
+          "haupt": true,
+          "artikel": "Bundesagentur für Arbeit",
+          "wikidata": "Q1478016"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2250",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 61165000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post!",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2251",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "153 300 Pfennig",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Johann Heinrich Voß",
+      "bild_beschreibung": "Selbstklebend aus Rollen – In gleicher Zeichnung auch 2001 herausgegeben",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 39818000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Voß",
+          "beschriftung": "Johann Heinrich Voß",
+          "haupt": true,
+          "artikel": "Johann Heinrich Voß",
+          "wikidata": "Q62188"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 2001 der Bundesrepublik Deutschland",
+          "beschriftung": "2001",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 2001 der Bundesrepublik Deutschland",
+          "wikidata": "Q914787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2252",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Zirkus",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 130000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2253",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Gartenreich Dessau-Wörlitz (Schloss Wörlitz und Wörlitzer See)",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Dessau-Wörlitzer Gartenreich",
+          "beschriftung": "Gartenreich Dessau-Wörlitz",
+          "haupt": false,
+          "artikel": "Dessau-Wörlitzer Gartenreich",
+          "wikidata": "Q157543"
+        },
+        {
+          "titel": "Schloss Wörlitz",
+          "beschriftung": "Schloss Wörlitz",
+          "haupt": false,
+          "artikel": "Schloss Wörlitz",
+          "wikidata": "Q21293161"
+        },
+        {
+          "titel": "Wörlitzer See",
+          "beschriftung": "Wörlitzer See",
+          "haupt": false,
+          "artikel": "Wörlitzer See",
+          "wikidata": "Q2596485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2254",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Universität Halle-Wittenberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin-Luther-Universität Halle-Wittenberg",
+          "beschriftung": "Universität Halle-Wittenberg",
+          "haupt": true,
+          "artikel": "Martin-Luther-Universität Halle-Wittenberg",
+          "wikidata": "Q32120"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2255",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "225",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Albrecht Daniel Thaer",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 21628000,
+      "commons_datei": "Stamp Germany 2002 MiNr2255 Albrecht Daniel Thaer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albrecht Daniel Thaer",
+          "beschriftung": "Albrecht Daniel Thaer",
+          "haupt": true,
+          "artikel": "Albrecht Daniel Thaer",
+          "wikidata": "Q63032"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2256",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Kindergottesdienst",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2256 Kindergottesdienst.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kindergottesdienst",
+          "beschriftung": "Kindergottesdienst",
+          "haupt": true,
+          "artikel": "Kindergottesdienst",
+          "wikidata": "Q1741806"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2257",
+      "block": "Block 58",
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 11. documenta",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 6600000,
+      "commons_datei": "Stamp Germany 2002 MiNr2257 Documenta 11.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Documenta11",
+          "beschriftung": "11. documenta",
+          "haupt": true,
+          "artikel": "Documenta11",
+          "wikidata": "Q1233986"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2258",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Fußballweltmeister im 20. Jahrhundert",
+      "bild_beschreibung": "Flaggen der Weltmeisterländer",
+      "entwerfer": "Andrea Acker",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2259",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-05-02",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Fußballweltmeister im 20. Jahrhundert",
+      "bild_beschreibung": "Spielszene mit deutschem Nationalspieler; Gemeinschaftsausgabe mit Argentinien, Brasilien, Frankreich, Italien und Uruguay",
+      "entwerfer": "Andrea Acker",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": true,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Argentinien",
+          "beschriftung": "Argentinien",
+          "haupt": false,
+          "artikel": "Argentinien",
+          "wikidata": "Q414"
+        },
+        {
+          "titel": "Brasilien",
+          "beschriftung": "Brasilien",
+          "haupt": false,
+          "artikel": "Brasilien",
+          "wikidata": "Q155"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        },
+        {
+          "titel": "Italien",
+          "beschriftung": "Italien",
+          "haupt": false,
+          "artikel": "Italien",
+          "wikidata": "Q38"
+        },
+        {
+          "titel": "Uruguay",
+          "beschriftung": "Uruguay",
+          "haupt": false,
+          "artikel": "Uruguay",
+          "wikidata": "Q77"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2260",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "51+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Kinderspielzeug",
+      "bild_beschreibung": "Brettspiel",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 1770000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brettspiel",
+          "beschriftung": "Brettspiel",
+          "haupt": true,
+          "artikel": "Brettspiel",
+          "wikidata": "Q131436"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2261",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "51+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Kinderspielzeug",
+      "bild_beschreibung": "Holzspielzeug",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 1760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": true,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2262",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "56+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Kinderspielzeug",
+      "bild_beschreibung": "Puppe",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 1780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2263",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "56+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Kinderspielzeug",
+      "bild_beschreibung": "Teddybär",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 1850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Teddybär",
+          "beschriftung": "Teddybär",
+          "haupt": true,
+          "artikel": "Teddybär",
+          "wikidata": "Q213477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2264",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "153+51",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Kinderspielzeug",
+      "bild_beschreibung": "Elektrisches Spielzeug",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 1760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2265",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "51",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bedrohte Tierarten",
+      "bild_beschreibung": "Bauchige Windelschnecke",
+      "entwerfer": "Günter Jacki",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauchige Windelschnecke",
+          "beschriftung": "Bauchige Windelschnecke",
+          "haupt": true,
+          "artikel": "Bauchige Windelschnecke",
+          "wikidata": "Q811137"
+        },
+        {
+          "titel": "Bedrohte Tierarten",
+          "beschriftung": "Bedrohte Tierarten",
+          "haupt": false,
+          "artikel": "Bedrohte Tierarten",
+          "wikidata": "Q813944"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2266",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bedrohte Tierarten",
+      "bild_beschreibung": "Flussperlmuschel; Gemeinschaftsausgabe mit Tschechien",
+      "entwerfer": "Günter Jacki",
+      "auflage": 30100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flussperlmuschel",
+          "beschriftung": "Flussperlmuschel",
+          "haupt": true,
+          "artikel": "Flussperlmuschel",
+          "wikidata": "Q772012"
+        },
+        {
+          "titel": "Bedrohte Tierarten",
+          "beschriftung": "Bedrohte Tierarten",
+          "haupt": false,
+          "artikel": "Bedrohte Tierarten",
+          "wikidata": "Q813944"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2267",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-06-06",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Ernst Wilhelm Nay",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Wilhelm Nay",
+          "beschriftung": "Ernst Wilhelm Nay",
+          "haupt": true,
+          "artikel": "Ernst Wilhelm Nay",
+          "wikidata": "Q644630"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2268",
+      "block": "Block 59",
+      "art": "Sondermarke",
+      "ausgabetag": "2002-07-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche National- und Naturparke",
+      "bild_beschreibung": "Nationalpark Hochharz",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": true,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Nationalpark Harz",
+          "beschriftung": "Nationalpark Hochharz",
+          "haupt": false,
+          "artikel": "Nationalpark Harz",
+          "wikidata": "Q702540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2269",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-07-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Germanisches Nationalmuseum, Nürnberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Olaf Jäger, Regina Winkler",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Germanisches Nationalmuseum",
+          "beschriftung": "Germanisches Nationalmuseum",
+          "haupt": true,
+          "artikel": "Germanisches Nationalmuseum",
+          "wikidata": "Q478695"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2270",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-07-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag von Hermann Hesse",
+      "bild_beschreibung": "",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hermann Hesse",
+          "beschriftung": "Hermann Hesse",
+          "haupt": true,
+          "artikel": "Hermann Hesse",
+          "wikidata": "Q25973"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2271",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-07-04",
+      "wert": "51",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Welthungerhilfe",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Welthungerhilfe",
+          "beschriftung": "Deutsche Welthungerhilfe",
+          "haupt": true,
+          "artikel": "Welthungerhilfe",
+          "wikidata": "Q896030"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2272",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-07-04",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Zirkus; Selbstklebend aus Rollen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 38578000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2273",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-08-08",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Aufrechte Demokraten: Josef Felder",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufrechte Demokraten",
+          "beschriftung": "Aufrechte Demokraten",
+          "haupt": true,
+          "artikel": "Aufrechte Demokraten",
+          "wikidata": "Q759871"
+        },
+        {
+          "titel": "Josef Felder",
+          "beschriftung": "Josef Felder",
+          "haupt": false,
+          "artikel": "Josef Felder",
+          "wikidata": "Q103836"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2274",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-08-08",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie Kultur- und Naturerbe der Menschheit",
+      "bild_beschreibung": "Museumsinsel Berlin",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 22560000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Kultur- und Naturerbe der Menschheit",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Museumsinsel (Berlin)",
+          "beschriftung": "Museumsinsel Berlin",
+          "haupt": false,
+          "artikel": "Museumsinsel (Berlin)",
+          "wikidata": "Q151963"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2275",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-08-08",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Feuerwehr",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Freiwillige Feuerwehr",
+          "beschriftung": "Freiwillige Feuerwehr",
+          "haupt": true,
+          "artikel": "Freiwillige Feuerwehr",
+          "wikidata": "Q285852"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2276",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-08-08",
+      "wert": "153",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Museum für Kommunikation Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Museum für Kommunikation Berlin",
+          "beschriftung": "Museum für Kommunikation Berlin",
+          "haupt": true,
+          "artikel": "Museum für Kommunikation Berlin",
+          "wikidata": "Q1271054"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2277",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-08-08",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Gartenreich Dessau-Wörlitz",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 76920000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2278",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-08-30",
+      "wert": "56+44",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Hochwasserhilfe 2002",
+      "bild_beschreibung": "In ähnlicher Zeichnung 1998 herausgegeben",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6740000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Elbhochwasser 2002",
+          "beschriftung": "Hochwasserhilfe 2002",
+          "haupt": true,
+          "artikel": "Hochwasser in Mitteleuropa 2002",
+          "wikidata": "Q86929"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1998 der Bundesrepublik Deutschland",
+          "beschriftung": "1998",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1998 der Bundesrepublik Deutschland",
+          "wikidata": "Q914773"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2279",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-09-05",
+      "wert": "112",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Rotes Elisabeth-Ufer von Ernst Ludwig Kirchner",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2279 Ernst Ludwig Kirchner.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Ludwig Kirchner",
+          "beschriftung": "Ernst Ludwig Kirchner",
+          "haupt": true,
+          "artikel": "Ernst Ludwig Kirchner",
+          "wikidata": "Q229272"
+        },
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": false,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2280",
+      "block": "Block 60",
+      "art": "Sondermarke",
+      "ausgabetag": "2002-09-05",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Kinderfuß mit Zehfigur",
+      "entwerfer": "Birgit Hogrefe",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2281",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-09-05",
+      "wert": "51",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Archäologie in Deutschland",
+      "bild_beschreibung": "Grundmauern eines Badegebäudes (römische Villa von Wurmlingen) mit Pfostenspuren eines eingebauten frühalamannischen Speichers",
+      "entwerfer": "Jünger & Michel",
+      "auflage": 40000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2281 Archäologie.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Römisches Bad (Wurmlingen)",
+          "beschriftung": "römische Villa von Wurmlingen",
+          "haupt": true,
+          "artikel": "Römisches Bad (Wurmlingen)",
+          "wikidata": "Q2202606"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2282",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-10-10",
+      "wert": "153",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "400. Geburtstag von Otto von Guericke",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto von Guericke",
+          "beschriftung": "Otto von Guericke",
+          "haupt": true,
+          "artikel": "Otto von Guericke",
+          "wikidata": "Q60095"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2283",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-10-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "225. Geburtstag von Heinrich von Kleist",
+      "bild_beschreibung": "",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2283 Heinrich von Kleist.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich von Kleist",
+          "beschriftung": "Heinrich von Kleist",
+          "haupt": true,
+          "artikel": "Heinrich von Kleist",
+          "wikidata": "Q28494"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2284",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-10-10",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Eugen Jochum",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eugen Jochum",
+          "beschriftung": "Eugen Jochum",
+          "haupt": true,
+          "artikel": "Eugen Jochum",
+          "wikidata": "Q57419"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2285",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-11-07",
+      "wert": "51+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Verkündigung – Ausschnitt aus Gemälde von Rogier van der Weyden",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rogier van der Weyden",
+          "beschriftung": "Rogier van der Weyden",
+          "haupt": true,
+          "artikel": "Rogier van der Weyden",
+          "wikidata": "Q68631"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2286",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-11-07",
+      "wert": "56+26",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Heilige Familie – Ausschnitt aus Miraflores-Altar von Rogier van der Weyden",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 5650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2287",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-11-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bundeszentrale für politische Bildung",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 2002 MiNr2287 Bundeszentrale für politische Bildung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundeszentrale für politische Bildung",
+          "beschriftung": "Bundeszentrale für politische Bildung",
+          "haupt": true,
+          "artikel": "Bundeszentrale für politische Bildung",
+          "wikidata": "Q520524"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-11-07",
+      "wert": "56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsches Fernsehen",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrea Acker",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Das Erste",
+          "beschriftung": "Deutsches Fernsehen",
+          "haupt": true,
+          "artikel": "Das Erste",
+          "wikidata": "Q49727"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-12-05",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "BMW Isetta 300",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 4580000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "BMW Isetta",
+          "beschriftung": "BMW Isetta 300",
+          "haupt": true,
+          "artikel": "BMW Isetta",
+          "wikidata": "Q17238973"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-12-05",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Trabant P 50",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trabant P 50",
+          "beschriftung": "Trabant P 50",
+          "haupt": true,
+          "artikel": "Trabant P 50",
+          "wikidata": "Q2447347"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-12-05",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Mercedes-Benz 300 SL",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 6800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mercedes-Benz W198",
+          "beschriftung": "Mercedes-Benz 300 SL",
+          "haupt": true,
+          "artikel": "Mercedes-Benz W 198",
+          "wikidata": "Q745023"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-12-05",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "VW Käfer",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 7300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "VW Käfer",
+          "beschriftung": "VW Käfer",
+          "haupt": true,
+          "artikel": "VW Käfer",
+          "wikidata": "Q152946"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-12-05",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Borgward Isabella Coupé",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 5900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Borgward Isabella",
+          "beschriftung": "Borgward Isabella Coupé",
+          "haupt": true,
+          "artikel": "Borgward Isabella",
+          "wikidata": "Q893584"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2002-12-05",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Marktkirche von Halle von Lyonel Feininger",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 130000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marktkirche Unser Lieben Frauen",
+          "beschriftung": "Marktkirche von Halle",
+          "haupt": true,
+          "artikel": "Marktkirche Unser Lieben Frauen",
+          "wikidata": "Q538370"
+        },
+        {
+          "titel": "Lyonel Feininger",
+          "beschriftung": "Lyonel Feininger",
+          "haupt": false,
+          "artikel": "Lyonel Feininger",
+          "wikidata": "Q158255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2298",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,44",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Berliner Philharmonie",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 85421000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Philharmonie",
+          "beschriftung": "Berliner Philharmonie",
+          "haupt": true,
+          "artikel": "Berliner Philharmonie",
+          "wikidata": "Q32653910"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2299",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,45",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Tönninger Packhaus",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 181824000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tönning",
+          "beschriftung": "Tönninger Packhaus",
+          "haupt": true,
+          "artikel": "Tönning",
+          "wikidata": "Q21018"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2303",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,45",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Tönninger Packhaus; selbstklebend aus Markenheftchen und Rollen – teilweise oben und unten geschnitten",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2300",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,55",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Alte Oper Frankfurt",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 540955000,
+      "commons_datei": "Alte Oper Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Oper",
+          "beschriftung": "Alte Oper Frankfurt",
+          "haupt": true,
+          "artikel": "Alte Oper",
+          "wikidata": "Q436079"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2304",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,55",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Alte Oper Frankfurt; selbstklebend aus Markenheftchen und Rollen – teilweise oben und unten geschnitten",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 600000000,
+      "commons_datei": "Alte Oper Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2301",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "1,00",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Porta Nigra Trier",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 119180000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porta Nigra",
+          "beschriftung": "Porta Nigra Trier",
+          "haupt": true,
+          "artikel": "Porta Nigra",
+          "wikidata": "Q152339"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2302",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "1,60",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bauhaus Dessau",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 78760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauhaus Dessau",
+          "beschriftung": "Bauhaus Dessau",
+          "haupt": true,
+          "artikel": "Bauhausgebäude Dessau",
+          "wikidata": "Q516770"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2295",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,45 €",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Annette von Droste-Hülshoff",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 220320000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Annette von Droste-Hülshoff",
+          "beschriftung": "Annette von Droste-Hülshoff",
+          "haupt": true,
+          "artikel": "Annette von Droste-Hülshoff",
+          "wikidata": "Q57307"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2296",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "0,55 €",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Hildegard Knef",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 1143260000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hildegard Knef",
+          "beschriftung": "Hildegard Knef",
+          "haupt": true,
+          "artikel": "Hildegard Knef",
+          "wikidata": "Q57604"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2297",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2002-12-27",
+      "wert": "1,44 €",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Esther von Kirchbach",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 243900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Esther von Kirchbach",
+          "beschriftung": "Esther von Kirchbach",
+          "haupt": true,
+          "artikel": "Esther von Kirchbach",
+          "wikidata": "Q104666"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "ATM 4",
+      "block": null,
+      "art": "Automatenmarke",
+      "ausgabetag": "2002-01-01",
+      "wert": "0,01-36,81",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Postembleme (drei Posthörner)",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Zepp",
+      "auflage": null,
+      "commons_datei": "ATM-de-4.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "ATM 5",
+      "block": null,
+      "art": "Automatenmarke",
+      "ausgabetag": "2002-04-04",
+      "wert": "0,01-36,81",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Briefkasten",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    }
+  ]
+}

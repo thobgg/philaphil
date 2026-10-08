@@ -1,0 +1,909 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1951,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1951 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1951_der_Deutschen_Bundespost",
+    "revision": 249373202,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 123,
+    "mi_nr_bis": 147,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "139",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-30",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-02-29",
+      "anlass": "700 Jahre Marienkirche Lübeck",
+      "bild_beschreibung": "Wandmalerei in der Marienkirche",
+      "entwerfer": "Max Bittrof",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wandmalerei",
+          "beschriftung": "Wandmalerei",
+          "haupt": true,
+          "artikel": "Wandmalerei",
+          "wikidata": "Q219423"
+        },
+        {
+          "titel": "Marienkirche (Lübeck)",
+          "beschriftung": "Marienkirche",
+          "haupt": false,
+          "artikel": "Marienkirche (Lübeck)",
+          "wikidata": "Q695065"
+        },
+        {
+          "titel": "Lübeck",
+          "beschriftung": "Lübeck",
+          "haupt": false,
+          "artikel": "Lübeck",
+          "wikidata": "Q2843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "140",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-30",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-02-29",
+      "anlass": "700 Jahre Marienkirche Lübeck",
+      "bild_beschreibung": "Wandmalerei in der Marienkirche",
+      "entwerfer": "Max Bittrof",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marienkirche (Lübeck)",
+          "beschriftung": "Marienkirche",
+          "haupt": true,
+          "artikel": "Marienkirche (Lübeck)",
+          "wikidata": "Q695065"
+        },
+        {
+          "titel": "Lübeck",
+          "beschriftung": "Lübeck",
+          "haupt": false,
+          "artikel": "Lübeck",
+          "wikidata": "Q2843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "141",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-09-14",
+      "wert": "10+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-03-31",
+      "anlass": "Briefmarkenausstellung in Wuppertal",
+      "bild_beschreibung": "Altdeutsche Briefmarken unter der Lupe",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 1000000,
+      "commons_datei": "DBP 1951 141 Briefmarkenausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lupe",
+          "beschriftung": "Lupe",
+          "haupt": true,
+          "artikel": "Lupe",
+          "wikidata": "Q166849"
+        },
+        {
+          "titel": "Wuppertal",
+          "beschriftung": "Wuppertal",
+          "haupt": false,
+          "artikel": "Wuppertal",
+          "wikidata": "Q2107"
+        }
+      ]
+    },
+    {
+      "mi_nr": "142",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-09-14",
+      "wert": "20+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-03-31",
+      "anlass": "Briefmarkenausstellung in Wuppertal",
+      "bild_beschreibung": "Altdeutsche Briefmarken unter der Lupe",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 1000000,
+      "commons_datei": "DBP 1951 142 Briefmarkenausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wuppertal",
+          "beschriftung": "Wuppertal",
+          "haupt": true,
+          "artikel": "Wuppertal",
+          "wikidata": "Q2107"
+        }
+      ]
+    },
+    {
+      "mi_nr": "143",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-23",
+      "wert": "4+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-05-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Vinzenz von Paul (1581–1660)",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1951 143 Vinzenz von Paul.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vinzenz von Paul",
+          "beschriftung": "Vinzenz von Paul",
+          "haupt": true,
+          "artikel": "Vinzenz von Paul",
+          "wikidata": "Q244413"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "144",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-23",
+      "wert": "10+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-05-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Friedrich von Bodelschwingh (1831–1910)",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 3000000,
+      "commons_datei": "DBP 1951 144 Bodelschwingh.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich von Bodelschwingh der Ältere",
+          "beschriftung": "Friedrich von Bodelschwingh",
+          "haupt": true,
+          "artikel": "Friedrich von Bodelschwingh der Ältere",
+          "wikidata": "Q87306"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "145",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-23",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-05-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Elsa Brändström (1888–1948)",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 3000000,
+      "commons_datei": "DBP 1951 145 Brandström.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elsa Brändström",
+          "beschriftung": "Elsa Brändström",
+          "haupt": true,
+          "artikel": "Elsa Brändström",
+          "wikidata": "Q469673"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "146",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-23",
+      "wert": "30+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-05-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Johann Heinrich Pestalozzi (1746–1827)",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 1500000,
+      "commons_datei": "DBP 1951 146 Pestalozzi.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Pestalozzi",
+          "beschriftung": "Johann Heinrich Pestalozzi",
+          "haupt": true,
+          "artikel": "Johann Heinrich Pestalozzi",
+          "wikidata": "Q105428"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "147",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-12-10",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-05-31",
+      "anlass": "Zum 50. Jahrestag der Verleihung des Nobelpreises an Wilhelm Röntgen",
+      "bild_beschreibung": "Wilhelm Conrad Röntgen (1845–1923)",
+      "entwerfer": "Ludwig Barth",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": true,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Wilhelm Conrad Röntgen",
+          "beschriftung": "Wilhelm Conrad Röntgen",
+          "haupt": false,
+          "artikel": "Wilhelm Conrad Röntgen",
+          "wikidata": "Q35149"
+        }
+      ]
+    },
+    {
+      "mi_nr": "123",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-08-01",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 120430000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "124",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-06-20",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 1931515000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "125",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-08-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 356560000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "126",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-09-20",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 146730000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "127",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-09-20",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 93660000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "128",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-06-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 3510250000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "129",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-09-20",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 180610000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "130",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-06-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 2571370000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "131",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-09-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 99000000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "132",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-08-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 203300000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "133",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-12-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 185350000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "134",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-03-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 106000000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "135",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-12-20",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 231800000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "136",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-03-11",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 34100000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "137",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-04-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 74170000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    },
+    {
+      "mi_nr": "138",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-04-16",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Dauermarkenserie: Posthornsatz",
+      "bild_beschreibung": "Die Werte von 4 Pf bis 25 Pf sind im Buchdruckverfahren hergestellt,; während die Werte von 30 Pf bis 90 Pf im Stichtiefdruckverfahren gedruckt wurden.; Die Buchdruck-Werte sind geringfügig kleiner als die Ausgaben in Stichtiefdruck.",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 59650000,
+      "commons_datei": "DBP 1951 131 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruckverfahren",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Posthornsatz",
+          "beschriftung": "Posthornsatz",
+          "haupt": false,
+          "artikel": "Posthornsatz",
+          "wikidata": "Q2106126"
+        }
+      ]
+    }
+  ]
+}

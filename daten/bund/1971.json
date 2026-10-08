@@ -1,0 +1,1566 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1971,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1971 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1971_der_Deutschen_Bundespost",
+    "revision": 259355668,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 658,
+    "mi_nr_bis": 709,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 38,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "658",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-01-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag der Deutschen Reichsgründung",
+      "bild_beschreibung": "Reichsadler mit Kaiserkrone",
+      "entwerfer": "Stanik",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1971 658 100 Jahre Reichsgründung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Reichsgründung",
+          "beschriftung": "Deutschen Reichsgründung",
+          "haupt": true,
+          "artikel": "Deutsche Reichsgründung",
+          "wikidata": "Q10354157"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        },
+        {
+          "titel": "Kaiserkrone",
+          "beschriftung": "Kaiserkrone",
+          "haupt": false,
+          "artikel": "Kaiserkrone",
+          "wikidata": "Q1220245"
+        }
+      ]
+    },
+    {
+      "mi_nr": "659",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-01-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Friedrich Ebert",
+      "bild_beschreibung": "Reichspräsident, auf der Marke Nr. 417 des Deutschen Reiches von 1928",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Ebert",
+          "beschriftung": "Friedrich Ebert",
+          "haupt": true,
+          "artikel": "Friedrich Ebert",
+          "wikidata": "Q2646"
+        },
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsident",
+          "haupt": false,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        },
+        {
+          "titel": "Deutsches Reich",
+          "beschriftung": "Deutschen Reiches",
+          "haupt": false,
+          "artikel": "Deutsches Reich",
+          "wikidata": "Q1206012"
+        }
+      ]
+    },
+    {
+      "mi_nr": "660",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Kinderzeichnungen",
+      "bild_beschreibung": "Mohrenkönig, Zeichnung einer Neunjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 6117000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "661",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Kinderzeichnungen",
+      "bild_beschreibung": "Floh, Zeichnung eines Elfjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 6074000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flöhe",
+          "beschriftung": "Floh",
+          "haupt": true,
+          "artikel": "Flöhe",
+          "wikidata": "Q388162"
+        }
+      ]
+    },
+    {
+      "mi_nr": "662",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Kinderzeichnungen",
+      "bild_beschreibung": "Gestiefelter Kater, Zeichnung eines Zehnjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 6023000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Gestiefelter Kater",
+          "haupt": true,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "663",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Kinderzeichnungen",
+      "bild_beschreibung": "Schlange, Zeichnung einer Zwölfjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 5653000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlangen",
+          "beschriftung": "Schlange",
+          "haupt": true,
+          "artikel": "Schlangen",
+          "wikidata": "Q2102"
+        }
+      ]
+    },
+    {
+      "mi_nr": "664",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Chemiefaserforschung",
+      "bild_beschreibung": "Kettenmoleküle als Stoffmuster",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 664.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Faser",
+          "beschriftung": "Chemiefaserforschung",
+          "haupt": true,
+          "artikel": "Faser",
+          "wikidata": "Q161"
+        }
+      ]
+    },
+    {
+      "mi_nr": "665",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Schülerlotse, Zeichen 356",
+      "entwerfer": "Horst Wöhrle",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 665.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schülerlotse",
+          "beschriftung": "Schülerlotse",
+          "haupt": true,
+          "artikel": "Schülerlotse",
+          "wikidata": "Q1752545"
+        },
+        {
+          "titel": "Bildtafel der Verkehrszeichen in Deutschland",
+          "beschriftung": "Zeichen",
+          "haupt": false,
+          "artikel": "Bildtafeln der Verkehrszeichen in Deutschland",
+          "wikidata": "Q14912318"
+        },
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "666",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Vorfahrt, Zeichen 301",
+      "entwerfer": "Horst Wöhrle",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 666.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vorfahrtsregel",
+          "beschriftung": "Vorfahrt",
+          "haupt": true,
+          "artikel": "Vorfahrt",
+          "wikidata": "Q448457"
+        },
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "667",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Halt! Vorfahrt gewähren!, Zeichen 206",
+      "entwerfer": "Horst Wöhrle",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 667.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": true,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "668",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-18",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Fußgängerüberweg, Zeichen 350",
+      "entwerfer": "Horst Wöhrle",
+      "auflage": 20000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 668.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußgängerüberweg",
+          "beschriftung": "Fußgängerüberweg",
+          "haupt": true,
+          "artikel": "Fußgängerüberweg",
+          "wikidata": "Q41656948"
+        },
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "669",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-03-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Wormser Reichstags",
+      "bild_beschreibung": "Martin Luther vor Kaiser Karl V. auf dem Reichstag",
+      "entwerfer": "Bert Jäger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichstag zu Worms (1521)",
+          "beschriftung": "Wormser Reichstags",
+          "haupt": true,
+          "artikel": "Reichstag zu Worms (1521)",
+          "wikidata": "Q536822"
+        },
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": false,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        },
+        {
+          "titel": "Karl V. (HRR)",
+          "beschriftung": "Kaiser Karl V.",
+          "haupt": false,
+          "artikel": "Karl V. (HRR)",
+          "wikidata": "Q32500"
+        }
+      ]
+    },
+    {
+      "mi_nr": "670",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-04-16",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Vor dem Überholvorgang blinken",
+      "entwerfer": "Siegel",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 670.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Überholvorgang",
+          "beschriftung": "Überholvorgang",
+          "haupt": true,
+          "artikel": "Überholvorgang",
+          "wikidata": "Q1931051"
+        },
+        {
+          "titel": "Fahrtrichtungsanzeiger",
+          "beschriftung": "blinken",
+          "haupt": false,
+          "artikel": "Fahrtrichtungsanzeiger",
+          "wikidata": "Q1464545"
+        },
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "671",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-04-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Warnleuchte und Warndreieck",
+      "entwerfer": "Siegel",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 671.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Warnleuchte",
+          "beschriftung": "Warnleuchte",
+          "haupt": true,
+          "artikel": "Warnleuchte",
+          "wikidata": "Q2549556"
+        },
+        {
+          "titel": "Warndreieck",
+          "beschriftung": "Warndreieck",
+          "haupt": false,
+          "artikel": "Warndreieck",
+          "wikidata": "Q1751999"
+        },
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "672",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-04-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Nach dem Überholvorgang ebenfalls blinken",
+      "entwerfer": "Siegel",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 672.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": true,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "673",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-04-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Regeln im Straßenverkehr",
+      "bild_beschreibung": "Fußgänger am Überweg, Handzeichen",
+      "entwerfer": "Siegel",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 673.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußverkehr",
+          "beschriftung": "Fußgänger",
+          "haupt": true,
+          "artikel": "Fußverkehr",
+          "wikidata": "Q3859736"
+        },
+        {
+          "titel": "Fußgängerüberweg",
+          "beschriftung": "Überweg",
+          "haupt": false,
+          "artikel": "Fußgängerüberweg",
+          "wikidata": "Q41656948"
+        },
+        {
+          "titel": "Gestik",
+          "beschriftung": "Handzeichen",
+          "haupt": false,
+          "artikel": "Gestik",
+          "wikidata": "Q371174"
+        },
+        {
+          "titel": "Neue Regeln im Straßenverkehr",
+          "beschriftung": "Neue Regeln im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Neue Regeln im Straßenverkehr",
+          "wikidata": "Q14912855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "674",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Todestag von Thomas von Kempen (um 1380–1471)",
+      "bild_beschreibung": "Augustiner-Chorherr und Mystiker",
+      "entwerfer": "Michael Mahlstedt",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 674.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Thomas von Kempen",
+          "beschriftung": "Thomas von Kempen",
+          "haupt": true,
+          "artikel": "Thomas von Kempen",
+          "wikidata": "Q220976"
+        },
+        {
+          "titel": "Augustiner-Chorherren",
+          "beschriftung": "Augustiner-Chorherr",
+          "haupt": false,
+          "artikel": "Augustiner-Chorherren",
+          "wikidata": "Q1270388"
+        },
+        {
+          "titel": "Mystik",
+          "beschriftung": "Mystik",
+          "haupt": false,
+          "artikel": "Mystik",
+          "wikidata": "Q45996"
+        }
+      ]
+    },
+    {
+      "mi_nr": "675",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "symbolische Kette",
+      "entwerfer": "Haflidason",
+      "auflage": 50000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 675.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kette",
+          "beschriftung": "Kette",
+          "haupt": true,
+          "artikel": "Kette",
+          "wikidata": "Q2397485"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "676",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "symbolische Kette",
+      "entwerfer": "Haflidason",
+      "auflage": 71600000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 676.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "677",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Albrecht Dürer (1471–1528)",
+      "bild_beschreibung": "AD, Monogram von Dürer",
+      "entwerfer": "Ewald Sauer",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1971 677 Albrecht Dürer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": true,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        }
+      ]
+    },
+    {
+      "mi_nr": "678",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "historischer Stadtkern von Nürnberg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": true,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "679",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-28",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Ökumenisches Pfingsttreffen in Augsburg",
+      "bild_beschreibung": "Emblem des Treffens",
+      "entwerfer": "Marschler",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1971, MiNr 679.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ökumenisches Pfingsttreffen",
+          "beschriftung": "Ökumenisches Pfingsttreffen",
+          "haupt": true,
+          "artikel": "Ökumenisches Pfingsttreffen",
+          "wikidata": "Q296658"
+        },
+        {
+          "titel": "Augsburg",
+          "beschriftung": "Augsburg",
+          "haupt": false,
+          "artikel": "Augsburg",
+          "wikidata": "Q2749"
+        }
+      ]
+    },
+    {
+      "mi_nr": "680",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Spiele 1972 in München und Sapporo, Einzelmarken",
+      "bild_beschreibung": "Skispringen",
+      "entwerfer": "Kōhei Sugiura",
+      "auflage": 6358000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": true,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "Olympische Winterspiele 1972",
+          "beschriftung": "Sapporo",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1972",
+          "wikidata": "Q9646"
+        }
+      ]
+    },
+    {
+      "mi_nr": "681",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Spiele 1972 in München und Sapporo, Einzelmarken",
+      "bild_beschreibung": "Eiskunstlauf",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 6168000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eiskunstlauf",
+          "beschriftung": "Eiskunstlauf",
+          "haupt": true,
+          "artikel": "Eiskunstlauf",
+          "wikidata": "Q38108"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "Olympische Winterspiele 1972",
+          "beschriftung": "Sapporo",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1972",
+          "wikidata": "Q9646"
+        }
+      ]
+    },
+    {
+      "mi_nr": "682",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Spiele 1972 in München und Sapporo, Einzelmarken",
+      "bild_beschreibung": "Abfahrtslauf",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 6217000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Abfahrt",
+          "beschriftung": "Abfahrt",
+          "haupt": true,
+          "artikel": "Abfahrt",
+          "wikidata": "Q319899"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "Olympische Winterspiele 1972",
+          "beschriftung": "Sapporo",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1972",
+          "wikidata": "Q9646"
+        }
+      ]
+    },
+    {
+      "mi_nr": "683",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Spiele 1972 in München und Sapporo, Einzelmarken",
+      "bild_beschreibung": "Eishockey",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 5769000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eishockey",
+          "beschriftung": "Eishockey",
+          "haupt": true,
+          "artikel": "Eishockey",
+          "wikidata": "Q41466"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "Olympische Winterspiele 1972",
+          "beschriftung": "Sapporo",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1972",
+          "wikidata": "Q9646"
+        }
+      ]
+    },
+    {
+      "mi_nr": "684",
+      "block": "Block 6",
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Spiele 1972 in München und Sapporo",
+      "bild_beschreibung": "Skispringen",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "685",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Spiele 1972 in München und Sapporo",
+      "bild_beschreibung": "Eiskunstlauf",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "686",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Spiele 1972 in München und Sapporo",
+      "bild_beschreibung": "Abfahrtslauf",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "687",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-04",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Spiele 1972 in München und Sapporo",
+      "bild_beschreibung": "Eishockey",
+      "entwerfer": "Kohei Sugiura",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "688",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-06-25",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400. Geburtstag von Johannes Kepler (1571–1630)",
+      "bild_beschreibung": "Naturphilosoph, Theologe, Mathematiker, Astronom, Astrologe und Optiker",
+      "entwerfer": "Herbert Kern",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1971 688 Johannes Kepler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes Kepler",
+          "beschriftung": "Johannes Kepler",
+          "haupt": true,
+          "artikel": "Johannes Kepler",
+          "wikidata": "Q8963"
+        },
+        {
+          "titel": "Naturphilosophie",
+          "beschriftung": "Naturphilosoph",
+          "haupt": false,
+          "artikel": "Naturphilosophie",
+          "wikidata": "Q269323"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Mathematiker",
+          "beschriftung": "Mathematiker",
+          "haupt": false,
+          "artikel": "Mathematiker",
+          "wikidata": "Q170790"
+        },
+        {
+          "titel": "Astronom",
+          "beschriftung": "Astronom",
+          "haupt": false,
+          "artikel": "Astronom",
+          "wikidata": "Q11063"
+        },
+        {
+          "titel": "Astrologie",
+          "beschriftung": "Astrologe",
+          "haupt": false,
+          "artikel": "Astrologie",
+          "wikidata": "Q34362"
+        },
+        {
+          "titel": "Optik",
+          "beschriftung": "Optik",
+          "haupt": false,
+          "artikel": "Optik",
+          "wikidata": "Q14620"
+        }
+      ]
+    },
+    {
+      "mi_nr": "693",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-09-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "650. Todestag von Dante Alighieri (1265–1321)",
+      "bild_beschreibung": "Dichter und Philosoph",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1971 693 Dante Alighieri.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dante Alighieri",
+          "beschriftung": "Dante Alighieri",
+          "haupt": true,
+          "artikel": "Dante Alighieri",
+          "wikidata": "Q1067"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "704",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-09-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Stadtbild mit Kaiserpfalz von Goslar",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiserpfalz Goslar",
+          "beschriftung": "Kaiserpfalz",
+          "haupt": true,
+          "artikel": "Kaiserpfalz Goslar",
+          "wikidata": "Q632379"
+        },
+        {
+          "titel": "Goslar",
+          "beschriftung": "Goslar",
+          "haupt": false,
+          "artikel": "Goslar",
+          "wikidata": "Q3896"
+        }
+      ]
+    },
+    {
+      "mi_nr": "705",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Altes Holzspielzeug",
+      "bild_beschreibung": "Frauen am Butterfass",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 12736000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Butterfass",
+          "beschriftung": "Butterfass",
+          "haupt": true,
+          "artikel": "Butterfass",
+          "wikidata": "Q1018079"
+        },
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": false,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "706",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Altes Holzspielzeug",
+      "bild_beschreibung": "Reiter",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 14782000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": true,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "707",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Altes Holzspielzeug",
+      "bild_beschreibung": "Nussknacker",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 17148000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nussknacker",
+          "beschriftung": "Nussknacker",
+          "haupt": true,
+          "artikel": "Nussknacker",
+          "wikidata": "Q14880"
+        },
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": false,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "708",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Altes Holzspielzeug",
+      "bild_beschreibung": "Taubenhaus",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8164000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Taubenhaus",
+          "beschriftung": "Taubenhaus",
+          "haupt": true,
+          "artikel": "Taubenhaus",
+          "wikidata": "Q4951083"
+        },
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": false,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "709",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-11-11",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsbriefmarke",
+      "bild_beschreibung": "hölzerner Weihnachtsengel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9834000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsengel",
+          "beschriftung": "Weihnachtsengel",
+          "haupt": true,
+          "artikel": "Weihnachtsengel",
+          "wikidata": "Q2555448"
+        }
+      ]
+    },
+    {
+      "mi_nr": "689",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 793132000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "690",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-06-25",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 255404000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "691",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 46661000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "692",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "160",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 26628000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "694",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-10-29",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Brand durch Streichholz",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 104685000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Streichholz",
+          "beschriftung": "Streichholz",
+          "haupt": true,
+          "artikel": "Streichholz",
+          "wikidata": "Q37507"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "695",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Sturz durch defekte Leiter",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 300405000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leiter (Gerät)",
+          "beschriftung": "Leiter",
+          "haupt": true,
+          "artikel": "Leiter (Gerät)",
+          "wikidata": "Q168639"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "696",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Gefahr durch Kreissäge",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 58200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kreissäge",
+          "beschriftung": "Kreissäge",
+          "haupt": true,
+          "artikel": "Kreissäge",
+          "wikidata": "Q1141837"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "697",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-09-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Alkohol am Steuer",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 270869000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alkohol am Steuer",
+          "beschriftung": "Alkohol am Steuer",
+          "haupt": true,
+          "artikel": "Fahren unter Einfluss psychoaktiver Substanzen",
+          "wikidata": "Q250062"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "698",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Sicherung durch Schutzhelm",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 746741000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schutzhelm",
+          "beschriftung": "Schutzhelm",
+          "haupt": true,
+          "artikel": "Schutzhelm",
+          "wikidata": "Q2058262"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "699",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-06-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Gefahr durch defekten Stecker",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 1316504000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steckverbinder",
+          "beschriftung": "Stecker",
+          "haupt": true,
+          "artikel": "Steckverbinder",
+          "wikidata": "Q2119531"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "700",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Nagel im Brett",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 1104500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "701",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-09-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "spielendes Kind und Auto",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 97000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "702",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Gefahr durch schwebende Last",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 222460000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "703",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-09-11",
+      "wert": "150",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Absperrung bei Sturzgefahr",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 80085000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    }
+  ]
+}

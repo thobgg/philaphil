@@ -1,0 +1,2038 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1994,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1994 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1994_der_Deutschen_Bundespost",
+    "revision": 262738073,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1709,
+    "mi_nr_bis": 1771,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": 60
+  },
+  "marken": [
+    {
+      "mi_nr": "1709",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-01-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Stade",
+      "bild_beschreibung": "Sehenswürdigkeiten in der Altstadt von Stade",
+      "entwerfer": "Otto Rohse",
+      "auflage": 25340000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stade",
+          "beschriftung": "Stade",
+          "haupt": true,
+          "artikel": "Stade",
+          "wikidata": "Q6949"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1710",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-01-13",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Heinrich Hertz (1857–1894)",
+      "bild_beschreibung": "Porträt vor einer Skizze mit den Feldlinien eines schwingenden Dipols",
+      "entwerfer": "Peter Steiner",
+      "auflage": 17445000,
+      "commons_datei": "DBP 1994 1710 Heinrich Hertz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Hertz",
+          "beschriftung": "Heinrich Hertz",
+          "haupt": true,
+          "artikel": "Heinrich Hertz",
+          "wikidata": "Q41257"
+        },
+        {
+          "titel": "Hertzscher Dipol",
+          "beschriftung": "Dipols",
+          "haupt": false,
+          "artikel": "Hertzscher Dipol",
+          "wikidata": "Q2717602"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1711",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-01-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Familie",
+      "bild_beschreibung": "",
+      "entwerfer": "Norbert Höchtlen",
+      "auflage": 25980000,
+      "commons_datei": "DBP 1994 1711 Familie.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationales Jahr",
+          "haupt": true,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1712",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-01-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Landeswappen des Saarlandes",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 18500000,
+      "commons_datei": "DBP 1994 1712 Wappen Saarland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen des Saarlandes",
+          "beschriftung": "Landeswappen des Saarlandes",
+          "haupt": true,
+          "artikel": "Landeswappen des Saarlandes",
+          "wikidata": "Q506318"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1713",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-03-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Landeswappen Sachsens",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 25200000,
+      "commons_datei": "DBP 1994 1713 Wappen Sachsen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen Sachsens",
+          "beschriftung": "Landeswappen Sachsens",
+          "haupt": true,
+          "artikel": "Landeswappen Sachsens",
+          "wikidata": "Q562152"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1714",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-06-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Sachsen-Anhalts",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 24800000,
+      "commons_datei": "DBP 1994 1714 Wappen Sachsen-Anhalt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Sachsen-Anhalts",
+          "beschriftung": "Wappen Sachsen-Anhalts",
+          "haupt": true,
+          "artikel": "Wappen Sachsen-Anhalts",
+          "wikidata": "Q324151"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1715",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-07-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Schleswig-Holsteins",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 25436000,
+      "commons_datei": "DBP 1994 1715 Wappen Schleswig-Holstein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Schleswig-Holsteins",
+          "beschriftung": "Wappen Schleswig-Holsteins",
+          "haupt": true,
+          "artikel": "Wappen Schleswig-Holsteins",
+          "wikidata": "Q562066"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1716",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-09-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Thüringer Landeswappen",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 19880000,
+      "commons_datei": "DBP 1994 1716 Wappen Thüringen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thüringer Landeswappen",
+          "beschriftung": "Thüringer Landeswappen",
+          "haupt": true,
+          "artikel": "Thüringer Landeswappen",
+          "wikidata": "Q478239"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1717",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-02-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Eiskunstlauf, anlässlich der Olympischen Winterspiele in Lillehammer",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 3890000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eiskunstlauf",
+          "beschriftung": "Eiskunstlauf",
+          "haupt": true,
+          "artikel": "Eiskunstlauf",
+          "wikidata": "Q38108"
+        },
+        {
+          "titel": "Olympische Winterspiele 1994",
+          "beschriftung": "Olympischen Winterspiele",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1994",
+          "wikidata": "Q9663"
+        },
+        {
+          "titel": "Lillehammer",
+          "beschriftung": "Lillehammer",
+          "haupt": false,
+          "artikel": "Lillehammer",
+          "wikidata": "Q101341"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1718",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-02-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Fußball FIFA-WM-Pokal, anlässlich der Fußball-Weltmeisterschaft 1994 in den USA",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 3930000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": true,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        },
+        {
+          "titel": "FIFA-WM-Pokal",
+          "beschriftung": "FIFA-WM-Pokal",
+          "haupt": false,
+          "artikel": "FIFA-WM-Pokal",
+          "wikidata": "Q517621"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 1994",
+          "beschriftung": "Fußball-Weltmeisterschaft 1994",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 1994",
+          "wikidata": "Q101751"
+        },
+        {
+          "titel": "Vereinigte Staaten",
+          "beschriftung": "USA",
+          "haupt": false,
+          "artikel": "Vereinigte Staaten",
+          "wikidata": "Q30"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1719",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-02-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Olympische Flamme, anlässlich des 100-jährigen Bestehens des Internationalen Olympischen Komitees",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 3475000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympischer Fackellauf",
+          "beschriftung": "Olympische Flamme",
+          "haupt": true,
+          "artikel": "Olympischer Fackellauf",
+          "wikidata": "Q9352238"
+        },
+        {
+          "titel": "Internationales Olympisches Komitee",
+          "beschriftung": "Internationalen Olympischen Komitees",
+          "haupt": false,
+          "artikel": "Internationales Olympisches Komitee",
+          "wikidata": "Q40970"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1720",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-02-10",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Abfahrtslauf, anlässlich der Winter-Paralympics 1994 in Lillehammer",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 3065000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Abfahrt",
+          "beschriftung": "Abfahrt",
+          "haupt": true,
+          "artikel": "Abfahrt",
+          "wikidata": "Q319899"
+        },
+        {
+          "titel": "Winter-Paralympics 1994",
+          "beschriftung": "Winter-Paralympics 1994",
+          "haupt": false,
+          "artikel": "Winter-Paralympics 1994",
+          "wikidata": "Q876785"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1721",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-02-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Frankfurt am Main",
+      "bild_beschreibung": "Silhouette von Frankfurt am Main",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 25900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt am Main",
+          "haupt": true,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1722",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-03-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1250 Jahre Fulda",
+      "bild_beschreibung": "Ansicht von Fulda mit Dom, Michaelskirche und Schloss",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 25575000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fulda",
+          "beschriftung": "Fulda",
+          "haupt": true,
+          "artikel": "Fulda",
+          "wikidata": "Q3963"
+        },
+        {
+          "titel": "Fuldaer Dom",
+          "beschriftung": "Dom",
+          "haupt": false,
+          "artikel": "Fuldaer Dom",
+          "wikidata": "Q314517"
+        },
+        {
+          "titel": "Michaelskirche (Fulda)",
+          "beschriftung": "Michaelskirche",
+          "haupt": false,
+          "artikel": "Michaelskirche (Fulda)",
+          "wikidata": "Q762910"
+        },
+        {
+          "titel": "Fuldaer Stadtschloss",
+          "beschriftung": "Schloss",
+          "haupt": false,
+          "artikel": "Fuldaer Stadtschloss",
+          "wikidata": "Q1473497"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1723",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-03-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Bund Deutscher Frauenvereine – Deutscher Frauenrat",
+      "bild_beschreibung": "Band in Schwarz-Rot-Gold in Form eines Gesichtsprofils (Signet des Deutschen Frauenrates)",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 23500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bund Deutscher Frauenvereine",
+          "beschriftung": "Bund Deutscher Frauenvereine",
+          "haupt": true,
+          "artikel": "Bund Deutscher Frauenvereine",
+          "wikidata": "Q1005015"
+        },
+        {
+          "titel": "Deutscher Frauenrat",
+          "beschriftung": "Deutscher Frauenrat",
+          "haupt": false,
+          "artikel": "Deutscher Frauenrat",
+          "wikidata": "Q870977"
+        },
+        {
+          "titel": "Schwarz-Rot-Gold",
+          "beschriftung": "Schwarz-Rot-Gold",
+          "haupt": false,
+          "artikel": "Schwarz-Rot-Gold",
+          "wikidata": "Q29839581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1724",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-03-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "4. Direktwahlen zum Europäischen Parlament",
+      "bild_beschreibung": "12 Sterne in den Farben der Mitgliedsländer der Europäischen Union",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 24750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europawahl 1994",
+          "beschriftung": "4. Direktwahlen zum Europäischen Parlament",
+          "haupt": true,
+          "artikel": "Europawahl 1994",
+          "wikidata": "Q1376071"
+        },
+        {
+          "titel": "Europäische Union",
+          "beschriftung": "Europäischen Union",
+          "haupt": false,
+          "artikel": "Europäische Union",
+          "wikidata": "Q458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1725",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-03-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Ausländer in Deutschland: Miteinander leben!",
+      "bild_beschreibung": "Menschen mit Spruchband Miteinander leben!",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 47880000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ausländer",
+          "beschriftung": "Ausländer in Deutschland",
+          "haupt": true,
+          "artikel": "Ausländer",
+          "wikidata": "Q473741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1726",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-04-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, 100. Todestag von Heinrich Hoffmann (1809–1894)",
+      "bild_beschreibung": "Paulinchen",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3420000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Struwwelpeter",
+          "beschriftung": "Paulinchen",
+          "haupt": true,
+          "artikel": "Struwwelpeter",
+          "wikidata": "Q27912"
+        },
+        {
+          "titel": "Heinrich Hoffmann",
+          "beschriftung": "Heinrich Hoffmann",
+          "haupt": false,
+          "artikel": "Heinrich Hoffmann",
+          "wikidata": "Q215724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1727",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-04-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, 100. Todestag von Heinrich Hoffmann (1809–1894)",
+      "bild_beschreibung": "Hanns Guck-in-die-Luft",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3064000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Struwwelpeter",
+          "beschriftung": "Hanns Guck-in-die-Luft",
+          "haupt": true,
+          "artikel": "Struwwelpeter",
+          "wikidata": "Q27912"
+        },
+        {
+          "titel": "Heinrich Hoffmann",
+          "beschriftung": "Heinrich Hoffmann",
+          "haupt": false,
+          "artikel": "Heinrich Hoffmann",
+          "wikidata": "Q215724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1728",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-04-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, 100. Todestag von Heinrich Hoffmann (1809–1894)",
+      "bild_beschreibung": "Struwwelpeter",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3230000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Struwwelpeter",
+          "beschriftung": "Struwwelpeter",
+          "haupt": true,
+          "artikel": "Struwwelpeter",
+          "wikidata": "Q27912"
+        },
+        {
+          "titel": "Heinrich Hoffmann",
+          "beschriftung": "Heinrich Hoffmann",
+          "haupt": false,
+          "artikel": "Heinrich Hoffmann",
+          "wikidata": "Q215724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1729",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-04-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, 100. Todestag von Heinrich Hoffmann (1809–1894)",
+      "bild_beschreibung": "Der böse Friederich",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3076000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Struwwelpeter",
+          "beschriftung": "Der böse Friederich",
+          "haupt": true,
+          "artikel": "Struwwelpeter",
+          "wikidata": "Q27912"
+        },
+        {
+          "titel": "Heinrich Hoffmann",
+          "beschriftung": "Heinrich Hoffmann",
+          "haupt": false,
+          "artikel": "Heinrich Hoffmann",
+          "wikidata": "Q215724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1730",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-04-14",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, 100. Todestag von Heinrich Hoffmann (1809–1894)",
+      "bild_beschreibung": "Der Zappel-Philipp",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 2945000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Struwwelpeter",
+          "beschriftung": "Der Zappel-Philipp",
+          "haupt": true,
+          "artikel": "Struwwelpeter",
+          "wikidata": "Q27912"
+        },
+        {
+          "titel": "Heinrich Hoffmann",
+          "beschriftung": "Heinrich Hoffmann",
+          "haupt": false,
+          "artikel": "Heinrich Hoffmann",
+          "wikidata": "Q215724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1731",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-04-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Frauenkirche in München",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 24920000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauenkirche (München)",
+          "beschriftung": "Frauenkirche",
+          "haupt": true,
+          "artikel": "Frauenkirche (München)",
+          "wikidata": "Q167193"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1732",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken: Entdeckungen und Erfindungen",
+      "bild_beschreibung": "Ohm’scher Widerstand, Entdeckung des Ohmschen Gesetzes durch Georg Simon Ohm",
+      "entwerfer": "Margit Zauner",
+      "auflage": 29780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elektrischer Widerstand",
+          "beschriftung": "Ohm’scher Widerstand",
+          "haupt": true,
+          "artikel": "Elektrischer Widerstand",
+          "wikidata": "Q25358"
+        },
+        {
+          "titel": "Ohmsches Gesetz",
+          "beschriftung": "Ohmschen Gesetzes",
+          "haupt": false,
+          "artikel": "Ohmsches Gesetz",
+          "wikidata": "Q41591"
+        },
+        {
+          "titel": "Georg Simon Ohm",
+          "beschriftung": "Georg Simon Ohm",
+          "haupt": false,
+          "artikel": "Georg Simon Ohm",
+          "wikidata": "Q1585"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Entdeckung",
+          "beschriftung": "Entdeckung",
+          "haupt": false,
+          "artikel": "Entdeckung",
+          "wikidata": "Q12772819"
+        },
+        {
+          "titel": "Erfindung",
+          "beschriftung": "Erfindung",
+          "haupt": false,
+          "artikel": "Erfindung",
+          "wikidata": "Q12579633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1733",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken: Entdeckungen und Erfindungen",
+      "bild_beschreibung": "Schwarzkörperstrahlung, Begründung der Quantentheorie durch Max Planck; auch als Markenheftchen",
+      "entwerfer": "Margit Zauner",
+      "auflage": 76600000,
+      "commons_datei": "DBP 1994 1733 Quantentheorie.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzer Körper",
+          "beschriftung": "Schwarzkörperstrahlung",
+          "haupt": true,
+          "artikel": "Schwarzer Körper",
+          "wikidata": "Q161424"
+        },
+        {
+          "titel": "Quantenphysik",
+          "beschriftung": "Quantentheorie",
+          "haupt": false,
+          "artikel": "Quantenphysik",
+          "wikidata": "Q1144457"
+        },
+        {
+          "titel": "Max Planck",
+          "beschriftung": "Max Planck",
+          "haupt": false,
+          "artikel": "Max Planck",
+          "wikidata": "Q9021"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Entdeckung",
+          "beschriftung": "Entdeckung",
+          "haupt": false,
+          "artikel": "Entdeckung",
+          "wikidata": "Q12772819"
+        },
+        {
+          "titel": "Erfindung",
+          "beschriftung": "Erfindung",
+          "haupt": false,
+          "artikel": "Erfindung",
+          "wikidata": "Q12579633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1734",
+      "block": "Block 28",
+      "art": "Sondermarke",
+      "ausgabetag": "1994-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 150. Geburtstag von Carl Hagenbeck (1844–1913) und 150 Jahre Berliner Zoo",
+      "bild_beschreibung": "Hagenbeck vor dem Eingang zu seinem Tierpark, dahinter verschiedene Zootiere",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tierpark Hagenbeck",
+          "beschriftung": "Tierpark",
+          "haupt": true,
+          "artikel": "Tierpark Hagenbeck",
+          "wikidata": "Q502326"
+        },
+        {
+          "titel": "Carl Hagenbeck",
+          "beschriftung": "Carl Hagenbeck",
+          "haupt": false,
+          "artikel": "Carl Hagenbeck",
+          "wikidata": "Q65264"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1735",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-05-05",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 150. Geburtstag von Carl Hagenbeck (1844–1913) und 150 Jahre Berliner Zoo",
+      "bild_beschreibung": "Elefantentor des Zoologischen Garten Berlin, daneben verschiedene Zootiere",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elefantentor (Zoologischer Garten Berlin)",
+          "beschriftung": "Elefantentor",
+          "haupt": true,
+          "artikel": "Elefantentor (Zoologischer Garten Berlin)",
+          "wikidata": "Q1326294"
+        },
+        {
+          "titel": "Carl Hagenbeck",
+          "beschriftung": "Carl Hagenbeck",
+          "haupt": false,
+          "artikel": "Carl Hagenbeck",
+          "wikidata": "Q65264"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1736",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag Hans Pfitzner",
+      "bild_beschreibung": "Porträt Hans Pfitzners nach einer Bleistiftzeichnung von Emil Orlik aus dem Jahre 1899 vor einem Auszug der Notenhandschrift aus dem Zyklus romantischer Lieder",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 25490000,
+      "commons_datei": "DBP 1994 1736 Hans Pfitzner.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Pfitzner",
+          "beschriftung": "Hans Pfitzner",
+          "haupt": true,
+          "artikel": "Hans Pfitzner",
+          "wikidata": "Q57358"
+        },
+        {
+          "titel": "Emil Orlik",
+          "beschriftung": "Emil Orlik",
+          "haupt": false,
+          "artikel": "Emil Orlik",
+          "wikidata": "Q379150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1737",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-06-16",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Umweltschutz",
+      "bild_beschreibung": "grünes Herz im Rahmen",
+      "entwerfer": "Heike Schmidt",
+      "auflage": 2890000,
+      "commons_datei": "DBP 1994 1737 Umweltschutz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1738",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-06-16",
+      "wert": "400",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800. Geburtstag von Friedrich II. (1194–1250)",
+      "bild_beschreibung": "Friedrich II. mit seinem Falken. Aus seinem Buch „De arte venandi cum avibus“ („Über die Kunst, mit Vögeln zu jagen“), Biblioteca Apostolica Vaticana, Rom (Pal. lat. 1071, fol. 1v, Süditalien/Sizilien 1258–1266)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 7890000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich II. (HRR)",
+          "beschriftung": "Friedrich II.",
+          "haupt": true,
+          "artikel": "Friedrich II. (HRR)",
+          "wikidata": "Q130221"
+        },
+        {
+          "titel": "De arte venandi cum avibus",
+          "beschriftung": "De arte venandi cum avibus",
+          "haupt": false,
+          "artikel": "De arte venandi cum avibus",
+          "wikidata": "Q1180580"
+        },
+        {
+          "titel": "Biblioteca Apostolica Vaticana",
+          "beschriftung": "Biblioteca Apostolica Vaticana",
+          "haupt": false,
+          "artikel": "Vatikanische Apostolische Bibliothek",
+          "wikidata": "Q213678"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-06-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Zitadelle Spandau",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 14505000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Zitadelle Spandau",
+          "beschriftung": "Zitadelle Spandau",
+          "haupt": true,
+          "artikel": "Zitadelle Spandau",
+          "wikidata": "Q206211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1740",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-06-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Herzogsägmühle",
+      "bild_beschreibung": "Ortstafel mit Emblem und Motto der diakonischen Einrichtung",
+      "entwerfer": "Konrad Przewieslik",
+      "auflage": 24665000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Herzogsägmühle",
+          "beschriftung": "Herzogsägmühle",
+          "haupt": true,
+          "artikel": "Herzogsägmühle",
+          "wikidata": "Q1615363"
+        },
+        {
+          "titel": "Ortstafel (Deutschland)",
+          "beschriftung": "Ortstafel",
+          "haupt": false,
+          "artikel": "Ortstafel (Deutschland)",
+          "wikidata": "Q2032225"
+        },
+        {
+          "titel": "Diakonisches Werk",
+          "beschriftung": "diakonischen Einrichtung",
+          "haupt": false,
+          "artikel": "Diakonie Deutschland",
+          "wikidata": "Q126501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1741",
+      "block": "Block 29",
+      "art": "Sondermarke",
+      "ausgabetag": "1994-07-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50. Jahrestag des Attentats auf Adolf Hitler am 20. Juli 1944",
+      "bild_beschreibung": "Gitterstäbe vor dem Datum des Attentats",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 8800000,
+      "commons_datei": "DBP 1994 1741 Attentat vom 20. Juli 1944.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats auf Adolf Hitler",
+          "haupt": true,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1742",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-07-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Schloss Neuschwanstein und Blick auf die Alpen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 19980000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Neuschwanstein",
+          "beschriftung": "Schloss Neuschwanstein",
+          "haupt": true,
+          "artikel": "Schloss Neuschwanstein",
+          "wikidata": "Q4152"
+        },
+        {
+          "titel": "Alpen",
+          "beschriftung": "Alpen",
+          "haupt": false,
+          "artikel": "Alpen",
+          "wikidata": "Q1286"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1743",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-07-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Erzgebirge",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 19500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": true,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1744",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-07-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Maintal in Wertheim",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 19550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wertheim",
+          "beschriftung": "Wertheim",
+          "haupt": true,
+          "artikel": "Wertheim",
+          "wikidata": "Q61912"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-07-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Mecklenburgische Seenplatte, Müritz-Nationalpark",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 19735000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburgische Seenplatte",
+          "beschriftung": "Mecklenburgische Seenplatte",
+          "haupt": true,
+          "artikel": "Mecklenburgische Seenplatte",
+          "wikidata": "Q701658"
+        },
+        {
+          "titel": "Müritz-Nationalpark",
+          "beschriftung": "Müritz-Nationalpark",
+          "haupt": false,
+          "artikel": "Müritz-Nationalpark",
+          "wikidata": "Q702495"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-08-11",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Johann Gottfried Herder (1744–1803)",
+      "bild_beschreibung": "Anton Graff, Porträtgemälde",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 21450000,
+      "commons_datei": "DBP 1994 1747 Johann Gottfried Herder.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Gottfried Herder",
+          "beschriftung": "Johann Gottfried Herder",
+          "haupt": true,
+          "artikel": "Johann Gottfried Herder",
+          "wikidata": "Q155547"
+        },
+        {
+          "titel": "Anton Graff",
+          "beschriftung": "Anton Graff",
+          "haupt": false,
+          "artikel": "Anton Graff",
+          "wikidata": "Q310213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-08-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Christian Schad, Maika",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 38600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christian Schad",
+          "beschriftung": "Christian Schad",
+          "haupt": true,
+          "artikel": "Christian Schad",
+          "wikidata": "Q703331"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-08-11",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Erich Heckel, Landschaft bei Dresden",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 9540000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erich Heckel",
+          "beschriftung": "Erich Heckel",
+          "haupt": true,
+          "artikel": "Erich Heckel",
+          "wikidata": "Q156700"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-08-11",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Gabriele Münter, A. von Jawlensky und M. von Werefkin auf einer Wiese bei Murnau",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 9780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gabriele Münter",
+          "beschriftung": "Gabriele Münter",
+          "haupt": true,
+          "artikel": "Gabriele Münter",
+          "wikidata": "Q463978"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-09-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Museum für Völkerkunde zu Leipzig",
+      "bild_beschreibung": "Maske des tansanischen Volkes der Makonde",
+      "entwerfer": "Silvia Runge",
+      "auflage": 24300000,
+      "commons_datei": "DBP 1994 1751 Museum für Völkerkunde Leipzig.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Museum für Völkerkunde zu Leipzig",
+          "beschriftung": "Museum für Völkerkunde zu Leipzig",
+          "haupt": true,
+          "artikel": "Museum für Völkerkunde zu Leipzig",
+          "wikidata": "Q876610"
+        },
+        {
+          "titel": "Tansania",
+          "beschriftung": "tansanischen",
+          "haupt": false,
+          "artikel": "Tansania",
+          "wikidata": "Q924"
+        },
+        {
+          "titel": "Makonde",
+          "beschriftung": "Makonde",
+          "haupt": false,
+          "artikel": "Makonde",
+          "wikidata": "Q48885"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1752",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-09-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Hermann von Helmholtz (1821–1894)",
+      "bild_beschreibung": "Porträt mit Schnitt durch ein menschliches Auge und Farbdreick",
+      "entwerfer": "Margit Zauner",
+      "auflage": 19000000,
+      "commons_datei": "DBP 1994 1752 Hermann von Helmholtz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hermann von Helmholtz",
+          "beschriftung": "Hermann von Helmholtz",
+          "haupt": true,
+          "artikel": "Hermann von Helmholtz",
+          "wikidata": "Q60024"
+        },
+        {
+          "titel": "Auge",
+          "beschriftung": "Auge",
+          "haupt": false,
+          "artikel": "Auge",
+          "wikidata": "Q7364"
+        },
+        {
+          "titel": "Lichtspektrum",
+          "beschriftung": "Farbdreick",
+          "haupt": false,
+          "artikel": "Elektromagnetisches Spektrum",
+          "wikidata": "Q133139"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-09-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Willi Richter (1894–1972)",
+      "bild_beschreibung": "",
+      "entwerfer": "Rudolf Grüttner",
+      "auflage": 20400000,
+      "commons_datei": "DBP 1994 1753 Willi Richter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Willi Richter",
+          "beschriftung": "Willi Richter",
+          "haupt": true,
+          "artikel": "Willi Richter",
+          "wikidata": "Q2577432"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1754",
+      "block": "Block 30",
+      "art": "Sondermarke",
+      "ausgabetag": "1994-09-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Fabelwesen",
+      "entwerfer": "Lou Romboy",
+      "auflage": 10870000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1757",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1994: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Bückeburg in Niedersachsen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 5100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bückeburg",
+          "beschriftung": "Bückeburg",
+          "haupt": true,
+          "artikel": "Bückeburg",
+          "wikidata": "Q157035"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1994: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Halle an der Saale",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 5040000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle an der Saale",
+          "haupt": true,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1994: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Minden in Nordrhein-Westfalen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 22250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Minden",
+          "beschriftung": "Minden",
+          "haupt": true,
+          "artikel": "Minden",
+          "wikidata": "Q3846"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1994: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Hoyerswerda in Sachsen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 11310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": true,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "200+70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1994: Deutsche Trachten",
+      "bild_beschreibung": "Betzinger Tracht (Baden-Württemberg)",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 7925000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Betzinger Tracht",
+          "beschriftung": "Betzinger Tracht",
+          "haupt": true,
+          "artikel": "Betzinger Tracht",
+          "wikidata": "Q111368367"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000. Todestag von Wolfgang von Regensburg (um 924–994)",
+      "bild_beschreibung": "Porträt, Holzschnitt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 50780000,
+      "commons_datei": "DBP 1994 1762 Wolfgang von Regensburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wolfgang von Regensburg",
+          "beschriftung": "Wolfgang von Regensburg",
+          "haupt": true,
+          "artikel": "Wolfgang von Regensburg",
+          "wikidata": "Q60889"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Hans Sachs (1494–1576)",
+      "bild_beschreibung": "Porträt, Holzschnitt von Michael Ostendorfer",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 101000000,
+      "commons_datei": "DBP 1994 1763 Hans Sachs.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Sachs",
+          "beschriftung": "Hans Sachs",
+          "haupt": true,
+          "artikel": "Hans Sachs",
+          "wikidata": "Q19543"
+        },
+        {
+          "titel": "Michael Ostendorfer",
+          "beschriftung": "Michael Ostendorfer",
+          "haupt": false,
+          "artikel": "Michael Ostendorfer",
+          "wikidata": "Q1928779"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Postzusteller im Spreewald um 1900",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 49870000,
+      "commons_datei": "DBP 1994 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Postzusteller",
+          "haupt": false,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": false,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Quedlinburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 51300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Quedlinburg",
+          "beschriftung": "Quedlinburg",
+          "haupt": true,
+          "artikel": "Quedlinburg",
+          "wikidata": "Q40623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1766",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Todestag von Friedrich Wilhelm von Steuben (1730–1794)",
+      "bild_beschreibung": "",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 30555000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Wilhelm von Steuben",
+          "beschriftung": "Friedrich Wilhelm von Steuben",
+          "haupt": true,
+          "artikel": "Friedrich Wilhelm von Steuben",
+          "wikidata": "Q213525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag von Theodor Fontane (1819–1898)",
+      "bild_beschreibung": "Porträt, Kreidezeichnung von Max Liebermann, vor einem Ausschnitt aus einem der Preußenlieder",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 70800000,
+      "commons_datei": "DBP 1994 1767 Theodor Fontane.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Theodor Fontane",
+          "beschriftung": "Theodor Fontane",
+          "haupt": true,
+          "artikel": "Theodor Fontane",
+          "wikidata": "Q76632"
+        },
+        {
+          "titel": "Max Liebermann",
+          "beschriftung": "Max Liebermann",
+          "haupt": false,
+          "artikel": "Max Liebermann",
+          "wikidata": "Q158062"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1768",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Volksbund Deutsche Kriegsgräberfürsorge",
+      "bild_beschreibung": "Soldatenfriedhof",
+      "entwerfer": "Margit Zauner",
+      "auflage": 31000000,
+      "commons_datei": "DBP 1994 1768 Kriegsgräberfürsorge.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "beschriftung": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "haupt": true,
+          "artikel": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "wikidata": "Q708567"
+        },
+        {
+          "titel": "Soldatenfriedhof",
+          "beschriftung": "Soldatenfriedhof",
+          "haupt": false,
+          "artikel": "Soldatenfriedhof",
+          "wikidata": "Q1241568"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "5. Jahrestag der Öffnung der innerdeutschen Grenzen",
+      "bild_beschreibung": "Grenzübergang Obersuhl am 11. November 1989",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 31400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Wiedervereinigung",
+          "beschriftung": "Öffnung der innerdeutschen Grenzen",
+          "haupt": true,
+          "artikel": "Deutsche Wiedervereinigung",
+          "wikidata": "Q56039"
+        },
+        {
+          "titel": "Obersuhl",
+          "beschriftung": "Grenzübergang Obersuhl",
+          "haupt": false,
+          "artikel": "Obersuhl",
+          "wikidata": "Q2011257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1770",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1994, Gemälde aus dem Floreinstriptychon im Johannishospital, Brügge von Hans Memling",
+      "bild_beschreibung": "Anbetung der Könige",
+      "entwerfer": "Peter Steiner",
+      "auflage": 5925000,
+      "commons_datei": "DBP 1994 1770 Weihnachten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": true,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Brügge",
+          "beschriftung": "Brügge",
+          "haupt": false,
+          "artikel": "Brügge",
+          "wikidata": "Q12994"
+        },
+        {
+          "titel": "Hans Memling",
+          "beschriftung": "Hans Memling",
+          "haupt": false,
+          "artikel": "Hans Memling",
+          "wikidata": "Q106851"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1771",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1994-11-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1994, Gemälde aus dem Floreinstriptychon im Johannishospital, Brügge von Hans Memling",
+      "bild_beschreibung": "Christi Geburt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 9955000,
+      "commons_datei": "DBP 1994 1771 Weihnachten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brügge",
+          "beschriftung": "Brügge",
+          "haupt": true,
+          "artikel": "Brügge",
+          "wikidata": "Q12994"
+        },
+        {
+          "titel": "Hans Memling",
+          "beschriftung": "Hans Memling",
+          "haupt": false,
+          "artikel": "Hans Memling",
+          "wikidata": "Q106851"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1755",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Rahel Varnhagen von Ense",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 427800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rahel Varnhagen von Ense",
+          "beschriftung": "Rahel Varnhagen von Ense",
+          "haupt": true,
+          "artikel": "Rahel Varnhagen von Ense",
+          "wikidata": "Q61793"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1756",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1994-10-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Luise Henriette von Oranien",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 3309485000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luise Henriette von Oranien",
+          "beschriftung": "Luise Henriette von Oranien",
+          "haupt": true,
+          "artikel": "Luise Henriette von Oranien",
+          "wikidata": "Q196301"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1746",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1994-08-11",
+      "wert": "550",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Rathaus des Ortsteils Heinrichs von Suhl",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 53685000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        },
+        {
+          "titel": "Heinrichs (Suhl)",
+          "beschriftung": "Rathaus des Ortsteils Heinrichs von Suhl",
+          "haupt": false,
+          "artikel": "Heinrichs (Suhl)",
+          "wikidata": "Q1599737"
+        }
+      ]
+    }
+  ]
+}

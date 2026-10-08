@@ -1,0 +1,1737 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1996,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1996 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1996_der_Bundesrepublik_Deutschland",
+    "revision": 263040281,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1834,
+    "mi_nr_bis": 1894,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1834",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-01-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Kindermissionswerk in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 27150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kindermissionswerk",
+          "beschriftung": "Kindermissionswerk",
+          "haupt": true,
+          "artikel": "Kindermissionswerk",
+          "wikidata": "Q833388"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1835",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-01-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Friedrich von Bodelschwingh",
+      "bild_beschreibung": "",
+      "entwerfer": "Hermann Schwahn",
+      "auflage": 55000000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Friedrich von Bodelschwingh.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich von Bodelschwingh der Jüngere",
+          "beschriftung": "Friedrich von Bodelschwingh",
+          "haupt": true,
+          "artikel": "Friedrich von Bodelschwingh der Jüngere",
+          "wikidata": "Q95902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1836",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-08",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Barsoi",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Barsoi",
+          "beschriftung": "Barsoi",
+          "haupt": true,
+          "artikel": "Barsoi",
+          "wikidata": "Q37866"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1837",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-08",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Chow-Chow",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2820000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chow-Chow",
+          "beschriftung": "Chow-Chow",
+          "haupt": true,
+          "artikel": "Chow-Chow",
+          "wikidata": "Q29013"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1838",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-08",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Bernhardiner",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2810000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bernhardiner",
+          "beschriftung": "Bernhardiner",
+          "haupt": true,
+          "artikel": "Bernhardiner",
+          "wikidata": "Q38090"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1839",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-08",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Collie",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Langhaarcollie",
+          "beschriftung": "Collie",
+          "haupt": true,
+          "artikel": "Langhaarcollie",
+          "wikidata": "Q38650"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1840",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-08",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Briard",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briard",
+          "beschriftung": "Briard",
+          "haupt": true,
+          "artikel": "Briard",
+          "wikidata": "Q37821"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1841",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Todestag von Martin Luther",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Heidenreich",
+      "auflage": 25946000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Martin Luther.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": true,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1842",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-02-17",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Philipp Franz von Siebold",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Japan",
+      "entwerfer": "Günter Jacki",
+      "auflage": 24235000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Philipp Franz von Siebold",
+          "beschriftung": "Philipp Franz von Siebold",
+          "haupt": true,
+          "artikel": "Philipp Franz von Siebold",
+          "wikidata": "Q77140"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Japan",
+          "beschriftung": "Japan",
+          "haupt": false,
+          "artikel": "Japan",
+          "wikidata": "Q17"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1843",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-03-07",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Sitzender Weiblicher Akt von Max Pechstein",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 31310000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Dt. Malerei Weiblicher Akt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Pechstein",
+          "beschriftung": "Max Pechstein",
+          "haupt": true,
+          "artikel": "Max Pechstein",
+          "wikidata": "Q162105"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1844",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-03-07",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Für Wilhelm Runge von Georg Muche",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 16320000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Muche",
+          "beschriftung": "Georg Muche",
+          "haupt": true,
+          "artikel": "Georg Muche",
+          "wikidata": "Q646159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1845",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-03-07",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Stilleben mit Gitarre, Buch und Vase von Helmut Kolle",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 24310000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Dt. Malerei Stilleben.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helmut Kolle",
+          "beschriftung": "Helmut Kolle",
+          "haupt": true,
+          "artikel": "Helmut Kolle",
+          "wikidata": "Q463379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1846",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-03-07",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Domplatz zu Halberstadt",
+      "bild_beschreibung": "",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 78520000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Halberstadt",
+          "beschriftung": "Halberstadt",
+          "haupt": true,
+          "artikel": "Halberstadt",
+          "wikidata": "Q7072"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1847",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-03-07",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Giovanni Battista Tiepolo",
+      "bild_beschreibung": "Deckenfresko (Detail) der Würzburger Residenz",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 14855000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Giovanni Battista Tiepolo",
+          "beschriftung": "Giovanni Battista Tiepolo",
+          "haupt": true,
+          "artikel": "Giovanni Battista Tiepolo",
+          "wikidata": "Q186202"
+        },
+        {
+          "titel": "Würzburger Residenz",
+          "beschriftung": "Würzburger Residenz",
+          "haupt": false,
+          "artikel": "Würzburger Residenz",
+          "wikidata": "Q156316"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1848",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-03-07",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Clemens August Graf von Galen",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 19870000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Clemens August Graf von Galen",
+          "beschriftung": "Clemens August Graf von Galen",
+          "haupt": true,
+          "artikel": "Clemens August Graf von Galen",
+          "wikidata": "Q76439"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1849",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-04-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Holsteinische Schweiz (Schloss Plön)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 31170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holsteinische Schweiz",
+          "beschriftung": "Holsteinische Schweiz",
+          "haupt": true,
+          "artikel": "Holsteinische Schweiz",
+          "wikidata": "Q59119"
+        },
+        {
+          "titel": "Schloss Plön",
+          "beschriftung": "Schloss Plön",
+          "haupt": false,
+          "artikel": "Schloss Plön",
+          "wikidata": "Q314461"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1850",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-04-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Saalelandschaft in Thüringen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saale",
+          "beschriftung": "Saale",
+          "haupt": true,
+          "artikel": "Saale",
+          "wikidata": "Q1678"
+        },
+        {
+          "titel": "Thüringen",
+          "beschriftung": "Thüringen",
+          "haupt": false,
+          "artikel": "Thüringen",
+          "wikidata": "Q1205"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1851",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-04-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Spreewald (Leiper Graben)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29480000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": true,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1852",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-04-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Eifel (Kloster Maria Laach)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eifel",
+          "beschriftung": "Eifel",
+          "haupt": true,
+          "artikel": "Eifel",
+          "wikidata": "Q152356"
+        },
+        {
+          "titel": "Kloster Maria Laach",
+          "beschriftung": "Kloster Maria Laach",
+          "haupt": false,
+          "artikel": "Abtei Maria Laach",
+          "wikidata": "Q334032"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1853",
+      "block": "Block 35",
+      "art": "Sondermarke",
+      "ausgabetag": "1996-04-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Für uns Kinder",
+      "bild_beschreibung": "Reitender Postbote",
+      "entwerfer": "Erna de Vries",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1854",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-05-03",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa Berühmte Frauen",
+      "bild_beschreibung": "Selbstporträt von Paula Modersohn-Becker",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 78990000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Europa Paula Modersohn-Becker.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paula Modersohn-Becker",
+          "beschriftung": "Paula Modersohn-Becker",
+          "haupt": true,
+          "artikel": "Paula Modersohn-Becker",
+          "wikidata": "Q234370"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1855",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa Berühmte Frauen",
+      "bild_beschreibung": "Selbstporträt von Käthe Kollwitz",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 15000000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Europa Käthe Kollwitz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": true,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1856",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Marktrecht für Freising",
+      "bild_beschreibung": "",
+      "entwerfer": "Karin Blume-Zander und André Zander",
+      "auflage": 65500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Marktrecht (historisch)",
+          "beschriftung": "Marktrecht",
+          "haupt": true,
+          "artikel": "Marktrecht (historisch)",
+          "wikidata": "Q314482"
+        },
+        {
+          "titel": "Freising",
+          "beschriftung": "Freising",
+          "haupt": false,
+          "artikel": "Freising",
+          "wikidata": "Q6998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1857",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-05-03",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutscher Bühnenverein",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 15650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Bühnenverein",
+          "beschriftung": "Deutscher Bühnenverein",
+          "haupt": true,
+          "artikel": "Deutscher Bühnenverein",
+          "wikidata": "Q1204689"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1858",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Geburtstag von Wolfgang Borchert",
+      "bild_beschreibung": "Plakat zur Uraufführung von Draußen vor der Tür 1948 (Porträt von Rosemarie Clausen)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 15775000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wolfgang Borchert",
+          "beschriftung": "Wolfgang Borchert",
+          "haupt": true,
+          "artikel": "Wolfgang Borchert",
+          "wikidata": "Q58799"
+        },
+        {
+          "titel": "Draußen vor der Tür",
+          "beschriftung": "Draußen vor der Tür",
+          "haupt": false,
+          "artikel": "Draußen vor der Tür",
+          "wikidata": "Q1255949"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1859",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Ruhrfestspiele, Recklinghausen",
+      "bild_beschreibung": "",
+      "entwerfer": "Angelika Winkhaus",
+      "auflage": 15650000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Ruhrfestspiele.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ruhrfestspiele",
+          "beschriftung": "Ruhrfestspiele",
+          "haupt": true,
+          "artikel": "Ruhrfestspiele",
+          "wikidata": "Q2175069"
+        },
+        {
+          "titel": "Recklinghausen",
+          "beschriftung": "Recklinghausen",
+          "haupt": false,
+          "artikel": "Recklinghausen",
+          "wikidata": "Q3050"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – 100 Jahre Olympische Spiele der Neuzeit",
+      "bild_beschreibung": "Carl Schuhmann",
+      "entwerfer": "Margit Zauner",
+      "auflage": 3520000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Sport Carl Schuhmann.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Schuhmann",
+          "beschriftung": "Carl Schuhmann",
+          "haupt": true,
+          "artikel": "Carl Schuhmann",
+          "wikidata": "Q156182"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – 100 Jahre Olympische Spiele der Neuzeit",
+      "bild_beschreibung": "Josef Neckermann",
+      "entwerfer": "Margit Zauner",
+      "auflage": 3245000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Sport Josef Neckermann.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Josef Neckermann",
+          "beschriftung": "Josef Neckermann",
+          "haupt": true,
+          "artikel": "Josef Neckermann",
+          "wikidata": "Q518550"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1863",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – 100 Jahre Olympische Spiele der Neuzeit",
+      "bild_beschreibung": "Annie Hübler-Horn",
+      "entwerfer": "Margit Zauner",
+      "auflage": 3125000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Sport Annie Hübler-Horn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anna Hübler",
+          "beschriftung": "Annie Hübler-Horn",
+          "haupt": true,
+          "artikel": "Anna Hübler",
+          "wikidata": "Q436710"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – 100 Jahre Olympische Spiele der Neuzeit",
+      "bild_beschreibung": "Alfred Flatow und Gustav Felix Flatow",
+      "entwerfer": "Margit Zauner",
+      "auflage": 2925000,
+      "commons_datei": "Gfflatow.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alfred Flatow",
+          "beschriftung": "Alfred Flatow",
+          "haupt": true,
+          "artikel": "Alfred Flatow",
+          "wikidata": "Q57215"
+        },
+        {
+          "titel": "Gustav Felix Flatow",
+          "beschriftung": "Gustav Felix Flatow",
+          "haupt": false,
+          "artikel": "Gustav Felix Flatow",
+          "wikidata": "Q213620"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympische Spiele",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350. Geburtstag von Gottfried Wilhelm Leibniz",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 25887000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gottfried Wilhelm Leibniz",
+          "beschriftung": "Gottfried Wilhelm Leibniz",
+          "haupt": true,
+          "artikel": "Gottfried Wilhelm Leibniz",
+          "wikidata": "Q9047"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Akademie der Künste Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 24660000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Akademie der Künste (Berlin)",
+          "beschriftung": "Akademie der Künste Berlin",
+          "haupt": true,
+          "artikel": "Akademie der Künste (Berlin)",
+          "wikidata": "Q414110"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Umweltschutz",
+      "bild_beschreibung": "Schützt die tropischen Lebensräume",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 3170000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Heidelberg",
+      "bild_beschreibung": "Heidelberger Schloß, Alte Brücke mit Stadttor, Heiliggeistkirche; auch als Markenheftchen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 38800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heidelberg",
+          "beschriftung": "Heidelberg",
+          "haupt": true,
+          "artikel": "Heidelberg",
+          "wikidata": "Q2966"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Kinderhilfswerk der Vereinten Nationen (UNICEF)",
+      "bild_beschreibung": "Farbabdrucke von Kinderhänden",
+      "entwerfer": "Lou Romboy",
+      "auflage": 42270000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kinderhilfswerk der Vereinten Nationen",
+          "beschriftung": "Kinderhilfswerk der Vereinten Nationen",
+          "haupt": true,
+          "artikel": "UNICEF",
+          "wikidata": "Q740308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Todestag von Ludwig Thoma",
+      "bild_beschreibung": "",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 38415000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Thoma",
+          "beschriftung": "Ludwig Thoma",
+          "haupt": true,
+          "artikel": "Ludwig Thoma",
+          "wikidata": "Q45309"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1871",
+      "block": "Block 36",
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche National- und Naturparke: Vorpommersche Boddenlandschaft",
+      "bild_beschreibung": "Küste",
+      "entwerfer": "Silvia Runge",
+      "auflage": 7965000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": true,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Vorpommersche Boddenlandschaft",
+          "beschriftung": "Vorpommersche Boddenlandschaft",
+          "haupt": false,
+          "artikel": "Nationalpark Vorpommersche Boddenlandschaft",
+          "wikidata": "Q708477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche National- und Naturparke: Vorpommersche Boddenlandschaft",
+      "bild_beschreibung": "Windwatt",
+      "entwerfer": "Silvia Runge",
+      "auflage": 7965000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Windwatt",
+          "beschriftung": "Windwatt",
+          "haupt": true,
+          "artikel": "Windwatt",
+          "wikidata": "Q2584107"
+        },
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": false,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Vorpommersche Boddenlandschaft",
+          "beschriftung": "Vorpommersche Boddenlandschaft",
+          "haupt": false,
+          "artikel": "Nationalpark Vorpommersche Boddenlandschaft",
+          "wikidata": "Q708477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-07-18",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche National- und Naturparke: Vorpommersche Boddenlandschaft",
+      "bild_beschreibung": "Bodden",
+      "entwerfer": "Silvia Runge",
+      "auflage": 7965000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodden",
+          "beschriftung": "Bodden",
+          "haupt": true,
+          "artikel": "Bodden",
+          "wikidata": "Q447555"
+        },
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": false,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Vorpommersche Boddenlandschaft",
+          "beschriftung": "Vorpommersche Boddenlandschaft",
+          "haupt": false,
+          "artikel": "Nationalpark Vorpommersche Boddenlandschaft",
+          "wikidata": "Q708477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1874",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-08-14",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Bürgerliches Gesetzbuch",
+      "bild_beschreibung": "",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 25240000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bürgerliches Gesetzbuch",
+          "beschriftung": "Bürgerliches Gesetzbuch",
+          "haupt": true,
+          "artikel": "Bürgerliches Gesetzbuch",
+          "wikidata": "Q165728"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1875",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-08-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Alte Völklinger Hütte",
+      "entwerfer": "Rolf Lederbogen",
+      "auflage": 24780000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Völklinger Hütte",
+          "beschriftung": "Alte Völklinger Hütte",
+          "haupt": false,
+          "artikel": "Völklinger Hütte",
+          "wikidata": "Q127754"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-08-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Paul Lincke",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 24280000,
+      "commons_datei": "Paul Lincke (timbre allemand).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Lincke",
+          "beschriftung": "Paul Lincke",
+          "haupt": true,
+          "artikel": "Paul Lincke",
+          "wikidata": "Q712729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1877",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-08-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus deutschen Städten",
+      "bild_beschreibung": "Gendarmenmarkt, Berlin",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 25590000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bilder aus deutschen Städten",
+          "beschriftung": "Bilder aus deutschen Städten",
+          "haupt": true,
+          "artikel": "Bilder aus deutschen Städten",
+          "wikidata": "Q860660"
+        },
+        {
+          "titel": "Gendarmenmarkt",
+          "beschriftung": "Gendarmenmarkt",
+          "haupt": false,
+          "artikel": "Gendarmenmarkt",
+          "wikidata": "Q170103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-08-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "50 Jahre Bund Deutscher Philatelisten",
+      "entwerfer": "Max Bollwage",
+      "auflage": 24530000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Bund Deutscher Philatelisten",
+          "beschriftung": "Bund Deutscher Philatelisten",
+          "haupt": false,
+          "artikel": "Bund Deutscher Philatelisten",
+          "wikidata": "Q1005045"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-08-27",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutscher Fußballmeister",
+      "bild_beschreibung": "Borussia Dortmund",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 39500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "beschriftung": "Deutscher Fußballmeister",
+          "haupt": true,
+          "artikel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "wikidata": "Q1204881"
+        },
+        {
+          "titel": "Borussia Dortmund",
+          "beschriftung": "Borussia Dortmund",
+          "haupt": false,
+          "artikel": "Borussia Dortmund",
+          "wikidata": "Q41420"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1880",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-09-12",
+      "wert": "400",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Homöopathie",
+      "bild_beschreibung": "Samuel Hahnemann",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 14450000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Homöopathie Samuel Hahnemann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Homöopathie",
+          "beschriftung": "Homöopathie",
+          "haupt": true,
+          "artikel": "Homöopathie",
+          "wikidata": "Q81058"
+        },
+        {
+          "titel": "Samuel Hahnemann",
+          "beschriftung": "Samuel Hahnemann",
+          "haupt": false,
+          "artikel": "Samuel Hahnemann",
+          "wikidata": "Q157056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1881",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-09-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Kultur- und Naturerbe der Menschheit",
+      "bild_beschreibung": "Altstadt Bamberg",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 25500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bamberg",
+          "beschriftung": "Bamberg",
+          "haupt": true,
+          "artikel": "Bamberg",
+          "wikidata": "Q3936"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1882",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-09-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kampagne gegen Drogenmissbrauch",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 25682000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1883",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Spreewald",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4040000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": true,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1884",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Thüringen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thüringen",
+          "beschriftung": "Thüringen",
+          "haupt": true,
+          "artikel": "Thüringen",
+          "wikidata": "Q1205"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1885",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Schwarzwald",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 18420000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzwald",
+          "beschriftung": "Schwarzwald",
+          "haupt": true,
+          "artikel": "Schwarzwald",
+          "wikidata": "Q4204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1886",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Westfalen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 18340000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Westfalen",
+          "beschriftung": "Westfalen",
+          "haupt": true,
+          "artikel": "Westfalen",
+          "wikidata": "Q8614"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1887",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "200+70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Schleswig-Holstein",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 7205000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schleswig-Holstein",
+          "beschriftung": "Schleswig-Holstein",
+          "haupt": true,
+          "artikel": "Schleswig-Holstein",
+          "wikidata": "Q1194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1888",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Anton Bruckner",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 37850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Anton Bruckner",
+          "beschriftung": "Anton Bruckner",
+          "haupt": true,
+          "artikel": "Anton Bruckner",
+          "wikidata": "Q81752"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1889",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Freiherr Sir Ferdinand von Mueller",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Australien",
+      "entwerfer": "John Sellito und David Blyth",
+      "auflage": 39416000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Ferdinand von Mueller.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ferdinand von Mueller",
+          "beschriftung": "Freiherr Sir Ferdinand von Mueller",
+          "haupt": true,
+          "artikel": "Ferdinand von Mueller",
+          "wikidata": "Q708002"
+        },
+        {
+          "titel": "Australien",
+          "beschriftung": "Australien",
+          "haupt": false,
+          "artikel": "Australien",
+          "wikidata": "Q408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1890",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-10-18",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Donaueschinger Musiktage",
+      "bild_beschreibung": "",
+      "entwerfer": "Margit Zauner",
+      "auflage": 38520000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Donaueschinger Musiktage.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Donaueschinger Musiktage",
+          "beschriftung": "Donaueschinger Musiktage",
+          "haupt": true,
+          "artikel": "Donaueschinger Musiktage",
+          "wikidata": "Q690934"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1891",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-11-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weihnachten",
+      "bild_beschreibung": "Die Heiligen Drei Könige",
+      "entwerfer": "Peter Steiner",
+      "auflage": 4865000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Weihnachten I.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heilige Drei Könige",
+          "beschriftung": "Heiligen Drei Könige",
+          "haupt": true,
+          "artikel": "Heilige Drei Könige",
+          "wikidata": "Q51671"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1892",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-11-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weihnachten",
+      "bild_beschreibung": "Christi Geburt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 9175000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Weihnachten II.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1893",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-11-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Carl Zuckmayer",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 39675000,
+      "commons_datei": "Stamp Germany 1996 Briefmarke Carl Zuckmayer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Zuckmayer",
+          "beschriftung": "Carl Zuckmayer",
+          "haupt": true,
+          "artikel": "Carl Zuckmayer",
+          "wikidata": "Q76820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1894",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1996-12-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Carlo Schmid",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 24280000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carlo Schmid",
+          "beschriftung": "Carlo Schmid",
+          "haupt": true,
+          "artikel": "Carlo Schmid",
+          "wikidata": "Q67511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1860",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1996-06-13",
+      "wert": "690",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "St.-Michaelis-Kirche in Hamburg",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 152272000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        },
+        {
+          "titel": "Hauptkirche Sankt Michaelis (Hamburg)",
+          "beschriftung": "St.-Michaelis-Kirche in Hamburg",
+          "haupt": false,
+          "artikel": "Hauptkirche Sankt Michaelis",
+          "wikidata": "Q674472"
+        }
+      ]
+    }
+  ]
+}

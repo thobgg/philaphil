@@ -1,0 +1,1775 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2015,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2015 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2015_der_Bundesrepublik_Deutschland",
+    "revision": 270808856,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3122,
+    "mi_nr_bis": 3198,
+    "luecken": [
+      3130,
+      3148,
+      3168,
+      3179
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 67,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3122",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Marksburg",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 5300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marksburg",
+          "beschriftung": "Marksburg",
+          "haupt": true,
+          "artikel": "Marksburg",
+          "wikidata": "Q257210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3123",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Ludwigslust",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 5190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Ludwigslust",
+          "beschriftung": "Schloss Ludwigslust",
+          "haupt": true,
+          "artikel": "Schloss Ludwigslust",
+          "wikidata": "Q442394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3124",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Eichhörnchen",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 5360000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eichhörnchen",
+          "beschriftung": "Eichhörnchen",
+          "haupt": true,
+          "artikel": "Eichhörnchen",
+          "wikidata": "Q281124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3125",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Wildkatze",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 5360000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wildkatze",
+          "beschriftung": "Wildkatze",
+          "haupt": true,
+          "artikel": "Wildkatze",
+          "wikidata": "Q43576"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3126",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Vorpommersche Boddenlandschaft",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 5650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3127",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Marksburg; selbstklebend aus Rolle",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 423984000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3128",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Ludwigslust; selbstklebend aus Folienblatt",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 40380000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3129",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "je 62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Eichhörnchen; Wildkatze; selbstklebend aus Folienblatt",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 50820000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3131",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-01-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Vorpommersche Boddenlandschaft; selbstklebend aus Folienblatt",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 199800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3132",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-02-05",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "zur Unterstützung der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Dornröschen: Die Spindel",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 3569000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": true,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3133",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-02-05",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "Dornröschen: Der Schlaf",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 3987080,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3134",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-02-05",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "Dornröschen: Der Kuss",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 5744120,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3135",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-02-05",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Karl Leisner",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Haufe und Detlef Fiedler",
+      "auflage": 4330000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Leisner",
+          "beschriftung": "Karl Leisner",
+          "haupt": true,
+          "artikel": "Karl Leisner",
+          "wikidata": "Q62949"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3136",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-02-05",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "Dornröschen: Die Spindel; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 15270000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3137",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-03-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Bistum Hildesheim",
+      "bild_beschreibung": "",
+      "entwerfer": "Sascha Lobe",
+      "auflage": 4800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bistum Hildesheim",
+          "beschriftung": "Bistum Hildesheim",
+          "haupt": true,
+          "artikel": "Bistum Hildesheim",
+          "wikidata": "Q671443"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3138",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-03-02",
+      "wert": "240",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "900 Jahre Köthen (Anhalt)",
+      "bild_beschreibung": "",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 9800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Köthen (Anhalt)",
+          "beschriftung": "Köthen (Anhalt)",
+          "haupt": true,
+          "artikel": "Köthen (Anhalt)",
+          "wikidata": "Q1796771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3139",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-03-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Christian-Albrechts-Universität zu Kiel",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette Stahmer und André Heers",
+      "auflage": 4180000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christian-Albrechts-Universität zu Kiel",
+          "beschriftung": "Christian-Albrechts-Universität zu Kiel",
+          "haupt": true,
+          "artikel": "Christian-Albrechts-Universität zu Kiel",
+          "wikidata": "Q156737"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3140",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-03-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefe von Felix",
+      "bild_beschreibung": "Felix auf Reisen",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 6170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefe von Felix",
+          "beschriftung": "Briefe von Felix",
+          "haupt": true,
+          "artikel": "Felix (Kinderbuch-Serie)",
+          "wikidata": "Q1403289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3141",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-03-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefe von Felix",
+      "bild_beschreibung": "Post von Felix",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 4770000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefe von Felix",
+          "beschriftung": "Briefe von Felix",
+          "haupt": true,
+          "artikel": "Felix (Kinderbuch-Serie)",
+          "wikidata": "Q1403289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3142",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-03-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefe von Felix",
+      "bild_beschreibung": "Post von Felix; selbstklebend aus Folienblatt",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 54620000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3143",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-04-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Klassische deutsche Automobile",
+      "bild_beschreibung": "BMW 507",
+      "entwerfer": "Thomas Serres",
+      "auflage": 3950000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "BMW 507",
+          "beschriftung": "BMW 507",
+          "haupt": true,
+          "artikel": "BMW 507",
+          "wikidata": "Q796414"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3144",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-04-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Klassische deutsche Automobile",
+      "bild_beschreibung": "Mercedes-Benz 220 S (W 111)",
+      "entwerfer": "Thomas Serres",
+      "auflage": 3950000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mercedes-Benz W 111",
+          "beschriftung": "Mercedes-Benz 220 S (W 111)",
+          "haupt": true,
+          "artikel": "Mercedes-Benz W 111",
+          "wikidata": "Q864508"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3145",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-04-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Otto von Bismarck",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 15640000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto von Bismarck",
+          "beschriftung": "Otto von Bismarck",
+          "haupt": true,
+          "artikel": "Otto von Bismarck",
+          "wikidata": "Q8442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3146",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-04-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Max und Moritz",
+      "bild_beschreibung": "",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 4600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3147",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-04-02",
+      "wert": "je 145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Klassische deutsche Automobile",
+      "bild_beschreibung": "BMW 507; Mercedes-Benz 220 S (W 111); selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Serres",
+      "auflage": 60855000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3149",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Cartoons zum Thema Behindertensport: Tennis",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 1926000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Behindertensport",
+          "beschriftung": "Behindertensport",
+          "haupt": false,
+          "artikel": "Behindertensport",
+          "wikidata": "Q814517"
+        },
+        {
+          "titel": "Tennis",
+          "beschriftung": "Tennis",
+          "haupt": false,
+          "artikel": "Tennis",
+          "wikidata": "Q847"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3150",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "Cartoons zum Thema Behindertensport: Leichtathletik",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 1941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leichtathletik",
+          "beschriftung": "Leichtathletik",
+          "haupt": true,
+          "artikel": "Leichtathletik",
+          "wikidata": "Q542"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3151",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "Cartoons zum Thema Behindertensport: Skilauf",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 1936000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skifahren",
+          "beschriftung": "Skilauf",
+          "haupt": true,
+          "artikel": "Skifahren",
+          "wikidata": "Q130949"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3152",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Historische Spielzeuge",
+      "entwerfer": "Kitty Kahane",
+      "auflage": 4390000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3153",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": 4760000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "beschriftung": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "haupt": true,
+          "artikel": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "wikidata": "Q896771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3154",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre diplomatische Beziehungen mit Israel",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Israel",
+      "entwerfer": "Zvika Roitman",
+      "auflage": 4170000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Israel",
+          "beschriftung": "Israel",
+          "haupt": true,
+          "artikel": "Israel",
+          "wikidata": "Q801"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3155",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-05-07",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Christian-Albrechts-Universität zu Kiel",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Annette Stahmer und André Heers",
+      "auflage": 123690000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3156",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-06-11",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Moritzburg",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Moritzburg",
+          "beschriftung": "Leuchtturm Moritzburg",
+          "haupt": true,
+          "artikel": "Leuchtturm Moritzburg",
+          "wikidata": "Q1821440"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3157",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-06-11",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Lindau",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5180000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neuer Lindauer Leuchtturm",
+          "beschriftung": "Leuchtturm Lindau",
+          "haupt": true,
+          "artikel": "Leuchtturm Lindau",
+          "wikidata": "Q1980205"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3158",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-06-11",
+      "wert": "215",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre erster Kindergarten",
+      "bild_beschreibung": "",
+      "entwerfer": "Lisa Röper",
+      "auflage": 13400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kindergarten",
+          "beschriftung": "Kindergarten",
+          "haupt": true,
+          "artikel": "Kindergarten",
+          "wikidata": "Q126807"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3159",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-06-11",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre erster bayerischer Gebirgstrachtenverband (Bayerischer Trachtenverband)",
+      "bild_beschreibung": "",
+      "entwerfer": "Michael Kunter",
+      "auflage": 4390000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bayerischer Trachtenverband",
+          "beschriftung": "Bayerischer Trachtenverband",
+          "haupt": true,
+          "artikel": "Bayerischer Trachtenverband",
+          "wikidata": "Q257602"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3160",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-06-11",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Jugend forscht",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Beyrow",
+      "auflage": 4430000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jugend forscht",
+          "beschriftung": "Jugend forscht",
+          "haupt": true,
+          "artikel": "Jugend forscht",
+          "wikidata": "Q1711223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3161",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-06-11",
+      "wert": "240",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Erschaffung der Tiere (Meister Bertram); selbstklebend aus Markenheftchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 20810000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meister Bertram",
+          "beschriftung": "Meister Bertram",
+          "haupt": true,
+          "artikel": "Meister Bertram",
+          "wikidata": "Q670632"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3162",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-07-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Chiemsee Motiv 1",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4316000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chiemsee",
+          "beschriftung": "Chiemsee",
+          "haupt": true,
+          "artikel": "Chiemsee",
+          "wikidata": "Q4138"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3163",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-07-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Chiemsee Motiv 2",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4316000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3164",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-07-01",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Leipzig",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette Stahmer und André Heers",
+      "auflage": 5631000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3165",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-07-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Philipp Scheidemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Haufe und Detlef Fiedler",
+      "auflage": 4608000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Philipp Scheidemann",
+          "beschriftung": "Philipp Scheidemann",
+          "haupt": true,
+          "artikel": "Philipp Scheidemann",
+          "wikidata": "Q70581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3166",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-07-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75. Geburtstag Pina Bausch",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4485000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pina Bausch",
+          "beschriftung": "Pina Bausch",
+          "haupt": true,
+          "artikel": "Pina Bausch",
+          "wikidata": "Q155538"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3167",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-07-01",
+      "wert": "je 45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Chiemsee Motiv 1; Chiemsee Motiv 2; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 45975000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3169",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-08-06",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Äsche",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1944000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Äsche",
+          "beschriftung": "Äsche",
+          "haupt": false,
+          "artikel": "Europäische Äsche",
+          "wikidata": "Q627960"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3170",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-08-06",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "Barbe",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1944000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Barbe",
+          "beschriftung": "Barbe",
+          "haupt": true,
+          "artikel": "Barbe",
+          "wikidata": "Q326219"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3171",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-08-06",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "Stör",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1944000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Störe",
+          "beschriftung": "Stör",
+          "haupt": true,
+          "artikel": "Störe",
+          "wikidata": "Q181871"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3172",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-08-06",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Internationales Windjammerfestival Bremerhaven",
+      "bild_beschreibung": "",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5059000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sail Bremerhaven",
+          "beschriftung": "Internationales Windjammerfestival Bremerhaven",
+          "haupt": true,
+          "artikel": "Sail Bremerhaven",
+          "wikidata": "Q1379464"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3173",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-09-01",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Tag der Briefmarke",
+      "bild_beschreibung": "175 Jahre Briefmarken",
+      "entwerfer": "Johannes Graf",
+      "auflage": 2546000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3174",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-09-01",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Helmut Schön",
+      "bild_beschreibung": "",
+      "entwerfer": "Oliver Aretz",
+      "auflage": 4351000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Helmut Schön",
+          "beschriftung": "Helmut Schön",
+          "haupt": true,
+          "artikel": "Helmut Schön",
+          "wikidata": "Q1373310"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3175",
+      "block": "Block 80",
+      "art": "Sondermarke",
+      "ausgabetag": "2015-09-01",
+      "wert": "21",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Asterix",
+      "bild_beschreibung": "Figur Idefix",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Figuren aus Asterix",
+          "beschriftung": "Figur Idefix",
+          "haupt": true,
+          "artikel": "Figuren aus Asterix",
+          "wikidata": "Q1412089"
+        },
+        {
+          "titel": "Asterix",
+          "beschriftung": "Asterix",
+          "haupt": false,
+          "artikel": "Asterix",
+          "wikidata": "Q42490"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3176",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-09-01",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Asterix",
+      "bild_beschreibung": "Figur Obelix",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Figuren aus Asterix",
+          "beschriftung": "Figur Obelix",
+          "haupt": true,
+          "artikel": "Figuren aus Asterix",
+          "wikidata": "Q1412089"
+        },
+        {
+          "titel": "Asterix",
+          "beschriftung": "Asterix",
+          "haupt": false,
+          "artikel": "Asterix",
+          "wikidata": "Q42490"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3177",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-09-01",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Asterix",
+      "bild_beschreibung": "Figur Asterix",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Figuren aus Asterix",
+          "beschriftung": "Figur Asterix",
+          "haupt": true,
+          "artikel": "Figuren aus Asterix",
+          "wikidata": "Q1412089"
+        },
+        {
+          "titel": "Asterix",
+          "beschriftung": "Asterix",
+          "haupt": false,
+          "artikel": "Asterix",
+          "wikidata": "Q42490"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3178",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-09-01",
+      "wert": "je 62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Asterix",
+      "bild_beschreibung": "Figur Asterix; Figur Obelix; selbstklebend aus Markenheftchen",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 31205000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3180",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-10-01",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Trauernde Frauen (Tilman Riemenschneider)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4191000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tilman Riemenschneider",
+          "beschriftung": "Tilman Riemenschneider",
+          "haupt": true,
+          "artikel": "Tilman Riemenschneider",
+          "wikidata": "Q44723"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3181",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-10-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag Lucas Cranach der Jüngere",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 6061000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lucas Cranach der Jüngere",
+          "beschriftung": "Lucas Cranach der Jüngere",
+          "haupt": true,
+          "artikel": "Lucas Cranach der Jüngere",
+          "wikidata": "Q170339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3182",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-10-01",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Einheit",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Haufe und Detlef Fiedler",
+      "auflage": 5671000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Einheit",
+          "beschriftung": "Deutsche Einheit",
+          "haupt": true,
+          "artikel": "Deutsche Einheit",
+          "wikidata": "Q17321185"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3183",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-11-02",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Stille Nacht",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 3246000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3184",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-11-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Geburt Christi mit Anbetung der Hirten (Martin Schongauer)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 3821000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin Schongauer",
+          "beschriftung": "Martin Schongauer",
+          "haupt": true,
+          "artikel": "Martin Schongauer",
+          "wikidata": "Q155575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3185",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-11-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Freude schenken",
+      "bild_beschreibung": "",
+      "entwerfer": "Regina Kehn",
+      "auflage": 5531000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3186",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-11-02",
+      "wert": "62+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Stille Nacht; selbstklebend aus Markenheftchen",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 5290000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3187",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-11-02",
+      "wert": "62",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Freude schenken",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Regina Kehn",
+      "auflage": 73930000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3192",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Kieselalge",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 4671000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kieselalge",
+          "beschriftung": "Kieselalge",
+          "haupt": true,
+          "artikel": "Kieselalgen",
+          "wikidata": "Q162678"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3193",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Blüte Odermennig",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 4621000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Odermennig",
+          "beschriftung": "Odermennig",
+          "haupt": true,
+          "artikel": "Gemeiner Odermennig",
+          "wikidata": "Q156865"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3194",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Technische Universität Bergakademie Freiberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 4714000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Universität Bergakademie Freiberg",
+          "beschriftung": "Technische Universität Bergakademie Freiberg",
+          "haupt": true,
+          "artikel": "Technische Universität Bergakademie Freiberg",
+          "wikidata": "Q689854"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3195",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "240",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Paul Klee Gemälde: Himmelsblüten über dem gelben Haus",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 8556000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Klee",
+          "beschriftung": "Paul Klee",
+          "haupt": true,
+          "artikel": "Paul Klee",
+          "wikidata": "Q44007"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3198",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Technische Universität Bergakademie Freiberg",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 498210000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3188",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "8",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Ergänzungsmarke",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 80660200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3196",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "8",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Ergänzungsmarke",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 160040000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3189",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Schokoladen-Kosmee",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 322503570,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schokoladen-Kosmee",
+          "beschriftung": "Schokoladen-Kosmee",
+          "haupt": true,
+          "artikel": "Schokoladen-Kosmee",
+          "wikidata": "Q1535295"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3197",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Schokoladen-Kosmee; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3190",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "400",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Fuchsie",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 30635400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fuchsien",
+          "beschriftung": "Fuchsie",
+          "haupt": true,
+          "artikel": "Fuchsien",
+          "wikidata": "Q161066"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3191",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2015-12-03",
+      "wert": "450",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Bienen-Ragwurz",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 31862400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bienen-Ragwurz",
+          "beschriftung": "Bienen-Ragwurz",
+          "haupt": true,
+          "artikel": "Bienen-Ragwurz",
+          "wikidata": "Q159291"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

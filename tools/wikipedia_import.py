@@ -36,12 +36,49 @@ HIER = Path(__file__).resolve().parent
 CACHE = HIER / "cache"
 DATEN = HIER.parent / "daten"
 
-# Seitentitel der Jahrgangslisten je Gebiet
+# Seitentitel der Jahrgangslisten je Gebiet; Bund heisst je nach Jahr anders
+def titel_bund(jahr):
+    if jahr == 1949:
+        return "Briefmarken-Jahrgang 1949 der Deutschen Post"
+    if jahr <= 1994:
+        return f"Briefmarken-Jahrgang {jahr} der Deutschen Bundespost"
+    return f"Briefmarken-Jahrgang {jahr} der Bundesrepublik Deutschland"
+
+
 GEBIETE = {
-    "bund": ("Bund", "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost"),
-    "berlin": ("Berlin", "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost Berlin"),
-    "ddr": ("DDR", "Briefmarken-Jahrgang {jahr} der Deutschen Post der DDR"),
+    "bund": ("Bund", titel_bund),
+    "berlin": ("Berlin", lambda j: f"Briefmarken-Jahrgang {j} der Deutschen Bundespost Berlin"),
+    "ddr": ("DDR", lambda j: f"Briefmarken-Jahrgang {j} der Deutschen Post der DDR"),
 }
+
+# Waehrung aus der Kopfzeile "Werte in ..."
+WAEHRUNGEN = [("eurocent", "ct"), ("pfennig", "Pf"), ("cent", "ct"), ("euro", "€"), ("deutsche mark", "DM"), (" dm", "DM")]
+
+# Spaltennamen der Kopfzeile -> Schluessel
+SPALTEN = [("bild", "bild"), ("beschreibung", "beschreibung"), ("wert", "wert"), ("ausgabe", "datum"),
+           ("gültig", "gueltig_bis"), ("letzter", "gueltig_bis"), ("auflage", "auflage"),
+           ("entwurf", "entwurf"), ("entwerfer", "entwurf"), ("michel", "minr"), ("minr", "minr"), ("mi.", "minr"), ("nr", "minr")]
+STANDARD_SPALTEN = {"bild": 0, "beschreibung": 1, "wert": 2, "datum": 3, "auflage": 4, "entwurf": 5, "minr": 6}
+
+
+def waehrung_aus(text):
+    t = text.lower()
+    for wort, kuerzel in WAEHRUNGEN:
+        if wort in t:
+            return kuerzel
+    return None
+
+
+def art_aus(abschnitt):
+    """'Sondermarken 1951', 'Dauermarken (vorgreifende Wertstufen …)' -> 'Sondermarke', 'Dauermarke' …"""
+    if not abschnitt:
+        return "Sondermarke"          # Listen ohne Abschnittszeile enthalten die Sondermarken
+    t = abschnitt.lower()
+    for wort, art in (("automatenmarke", "Automatenmarke"), ("dauermarke", "Dauermarke"), ("sondermarke", "Sondermarke"),
+                      ("ganzsache", "Ganzsache"), ("postkarte", "Ganzsache"), ("block", "Block")):
+        if wort in t:
+            return art
+    return abschnitt.strip("= ").strip()
 
 # Links, die kein Thema sind (Philatelie-Begriffe, Einheiten)
 KEINE_THEMEN = {
@@ -189,7 +226,7 @@ def tabelle_parsen(wikitext):
     ende = wikitext.find("\n|}", anfang)
     if anfang < 0 or ende < 0:
         sys.exit("Keine Tabelle gefunden")
-    block = wikitext[anfang:ende]
+    block = re.sub(r"<!--.*?-->", "", wikitext[anfang:ende], flags=re.DOTALL)   # auskommentierte Bilder u. ae.
 
     rohe_zeilen = []       # Liste von (zellen: [(attribute, inhalt)])
     aktuelle = []
@@ -212,15 +249,36 @@ def tabelle_parsen(wikitext):
         rohe_zeilen.append(aktuelle)
 
     abschnitt = None
+    waehrung = None
+    spalten = dict(STANDARD_SPALTEN)
     ergebnis = []
     laufend = {}    # Spaltenindex -> [verbleibende Zeilen, Inhalt]
     for zellen in rohe_zeilen:
-        if len(zellen) == 1 and "<h3>" in zellen[0][1]:
-            abschnitt = klartext(zellen[0][1])
+        if len(zellen) == 1:
+            # Abschnittszeile: <h3>Sondermarken</h3>, "Sondermarken 1951", "Dauermarken – Wertangabe in Euro"
+            abschnitt = klartext(zellen[0][1]).strip("= ")
+            waehrung = waehrung_aus(abschnitt) or waehrung
             laufend = {}
             continue
         if any("'''Bild'''" in z[1] for z in zellen):
-            continue        # Kopfzeile
+            # Kopfzeile: Spalten nach Namen (bis 1968 gibt es "gültig bis"), Waehrung aus "Werte in …"
+            spalten = {}
+            for i, z in enumerate(zellen):
+                name = klartext(z[1]).lower()
+                for wort, schluessel in SPALTEN:
+                    if wort in name and schluessel not in spalten:
+                        spalten[schluessel] = i
+                        break
+            if "minr" not in spalten:
+                spalten = dict(STANDARD_SPALTEN)
+            else:
+                # Nicht erkannte Ueberschriften (z. B. "Ausgabetag") der Reihe nach den fehlenden Spalten zuordnen
+                frei = [i for i in range(len(zellen)) if i not in spalten.values()]
+                fehlend = [k for k in STANDARD_SPALTEN if k not in spalten]
+                for k, i in zip(fehlend, frei):
+                    spalten[k] = i
+            waehrung = waehrung_aus(" ".join(klartext(z[1]) for z in zellen)) or waehrung
+            continue
         # rowspan-Übernahmen einsetzen
         ausgabe = []
         spalte = 0
@@ -239,7 +297,7 @@ def tabelle_parsen(wikitext):
                 laufend[spalte] = [rs - 1, inhalt]
             ausgabe.append(inhalt)
             spalte += attribut(attribute, "colspan")
-        ergebnis.append((abschnitt, ausgabe))
+        ergebnis.append((abschnitt, waehrung, {k: (ausgabe[i] if i < len(ausgabe) else "") for k, i in spalten.items()}))
     return ergebnis
 
 
@@ -253,17 +311,20 @@ def beschreibung_parsen(text):
     zeilen = [z.rstrip() for z in text.split("\n")]
     anlass = None
     beschreibung = []
+    erste = True
     for z in zeilen:
         s = z.strip()
         if not s:
             continue
-        if s.startswith(":"):
+        if s.startswith((":", "*")):
+            # Aufzaehlung: Bildbeschreibung (":* Motiv" in alten, "* Motiv" in neuen Listen)
             beschreibung.append(s.lstrip(":* ").strip())
-        elif "'''" in s and anlass is None:
+        elif erste:
+            # Erste Textzeile ist der Anlass - meist fett, in neueren Listen auch ohne
             anlass = s
         else:
-            # Text ohne Doppelpunkt nach dem Anlass gehört zur Beschreibung
             beschreibung.append(s)
+        erste = False
     return anlass, "; ".join(beschreibung)
 
 
@@ -271,6 +332,11 @@ def datum_parsen(text, jahr):
     t = klartext(text)
     m = re.match(r"(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)(?:\s+(\d{4}))?", t)
     if not m:
+        # Nur Monat (und Jahr): in den 1950ern bei Dauermarken ueblich -> "1956-11"
+        m2 = re.match(r"([A-Za-zäöüÄÖÜ]+)(?:\s+(\d{4}))?$", t)
+        monat = MONATE.get(m2.group(1).lower()) if m2 else None
+        if monat:
+            return f"{int(m2.group(2)) if m2.group(2) else jahr:04d}-{monat:02d}", t
         return None, t
     tag = int(m.group(1))
     monat = MONATE.get(m.group(2).lower())
@@ -299,8 +365,8 @@ def minr_parsen(text):
 
 def zahl_parsen(text):
     t = klartext(text)
-    ziffern = re.sub(r"[.\s]", "", t)
-    return int(ziffern) if ziffern.isdigit() else None
+    m = re.search(r"\d{1,3}(?:\.\d{3})+|\d+", t)
+    return int(m.group().replace(".", "")) if m else None
 
 
 def themen_ableiten(anlass_wiki, beschreibung_wiki, im_satz):
@@ -328,8 +394,8 @@ def themen_ableiten(anlass_wiki, beschreibung_wiki, im_satz):
 
 # ----------------------------------------------------------------- Hauptlauf
 def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
-    gebiet, titel_muster = GEBIETE[gebiet_schluessel]
-    seitentitel = titel_muster.format(jahr=jahr)
+    gebiet, titel_fn = GEBIETE[gebiet_schluessel]
+    seitentitel = titel_fn(jahr)
     wikitext, revision, seitentitel = wikitext_laden(seitentitel, offline=offline, frisch=frisch)
 
     m = re.search(r"umfasste (\d+) \[\[Sondermarke", wikitext)
@@ -338,14 +404,20 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
     marken = []
     anlass_wiki = None          # läuft über Satzzeilen weiter
     anlass_abschnitt = None
-    for abschnitt, zellen in tabelle_parsen(wikitext):
-        if len(zellen) < 7:
-            print(f"  Hinweis: Zeile mit {len(zellen)} Zellen übersprungen: {klartext(' '.join(zellen))[:60]}", file=sys.stderr)
+    for abschnitt, waehrung, zellen in tabelle_parsen(wikitext):
+        if not zellen.get("minr"):
             continue
-        bild, beschreibung, wert, datum, auflage, entwurf, minr = zellen[:7]
+        bild, beschreibung, wert = zellen.get("bild", ""), zellen.get("beschreibung", ""), zellen.get("wert", "")
+        datum, auflage, entwurf, minr = zellen.get("datum", ""), zellen.get("auflage", ""), zellen.get("entwurf", ""), zellen["minr"]
         mi_nr, block = minr_parsen(minr)
         if not mi_nr:
             continue
+        if not any(ch.isdigit() for ch in mi_nr):
+            print(f"  Hinweis: Zeile ohne MiNr übersprungen ({mi_nr}): {klartext(beschreibung)[:50]}", file=sys.stderr)
+            continue
+        art = art_aus(abschnitt)
+        if art == "Automatenmarke" and mi_nr[0].isdigit():
+            mi_nr = "ATM " + mi_nr                 # eigene Zaehlung, nicht die der Marken
         neuer_anlass, beschreibung_wiki = beschreibung_parsen(beschreibung)
         if neuer_anlass or abschnitt != anlass_abschnitt:
             anlass_wiki = neuer_anlass
@@ -357,10 +429,11 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
         marke = {
             "mi_nr": mi_nr,
             "block": block,                 # 'Block 16', wenn die Marke nur im Block erschien
-            "art": (abschnitt or "").rstrip("n") if abschnitt else None,   # Sondermarken -> Sondermarke
+            "art": art,
             "ausgabetag": ausgabetag,
             "wert": klartext(wert),
-            "waehrung": "Pf",
+            "waehrung": waehrung or ("ct" if jahr >= 2002 else "Pf"),
+            "gueltig_bis": datum_parsen(zellen.get("gueltig_bis", ""), jahr)[0] if zellen.get("gueltig_bis") else None,
             "anlass": klartext(anlass_wiki or ""),
             "bild_beschreibung": klartext(beschreibung_wiki),
             "entwerfer": klartext(entwurf) or None,
@@ -391,22 +464,39 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             t["wikidata"] = qid
 
     # Lückenprüfung
-    nummern = sorted({int(m.group(1)) for mk in marken if (m := re.match(r"(\d+)", mk["mi_nr"]))})
-    luecken = [n for n in range(nummern[0], nummern[-1] + 1) if n not in nummern] if nummern else []
+    # Lueckenpruefung nur ueber die eigentliche Zaehlung (keine ATM, keine Bl.)
+    def nummern_in(mi_nr):
+        m = re.fullmatch(r"(\d+)\s*[-–]\s*(\d+)", mi_nr)
+        if m:
+            return list(range(int(m.group(1)), int(m.group(2)) + 1))
+        rest = re.sub(r"(MH|Block|Bl\.)\s*\d+", "", mi_nr)
+        return [int(z) for z in re.findall(r"\d+", rest)]
+    nummern = sorted({n for mk in marken if mk["art"] in ("Sondermarke", "Dauermarke", None) for n in nummern_in(mk["mi_nr"])})
+    # Kern = Bereich der Sondermarken des Jahrgangs; Dauermarken aelterer Serien liegen oft weit davor
+    # und werden als Ausreisser gemeldet, nicht als Luecke.
+    kern = list(nummern)
+    ausreisser = []
+    while len(kern) > 2 and kern[1] - kern[0] > 10:
+        ausreisser.append(kern.pop(0))
+    while len(kern) > 2 and kern[-1] - kern[-2] > 10:
+        ausreisser.append(kern.pop())
+    luecken = [n for n in range(kern[0], kern[-1] + 1) if n not in kern] if kern else []
     sonder = sum(1 for mk in marken if mk["art"] == "Sondermarke")
     pruefung = {
-        "mi_nr_von": nummern[0] if nummern else None,
-        "mi_nr_bis": nummern[-1] if nummern else None,
+        "mi_nr_von": kern[0] if kern else None,
+        "mi_nr_bis": kern[-1] if kern else None,
         "luecken": luecken,
+        "ausreisser": ausreisser,
         "sondermarken_gezaehlt": sonder,
         "sondermarken_laut_einleitung": erwartet_sondermarken,
     }
     if luecken:
-        print(f"  LÜCKEN in der Tabelle: MiNr {luecken}", file=sys.stderr)
+        kurz = ", ".join(map(str, luecken[:15])) + (f" … ({len(luecken)} insgesamt)" if len(luecken) > 15 else "")
+        print(f"  LÜCKEN in der Tabelle: MiNr {kurz}", file=sys.stderr)
     if erwartet_sondermarken is not None and erwartet_sondermarken != sonder:
         print(f"  ABWEICHUNG: Einleitung nennt {erwartet_sondermarken} Sondermarken, Tabelle hat {sonder}", file=sys.stderr)
     ohne_bild = [mk["mi_nr"] for mk in marken if not mk["commons_datei"]]
-    print(f"  Ohne Commons-Bild: {len(ohne_bild)} ({', '.join(ohne_bild)})", file=sys.stderr)
+    print(f"  Ohne Commons-Bild: {len(ohne_bild)} von {len(marken)}", file=sys.stderr)
 
     ausgabe = {
         "gebiet": gebiet,

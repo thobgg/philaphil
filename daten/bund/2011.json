@@ -1,0 +1,1828 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2011,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2011 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2011_der_Bundesrepublik_Deutschland",
+    "revision": 269502423,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2835,
+    "mi_nr_bis": 2899,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2836",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Motive von Loriot",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; „Der sprechende Hund“",
+      "entwerfer": "Motiv: Loriot Gestaltung: Hans Günter Schmitz",
+      "auflage": 4947500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der sprechende Hund",
+          "beschriftung": "Der sprechende Hund",
+          "haupt": true,
+          "artikel": "Der sprechende Hund",
+          "wikidata": "Q96279492"
+        },
+        {
+          "titel": "Loriot",
+          "beschriftung": "Loriot",
+          "haupt": false,
+          "artikel": "Loriot",
+          "wikidata": "Q44736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2837",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Motive von Loriot",
+      "bild_beschreibung": "„Auf der Rennbahn“",
+      "entwerfer": "Motiv: Loriot Gestaltung: Hans Günter Schmitz",
+      "auflage": 2424500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Auf der Rennbahn",
+          "beschriftung": "Auf der Rennbahn",
+          "haupt": true,
+          "artikel": "Auf der Rennbahn",
+          "wikidata": "Q759434"
+        },
+        {
+          "titel": "Loriot",
+          "beschriftung": "Loriot",
+          "haupt": false,
+          "artikel": "Loriot",
+          "wikidata": "Q44736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2838",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Motive von Loriot",
+      "bild_beschreibung": "„Herren im Bad“",
+      "entwerfer": "Motiv: Loriot Gestaltung: Hans Günter Schmitz",
+      "auflage": 2846000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herren im Bad",
+          "beschriftung": "Herren im Bad",
+          "haupt": true,
+          "artikel": "Herren im Bad",
+          "wikidata": "Q1563988"
+        },
+        {
+          "titel": "Loriot",
+          "beschriftung": "Loriot",
+          "haupt": false,
+          "artikel": "Loriot",
+          "wikidata": "Q44736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2839",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Motive von Loriot",
+      "bild_beschreibung": "„Das Frühstücksei“",
+      "entwerfer": "Motiv: Loriot Gestaltung: Hans Günter Schmitz",
+      "auflage": 5253000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Frühstücksei",
+          "beschriftung": "Das Frühstücksei",
+          "haupt": true,
+          "artikel": "Das Frühstücksei",
+          "wikidata": "Q1167630"
+        },
+        {
+          "titel": "Loriot",
+          "beschriftung": "Loriot",
+          "haupt": false,
+          "artikel": "Loriot",
+          "wikidata": "Q44736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2840",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei",
+      "bild_beschreibung": "Caspar David Friedrich: Der Wanderer über dem Nebelmeer",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 6900000,
+      "commons_datei": "DPAG 2011 55 Caspar David Friedrich.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": true,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        },
+        {
+          "titel": "Der Wanderer über dem Nebelmeer",
+          "beschriftung": "Der Wanderer über dem Nebelmeer",
+          "haupt": false,
+          "artikel": "Der Wanderer über dem Nebelmeer",
+          "wikidata": "Q311243"
+        },
+        {
+          "titel": "Deutsche Malerei",
+          "beschriftung": "Deutsche Malerei",
+          "haupt": false,
+          "artikel": "Deutsche Malerei",
+          "wikidata": "Q1203446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2841",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche National- und Naturparke",
+      "bild_beschreibung": "Nationalpark Kellerwald-Edersee",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 6920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nationalpark Kellerwald-Edersee",
+          "beschriftung": "Nationalpark Kellerwald-Edersee",
+          "haupt": true,
+          "artikel": "Nationalpark Kellerwald-Edersee",
+          "wikidata": "Q695880"
+        },
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": false,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2842",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Segelflug auf der Wasserkuppe",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 5900000,
+      "commons_datei": "DPAG 2011 45 Segelflug auf der Wasserkuppe.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Segelflug",
+          "beschriftung": "Segelflug",
+          "haupt": true,
+          "artikel": "Segelflug",
+          "wikidata": "Q624161"
+        },
+        {
+          "titel": "Wasserkuppe",
+          "beschriftung": "Wasserkuppe",
+          "haupt": false,
+          "artikel": "Wasserkuppe",
+          "wikidata": "Q247726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2843",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege",
+      "bild_beschreibung": "„Auf der Rennbahn“; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Motiv: Loriot Gestaltung: Hans Günter Schmitz",
+      "auflage": 19051000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2844",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-02-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Tempel Yakushi-ji in Nara; Gemeinschaftsausgabe mit der Japanischen Post",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 5910000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Yakushi-ji",
+          "beschriftung": "Yakushi-ji",
+          "haupt": true,
+          "artikel": "Yakushi-ji",
+          "wikidata": "Q945913"
+        },
+        {
+          "titel": "Nara",
+          "beschriftung": "Nara",
+          "haupt": false,
+          "artikel": "Nara",
+          "wikidata": "Q169134"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Nippon Yūsei",
+          "beschriftung": "Japanischen Post",
+          "haupt": false,
+          "artikel": "Nippon Yūsei",
+          "wikidata": "Q1372049"
+        },
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": false,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2845",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-02-03",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Altstadt Regensburg mit Dom",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 6900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altstadt von Regensburg mit Stadtamhof",
+          "beschriftung": "Altstadt Regensburg",
+          "haupt": true,
+          "artikel": "Altstadt von Regensburg mit Stadtamhof",
+          "wikidata": "Q1246833"
+        },
+        {
+          "titel": "Regensburger Dom",
+          "beschriftung": "Dom",
+          "haupt": false,
+          "artikel": "Regensburger Dom",
+          "wikidata": "Q280268"
+        },
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": false,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2846",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-02-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Franz Liszt",
+      "bild_beschreibung": "Die Notensequenz stammt aus der Konzert-Etüde: Waldesrauschen",
+      "entwerfer": "Jens Müller und Karen Weiland",
+      "auflage": 7050000,
+      "commons_datei": "DPAG 2011 Franz Liszt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Liszt",
+          "beschriftung": "Franz Liszt",
+          "haupt": true,
+          "artikel": "Franz Liszt",
+          "wikidata": "Q41309"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2847",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-02-03",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Zweiburgenblick im Werratal",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweiburgenblick im Werratal",
+          "beschriftung": "Zweiburgenblick",
+          "haupt": true,
+          "artikel": "Zweiburgenblick im Werratal",
+          "wikidata": "Q232368"
+        },
+        {
+          "titel": "Werra",
+          "beschriftung": "Werra",
+          "haupt": false,
+          "artikel": "Werra",
+          "wikidata": "Q6424"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2848, 2849",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-02-03",
+      "wert": "je 55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "Schiff; Regenbogen; selbstklebend aus Folienblatt",
+      "entwerfer": "Johannes Graf",
+      "auflage": 50827000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2850",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-02-03",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Altstadt Regensburg mit Dom; selbstklebend aus Folienblatt",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 72629000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2852",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Die vier Elemente",
+      "bild_beschreibung": "Wasser",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasser",
+          "beschriftung": "Wasser",
+          "haupt": true,
+          "artikel": "Wasser",
+          "wikidata": "Q283"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        },
+        {
+          "titel": "Vier-Elemente-Lehre",
+          "beschriftung": "Die vier Elemente",
+          "haupt": false,
+          "artikel": "Vier-Elemente-Lehre",
+          "wikidata": "Q188520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2853",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Die vier Elemente",
+      "bild_beschreibung": "Erde",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erde",
+          "beschriftung": "Erde",
+          "haupt": true,
+          "artikel": "Erde",
+          "wikidata": "Q2"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        },
+        {
+          "titel": "Vier-Elemente-Lehre",
+          "beschriftung": "Die vier Elemente",
+          "haupt": false,
+          "artikel": "Vier-Elemente-Lehre",
+          "wikidata": "Q188520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2854",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Die vier Elemente",
+      "bild_beschreibung": "Feuer",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuer",
+          "beschriftung": "Feuer",
+          "haupt": true,
+          "artikel": "Feuer",
+          "wikidata": "Q3196"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        },
+        {
+          "titel": "Vier-Elemente-Lehre",
+          "beschriftung": "Die vier Elemente",
+          "haupt": false,
+          "artikel": "Vier-Elemente-Lehre",
+          "wikidata": "Q188520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2855",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Die vier Elemente",
+      "bild_beschreibung": "Luft",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luft",
+          "beschriftung": "Luft",
+          "haupt": true,
+          "artikel": "Luft",
+          "wikidata": "Q7391292"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        },
+        {
+          "titel": "Vier-Elemente-Lehre",
+          "beschriftung": "Die vier Elemente",
+          "haupt": false,
+          "artikel": "Vier-Elemente-Lehre",
+          "wikidata": "Q188520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2856",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-03-03",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Zweiburgenblick im Werratal",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 144186000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2857",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Fußball-Weltmeisterschaft der Frauen 2011 Torhüterin",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 2199500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft der Frauen 2011",
+          "beschriftung": "Fußball-Weltmeisterschaft der Frauen 2011",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft der Frauen 2011",
+          "wikidata": "Q108183"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2858",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "Fußball-Weltmeisterschaft der Frauen 2011 Stürmerin",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 2230000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball-Weltmeisterschaft der Frauen 2011",
+          "beschriftung": "Fußball-Weltmeisterschaft der Frauen 2011",
+          "haupt": true,
+          "artikel": "Fußball-Weltmeisterschaft der Frauen 2011",
+          "wikidata": "Q108183"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2859",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "Turn-Europameisterschaften 2011 in Berlin",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 896000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turn-Europameisterschaften 2011",
+          "beschriftung": "Turn-Europameisterschaften 2011",
+          "haupt": true,
+          "artikel": "Turn-Europameisterschaften 2011",
+          "wikidata": "Q819087"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2860",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport",
+      "bild_beschreibung": "Feldhockey-Europameisterschaft der Herren 2011 in Mönchengladbach",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 876000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldhockey-Europameisterschaft der Herren 2011",
+          "beschriftung": "Feldhockey-Europameisterschaft der Herren 2011",
+          "haupt": true,
+          "artikel": "Feldhockey-Europameisterschaft der Herren 2011",
+          "wikidata": "Q646262"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fachwerkbauten in Deutschland",
+      "bild_beschreibung": "Frühneuzeitlicher Fachwerkbau in Alsfeld, Rathaus erbaut 1512 bis 1516",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 16762000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alsfeld",
+          "beschriftung": "Alsfeld",
+          "haupt": true,
+          "artikel": "Alsfeld",
+          "wikidata": "Q488314"
+        },
+        {
+          "titel": "Rathaus Alsfeld",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Rathaus Alsfeld",
+          "wikidata": "Q1426164"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fachwerkbauten in Deutschland",
+      "bild_beschreibung": "Frühneuzeitlicher Fachwerkbau in Hartenstein (Sachsen), Gasthof „Weißes Roß“ erbaut 1625",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 25554000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hartenstein (Sachsen)",
+          "beschriftung": "Hartenstein (Sachsen)",
+          "haupt": true,
+          "artikel": "Hartenstein (Sachsen)",
+          "wikidata": "Q20078"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2863",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-04-07",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche National- und Naturparke",
+      "bild_beschreibung": "Nationalpark Kellerwald-Edersee; selbstklebend aus Folienblatt",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 134979000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-05-05",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Wald",
+      "entwerfer": "Hans Peter Hoch und Andreas Hoch",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-05-05",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutscher Industrie- und Handelskammertag",
+      "bild_beschreibung": "",
+      "entwerfer": "Nadine Nill",
+      "auflage": 5750000,
+      "commons_datei": "DPAG 2011 150 Jahre Industrie- und Handelskammertag.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Industrie- und Handelskammertag",
+          "beschriftung": "Deutscher Industrie- und Handelskammertag",
+          "haupt": true,
+          "artikel": "Deutsche Industrie- und Handelskammer",
+          "wikidata": "Q317528"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-05-05",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Wallraf-Richartz-Museum",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 5970000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wallraf-Richartz-Museum",
+          "beschriftung": "Wallraf-Richartz-Museum",
+          "haupt": true,
+          "artikel": "Wallraf-Richartz-Museum & Fondation Corboud",
+          "wikidata": "Q700959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-05-05",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Automobil",
+      "bild_beschreibung": "",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 7220000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Automobil",
+          "beschriftung": "Automobil",
+          "haupt": true,
+          "artikel": "Automobil",
+          "wikidata": "Q1420"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-05-05",
+      "wert": "205",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Reichsversicherungsordnung",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": 7700000,
+      "commons_datei": "DPAG 2011 100 Jahre Reichsversicherungsordnung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichsversicherungsordnung",
+          "beschriftung": "Reichsversicherungsordnung",
+          "haupt": true,
+          "artikel": "Reichsversicherungsordnung",
+          "wikidata": "Q2139825"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-05-05",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei",
+      "bild_beschreibung": "Caspar David Friedrich: Der Wanderer über dem Nebelmeer; selbstklebend aus Rolle",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 471080000,
+      "commons_datei": "DPAG 2011 55 Caspar David Friedrich.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-06-09",
+      "wert": "165",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Errichtung des ersten Turnplatzes durch „Turnvater“ Friedrich Ludwig Jahn",
+      "bild_beschreibung": "Lithografie Der erste Turnplatz Deutschlands: Turnplatz Hasenheide in Berlin 1818",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 4750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Ludwig Jahn",
+          "beschriftung": "Friedrich Ludwig Jahn",
+          "haupt": true,
+          "artikel": "Friedrich Ludwig Jahn",
+          "wikidata": "Q77098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2871",
+      "block": "Block 78",
+      "art": "Sondermarke",
+      "ausgabetag": "2011-06-09",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 175 Jahre Sächsische Dampfschiffahrt in Dresden",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 3380000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sächsische Dampfschiffahrt",
+          "beschriftung": "Sächsische Dampfschiffahrt",
+          "haupt": true,
+          "artikel": "Sächsische Dampfschiffahrt",
+          "wikidata": "Q315016"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-06-09",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Mecklenburgische Bäderbahn „Molli“",
+      "bild_beschreibung": "",
+      "entwerfer": "Michael Kunter",
+      "auflage": 7100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bäderbahn Molli",
+          "beschriftung": "Mecklenburgische Bäderbahn „Molli“",
+          "haupt": true,
+          "artikel": "Bäderbahn Molli",
+          "wikidata": "Q9643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-06-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Amnesty International",
+      "bild_beschreibung": "",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 5230000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Amnesty International",
+          "beschriftung": "Amnesty International",
+          "haupt": true,
+          "artikel": "Amnesty International",
+          "wikidata": "Q42970"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2874",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-06-09",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Sächsische Dampfschiffahrt in Dresden",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 36629000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2875, 2876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-07-01",
+      "wert": "je 45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Warnemünde; Norderney; selbstklebend aus Markenheftchen",
+      "entwerfer": "Johannes Graf",
+      "auflage": 16310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Warnemünde",
+          "beschriftung": "Warnemünde",
+          "haupt": true,
+          "artikel": "Leuchtturm Warnemünde",
+          "wikidata": "Q1697562"
+        },
+        {
+          "titel": "Leuchtturm Norderney",
+          "beschriftung": "Norderney",
+          "haupt": false,
+          "artikel": "Leuchtturm Norderney",
+          "wikidata": "Q1821446"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-07-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Arngast",
+      "entwerfer": "Johannes Graf",
+      "auflage": 6825000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Arngast",
+          "beschriftung": "Leuchtturm Arngast",
+          "haupt": true,
+          "artikel": "Leuchtturm Arngast",
+          "wikidata": "Q990511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-07-07",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Dahmeshöved",
+      "entwerfer": "Johannes Graf",
+      "auflage": 6025000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Dahmeshöved",
+          "beschriftung": "Leuchtturm Dahmeshöved",
+          "haupt": true,
+          "artikel": "Leuchtturm Dahmeshöved",
+          "wikidata": "Q1767868"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2880",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-07-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Till Eulenspiegel",
+      "bild_beschreibung": "",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 7400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Till Eulenspiegel",
+          "beschriftung": "Till Eulenspiegel",
+          "haupt": true,
+          "artikel": "Till Eulenspiegel",
+          "wikidata": "Q164083"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2881",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-07-07",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutscher Schützenbund",
+      "bild_beschreibung": "",
+      "entwerfer": "Johannes Graf",
+      "auflage": 24489000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Schützenbund",
+          "beschriftung": "Deutscher Schützenbund",
+          "haupt": true,
+          "artikel": "Deutscher Schützenbund",
+          "wikidata": "Q1205299"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2882",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-08-11",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Tag der Briefmarke",
+      "bild_beschreibung": "zur Unterstützung der Stiftung für Philatelie und Postgeschichte; 75 Jahre Tag der Briefmarke in Deutschland",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 1114000,
+      "commons_datei": "DPAG 2011 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2883",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-08-11",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Pferdekopfnebel",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 942000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferdekopfnebel",
+          "beschriftung": "Pferdekopfnebel",
+          "haupt": true,
+          "artikel": "Pferdekopfnebel",
+          "wikidata": "Q14271"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2884",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-08-11",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "Sonnensystem",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1004500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sonnensystem",
+          "beschriftung": "Sonnensystem",
+          "haupt": true,
+          "artikel": "Sonnensystem",
+          "wikidata": "Q544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2885",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-08-11",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "Sonnensystem",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1004500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2886",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-08-11",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend",
+      "bild_beschreibung": "Plejaden",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 899500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plejaden",
+          "beschriftung": "Plejaden",
+          "haupt": true,
+          "artikel": "Plejaden",
+          "wikidata": "Q13423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2887",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-08-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Entdeckung des Urvogels Archaeopteryx",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 6510000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Archaeopteryx",
+          "beschriftung": "Archaeopteryx",
+          "haupt": true,
+          "artikel": "Archaeopteryx",
+          "wikidata": "Q100196"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2888",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-09-15",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Aquarium",
+      "entwerfer": "Marie-Helen Geißelbrecht",
+      "auflage": 6310000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        },
+        {
+          "titel": "Aquarium",
+          "beschriftung": "Aquarium",
+          "haupt": false,
+          "artikel": "Aquarium",
+          "wikidata": "Q45782"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2889",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-09-15",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Kirchenburg Birthälm; Gemeinschaftsausgabe mit der Rumänischen Post",
+      "entwerfer": "Razvan Popescu",
+      "auflage": 5700000,
+      "commons_datei": "DPAG 2011 UNESCO Weltkulturerbe Kirchenburg Birthälm.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Birthälm",
+          "beschriftung": "Birthälm",
+          "haupt": true,
+          "artikel": "Biertan",
+          "wikidata": "Q5068884"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Poșta Română",
+          "beschriftung": "Rumänischen Post",
+          "haupt": false,
+          "artikel": "Poșta Română",
+          "wikidata": "Q283175"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2890",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-09-15",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Hamburger Elbtunnel",
+      "bild_beschreibung": "",
+      "entwerfer": "Bianca Becker und Peter Kohl",
+      "auflage": 5870000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alter Elbtunnel",
+          "beschriftung": "Hamburger Elbtunnel",
+          "haupt": true,
+          "artikel": "St.-Pauli-Elbtunnel",
+          "wikidata": "Q460264"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2891",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-10-13",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: In Deutschland zu Hause",
+      "bild_beschreibung": "Einfallsreichtum – Deutsche Erfindungen; Alltag; Thermosflasche von Reinhold Burger 1903; Currywurst; Doppelkammerteebeutel von Teekanne 1949",
+      "entwerfer": "Thomas Serres",
+      "auflage": 5850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Isolierkanne",
+          "beschriftung": "Thermosflasche",
+          "haupt": true,
+          "artikel": "Isolierkanne",
+          "wikidata": "Q23664"
+        },
+        {
+          "titel": "Reinhold Burger",
+          "beschriftung": "Reinhold Burger",
+          "haupt": false,
+          "artikel": "Reinhold Burger",
+          "wikidata": "Q1752160"
+        },
+        {
+          "titel": "Currywurst",
+          "beschriftung": "Currywurst",
+          "haupt": false,
+          "artikel": "Currywurst",
+          "wikidata": "Q176063"
+        },
+        {
+          "titel": "teebeutel",
+          "beschriftung": "teebeutel",
+          "haupt": false,
+          "artikel": "Teebeutel",
+          "wikidata": "Q863250"
+        },
+        {
+          "titel": "Teekanne (Unternehmen)",
+          "beschriftung": "Teekanne",
+          "haupt": false,
+          "artikel": "Teekanne (Unternehmen)",
+          "wikidata": "Q1339361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2892",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-10-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: In Deutschland zu Hause",
+      "bild_beschreibung": "Technik; Grammophon von Emil Berliner 1887; Tonband von Fritz Pfleumer 1928; mp3 vom Fraunhofer-Institut 1987",
+      "entwerfer": "Thomas Serres",
+      "auflage": 5250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grammophon",
+          "beschriftung": "Grammophon",
+          "haupt": true,
+          "artikel": "Grammophon",
+          "wikidata": "Q7112808"
+        },
+        {
+          "titel": "Emil Berliner",
+          "beschriftung": "Emil Berliner",
+          "haupt": false,
+          "artikel": "Emil Berliner",
+          "wikidata": "Q71004"
+        },
+        {
+          "titel": "Tonband",
+          "beschriftung": "Tonband",
+          "haupt": false,
+          "artikel": "Tonband",
+          "wikidata": "Q544858"
+        },
+        {
+          "titel": "Fritz Pfleumer",
+          "beschriftung": "Fritz Pfleumer",
+          "haupt": false,
+          "artikel": "Fritz Pfleumer",
+          "wikidata": "Q84609"
+        },
+        {
+          "titel": "MP3",
+          "beschriftung": "mp3",
+          "haupt": false,
+          "artikel": "MP3",
+          "wikidata": "Q42591"
+        },
+        {
+          "titel": "Fraunhofer-Gesellschaft",
+          "beschriftung": "Fraunhofer-Institut",
+          "haupt": false,
+          "artikel": "Fraunhofer-Gesellschaft",
+          "wikidata": "Q161057"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2893",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-10-13",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Alte Pinakothek",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4340000,
+      "commons_datei": "Deutsche Briefmarke 175 Jahre Alte Pinakothek.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alte Pinakothek",
+          "beschriftung": "Alte Pinakothek",
+          "haupt": true,
+          "artikel": "Alte Pinakothek",
+          "wikidata": "Q154568"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2894",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-10-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Trauermarke",
+      "bild_beschreibung": "Drachenwurz oder auch Calla palustris",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 8020000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Drachenwurz",
+          "beschriftung": "Drachenwurz",
+          "haupt": true,
+          "artikel": "Drachenwurz",
+          "wikidata": "Q175886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2895",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-11-10",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "St. Martin",
+      "entwerfer": "Karen Scholz",
+      "auflage": 2339500,
+      "commons_datei": "DPAG 2011 Weihnachtsmarke St Martin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin von Tours",
+          "beschriftung": "St. Martin",
+          "haupt": true,
+          "artikel": "Martin von Tours",
+          "wikidata": "Q133704"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2896",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-11-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "St. Nikolaus",
+      "entwerfer": "Karen Scholz",
+      "auflage": 4241500,
+      "commons_datei": "DPAG 2011 Weihnachtsmarke St Nikolaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nikolaus von Myra",
+          "beschriftung": "St. Nikolaus",
+          "haupt": true,
+          "artikel": "Nikolaus von Myra",
+          "wikidata": "Q44269"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2897",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-11-10",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Emil Wiechert",
+      "bild_beschreibung": "",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 4310000,
+      "commons_datei": "DPAG 2011 Emil Wiechert.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Emil Wiechert",
+          "beschriftung": "Emil Wiechert",
+          "haupt": true,
+          "artikel": "Emil Wiechert",
+          "wikidata": "Q61771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2898",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-11-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Wiedereinweihung der Kaiser-Wilhelm-Gedächtnis-Kirche",
+      "bild_beschreibung": "",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 5330000,
+      "commons_datei": "DPAG 2011 Gedächtniskirche.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtnis-Kirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtnis-Kirche",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2899",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2011-11-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Adveniat",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 5525000,
+      "commons_datei": "DPAG 2011 Adveniat.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adveniat",
+          "beschriftung": "Adveniat",
+          "haupt": true,
+          "artikel": "Bischöfliche Aktion Adveniat",
+          "wikidata": "Q866234"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2835",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2011-01-03",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Ballonblume",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ballonblume",
+          "beschriftung": "Ballonblume",
+          "haupt": true,
+          "artikel": "Ballonblume",
+          "wikidata": "Q805322"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2851",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2011-03-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Maiglöckchen; selbstklebend aus Folienblatt mit nach Maiglöckchen duftenden Marken (Duftstoffe: u. a. Benzylbenzoat und Hexylcinnamal)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maiglöckchen",
+          "beschriftung": "Maiglöckchen",
+          "haupt": true,
+          "artikel": "Maiglöckchen",
+          "wikidata": "Q101711"
+        },
+        {
+          "titel": "Benzylbenzoat",
+          "beschriftung": "Benzylbenzoat",
+          "haupt": false,
+          "artikel": "Benzoesäurebenzylester",
+          "wikidata": "Q413755"
+        },
+        {
+          "titel": "Hexylcinnamal",
+          "beschriftung": "Hexylcinnamal",
+          "haupt": false,
+          "artikel": "Hexylzimtaldehyd",
+          "wikidata": "Q60178917"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2877",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2011-07-07",
+      "wert": "500",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Enzian",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gentiana acaulis",
+          "beschriftung": "Enzian",
+          "haupt": true,
+          "artikel": "Kochscher Enzian",
+          "wikidata": "Q163785"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

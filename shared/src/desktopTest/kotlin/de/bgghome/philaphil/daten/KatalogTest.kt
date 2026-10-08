@@ -13,8 +13,12 @@ class KatalogTest {
     }
 
     @Test
-    fun dreiJahrgaenge() {
-        assertEquals(listOf(1978L, 1979L, 1980L), katalog.jahrgaenge.map { it.jahr })
+    fun alleJahrgaenge() {
+        val jahre = katalog.jahrgaenge.map { it.jahr }
+        assertEquals(1949L, jahre.first())
+        assertTrue(jahre.last() >= 2026L)
+        assertEquals(jahre.size, jahre.distinct().size)
+        assertTrue(katalog.jahrgaenge.sumOf { it.anzahl } > 3800)
         assertEquals(43, katalog.markenImJahr("Bund", 1978).size)
         val block = katalog.markenImJahr("Bund", 1978).first { it.mi_nr == "959" }
         assertEquals("Block 16", block.block)
@@ -44,7 +48,7 @@ class KatalogTest {
     fun weitereMarkenZumThema() {
         val wal = katalog.markenImJahr("Bund", 1979).first { it.mi_nr == "1005" }
         val luftfahrt = katalog.themenZurMarke(wal.id).first { it.thema.titel == "Luftfahrt" }
-        assertEquals(11, luftfahrt.weitereMarken)
+        assertTrue(luftfahrt.weitereMarken >= 11)
         assertEquals(listOf("964", "965", "966", "967", "1005"), katalog.markenZumThema(luftfahrt.thema.id).map { it.mi_nr }.take(5))
     }
 
@@ -57,8 +61,8 @@ class KatalogTest {
 
     @Test
     fun sucheFindetUeberThemenUndPraefix() {
-        assertEquals(listOf("1019"), katalog.suche("Einst").map { it.mi_nr })
-        assertEquals(12, katalog.suche("luftfahrt").size)      // Jugendmarken 1978, 1979, 1980
+        assertTrue("1019" in katalog.suche("Einst").map { it.mi_nr })   // 1979, dazu 1999 und 2005
+        assertTrue(katalog.suche("luftfahrt").size >= 12)      // Jugendmarken 1978, 1979, 1980 und mehr
         assertEquals(listOf("1031"), katalog.suche("Energie sparen").map { it.mi_nr })
         assertTrue(katalog.suche("").isEmpty())
     }

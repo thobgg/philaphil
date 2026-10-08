@@ -1,0 +1,1333 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1976,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1976 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1976_der_Deutschen_Bundespost",
+    "revision": 259741771,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 875,
+    "mi_nr_bis": 912,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 38,
+    "sondermarken_laut_einleitung": 38
+  },
+  "marken": [
+    {
+      "mi_nr": "875",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-01-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976 in Innsbruck",
+      "bild_beschreibung": "Olympische Ringe und stilisierte Kufen",
+      "entwerfer": "Arthur Zelger",
+      "auflage": 30850000,
+      "commons_datei": "DBP 1976 875 Olympische Winterspiele Innsbruck.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        },
+        {
+          "titel": "Olympische Ringe",
+          "beschriftung": "Olympische Ringe",
+          "haupt": false,
+          "artikel": "Olympische Ringe",
+          "wikidata": "Q1224195"
+        },
+        {
+          "titel": "Kufe",
+          "beschriftung": "Kufe",
+          "haupt": false,
+          "artikel": "Kufe",
+          "wikidata": "Q12820765"
+        }
+      ]
+    },
+    {
+      "mi_nr": "876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-01-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Konrad Adenauer (1876–1967)",
+      "bild_beschreibung": "erster deutscher Bundeskanzler",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 35000000,
+      "commons_datei": "DBP 100. Geburtstag Konrad Adenauer 50 Pfennig 1976.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": true,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        },
+        {
+          "titel": "Bundeskanzler (Deutschland)",
+          "beschriftung": "Bundeskanzler",
+          "haupt": false,
+          "artikel": "Bundeskanzler (Deutschland)",
+          "wikidata": "Q4970706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "877",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-01-05",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400. Todestag von Hans Sachs (1494–1576)",
+      "bild_beschreibung": "Dichter – Illustrationen zu seinen Büchern",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32900000,
+      "commons_datei": "DBP 1976 877 Hans Sachs.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Sachs",
+          "beschriftung": "Hans Sachs",
+          "haupt": true,
+          "artikel": "Hans Sachs",
+          "wikidata": "Q19543"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        }
+      ]
+    },
+    {
+      "mi_nr": "878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-01-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsche Lufthansa",
+      "bild_beschreibung": "Junkers F 13 von 1926, das erste Passagierflugzeug der Lufthansa",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lufthansa",
+          "beschriftung": "Lufthansa",
+          "haupt": true,
+          "artikel": "Lufthansa",
+          "wikidata": "Q9325"
+        },
+        {
+          "titel": "Junkers F 13",
+          "beschriftung": "Junkers F 13",
+          "haupt": false,
+          "artikel": "Junkers F 13",
+          "wikidata": "Q26172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-02-17",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Bundesverfassungsgericht",
+      "bild_beschreibung": "Bundesadler",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesverfassungsgericht",
+          "beschriftung": "Bundesverfassungsgericht",
+          "haupt": true,
+          "artikel": "Bundesverfassungsgericht",
+          "wikidata": "Q56025"
+        },
+        {
+          "titel": "Bundesadler (Bundesrepublik Deutschland)",
+          "beschriftung": "Bundesadler",
+          "haupt": false,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        }
+      ]
+    },
+    {
+      "mi_nr": "880",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Europäische Gemeinschaft für Kohle und Stahl EGKS",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Kroehl",
+      "auflage": 31900000,
+      "commons_datei": "DBP 1976 880 Europäische Gemeinschaft.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "EGKS",
+          "beschriftung": "EGKS",
+          "haupt": true,
+          "artikel": "Europäische Gemeinschaft für Kohle und Stahl",
+          "wikidata": "Q161549"
+        }
+      ]
+    },
+    {
+      "mi_nr": "881",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Wuppertaler Schwebebahn",
+      "bild_beschreibung": "Schwebebahnzug",
+      "entwerfer": "Albrecht Ade",
+      "auflage": 30450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wuppertaler Schwebebahn",
+          "beschriftung": "Wuppertaler Schwebebahn",
+          "haupt": true,
+          "artikel": "Wuppertaler Schwebebahn",
+          "wikidata": "Q256964"
+        },
+        {
+          "titel": "Hängebahn",
+          "beschriftung": "Schwebebahnzug",
+          "haupt": false,
+          "artikel": "Hängebahn",
+          "wikidata": "Q339401"
+        }
+      ]
+    },
+    {
+      "mi_nr": "882",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Jugend trainiert für Olympia",
+      "bild_beschreibung": "Basketball",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5529000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Basketball",
+          "beschriftung": "Basketball",
+          "haupt": true,
+          "artikel": "Basketball",
+          "wikidata": "Q5372"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "883",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Jugend trainiert für Olympia",
+      "bild_beschreibung": "Einer Rudern",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5578000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudern",
+          "beschriftung": "Rudern",
+          "haupt": true,
+          "artikel": "Rudern",
+          "wikidata": "Q21368803"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "884",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Jugend trainiert für Olympia",
+      "bild_beschreibung": "Bodenturnen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5684000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenturnen",
+          "beschriftung": "Bodenturnen",
+          "haupt": true,
+          "artikel": "Bodenturnen",
+          "wikidata": "Q828144"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "885",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Jugend trainiert für Olympia",
+      "bild_beschreibung": "Volleyball",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5412000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": true,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "886",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1976 Montreal",
+      "bild_beschreibung": "Freistilschwimmen",
+      "entwerfer": "Klaus-Peter Spreen",
+      "auflage": 6494000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freistilschwimmen",
+          "beschriftung": "Freistilschwimmen",
+          "haupt": true,
+          "artikel": "Freistilschwimmen",
+          "wikidata": "Q31987"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1976",
+          "beschriftung": "Olympische Sommerspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1976",
+          "wikidata": "Q8444"
+        },
+        {
+          "titel": "Montreal",
+          "beschriftung": "Montreal",
+          "haupt": false,
+          "artikel": "Montreal",
+          "wikidata": "Q340"
+        }
+      ]
+    },
+    {
+      "mi_nr": "887",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1976 Montreal",
+      "bild_beschreibung": "Hochsprung",
+      "entwerfer": "Klaus-Peter Spreen",
+      "auflage": 6627000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochsprung",
+          "beschriftung": "Hochsprung",
+          "haupt": true,
+          "artikel": "Hochsprung",
+          "wikidata": "Q165704"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1976",
+          "beschriftung": "Olympische Sommerspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1976",
+          "wikidata": "Q8444"
+        },
+        {
+          "titel": "Montreal",
+          "beschriftung": "Montreal",
+          "haupt": false,
+          "artikel": "Montreal",
+          "wikidata": "Q340"
+        }
+      ]
+    },
+    {
+      "mi_nr": "888",
+      "block": "Block 12",
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock",
+      "bild_beschreibung": "Hockey",
+      "entwerfer": "Klaus-Peter Spreen",
+      "auflage": 8583000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hockey",
+          "beschriftung": "Hockey",
+          "haupt": true,
+          "artikel": "Hockey",
+          "wikidata": "Q1455"
+        }
+      ]
+    },
+    {
+      "mi_nr": "889",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock",
+      "bild_beschreibung": "Rudern",
+      "entwerfer": "Klaus-Peter Spreen",
+      "auflage": 8583000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudern",
+          "beschriftung": "Rudern",
+          "haupt": true,
+          "artikel": "Rudern",
+          "wikidata": "Q21368803"
+        }
+      ]
+    },
+    {
+      "mi_nr": "890",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Kunsthandwerk – Modelle von ca. 1765 aus der Porzellan-Manufaktur Ludwigsburg",
+      "bild_beschreibung": "Straßenhändlerin mit Bijouterien und Kupferstichen",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 49550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bijouterie",
+          "beschriftung": "Bijouterie",
+          "haupt": true,
+          "artikel": "Bijouterie",
+          "wikidata": "Q859936"
+        },
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": false,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Kunsthandwerk",
+          "beschriftung": "Kunsthandwerk",
+          "haupt": false,
+          "artikel": "Kunsthandwerk",
+          "wikidata": "Q877729"
+        },
+        {
+          "titel": "Porzellan-Manufaktur Ludwigsburg",
+          "beschriftung": "Porzellan-Manufaktur Ludwigsburg",
+          "haupt": false,
+          "artikel": "Porzellan-Manufaktur Ludwigsburg",
+          "wikidata": "Q2105490"
+        }
+      ]
+    },
+    {
+      "mi_nr": "891",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Kunsthandwerk – Modelle von ca. 1765 aus der Porzellan-Manufaktur Ludwigsburg",
+      "bild_beschreibung": "Straßenhändler mit Kupferstichen",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 98650000,
+      "commons_datei": "DBP 1976 891 Europa Kunsthandwerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Kunsthandwerk",
+          "beschriftung": "Kunsthandwerk",
+          "haupt": false,
+          "artikel": "Kunsthandwerk",
+          "wikidata": "Q877729"
+        },
+        {
+          "titel": "Porzellan-Manufaktur Ludwigsburg",
+          "beschriftung": "Porzellan-Manufaktur Ludwigsburg",
+          "haupt": false,
+          "artikel": "Porzellan-Manufaktur Ludwigsburg",
+          "wikidata": "Q2105490"
+        }
+      ]
+    },
+    {
+      "mi_nr": "892",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Carl Sonnenschein (1876–1929)",
+      "bild_beschreibung": "katholischer Priester, bekannt für seine Wohltätigkeit",
+      "entwerfer": "Beat Knoblauch",
+      "auflage": 30650000,
+      "commons_datei": "DBP - 100 Jahre Dr. Carl Sonnenschein - 50 Pfennig - 1976.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Sonnenschein",
+          "beschriftung": "Carl Sonnenschein",
+          "haupt": true,
+          "artikel": "Carl Sonnenschein",
+          "wikidata": "Q107712"
+        },
+        {
+          "titel": "Priester",
+          "beschriftung": "Priester",
+          "haupt": false,
+          "artikel": "Priester",
+          "wikidata": "Q42603"
+        }
+      ]
+    },
+    {
+      "mi_nr": "893",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Todestag von Paul Gerhardt (1607–1676)",
+      "bild_beschreibung": "Anfang des Liedes Befiehl du deine Wege",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 33400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Gerhardt",
+          "beschriftung": "Paul Gerhardt",
+          "haupt": true,
+          "artikel": "Paul Gerhardt",
+          "wikidata": "Q76331"
+        },
+        {
+          "titel": "Befiehl du deine Wege",
+          "beschriftung": "Befiehl du deine Wege",
+          "haupt": false,
+          "artikel": "Befiehl du deine Wege",
+          "wikidata": "Q814199"
+        }
+      ]
+    },
+    {
+      "mi_nr": "894",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Carl Maria von Weber (1786–1826)",
+      "bild_beschreibung": "Komponist",
+      "entwerfer": "Heide Hölzing",
+      "auflage": 32350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Maria von Weber",
+          "beschriftung": "Carl Maria von Weber",
+          "haupt": true,
+          "artikel": "Carl Maria von Weber",
+          "wikidata": "Q154812"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "895",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Unabhängigkeit der Vereinigten Staaten von Amerika",
+      "bild_beschreibung": "Carl Schurz (1829–1906), Sternenbanner und Washingtoner Capitol",
+      "entwerfer": "Beat Knoblauch",
+      "auflage": 31950000,
+      "commons_datei": "DBP 1976 895 Unabhängigkeit USA Carl Schurz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vereinigte Staaten von Amerika",
+          "beschriftung": "Vereinigten Staaten von Amerika",
+          "haupt": true,
+          "artikel": "Vereinigte Staaten",
+          "wikidata": "Q30"
+        },
+        {
+          "titel": "Carl Schurz",
+          "beschriftung": "Carl Schurz",
+          "haupt": false,
+          "artikel": "Carl Schurz",
+          "wikidata": "Q127437"
+        },
+        {
+          "titel": "Flagge der Vereinigten Staaten",
+          "beschriftung": "Sternenbanner",
+          "haupt": false,
+          "artikel": "Flagge der Vereinigten Staaten",
+          "wikidata": "Q42537"
+        },
+        {
+          "titel": "Washington, D.C.",
+          "beschriftung": "Washingtoner",
+          "haupt": false,
+          "artikel": "Washington, D.C.",
+          "wikidata": "Q61"
+        },
+        {
+          "titel": "Kapitol (Washington)",
+          "beschriftung": "Capitol",
+          "haupt": false,
+          "artikel": "Kapitol der Vereinigten Staaten",
+          "wikidata": "Q54109"
+        }
+      ]
+    },
+    {
+      "mi_nr": "896",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-07-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Bayreuther Festspiele",
+      "bild_beschreibung": "Festspielbühne",
+      "entwerfer": "Erwin Poell",
+      "auflage": 29650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bayreuther Festspiele",
+          "beschriftung": "Bayreuther Festspiele",
+          "haupt": true,
+          "artikel": "Bayreuther Festspiele",
+          "wikidata": "Q157596"
+        },
+        {
+          "titel": "Festspiel",
+          "beschriftung": "Festspiel",
+          "haupt": false,
+          "artikel": "Festspiel",
+          "wikidata": "Q1408801"
+        }
+      ]
+    },
+    {
+      "mi_nr": "897",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-07-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologisches Kulturgut",
+      "bild_beschreibung": "Bronzekultwagen der Urnenfelderkultur aus Acholshausen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 51850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bronze",
+          "beschriftung": "Bronze",
+          "haupt": true,
+          "artikel": "Bronze",
+          "wikidata": "Q34095"
+        },
+        {
+          "titel": "Urnenfelderkultur",
+          "beschriftung": "Urnenfelderkultur",
+          "haupt": false,
+          "artikel": "Urnenfelderkultur",
+          "wikidata": "Q223998"
+        },
+        {
+          "titel": "Acholshausen",
+          "beschriftung": "Acholshausen",
+          "haupt": false,
+          "artikel": "Acholshausen",
+          "wikidata": "Q253574"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologisches",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        }
+      ]
+    },
+    {
+      "mi_nr": "898",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-07-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologisches Kulturgut",
+      "bild_beschreibung": "Keltische, goldverzierte Schale aus Schwarzenbach",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kelten",
+          "beschriftung": "Keltische",
+          "haupt": true,
+          "artikel": "Kelten",
+          "wikidata": "Q35966"
+        },
+        {
+          "titel": "Schwarzenbach (Nonnweiler)",
+          "beschriftung": "Schwarzenbach",
+          "haupt": false,
+          "artikel": "Schwarzenbach (Nonnweiler)",
+          "wikidata": "Q1285787"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologisches",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        }
+      ]
+    },
+    {
+      "mi_nr": "899",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-07-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologisches Kulturgut",
+      "bild_beschreibung": "Keltischer, silberner Halsring aus Trichtingen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kelten",
+          "beschriftung": "Keltischer",
+          "haupt": true,
+          "artikel": "Kelten",
+          "wikidata": "Q35966"
+        },
+        {
+          "titel": "Silberring von Trichtingen",
+          "beschriftung": "silberner Halsring aus Trichtingen",
+          "haupt": false,
+          "artikel": "Silberring von Trichtingen",
+          "wikidata": "Q1150491"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologisches",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        }
+      ]
+    },
+    {
+      "mi_nr": "900",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-07-14",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologisches Kulturgut",
+      "bild_beschreibung": "Römischer, Maskenbecher aus dem Hildesheimer Silberfund",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Römer",
+          "beschriftung": "Römischer",
+          "haupt": true,
+          "artikel": "Römisches Bürgerrecht",
+          "wikidata": "Q213810"
+        },
+        {
+          "titel": "Hildesheimer Silberfund",
+          "beschriftung": "Hildesheimer Silberfund",
+          "haupt": false,
+          "artikel": "Hildesheimer Silberfund",
+          "wikidata": "Q221632"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologisches",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        }
+      ]
+    },
+    {
+      "mi_nr": "901",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vogelschutz",
+      "bild_beschreibung": "Goldregenpfeifer Pluvialis apricaria",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 32600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Vogelschutz",
+          "haupt": true,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        },
+        {
+          "titel": "Goldregenpfeifer",
+          "beschriftung": "Goldregenpfeifer",
+          "haupt": false,
+          "artikel": "Goldregenpfeifer",
+          "wikidata": "Q21148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "902",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-08-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Todestag von Hans Jacob Christoffel von Grimmelshausen (um 1622–1676)",
+      "bild_beschreibung": "Fabelwesen aus Der Abentheuerliche Simplicissimus Teutsch",
+      "entwerfer": "Günter Jacki",
+      "auflage": 29850000,
+      "commons_datei": "DBP 1976 902 Hans Jacob Christoffel von Grimmelshausen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Jacob Christoffel von Grimmelshausen",
+          "beschriftung": "Hans Jacob Christoffel von Grimmelshausen",
+          "haupt": true,
+          "artikel": "Hans Jakob Christoffel von Grimmelshausen",
+          "wikidata": "Q31220"
+        },
+        {
+          "titel": "Fabelwesen",
+          "beschriftung": "Fabelwesen",
+          "haupt": false,
+          "artikel": "Fabelwesen",
+          "wikidata": "Q2239243"
+        },
+        {
+          "titel": "Simplicissimus",
+          "beschriftung": "Simplicissimus",
+          "haupt": false,
+          "artikel": "Simplicissimus",
+          "wikidata": "Q697730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "903",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Posthausschild der Kaiserlichen Reichs-Post-Expedition Höchst am Main aus dem 18. Jahrhundert",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 72235000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Frankfurt-Höchst",
+          "beschriftung": "Höchst",
+          "haupt": false,
+          "artikel": "Frankfurt-Höchst",
+          "wikidata": "Q132499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "904",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenblumen",
+      "bild_beschreibung": "Phlox, Phlox paniculata",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 10601000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Phlox",
+          "beschriftung": "Phlox",
+          "haupt": true,
+          "artikel": "Flammenblumen",
+          "wikidata": "Q652016"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "905",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenblumen",
+      "bild_beschreibung": "Ringelblumen, Calendula officinalis",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 12634000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ringelblumen",
+          "beschriftung": "Ringelblumen",
+          "haupt": true,
+          "artikel": "Ringelblumen",
+          "wikidata": "Q147281"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "906",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenblumen",
+      "bild_beschreibung": "Zinnien, Zinnia elegans",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 16906000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zinnien",
+          "beschriftung": "Zinnien",
+          "haupt": true,
+          "artikel": "Zinnien",
+          "wikidata": "Q205106"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "907",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenblumen",
+      "bild_beschreibung": "Stiefmütterchen, Viola tricolor",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7318000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiefmütterchen",
+          "beschriftung": "Stiefmütterchen",
+          "haupt": true,
+          "artikel": "Stiefmütterchen",
+          "wikidata": "Q160976"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "908",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Friederike Caroline Neuber (1697–1760), Schauspielerin, als Medea",
+      "entwerfer": "Dorothea Fischer-Nosbisch",
+      "auflage": 42200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friederike Caroline Neuber",
+          "beschriftung": "Friederike Caroline Neuber",
+          "haupt": true,
+          "artikel": "Friederike Caroline Neuber",
+          "wikidata": "Q68316"
+        },
+        {
+          "titel": "Schauspieler",
+          "beschriftung": "Schauspieler",
+          "haupt": false,
+          "artikel": "Schauspieler",
+          "wikidata": "Q33999"
+        },
+        {
+          "titel": "Medea",
+          "beschriftung": "Medea",
+          "haupt": false,
+          "artikel": "Medea",
+          "wikidata": "Q174278"
+        }
+      ]
+    },
+    {
+      "mi_nr": "909",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Sophie Schröder (1781–1868), Schauspielerin, als Sappho",
+      "entwerfer": "Dorothea Fischer-Nosbisch",
+      "auflage": 30900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sophie Schröder",
+          "beschriftung": "Sophie Schröder",
+          "haupt": true,
+          "artikel": "Sophie Schröder",
+          "wikidata": "Q97039"
+        },
+        {
+          "titel": "Schauspieler",
+          "beschriftung": "Schauspieler",
+          "haupt": false,
+          "artikel": "Schauspieler",
+          "wikidata": "Q33999"
+        },
+        {
+          "titel": "Sappho (Grillparzer)",
+          "beschriftung": "Sappho",
+          "haupt": false,
+          "artikel": "Sappho (Grillparzer)",
+          "wikidata": "Q1242002"
+        }
+      ]
+    },
+    {
+      "mi_nr": "910",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Louise Dumont (1862–1932), Schauspielerin, als Hedda Gabler",
+      "entwerfer": "Dorothea Fischer-Nosbisch",
+      "auflage": 31300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Louise Dumont",
+          "beschriftung": "Louise Dumont",
+          "haupt": true,
+          "artikel": "Louise Dumont",
+          "wikidata": "Q88038"
+        },
+        {
+          "titel": "Schauspieler",
+          "beschriftung": "Schauspieler",
+          "haupt": false,
+          "artikel": "Schauspieler",
+          "wikidata": "Q33999"
+        },
+        {
+          "titel": "Hedda Gabler",
+          "beschriftung": "Hedda Gabler",
+          "haupt": false,
+          "artikel": "Hedda Gabler",
+          "wikidata": "Q176465"
+        }
+      ]
+    },
+    {
+      "mi_nr": "911",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Hermine Körner (1878–1960), Schauspielerin, als Lady Macbeth",
+      "entwerfer": "Dorothea Fischer-Nosbisch",
+      "auflage": 21450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hermine Körner",
+          "beschriftung": "Hermine Körner",
+          "haupt": true,
+          "artikel": "Hermine Körner",
+          "wikidata": "Q78375"
+        },
+        {
+          "titel": "Schauspieler",
+          "beschriftung": "Schauspieler",
+          "haupt": false,
+          "artikel": "Schauspieler",
+          "wikidata": "Q33999"
+        },
+        {
+          "titel": "Macbeth (Shakespeare)",
+          "beschriftung": "Lady Macbeth",
+          "haupt": false,
+          "artikel": "Macbeth (Shakespeare)",
+          "wikidata": "Q130283"
+        }
+      ]
+    },
+    {
+      "mi_nr": "912",
+      "block": "Block 13",
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weihnachtsmarke",
+      "bild_beschreibung": "Ausschnitt aus dem Marienfenster im gotischen Chor der Frauenkirche in Esslingen",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 11267000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gotik",
+          "beschriftung": "gotischen",
+          "haupt": true,
+          "artikel": "Gotik",
+          "wikidata": "Q46825"
+        },
+        {
+          "titel": "Chor (Architektur)",
+          "beschriftung": "Chor",
+          "haupt": false,
+          "artikel": "Chor (Architektur)",
+          "wikidata": "Q207707"
+        },
+        {
+          "titel": "Sehenswürdigkeiten der Stadt Esslingen am Neckar",
+          "beschriftung": "Frauenkirche in Esslingen",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten der Stadt Esslingen am Neckar",
+          "wikidata": "Q2266323"
+        }
+      ]
+    }
+  ]
+}

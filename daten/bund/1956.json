@@ -1,0 +1,772 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1956,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1956 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1956_der_Deutschen_Bundespost",
+    "revision": 260497136,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 227,
+    "mi_nr_bis": 248,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 22,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "227",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-01-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-06-30",
+      "anlass": "125. Geburtstag von Heinrich von Stephan (1831–1897)",
+      "bild_beschreibung": "Stephan war Mitbegründer des Weltpostvereins",
+      "entwerfer": "Arthur Schraml",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 227 Heinrich von Stephan.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "228",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-01-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-06-30",
+      "anlass": "200. Geburtstag von Wolfgang Amadeus Mozart (1756–1791)",
+      "bild_beschreibung": "Komponist der Wiener Klassik",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1956 228 Wolfgang Amadeus Mozart.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wolfgang Amadeus Mozart",
+          "beschriftung": "Wolfgang Amadeus Mozart",
+          "haupt": true,
+          "artikel": "Wolfgang Amadeus Mozart",
+          "wikidata": "Q254"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Wiener Klassik",
+          "beschriftung": "Wiener Klassik",
+          "haupt": false,
+          "artikel": "Wiener Klassik",
+          "wikidata": "Q702207"
+        }
+      ]
+    },
+    {
+      "mi_nr": "229",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-06-30",
+      "anlass": "100. Todestag von Heinrich Heine (1797–1856)",
+      "bild_beschreibung": "Dichter und Journalist",
+      "entwerfer": "Müller und Karl Oskar Blase",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 229 Heinrich Heine.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Journalist",
+          "beschriftung": "Journalist",
+          "haupt": false,
+          "artikel": "Journalist",
+          "wikidata": "Q1930187"
+        }
+      ]
+    },
+    {
+      "mi_nr": "230",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-05-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "1000 Jahre Lüneburg",
+      "bild_beschreibung": "alter Drehkran vor historischen Bürgerhäusern als Kulisse",
+      "entwerfer": "Alfred Mahlau",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1956 230 Lüneburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lüneburg",
+          "beschriftung": "Lüneburg",
+          "haupt": true,
+          "artikel": "Lüneburg",
+          "wikidata": "Q3920"
+        },
+        {
+          "titel": "Alter Kran (Lüneburg)",
+          "beschriftung": "Drehkran",
+          "haupt": false,
+          "artikel": "Alter Kran (Lüneburg)",
+          "wikidata": "Q438054"
+        }
+      ]
+    },
+    {
+      "mi_nr": "231",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-06-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Olympisches Jahr",
+      "bild_beschreibung": "Wertziffer in griechischem Design und Olympische Ringe",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1956 231 Olympisches Jahr.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Griechenland",
+          "beschriftung": "griechischem",
+          "haupt": true,
+          "artikel": "Griechenland",
+          "wikidata": "Q41"
+        },
+        {
+          "titel": "Olympiade",
+          "beschriftung": "Olympische Ringe",
+          "haupt": false,
+          "artikel": "Olympiade",
+          "wikidata": "Q221956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "232",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-21",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Für die Jugend",
+      "bild_beschreibung": "Ein Junge, verschiedene Symbole, Zuschlagmarke",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 2000000,
+      "commons_datei": "DBP 1956 232 Jugend.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "233",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-21",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Für die Jugend",
+      "bild_beschreibung": "Ein Mädchen mit Flöte und verschiedenen Symbolen, Zuschlagmarke",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 2000000,
+      "commons_datei": "DBP 1956 233 Jugend.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "234",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "100. Todestag von Robert Schumann",
+      "bild_beschreibung": "Komponist",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1956 234 Robert Schumann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Robert Schumann",
+          "beschriftung": "Robert Schumann",
+          "haupt": true,
+          "artikel": "Robert Schumann",
+          "wikidata": "Q7351"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "235",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Deutscher Evangelischer Kirchentag",
+      "bild_beschreibung": "Die Marke zeigt das Symbol des Deutschen Evangelischen Kirchentages, das Jerusalemkreuz",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 235 Kirchentag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        }
+      ]
+    },
+    {
+      "mi_nr": "236",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Deutscher Evangelischer Kirchentag",
+      "bild_beschreibung": "Die Marke zeigt das Symbol des Deutschen Evangelischen Kirchentages, das Jerusalemkreuz",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 236 Kirchentag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jerusalemkreuz",
+          "beschriftung": "Jerusalemkreuz",
+          "haupt": true,
+          "artikel": "Jerusalemkreuz",
+          "wikidata": "Q387268"
+        },
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": false,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        }
+      ]
+    },
+    {
+      "mi_nr": "237",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "1. Todestag von Thomas Mann (1875–1955)",
+      "bild_beschreibung": "Erzähler und Schriftsteller, Thomas Mann erhielt 1929 den Nobelpreis für Literatur",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 237 Thomas Mann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Thomas Mann",
+          "beschriftung": "Thomas Mann",
+          "haupt": true,
+          "artikel": "Thomas Mann",
+          "wikidata": "Q37030"
+        },
+        {
+          "titel": "Epik",
+          "beschriftung": "Erzähler",
+          "haupt": false,
+          "artikel": "Epik",
+          "wikidata": "Q1097273"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Nobelpreis für Literatur",
+          "beschriftung": "Nobelpreis für Literatur",
+          "haupt": false,
+          "artikel": "Nobelpreis für Literatur",
+          "wikidata": "Q37922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "238",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "800 Jahre Abteikirche Maria Laach",
+      "bild_beschreibung": "Die Abtei Maria Laach bei Mendig in der Eifel ist eine; hochmittelalterliche Klosteranlage, zwischen 1093 und 1216 erbaut",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 238 Maria Laach.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Abtei Maria Laach",
+          "beschriftung": "Abteikirche Maria Laach",
+          "haupt": true,
+          "artikel": "Abtei Maria Laach",
+          "wikidata": "Q334032"
+        },
+        {
+          "titel": "Mendig",
+          "beschriftung": "Mendig",
+          "haupt": false,
+          "artikel": "Mendig",
+          "wikidata": "Q570085"
+        },
+        {
+          "titel": "Eifel",
+          "beschriftung": "Eifel",
+          "haupt": false,
+          "artikel": "Eifel",
+          "wikidata": "Q152356"
+        },
+        {
+          "titel": "Hochmittelalter",
+          "beschriftung": "hochmittelalterliche",
+          "haupt": false,
+          "artikel": "Hochmittelalter",
+          "wikidata": "Q212685"
+        },
+        {
+          "titel": "Kloster",
+          "beschriftung": "Klosteranlage",
+          "haupt": false,
+          "artikel": "Kloster",
+          "wikidata": "Q44613"
+        }
+      ]
+    },
+    {
+      "mi_nr": "239",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Deutscher Katholikentag",
+      "bild_beschreibung": "Die Marke zeigt den Grundriss des Kölner Doms und eine zum Schwur gehobene Hand",
+      "entwerfer": "Josef Fassbender",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 239 Deutscher Katholikentag.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Grundriss",
+          "beschriftung": "Grundriss",
+          "haupt": false,
+          "artikel": "Grundriss",
+          "wikidata": "Q18965"
+        },
+        {
+          "titel": "Kölner Dom",
+          "beschriftung": "Kölner Dom",
+          "haupt": false,
+          "artikel": "Kölner Dom",
+          "wikidata": "Q4176"
+        },
+        {
+          "titel": "Schwur",
+          "beschriftung": "Schwur",
+          "haupt": false,
+          "artikel": "Schwur",
+          "wikidata": "Q2257937"
+        }
+      ]
+    },
+    {
+      "mi_nr": "240",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "IPA, Internationale Polizeiausstellung",
+      "bild_beschreibung": "Die Marke zeigt eine gehobene Hand hinter einer Weltkarte",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1956 240 Internationale Polizeiausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karte (Kartografie)",
+          "beschriftung": "Weltkarte",
+          "haupt": true,
+          "artikel": "Karte (Kartografie)",
+          "wikidata": "Q4006"
+        }
+      ]
+    },
+    {
+      "mi_nr": "241",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Die Marke zeigt das Wort Europa senkrecht in einem Stahlgerüst vor einer Europafahne",
+      "entwerfer": "Gonzague",
+      "auflage": 68000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "242",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Die Marke zeigt das Wort Europa senkrecht in einem Stahlgerüst vor einer Europafahne",
+      "entwerfer": "Gonzague",
+      "auflage": 28000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "243",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-01",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Helfer der Menschheit, Medizinische Berufe",
+      "bild_beschreibung": "Hebamme mit Kind",
+      "entwerfer": "Bert Jäger",
+      "auflage": 3800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hebamme",
+          "beschriftung": "Hebamme",
+          "haupt": true,
+          "artikel": "Hebamme",
+          "wikidata": "Q185196"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Medizin",
+          "beschriftung": "Medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        }
+      ]
+    },
+    {
+      "mi_nr": "244",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Helfer der Menschheit, Medizinische Berufe",
+      "bild_beschreibung": "Ignaz Semmelweis (1818–1865); Ungarischer Arzt, er führte als erster Hygienevorschriften für Ärzte und Krankenhauspersonal ein",
+      "entwerfer": "Bert Jäger",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ignaz Semmelweis",
+          "beschriftung": "Ignaz Semmelweis",
+          "haupt": true,
+          "artikel": "Ignaz Semmelweis",
+          "wikidata": "Q59736"
+        },
+        {
+          "titel": "Ungarn",
+          "beschriftung": "Ungarischer",
+          "haupt": false,
+          "artikel": "Ungarn",
+          "wikidata": "Q28"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Hygiene",
+          "beschriftung": "Hygiene",
+          "haupt": false,
+          "artikel": "Hygiene",
+          "wikidata": "Q162297"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Medizin",
+          "beschriftung": "Medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        }
+      ]
+    },
+    {
+      "mi_nr": "245",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Helfer der Menschheit, Medizinische Berufe",
+      "bild_beschreibung": "Mutter an Kinderwiege",
+      "entwerfer": "Bert Jäger",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mutter",
+          "beschriftung": "Mutter",
+          "haupt": true,
+          "artikel": "Mutter",
+          "wikidata": "Q7560"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Medizin",
+          "beschriftung": "Medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        }
+      ]
+    },
+    {
+      "mi_nr": "246",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-01",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Helfer der Menschheit, Medizinische Berufe",
+      "bild_beschreibung": "Kinderschwester mit spielenden Kindern",
+      "entwerfer": "Bert Jäger",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": true,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Medizin",
+          "beschriftung": "Medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        }
+      ]
+    },
+    {
+      "mi_nr": "247",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Die Marke zeigt eine Brieftaube mit einem Brief im Schnabel",
+      "entwerfer": "Uli Huber",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1956 247 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Brieftaube",
+          "beschriftung": "Brieftaube",
+          "haupt": false,
+          "artikel": "Brieftaube",
+          "wikidata": "Q138756"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        },
+        {
+          "titel": "Schnabel",
+          "beschriftung": "Schnabel",
+          "haupt": false,
+          "artikel": "Schnabel",
+          "wikidata": "Q31528"
+        }
+      ]
+    },
+    {
+      "mi_nr": "248",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-11-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Kriegsgräberfürsorge",
+      "bild_beschreibung": "Die Marke zeigt einige Grabkreuze",
+      "entwerfer": "Herbert Kern",
+      "auflage": 50000000,
+      "commons_datei": "Stamps of Germany (BRD) 1956, MiNr 248.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "beschriftung": "Kriegsgräberfürsorge",
+          "haupt": true,
+          "artikel": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "wikidata": "Q708567"
+        },
+        {
+          "titel": "Grabkreuz",
+          "beschriftung": "Grabkreuz",
+          "haupt": false,
+          "artikel": "Grabkreuz",
+          "wikidata": "Q1540864"
+        }
+      ]
+    }
+  ]
+}

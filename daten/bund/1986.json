@@ -1,0 +1,1107 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1986,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1986 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1986_der_Deutschen_Bundespost",
+    "revision": 259739540,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1268,
+    "mi_nr_bis": 1305,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 36,
+    "sondermarken_laut_einleitung": 36
+  },
+  "marken": [
+    {
+      "mi_nr": "1268",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-01-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Automobil",
+      "bild_beschreibung": "Entwicklungsstufen der Automobilgeschichte",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 28950000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Automobil",
+          "beschriftung": "Automobil",
+          "haupt": true,
+          "artikel": "Automobil",
+          "wikidata": "Q1420"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1269",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Kurzstreckenlauf, anlässlich der Leichtathletik-Europameisterschaften in Stuttgart",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 4462495,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sprint",
+          "beschriftung": "Kurzstreckenlauf",
+          "haupt": true,
+          "artikel": "Sprint",
+          "wikidata": "Q624482"
+        },
+        {
+          "titel": "Leichtathletik-Europameisterschaften 1986",
+          "beschriftung": "Leichtathletik-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Leichtathletik-Europameisterschaften 1986",
+          "wikidata": "Q700450"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1270",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "120+55",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Viererbob, anlässlich der Bob-Weltmeisterschaft am Königssee",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 4462495,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bobsport",
+          "beschriftung": "Viererbob",
+          "haupt": true,
+          "artikel": "Bobsport",
+          "wikidata": "Q177275"
+        },
+        {
+          "titel": "Bob-Weltmeisterschaft 1986",
+          "beschriftung": "Bob-Weltmeisterschaft",
+          "haupt": false,
+          "artikel": "Bob-Weltmeisterschaft 1986",
+          "wikidata": "Q825869"
+        },
+        {
+          "titel": "Königssee",
+          "beschriftung": "Königssee",
+          "haupt": false,
+          "artikel": "Königssee",
+          "wikidata": "Q156715"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1271",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1250 Jahre Bad Hersfeld",
+      "bild_beschreibung": "Bauwerke und Sehenswürdigkeiten in Bad Hersfeld",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 28000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bad Hersfeld",
+          "beschriftung": "Bad Hersfeld",
+          "haupt": true,
+          "artikel": "Bad Hersfeld",
+          "wikidata": "Q16145"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1272",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Oskar Kokoschka (1886–1980)",
+      "bild_beschreibung": "Selbstporträt",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 33150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Oskar Kokoschka",
+          "beschriftung": "Oskar Kokoschka",
+          "haupt": true,
+          "artikel": "Oskar Kokoschka",
+          "wikidata": "Q154260"
+        },
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstporträt",
+          "haupt": false,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1273",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Raumsonde Giotto und Halleyscher Komet",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 28650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Raumsonde",
+          "beschriftung": "Raumsonde",
+          "haupt": true,
+          "artikel": "Raumsonde",
+          "wikidata": "Q26529"
+        },
+        {
+          "titel": "Giotto (Sonde)",
+          "beschriftung": "Giotto",
+          "haupt": false,
+          "artikel": "Giotto (Raumsonde)",
+          "wikidata": "Q660356"
+        },
+        {
+          "titel": "Halleyscher Komet",
+          "beschriftung": "Halleyscher Komet",
+          "haupt": false,
+          "artikel": "Halleyscher Komet",
+          "wikidata": "Q23054"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1274",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Handwerksberufe",
+      "bild_beschreibung": "Augenoptiker",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4429925,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Augenoptiker",
+          "beschriftung": "Augenoptiker",
+          "haupt": true,
+          "artikel": "Augenoptiker",
+          "wikidata": "Q1996635"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1275",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Handwerksberufe",
+      "bild_beschreibung": "Maurer",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4295531,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maurer",
+          "beschriftung": "Maurer",
+          "haupt": true,
+          "artikel": "Maurer",
+          "wikidata": "Q327321"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1276",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Handwerksberufe",
+      "bild_beschreibung": "Friseur",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4157775,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friseur",
+          "beschriftung": "Friseur",
+          "haupt": true,
+          "artikel": "Friseur",
+          "wikidata": "Q55187"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1277",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Handwerksberufe",
+      "bild_beschreibung": "Bäcker",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4398885,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bäcker",
+          "beschriftung": "Bäcker",
+          "haupt": true,
+          "artikel": "Bäcker",
+          "wikidata": "Q160131"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1278",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Natur- und Umweltschutz",
+      "bild_beschreibung": "Mund",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 63550000,
+      "commons_datei": "DBP 1986 1278 Mund.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mund",
+          "beschriftung": "Mund",
+          "haupt": true,
+          "artikel": "Mund",
+          "wikidata": "Q9635"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1279",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Natur- und Umweltschutz",
+      "bild_beschreibung": "Nase",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 107350000,
+      "commons_datei": "DBP 1986 1279 Nase.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nase",
+          "beschriftung": "Nase",
+          "haupt": true,
+          "artikel": "Nase",
+          "wikidata": "Q7363"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1280",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Walsrode und Kloster Walsrode",
+      "bild_beschreibung": "Walsroder Ansicht mit dem Kloster",
+      "entwerfer": "Otto Rohse",
+      "auflage": 28200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Walsrode",
+          "beschriftung": "Walsrode",
+          "haupt": true,
+          "artikel": "Walsrode",
+          "wikidata": "Q520369"
+        },
+        {
+          "titel": "Kloster Walsrode",
+          "beschriftung": "Kloster Walsrode",
+          "haupt": false,
+          "artikel": "Kloster Walsrode",
+          "wikidata": "Q1776260"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1281",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von König Ludwig II. von Bayern (1845–1886)",
+      "bild_beschreibung": "König Ludwig II. vor dem Schloss Neuschwanstein",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 31750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig II. (Bayern)",
+          "beschriftung": "König Ludwig II. von Bayern",
+          "haupt": true,
+          "artikel": "Ludwig II. (Bayern)",
+          "wikidata": "Q44039"
+        },
+        {
+          "titel": "Schloss Neuschwanstein",
+          "beschriftung": "Schloss Neuschwanstein",
+          "haupt": false,
+          "artikel": "Schloss Neuschwanstein",
+          "wikidata": "Q4152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1282",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Karl Barth (1886–1968)",
+      "bild_beschreibung": "",
+      "entwerfer": "Hermann Schwahn",
+      "auflage": 31950000,
+      "commons_datei": "DBP 1986 1282 Karl Barth.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Barth",
+          "beschriftung": "Karl Barth",
+          "haupt": true,
+          "artikel": "Karl Barth",
+          "wikidata": "Q107473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1283",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Cartellversammlung des Cartellverband der katholischen deutschen Studentenverbindungen",
+      "bild_beschreibung": "Grundprinzipien des Verbandes auf bunten Bändern",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 29850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Cartellverband der katholischen deutschen Studentenverbindungen",
+          "beschriftung": "Cartellverband der katholischen deutschen Studentenverbindungen",
+          "haupt": true,
+          "artikel": "Cartellverband der katholischen deutschen Studentenverbindungen",
+          "wikidata": "Q511434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1284",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Carl Maria von Weber (1786–1826)",
+      "bild_beschreibung": "Carl Maria von Weber vor einer seiner Notenhandschriften, Gloria aus Messe in Es-Dur",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 30500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Maria von Weber",
+          "beschriftung": "Carl Maria von Weber",
+          "haupt": true,
+          "artikel": "Carl Maria von Weber",
+          "wikidata": "Q154812"
+        },
+        {
+          "titel": "Es-Dur",
+          "beschriftung": "Es-Dur",
+          "haupt": false,
+          "artikel": "Es-Dur",
+          "wikidata": "Q934895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1285",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Franz Liszt (1811–1886)",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 30550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Liszt",
+          "beschriftung": "Franz Liszt",
+          "haupt": true,
+          "artikel": "Franz Liszt",
+          "wikidata": "Q41309"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1286",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr des Friedens",
+      "bild_beschreibung": "Friedenstauben",
+      "entwerfer": "Jan Lenica",
+      "auflage": 29700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationales Jahr des Friedens",
+          "haupt": true,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1287",
+      "block": "Block 20",
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie, Gebäude der Geschichte Deutschlands",
+      "bild_beschreibung": "Reichstagsgebäude in Berlin",
+      "entwerfer": "Norbert Vogel",
+      "auflage": 7999000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": true,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie, Gebäude der Geschichte Deutschlands",
+      "bild_beschreibung": "Museum Koenig in Bonn",
+      "entwerfer": "Norbert Vogel",
+      "auflage": 7999000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Museum Koenig",
+          "beschriftung": "Museum Koenig",
+          "haupt": true,
+          "artikel": "Museum Koenig",
+          "wikidata": "Q510343"
+        },
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": false,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie, Gebäude der Geschichte Deutschlands",
+      "bild_beschreibung": "Bundeshaus in Bonn",
+      "entwerfer": "Norbert Vogel",
+      "auflage": 7999000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundeshaus (Bonn)",
+          "beschriftung": "Bundeshaus",
+          "haupt": true,
+          "artikel": "Bundeshaus (Bonn)",
+          "wikidata": "Q1006170"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Satellitentechnik",
+      "bild_beschreibung": "Der deutsch-französische Rundfunksatellit TV-SAT/TDF-1 über der Erdkugel",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 30350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europäische Weltraumorganisation",
+          "beschriftung": "Europäische Satellitentechnik",
+          "haupt": true,
+          "artikel": "Europäische Weltraumorganisation",
+          "wikidata": "Q42262"
+        },
+        {
+          "titel": "TV-SAT",
+          "beschriftung": "TV-SAT",
+          "haupt": false,
+          "artikel": "TV-SAT",
+          "wikidata": "Q11756304"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Denkmalschutz",
+      "bild_beschreibung": "zu einem Teil restaurierte Glasmalerei im Regensburger Dom",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 29150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Denkmalschutz",
+          "beschriftung": "Denkmalschutz",
+          "haupt": true,
+          "artikel": "Denkmalschutz",
+          "wikidata": "Q572824"
+        },
+        {
+          "titel": "Restaurierung",
+          "beschriftung": "restaurierte",
+          "haupt": false,
+          "artikel": "Restaurierung",
+          "wikidata": "Q217102"
+        },
+        {
+          "titel": "Glasmalerei",
+          "beschriftung": "Glasmalerei",
+          "haupt": false,
+          "artikel": "Glasmalerei",
+          "wikidata": "Q115200950"
+        },
+        {
+          "titel": "Regensburger Dom",
+          "beschriftung": "Regensburger Dom",
+          "haupt": false,
+          "artikel": "Regensburger Dom",
+          "wikidata": "Q280268"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Todestag von Friedrich dem Großen (1712–1786)",
+      "bild_beschreibung": "König Friedrich II. von Preußen nach einem Gemälde von Anton Graff",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 30300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich II. (Preußen)",
+          "beschriftung": "Friedrich dem Großen",
+          "haupt": true,
+          "artikel": "Friedrich II. (Preußen)",
+          "wikidata": "Q33550"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsche Skatkongresse",
+      "bild_beschreibung": "Spielkarte mit Kombination aus deutschem (Herz Ober) und französischem Blatt (Herz Dame)",
+      "entwerfer": "Erna de Vries",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Geschichte des Skatspiels",
+          "beschriftung": "Deutsche Skatkongresse",
+          "haupt": true,
+          "artikel": "Geschichte des Skatspiels",
+          "wikidata": "Q1517488"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Organisation für wirtschaftliche Zusammenarbeit und Entwicklung OECD",
+      "bild_beschreibung": "",
+      "entwerfer": "Michaela Graml",
+      "auflage": 31350000,
+      "commons_datei": "DBP 1986 1294 OECD.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "OECD",
+          "beschriftung": "OECD",
+          "haupt": true,
+          "artikel": "Organisation für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "wikidata": "Q41550"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: kostbare Gläser",
+      "bild_beschreibung": "Zierflasche mit Fadendekor, um 300",
+      "entwerfer": "Peter Steiner",
+      "auflage": 15682000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: kostbare Gläser",
+      "bild_beschreibung": "Flügelglas, um 1650",
+      "entwerfer": "Peter Steiner",
+      "auflage": 9682000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: kostbare Gläser",
+      "bild_beschreibung": "Reichsadlerhumpen, um 1662",
+      "entwerfer": "Peter Steiner",
+      "auflage": 9682000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadlerhumpen",
+          "beschriftung": "Reichsadlerhumpen",
+          "haupt": true,
+          "artikel": "Reichsadlerhumpen",
+          "wikidata": "Q775936"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: kostbare Gläser",
+      "bild_beschreibung": "Pokal mit Schnittdekor, um 1650",
+      "entwerfer": "Peter Steiner",
+      "auflage": 9682000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pokal (Trinkgefäß)",
+          "beschriftung": "Pokal",
+          "haupt": true,
+          "artikel": "Pokal (Trinkgefäß)",
+          "wikidata": "Q24530942"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "600 Jahre Universität Heidelberg",
+      "bild_beschreibung": "Altes Universitätsgebäude vor einem Teil der Stadtansicht",
+      "entwerfer": "Otto Rohse",
+      "auflage": 26750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ruprecht-Karls-Universität Heidelberg",
+          "beschriftung": "Universität Heidelberg",
+          "haupt": true,
+          "artikel": "Ruprecht-Karls-Universität Heidelberg",
+          "wikidata": "Q151510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Tag der Briefmarke",
+      "bild_beschreibung": "Postkutsche vor verschiedenen Briefmarken aus Anlass des Tages der Briefmarke in den vergangenen fünf Jahrzehnten",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 29500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Mary Wigman (1886–1973)",
+      "bild_beschreibung": "",
+      "entwerfer": "Blume-Zander",
+      "auflage": 19100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mary Wigman",
+          "beschriftung": "Mary Wigman",
+          "haupt": true,
+          "artikel": "Mary Wigman",
+          "wikidata": "Q77127"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1302",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sammelaktion Adveniat",
+      "bild_beschreibung": "Karte von Südamerika mit stilisiertem Kreuz",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 28500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bischöfliche Aktion Adveniat",
+          "beschriftung": "Adveniat",
+          "haupt": true,
+          "artikel": "Bischöfliche Aktion Adveniat",
+          "wikidata": "Q866234"
+        },
+        {
+          "titel": "Südamerika",
+          "beschriftung": "Südamerika",
+          "haupt": false,
+          "artikel": "Südamerika",
+          "wikidata": "Q18"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1303",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Anbetung des Kindes, linker Flügel des Ortenberger Altars",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 10989000,
+      "commons_datei": "DBP 1986 1303 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ortenberg (Hessen)",
+          "beschriftung": "Ortenberger Altars",
+          "haupt": true,
+          "artikel": "Ortenberg (Hessen)",
+          "wikidata": "Q622509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1304",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Christine Teusch",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 1010489000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christine Teusch",
+          "beschriftung": "Christine Teusch",
+          "haupt": true,
+          "artikel": "Christine Teusch",
+          "wikidata": "Q104995"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1305",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Clara Schumann",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 2100489000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clara Schumann",
+          "beschriftung": "Clara Schumann",
+          "haupt": true,
+          "artikel": "Clara Schumann",
+          "wikidata": "Q132232"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    }
+  ]
+}

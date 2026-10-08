@@ -1,0 +1,1516 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1988,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1988 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1988_der_Deutschen_Bundespost",
+    "revision": 259734367,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1347,
+    "mi_nr_bis": 1396,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 36,
+    "sondermarken_laut_einleitung": 36
+  },
+  "marken": [
+    {
+      "mi_nr": "1349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-01-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Mainzer Carneval",
+      "bild_beschreibung": "Bajass",
+      "entwerfer": "Günter Jacki",
+      "auflage": 35500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mainzer Fastnacht",
+          "beschriftung": "Mainzer Carneval",
+          "haupt": true,
+          "artikel": "Mainzer Fastnacht",
+          "wikidata": "Q314171"
+        },
+        {
+          "titel": "Bajazzo",
+          "beschriftung": "Bajass",
+          "haupt": false,
+          "artikel": "Bajazzo",
+          "wikidata": "Q15302140"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-01-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Jakob Kaiser (1888–1961)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jakob Kaiser",
+          "beschriftung": "Jakob Kaiser",
+          "haupt": true,
+          "artikel": "Jakob Kaiser",
+          "wikidata": "Q64531"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-01-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Élysée-Vertrag über die deutsch-französische Zusammenarbeit",
+      "bild_beschreibung": "Konrad Adenauer und Charles de Gaulle;; Gemeinschaftsausgabe mit Frankreich",
+      "entwerfer": "Jean-Paul Veret-Lemarinier",
+      "auflage": 33640000,
+      "commons_datei": "DBP 1988 1351 Konrad Adenauer und Charles de Gaulle.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Élysée-Vertrag",
+          "beschriftung": "Élysée-Vertrag",
+          "haupt": true,
+          "artikel": "Élysée-Vertrag",
+          "wikidata": "Q274811"
+        },
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": false,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        },
+        {
+          "titel": "Charles de Gaulle",
+          "beschriftung": "Charles de Gaulle",
+          "haupt": false,
+          "artikel": "Charles de Gaulle",
+          "wikidata": "Q2042"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-01-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seligsprechung von Edith Stein und Rupert Mayer durch Papst Johannes Paul II.",
+      "bild_beschreibung": "",
+      "entwerfer": "Margret Fackelmann",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1988 1352 Edith Stein und Rupert Mayer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Edith Stein",
+          "beschriftung": "Edith Stein",
+          "haupt": true,
+          "artikel": "Edith Stein",
+          "wikidata": "Q76749"
+        },
+        {
+          "titel": "Rupert Mayer",
+          "beschriftung": "Rupert Mayer",
+          "haupt": false,
+          "artikel": "Rupert Mayer",
+          "wikidata": "Q45283"
+        },
+        {
+          "titel": "Johannes Paul II.",
+          "beschriftung": "Johannes Paul II.",
+          "haupt": false,
+          "artikel": "Johannes Paul II.",
+          "wikidata": "Q989"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-02-18",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Fußball, anlässlich der Fußball-Europameisterschaft 1988 in Deutschland",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 4803000,
+      "commons_datei": "DBP 1988 1353 Sporthilfe Fußball.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": true,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        },
+        {
+          "titel": "Fußball-Europameisterschaft 1988",
+          "beschriftung": "Fußball-Europameisterschaft 1988",
+          "haupt": false,
+          "artikel": "Fußball-Europameisterschaft 1988",
+          "wikidata": "Q151867"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-02-18",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Tennis, anlässlich der Olympischen Sommerspiele 1988 in Seoul",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 5227000,
+      "commons_datei": "DBP 1988 1354 Sporthilfe Tennis.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tennis",
+          "beschriftung": "Tennis",
+          "haupt": true,
+          "artikel": "Tennis",
+          "wikidata": "Q847"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1988",
+          "beschriftung": "Olympischen Sommerspiele 1988",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1988",
+          "wikidata": "Q8470"
+        },
+        {
+          "titel": "Seoul",
+          "beschriftung": "Seoul",
+          "haupt": false,
+          "artikel": "Seoul",
+          "wikidata": "Q8684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-02-18",
+      "wert": "120+55",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Kunstspringen, anlässlich der Olympischen Sommerspiele 1988 in Seoul",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 4194000,
+      "commons_datei": "DBP 1988 1355 Sporthilfe Kunstspringen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserspringen",
+          "beschriftung": "Kunstspringen",
+          "haupt": true,
+          "artikel": "Wasserspringen",
+          "wikidata": "Q7735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-02-18",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Joseph von Eichendorff (1788–1857)",
+      "bild_beschreibung": "Detail aus Holzschnitt von Ludwig Richter zu dem Gedicht “Waldeinsamkeit, du grünes Revier”",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 32450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Joseph von Eichendorff",
+          "beschriftung": "Joseph von Eichendorff",
+          "haupt": true,
+          "artikel": "Joseph von Eichendorff",
+          "wikidata": "Q77204"
+        },
+        {
+          "titel": "Ludwig Richter",
+          "beschriftung": "Ludwig Richter",
+          "haupt": false,
+          "artikel": "Ludwig Richter",
+          "wikidata": "Q551896"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-02-18",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Arthur Schopenhauer (1788–1860)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1988 1357 Arthur Schopenhauer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Arthur Schopenhauer",
+          "beschriftung": "Arthur Schopenhauer",
+          "haupt": true,
+          "artikel": "Arthur Schopenhauer",
+          "wikidata": "Q38193"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-02-18",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Friedrich Wilhelm Raiffeisen (1818–1888)",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigrid Förtsch-von Baumgarten und Hans Förtsch",
+      "auflage": 35150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Wilhelm Raiffeisen",
+          "beschriftung": "Friedrich Wilhelm Raiffeisen",
+          "haupt": true,
+          "artikel": "Friedrich Wilhelm Raiffeisen",
+          "wikidata": "Q45141"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1360",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-04-14",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Idole der Rock- und Popmusik",
+      "bild_beschreibung": "Buddy Holly",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 4386000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buddy Holly",
+          "beschriftung": "Buddy Holly",
+          "haupt": true,
+          "artikel": "Buddy Holly",
+          "wikidata": "Q5977"
+        },
+        {
+          "titel": "Rockmusik",
+          "beschriftung": "Rock-",
+          "haupt": false,
+          "artikel": "Rockmusik",
+          "wikidata": "Q11399"
+        },
+        {
+          "titel": "Popmusik",
+          "beschriftung": "Popmusik",
+          "haupt": false,
+          "artikel": "Popmusik",
+          "wikidata": "Q37073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1361",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-04-14",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Idole der Rock- und Popmusik",
+      "bild_beschreibung": "Elvis Presley",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 4753000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elvis Presley",
+          "beschriftung": "Elvis Presley",
+          "haupt": true,
+          "artikel": "Elvis Presley",
+          "wikidata": "Q303"
+        },
+        {
+          "titel": "Rockmusik",
+          "beschriftung": "Rock-",
+          "haupt": false,
+          "artikel": "Rockmusik",
+          "wikidata": "Q11399"
+        },
+        {
+          "titel": "Popmusik",
+          "beschriftung": "Popmusik",
+          "haupt": false,
+          "artikel": "Popmusik",
+          "wikidata": "Q37073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1362",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-04-14",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Idole der Rock- und Popmusik",
+      "bild_beschreibung": "Jim Morrison",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 4386000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jim Morrison",
+          "beschriftung": "Jim Morrison",
+          "haupt": true,
+          "artikel": "Jim Morrison",
+          "wikidata": "Q44301"
+        },
+        {
+          "titel": "Rockmusik",
+          "beschriftung": "Rock-",
+          "haupt": false,
+          "artikel": "Rockmusik",
+          "wikidata": "Q11399"
+        },
+        {
+          "titel": "Popmusik",
+          "beschriftung": "Popmusik",
+          "haupt": false,
+          "artikel": "Popmusik",
+          "wikidata": "Q37073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-04-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Idole der Rock- und Popmusik",
+      "bild_beschreibung": "John Lennon",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 4665000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "John Lennon",
+          "beschriftung": "John Lennon",
+          "haupt": true,
+          "artikel": "John Lennon",
+          "wikidata": "Q1203"
+        },
+        {
+          "titel": "Rockmusik",
+          "beschriftung": "Rock-",
+          "haupt": false,
+          "artikel": "Rockmusik",
+          "wikidata": "Q11399"
+        },
+        {
+          "titel": "Popmusik",
+          "beschriftung": "Popmusik",
+          "haupt": false,
+          "artikel": "Popmusik",
+          "wikidata": "Q37073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-04-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Ulrich von Hutten (1488–1523)",
+      "bild_beschreibung": "Detail aus einem Holzschnitt seines Buches “Conquestiones”",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1988 1364 Ulrich von Hutten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ulrich von Hutten",
+          "beschriftung": "Ulrich von Hutten",
+          "haupt": true,
+          "artikel": "Ulrich von Hutten",
+          "wikidata": "Q77107"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1367",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Transport- und Kommunikationsmittel",
+      "bild_beschreibung": "Airbus A320",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 73550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Airbus-A320-Familie",
+          "beschriftung": "Airbus A320",
+          "haupt": true,
+          "artikel": "Airbus-A320-Familie",
+          "wikidata": "Q6475"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Transport- und Kommunikationsmittel",
+      "bild_beschreibung": "Schematische Darstellung der Verbindungen von ISDN",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 71350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Integrated Services Digital Network",
+          "beschriftung": "ISDN",
+          "haupt": true,
+          "artikel": "Integrated Services Digital Network",
+          "wikidata": "Q170397"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1369",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "700 Jahre Düsseldorf",
+      "bild_beschreibung": "Stilisierte Stadtansicht",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 35420000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Düsseldorf",
+          "beschriftung": "Düsseldorf",
+          "haupt": true,
+          "artikel": "Düsseldorf",
+          "wikidata": "Q1718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "600 Jahre Universität zu Köln",
+      "bild_beschreibung": "das Universitätsgebäude und Kirchtürme von Köln",
+      "entwerfer": "Otto Rohse",
+      "auflage": 31500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Universität zu Köln",
+          "beschriftung": "Universität zu Köln",
+          "haupt": true,
+          "artikel": "Universität zu Köln",
+          "wikidata": "Q54096"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Theodor Storm (1817–1888)",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Jacki",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1988 1371 Theodor Storm.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Theodor Storm",
+          "beschriftung": "Theodor Storm",
+          "haupt": true,
+          "artikel": "Theodor Storm",
+          "wikidata": "Q26993"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Jean Monnet (1888–1979)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 21000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jean Monnet",
+          "beschriftung": "Jean Monnet",
+          "haupt": true,
+          "artikel": "Jean Monnet",
+          "wikidata": "Q159700"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Entwicklungsdienst (DED)",
+      "bild_beschreibung": "angepflanzter Baum mit Stütze in Schwarz-Rot-Gold",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Entwicklungsdienst",
+          "beschriftung": "Deutscher Entwicklungsdienst",
+          "haupt": true,
+          "artikel": "Deutscher Entwicklungsdienst",
+          "wikidata": "Q877083"
+        },
+        {
+          "titel": "Baum",
+          "beschriftung": "Baum",
+          "haupt": false,
+          "artikel": "Baum",
+          "wikidata": "Q10884"
+        },
+        {
+          "titel": "Schwarz-Rot-Gold",
+          "beschriftung": "Schwarz-Rot-Gold",
+          "haupt": false,
+          "artikel": "Schwarz-Rot-Gold",
+          "wikidata": "Q29839581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-07-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Meersburg",
+      "bild_beschreibung": "Ansicht von Meersburg",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 35160000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Meersburg",
+          "beschriftung": "Meersburg",
+          "haupt": true,
+          "artikel": "Meersburg",
+          "wikidata": "Q498212"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-07-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Leopold Gmelin (1788–1853)",
+      "bild_beschreibung": "",
+      "entwerfer": "Hermann Schwahn",
+      "auflage": 33300000,
+      "commons_datei": "DBP 1988 1377 Leopold Gmelin.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leopold Gmelin",
+          "beschriftung": "Leopold Gmelin",
+          "haupt": true,
+          "artikel": "Leopold Gmelin",
+          "wikidata": "Q60639"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-07-14",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Bezeichnung “Made in Germany”",
+      "bild_beschreibung": "Sechskantmutter und Messschieber in Schwarz-Rot-Gold",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 20900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Made in Germany",
+          "beschriftung": "Made in Germany",
+          "haupt": true,
+          "artikel": "Made in Germany",
+          "wikidata": "Q565536"
+        },
+        {
+          "titel": "Mutter (Technik)",
+          "beschriftung": "Sechskantmutter",
+          "haupt": false,
+          "artikel": "Mutter (Technik)",
+          "wikidata": "Q190977"
+        },
+        {
+          "titel": "Messschieber",
+          "beschriftung": "Messschieber",
+          "haupt": false,
+          "artikel": "Messschieber",
+          "wikidata": "Q12408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-08-11",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Todestag von August Bebel (1840–1913)",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1988 1382 August Bebel.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": true,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Bergkristallreliquiar, um 1200",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 17488000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Gold-",
+          "haupt": true,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Karlsbüste, nach 1349",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 11599000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl der Große",
+          "beschriftung": "Karlsbüste",
+          "haupt": true,
+          "artikel": "Karl der Große",
+          "wikidata": "Q3044"
+        },
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Gold-",
+          "haupt": false,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Krone von Otto III., vor 983",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 7160000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Essener Krone",
+          "beschriftung": "Krone von Otto III.",
+          "haupt": true,
+          "artikel": "Essener Krone",
+          "wikidata": "Q876795"
+        },
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Gold-",
+          "haupt": false,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1386",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Blütenstrauß, um 1620",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 15146000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Gold-",
+          "haupt": true,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1387",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Internationales Rotes Kreuz",
+      "bild_beschreibung": "",
+      "entwerfer": "Jürgen Wilke",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1988 1387 Rotes Kreuz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "beschriftung": "Internationales Rotes Kreuz",
+          "haupt": true,
+          "artikel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "wikidata": "Q7178"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1388",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Brieftaube",
+      "entwerfer": "Peter Steiner",
+      "auflage": 29500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Brieftaube",
+          "beschriftung": "Brieftaube",
+          "haupt": false,
+          "artikel": "Brieftaube",
+          "wikidata": "Q138756"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1389",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-10-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Reichskristallnacht",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Novemberpogrome 1938",
+          "beschriftung": "Reichskristallnacht",
+          "haupt": true,
+          "artikel": "Novemberpogrome 1938",
+          "wikidata": "Q36756"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1394",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Arbeiter-Samariter-Bund",
+      "bild_beschreibung": "",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 39645000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Arbeiter-Samariter-Bund",
+          "beschriftung": "Arbeiter-Samariter-Bund",
+          "haupt": true,
+          "artikel": "Arbeiter-Samariter-Bund",
+          "wikidata": "Q627068"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1395",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Briefmarkenspendenaktion für Bethel",
+      "bild_beschreibung": "Briefstücke mit deutschen Marken",
+      "entwerfer": "Erwin Poell",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Von Bodelschwinghsche Stiftungen Bethel",
+          "beschriftung": "Bethel",
+          "haupt": true,
+          "artikel": "V. Bodelschwinghsche Stiftungen Bethel",
+          "wikidata": "Q547995"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1396",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Geburt Christi, Abbildung aus dem Evangeliar von Heinrich dem Löwen, aus dem 12. Jahrhundert",
+      "entwerfer": "Silvia Runge",
+      "auflage": 10796000,
+      "commons_datei": "DBP 1988 1396 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich der Löwe",
+          "beschriftung": "Heinrich dem Löwen",
+          "haupt": true,
+          "artikel": "Heinrich der Löwe",
+          "wikidata": "Q105378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1347",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-01-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Flughafen Frankfurt Main",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 1124265000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Frankfurt Main",
+          "beschriftung": "Flughafen Frankfurt Main",
+          "haupt": true,
+          "artikel": "Flughafen Frankfurt Main",
+          "wikidata": "Q46033"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1379",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-08-11",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Chilehaus Hamburg",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 208162000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chilehaus",
+          "beschriftung": "Chilehaus",
+          "haupt": true,
+          "artikel": "Chilehaus",
+          "wikidata": "Q542783"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1374",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-07-14",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Büste der Nofretete",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 63707000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Büste der Nofretete",
+          "beschriftung": "Büste der Nofretete",
+          "haupt": true,
+          "artikel": "Büste der Nofretete",
+          "wikidata": "Q582172"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1380",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-08-11",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bronzekanne Fürstinnengrab Reinheim",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 28507000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Kulturpark Bliesbruck-Reinheim",
+          "beschriftung": "Bronzekanne Fürstinnengrab Reinheim",
+          "haupt": true,
+          "artikel": "Europäischer Kulturpark Bliesbruck-Reinheim",
+          "wikidata": "Q1377888"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1375",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-07-14",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Schleswiger St. Petri Dom",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 43507000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schleswiger Dom",
+          "beschriftung": "Schleswiger St. Petri Dom",
+          "haupt": true,
+          "artikel": "Schleswiger Dom",
+          "wikidata": "Q523691"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1381",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-08-11",
+      "wert": "280",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Rolandstatue in Bremen",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 25600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roland (Statue)",
+          "beschriftung": "Rolandstatue",
+          "haupt": true,
+          "artikel": "Roland (Statue)",
+          "wikidata": "Q498087"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1348",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-01-14",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Hambacher Schloss",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 826111000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hambacher Schloss",
+          "beschriftung": "Hambacher Schloss",
+          "haupt": true,
+          "artikel": "Hambacher Schloss",
+          "wikidata": "Q523286"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1359",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-04-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Paula Modersohn-Becker",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 608277000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paula Modersohn-Becker",
+          "beschriftung": "Paula Modersohn-Becker",
+          "haupt": true,
+          "artikel": "Paula Modersohn-Becker",
+          "wikidata": "Q234370"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1365",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Cilly Aussem",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 643478000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cilly Aussem",
+          "beschriftung": "Cilly Aussem",
+          "haupt": true,
+          "artikel": "Cilly Aussem",
+          "wikidata": "Q62183"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1390",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Therese Giehse",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 6007068000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Therese Giehse",
+          "beschriftung": "Therese Giehse",
+          "haupt": true,
+          "artikel": "Therese Giehse",
+          "wikidata": "Q69638"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1366",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-05-05",
+      "wert": "130",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Lise Meitner",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 114978000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lise Meitner",
+          "beschriftung": "Lise Meitner",
+          "haupt": true,
+          "artikel": "Lise Meitner",
+          "wikidata": "Q56189"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1391",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Hannah Arendt",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 506868000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hannah Arendt",
+          "beschriftung": "Hannah Arendt",
+          "haupt": true,
+          "artikel": "Hannah Arendt",
+          "wikidata": "Q60025"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1392",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "240",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Mathilde Franziska Anneke",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 272168000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mathilde Franziska Anneke",
+          "beschriftung": "Mathilde Franziska Anneke",
+          "haupt": true,
+          "artikel": "Mathilde Franziska Anneke",
+          "wikidata": "Q90720"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1393",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1988-11-10",
+      "wert": "350",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Hedwig Dransfeld",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 160468000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hedwig Dransfeld",
+          "beschriftung": "Hedwig Dransfeld",
+          "haupt": true,
+          "artikel": "Hedwig Dransfeld",
+          "wikidata": "Q121245"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1243 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1990,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1990 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1990_der_Deutschen_Bundespost",
+    "revision": 261898508,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1444,
+    "mi_nr_bis": 1487,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 41,
+    "sondermarken_laut_einleitung": 41
+  },
+  "marken": [
+    {
+      "mi_nr": "1444",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Speyer",
+      "bild_beschreibung": "Speyerer Dom und weitere bedeutende Bauwerke der Stadt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 33000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Speyer",
+          "beschriftung": "Speyer",
+          "haupt": true,
+          "artikel": "Speyer",
+          "wikidata": "Q6829"
+        },
+        {
+          "titel": "Speyerer Dom",
+          "beschriftung": "Speyerer Dom",
+          "haupt": false,
+          "artikel": "Speyerer Dom",
+          "wikidata": "Q22720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1445",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre internationale Postverbindungen in Europa",
+      "bild_beschreibung": "Der kleine Postreiter (Albrecht Dürer);; Gemeinschaftsausgabe mit der Deutschen Bundespost Berlin, der DDR, Österreich und Belgien",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 59780000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "internationale Postverbindungen",
+          "haupt": true,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": false,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        },
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": false,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Deutsche Bundespost Berlin",
+          "beschriftung": "Deutschen Bundespost Berlin",
+          "haupt": false,
+          "artikel": "Postgeschichte und Briefmarken Berlins",
+          "wikidata": "Q878573"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Österreich",
+          "beschriftung": "Österreich",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Belgien",
+          "beschriftung": "Belgien",
+          "haupt": false,
+          "artikel": "Belgien",
+          "wikidata": "Q31"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1446",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Rieslinganbau",
+      "bild_beschreibung": "Initiale R umrankt von Weinreben",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 31750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Riesling",
+          "beschriftung": "Riesling",
+          "haupt": true,
+          "artikel": "Riesling",
+          "wikidata": "Q456471"
+        },
+        {
+          "titel": "Initiale",
+          "beschriftung": "Initiale",
+          "haupt": false,
+          "artikel": "Initiale",
+          "wikidata": "Q378408"
+        },
+        {
+          "titel": "Weinreben",
+          "beschriftung": "Weinreben",
+          "haupt": false,
+          "artikel": "Weinreben",
+          "wikidata": "Q191019"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1447",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kultur- und Naturerbe der Menschheit",
+      "bild_beschreibung": "Altstadt von Lübeck",
+      "entwerfer": "Otto Rohse",
+      "auflage": 28780000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lübeck",
+          "beschriftung": "Lübeck",
+          "haupt": true,
+          "artikel": "Lübeck",
+          "wikidata": "Q2843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1449",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport beliebte Sportarten",
+      "bild_beschreibung": "Hallenhandball",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 5003000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hallenhandball",
+          "beschriftung": "Hallenhandball",
+          "haupt": true,
+          "artikel": "Handball",
+          "wikidata": "Q8418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1450",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "140+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport beliebte Sportarten",
+      "bild_beschreibung": "20 Jahre Trimm-dich-Bewegung",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 4925000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trimm-dich-Bewegung",
+          "beschriftung": "Trimm-dich-Bewegung",
+          "haupt": true,
+          "artikel": "Trimm-dich-Bewegung",
+          "wikidata": "Q2453394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1451",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Deutscher Orden",
+      "bild_beschreibung": "Siegel des obersten Spittlers (1400) und Amtswappen des Hochmeisters (1982)",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 29000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Orden",
+          "beschriftung": "Deutscher Orden",
+          "haupt": true,
+          "artikel": "Deutscher Orden",
+          "wikidata": "Q48189"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1452",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Frankfurter Messeprivileg",
+      "bild_beschreibung": "Siegel Kaiser Friedrichs II. von 1420",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 33000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frankfurter Messe",
+          "beschriftung": "Frankfurter Messeprivileg",
+          "haupt": true,
+          "artikel": "Messe Frankfurt",
+          "wikidata": "Q650837"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1453",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Jugend forscht",
+      "bild_beschreibung": "Labyrinth mit Frage- und Ausrufezeichen",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 27750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jugend forscht",
+          "beschriftung": "Jugend forscht",
+          "haupt": true,
+          "artikel": "Jugend forscht",
+          "wikidata": "Q1711223"
+        },
+        {
+          "titel": "Labyrinth",
+          "beschriftung": "Labyrinth",
+          "haupt": false,
+          "artikel": "Labyrinth",
+          "wikidata": "Q48963"
+        },
+        {
+          "titel": "Fragezeichen",
+          "beschriftung": "Frage-",
+          "haupt": false,
+          "artikel": "Fragezeichen",
+          "wikidata": "Q11169"
+        },
+        {
+          "titel": "Ausrufezeichen",
+          "beschriftung": "Ausrufezeichen",
+          "haupt": false,
+          "artikel": "Ausrufezeichen",
+          "wikidata": "Q166764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1454",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Nordseeschutz Konferenz in Den Haag",
+      "bild_beschreibung": "Tiere in und an der Nordsee",
+      "entwerfer": "Konrad Przewieslik",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Den Haag",
+          "beschriftung": "Den Haag",
+          "haupt": true,
+          "artikel": "Den Haag",
+          "wikidata": "Q36600"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1455",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Max und Moritz von Wilhelm Busch",
+      "bild_beschreibung": "Witwe Bolte",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3916000,
+      "commons_datei": "DBP 1990 1455-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        },
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": false,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1456",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Max und Moritz von Wilhelm Busch",
+      "bild_beschreibung": "Max",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3707000,
+      "commons_datei": "DBP 1990 1456-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        },
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": false,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1457",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Max und Moritz von Wilhelm Busch",
+      "bild_beschreibung": "Max und Moritz sägen am Steg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3703000,
+      "commons_datei": "DBP 1990 1457-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        },
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": false,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1458",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Max und Moritz von Wilhelm Busch",
+      "bild_beschreibung": "Max und Moritz",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1990 1458-R-max-und-moritz.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        },
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": false,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1459",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Tag der Arbeit",
+      "bild_beschreibung": "Fabrikhallendach und 1. MAI",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1990 1459-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erster Mai",
+          "beschriftung": "Tag der Arbeit",
+          "haupt": true,
+          "artikel": "Erster Mai",
+          "wikidata": "Q47499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1460",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Deutscher Hausfrauen-Bund",
+      "bild_beschreibung": "Hausfrau mit Emblem des Hausfrauen Bundes",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Hausfrauen-Bund",
+          "beschriftung": "Deutscher Hausfrauen-Bund",
+          "haupt": true,
+          "artikel": "DHB – Netzwerk Haushalt, Berufsverband der Haushaltsführenden",
+          "wikidata": "Q1204913"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1461",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, postalische Einrichtungen",
+      "bild_beschreibung": "Palais Thurn und Taxis in Frankfurt am Main",
+      "entwerfer": "Konrad Przewieslik",
+      "auflage": 63400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Palais Thurn und Taxis",
+          "beschriftung": "Palais Thurn und Taxis",
+          "haupt": true,
+          "artikel": "Palais Thurn und Taxis",
+          "wikidata": "Q282656"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1462",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, postalische Einrichtungen",
+      "bild_beschreibung": "Postgiroamt in Frankfurt am Main",
+      "entwerfer": "Konrad Przewieslik",
+      "auflage": 71310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1463",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Nationalfarben Schwarz-Rot-Gold",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1990 1463-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schwarz-Rot-Gold",
+          "beschriftung": "Schwarz-Rot-Gold",
+          "haupt": true,
+          "artikel": "Schwarz-Rot-Gold",
+          "wikidata": "Q29839581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1464",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Internationale Fernmeldeunion (ITU)",
+      "bild_beschreibung": "stilisierte Weltkugel",
+      "entwerfer": "Langer und Langer-Rosa",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1990 1464-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": true,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Weltkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1465",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Deutsche Gesellschaft zur Rettung Schiffbrüchiger (DGzRS)",
+      "bild_beschreibung": "Sammelschiff der Gesellschaft",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 28000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "beschriftung": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "haupt": true,
+          "artikel": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "wikidata": "Q896771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1466",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wilhelm Leuschner (1890–1944)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Leuschner",
+          "beschriftung": "Wilhelm Leuschner",
+          "haupt": true,
+          "artikel": "Wilhelm Leuschner",
+          "wikidata": "Q213868"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1467",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Diakonenanstalt Rummelsberg",
+      "bild_beschreibung": "",
+      "entwerfer": "W. P. Seiter",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Diakonenanstalt Rummelsberg",
+          "beschriftung": "Diakonenanstalt Rummelsberg",
+          "haupt": true,
+          "artikel": "Rummelsberger Diakonie",
+          "wikidata": "Q2175634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1470",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-21",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Charta der deutschen Heimatvertriebenen",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1990 1470-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Charta der deutschen Heimatvertriebenen",
+          "beschriftung": "Charta der deutschen Heimatvertriebenen",
+          "haupt": true,
+          "artikel": "Charta der deutschen Heimatvertriebenen",
+          "wikidata": "Q1067759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1471",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30. Weltkongress der Internationalen Handelskammer (ICC)",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 28400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Handelskammer",
+          "beschriftung": "Internationalen Handelskammer",
+          "haupt": true,
+          "artikel": "Internationale Handelskammer",
+          "wikidata": "Q848633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1472",
+      "block": "Block 21",
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-21",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 10. Internationale Briefmarkenausstellung der Jugend",
+      "bild_beschreibung": "",
+      "entwerfer": "Heike Ullmann",
+      "auflage": 22596000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1473",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-08-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Matthias Claudius (1740–1815)",
+      "bild_beschreibung": "Basiert auf Bild von Otto Speckter",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1990 1473-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Matthias Claudius",
+          "beschriftung": "Matthias Claudius",
+          "haupt": true,
+          "artikel": "Matthias Claudius",
+          "wikidata": "Q77338"
+        },
+        {
+          "titel": "Otto Speckter",
+          "beschriftung": "Otto Speckter",
+          "haupt": false,
+          "artikel": "Otto Speckter",
+          "wikidata": "Q1618295"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1474",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1990: Geschichte der Post und Telekommunikation",
+      "bild_beschreibung": "Motorpostwagen, um 1900",
+      "entwerfer": "Peter Steiner",
+      "auflage": 12272000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1475",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1990: Geschichte der Post und Telekommunikation",
+      "bild_beschreibung": "Vermittlungsstelle, um 1890",
+      "entwerfer": "Peter Steiner",
+      "auflage": 8161000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vermittlungsstelle",
+          "beschriftung": "Vermittlungsstelle",
+          "haupt": true,
+          "artikel": "Vermittlungsstelle",
+          "wikidata": "Q256132"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1476",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1990: Geschichte der Post und Telekommunikation",
+      "bild_beschreibung": "Paketpost, um 1900",
+      "entwerfer": "Peter Steiner",
+      "auflage": 16174000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1477",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-10-03",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Einheit",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 53675000,
+      "commons_datei": "DBP 1990 1477 Deutsche Einheit.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Wiedervereinigung",
+          "beschriftung": "Deutsche Einheit",
+          "haupt": true,
+          "artikel": "Deutsche Wiedervereinigung",
+          "wikidata": "Q56039"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1478",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-10-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Einheit",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 41950000,
+      "commons_datei": "DBP 1990 1478 Deutsche Einheit.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Wiedervereinigung",
+          "beschriftung": "Deutsche Einheit",
+          "haupt": true,
+          "artikel": "Deutsche Wiedervereinigung",
+          "wikidata": "Q56039"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1479",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-10-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Briefmarken",
+      "bild_beschreibung": "Abbildungen der One Penny Black, Schwarzer Einser und einer Bundespostbriefmarke von 1989",
+      "entwerfer": "Silvia Runge",
+      "auflage": 32842000,
+      "commons_datei": "DBP 150 Jahre Briefmarken 100 Pfennig 1990.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "One Penny Black",
+          "beschriftung": "One Penny Black",
+          "haupt": true,
+          "artikel": "One Penny Black",
+          "wikidata": "Q107701"
+        },
+        {
+          "titel": "Schwarzer Einser",
+          "beschriftung": "Schwarzer Einser",
+          "haupt": false,
+          "artikel": "Schwarzer Einser",
+          "wikidata": "Q252093"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1989 der Deutschen Bundespost",
+          "beschriftung": "Bundespostbriefmarke von 1989",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1989 der Deutschen Bundespost",
+          "wikidata": "Q914740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1480",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-10-11",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Heinrich Schliemann (1822–1890)",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Griechenland",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 31700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Schliemann",
+          "beschriftung": "Heinrich Schliemann",
+          "haupt": true,
+          "artikel": "Heinrich Schliemann",
+          "wikidata": "Q57106"
+        },
+        {
+          "titel": "Griechenland",
+          "beschriftung": "Griechenland",
+          "haupt": false,
+          "artikel": "Griechenland",
+          "wikidata": "Q41"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1481",
+      "block": "Block 22",
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 1. Jahrestag der Öffnung innerdeutschen Grenzen",
+      "bild_beschreibung": "durchbrochene Mauer",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 53675000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Wiedervereinigung",
+          "beschriftung": "Öffnung innerdeutschen Grenzen",
+          "haupt": true,
+          "artikel": "Deutsche Wiedervereinigung",
+          "wikidata": "Q56039"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1482",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 1. Jahrestag der Öffnung innerdeutschen Grenzen",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Deutsche Wiedervereinigung",
+          "beschriftung": "Öffnung innerdeutschen Grenzen",
+          "haupt": false,
+          "artikel": "Deutsche Wiedervereinigung",
+          "wikidata": "Q56039"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1483",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Käthe Dorsch (1890–1957)",
+      "bild_beschreibung": "",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 32250000,
+      "commons_datei": "Käthe Dorsch Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Käthe Dorsch",
+          "beschriftung": "Käthe Dorsch",
+          "haupt": true,
+          "artikel": "Käthe Dorsch",
+          "wikidata": "Q109505"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1484",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1990, Weihnachtliches Kunsthandwerk",
+      "bild_beschreibung": "Engel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7192000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Engel",
+          "beschriftung": "Engel",
+          "haupt": true,
+          "artikel": "Engel",
+          "wikidata": "Q235113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1485",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1990, Weihnachtliches Kunsthandwerk",
+      "bild_beschreibung": "Räuchermännchen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7705000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Räuchermann",
+          "beschriftung": "Räuchermännchen",
+          "haupt": true,
+          "artikel": "Räuchermann",
+          "wikidata": "Q454781"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1486",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1990, Weihnachtliches Kunsthandwerk",
+      "bild_beschreibung": "Nussknacker",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7516000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nussknacker",
+          "beschriftung": "Nussknacker",
+          "haupt": true,
+          "artikel": "Nussknacker",
+          "wikidata": "Q14880"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1487",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-11-06",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1990, Weihnachtliches Kunsthandwerk",
+      "bild_beschreibung": "Rauschgoldengel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9506000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rauschgold",
+          "beschriftung": "Rauschgold",
+          "haupt": true,
+          "artikel": "Rauschgold",
+          "wikidata": "Q2133517"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1448",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Braunschweiger Löwe",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 257484000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Braunschweiger Löwe",
+          "beschriftung": "Braunschweiger Löwe",
+          "haupt": true,
+          "artikel": "Braunschweiger Löwe",
+          "wikidata": "Q573683"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1468",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-06-21",
+      "wert": "45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Schloss Rastatt",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 318660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Rastatt",
+          "beschriftung": "Schloss Rastatt",
+          "haupt": true,
+          "artikel": "Schloss Rastatt",
+          "wikidata": "Q315030"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1469",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-06-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Helgoland",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 191170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helgoland",
+          "beschriftung": "Helgoland",
+          "haupt": true,
+          "artikel": "Helgoland",
+          "wikidata": "Q3038"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    }
+  ]
+}

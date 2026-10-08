@@ -1,0 +1,1804 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1995,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1995 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1995_der_Bundesrepublik_Deutschland",
+    "revision": 259738968,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1772,
+    "mi_nr_bis": 1833,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 61,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1772",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-01-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Gera",
+      "bild_beschreibung": "",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 29580000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gera",
+          "beschriftung": "Gera",
+          "haupt": true,
+          "artikel": "Gera",
+          "wikidata": "Q3750"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1773",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-01-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Jahrestag der Einberufung des Wormser Reichstags",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 99500000,
+      "commons_datei": "Reichstag de Worms 1495 (timbre RFA).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichstag zu Worms (1495)",
+          "beschriftung": "Wormser Reichstags",
+          "haupt": true,
+          "artikel": "Reichstag zu Worms (1495)",
+          "wikidata": "Q224517"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-01-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Der Wasserturm in Bremen von Franz Radziwill",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 94900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Radziwill",
+          "beschriftung": "Franz Radziwill",
+          "haupt": true,
+          "artikel": "Franz Radziwill",
+          "wikidata": "Q454593"
+        },
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": false,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-01-12",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Stillleben mit Katze von Georg Schrimpf",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 12910000,
+      "commons_datei": "Schrimpf-Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Schrimpf",
+          "beschriftung": "Georg Schrimpf",
+          "haupt": true,
+          "artikel": "Georg Schrimpf",
+          "wikidata": "Q743633"
+        },
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": false,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1776",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-01-12",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Gutshof in Dangast von Karl Schmidt-Rottluff",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 12490000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Schmidt-Rottluff",
+          "beschriftung": "Karl Schmidt-Rottluff",
+          "haupt": true,
+          "artikel": "Karl Schmidt-Rottluff",
+          "wikidata": "Q161143"
+        },
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": false,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-02-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Kanu-Weltmeisterschaften in Duisburg",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 2925000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kanurennsport-Weltmeisterschaften 1995",
+          "beschriftung": "Kanu-Weltmeisterschaften",
+          "haupt": true,
+          "artikel": "Kanurennsport-Weltmeisterschaften 1995",
+          "wikidata": "Q1097513"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-02-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "10. Weltgymnaestrada in Berlin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 3175000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gymnaestrada",
+          "beschriftung": "Weltgymnaestrada",
+          "haupt": true,
+          "artikel": "Gymnaestrada",
+          "wikidata": "Q1558043"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-02-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Box-Weltmeisterschaften der Amateure in Berlin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 3120000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Boxweltmeisterschaften 1995",
+          "beschriftung": "Box-Weltmeisterschaften der Amateure",
+          "haupt": true,
+          "artikel": "Boxweltmeisterschaften 1995",
+          "wikidata": "Q587661"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-02-09",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "100 Jahre Volleyball",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 2900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": true,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1781",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-02-09",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "375. Geburtstag des Großen Kurfürsten Friedrich Wilhelm von Brandenburg",
+      "bild_beschreibung": "Gemälde von A. Romandon",
+      "entwerfer": "H. P. Schall",
+      "auflage": 10000000,
+      "commons_datei": "Stamp Germany 1995 MiNr1781 Friedrich Wilhelm von Brandenburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Wilhelm (Brandenburg)",
+          "beschriftung": "Friedrich Wilhelm von Brandenburg",
+          "haupt": true,
+          "artikel": "Friedrich Wilhelm (Brandenburg)",
+          "wikidata": "Q152727"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1782",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-03-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Mecklenburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 24100000,
+      "commons_datei": "Stamp Germany 1995 MiNr1782 Mecklenburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mecklenburg",
+          "beschriftung": "Mecklenburg",
+          "haupt": true,
+          "artikel": "Mecklenburg",
+          "wikidata": "Q109057"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1783",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-03-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Technische Universität Braunschweig",
+      "bild_beschreibung": "",
+      "entwerfer": "Karen Scholz",
+      "auflage": 25850000,
+      "commons_datei": "Stamp Germany 1995 Briefmarke TU Braunschweig 250.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Technische Universität Braunschweig",
+          "beschriftung": "Technische Universität Braunschweig",
+          "haupt": true,
+          "artikel": "Technische Universität Braunschweig",
+          "wikidata": "Q734324"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1784",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-03-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Wilhelm Conrad Röntgen",
+      "bild_beschreibung": "100. Jahrestag der Entdeckung der Röntgenstrahlen",
+      "entwerfer": "Margit Zauner",
+      "auflage": 29830000,
+      "commons_datei": "Stamp 150 birthday of Wilhelm Röntgen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Conrad Röntgen",
+          "beschriftung": "Wilhelm Conrad Röntgen",
+          "haupt": true,
+          "artikel": "Wilhelm Conrad Röntgen",
+          "wikidata": "Q35149"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1785",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-03-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erste Vertragsstaatenkonferenz der Klimarahmenkonvention, Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 24895000,
+      "commons_datei": "Stamp Germany 1995 Briefmarke Klimakonvention.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "UN-Klimakonferenz",
+          "beschriftung": "Vertragsstaatenkonferenz",
+          "haupt": true,
+          "artikel": "UN-Klimakonferenz",
+          "wikidata": "Q7888355"
+        },
+        {
+          "titel": "Klimarahmenkonvention",
+          "beschriftung": "Klimarahmenkonvention",
+          "haupt": false,
+          "artikel": "Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+          "wikidata": "Q208645"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1786",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-04-06",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Freie Reichsstadt Regensburg",
+      "bild_beschreibung": "Neue Bezeichnung: Deutschland",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 29700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Regensburg",
+          "beschriftung": "Regensburg",
+          "haupt": true,
+          "artikel": "Regensburg",
+          "wikidata": "Q2978"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1787",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-04-06",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Johann Conrad Schlaun",
+      "bild_beschreibung": "Alte Bezeichnung: Deutsche Bundespost",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 19200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Conrad Schlaun",
+          "beschriftung": "Johann Conrad Schlaun",
+          "haupt": true,
+          "artikel": "Johann Conrad Schlaun",
+          "wikidata": "Q76704"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1788",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-04-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Dietrich Bonhoeffer",
+      "bild_beschreibung": "Alte Bezeichnung: Deutsche Bundespost",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 50500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dietrich Bonhoeffer",
+          "beschriftung": "Dietrich Bonhoeffer",
+          "haupt": true,
+          "artikel": "Dietrich Bonhoeffer",
+          "wikidata": "Q76326"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1789",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-04-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Grundgedanken der Demokratie",
+      "bild_beschreibung": "Freiheit der Meinungsäußerung; letzte Marke mit der Inschrift: Deutsche Bundespost",
+      "entwerfer": "Paul Effert",
+      "auflage": 48600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Demokratie",
+          "beschriftung": "Demokratie",
+          "haupt": true,
+          "artikel": "Demokratie",
+          "wikidata": "Q7174"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1790",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa – Frieden und Freiheit",
+      "bild_beschreibung": "Soldaten (1945)",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 29000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1791",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa – Frieden und Freiheit",
+      "bild_beschreibung": "Europafahne",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 18500000,
+      "commons_datei": "Stamp Germany 1995 MiNr1791 Europafahne.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europaflagge",
+          "beschriftung": "Europafahne",
+          "haupt": true,
+          "artikel": "Europaflagge",
+          "wikidata": "Q122482"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1792",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsche Schillergesellschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 49550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Schillergesellschaft",
+          "beschriftung": "Deutsche Schillergesellschaft",
+          "haupt": true,
+          "artikel": "Deutsche Schillergesellschaft",
+          "wikidata": "Q1203877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1793",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Vinzenz-Konferenz in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 38800000,
+      "commons_datei": "Stamp Germany 1995 MiNr1793 Vinzenz-Konferenz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vinzenz von Paul",
+          "beschriftung": "Vinzenz",
+          "haupt": true,
+          "artikel": "Vinzenz von Paul",
+          "wikidata": "Q244413"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1794",
+      "block": "Block 31",
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50. Jahrestag der Beendigung des Zweiten Weltkrieges",
+      "bild_beschreibung": "Zerstörung von Städten und Dörfern",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 8045000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweiter Weltkrieg",
+          "beschriftung": "Zweiten Weltkrieges",
+          "haupt": true,
+          "artikel": "Zweiter Weltkrieg",
+          "wikidata": "Q362"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1795",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50. Jahrestag der Beendigung des Zweiten Weltkrieges",
+      "bild_beschreibung": "Vertreibung und Verlust der Heimat",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 8045000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweiter Weltkrieg",
+          "beschriftung": "Zweiten Weltkrieges",
+          "haupt": true,
+          "artikel": "Zweiter Weltkrieg",
+          "wikidata": "Q362"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1796",
+      "block": "Block 32",
+      "art": "Sondermarke",
+      "ausgabetag": "1995-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50. Jahrestag der Befreiung der Gefangenen aus den Konzentrationslagern",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 8050000,
+      "commons_datei": "Briefmarke Konzentrationslager.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "Konzentrationslager",
+          "haupt": true,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1797",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Kleiner Münsterländer",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3670000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kleiner Münsterländer",
+          "beschriftung": "Kleiner Münsterländer",
+          "haupt": true,
+          "artikel": "Kleiner Münsterländer",
+          "wikidata": "Q38036"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1798",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Mittelschnauzer",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3720000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mittelschnauzer",
+          "beschriftung": "Mittelschnauzer",
+          "haupt": true,
+          "artikel": "Schnauzer",
+          "wikidata": "Q38421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1799",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Deutscher Schäferhund",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3825000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Schäferhund",
+          "beschriftung": "Deutscher Schäferhund",
+          "haupt": true,
+          "artikel": "Deutscher Schäferhund",
+          "wikidata": "Q38280"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1800",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Rauhaardackel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3925000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rauhaardackel",
+          "beschriftung": "Rauhaardackel",
+          "haupt": true,
+          "artikel": "Dackel",
+          "wikidata": "Q29099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1801",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Hunderassen",
+      "bild_beschreibung": "Wolfsspitz",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3555000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wolfsspitz",
+          "beschriftung": "Wolfsspitz",
+          "haupt": true,
+          "artikel": "Wolfsspitz",
+          "wikidata": "Q38843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1802",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Nord-Ostsee-Kanal",
+      "bild_beschreibung": "",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 1995 Briefmarke NOKanal.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nord-Ostsee-Kanal",
+          "beschriftung": "Nord-Ostsee-Kanal",
+          "haupt": true,
+          "artikel": "Nord-Ostsee-Kanal",
+          "wikidata": "Q144825"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1803",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Radio, Guglielmo Marconi",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Irland, Italien, San Marino und Vatikanstadt",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 49400000,
+      "commons_datei": "Stamp Germany 1995 Briefmarke 100 Jahre Radio.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Radio",
+          "beschriftung": "Radio",
+          "haupt": true,
+          "artikel": "Radio",
+          "wikidata": "Q11078863"
+        },
+        {
+          "titel": "Guglielmo Marconi",
+          "beschriftung": "Guglielmo Marconi",
+          "haupt": false,
+          "artikel": "Guglielmo Marconi",
+          "wikidata": "Q36488"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Irland",
+          "beschriftung": "Irland",
+          "haupt": false,
+          "artikel": "Irland",
+          "wikidata": "Q27"
+        },
+        {
+          "titel": "Italien",
+          "beschriftung": "Italien",
+          "haupt": false,
+          "artikel": "Italien",
+          "wikidata": "Q38"
+        },
+        {
+          "titel": "San Marino",
+          "beschriftung": "San Marino",
+          "haupt": false,
+          "artikel": "San Marino",
+          "wikidata": "Q238"
+        },
+        {
+          "titel": "Vatikanstadt",
+          "beschriftung": "Vatikanstadt",
+          "haupt": false,
+          "artikel": "Vatikanstadt",
+          "wikidata": "Q237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1804",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-06-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Vereinte Nationen",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 21000000,
+      "commons_datei": "Stamp Germany 1995 MiNr1804 Vereinte Nationen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": true,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1805",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-07-06",
+      "wert": "400",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800. Todestag von Heinrich dem Löwen",
+      "bild_beschreibung": "Herzog von Bayern und Sachsen",
+      "entwerfer": "Albrecht von Bodecker",
+      "auflage": 19480000,
+      "commons_datei": "Stamp Germany 1995 MiNr1805 Heinrich der Löwe.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich der Löwe",
+          "beschriftung": "Heinrich dem Löwen",
+          "haupt": true,
+          "artikel": "Heinrich der Löwe",
+          "wikidata": "Q105378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1806",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-07-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Carl Orff",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 59550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Orff",
+          "beschriftung": "Carl Orff",
+          "haupt": true,
+          "artikel": "Carl Orff",
+          "wikidata": "Q44086"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1807",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-07-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Fränkische Schweiz (Tüchersfeld)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 38584000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fränkische Schweiz",
+          "beschriftung": "Fränkische Schweiz",
+          "haupt": true,
+          "artikel": "Fränkische Schweiz",
+          "wikidata": "Q702543"
+        },
+        {
+          "titel": "Tüchersfeld",
+          "beschriftung": "Tüchersfeld",
+          "haupt": false,
+          "artikel": "Tüchersfeld",
+          "wikidata": "Q2464324"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1808",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-07-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Havellandschaft in Berlin (Pfaueninsel)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 40534000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Havel",
+          "beschriftung": "Havel",
+          "haupt": true,
+          "artikel": "Havel",
+          "wikidata": "Q1682"
+        },
+        {
+          "titel": "Pfaueninsel",
+          "beschriftung": "Pfaueninsel",
+          "haupt": false,
+          "artikel": "Pfaueninsel",
+          "wikidata": "Q677973"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1809",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-07-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Oberlausitz (Zittauer Gebirge)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 37894000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Oberlausitz",
+          "beschriftung": "Oberlausitz",
+          "haupt": true,
+          "artikel": "Oberlausitz",
+          "wikidata": "Q7943"
+        },
+        {
+          "titel": "Zittauer Gebirge",
+          "beschriftung": "Zittauer Gebirge",
+          "haupt": false,
+          "artikel": "Zittauer Gebirge",
+          "wikidata": "Q206587"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1810",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-07-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Sauerland (Hallenberg)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 41714000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sauerland",
+          "beschriftung": "Sauerland",
+          "haupt": true,
+          "artikel": "Sauerland",
+          "wikidata": "Q4194"
+        },
+        {
+          "titel": "Hallenberg",
+          "beschriftung": "Hallenberg",
+          "haupt": false,
+          "artikel": "Hallenberg",
+          "wikidata": "Q5644"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1812",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-08-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Kaiser-Wilhelm-Gedächtniskirche",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 29680000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1813",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-08-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Franz Werfel",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 24300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Werfel",
+          "beschriftung": "Franz Werfel",
+          "haupt": true,
+          "artikel": "Franz Werfel",
+          "wikidata": "Q78514"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1814",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-09-06",
+      "wert": "200+100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Postzustellerin auf Fahrrad",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 2850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "zusteller",
+          "beschriftung": "zusteller",
+          "haupt": false,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "Postfahrrad",
+          "beschriftung": "Fahrrad",
+          "haupt": false,
+          "artikel": "Postfahrrad",
+          "wikidata": "Q2106039"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1815",
+      "block": "Block 33",
+      "art": "Sondermarke",
+      "ausgabetag": "1995-09-06",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 100 Jahre deutscher Film",
+      "bild_beschreibung": "Filmszene aus Metropolis von Fritz Lang",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Metropolis (1927)",
+          "beschriftung": "Metropolis",
+          "haupt": true,
+          "artikel": "Metropolis (Film)",
+          "wikidata": "Q151599"
+        },
+        {
+          "titel": "Fritz Lang",
+          "beschriftung": "Fritz Lang",
+          "haupt": false,
+          "artikel": "Fritz Lang",
+          "wikidata": "Q19504"
+        },
+        {
+          "titel": "deutscher Film",
+          "beschriftung": "deutscher Film",
+          "haupt": false,
+          "artikel": "Deutscher Film",
+          "wikidata": "Q688510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1816",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-09-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 100 Jahre deutscher Film",
+      "bild_beschreibung": "Filmszene aus Der Untertan von Wolfgang Staudte",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der Untertan (Film)",
+          "beschriftung": "Der Untertan",
+          "haupt": true,
+          "artikel": "Der Untertan (Film)",
+          "wikidata": "Q316628"
+        },
+        {
+          "titel": "Wolfgang Staudte",
+          "beschriftung": "Wolfgang Staudte",
+          "haupt": false,
+          "artikel": "Wolfgang Staudte",
+          "wikidata": "Q69159"
+        },
+        {
+          "titel": "deutscher Film",
+          "beschriftung": "deutscher Film",
+          "haupt": false,
+          "artikel": "Deutscher Film",
+          "wikidata": "Q688510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1817",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-09-06",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 100 Jahre deutscher Film",
+      "bild_beschreibung": "Filmszene aus Der Himmel über Berlin von Wim Wenders",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der Himmel über Berlin",
+          "beschriftung": "Der Himmel über Berlin",
+          "haupt": true,
+          "artikel": "Der Himmel über Berlin",
+          "wikidata": "Q156911"
+        },
+        {
+          "titel": "Wim Wenders",
+          "beschriftung": "Wim Wenders",
+          "haupt": false,
+          "artikel": "Wim Wenders",
+          "wikidata": "Q55411"
+        },
+        {
+          "titel": "deutscher Film",
+          "beschriftung": "deutscher Film",
+          "haupt": false,
+          "artikel": "Deutscher Film",
+          "wikidata": "Q688510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1818",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-09-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "80. Geburtstag von Franz Josef Strauß",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Josef Strauß",
+          "beschriftung": "Franz Josef Strauß",
+          "haupt": true,
+          "artikel": "Franz Josef Strauß",
+          "wikidata": "Q44620"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1819",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Eifel",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4380000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eifel",
+          "beschriftung": "Eifel",
+          "haupt": true,
+          "artikel": "Eifel",
+          "wikidata": "Q152356"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1820",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Sachsen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4625000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sachsen",
+          "beschriftung": "Sachsen",
+          "haupt": true,
+          "artikel": "Sachsen",
+          "wikidata": "Q1202"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1821",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Norddeutschland",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 19525000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Norddeutschland",
+          "beschriftung": "Norddeutschland",
+          "haupt": true,
+          "artikel": "Norddeutschland",
+          "wikidata": "Q46613"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1822",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Oberbayern",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 19100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Oberbayern",
+          "beschriftung": "Oberbayern",
+          "haupt": true,
+          "artikel": "Oberbayern",
+          "wikidata": "Q10562"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1823",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "200+70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Bauernhäuser in Deutschland",
+      "bild_beschreibung": "Mecklenburg",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 7290000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburg",
+          "beschriftung": "Mecklenburg",
+          "haupt": true,
+          "artikel": "Mecklenburg",
+          "wikidata": "Q109057"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1824",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Kurt Schumacher",
+      "bild_beschreibung": "",
+      "entwerfer": "Angelika Winkhaus",
+      "auflage": 24000000,
+      "commons_datei": "Kurt Schumacher.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kurt Schumacher",
+          "beschriftung": "Kurt Schumacher",
+          "haupt": true,
+          "artikel": "Kurt Schumacher",
+          "wikidata": "Q57465"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1825",
+      "block": "Block 34",
+      "art": "Sondermarke",
+      "ausgabetag": "1995-10-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Tierversammlung",
+      "entwerfer": "Christiane Hemmerich",
+      "auflage": 12100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1826",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Leopold von Ranke",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 45800000,
+      "commons_datei": "Stamp Germany 1995 MiNr1826 Leopold von Ranke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leopold von Ranke",
+          "beschriftung": "Leopold von Ranke",
+          "haupt": true,
+          "artikel": "Leopold von Ranke",
+          "wikidata": "Q77184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1827",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Paul Hindemith",
+      "bild_beschreibung": "",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 22870000,
+      "commons_datei": "Paul Hindemith - stamp - Germany 1995.png",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Hindemith",
+          "beschriftung": "Paul Hindemith",
+          "haupt": true,
+          "artikel": "Paul Hindemith",
+          "wikidata": "Q57244"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1828",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Alfred-Nobel-Testament",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Schweden",
+      "entwerfer": "Svenolov Ehrén",
+      "auflage": 25500000,
+      "commons_datei": "Stamp Germany 1995 MiNr1828 Alfred Nobel Testament.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alfred-Nobel-Testament",
+          "beschriftung": "Alfred-Nobel-Testament",
+          "haupt": true,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Schweden",
+          "beschriftung": "Schweden",
+          "haupt": false,
+          "artikel": "Schweden",
+          "wikidata": "Q34"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1829",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Hilfsorganisation CARE",
+      "bild_beschreibung": "",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "CARE",
+          "beschriftung": "CARE",
+          "haupt": true,
+          "artikel": "CARE International",
+          "wikidata": "Q699385"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1830",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Den Opfern von Teilung und Gewalt",
+      "bild_beschreibung": "Berliner Mauer",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 28150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Mauer",
+          "beschriftung": "Berliner Mauer",
+          "haupt": true,
+          "artikel": "Berliner Mauer",
+          "wikidata": "Q5086"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1831",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weihnachten",
+      "bild_beschreibung": "Mariä Verkündigung, Details aus dem Marienfenster des Doms zu Augsburg",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 5300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mariä Verkündigung",
+          "beschriftung": "Mariä Verkündigung",
+          "haupt": true,
+          "artikel": "Verkündigung des Herrn",
+          "wikidata": "Q154326"
+        },
+        {
+          "titel": "Dom Mariä Heimsuchung (Augsburg)",
+          "beschriftung": "Doms zu Augsburg",
+          "haupt": false,
+          "artikel": "Augsburger Dom",
+          "wikidata": "Q279089"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1832",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weihnachten",
+      "bild_beschreibung": "Christi Geburt, Details aus dem Marienfenster des Doms zu Augsburg",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 9560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christi Geburt",
+          "beschriftung": "Christi Geburt",
+          "haupt": true,
+          "artikel": "Weihnachten",
+          "wikidata": "Q19809"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1833",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1995-11-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutscher Fußballmeister",
+      "bild_beschreibung": "Borussia Dortmund",
+      "entwerfer": "Margit Zauner",
+      "auflage": 27980000,
+      "commons_datei": "Deutscher Fußballmeister 1995-Borussia Dortmund.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "beschriftung": "Deutscher Fußballmeister",
+          "haupt": true,
+          "artikel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "wikidata": "Q1204881"
+        },
+        {
+          "titel": "Borussia Dortmund",
+          "beschriftung": "Borussia Dortmund",
+          "haupt": false,
+          "artikel": "Borussia Dortmund",
+          "wikidata": "Q41420"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1811",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1995-08-10",
+      "wert": "640",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Dom zu Speyer",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 48925000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        },
+        {
+          "titel": "Speyerer Dom",
+          "beschriftung": "Dom zu Speyer",
+          "haupt": false,
+          "artikel": "Speyerer Dom",
+          "wikidata": "Q22720"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1902 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2017,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2017 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2017_der_Bundesrepublik_Deutschland",
+    "revision": 263567644,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3274,
+    "mi_nr_bis": 3350,
+    "luecken": [
+      3281,
+      3294,
+      3302,
+      3312
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 67,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3274",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Das Mädchen mit dem Weinglas (Jan Vermeer)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 5413000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Mädchen mit dem Weinglas",
+          "beschriftung": "Das Mädchen mit dem Weinglas",
+          "haupt": true,
+          "artikel": "Das Mädchen mit dem Weinglas",
+          "wikidata": "Q1169874"
+        },
+        {
+          "titel": "Jan Vermeer",
+          "beschriftung": "Jan Vermeer",
+          "haupt": false,
+          "artikel": "Jan Vermeer",
+          "wikidata": "Q41264"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3275",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Pfefferfresser, Jungfernkranich und Haubenkranich in einer Landschaft (Jean-Baptiste Oudry)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 5413000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jean-Baptiste Oudry",
+          "beschriftung": "Jean-Baptiste Oudry",
+          "haupt": true,
+          "artikel": "Jean-Baptiste Oudry",
+          "wikidata": "Q737137"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3276",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Stiftung Topographie des Terrors",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Beyrow",
+      "auflage": 3909000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Topographie des Terrors",
+          "beschriftung": "Topographie des Terrors",
+          "haupt": true,
+          "artikel": "Topographie des Terrors",
+          "wikidata": "Q819081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3277",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "260",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Die Bibel in der Übersetzung Martin Luthers",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Krüll",
+      "auflage": 15463000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bibel",
+          "beschriftung": "Bibel",
+          "haupt": true,
+          "artikel": "Bibel",
+          "wikidata": "Q1845"
+        },
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": false,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3278",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Eröffnung der Elbphilharmonie",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 4865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elbphilharmonie",
+          "beschriftung": "Elbphilharmonie",
+          "haupt": true,
+          "artikel": "Elbphilharmonie",
+          "wikidata": "Q673223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3279",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dampfschiff „Die Weser“",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 330380000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dampfschiff",
+          "beschriftung": "Dampfschiff",
+          "haupt": true,
+          "artikel": "Dampfschiff",
+          "wikidata": "Q178193"
+        },
+        {
+          "titel": "Die Weser",
+          "beschriftung": "Die Weser",
+          "haupt": false,
+          "artikel": "Die Weser",
+          "wikidata": "Q972977"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3280",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-01-02",
+      "wert": "je 70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Das Mädchen mit dem Weinglas; Pfefferfresser, Jungfernkranich und Haubenkranich in einer Landschaft (Jean-Baptiste Oudry); selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 267609000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3282",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-02-09",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "zur Unterstützung der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Bremer Stadtmusikanten: Freunde treffen",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 2997000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremer Stadtmusikanten",
+          "beschriftung": "Bremer Stadtmusikanten",
+          "haupt": true,
+          "artikel": "Die Bremer Stadtmusikanten",
+          "wikidata": "Q112015"
+        },
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3283",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-02-09",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "Bremer Stadtmusikanten: Der Überfall",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 3724000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3284",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-02-09",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "Bremer Stadtmusikanten: Im neuen Zuhause",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 5282000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3285",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-02-09",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Ludwigsburg",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 5347000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Residenzschloss Ludwigsburg",
+          "beschriftung": "Schloss Ludwigsburg",
+          "haupt": true,
+          "artikel": "Residenzschloss Ludwigsburg",
+          "wikidata": "Q704831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3286",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-02-09",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Eröffnung der Elbphilharmonie",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 180740000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3287",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-02-09",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen",
+      "bild_beschreibung": "Die Bremer Stadtmusikanten: Freunde treffen; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 13894000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Iltis",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 3783000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Iltis",
+          "beschriftung": "Iltis",
+          "haupt": true,
+          "artikel": "Iltisse",
+          "wikidata": "Q30097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Wildschwein",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 3783000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wildschwein",
+          "beschriftung": "Wildschwein",
+          "haupt": true,
+          "artikel": "Wildschwein",
+          "wikidata": "Q58697"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Stadt Neunburg vorm Wald",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 4871000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Neunburg vorm Wald",
+          "beschriftung": "Neunburg vorm Wald",
+          "haupt": true,
+          "artikel": "Neunburg vorm Wald",
+          "wikidata": "Q522691"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "G20-Präsidentschaft Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 16257000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gruppe der zwanzig wichtigsten Industrie- und Schwellenländer",
+          "beschriftung": "G20-",
+          "haupt": true,
+          "artikel": "G20",
+          "wikidata": "Q19771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Otto Waalkes: Bunter Gruß vom Ottifant",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 5402000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Waalkes",
+          "beschriftung": "Otto Waalkes",
+          "haupt": true,
+          "artikel": "Otto Waalkes",
+          "wikidata": "Q59485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "je 85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Wildschwein; Iltis; selbstklebend aus Folienblatt",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 56700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Otto Waalkes: Bunter Gruß vom Ottifant",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 53350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-04-13",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Automobil-Klassiker (1950er bis 1980er Jahre)",
+      "bild_beschreibung": "Opel Manta A",
+      "entwerfer": "Thomas Serres",
+      "auflage": 3684000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opel Manta A",
+          "beschriftung": "Opel Manta A",
+          "haupt": true,
+          "artikel": "Opel Manta A",
+          "wikidata": "Q90926117"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-04-13",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Automobil-Klassiker (1950er bis 1980er Jahre)",
+      "bild_beschreibung": "VW Golf 1",
+      "entwerfer": "Thomas Serres",
+      "auflage": 3694000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "VW Golf 1",
+          "beschriftung": "VW Golf 1",
+          "haupt": true,
+          "artikel": "VW Golf I",
+          "wikidata": "Q1545536"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-04-13",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft",
+      "entwerfer": "Nina Clausing",
+      "auflage": 3777000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Rammelsberg",
+          "beschriftung": "Rammelsberg",
+          "haupt": false,
+          "artikel": "Rammelsberg",
+          "wikidata": "Q155999"
+        },
+        {
+          "titel": "Goslar",
+          "beschriftung": "Goslar",
+          "haupt": false,
+          "artikel": "Goslar",
+          "wikidata": "Q3896"
+        },
+        {
+          "titel": "Oberharzer Wasserwirtschaft",
+          "beschriftung": "Oberharzer Wasserwirtschaft",
+          "haupt": false,
+          "artikel": "Oberharzer Wasserregal",
+          "wikidata": "Q519907"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-04-13",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Reformation",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Brasilien",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 6419000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reformation",
+          "beschriftung": "Reformation",
+          "haupt": true,
+          "artikel": "Reformation",
+          "wikidata": "Q12562"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Brasilien",
+          "beschriftung": "Brasilien",
+          "haupt": false,
+          "artikel": "Brasilien",
+          "wikidata": "Q155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-04-13",
+      "wert": "je 90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Automobil-Klassiker (1950er bis 1980er Jahre)",
+      "bild_beschreibung": "Opel Manta A; VW Golf 1; selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Serres",
+      "auflage": 11305000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3305",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schreibanlässe",
+      "bild_beschreibung": "Trauer",
+      "entwerfer": "Regina Kehn",
+      "auflage": 3616000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3306",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schreibanlässe",
+      "bild_beschreibung": "Einladung",
+      "entwerfer": "Regina Kehn",
+      "auflage": 3618000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3307",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – 50 Jahre Deutsche Sporthilfe",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Leistung",
+      "entwerfer": "Wilfried Korfmacher",
+      "auflage": 2416000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – 50 Jahre Deutsche Sporthilfe",
+      "bild_beschreibung": "Fairplay",
+      "entwerfer": "Wilfried Korfmacher",
+      "auflage": 2129000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – 50 Jahre Deutsche Sporthilfe",
+      "bild_beschreibung": "Miteinander",
+      "entwerfer": "Wilfried Korfmacher",
+      "auflage": 2389000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serien: Burgen und Schlösser und Europa",
+      "bild_beschreibung": "Wartburg",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 5425000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Wartburg",
+          "beschriftung": "Wartburg",
+          "haupt": false,
+          "artikel": "Wartburg",
+          "wikidata": "Q151545"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "je 70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serien: Burgen und Schlösser",
+      "bild_beschreibung": "Wartburg; Schloss Ludwigsburg; selbstklebend aus Folienblatt",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 31860000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3313",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Trauermarke",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Regina Kehn",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-06-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Kiel-Holtenau",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4432000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Holtenau",
+          "beschriftung": "Kiel-Holtenau",
+          "haupt": true,
+          "artikel": "Leuchtturm Holtenau",
+          "wikidata": "Q1680064"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-06-08",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Bremerhaven Unterfeuer",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4821000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": true,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-06-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Heinz Sielmann",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 3849000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinz Sielmann",
+          "beschriftung": "Heinz Sielmann",
+          "haupt": true,
+          "artikel": "Heinz Sielmann",
+          "wikidata": "Q77844"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-06-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Heinz Sielmann",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 88560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-07-13",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Fahrrad – 1817 Karl Drais",
+      "bild_beschreibung": "",
+      "entwerfer": "Rudolf Grüttner und Sabine Matthes",
+      "auflage": 5146000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrrad",
+          "haupt": true,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Karl Drais",
+          "beschriftung": "Karl Drais",
+          "haupt": false,
+          "artikel": "Karl von Drais",
+          "wikidata": "Q77122"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-07-13",
+      "wert": "320",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Norddeutscher Bund",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4132000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Norddeutscher Bund",
+          "beschriftung": "Norddeutscher Bund",
+          "haupt": true,
+          "artikel": "Norddeutscher Bund",
+          "wikidata": "Q150981"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3322",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-07-13",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Menschliches Haar",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 4775000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3323",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-07-13",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Vitamin C",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3245000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vitamin C",
+          "beschriftung": "Vitamin C",
+          "haupt": true,
+          "artikel": "Ascorbinsäure",
+          "wikidata": "Q193598"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive aus der Augsburger Puppenkiste",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Urmel aus dem Eis",
+      "entwerfer": "Anna Berkenbusch und Christian Gralingen",
+      "auflage": 1786000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Augsburger Puppenkiste",
+          "beschriftung": "Augsburger Puppenkiste",
+          "haupt": false,
+          "artikel": "Augsburger Puppenkiste",
+          "wikidata": "Q760558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive aus der Augsburger Puppenkiste",
+      "bild_beschreibung": "Kleiner König Kalle Wirsch",
+      "entwerfer": "Anna Berkenbusch und Christian Gralingen",
+      "auflage": 1789000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Augsburger Puppenkiste",
+          "beschriftung": "Augsburger Puppenkiste",
+          "haupt": true,
+          "artikel": "Augsburger Puppenkiste",
+          "wikidata": "Q760558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive aus der Augsburger Puppenkiste",
+      "bild_beschreibung": "Kater Mikesch",
+      "entwerfer": "Anna Berkenbusch und Christian Gralingen",
+      "auflage": 1787800,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Augsburger Puppenkiste",
+          "beschriftung": "Augsburger Puppenkiste",
+          "haupt": true,
+          "artikel": "Augsburger Puppenkiste",
+          "wikidata": "Q760558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Fruchtbringende Gesellschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 3775000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fruchtbringende Gesellschaft",
+          "beschriftung": "Fruchtbringende Gesellschaft",
+          "haupt": true,
+          "artikel": "Fruchtbringende Gesellschaft",
+          "wikidata": "Q559186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Farbfernsehen in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": 5317000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Farbfernsehen",
+          "beschriftung": "Farbfernsehen",
+          "haupt": true,
+          "artikel": "Farbfernsehen",
+          "wikidata": "Q849194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Design aus Deutschland",
+      "bild_beschreibung": "Glasgefäße; selbstklebend aus Rolle",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 69097000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3331",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-09-07",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Comic Fix und Foxi",
+      "entwerfer": "Wilfried Korfmacher",
+      "auflage": 1787000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Fix und Foxi",
+          "beschriftung": "Fix und Foxi",
+          "haupt": false,
+          "artikel": "Fix und Foxi",
+          "wikidata": "Q516148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-09-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag August Wilhelm Schlegel",
+      "bild_beschreibung": "",
+      "entwerfer": "Birgit Hogrefe",
+      "auflage": 3235000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "August Wilhelm Schlegel",
+          "beschriftung": "August Wilhelm Schlegel",
+          "haupt": true,
+          "artikel": "August Wilhelm Schlegel",
+          "wikidata": "Q57281"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-09-07",
+      "wert": "250",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Walther Rathenau",
+      "bild_beschreibung": "",
+      "entwerfer": "Jens Müller",
+      "auflage": 3026000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Walther Rathenau",
+          "beschriftung": "Walther Rathenau",
+          "haupt": true,
+          "artikel": "Walther Rathenau",
+          "wikidata": "Q135645"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-09-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weinanbaugebiete Deutschlands",
+      "bild_beschreibung": "",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 5271000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weinbau in Deutschland",
+          "beschriftung": "Weinanbaugebiete Deutschlands",
+          "haupt": true,
+          "artikel": "Weinbau in Deutschland",
+          "wikidata": "Q833872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-10-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Fernsehlegenden",
+      "bild_beschreibung": "Das Millionenspiel",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 4890000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Fernsehlegenden",
+          "beschriftung": "Deutsche Fernsehlegenden",
+          "haupt": true,
+          "artikel": "Deutsche Fernsehlegenden",
+          "wikidata": "Q75045420"
+        },
+        {
+          "titel": "Das Millionenspiel",
+          "beschriftung": "Das Millionenspiel",
+          "haupt": false,
+          "artikel": "Das Millionenspiel",
+          "wikidata": "Q880820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-10-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Badische Weinstraße",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2474000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Badische Weinstraße",
+          "beschriftung": "Badische Weinstraße",
+          "haupt": true,
+          "artikel": "Badische Weinstraße",
+          "wikidata": "Q9294232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-10-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Badische Weinstraße",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2474000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Badische Weinstraße",
+          "beschriftung": "Badische Weinstraße",
+          "haupt": true,
+          "artikel": "Badische Weinstraße",
+          "wikidata": "Q9294232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3338",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-10-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag Johann Joachim Winckelmann",
+      "bild_beschreibung": "",
+      "entwerfer": "Susann Stefanizen",
+      "auflage": 4267000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Joachim Winckelmann",
+          "beschriftung": "Johann Joachim Winckelmann",
+          "haupt": true,
+          "artikel": "Johann Joachim Winckelmann",
+          "wikidata": "Q57280"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-10-12",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsche Kommission Justitia et Pax",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Krüll",
+      "auflage": 3880000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Kommission Justitia et Pax",
+          "beschriftung": "Deutsche Kommission Justitia et Pax",
+          "haupt": true,
+          "artikel": "Deutsche Kommission Justitia et Pax",
+          "wikidata": "Q1203239"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Vom Himmel hoch",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 3215000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Mecklenburgische Seenplatte",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4275000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburgische Seenplatte",
+          "beschriftung": "Mecklenburgische Seenplatte",
+          "haupt": true,
+          "artikel": "Mecklenburgische Seenplatte",
+          "wikidata": "Q701658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Reinhardswald",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 3245000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reinhardswald",
+          "beschriftung": "Reinhardswald",
+          "haupt": true,
+          "artikel": "Reinhardswald",
+          "wikidata": "Q179378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3343",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "190",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Theodor Mommsen",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 3221000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Theodor Mommsen",
+          "beschriftung": "Theodor Mommsen",
+          "haupt": true,
+          "artikel": "Theodor Mommsen",
+          "wikidata": "Q25351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtliche Kapelle",
+      "bild_beschreibung": "",
+      "entwerfer": "Bettina Walter und Jennifer Dengler",
+      "auflage": 6502000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Vom Himmel hoch; selbstklebend aus Folienblatt",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 5510000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtliche Kapelle",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Bettina Walter und Jennifer Dengler",
+      "auflage": 70230000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-12-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Astrophysik",
+      "bild_beschreibung": "GAIA-Satellit",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3375000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gaia (Weltraumteleskop)",
+          "beschriftung": "GAIA-Satellit",
+          "haupt": true,
+          "artikel": "Gaia (Weltraumteleskop)",
+          "wikidata": "Q767805"
+        },
+        {
+          "titel": "Astrophysik",
+          "beschriftung": "Astrophysik",
+          "haupt": false,
+          "artikel": "Astrophysik",
+          "wikidata": "Q37547"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3348",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-12-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Astrophysik",
+      "bild_beschreibung": "Gravitationswellen",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3821000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gravitationswellen",
+          "beschriftung": "Gravitationswellen",
+          "haupt": true,
+          "artikel": "Gravitationswelle",
+          "wikidata": "Q190035"
+        },
+        {
+          "titel": "Astrophysik",
+          "beschriftung": "Astrophysik",
+          "haupt": false,
+          "artikel": "Astrophysik",
+          "wikidata": "Q37547"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-12-07",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Design aus Deutschland",
+      "bild_beschreibung": "Lindinger Straßenbahn Stuttgart",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 3865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SSB DT 8",
+          "beschriftung": "Lindinger Straßenbahn Stuttgart",
+          "haupt": true,
+          "artikel": "SSB DT 8",
+          "wikidata": "Q1686776"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2017-12-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Heinrich Böll",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4307000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Böll",
+          "beschriftung": "Heinrich Böll",
+          "haupt": true,
+          "artikel": "Heinrich Böll",
+          "wikidata": "Q42747"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3296",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2017-04-13",
+      "wert": "5",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Phlox",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flammenblumen",
+          "beschriftung": "Phlox",
+          "haupt": true,
+          "artikel": "Flammenblumen",
+          "wikidata": "Q652016"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3303",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Seerose",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 42217500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seerosen",
+          "beschriftung": "Seerose",
+          "haupt": true,
+          "artikel": "Seerosen",
+          "wikidata": "Q146628"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3304",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2017-05-11",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Johanniskraut",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 22660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johanniskräuter",
+          "beschriftung": "Johanniskraut",
+          "haupt": true,
+          "artikel": "Johanniskräuter",
+          "wikidata": "Q156935"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3314",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2017-06-08",
+      "wert": "10",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Winterling",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Winterling",
+          "beschriftung": "Winterling",
+          "haupt": true,
+          "artikel": "Winterling",
+          "wikidata": "Q161553"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3315",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2017-06-08",
+      "wert": "20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Hasenglöckchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hasenglöckchen",
+          "beschriftung": "Hasenglöckchen",
+          "haupt": true,
+          "artikel": "Hasenglöckchen",
+          "wikidata": "Q159311"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3324",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2017-08-10",
+      "wert": "345",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Vergissmeinnicht",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2444600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vergissmeinnicht",
+          "beschriftung": "Vergissmeinnicht",
+          "haupt": true,
+          "artikel": "Vergissmeinnicht",
+          "wikidata": "Q147149"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "ATM 8",
+      "block": null,
+      "art": "Automatenmarke",
+      "ausgabetag": "2017-01-03",
+      "wert": "0,01 – 36,75",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Automatenmarke",
+      "bild_beschreibung": "Briefe schreiben",
+      "entwerfer": "Thomas Serres",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Automatenmarke (Deutschland)",
+          "beschriftung": "Automatenmarke",
+          "haupt": true,
+          "artikel": "Automatenmarke (Deutschland)",
+          "wikidata": "Q787137"
+        }
+      ]
+    },
+    {
+      "mi_nr": "ATM 9",
+      "block": null,
+      "art": "Automatenmarke",
+      "ausgabetag": "2017-01-03",
+      "wert": "0,01 – 36,75",
+      "waehrung": "€",
+      "gueltig_bis": null,
+      "anlass": "Automatenmarke",
+      "bild_beschreibung": "Briefe empfangen",
+      "entwerfer": "Thomas Serres",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Automatenmarke (Deutschland)",
+          "beschriftung": "Automatenmarke",
+          "haupt": true,
+          "artikel": "Automatenmarke (Deutschland)",
+          "wikidata": "Q787137"
+        }
+      ]
+    }
+  ]
+}

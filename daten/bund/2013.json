@@ -1,0 +1,1724 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2013,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2013 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2013_der_Bundesrepublik_Deutschland",
+    "revision": 268074462,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2972,
+    "mi_nr_bis": 3046,
+    "luecken": [
+      2987
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 69,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2972",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Glücksburg",
+      "entwerfer": "Fienbork Elsenbach Design",
+      "auflage": 7900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Glücksburg (Glücksburg)",
+          "beschriftung": "Schloss Glücksburg",
+          "haupt": true,
+          "artikel": "Schloss Glücksburg (Glücksburg)",
+          "wikidata": "Q829299"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2973",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Kaiserburg Nürnberg",
+      "entwerfer": "Fienbork Elsenbach Design",
+      "auflage": 11350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nürnberger Burg",
+          "beschriftung": "Kaiserburg Nürnberg",
+          "haupt": true,
+          "artikel": "Nürnberger Burg",
+          "wikidata": "Q707396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2974",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "240",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei",
+      "bild_beschreibung": "Max Liebermann – Die Rasenbleiche",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 8450000,
+      "commons_datei": "DPAG 2013 Liebermann, Rasenbleiche.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Liebermann",
+          "beschriftung": "Max Liebermann",
+          "haupt": true,
+          "artikel": "Max Liebermann",
+          "wikidata": "Q158062"
+        },
+        {
+          "titel": "Die Rasenbleiche",
+          "beschriftung": "Die Rasenbleiche",
+          "haupt": false,
+          "artikel": "Die Rasenbleiche",
+          "wikidata": "Q57315012"
+        },
+        {
+          "titel": "Deutsche Malerei",
+          "beschriftung": "Deutsche Malerei",
+          "haupt": false,
+          "artikel": "Deutsche Malerei",
+          "wikidata": "Q1203446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2975",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Königin Nofretete",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 10700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Büste der Nofretete",
+          "beschriftung": "Königin Nofretete",
+          "haupt": true,
+          "artikel": "Büste der Nofretete",
+          "wikidata": "Q582172"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2976",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Ischtar-Tor",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 5860000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ischtar-Tor",
+          "beschriftung": "Ischtar-Tor",
+          "haupt": true,
+          "artikel": "Ischtar-Tor",
+          "wikidata": "Q26082"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2977",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Elysée-Vertrag",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Frankreich",
+      "entwerfer": "Thomas Serres",
+      "auflage": 4650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Elysée-Vertrag",
+          "beschriftung": "Elysée-Vertrag",
+          "haupt": true,
+          "artikel": "Élysée-Vertrag",
+          "wikidata": "Q274811"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2978",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Kaiserburg Nürnberg; selbstklebend aus Folienblatt",
+      "entwerfer": "Fienbork Elsenbach Design",
+      "auflage": 459190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2979",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-01-02",
+      "wert": "240",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei",
+      "bild_beschreibung": "Max Liebermann – Die Rasenbleiche; selbstklebend aus Markenheftchen",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 70000000,
+      "commons_datei": "DPAG 2013 Liebermann, Rasenbleiche.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2980",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Blühende Bäume",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.:; Linde",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 4580000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Linden (Botanik)",
+          "beschriftung": "Linde",
+          "haupt": true,
+          "artikel": "Linden (Gattung)",
+          "wikidata": "Q127849"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2981",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "90+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Blühende Bäume",
+      "bild_beschreibung": "Vogelkirsche",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 4980000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vogel-Kirsche",
+          "beschriftung": "Vogelkirsche",
+          "haupt": true,
+          "artikel": "Vogelkirsche",
+          "wikidata": "Q34320035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2982",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Blühende Bäume",
+      "bild_beschreibung": "Weiße Rosskastanie",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 7080000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosskastanie",
+          "beschriftung": "Rosskastanie",
+          "haupt": true,
+          "artikel": "Gewöhnliche Rosskastanie",
+          "wikidata": "Q26899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2983",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Berlin Gendarmenmarkt Motiv 1",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Gendarmenmarkt",
+          "beschriftung": "Gendarmenmarkt",
+          "haupt": false,
+          "artikel": "Gendarmenmarkt",
+          "wikidata": "Q170103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2984",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Berlin Gendarmenmarkt Motiv 2",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2985",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Frieden von Hubertusburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Wittig",
+      "auflage": 10700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frieden von Hubertusburg",
+          "beschriftung": "Frieden von Hubertusburg",
+          "haupt": true,
+          "artikel": "Friede von Hubertusburg",
+          "wikidata": "Q698686"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2986",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Blühende Bäume",
+      "bild_beschreibung": "Linde; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 18540000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2988",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-02-07",
+      "wert": "je 58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Berlin Gendarmenmarkt Motiv 1 und 2; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 50070000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2989",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "205",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "350. Geburtstag August Hermann Francke",
+      "bild_beschreibung": "",
+      "entwerfer": "Imme Leonardi und Alessio Leonardi",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "August Hermann Francke",
+          "beschriftung": "August Hermann Francke",
+          "haupt": true,
+          "artikel": "August Hermann Francke",
+          "wikidata": "Q58753"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2990",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Friedrich Hebbel",
+      "bild_beschreibung": "",
+      "entwerfer": "Birgit Hogrefe",
+      "auflage": 6640000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Hebbel",
+          "beschriftung": "Friedrich Hebbel",
+          "haupt": true,
+          "artikel": "Friedrich Hebbel",
+          "wikidata": "Q57182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2991",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Jugend musiziert",
+      "bild_beschreibung": "",
+      "entwerfer": "Kitty Kahane",
+      "auflage": 6350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jugend musiziert",
+          "beschriftung": "Jugend musiziert",
+          "haupt": true,
+          "artikel": "Jugend musiziert",
+          "wikidata": "Q1711230"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2992",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Segelboot von Janosch",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 6200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Janosch",
+          "beschriftung": "Janosch",
+          "haupt": true,
+          "artikel": "Janosch",
+          "wikidata": "Q77206"
+        },
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": false,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2993",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Ostern von Janosch",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2994",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Königin Nofretete; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 307800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": true,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2995",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Segelboot von Janosch",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 61750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2996",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-03-01",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Ostern von Janosch; selbstklebend aus Folienblatt",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 73200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2997",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Gründung Allgemeiner Deutscher Arbeiterverein",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 5680000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Allgemeiner Deutscher Arbeiterverein",
+          "beschriftung": "Allgemeiner Deutscher Arbeiterverein",
+          "haupt": true,
+          "artikel": "Allgemeiner Deutscher Arbeiterverein",
+          "wikidata": "Q565426"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2998",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Rotes Kreuz",
+      "bild_beschreibung": "",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 7400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "beschriftung": "Rotes Kreuz",
+          "haupt": true,
+          "artikel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "wikidata": "Q7178"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2999",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsches Sportabzeichen",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 5900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Sportabzeichen",
+          "beschriftung": "Deutsches Sportabzeichen",
+          "haupt": true,
+          "artikel": "Deutsches Sportabzeichen",
+          "wikidata": "Q314329"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3000",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Möhnetalsperre",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerda M. Neumann und Horst F. Neumann",
+      "auflage": 5170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Möhnetalsperre",
+          "beschriftung": "Möhnetalsperre",
+          "haupt": true,
+          "artikel": "Möhnetalsperre",
+          "wikidata": "Q677151"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3001",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Fehmarnsundbrücke",
+      "bild_beschreibung": "",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 4150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fehmarnsundbrücke",
+          "beschriftung": "Fehmarnsundbrücke",
+          "haupt": true,
+          "artikel": "Fehmarnsundbrücke",
+          "wikidata": "Q503740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3002",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Ischtar-Tor; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 120060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3003",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-04-04",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Fehmarnsundbrücke",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 54200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3004",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-05-02",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Sprintmaus von Uli Stein",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 2531000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Uli Stein (Cartoonist)",
+          "beschriftung": "Uli Stein",
+          "haupt": false,
+          "artikel": "Uli Stein (Cartoonist)",
+          "wikidata": "Q99908"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3005",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-05-02",
+      "wert": "90+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Surfmaus von Uli Stein",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 2491000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3006",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-05-02",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Barrenmaus von Uli Stein",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 2495000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3007",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-05-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Postfahrzeuge",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 5880000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Postfahrzeug",
+          "beschriftung": "Postfahrzeug",
+          "haupt": false,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3008",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-05-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Richard Wagner",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Richard Wagner",
+          "beschriftung": "Richard Wagner",
+          "haupt": true,
+          "artikel": "Richard Wagner",
+          "wikidata": "Q1511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3009",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-05-02",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Möhnetalsperre",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Gerda M. Neumann und Horst F. Neumann",
+      "auflage": 213160000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3010",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Flügge",
+      "entwerfer": "Johannes Graf",
+      "auflage": 6600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Flügge",
+          "beschriftung": "Leuchtturm Flügge",
+          "haupt": true,
+          "artikel": "Leuchtturm Flügge",
+          "wikidata": "Q1821427"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3011",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Büsum",
+      "entwerfer": "Johannes Graf",
+      "auflage": 6400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Büsum",
+          "beschriftung": "Leuchtturm Büsum",
+          "haupt": true,
+          "artikel": "Leuchtturm Büsum",
+          "wikidata": "Q1664973"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3012",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Rosenschau Forst (Lausitz)",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ostdeutscher Rosengarten Forst (Lausitz)",
+          "beschriftung": "Deutsche Rosenschau",
+          "haupt": true,
+          "artikel": "Ostdeutscher Rosengarten Forst (Lausitz)",
+          "wikidata": "Q2034918"
+        },
+        {
+          "titel": "Forst (Lausitz)",
+          "beschriftung": "Forst (Lausitz)",
+          "haupt": false,
+          "artikel": "Forst (Lausitz)",
+          "wikidata": "Q572545"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3013",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Gemeinschaftsausgabe mit Südkorea",
+      "bild_beschreibung": "Sonnentempel Bayreuth",
+      "entwerfer": "Jae-Yong Shin",
+      "auflage": 4640000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eremitage (Bayreuth)",
+          "beschriftung": "Sonnentempel",
+          "haupt": true,
+          "artikel": "Eremitage (Bayreuth)",
+          "wikidata": "Q896879"
+        },
+        {
+          "titel": "Bayreuth",
+          "beschriftung": "Bayreuth",
+          "haupt": false,
+          "artikel": "Bayreuth",
+          "wikidata": "Q3923"
+        },
+        {
+          "titel": "Südkorea",
+          "beschriftung": "Südkorea",
+          "haupt": false,
+          "artikel": "Südkorea",
+          "wikidata": "Q884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3014",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "150",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Gemeinschaftsausgabe mit Südkorea",
+      "bild_beschreibung": "Gyeongbokgung Palast Hyangwonjeong Pavillon",
+      "entwerfer": "Jae-Yong Shin",
+      "auflage": 7640000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gyeongbokgung",
+          "beschriftung": "Gyeongbokgung",
+          "haupt": true,
+          "artikel": "Gyeongbokgung",
+          "wikidata": "Q482485"
+        },
+        {
+          "titel": "Südkorea",
+          "beschriftung": "Südkorea",
+          "haupt": false,
+          "artikel": "Südkorea",
+          "wikidata": "Q884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3015",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Im Einsatz für Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 6300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3016",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-06-06",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Glücksburg; selbstklebend aus Folienblatt",
+      "entwerfer": "Fienbork Elsenbach Design",
+      "auflage": 80340000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3017",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-07-01",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Nationalpark Berchtesgaden",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 5150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3018",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-07-01",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Niedersächsisches Wattenmeer",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 5100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3019",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-07-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Dessau",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Wittig, Jutta Ziemba",
+      "auflage": 5720000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dessau",
+          "beschriftung": "Dessau",
+          "haupt": true,
+          "artikel": "Dessau",
+          "wikidata": "Q487070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3020",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-07-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "SEESTÜCK von Gerhard Richter",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 7070000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhard Richter",
+          "beschriftung": "Gerhard Richter",
+          "haupt": true,
+          "artikel": "Gerhard Richter",
+          "wikidata": "Q164351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3021",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-07-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "SEESTÜCK von Gerhard Richter",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 272390000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3022",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-07-18",
+      "wert": "58+42",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Hochwasserhilfe 2013",
+      "bild_beschreibung": "",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3023",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-08-08",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Stieglitz",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 2430000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3024",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-08-08",
+      "wert": "90+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend",
+      "bild_beschreibung": "Gimpel",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 2420000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3025",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-08-08",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend",
+      "bild_beschreibung": "Blaumeise",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 2470000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3026",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-08-08",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Julius August Kardinal Döpfner",
+      "bild_beschreibung": "",
+      "entwerfer": "Iris Utikal und Michael Gais",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Julius August Kardinal Döpfner",
+          "beschriftung": "Julius August Kardinal Döpfner",
+          "haupt": true,
+          "artikel": "Julius Döpfner",
+          "wikidata": "Q45129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3027",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-09-05",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Tag der Briefmarke",
+      "bild_beschreibung": "zur Unterstützung der Stiftung für Philatelie und Postgeschichte; 175 Jahre Dampflok Saxonia",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2380000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "LDE – Saxonia",
+          "beschriftung": "Dampflok Saxonia",
+          "haupt": false,
+          "artikel": "LDE – Saxonia",
+          "wikidata": "Q566247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3028",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-09-05",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Heidelberg Panorama Motiv 1",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3029",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-09-05",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Heidelberg Panorama Motiv 2",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3030",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-09-05",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Skat",
+      "bild_beschreibung": "",
+      "entwerfer": "Christoph Niemann",
+      "auflage": 5410000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Skat",
+          "beschriftung": "Skat",
+          "haupt": true,
+          "artikel": "Skat",
+          "wikidata": "Q504577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3031",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-10-10",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Georg Büchner",
+      "bild_beschreibung": "",
+      "entwerfer": "Katrin Stangl",
+      "auflage": 5190000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georg Büchner",
+          "beschriftung": "Georg Büchner",
+          "haupt": true,
+          "artikel": "Georg Büchner",
+          "wikidata": "Q154014"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3032",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-10-10",
+      "wert": "75",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Ludwig Leichhardt",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Australien",
+      "entwerfer": "Gary Domoney",
+      "auflage": 4860000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Leichhardt",
+          "beschriftung": "Ludwig Leichhardt",
+          "haupt": true,
+          "artikel": "Ludwig Leichhardt",
+          "wikidata": "Q57763"
+        },
+        {
+          "titel": "Australien",
+          "beschriftung": "Australien",
+          "haupt": false,
+          "artikel": "Australien",
+          "wikidata": "Q408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3033",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-10-10",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Völkerschlachtdenkmal",
+      "bild_beschreibung": "",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 4730000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Völkerschlachtdenkmal",
+          "beschriftung": "Völkerschlachtdenkmal",
+          "haupt": true,
+          "artikel": "Völkerschlachtdenkmal",
+          "wikidata": "Q699448"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3035",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Stern von Bethlehem",
+      "entwerfer": "Kitty Kahane",
+      "auflage": 4219000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3036",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Strahlen elektrischer Kraft – Heinrich Hertz",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Poschauko / Martin Poschauko",
+      "auflage": 4820000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Hertz",
+          "beschriftung": "Heinrich Hertz",
+          "haupt": true,
+          "artikel": "Heinrich Hertz",
+          "wikidata": "Q41257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3037",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Willy Brandt",
+      "bild_beschreibung": "",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 5111000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Willy Brandt",
+          "beschriftung": "Willy Brandt",
+          "haupt": true,
+          "artikel": "Willy Brandt",
+          "wikidata": "Q2514"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3038",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Professur Rahel Hirsch",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 4570000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rahel Hirsch",
+          "beschriftung": "Rahel Hirsch",
+          "haupt": true,
+          "artikel": "Rahel Hirsch",
+          "wikidata": "Q105722"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3039",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Winterstimmung",
+      "bild_beschreibung": "",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 6620000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3040",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "58+27",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Stern von Bethlehem; selbstklebend aus Markenheftchen",
+      "entwerfer": "Kitty Kahane",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3041",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-11-02",
+      "wert": "58",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Winterstimmung",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 79070000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3044",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2013-12-05",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Trauermarke",
+      "bild_beschreibung": "",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 5210000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3042",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2013-12-05",
+      "wert": "2",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Ergänzungsmarke",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 151458000,
+      "commons_datei": "Ergänzungswert, 2 Cent.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3045",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2013-12-05",
+      "wert": "2",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Ergänzungsmarke",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 263600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3034",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2013-10-10",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Tränendes Herz; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 243920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3043",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2013-12-05",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Kaiserkrone",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 140569400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiserkrone (Pflanze)",
+          "beschriftung": "Kaiserkrone",
+          "haupt": true,
+          "artikel": "Kaiserkrone (Pflanze)",
+          "wikidata": "Q161939"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3046",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2013-12-05",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Kaiserkrone; selbstklebend aus Folienblatt und Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 414780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

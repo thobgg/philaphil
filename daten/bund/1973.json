@@ -1,0 +1,1179 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1973,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1973 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1973_der_Deutschen_Bundespost",
+    "revision": 258341266,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 753,
+    "mi_nr_bis": 790,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 37,
+    "sondermarken_laut_einleitung": 37
+  },
+  "marken": [
+    {
+      "mi_nr": "753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-01-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Vertrag über die deutsch-französische Zusammenarbeit",
+      "bild_beschreibung": "stilisierte deutsche und französische Nationalflagge;; Gemeinschaftsausgabe mit Frankreich",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 31810000,
+      "commons_datei": "Stamps of Germany (BRD) 1973, MiNr 753.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Élysée-Vertrag",
+          "beschriftung": "deutsch-französische Zusammenarbeit",
+          "haupt": true,
+          "artikel": "Élysée-Vertrag",
+          "wikidata": "Q274811"
+        },
+        {
+          "titel": "Nationalflagge",
+          "beschriftung": "Nationalflagge",
+          "haupt": false,
+          "artikel": "Nationalflagge",
+          "wikidata": "Q186516"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        }
+      ]
+    },
+    {
+      "mi_nr": "754",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Greifvögel",
+      "bild_beschreibung": "Fischadler Pandion haliaetus",
+      "entwerfer": "Günter Magnus",
+      "auflage": 5184000,
+      "commons_datei": "Stamps of Germany (BRD) 1973, MiNr 754.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischadler",
+          "beschriftung": "Fischadler",
+          "haupt": true,
+          "artikel": "Fischadler",
+          "wikidata": "Q25332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "755",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Greifvögel",
+      "bild_beschreibung": "Mäusebussard Buteo buteo",
+      "entwerfer": "Günter Magnus",
+      "auflage": 5350000,
+      "commons_datei": "Stamps of Germany (BRD) 1973, MiNr 755.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mäusebussard",
+          "beschriftung": "Mäusebussard",
+          "haupt": true,
+          "artikel": "Mäusebussard",
+          "wikidata": "Q25385"
+        }
+      ]
+    },
+    {
+      "mi_nr": "756",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Greifvögel",
+      "bild_beschreibung": "Rotmilan Milvus milvus",
+      "entwerfer": "Günter Magnus",
+      "auflage": 5507000,
+      "commons_datei": "Stamps of Germany (BRD) 1973, MiNr 756.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotmilan",
+          "beschriftung": "Rotmilan",
+          "haupt": true,
+          "artikel": "Rotmilan",
+          "wikidata": "Q156250"
+        }
+      ]
+    },
+    {
+      "mi_nr": "757",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Greifvögel",
+      "bild_beschreibung": "Wiesenweihe Circus pygargus",
+      "entwerfer": "Günter Magnus",
+      "auflage": 5078000,
+      "commons_datei": "Stamps of Germany (BRD) 1973, MiNr 757.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiesenweihe",
+          "beschriftung": "Wiesenweihe",
+          "haupt": true,
+          "artikel": "Wiesenweihe",
+          "wikidata": "Q26574"
+        }
+      ]
+    },
+    {
+      "mi_nr": "758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Nikolaus Kopernikus (1473–1543)",
+      "bild_beschreibung": "Astronom",
+      "entwerfer": "Herbert Kern",
+      "auflage": 31400000,
+      "commons_datei": "DBP 1973 758 Nikolaus Kopernikus.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nikolaus Kopernikus",
+          "beschriftung": "Nikolaus Kopernikus",
+          "haupt": true,
+          "artikel": "Nikolaus Kopernikus",
+          "wikidata": "Q619"
+        },
+        {
+          "titel": "Astronom",
+          "beschriftung": "Astronom",
+          "haupt": false,
+          "artikel": "Astronom",
+          "wikidata": "Q11063"
+        }
+      ]
+    },
+    {
+      "mi_nr": "759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Interpol",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 32426000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Interpol",
+          "beschriftung": "Interpol",
+          "haupt": true,
+          "artikel": "Interpol",
+          "wikidata": "Q8475"
+        }
+      ]
+    },
+    {
+      "mi_nr": "760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Meteorologische Zusammenarbeit",
+      "bild_beschreibung": "Wetterkarte des deutschen Wetterdienstes",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wetterkarte",
+          "beschriftung": "Wetterkarte",
+          "haupt": true,
+          "artikel": "Wetterkarte",
+          "wikidata": "Q865144"
+        },
+        {
+          "titel": "Wetterdienst",
+          "beschriftung": "Wetterdienst",
+          "haupt": false,
+          "artikel": "Wetterdienst",
+          "wikidata": "Q1266087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-03-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Hamburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-03-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Rüdesheim am Rhein",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 33350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rüdesheim am Rhein",
+          "beschriftung": "Rüdesheim am Rhein",
+          "haupt": true,
+          "artikel": "Rüdesheim am Rhein",
+          "wikidata": "Q628118"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-03-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsches Turnfest in Stuttgart",
+      "bild_beschreibung": "stilisierte Schulterpartie eines Turners mit Turnerkreuz",
+      "entwerfer": "Lämmle",
+      "auflage": 31850000,
+      "commons_datei": "DBP 1973 763 Deutsches Turnfest.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turnfest",
+          "haupt": true,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        },
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turners",
+          "haupt": false,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Turnerkreuz",
+          "beschriftung": "Turnerkreuz",
+          "haupt": false,
+          "artikel": "Turnerkreuz",
+          "wikidata": "Q2461374"
+        }
+      ]
+    },
+    {
+      "mi_nr": "764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongress des internationalen Philatelistenverbandes und die internationale Briefmarkenausstellung IBRA",
+      "bild_beschreibung": "Posthausschild Hessen-Kassel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5848000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landgrafschaft Hessen-Kassel",
+          "beschriftung": "Hessen-Kassel",
+          "haupt": true,
+          "artikel": "Landgrafschaft Hessen-Kassel",
+          "wikidata": "Q168651"
+        }
+      ]
+    },
+    {
+      "mi_nr": "765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongress des internationalen Philatelistenverbandes und die internationale Briefmarkenausstellung IBRA",
+      "bild_beschreibung": "Posthausschild Preußen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5425000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "766",
+      "block": "Block 9",
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock",
+      "bild_beschreibung": "Posthausschild Württemberg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5976000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Württemberg",
+          "beschriftung": "Württemberg",
+          "haupt": true,
+          "artikel": "Württemberg",
+          "wikidata": "Q159626"
+        }
+      ]
+    },
+    {
+      "mi_nr": "767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock",
+      "bild_beschreibung": "Posthausschild Kurpfalz-Bayern",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5976000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurpfalz-Bayern",
+          "beschriftung": "Kurpfalz-Bayern",
+          "haupt": true,
+          "artikel": "Kurpfalz-Bayern",
+          "wikidata": "Q1793177"
+        }
+      ]
+    },
+    {
+      "mi_nr": "768",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-30",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "stilisiertes Posthorn",
+      "entwerfer": "Leif Frimann Anisdahl",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-30",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "stilisiertes Posthorn",
+      "entwerfer": "Leif Frimann Anisdahl",
+      "auflage": 73450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "770",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-05-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000. Todestag von Roswitha von Gandersheim (* um 935, † nach 973)",
+      "bild_beschreibung": "Autorin des Frühmittelalters und gilt als erste deutsche Dichterin",
+      "entwerfer": "Rolf Lederbogen",
+      "auflage": 31300000,
+      "commons_datei": "DBP 1973 770 Roswitha von Gandersheim.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hrotsvit",
+          "beschriftung": "Roswitha von Gandersheim",
+          "haupt": true,
+          "artikel": "Hrotsvit",
+          "wikidata": "Q170248"
+        },
+        {
+          "titel": "Autor",
+          "beschriftung": "Autor",
+          "haupt": false,
+          "artikel": "Autor",
+          "wikidata": "Q482980"
+        },
+        {
+          "titel": "Frühmittelalter",
+          "beschriftung": "Frühmittelalter",
+          "haupt": false,
+          "artikel": "Frühmittelalter",
+          "wikidata": "Q202763"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        }
+      ]
+    },
+    {
+      "mi_nr": "771",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-05-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Maximilian Kolbe (1894–1941)",
+      "bild_beschreibung": "In Auschwitz ermordeter Pater, 1984 heiliggesprochen",
+      "entwerfer": "Beat Knoblauch",
+      "auflage": 30750000,
+      "commons_datei": "DBP 1973 771 Maximilian Kolbe.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Maximilian Kolbe",
+          "beschriftung": "Maximilian Kolbe",
+          "haupt": true,
+          "artikel": "Maximilian Kolbe",
+          "wikidata": "Q153850"
+        },
+        {
+          "titel": "KZ Auschwitz I (Stammlager)",
+          "beschriftung": "Auschwitz",
+          "haupt": false,
+          "artikel": "KZ Auschwitz I (Stammlager)",
+          "wikidata": "Q662563"
+        },
+        {
+          "titel": "Pater",
+          "beschriftung": "Pater",
+          "haupt": false,
+          "artikel": "Pater",
+          "wikidata": "Q435940"
+        },
+        {
+          "titel": "Heiligsprechung",
+          "beschriftung": "heiliggesprochen",
+          "haupt": false,
+          "artikel": "Heiligsprechung",
+          "wikidata": "Q51621"
+        }
+      ]
+    },
+    {
+      "mi_nr": "772",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-05-25",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutscher Evangelischer Kirchentag 1973 in Düsseldorf",
+      "bild_beschreibung": "stilisiertes Profil eines Gesichtes, Jerusalemkreuz und Inschrift des Mottos nicht von Brot allein",
+      "entwerfer": "Celestino Piatti",
+      "auflage": 31450000,
+      "commons_datei": "DBP 1973 772 Kirchentag.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        },
+        {
+          "titel": "Düsseldorf",
+          "beschriftung": "Düsseldorf",
+          "haupt": false,
+          "artikel": "Düsseldorf",
+          "wikidata": "Q1718"
+        },
+        {
+          "titel": "Jerusalemkreuz",
+          "beschriftung": "Jerusalemkreuz",
+          "haupt": false,
+          "artikel": "Jerusalemkreuz",
+          "wikidata": "Q387268"
+        }
+      ]
+    },
+    {
+      "mi_nr": "774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-06-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Umweltschutz",
+      "bild_beschreibung": "Abfall",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 31600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Abfallentsorgung",
+          "beschriftung": "Abfall",
+          "haupt": true,
+          "artikel": "Abfallentsorgung",
+          "wikidata": "Q2684232"
+        },
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": false,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-06-05",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Umweltschutz",
+      "bild_beschreibung": "Wasser",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserhaushalt (Hydrologie)",
+          "beschriftung": "Wasser",
+          "haupt": true,
+          "artikel": "Wasserhaushalt (Hydrologie)",
+          "wikidata": "Q19311369"
+        },
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": false,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "776",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-06-05",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Umweltschutz",
+      "bild_beschreibung": "Lärm",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lärmbekämpfung",
+          "beschriftung": "Lärm",
+          "haupt": true,
+          "artikel": "Lärmbekämpfung",
+          "wikidata": "Q1538155"
+        },
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": false,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-06-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Umweltschutz",
+      "bild_beschreibung": "Luft",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 21600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftreinhaltung",
+          "beschriftung": "Luft",
+          "haupt": true,
+          "artikel": "Luftreinhaltung",
+          "wikidata": "Q1875753"
+        },
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": false,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-06-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Rechenmaschinen",
+      "bild_beschreibung": "Die Rechenmaschine von Wilhelm Schickard (1592–1635) von 1623",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 9150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rechenmaschine",
+          "beschriftung": "Rechenmaschine",
+          "haupt": true,
+          "artikel": "Rechenmaschine",
+          "wikidata": "Q211586"
+        },
+        {
+          "titel": "Wilhelm Schickard",
+          "beschriftung": "Wilhelm Schickard",
+          "haupt": false,
+          "artikel": "Wilhelm Schickard",
+          "wikidata": "Q57403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-09-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Lübecker Dom",
+      "bild_beschreibung": "",
+      "entwerfer": "Herbert Kern",
+      "auflage": 31450000,
+      "commons_datei": "DBP 1973 779 Lübecker Dom.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lübecker Dom",
+          "beschriftung": "Lübecker Dom",
+          "haupt": true,
+          "artikel": "Lübecker Dom",
+          "wikidata": "Q3916007"
+        }
+      ]
+    },
+    {
+      "mi_nr": "780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-09-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Otto Wels (1873–1939)",
+      "bild_beschreibung": "Politiker",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto Wels",
+          "beschriftung": "Otto Wels",
+          "haupt": true,
+          "artikel": "Otto Wels",
+          "wikidata": "Q61719"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "781",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-09-21",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufnahme der Bundesrepublik Deutschland in die UNO",
+      "bild_beschreibung": "Emblem der UNO und Nationalflagge Deutschlands",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 31500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesrepublik Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "UNO",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Nationalflagge",
+          "beschriftung": "Nationalflagge",
+          "haupt": false,
+          "artikel": "Nationalflagge",
+          "wikidata": "Q186516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "782",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Musikinstrumente",
+      "bild_beschreibung": "Waldhorn aus dem 19. Jahrhundert",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 9792000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waldhorn",
+          "beschriftung": "Waldhorn",
+          "haupt": true,
+          "artikel": "Horn (Blechblasinstrument)",
+          "wikidata": "Q163759"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "783",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Musikinstrumente",
+      "bild_beschreibung": "Pedalflügel aus dem 18. Jahrhundert",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 11127000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flügel (Tasteninstrument)",
+          "beschriftung": "Pedalflügel",
+          "haupt": true,
+          "artikel": "Flügel (Tasteninstrument)",
+          "wikidata": "Q1148709"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "784",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Musikinstrumente",
+      "bild_beschreibung": "Geige aus dem 18. Jahrhundert",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 14384000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Violine",
+          "beschriftung": "Geige",
+          "haupt": true,
+          "artikel": "Violine",
+          "wikidata": "Q8355"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "785",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Musikinstrumente",
+      "bild_beschreibung": "Pedalharfe aus dem 18. Jahrhundert",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 6705000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harfe",
+          "beschriftung": "Pedalharfe",
+          "haupt": true,
+          "artikel": "Harfe",
+          "wikidata": "Q47369"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "786",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre deutscher Rundfunk",
+      "bild_beschreibung": "Rundfunkgerät um 1923",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 30550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rundfunk",
+          "beschriftung": "Rundfunk",
+          "haupt": true,
+          "artikel": "Rundfunk",
+          "wikidata": "Q15078788"
+        },
+        {
+          "titel": "Radio",
+          "beschriftung": "Rundfunkgerät",
+          "haupt": false,
+          "artikel": "Radio",
+          "wikidata": "Q11078863"
+        }
+      ]
+    },
+    {
+      "mi_nr": "787",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Saarbrücken",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saarbrücken",
+          "beschriftung": "Saarbrücken",
+          "haupt": true,
+          "artikel": "Saarbrücken",
+          "wikidata": "Q1724"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "788",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Aachen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aachen",
+          "beschriftung": "Aachen",
+          "haupt": true,
+          "artikel": "Aachen",
+          "wikidata": "Q1017"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "789",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Bremer Hafen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremen",
+          "beschriftung": "Bremer",
+          "haupt": true,
+          "artikel": "Bremen",
+          "wikidata": "Q24879"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "790",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-11-09",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Weihnachtsstern",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 8797000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsstern (Symbol)",
+          "beschriftung": "Weihnachtsstern",
+          "haupt": true,
+          "artikel": "Weihnachtsstern (Symbol)",
+          "wikidata": "Q356326"
+        }
+      ]
+    },
+    {
+      "mi_nr": "773",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-06-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 205665000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    }
+  ]
+}

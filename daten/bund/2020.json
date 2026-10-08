@@ -1,0 +1,1748 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2020,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2020 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2020_der_Bundesrepublik_Deutschland",
+    "revision": 261869675,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3509,
+    "mi_nr_bis": 3579,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 66,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3510",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Bonn / Siebengebirge",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2380600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": true,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        },
+        {
+          "titel": "Siebengebirge",
+          "beschriftung": "Siebengebirge",
+          "haupt": false,
+          "artikel": "Siebengebirge",
+          "wikidata": "Q4236"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3511",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Bonn / Siebengebirge",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2380600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3512",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Mohnfeld (Vincent van Gogh)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 3663100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vincent van Gogh",
+          "beschriftung": "Vincent van Gogh",
+          "haupt": true,
+          "artikel": "Vincent van Gogh",
+          "wikidata": "Q5582"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3513",
+      "block": "Block 85",
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag Ludwig van Beethoven",
+      "bild_beschreibung": "Ausgabe auch als Briefmarkenblock",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 4922000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3514",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "270",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Ernst Barlach",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 3501600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": true,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3515",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Pressefreiheit",
+      "bild_beschreibung": "",
+      "entwerfer": "Christoph Niemann",
+      "auflage": 3579600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pressefreiheit",
+          "beschriftung": "Pressefreiheit",
+          "haupt": true,
+          "artikel": "Pressefreiheit",
+          "wikidata": "Q22688"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3517",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Bonn / Siebengebirge",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3518",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Bonn / Siebengebirge; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3519",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Mohnfeld (Vincent van Gogh); selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3520",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag Ludwig van Beethoven",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3521",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "270",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Ernst Barlach",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3522",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-02-06",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "zur Unterstützung der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Die Gefahr",
+      "entwerfer": "Michael Kunter",
+      "auflage": 2337000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": false,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3523",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-02-06",
+      "wert": "95+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Das Unglück",
+      "entwerfer": "Michael Kunter",
+      "auflage": 3173600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": false,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3524",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-02-06",
+      "wert": "155+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Die Erlösung",
+      "entwerfer": "Michael Kunter",
+      "auflage": 4627000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": false,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3525",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-02-06",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Nachhaltige Entwicklung",
+      "bild_beschreibung": "",
+      "entwerfer": "Florian Pfeffer",
+      "auflage": 3681600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nachhaltige Entwicklung",
+          "beschriftung": "Nachhaltige Entwicklung",
+          "haupt": true,
+          "artikel": "Nachhaltige Entwicklung",
+          "wikidata": "Q131201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3526",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-02-06",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Die Gefahr; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Michael Kunter",
+      "auflage": 13190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3527",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Himmelsereignisse",
+      "bild_beschreibung": "Kelvin-Helmholtz-Wolken",
+      "entwerfer": "Bettina Walter",
+      "auflage": 3715100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kelvin-Helmholtz-Instabilität",
+          "beschriftung": "Kelvin-Helmholtz-Wolken",
+          "haupt": true,
+          "artikel": "Kelvin-Helmholtz-Instabilität",
+          "wikidata": "Q1571116"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3528",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Himmelsereignisse",
+      "bild_beschreibung": "Lentikulariswolken",
+      "entwerfer": "Bettina Walter",
+      "auflage": 3715100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenticularis",
+          "beschriftung": "Lentikulariswolken",
+          "haupt": true,
+          "artikel": "Lenticularis",
+          "wikidata": "Q741276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3529",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Grünes Band Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 3626100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grünes Band Deutschland",
+          "beschriftung": "Grünes Band Deutschland",
+          "haupt": true,
+          "artikel": "Grünes Band Deutschland",
+          "wikidata": "Q883390"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3530",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Die Sesamstraße",
+      "bild_beschreibung": "",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3673600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sesamstraße",
+          "beschriftung": "Die Sesamstraße",
+          "haupt": true,
+          "artikel": "Sesamstraße",
+          "wikidata": "Q155629"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3531, 3532",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "je 80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Himmelsereignisse",
+      "bild_beschreibung": "Lentikulariswolken; Kelvin-Helmholtz Wolken; selbstklebend aus Folienblatt",
+      "entwerfer": "Bettina Walter",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3533",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Grünes Band Deutschland",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3534",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-03-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Die Sesamstraße",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3536",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Optische Täuschungen",
+      "bild_beschreibung": "Zwei Grautöne?",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3578400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3537",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "170",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Optische Täuschungen",
+      "bild_beschreibung": "Freies Quadrat? (Fehlendes-Quadrat-Rätsel)",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3595400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fehlendes-Quadrat-Rätsel",
+          "beschriftung": "Fehlendes-Quadrat-Rätsel",
+          "haupt": true,
+          "artikel": "Fehlendes-Quadrat-Rätsel",
+          "wikidata": "Q1147532"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3538",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: U-Bahn-Stationen",
+      "bild_beschreibung": "Marienplatz München",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3587900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnhof München Marienplatz",
+          "beschriftung": "Marienplatz München",
+          "haupt": true,
+          "artikel": "Bahnhof München Marienplatz",
+          "wikidata": "Q455649"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3539",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Richard von Weizsäcker",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": 3731900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Richard von Weizsäcker",
+          "beschriftung": "Richard von Weizsäcker",
+          "haupt": true,
+          "artikel": "Richard von Weizsäcker",
+          "wikidata": "Q2567"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3540",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Optische Täuschungen",
+      "bild_beschreibung": "Zwei Grautöne?; selbstklebend aus Markenheftchen",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: U-Bahn-Stationen",
+      "bild_beschreibung": "Marienplatz (München); selbstklebend aus Folienblatt",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnhof München Marienplatz",
+          "beschriftung": "Marienplatz (München)",
+          "haupt": true,
+          "artikel": "Bahnhof München Marienplatz",
+          "wikidata": "Q455649"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-05-07",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Neue Olympische Sportarten",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Sportklettern",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1683600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Sportklettern",
+          "beschriftung": "Sportklettern",
+          "haupt": false,
+          "artikel": "Sportklettern",
+          "wikidata": "Q1541373"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3543",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-05-07",
+      "wert": "95+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Neue Olympische Sportarten",
+      "bild_beschreibung": "Skateboard",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1683600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skateboard",
+          "beschriftung": "Skateboard",
+          "haupt": true,
+          "artikel": "Skateboard",
+          "wikidata": "Q15783"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-05-07",
+      "wert": "155+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Neue Olympische Sportarten",
+      "bild_beschreibung": "Karate",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1683600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karate",
+          "beschriftung": "Karate",
+          "haupt": true,
+          "artikel": "Karate",
+          "wikidata": "Q11419"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3545",
+      "block": "Block 86",
+      "art": "Sondermarke",
+      "ausgabetag": "2020-05-07",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Europa",
+      "bild_beschreibung": "Historische Postwege",
+      "entwerfer": "Michael Kunter",
+      "auflage": 1181600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-05-07",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag Freiherr von Münchhausen",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 4123400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hieronymus Carl Friedrich von Münchhausen",
+          "beschriftung": "Freiherr von Münchhausen",
+          "haupt": true,
+          "artikel": "Hieronymus Carl Friedrich von Münchhausen",
+          "wikidata": "Q77066"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-06-04",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Annaberger Kät",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrew und Jeffrey Goldstein",
+      "auflage": 3606900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Annaberger Kät",
+          "beschriftung": "Annaberger Kät",
+          "haupt": true,
+          "artikel": "Annaberger Kät",
+          "wikidata": "Q201581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-06-04",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Katharina Kasper",
+      "bild_beschreibung": "",
+      "entwerfer": "Jens Müller",
+      "auflage": 3582400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Maria Katharina Kasper",
+          "beschriftung": "Katharina Kasper",
+          "haupt": true,
+          "artikel": "Maria Katharina Kasper",
+          "wikidata": "Q108332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-06-04",
+      "wert": "170",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Vereinte Nationen",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 3546900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": true,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-07-02",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Vereinte Nationen",
+      "bild_beschreibung": "Freibad Witten",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2210600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Annen (Witten)",
+          "beschriftung": "Freibad Witten",
+          "haupt": true,
+          "artikel": "Annen (Witten)",
+          "wikidata": "Q206380"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-07-02",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Vereinte Nationen",
+      "bild_beschreibung": "Freibad Witten",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2210600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": true,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-07-02",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Schleimünde",
+      "entwerfer": "Hanno Schabacker",
+      "auflage": 3727100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schleimünde",
+          "beschriftung": "Schleimünde",
+          "haupt": true,
+          "artikel": "Schleimünde",
+          "wikidata": "Q506981"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-07-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "900 Jahre Stadt Freiburg im Breisgau",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Haufe und Detlef Fiedler",
+      "auflage": 4141100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Freiburg im Breisgau",
+          "beschriftung": "Freiburg im Breisgau",
+          "haupt": true,
+          "artikel": "Freiburg im Breisgau",
+          "wikidata": "Q2833"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3554",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-07-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "EU-Ratspräsidentschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 3690100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vorsitz im Rat der Europäischen Union",
+          "beschriftung": "EU-Ratspräsidentschaft",
+          "haupt": true,
+          "artikel": "Vorsitz im Rat der Europäischen Union",
+          "wikidata": "Q308905"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-07-02",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Schleimünde; selbstklebend aus Rolle",
+      "entwerfer": "Hanno Schabacker",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-08-06",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive Historische Feuerwehrfahrzeuge",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; TSF VW",
+      "entwerfer": "Thomas Meyer",
+      "auflage": 1652600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Tragkraftspritzenfahrzeug",
+          "beschriftung": "TSF VW",
+          "haupt": false,
+          "artikel": "Tragkraftspritzenfahrzeug",
+          "wikidata": "Q1667649"
+        },
+        {
+          "titel": "Feuerwehrfahrzeug",
+          "beschriftung": "Feuerwehrfahrzeug",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeug",
+          "wikidata": "Q208281"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-08-06",
+      "wert": "95+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive Historische Feuerwehrfahrzeuge",
+      "bild_beschreibung": "LF 16 MB",
+      "entwerfer": "Thomas Meyer",
+      "auflage": 1652600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löschgruppenfahrzeug",
+          "beschriftung": "LF 16 MB",
+          "haupt": true,
+          "artikel": "Löschgruppenfahrzeug",
+          "wikidata": "Q1879775"
+        },
+        {
+          "titel": "Feuerwehrfahrzeug",
+          "beschriftung": "Feuerwehrfahrzeug",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeug",
+          "wikidata": "Q208281"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3559",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-08-06",
+      "wert": "155+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive Historische Feuerwehrfahrzeuge",
+      "bild_beschreibung": "TLF 16 W 50",
+      "entwerfer": "Thomas Meyer",
+      "auflage": 1652600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tanklöschfahrzeug",
+          "beschriftung": "TLF 16 W 50",
+          "haupt": true,
+          "artikel": "Tanklöschfahrzeug",
+          "wikidata": "Q1422282"
+        },
+        {
+          "titel": "Feuerwehrfahrzeug",
+          "beschriftung": "Feuerwehrfahrzeug",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeug",
+          "wikidata": "Q208281"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3560",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-08-06",
+      "wert": "270",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag Georg Wilhelm Friedrich Hegel",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 3522100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georg Wilhelm Friedrich Hegel",
+          "beschriftung": "Georg Wilhelm Friedrich Hegel",
+          "haupt": true,
+          "artikel": "Georg Wilhelm Friedrich Hegel",
+          "wikidata": "Q9235"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3561",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-09-03",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Umweltschutz",
+      "bild_beschreibung": "zur Unterstützung von Projekten für den Umwelt- und Naturschutz; Umweltschutz ist Gesundheitsschutz",
+      "entwerfer": "Chris Campe",
+      "auflage": 1655100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        },
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": false,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3562",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-09-03",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Junge Wildtiere",
+      "bild_beschreibung": "Fischotter",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3650100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischotter",
+          "beschriftung": "Fischotter",
+          "haupt": true,
+          "artikel": "Fischotter",
+          "wikidata": "Q29995"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3563",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-09-03",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Junge Wildtiere",
+      "bild_beschreibung": "Haselmaus",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3654600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haselmaus",
+          "beschriftung": "Haselmaus",
+          "haupt": true,
+          "artikel": "Haselmaus",
+          "wikidata": "Q207148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3564",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-09-03",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "75 Jahre AM-POST-Marken",
+      "entwerfer": "Marion Blomeyer",
+      "auflage": 3561100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "AM-Ausgabe",
+          "beschriftung": "AM-POST",
+          "haupt": false,
+          "artikel": "AM-Ausgabe",
+          "wikidata": "Q98526129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3565",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-09-03",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Lore Lorentz",
+      "bild_beschreibung": "",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 3553100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lore Lorentz",
+          "beschriftung": "Lore Lorentz",
+          "haupt": true,
+          "artikel": "Lore Lorentz",
+          "wikidata": "Q87396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3566",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-10-01",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Design aus Deutschland",
+      "bild_beschreibung": "Karl Dittert – Mokkaservice",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 3519100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Dittert",
+          "beschriftung": "Karl Dittert",
+          "haupt": true,
+          "artikel": "Karl Dittert",
+          "wikidata": "Q1730742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3567",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-10-01",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Sagenhaftes Deutschland",
+      "bild_beschreibung": "Loreley",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3623600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Loreley",
+          "beschriftung": "Loreley",
+          "haupt": true,
+          "artikel": "Loreley",
+          "wikidata": "Q4168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3568",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-10-01",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Fritz Walter",
+      "bild_beschreibung": "",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 3561100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fritz Walter",
+          "beschriftung": "Fritz Walter",
+          "haupt": true,
+          "artikel": "Fritz Walter",
+          "wikidata": "Q22717"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3569",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-10-01",
+      "wert": "370",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Frauen der Reformation",
+      "bild_beschreibung": "",
+      "entwerfer": "Susann Stefanizen",
+      "auflage": 3431100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauen der Reformation",
+          "beschriftung": "Frauen der Reformation",
+          "haupt": true,
+          "artikel": "Frauen der Reformation",
+          "wikidata": "Q8031386"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3570",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-10-01",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Design aus Deutschland",
+      "bild_beschreibung": "Karl Dittert – Mokkaservice; selbstklebend aus Rolle",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3571",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-11-02",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Kirchenfenster „Die Geburt Christi“ aus Pfarrkirche St. Katharina in Bad Soden am Taunus",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 2070100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "St. Katharina (Bad Soden)",
+          "beschriftung": "St. Katharina",
+          "haupt": true,
+          "artikel": "St. Katharina (Bad Soden)",
+          "wikidata": "Q1567108"
+        },
+        {
+          "titel": "Bad Soden am Taunus",
+          "beschriftung": "Bad Soden am Taunus",
+          "haupt": false,
+          "artikel": "Bad Soden am Taunus",
+          "wikidata": "Q39785"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3572",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-11-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Fernsehlegenden",
+      "bild_beschreibung": "50 Jahre Tatort",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3663100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Fernsehlegenden",
+          "beschriftung": "Deutsche Fernsehlegenden",
+          "haupt": true,
+          "artikel": "Deutsche Fernsehlegenden",
+          "wikidata": "Q75045420"
+        },
+        {
+          "titel": "Tatort (Fernsehreihe)",
+          "beschriftung": "Tatort",
+          "haupt": false,
+          "artikel": "Tatort (Fernsehreihe)",
+          "wikidata": "Q689438"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3573",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-11-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihnachten: Frohes Fest",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 4315600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3574",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-11-02",
+      "wert": "80+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Kirchenfenster „Die Geburt Christi“; selbstklebend aus Folienblatt",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3575",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-11-02",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihnachten: Frohes Fest",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3576",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-12-03",
+      "wert": "60",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Helden der Kindheit",
+      "bild_beschreibung": "Wickie",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3619100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wickie und die starken Männer (Kinderbuch)",
+          "beschriftung": "Wickie",
+          "haupt": true,
+          "artikel": "Wickie und die starken Männer (Kinderbuch)",
+          "wikidata": "Q14540443"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3577",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-12-03",
+      "wert": "80",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Helden der Kindheit",
+      "bild_beschreibung": "Biene Maja",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3619100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biene Maja",
+          "beschriftung": "Biene Maja",
+          "haupt": true,
+          "artikel": "Biene Maja",
+          "wikidata": "Q752027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2020-12-03",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Sagenhaftes Deutschland",
+      "bild_beschreibung": "Rattenfänger von Hameln",
+      "entwerfer": "Thomas Steinacker und Jan-Niklas Kröger",
+      "auflage": 3519100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rattenfänger von Hameln",
+          "beschriftung": "Rattenfänger von Hameln",
+          "haupt": true,
+          "artikel": "Rattenfänger von Hameln",
+          "wikidata": "Q111502"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3579",
+      "block": "Block 87",
+      "art": "Sondermarke",
+      "ausgabetag": "2020-12-03",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Willy Brandt – Kniefall von Warschau vor 50 Jahren",
+      "bild_beschreibung": "Ausgabe auch als Briefmarkenblock",
+      "entwerfer": "Wilfried Korfmacher",
+      "auflage": 3580300,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Willy Brandt",
+          "beschriftung": "Willy Brandt",
+          "haupt": true,
+          "artikel": "Willy Brandt",
+          "wikidata": "Q2514"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3509",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Taglilie",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Taglilien",
+          "beschriftung": "Taglilie",
+          "haupt": true,
+          "artikel": "Taglilien",
+          "wikidata": "Q156275"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3516",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2020-01-02",
+      "wert": "30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Taglilie; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3535",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2020-04-02",
+      "wert": "50",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Zinnie",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zinnie",
+          "beschriftung": "Zinnie",
+          "haupt": true,
+          "artikel": "Zinnie",
+          "wikidata": "Q15245321"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3556",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2020-08-06",
+      "wert": "200",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Purpur-Knautie",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Witwenblumen",
+          "beschriftung": "Purpur-Knautie",
+          "haupt": true,
+          "artikel": "Witwenblumen",
+          "wikidata": "Q149310"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

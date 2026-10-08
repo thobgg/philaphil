@@ -1,0 +1,1650 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1970,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1970 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1970_der_Deutschen_Bundespost",
+    "revision": 269178155,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 612,
+    "mi_nr_bis": 657,
+    "luecken": [
+      646
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 34,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Minnesänger",
+      "bild_beschreibung": "Miniatur der Weingartner Liederhandschrift; Heinrich von Rugge",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 7359000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniatur",
+          "haupt": true,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        },
+        {
+          "titel": "Weingartner Liederhandschrift",
+          "beschriftung": "Weingartner Liederhandschrift",
+          "haupt": false,
+          "artikel": "Weingartner Liederhandschrift",
+          "wikidata": "Q1545661"
+        },
+        {
+          "titel": "Heinrich von Rugge",
+          "beschriftung": "Heinrich von Rugge",
+          "haupt": false,
+          "artikel": "Heinrich von Rugge",
+          "wikidata": "Q1599658"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Minnesänger",
+      "bild_beschreibung": "Miniatur der Großen Heidelberger Liederhandschrift; Wolfram von Eschenbach",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 10790000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Codex Manesse",
+          "beschriftung": "Großen Heidelberger Liederhandschrift",
+          "haupt": true,
+          "artikel": "Codex Manesse",
+          "wikidata": "Q165353"
+        },
+        {
+          "titel": "Wolfram von Eschenbach",
+          "beschriftung": "Wolfram von Eschenbach",
+          "haupt": false,
+          "artikel": "Wolfram von Eschenbach",
+          "wikidata": "Q18821"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "614",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Minnesänger",
+      "bild_beschreibung": "Miniatur der Großen Heidelberger Liederhandschrift; Walther von Metz",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 7234000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walther von Metz",
+          "beschriftung": "Walther von Metz",
+          "haupt": true,
+          "artikel": "Gautier de Metz",
+          "wikidata": "Q930623"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "615",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Minnesänger",
+      "bild_beschreibung": "Miniatur der Weingartner Liederhandschrift; Walther von der Vogelweide",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6236000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walther von der Vogelweide",
+          "beschriftung": "Walther von der Vogelweide",
+          "haupt": true,
+          "artikel": "Walther von der Vogelweide",
+          "wikidata": "Q44385"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von:",
+      "bild_beschreibung": "Ludwig van Beethoven; 1770–1827, Komponist",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Geburtstag",
+          "beschriftung": "Geburtstag",
+          "haupt": false,
+          "artikel": "Geburtstag",
+          "wikidata": "Q47223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von:",
+      "bild_beschreibung": "Georg Wilhelm Friedrich Hegel; 1770–1831, Philosoph",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Wilhelm Friedrich Hegel",
+          "beschriftung": "Georg Wilhelm Friedrich Hegel",
+          "haupt": true,
+          "artikel": "Georg Wilhelm Friedrich Hegel",
+          "wikidata": "Q9235"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Geburtstag",
+          "beschriftung": "Geburtstag",
+          "haupt": false,
+          "artikel": "Geburtstag",
+          "wikidata": "Q47223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-20",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von:",
+      "bild_beschreibung": "Friedrich Hölderlin; 1770–1843, Dichter",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Hölderlin",
+          "beschriftung": "Friedrich Hölderlin",
+          "haupt": true,
+          "artikel": "Friedrich Hölderlin",
+          "wikidata": "Q75889"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Geburtstag",
+          "beschriftung": "Geburtstag",
+          "haupt": false,
+          "artikel": "Geburtstag",
+          "wikidata": "Q47223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-29",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Briefmarkenausstellung Sabria 1970 in Saarbrücken",
+      "bild_beschreibung": "Motiv einer Briefmarke von 1947",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Saarbrücken",
+          "beschriftung": "Saarbrücken",
+          "haupt": true,
+          "artikel": "Saarbrücken",
+          "wikidata": "Q1724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Flechtwerk als Sonnensymbol",
+      "entwerfer": "Le Brocquy",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sonnensymbol",
+          "beschriftung": "Sonnensymbol",
+          "haupt": true,
+          "artikel": "Sonnensymbol",
+          "wikidata": "Q3241584"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Flechtwerk als Sonnensymbol",
+      "entwerfer": "Le Brocquy",
+      "auflage": 95000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-11",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Oberammergau",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Oberammergau",
+          "beschriftung": "Oberammergau",
+          "haupt": true,
+          "artikel": "Oberammergau",
+          "wikidata": "Q503757"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "623",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag des Freiherrn von Münchhausen",
+      "bild_beschreibung": "Motiv nach der Geschichte Das durchtrennte Pferd",
+      "entwerfer": "Stefula",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hieronymus Carl Friedrich von Münchhausen",
+          "beschriftung": "Freiherrn von Münchhausen",
+          "haupt": true,
+          "artikel": "Hieronymus Carl Friedrich von Münchhausen",
+          "wikidata": "Q77066"
+        }
+      ]
+    },
+    {
+      "mi_nr": "624",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Bauwerke in München; Residenz",
+      "entwerfer": "Herbert Kern",
+      "auflage": 7691000,
+      "commons_datei": "Stamps of Germany (BRD), Olympiade 1972, Ausgabe 1970, 10 Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Münchner Residenz",
+          "beschriftung": "Residenz",
+          "haupt": true,
+          "artikel": "Münchner Residenz",
+          "wikidata": "Q686548"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "625",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Propyläen",
+      "entwerfer": "Herbert Kern",
+      "auflage": 7414000,
+      "commons_datei": "Stamps of Germany (BRD), Olympiade 1972, Ausgabe 1970, 20 Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Königsplatz (München)",
+          "beschriftung": "Propyläen",
+          "haupt": true,
+          "artikel": "Königsplatz (München)",
+          "wikidata": "Q561084"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "626",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Glyptothek",
+      "entwerfer": "Herbert Kern",
+      "auflage": 7402000,
+      "commons_datei": "Stamps of Germany (BRD), Olympiade 1972, Ausgabe 1970, 30 Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Glyptothek (München)",
+          "beschriftung": "Glyptothek",
+          "haupt": true,
+          "artikel": "Glyptothek (München)",
+          "wikidata": "Q162077"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "627",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Bavaria und Ruhmeshalle",
+      "entwerfer": "Herbert Kern",
+      "auflage": 7099000,
+      "commons_datei": "Stamps of Germany (BRD), Olympiade 1972, Ausgabe 1970, 50 Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bavaria (Statue)",
+          "beschriftung": "Bavaria",
+          "haupt": true,
+          "artikel": "Bavaria (Statue)",
+          "wikidata": "Q707669"
+        },
+        {
+          "titel": "Ruhmeshalle (München)",
+          "beschriftung": "Ruhmeshalle",
+          "haupt": false,
+          "artikel": "Ruhmeshalle (München)",
+          "wikidata": "Q538348"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "628",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Nord-Ostsee-Kanal",
+      "bild_beschreibung": "Kanaltunnel Rendsburg und Passagierschiff",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1970, MiNr 628.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nord-Ostsee-Kanal",
+          "beschriftung": "Nord-Ostsee-Kanal",
+          "haupt": true,
+          "artikel": "Nord-Ostsee-Kanal",
+          "wikidata": "Q144825"
+        },
+        {
+          "titel": "Kanaltunnel Rendsburg",
+          "beschriftung": "Kanaltunnel Rendsburg",
+          "haupt": false,
+          "artikel": "Kanaltunnel Rendsburg",
+          "wikidata": "Q1723612"
+        },
+        {
+          "titel": "Passagierschiff",
+          "beschriftung": "Passagierschiff",
+          "haupt": false,
+          "artikel": "Passagierschiff",
+          "wikidata": "Q2055880"
+        }
+      ]
+    },
+    {
+      "mi_nr": "629",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Hilfsdienste",
+      "bild_beschreibung": "Technisches Hilfswerk; Sauerstofflanze im Einsatz",
+      "entwerfer": "Förtsch und v. Baumgarten",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technisches Hilfswerk",
+          "beschriftung": "Technisches Hilfswerk",
+          "haupt": true,
+          "artikel": "Technisches Hilfswerk",
+          "wikidata": "Q697698"
+        },
+        {
+          "titel": "Sauerstofflanze",
+          "beschriftung": "Sauerstofflanze",
+          "haupt": false,
+          "artikel": "Sauerstofflanze",
+          "wikidata": "Q519938"
+        },
+        {
+          "titel": "Hilfsorganisation",
+          "beschriftung": "Hilfsdienste",
+          "haupt": false,
+          "artikel": "Hilfsorganisation",
+          "wikidata": "Q336473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "630",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Hilfsdienste",
+      "bild_beschreibung": "Bergwacht; Abseilen eines Verunglückten",
+      "entwerfer": "Förtsch und v. Baumgarten",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bergwacht (Deutschland)",
+          "beschriftung": "Bergwacht",
+          "haupt": true,
+          "artikel": "Bergwacht (Deutschland)",
+          "wikidata": "Q820403"
+        },
+        {
+          "titel": "Abseilen",
+          "beschriftung": "Abseilen",
+          "haupt": false,
+          "artikel": "Abseilen",
+          "wikidata": "Q332231"
+        },
+        {
+          "titel": "Hilfsorganisation",
+          "beschriftung": "Hilfsdienste",
+          "haupt": false,
+          "artikel": "Hilfsorganisation",
+          "wikidata": "Q336473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "631",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Hilfsdienste",
+      "bild_beschreibung": "Pflegehilfe; Betreuung Behinderter",
+      "entwerfer": "Förtsch und v. Baumgarten",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Behinderung (Sozialrecht)",
+          "beschriftung": "Behinderter",
+          "haupt": true,
+          "artikel": "Behinderung",
+          "wikidata": "Q12131"
+        },
+        {
+          "titel": "Hilfsorganisation",
+          "beschriftung": "Hilfsdienste",
+          "haupt": false,
+          "artikel": "Hilfsorganisation",
+          "wikidata": "Q336473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "632",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Hilfsdienste",
+      "bild_beschreibung": "Feuerwehr; Brandbekämpfung",
+      "entwerfer": "Förtsch und v. Baumgarten",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerwehr",
+          "beschriftung": "Feuerwehr",
+          "haupt": true,
+          "artikel": "Feuerwehr",
+          "wikidata": "Q6498663"
+        },
+        {
+          "titel": "Brandbekämpfung",
+          "beschriftung": "Brandbekämpfung",
+          "haupt": false,
+          "artikel": "Brandbekämpfung",
+          "wikidata": "Q897825"
+        },
+        {
+          "titel": "Hilfsorganisation",
+          "beschriftung": "Hilfsdienste",
+          "haupt": false,
+          "artikel": "Hilfsorganisation",
+          "wikidata": "Q336473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "633",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Hilfsdienste",
+      "bild_beschreibung": "Unfallschutz; Hilfe nach Verkehrsunfall",
+      "entwerfer": "Förtsch und v. Baumgarten",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Straßenverkehrsunfall",
+          "beschriftung": "Verkehrsunfall",
+          "haupt": true,
+          "artikel": "Straßenverkehrsunfall",
+          "wikidata": "Q9687"
+        },
+        {
+          "titel": "Hilfsorganisation",
+          "beschriftung": "Hilfsdienste",
+          "haupt": false,
+          "artikel": "Hilfsorganisation",
+          "wikidata": "Q336473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "634",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Freiwillige Hilfsdienste",
+      "bild_beschreibung": "Deutsche Lebens-Rettungs-Gesellschaft; Rettung eines Ertrinkenden",
+      "entwerfer": "Förtsch und v. Baumgarten",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Lebens-Rettungs-Gesellschaft",
+          "beschriftung": "Deutsche Lebens-Rettungs-Gesellschaft",
+          "haupt": true,
+          "artikel": "Deutsche Lebens-Rettungs-Gesellschaft",
+          "wikidata": "Q871679"
+        },
+        {
+          "titel": "Ertrinken",
+          "beschriftung": "Ertrinken",
+          "haupt": false,
+          "artikel": "Ertrinken",
+          "wikidata": "Q506616"
+        },
+        {
+          "titel": "Hilfsorganisation",
+          "beschriftung": "Hilfsdienste",
+          "haupt": false,
+          "artikel": "Hilfsorganisation",
+          "wikidata": "Q336473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "647",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-08-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Katholische Weltmission",
+      "bild_beschreibung": "Durch Industrieglas leuchtendes Kreuz",
+      "entwerfer": "Staedler",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1970, MiNr 647.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mission (Christentum)",
+          "beschriftung": "Weltmission",
+          "haupt": true,
+          "artikel": "Mission (Christentum)",
+          "wikidata": "Q51647"
+        },
+        {
+          "titel": "glas",
+          "beschriftung": "glas",
+          "haupt": false,
+          "artikel": "Glas",
+          "wikidata": "Q11469"
+        },
+        {
+          "titel": "Kreuz (Christentum)",
+          "beschriftung": "Kreuz",
+          "haupt": false,
+          "artikel": "Kreuz (Christentum)",
+          "wikidata": "Q392371"
+        }
+      ]
+    },
+    {
+      "mi_nr": "648",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutscher Katholikentag 1970 in Trier",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Katholikentag",
+          "beschriftung": "Deutscher Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Trier",
+          "beschriftung": "Trier",
+          "haupt": false,
+          "artikel": "Trier",
+          "wikidata": "Q3138"
+        }
+      ]
+    },
+    {
+      "mi_nr": "649",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Stadtansicht von Cochem an der Mosel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cochem",
+          "beschriftung": "Cochem",
+          "haupt": true,
+          "artikel": "Cochem",
+          "wikidata": "Q502749"
+        },
+        {
+          "titel": "Mosel",
+          "beschriftung": "Mosel",
+          "haupt": false,
+          "artikel": "Mosel",
+          "wikidata": "Q1667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "650",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Marionetten",
+      "bild_beschreibung": "Marionetten der Puppentheatersammlung München; Narr",
+      "entwerfer": "Erna de Vries",
+      "auflage": 15335000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Münchner Stadtmuseum",
+          "beschriftung": "Puppentheatersammlung",
+          "haupt": true,
+          "artikel": "Münchner Stadtmuseum",
+          "wikidata": "Q452685"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Narr",
+          "beschriftung": "Narr",
+          "haupt": false,
+          "artikel": "Narr",
+          "wikidata": "Q215548"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "651",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Marionetten",
+      "bild_beschreibung": "Hanswurst",
+      "entwerfer": "Erna de Vries",
+      "auflage": 15565000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hanswurst",
+          "beschriftung": "Hanswurst",
+          "haupt": true,
+          "artikel": "Hanswurst",
+          "wikidata": "Q252737"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "652",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Marionetten",
+      "bild_beschreibung": "Clown",
+      "entwerfer": "Erna de Vries",
+      "auflage": 16287000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clown",
+          "beschriftung": "Clown",
+          "haupt": true,
+          "artikel": "Clown",
+          "wikidata": "Q7358"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "653",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Marionetten",
+      "bild_beschreibung": "Harlekin",
+      "entwerfer": "Erna de Vries",
+      "auflage": 8569000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harlekin",
+          "beschriftung": "Harlekin",
+          "haupt": true,
+          "artikel": "Harlekin",
+          "wikidata": "Q17298"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "654",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Freiburg im Breisgau, Stadtbild mit Münster und Schwarzwaldsilhouette",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiburg im Breisgau",
+          "beschriftung": "Freiburg im Breisgau",
+          "haupt": true,
+          "artikel": "Freiburg im Breisgau",
+          "wikidata": "Q2833"
+        },
+        {
+          "titel": "Freiburger Münster",
+          "beschriftung": "Münster",
+          "haupt": false,
+          "artikel": "Freiburger Münster",
+          "wikidata": "Q250212"
+        },
+        {
+          "titel": "Schwarzwald",
+          "beschriftung": "Schwarzwald",
+          "haupt": false,
+          "artikel": "Schwarzwald",
+          "wikidata": "Q4204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "655",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-12",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Engel, Krippenfigur aus dem Ursulinenkloster Innsbruck",
+      "entwerfer": "Erna de Vries",
+      "auflage": 11861000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Engel",
+          "beschriftung": "Engel",
+          "haupt": true,
+          "artikel": "Engel",
+          "wikidata": "Q235113"
+        },
+        {
+          "titel": "Weihnachtskrippe",
+          "beschriftung": "Krippenfigur",
+          "haupt": false,
+          "artikel": "Weihnachtskrippe",
+          "wikidata": "Q31732"
+        },
+        {
+          "titel": "Ursulinen",
+          "beschriftung": "Ursulinen",
+          "haupt": false,
+          "artikel": "Ursulinen",
+          "wikidata": "Q2250880"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "656",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Todestag von Johann Amos Comenius",
+      "bild_beschreibung": "1592–1670, Philosoph, Theologe und Pädagoge",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": "DBP - 300 Jahre J.A.Comenius - 30 Pfennig - 1970.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Amos Comenius",
+          "beschriftung": "Johann Amos Comenius",
+          "haupt": true,
+          "artikel": "Johann Amos Comenius",
+          "wikidata": "Q12735"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Pädagoge",
+          "beschriftung": "Pädagoge",
+          "haupt": false,
+          "artikel": "Pädagoge",
+          "wikidata": "Q1231865"
+        }
+      ]
+    },
+    {
+      "mi_nr": "657",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-27",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Friedrich Engels",
+      "bild_beschreibung": "1820–1895, Publizist und Sozialist",
+      "entwerfer": "Herbert Kern",
+      "auflage": 20000000,
+      "commons_datei": "Stamps of Germany (BRD) 1970, MiNr 657.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": true,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Publizist",
+          "beschriftung": "Publizist",
+          "haupt": false,
+          "artikel": "Publizist",
+          "wikidata": "Q6051619"
+        },
+        {
+          "titel": "Sozialismus",
+          "beschriftung": "Sozialist",
+          "haupt": false,
+          "artikel": "Sozialismus",
+          "wikidata": "Q7272"
+        }
+      ]
+    },
+    {
+      "mi_nr": "635",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-07-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 321746000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "636",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-10-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 1182920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "637",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 980136000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "638",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-01-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 2447943000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "639",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 2128584000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "640",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 1278969000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "641",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 210417000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "642",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 153266000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "643",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-01-07",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 33600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "644",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-07-23",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 275675000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "645",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-01-07",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Beginn einer neuen Serie, Ersatz für: Deutsche Bauwerke aus zwölf Jahrhunderten (Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 170095000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": false,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    }
+  ]
+}

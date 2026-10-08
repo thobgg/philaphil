@@ -1,0 +1,2027 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1992,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1992 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1992_der_Deutschen_Bundespost",
+    "revision": 258067859,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1582,
+    "mi_nr_bis": 1644,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": 60
+  },
+  "marken": [
+    {
+      "mi_nr": "1583",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-01-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Koblenz",
+      "bild_beschreibung": "Stadtwappen, Sockel des Kaiser-Wilhelm-Denkmals, Balduinbrücke, Silhouette von Koblenz",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 31076000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Koblenz",
+          "beschriftung": "Koblenz",
+          "haupt": true,
+          "artikel": "Koblenz",
+          "wikidata": "Q3104"
+        },
+        {
+          "titel": "Kaiser-Wilhelm-Denkmal am Deutschen Eck",
+          "beschriftung": "Sockel des Kaiser-Wilhelm-Denkmals",
+          "haupt": false,
+          "artikel": "Kaiser-Wilhelm-Denkmal am Deutschen Eck",
+          "wikidata": "Q700785"
+        },
+        {
+          "titel": "Balduinbrücke",
+          "beschriftung": "Balduinbrücke",
+          "haupt": false,
+          "artikel": "Balduinbrücke",
+          "wikidata": "Q804831"
+        },
+        {
+          "titel": "Skyline",
+          "beschriftung": "Silhouette",
+          "haupt": false,
+          "artikel": "Skyline",
+          "wikidata": "Q465837"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1584",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-01-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Martin Niemöller (1892–1984)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31284000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin Niemöller",
+          "beschriftung": "Martin Niemöller",
+          "haupt": true,
+          "artikel": "Martin Niemöller",
+          "wikidata": "Q153839"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1585",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-01-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Hilfsorganisation terre des hommes Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Erna de Vries",
+      "auflage": 31810000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "terre des hommes",
+          "beschriftung": "terre des hommes",
+          "haupt": true,
+          "artikel": "Terre des hommes",
+          "wikidata": "Q264955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1586",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-01-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Baden-Württembergs",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 31235000,
+      "commons_datei": "DBP 1992 1586 Wappen Baden-Württemberg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Baden-Württembergs",
+          "beschriftung": "Wappen Baden-Württembergs",
+          "haupt": true,
+          "artikel": "Wappen Baden-Württembergs",
+          "wikidata": "Q663048"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1587",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-03-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Bayerisches Staatswappen",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1992 1587 Wappen Bayern.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bayerisches Staatswappen",
+          "beschriftung": "Bayerisches Staatswappen",
+          "haupt": true,
+          "artikel": "Wappen Bayerns",
+          "wikidata": "Q663063"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1588",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Berlins",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 29660000,
+      "commons_datei": "DBP 1992 1588 Wappen Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Wappen Berlins",
+          "haupt": true,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1589",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-07-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Märkischer Adler, Wappen von Brandenburg",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 31200000,
+      "commons_datei": "DBP 1992 1589 Wappen Brandenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märkischer Adler",
+          "beschriftung": "Märkischer Adler",
+          "haupt": true,
+          "artikel": "Wappen Brandenburgs",
+          "wikidata": "Q547665"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1590",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-08-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Bremer Wappen",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 32550000,
+      "commons_datei": "DBP 1992 1590 Wappen Bremen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremer Wappen",
+          "beschriftung": "Bremer Wappen",
+          "haupt": true,
+          "artikel": "Bremer Wappen",
+          "wikidata": "Q470548"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1591",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-09-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Landeswappen Hamburg",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 28940000,
+      "commons_datei": "DBP 1992 1591 Wappen Hamburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen Hamburg",
+          "beschriftung": "Landeswappen Hamburg",
+          "haupt": true,
+          "artikel": "Landeswappen Hamburgs",
+          "wikidata": "Q562071"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1592",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-02-06",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1992 Barcelona und Olympische Winterspiele 1992 Albertville",
+      "bild_beschreibung": "Florett-Fechten der Damen",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 4370000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fechten",
+          "beschriftung": "Florett-Fechten",
+          "haupt": true,
+          "artikel": "Fechten",
+          "wikidata": "Q12100"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1992",
+          "beschriftung": "Olympische Sommerspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1992",
+          "wikidata": "Q8488"
+        },
+        {
+          "titel": "Barcelona",
+          "beschriftung": "Barcelona",
+          "haupt": false,
+          "artikel": "Barcelona",
+          "wikidata": "Q1492"
+        },
+        {
+          "titel": "Olympische Winterspiele 1992",
+          "beschriftung": "Olympische Winterspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1992",
+          "wikidata": "Q9660"
+        },
+        {
+          "titel": "Albertville",
+          "beschriftung": "Albertville",
+          "haupt": false,
+          "artikel": "Albertville",
+          "wikidata": "Q159469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1593",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-02-06",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1992 Barcelona und Olympische Winterspiele 1992 Albertville",
+      "bild_beschreibung": "Achter (Rudern)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 4310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Achter (Rudern)",
+          "beschriftung": "Achter (Rudern)",
+          "haupt": true,
+          "artikel": "Achter (Rudern)",
+          "wikidata": "Q81050"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1992",
+          "beschriftung": "Olympische Sommerspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1992",
+          "wikidata": "Q8488"
+        },
+        {
+          "titel": "Barcelona",
+          "beschriftung": "Barcelona",
+          "haupt": false,
+          "artikel": "Barcelona",
+          "wikidata": "Q1492"
+        },
+        {
+          "titel": "Olympische Winterspiele 1992",
+          "beschriftung": "Olympische Winterspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1992",
+          "wikidata": "Q9660"
+        },
+        {
+          "titel": "Albertville",
+          "beschriftung": "Albertville",
+          "haupt": false,
+          "artikel": "Albertville",
+          "wikidata": "Q159469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1594",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-02-06",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1992 Barcelona und Olympische Winterspiele 1992 Albertville",
+      "bild_beschreibung": "Dressurreiten",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 4490000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dressurreiten",
+          "beschriftung": "Dressurreiten",
+          "haupt": true,
+          "artikel": "Dressurreiten",
+          "wikidata": "Q216033"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1992",
+          "beschriftung": "Olympische Sommerspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1992",
+          "wikidata": "Q8488"
+        },
+        {
+          "titel": "Barcelona",
+          "beschriftung": "Barcelona",
+          "haupt": false,
+          "artikel": "Barcelona",
+          "wikidata": "Q1492"
+        },
+        {
+          "titel": "Olympische Winterspiele 1992",
+          "beschriftung": "Olympische Winterspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1992",
+          "wikidata": "Q9660"
+        },
+        {
+          "titel": "Albertville",
+          "beschriftung": "Albertville",
+          "haupt": false,
+          "artikel": "Albertville",
+          "wikidata": "Q159469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1595",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-02-06",
+      "wert": "170+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1992 Barcelona und Olympische Winterspiele 1992 Albertville",
+      "bild_beschreibung": "Ski alpin, Slalom der Herren",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 4300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ski alpin",
+          "beschriftung": "Ski alpin, Slalom",
+          "haupt": true,
+          "artikel": "Ski Alpin",
+          "wikidata": "Q186222"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1992",
+          "beschriftung": "Olympische Sommerspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1992",
+          "wikidata": "Q8488"
+        },
+        {
+          "titel": "Barcelona",
+          "beschriftung": "Barcelona",
+          "haupt": false,
+          "artikel": "Barcelona",
+          "wikidata": "Q1492"
+        },
+        {
+          "titel": "Olympische Winterspiele 1992",
+          "beschriftung": "Olympische Winterspiele 1992",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1992",
+          "wikidata": "Q9660"
+        },
+        {
+          "titel": "Albertville",
+          "beschriftung": "Albertville",
+          "haupt": false,
+          "artikel": "Albertville",
+          "wikidata": "Q159469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1596",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-02-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Arthur Honegger (1892–1955)",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 32250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Arthur Honegger",
+          "beschriftung": "Arthur Honegger",
+          "haupt": true,
+          "artikel": "Arthur Honegger",
+          "wikidata": "Q123164"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1597",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-02-06",
+      "wert": "165",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Todestag von Ferdinand Graf von Zeppelin (1838–1917)",
+      "bild_beschreibung": "Porträt vor seinem Luftschiff LZ 127",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 23960000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ferdinand Graf von Zeppelin",
+          "beschriftung": "Ferdinand Graf von Zeppelin",
+          "haupt": true,
+          "artikel": "Ferdinand von Zeppelin",
+          "wikidata": "Q75780"
+        },
+        {
+          "titel": "Luftschiff",
+          "beschriftung": "Luftschiff",
+          "haupt": false,
+          "artikel": "Luftschiff",
+          "wikidata": "Q133585"
+        },
+        {
+          "titel": "LZ 127",
+          "beschriftung": "LZ 127",
+          "haupt": false,
+          "artikel": "LZ 127",
+          "wikidata": "Q721226"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1598",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-03-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Kiel",
+      "bild_beschreibung": "Stadtwappen und Hafenansicht mit Stadtsilhouette",
+      "entwerfer": "Peter Korn",
+      "auflage": 31495000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kiel",
+          "beschriftung": "Kiel",
+          "haupt": true,
+          "artikel": "Kiel",
+          "wikidata": "Q1707"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1599",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-03-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125. Jahrestag der Gründung des Zuckerinstituts in Berlin",
+      "bild_beschreibung": "Zuckerrübe und drei Scherenschnitte von Andreas Sigismund Marggraf, Franz Carl Achard und Carl Scheibler",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 30935000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Institut für Zuckerindustrie",
+          "beschriftung": "Zuckerinstituts",
+          "haupt": true,
+          "artikel": "Institut für Zuckerindustrie",
+          "wikidata": "Q23786154"
+        },
+        {
+          "titel": "Zuckerrübe",
+          "beschriftung": "Zuckerrübe",
+          "haupt": false,
+          "artikel": "Zuckerrübe",
+          "wikidata": "Q151964"
+        },
+        {
+          "titel": "Andreas Sigismund Marggraf",
+          "beschriftung": "Andreas Sigismund Marggraf",
+          "haupt": false,
+          "artikel": "Andreas Sigismund Marggraf",
+          "wikidata": "Q57983"
+        },
+        {
+          "titel": "Franz Carl Achard",
+          "beschriftung": "Franz Carl Achard",
+          "haupt": false,
+          "artikel": "Franz Carl Achard",
+          "wikidata": "Q60193"
+        },
+        {
+          "titel": "Carl Scheibler (Chemiker)",
+          "beschriftung": "Carl Scheibler",
+          "haupt": false,
+          "artikel": "Carl Scheibler (Chemiker)",
+          "wikidata": "Q120489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1600",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-03-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Ernst Renz (1815–1892)",
+      "bild_beschreibung": "Renz bei einer Pferdedressur in seinem Zirkus",
+      "entwerfer": "Erna de Vries",
+      "auflage": 29110000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Renz",
+          "beschriftung": "Ernst Renz",
+          "haupt": true,
+          "artikel": "Ernst Renz",
+          "wikidata": "Q1359911"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Pferdedressur",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1601",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-03-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Todestag von Konrad Adenauer (1876–1967)",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 31920000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": true,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1602",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-04-09",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Nachtfalter",
+      "bild_beschreibung": "Purpurbär Rhyparia purpurata",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3572000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Purpurbär",
+          "beschriftung": "Purpurbär",
+          "haupt": true,
+          "artikel": "Purpurbär",
+          "wikidata": "Q747544"
+        },
+        {
+          "titel": "Nachtfalter",
+          "beschriftung": "Nachtfalter",
+          "haupt": false,
+          "artikel": "Nachtfalter",
+          "wikidata": "Q1725788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-04-09",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Nachtfalter",
+      "bild_beschreibung": "Labkrautschwärmer Hyles gallii",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3480000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Labkrautschwärmer",
+          "beschriftung": "Labkrautschwärmer",
+          "haupt": true,
+          "artikel": "Labkrautschwärmer",
+          "wikidata": "Q851533"
+        },
+        {
+          "titel": "Nachtfalter",
+          "beschriftung": "Nachtfalter",
+          "haupt": false,
+          "artikel": "Nachtfalter",
+          "wikidata": "Q1725788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-04-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Nachtfalter",
+      "bild_beschreibung": "Silbermönch Cucullia argentea",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3468000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Silbermönch",
+          "beschriftung": "Silbermönch",
+          "haupt": true,
+          "artikel": "Silbermönch",
+          "wikidata": "Q843819"
+        },
+        {
+          "titel": "Nachtfalter",
+          "beschriftung": "Nachtfalter",
+          "haupt": false,
+          "artikel": "Nachtfalter",
+          "wikidata": "Q1725788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-04-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Nachtfalter",
+      "bild_beschreibung": "Schwarzer Bär Arctia villica",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzer Bär (Schmetterling)",
+          "beschriftung": "Schwarzer Bär",
+          "haupt": true,
+          "artikel": "Schwarzer Bär (Schmetterling)",
+          "wikidata": "Q1314980"
+        },
+        {
+          "titel": "Nachtfalter",
+          "beschriftung": "Nachtfalter",
+          "haupt": false,
+          "artikel": "Nachtfalter",
+          "wikidata": "Q1725788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-04-09",
+      "wert": "170+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Nachtfalter",
+      "bild_beschreibung": "Rauschbeerenspanner Papilio machaon",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3452000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rauschbeerenspanner",
+          "beschriftung": "Rauschbeerenspanner",
+          "haupt": true,
+          "artikel": "Rauschbeerenspanner",
+          "wikidata": "Q1547777"
+        },
+        {
+          "titel": "Nachtfalter",
+          "beschriftung": "Nachtfalter",
+          "haupt": false,
+          "artikel": "Nachtfalter",
+          "wikidata": "Q1725788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-04-09",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400. Geburtstag von Adam Schall von Bell (1592–1666)",
+      "bild_beschreibung": "Porträt vor astronomischer Himmelsdarstellung und dem Symbol des Jesuitenordens",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 30150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adam Schall von Bell",
+          "beschriftung": "Adam Schall von Bell",
+          "haupt": true,
+          "artikel": "Adam Schall von Bell",
+          "wikidata": "Q76732"
+        },
+        {
+          "titel": "Astronomie",
+          "beschriftung": "astronomischer Himmelsdarstellung",
+          "haupt": false,
+          "artikel": "Astronomie",
+          "wikidata": "Q333"
+        },
+        {
+          "titel": "Jesuiten",
+          "beschriftung": "Jesuiten",
+          "haupt": false,
+          "artikel": "Jesuiten",
+          "wikidata": "Q36380"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-05-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, 500. Jahrestag der Entdeckung Amerikas durch Christoph Kolumbus",
+      "bild_beschreibung": "florentinischer Holzschnitt von 1493: Kolumbus’ Flotte landet an der Küste Amerikas",
+      "entwerfer": "Erna de Vries",
+      "auflage": 58835000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geschichte von Florenz",
+          "beschriftung": "florentinischer",
+          "haupt": true,
+          "artikel": "Geschichte von Florenz",
+          "wikidata": "Q517851"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        },
+        {
+          "titel": "Flotte (Marine)",
+          "beschriftung": "Flotte",
+          "haupt": false,
+          "artikel": "Flotte (Marine)",
+          "wikidata": "Q189524"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Entdeckung Amerikas",
+          "beschriftung": "Entdeckung Amerikas",
+          "haupt": false,
+          "artikel": "Entdeckung Amerikas",
+          "wikidata": "Q221474"
+        },
+        {
+          "titel": "Christoph Kolumbus",
+          "beschriftung": "Christoph Kolumbus",
+          "haupt": false,
+          "artikel": "Christoph Kolumbus",
+          "wikidata": "Q7322"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-05-07",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, 500. Jahrestag der Entdeckung Amerikas durch Christoph Kolumbus",
+      "bild_beschreibung": "Holzschnitt von Jacques le Moyne de Morgues von 1564: René Goulaine de Laudonnière und Häuptling Athore",
+      "entwerfer": "Erna de Vries",
+      "auflage": 50215000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "René Goulaine de Laudonnière",
+          "beschriftung": "René Goulaine de Laudonnière",
+          "haupt": true,
+          "artikel": "René Goulaine de Laudonnière",
+          "wikidata": "Q672682"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Entdeckung Amerikas",
+          "beschriftung": "Entdeckung Amerikas",
+          "haupt": false,
+          "artikel": "Entdeckung Amerikas",
+          "wikidata": "Q221474"
+        },
+        {
+          "titel": "Christoph Kolumbus",
+          "beschriftung": "Christoph Kolumbus",
+          "haupt": false,
+          "artikel": "Christoph Kolumbus",
+          "wikidata": "Q7322"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-05-07",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1250. Geburtstag des Heiligen Liudger (um 742–809)",
+      "bild_beschreibung": "Miniatur aus der Vita Liudgeri, 11. Jahrhundert: Bischofsweihe des hl. Ludgerus, Apostel der Friesen und Sachsen",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 31490000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Liudger",
+          "beschriftung": "Liudger",
+          "haupt": true,
+          "artikel": "Liudger",
+          "wikidata": "Q719683"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1611",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-05-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1250 Jahre Erfurt",
+      "bild_beschreibung": "Erfurter Dom, Severikirche und Altstadthäuser von Erfurt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 31240000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": true,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        },
+        {
+          "titel": "Erfurter Dom",
+          "beschriftung": "Erfurter Dom",
+          "haupt": false,
+          "artikel": "Erfurter Dom",
+          "wikidata": "Q701567"
+        },
+        {
+          "titel": "Severikirche (Erfurt)",
+          "beschriftung": "Severikirche",
+          "haupt": false,
+          "artikel": "Severikirche (Erfurt)",
+          "wikidata": "Q1786237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-05-07",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Adam Ries (um 1492–1559)",
+      "bild_beschreibung": "Unterschrift und Initialen von Adam Ries und seine Darstellung der Neunerprobe",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 32080000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adam Ries",
+          "beschriftung": "Adam Ries",
+          "haupt": true,
+          "artikel": "Adam Ries",
+          "wikidata": "Q61740"
+        },
+        {
+          "titel": "Neuner- und Elferprobe",
+          "beschriftung": "Neunerprobe",
+          "haupt": false,
+          "artikel": "Neuner- und Elferprobe",
+          "wikidata": "Q1757155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-05-07",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Orden Pour le Mérite",
+      "bild_beschreibung": "Der Orden Pour le Mérite für Wissenschaften und Künste",
+      "entwerfer": "Paul Effert",
+      "auflage": 31780000,
+      "commons_datei": "DBP 1992 1613-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pour le Mérite",
+          "beschriftung": "Pour le Mérite",
+          "haupt": true,
+          "artikel": "Pour le Mérite",
+          "wikidata": "Q156478"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1615",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Umweltschutz",
+      "bild_beschreibung": "Rettet den tropischen Regenwald",
+      "entwerfer": "Sabine Wilhelm",
+      "auflage": 4687000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": true,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        },
+        {
+          "titel": "Tropischer Regenwald",
+          "beschriftung": "tropischen Regenwald",
+          "haupt": false,
+          "artikel": "Tropischer Regenwald",
+          "wikidata": "Q199403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Georg Christoph Lichtenberg (1742–1799)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31320000,
+      "commons_datei": "250. Geburtstag Georg Christoph Lichtenberg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georg Christoph Lichtenberg",
+          "beschriftung": "Georg Christoph Lichtenberg",
+          "haupt": true,
+          "artikel": "Georg Christoph Lichtenberg",
+          "wikidata": "Q57554"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Franz Marc Pferd in der Landschaft",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 32125000,
+      "commons_datei": "DBP 1992 1617-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Marc",
+          "beschriftung": "Franz Marc",
+          "haupt": true,
+          "artikel": "Franz Marc",
+          "wikidata": "Q44054"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "August Macke Modegeschäft",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 30270000,
+      "commons_datei": "DBP 1992 1618-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "August Macke",
+          "beschriftung": "August Macke",
+          "haupt": true,
+          "artikel": "August Macke",
+          "wikidata": "Q33981"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Wassily Kandinsky Murnau mit Regenbogen",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 27400000,
+      "commons_datei": "DBP 1992 1619-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wassily Kandinsky",
+          "beschriftung": "Wassily Kandinsky",
+          "haupt": true,
+          "artikel": "Wassily Kandinsky",
+          "wikidata": "Q61064"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-07-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Welt-Hauswirtschafts-Konferenz, Hannover",
+      "bild_beschreibung": "Symbol eines Hauses mit einer Weltkugel darin",
+      "entwerfer": "Paul Effert",
+      "auflage": 28730000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-07-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Familie schafft Zukunft",
+      "bild_beschreibung": "Kinderzeichnung einer Familie",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 29530000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-07-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Natur- und Umweltschutz",
+      "bild_beschreibung": "Botanischer Garten der Universität Leipzig",
+      "entwerfer": "W. P. Seiter",
+      "auflage": 30924000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Natur-",
+          "haupt": true,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        },
+        {
+          "titel": "Umweltschutz",
+          "beschriftung": "Umweltschutz",
+          "haupt": false,
+          "artikel": "Umweltschutz",
+          "wikidata": "Q832237"
+        },
+        {
+          "titel": "Botanischer Garten der Universität Leipzig",
+          "beschriftung": "Botanischer Garten der Universität Leipzig",
+          "haupt": false,
+          "artikel": "Botanischer Garten der Universität Leipzig",
+          "wikidata": "Q323954"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1624",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-08-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Egid Quirin Asam (1692–1750)",
+      "bild_beschreibung": "Mariä Himmelfahrt-Skulptur im Hochaltar der Stiftskirche im Kloster Rohr (Niederbayern)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 30840000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Egid Quirin Asam",
+          "beschriftung": "Egid Quirin Asam",
+          "haupt": true,
+          "artikel": "Egid Quirin Asam",
+          "wikidata": "Q639579"
+        },
+        {
+          "titel": "Mariä Aufnahme in den Himmel",
+          "beschriftung": "Mariä Himmelfahrt",
+          "haupt": false,
+          "artikel": "Mariä Aufnahme in den Himmel",
+          "wikidata": "Q162691"
+        },
+        {
+          "titel": "Kloster Rohr (Niederbayern)",
+          "beschriftung": "Kloster Rohr (Niederbayern)",
+          "haupt": false,
+          "artikel": "Kloster Rohr (Niederbayern)",
+          "wikidata": "Q881499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1625",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-08-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Deutsche Staatsoper Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 25690000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Staatsoper Unter den Linden",
+          "beschriftung": "Deutsche Staatsoper Berlin",
+          "haupt": true,
+          "artikel": "Staatsoper Unter den Linden",
+          "wikidata": "Q312576"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1626",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-08-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Bund Deutscher Amateurtheater",
+      "bild_beschreibung": "Schauspieler im Theater",
+      "entwerfer": "Peter Steiner",
+      "auflage": 27410000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bund Deutscher Amateurtheater",
+          "beschriftung": "Bund Deutscher Amateurtheater",
+          "haupt": true,
+          "artikel": "Bund Deutscher Amateurtheater",
+          "wikidata": "Q1004994"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1627",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-09-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Erdglobus",
+      "bild_beschreibung": "Martin Behaims Erdapfel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29460000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Globus",
+          "beschriftung": "Erdglobus",
+          "haupt": true,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Martin Behaims Erdapfel",
+          "beschriftung": "Martin Behaims Erdapfel",
+          "haupt": false,
+          "artikel": "Behaim-Globus",
+          "wikidata": "Q1903450"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1628",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-09-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "225 Jahre Schmuck- und Uhrenindustrie in Pforzheim",
+      "bild_beschreibung": "Anhänger, um 1890 vor Teil einer Uhr, 1990",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 28760000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pforzheim",
+          "beschriftung": "Pforzheim",
+          "haupt": true,
+          "artikel": "Pforzheim",
+          "wikidata": "Q3046"
+        },
+        {
+          "titel": "Schmuck",
+          "beschriftung": "Anhänger",
+          "haupt": false,
+          "artikel": "Schmuck",
+          "wikidata": "Q161439"
+        },
+        {
+          "titel": "Uhr",
+          "beschriftung": "Uhr",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1629",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-09-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Werner Bergengruen (1892–1964)",
+      "bild_beschreibung": "Porträt Bergengrüns nach einer Zeichnung von Hanny Fries",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 29600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Werner Bergengruen",
+          "beschriftung": "Werner Bergengruen",
+          "haupt": true,
+          "artikel": "Werner Bergengruen",
+          "wikidata": "Q704552"
+        },
+        {
+          "titel": "Hanny Fries",
+          "beschriftung": "Hanny Fries",
+          "haupt": false,
+          "artikel": "Hanny Fries",
+          "wikidata": "Q122978"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1630",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-09-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eröffnung des Main-Donau-Kanals",
+      "bild_beschreibung": "Neue Holzbrücke bei Essing",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29390000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Main-Donau-Kanal",
+          "beschriftung": "Main-Donau-Kanal",
+          "haupt": true,
+          "artikel": "Main-Donau-Kanal",
+          "wikidata": "Q153085"
+        },
+        {
+          "titel": "Holzbrücke bei Essing",
+          "beschriftung": "Holzbrücke bei Essing",
+          "haupt": false,
+          "artikel": "Holzbrücke bei Essing",
+          "wikidata": "Q874683"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1631",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1992: Uhren aus deutschen Sammlungen",
+      "bild_beschreibung": "Türmeruhr um 1400",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 12587000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1632",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1992: Uhren aus deutschen Sammlungen",
+      "bild_beschreibung": "Astronomisch-geographische Stutzuhr 1738",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6908000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stockuhr",
+          "beschriftung": "Stutzuhr",
+          "haupt": true,
+          "artikel": "Stockuhr",
+          "wikidata": "Q2350836"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1633",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1992: Uhren aus deutschen Sammlungen",
+      "bild_beschreibung": "Flötenuhr um 1790",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 12702000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flötenuhr",
+          "beschriftung": "Flötenuhr",
+          "haupt": true,
+          "artikel": "Flötenuhr",
+          "wikidata": "Q1434775"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1634",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1992: Uhren aus deutschen Sammlungen",
+      "bild_beschreibung": "Figurenuhr um 1580",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 19615000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Figurenuhr",
+          "beschriftung": "Figurenuhr",
+          "haupt": true,
+          "artikel": "Figurenuhr",
+          "wikidata": "Q1412222"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1635",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "170+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1992: Uhren aus deutschen Sammlungen",
+      "bild_beschreibung": "Tischuhr um 1550",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1636",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Verband Deutscher Maschinen- und Anlagenbau (VDMA)",
+      "bild_beschreibung": "Ottomotor, Zahnrad, LED-Matrix und Laserstrahl",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 17810000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Verband Deutscher Maschinen- und Anlagenbau",
+          "beschriftung": "Verband Deutscher Maschinen- und Anlagenbau",
+          "haupt": true,
+          "artikel": "VDMA",
+          "wikidata": "Q1699520"
+        },
+        {
+          "titel": "Ottomotor",
+          "beschriftung": "Ottomotor",
+          "haupt": false,
+          "artikel": "Ottomotor",
+          "wikidata": "Q3507866"
+        },
+        {
+          "titel": "Zahnrad",
+          "beschriftung": "Zahnrad",
+          "haupt": false,
+          "artikel": "Zahnrad",
+          "wikidata": "Q143873"
+        },
+        {
+          "titel": "Leuchtdiode",
+          "beschriftung": "LED-Matrix",
+          "haupt": false,
+          "artikel": "Leuchtdiode",
+          "wikidata": "Q25504"
+        },
+        {
+          "titel": "Laser",
+          "beschriftung": "Laser",
+          "haupt": false,
+          "artikel": "Laser",
+          "wikidata": "Q38867"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1637",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Hugo Distler (1908–1942)",
+      "bild_beschreibung": "Porträt vor seinem Choral Wir danken dir, Herr Jesu Christ",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 29790000,
+      "commons_datei": "DBP 1992 1637-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hugo Distler",
+          "beschriftung": "Hugo Distler",
+          "haupt": true,
+          "artikel": "Hugo Distler",
+          "wikidata": "Q702366"
+        },
+        {
+          "titel": "Choral",
+          "beschriftung": "Choral",
+          "haupt": false,
+          "artikel": "Choral",
+          "wikidata": "Q724473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1638",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-10-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Gasballon, Ballonpost der Deutschen Militärluftschiffer, um 1900",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 29850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Gasballon",
+          "beschriftung": "Gasballon",
+          "haupt": false,
+          "artikel": "Gasballon",
+          "wikidata": "Q537420"
+        },
+        {
+          "titel": "Ballonpost",
+          "beschriftung": "Ballonpost",
+          "haupt": false,
+          "artikel": "Ballonpost",
+          "wikidata": "Q805335"
+        },
+        {
+          "titel": "Feldluftschiffer",
+          "beschriftung": "Militärluftschiffer",
+          "haupt": false,
+          "artikel": "Feldluftschiffer",
+          "wikidata": "Q542056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1639",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-11-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1992, Details aus dem Reliefzyklus der Empore des St.-Annen-Kirche von Franz Maidburg",
+      "bild_beschreibung": "Anbetung der Könige",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 7775000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": true,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "St.-Annen-Kirche (Annaberg-Buchholz)",
+          "beschriftung": "St.-Annen-Kirche",
+          "haupt": false,
+          "artikel": "St. Annenkirche (Annaberg-Buchholz)",
+          "wikidata": "Q896131"
+        },
+        {
+          "titel": "Franz Maidburg",
+          "beschriftung": "Franz Maidburg",
+          "haupt": false,
+          "artikel": "Franz Maidburg",
+          "wikidata": "Q1269806"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1640",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-11-05",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1992, Details aus dem Reliefzyklus der Empore des St.-Annen-Kirche von Franz Maidburg",
+      "bild_beschreibung": "Christi Geburt",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 12522000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "St.-Annen-Kirche (Annaberg-Buchholz)",
+          "beschriftung": "St.-Annen-Kirche",
+          "haupt": true,
+          "artikel": "St. Annenkirche (Annaberg-Buchholz)",
+          "wikidata": "Q896131"
+        },
+        {
+          "titel": "Franz Maidburg",
+          "beschriftung": "Franz Maidburg",
+          "haupt": false,
+          "artikel": "Franz Maidburg",
+          "wikidata": "Q1269806"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1641",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Gebhard Leberecht von Blücher (1742–1819)",
+      "bild_beschreibung": "Der preußische Generalfeldmarschall Fürst Blücher z Pferde, Gemälde von Simon Meister",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 29651000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gebhard Leberecht von Blücher",
+          "beschriftung": "Gebhard Leberecht von Blücher",
+          "haupt": true,
+          "artikel": "Gebhard Leberecht von Blücher",
+          "wikidata": "Q153522"
+        },
+        {
+          "titel": "Simon Meister",
+          "beschriftung": "Simon Meister",
+          "haupt": false,
+          "artikel": "Simon Meister",
+          "wikidata": "Q1752564"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1642",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Werner von Siemens (1816–1892)",
+      "bild_beschreibung": "",
+      "entwerfer": "Margit Zauner",
+      "auflage": 29830000,
+      "commons_datei": "Stamp of Germany.Werner von Siemens,1992.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Werner von Siemens",
+          "beschriftung": "Werner von Siemens",
+          "haupt": true,
+          "artikel": "Werner von Siemens",
+          "wikidata": "Q58577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1643",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Jochen Klepper (1903–1942)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 27400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jochen Klepper",
+          "beschriftung": "Jochen Klepper",
+          "haupt": true,
+          "artikel": "Jochen Klepper",
+          "wikidata": "Q76329"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1644",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1992-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Binnenmarkt",
+      "bild_beschreibung": "Europa-Emblem und fünfzackiger EU-Stern, gebildet aus Stäben",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 30520000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europäischer Binnenmarkt",
+          "beschriftung": "Europäischer Binnenmarkt",
+          "haupt": true,
+          "artikel": "Europäischer Binnenmarkt",
+          "wikidata": "Q955276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1582",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1992-01-09",
+      "wert": "400",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Charlotte von Stein",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 190421000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Charlotte von Stein",
+          "beschriftung": "Charlotte von Stein",
+          "haupt": true,
+          "artikel": "Charlotte von Stein",
+          "wikidata": "Q64201"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1614",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1992-06-11",
+      "wert": "450",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Hedwig Courths-Mahler",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 70408000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hedwig Courths-Mahler",
+          "beschriftung": "Hedwig Courths-Mahler",
+          "haupt": true,
+          "artikel": "Hedwig Courths-Mahler",
+          "wikidata": "Q65078"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1623",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1992-08-13",
+      "wert": "450",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Neues Tor, Neubrandenburg",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 161989000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        },
+        {
+          "titel": "Neues Tor (Neubrandenburg)",
+          "beschriftung": "Neues Tor, Neubrandenburg",
+          "haupt": false,
+          "artikel": "Neues Tor (Neubrandenburg)",
+          "wikidata": "Q1746896"
+        }
+      ]
+    }
+  ]
+}

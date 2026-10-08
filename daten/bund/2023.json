@@ -1,0 +1,1831 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2023,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2023 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2023_der_Bundesrepublik_Deutschland",
+    "revision": 263422026,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3732,
+    "mi_nr_bis": 3805,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 63,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3737",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "275",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Immaterielles Kulturerbe",
+      "bild_beschreibung": "Orgelbau – Orgelmusik",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 2446400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Orgelbauer",
+          "beschriftung": "Orgelbau",
+          "haupt": true,
+          "artikel": "Orgelbauer",
+          "wikidata": "Q1937431"
+        },
+        {
+          "titel": "Orgelmusik",
+          "beschriftung": "Orgelmusik",
+          "haupt": false,
+          "artikel": "Orgelmusik",
+          "wikidata": "Q116958279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3738",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Sehenswürdigkeiten",
+      "bild_beschreibung": "Insel Mainau",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3004900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mainau",
+          "beschriftung": "Insel Mainau",
+          "haupt": true,
+          "artikel": "Mainau",
+          "wikidata": "Q165401"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Sehenswürdigkeiten",
+      "bild_beschreibung": "Zeche Zollverein",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 2521400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeche Zollverein",
+          "beschriftung": "Zeche Zollverein",
+          "haupt": true,
+          "artikel": "Zeche Zollverein",
+          "wikidata": "Q122026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Hans im Glück",
+      "bild_beschreibung": "zur Unterstützung der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Der Abschied",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 1972600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Hans im Glück",
+          "beschriftung": "Hans im Glück",
+          "haupt": false,
+          "artikel": "Hans im Glück",
+          "wikidata": "Q11827"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3746",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "100+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Hans im Glück",
+      "bild_beschreibung": "Allerlei Tauschgeschäfte",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 2320100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Hans im Glück",
+          "beschriftung": "Hans im Glück",
+          "haupt": false,
+          "artikel": "Hans im Glück",
+          "wikidata": "Q11827"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "160+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Hans im Glück",
+      "bild_beschreibung": "Die Rückkehr",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 3270100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Hans im Glück",
+          "beschriftung": "Hans im Glück",
+          "haupt": false,
+          "artikel": "Hans im Glück",
+          "wikidata": "Q11827"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Beliebte Haustiere",
+      "bild_beschreibung": "Katze",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 2664000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hauskatze",
+          "beschriftung": "Katze",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag Bertolt Brecht",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Wittig",
+      "auflage": 2927900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bertolt Brecht",
+          "beschriftung": "Bertolt Brecht",
+          "haupt": true,
+          "artikel": "Bertolt Brecht",
+          "wikidata": "Q38757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Hans im Glück",
+      "bild_beschreibung": "Der Abschied; selbstklebend aus Folienblatt und Rolle",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 9366500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-02-02",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Beliebte Haustiere",
+      "bild_beschreibung": "Katze; selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 15677600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3752",
+      "block": "Block 91",
+      "art": "Sondermarke",
+      "ausgabetag": "2023-03-01",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Stralsund-Brief; Ausgabe auch als Briefmarkenblock",
+      "entwerfer": "Ruven Wiegert (Marke), Jennifer Dengler (Block)",
+      "auflage": 1469900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Stralsund-Brief",
+          "beschriftung": "Stralsund-Brief",
+          "haupt": false,
+          "artikel": "Stralsund-Brief",
+          "wikidata": "Q116896454"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-03-01",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Max Reger",
+      "bild_beschreibung": "",
+      "entwerfer": "Wilfried Korfmacher",
+      "auflage": 2593900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max Reger",
+          "beschriftung": "Max Reger",
+          "haupt": true,
+          "artikel": "Max Reger",
+          "wikidata": "Q57139"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3754",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Disney",
+      "bild_beschreibung": "",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3121900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "The Walt Disney Company",
+          "beschriftung": "Disney",
+          "haupt": true,
+          "artikel": "The Walt Disney Company",
+          "wikidata": "Q7414"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3755",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Blumengruß",
+      "bild_beschreibung": "",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2604900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3756",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Disney",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 42927500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3757",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Blumengruß",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Bettina Walter",
+      "auflage": 1327500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-04-06",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Street Art",
+      "bild_beschreibung": "LOW BROS – New Wave",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2758700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-04-06",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: U-Bahn-Stationen",
+      "bild_beschreibung": "Reinoldikirche, Dortmund",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 2832700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "U-Bahnhof Reinoldikirche",
+          "beschriftung": "Reinoldikirche",
+          "haupt": true,
+          "artikel": "U-Bahnhof Reinoldikirche",
+          "wikidata": "Q18413452"
+        },
+        {
+          "titel": "Dortmund",
+          "beschriftung": "Dortmund",
+          "haupt": false,
+          "artikel": "Dortmund",
+          "wikidata": "Q1295"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-04-06",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: U-Bahn-Stationen",
+      "bild_beschreibung": "Wilhelm-Leuschner-Platz, Leipzig",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 2902700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm-Leuschner-Platz (Leipzig)",
+          "beschriftung": "Wilhelm-Leuschner-Platz",
+          "haupt": true,
+          "artikel": "Wilhelm-Leuschner-Platz (Leipzig)",
+          "wikidata": "Q27478717"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-04-06",
+      "wert": "195",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag Helene Lange",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Beyrow und Constanze Vogt",
+      "auflage": 2613700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Helene Lange",
+          "beschriftung": "Helene Lange",
+          "haupt": true,
+          "artikel": "Helene Lange",
+          "wikidata": "Q75209"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-05-04",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Paralympischer Sport",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Rollstuhlbasketball",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1490900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Rollstuhlbasketball",
+          "beschriftung": "Rollstuhlbasketball",
+          "haupt": false,
+          "artikel": "Rollstuhlbasketball",
+          "wikidata": "Q1128216"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Paralympischer Sport",
+          "haupt": false,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-05-04",
+      "wert": "100+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Paralympischer Sport",
+      "bild_beschreibung": "Para Leichtathletik",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1489900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Para Leichtathletik-Europameisterschaften 2020",
+          "beschriftung": "Para Leichtathletik",
+          "haupt": true,
+          "artikel": "Para-Leichtathletik-Europameisterschaften 2020",
+          "wikidata": "Q80554525"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Paralympischer Sport",
+          "haupt": false,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-05-04",
+      "wert": "160+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Paralympischer Sport",
+      "bild_beschreibung": "Para Ski Alpin",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1490900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Para-Ski",
+          "beschriftung": "Para Ski Alpin",
+          "haupt": true,
+          "artikel": "Para-Ski",
+          "wikidata": "Q2792487"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Paralympischer Sport",
+          "haupt": false,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-05-04",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "FRIEDEN – höchstes Gut der Menschheit",
+      "entwerfer": "2xGoldstein",
+      "auflage": 2748700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3766",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-05-04",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Internationale Briefmarkenausstellung IBRA 2023",
+      "bild_beschreibung": "",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 2606700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-05-04",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Kirchen bewahren und beleben: Kirchenburg Walldorf/Werra",
+      "bild_beschreibung": "",
+      "entwerfer": "Sandra Hoffmann Robbiani",
+      "auflage": 2734700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kirchenburg Walldorf",
+          "beschriftung": "Kirchenburg Walldorf",
+          "haupt": true,
+          "artikel": "Kirchenburg Walldorf",
+          "wikidata": "Q1743092"
+        },
+        {
+          "titel": "Werra",
+          "beschriftung": "Werra",
+          "haupt": false,
+          "artikel": "Werra",
+          "wikidata": "Q6424"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3768",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-06-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Schleizer Dreieck",
+      "bild_beschreibung": "",
+      "entwerfer": "Hanno Schabacker",
+      "auflage": 2648200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schleizer Dreieck",
+          "beschriftung": "Schleizer Dreieck",
+          "haupt": true,
+          "artikel": "Schleizer Dreieck",
+          "wikidata": "Q1484357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-06-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Die Jugend gestaltet eine Briefmarke: Setz ein Zeichen für Demokratie",
+      "bild_beschreibung": "",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 2687700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3770",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-06-01",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Special Olympics World Games Berlin 2023",
+      "bild_beschreibung": "",
+      "entwerfer": "Susann Stefanizen",
+      "auflage": 2785700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Special Olympics World Summer Games 2023",
+          "beschriftung": "Special Olympics World Games Berlin 2023",
+          "haupt": true,
+          "artikel": "Special Olympics World Summer Games 2023",
+          "wikidata": "Q99755521"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3771",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-06-01",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Natur schützen! Überleben sichern!",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 2591700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3772",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-06-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Die Jugend gestaltet eine Briefmarke: Setz ein Zeichen für Demokratie",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 2593500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3773",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-06-01",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Natur schützen! Überleben sichern!",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 1883500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-07-06",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Helgoland",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 2963700,
+      "commons_datei": "Sonderbriefmarke Leuchtturm Helgoland asv2023-07 Ausschnitt2.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": true,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        },
+        {
+          "titel": "Leuchtturm Helgoland",
+          "beschriftung": "Helgoland",
+          "haupt": false,
+          "artikel": "Leuchtturm Helgoland",
+          "wikidata": "Q50740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-07-06",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Ivenacker Eichen – Erstes Nationales Naturmonument",
+      "bild_beschreibung": "",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 2694200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ivenacker Eichen",
+          "beschriftung": "Ivenacker Eichen",
+          "haupt": true,
+          "artikel": "Ivenacker Eichen",
+          "wikidata": "Q967994"
+        },
+        {
+          "titel": "Nationales Naturmonument",
+          "beschriftung": "Nationales Naturmonument",
+          "haupt": false,
+          "artikel": "Nationales Naturmonument",
+          "wikidata": "Q1968322"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-08-03",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Mainzelmännchen",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Anordnung „Pyramide“",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1490900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Mainzelmännchen",
+          "beschriftung": "Mainzelmännchen",
+          "haupt": false,
+          "artikel": "Mainzelmännchen",
+          "wikidata": "Q896669"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-08-03",
+      "wert": "100+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Mainzelmännchen",
+      "bild_beschreibung": "Anordnung „Gruppe lang“",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1477900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mainzelmännchen",
+          "beschriftung": "Mainzelmännchen",
+          "haupt": true,
+          "artikel": "Mainzelmännchen",
+          "wikidata": "Q896669"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-08-03",
+      "wert": "160+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Mainzelmännchen",
+      "bild_beschreibung": "Anordnung „Gruppe rund“",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1477900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mainzelmännchen",
+          "beschriftung": "Mainzelmännchen",
+          "haupt": true,
+          "artikel": "Mainzelmännchen",
+          "wikidata": "Q896669"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-08-03",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Legenden der Pop-/Rockmusik",
+      "bild_beschreibung": "Jimi Hendrix",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 3124700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jimi Hendrix",
+          "beschriftung": "Jimi Hendrix",
+          "haupt": true,
+          "artikel": "Jimi Hendrix",
+          "wikidata": "Q5928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3781",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-08-03",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "70 Jahre Yad Vashem",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Guzy",
+      "auflage": 2656200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Yad Vashem",
+          "beschriftung": "Yad Vashem",
+          "haupt": true,
+          "artikel": "Yad Vashem",
+          "wikidata": "Q156591"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3782",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-09-07",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Junge Wildtiere",
+      "bild_beschreibung": "Ziesel",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 2681700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ziesel",
+          "beschriftung": "Ziesel",
+          "haupt": true,
+          "artikel": "Ziesel",
+          "wikidata": "Q199251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3783",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-09-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Street Art",
+      "bild_beschreibung": "MadC – Past and Future",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2438700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "MadC",
+          "beschriftung": "MadC",
+          "haupt": true,
+          "artikel": "MadC",
+          "wikidata": "Q15110006"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3784",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-09-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Superhelden",
+      "bild_beschreibung": "Iron Man",
+      "entwerfer": "Thomas Steinacker und Jan-Niklas Kröger",
+      "auflage": 3054700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Iron Man",
+          "beschriftung": "Iron Man",
+          "haupt": true,
+          "artikel": "Iron Man",
+          "wikidata": "Q180704"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3785",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-09-07",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Zeitreise Deutschland",
+      "bild_beschreibung": "Dresden",
+      "entwerfer": "Thomas Steinacker und Jan-Niklas Kröger",
+      "auflage": 2704700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": true,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3786",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-09-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Rechenmaschine Wilhelm Schickard",
+      "bild_beschreibung": "",
+      "entwerfer": "Luzia Hein",
+      "auflage": 2950700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rechenmaschine",
+          "beschriftung": "Rechenmaschine",
+          "haupt": true,
+          "artikel": "Rechenmaschine",
+          "wikidata": "Q211586"
+        },
+        {
+          "titel": "Wilhelm Schickard",
+          "beschriftung": "Wilhelm Schickard",
+          "haupt": false,
+          "artikel": "Wilhelm Schickard",
+          "wikidata": "Q57403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3787",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-10-05",
+      "wert": "195",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Bernhard Carl „Bert“ Trautmann",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": 1646100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bert Trautmann",
+          "beschriftung": "Bernhard Carl „Bert“ Trautmann",
+          "haupt": true,
+          "artikel": "Bert Trautmann",
+          "wikidata": "Q374982"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3788",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-10-05",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Otfried Preußler",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Burger",
+      "auflage": 2428600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otfried Preußler",
+          "beschriftung": "Otfried Preußler",
+          "haupt": true,
+          "artikel": "Otfried Preußler",
+          "wikidata": "Q44647"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3789",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-10-05",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Planetarium in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Frank Philippin",
+      "auflage": 2421600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Planetarium",
+          "beschriftung": "Planetarium",
+          "haupt": true,
+          "artikel": "Planetarium",
+          "wikidata": "Q148319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3790",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-10-05",
+      "wert": "275",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Rundfunk in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Luzia Hein",
+      "auflage": 1573600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rundfunk",
+          "beschriftung": "Rundfunk",
+          "haupt": true,
+          "artikel": "Rundfunk",
+          "wikidata": "Q15078788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3791",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-10-05",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Maximilian-Kolbe-Werk",
+      "bild_beschreibung": "",
+      "entwerfer": "Serge Rompza und Anders Hofgaard",
+      "auflage": 2392100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Maximilian-Kolbe-Werk",
+          "beschriftung": "Maximilian-Kolbe-Werk",
+          "haupt": true,
+          "artikel": "Maximilian-Kolbe-Werk",
+          "wikidata": "Q1579890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3792",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-10-05",
+      "wert": "275",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Rundfunk in Deutschland",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Luzia Hein",
+      "auflage": 1928500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3793",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Botschaft des Engels: „Euch ist heute der Heiland geboren“",
+      "entwerfer": "nexd",
+      "auflage": 1951200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3794",
+      "block": "Block 92",
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Vicco von Bülow – Loriot",
+      "bild_beschreibung": "Vicco von Bülow",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 2820300,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Loriot",
+          "beschriftung": "Loriot",
+          "haupt": true,
+          "artikel": "Loriot",
+          "wikidata": "Q44736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3795",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Vicco von Bülow – Loriot",
+      "bild_beschreibung": "Loriot",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 3020300,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Loriot",
+          "beschriftung": "Loriot",
+          "haupt": true,
+          "artikel": "Loriot",
+          "wikidata": "Q44736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3796",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Historische Bauwerke in Deutschland",
+      "bild_beschreibung": "Brandenburger Tor von einer KI interpretiert",
+      "entwerfer": "pro concept",
+      "auflage": 801000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Künstliche Intelligenz",
+          "beschriftung": "KI",
+          "haupt": false,
+          "artikel": "Künstliche Intelligenz",
+          "wikidata": "Q11660"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3797",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Superhelden",
+      "bild_beschreibung": "Captain Marvel",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 2670700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Captain Marvel (Marvel Comics)",
+          "beschriftung": "Captain Marvel",
+          "haupt": true,
+          "artikel": "Captain Marvel (Marvel Comics)",
+          "wikidata": "Q2937657"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3798",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Eichhörnchen im Schnee",
+      "bild_beschreibung": "",
+      "entwerfer": "Bettina Walter",
+      "auflage": 3372600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eichhörnchen",
+          "beschriftung": "Eichhörnchen",
+          "haupt": true,
+          "artikel": "Eichhörnchen",
+          "wikidata": "Q281124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3799",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Botschaft des Engels: „Euch ist heute der Heiland geboren“; selbstklebend aus Folienblatt",
+      "entwerfer": "nexd",
+      "auflage": 4513000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3800",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Loriot",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 5923500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3801",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Historische Bauwerke in Deutschland",
+      "bild_beschreibung": "Brandenburger Tor von einer KI; selbstklebend aus Markenheftchen",
+      "entwerfer": "pro concept",
+      "auflage": 250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3802",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Eichhörnchen im Schnee",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Bettina Walter",
+      "auflage": 47441500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3803",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-12-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Helden der Kindheit",
+      "bild_beschreibung": "Käpt’n Blaubär",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 2490300,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käpt’n Blaubär",
+          "beschriftung": "Käpt’n Blaubär",
+          "haupt": true,
+          "artikel": "Käpt’n Blaubär",
+          "wikidata": "Q605591"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3804",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-12-07",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Helden der Kindheit",
+      "bild_beschreibung": "Pinocchio",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 2327800,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pinocchio",
+          "beschriftung": "Pinocchio",
+          "haupt": true,
+          "artikel": "Pinocchio",
+          "wikidata": "Q6502703"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3805",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2023-12-07",
+      "wert": "370",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Allgemeine Erklärung der Menschenrechte",
+      "bild_beschreibung": "",
+      "entwerfer": "Rimini Berlin GbR",
+      "auflage": 1606900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Allgemeine Erklärung der Menschenrechte",
+          "beschriftung": "Allgemeine Erklärung der Menschenrechte",
+          "haupt": true,
+          "artikel": "Allgemeine Erklärung der Menschenrechte",
+          "wikidata": "Q7813"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3732",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefbahn",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3733",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "33",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefberge",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3734",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "38",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Flügelstifte",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3735",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "48",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Regenbogenbrief",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3736",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "61",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefmarkengleiter",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3740",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefbahn; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3741",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "33",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefberge; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3742",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "38",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Flügelstifte; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3743",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "48",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Regenbogenbrief; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3744",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-01-05",
+      "wert": "61",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefmarkengleiter; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3776",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2023-08-03",
+      "wert": "345",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefbeet",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1642 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1999,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1999 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1999_der_Bundesrepublik_Deutschland",
+    "revision": 258328960,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2027,
+    "mi_nr_bis": 2086,
+    "luecken": [],
+    "ausreisser": [
+      2009
+    ],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2027",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-01-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Senioren",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationales Jahr der älteren Menschen",
+          "beschriftung": "Internationales Jahr der Senioren",
+          "haupt": true,
+          "artikel": "Internationales Jahr der älteren Menschen",
+          "wikidata": "Q627675"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2028",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-01-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1100 Jahre Weimar – Kulturstadt Europas 1999",
+      "bild_beschreibung": "auch als Markenheftchen",
+      "entwerfer": "Vera Braesecke-Kaul, Hilmar Kaul",
+      "auflage": 150000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": true,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        },
+        {
+          "titel": "Kulturhauptstadt Europas",
+          "beschriftung": "Kulturstadt Europas",
+          "haupt": false,
+          "artikel": "Kulturhauptstadt Europas",
+          "wikidata": "Q129372"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2029",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-01-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Katharina von Bora",
+      "bild_beschreibung": "",
+      "entwerfer": "H. P. Schall",
+      "auflage": 22200000,
+      "commons_datei": "Stamp Germany 1999 MiNr2029 Katharina von Bora.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katharina von Bora",
+          "beschriftung": "Katharina von Bora",
+          "haupt": true,
+          "artikel": "Katharina von Bora",
+          "wikidata": "Q77239"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2030",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-01-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Hessischer Landtag, Wiesbaden",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hessischer Landtag",
+          "beschriftung": "Hessischer Landtag",
+          "haupt": true,
+          "artikel": "Hessischer Landtag",
+          "wikidata": "Q510511"
+        },
+        {
+          "titel": "Wiesbaden",
+          "beschriftung": "Wiesbaden",
+          "haupt": false,
+          "artikel": "Wiesbaden",
+          "wikidata": "Q1721"
+        },
+        {
+          "titel": "Landesparlamente in Deutschland",
+          "beschriftung": "Landesparlamente in Deutschland",
+          "haupt": false,
+          "artikel": "Landesparlamente in Deutschland",
+          "wikidata": "Q1802397"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2031",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-02-18",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Radsport",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radsport",
+          "beschriftung": "Radsport",
+          "haupt": true,
+          "artikel": "Radsport",
+          "wikidata": "Q2215841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2032",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-02-18",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Automobilrennsport",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2790000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Automobilsport",
+          "beschriftung": "Automobilrennsport",
+          "haupt": true,
+          "artikel": "Automobilsport",
+          "wikidata": "Q9340418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2033",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-02-18",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Pferderennsport",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Pferderennsport",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2034",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-02-18",
+      "wert": "300+100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Motorradrennsport",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2270000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motorradsport",
+          "beschriftung": "Motorradrennsport",
+          "haupt": true,
+          "artikel": "Motorradsport",
+          "wikidata": "Q328716"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2035",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-02-18",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Erich Kästner",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 50800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erich Kästner",
+          "beschriftung": "Erich Kästner",
+          "haupt": true,
+          "artikel": "Erich Kästner",
+          "wikidata": "Q76546"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2036",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-03-11",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Bürgerschaft der Freien und Hansestadt Hamburg",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamburgische Bürgerschaft",
+          "beschriftung": "Bürgerschaft der Freien und Hansestadt Hamburg",
+          "haupt": true,
+          "artikel": "Hamburgische Bürgerschaft",
+          "wikidata": "Q636377"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2037",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-03-11",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Landtag Mecklenburg-Vorpommern, Schwerin",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landtag Mecklenburg-Vorpommern",
+          "beschriftung": "Landtag Mecklenburg-Vorpommern",
+          "haupt": true,
+          "artikel": "Landtag Mecklenburg-Vorpommern",
+          "wikidata": "Q882738"
+        },
+        {
+          "titel": "Schwerin",
+          "beschriftung": "Schwerin",
+          "haupt": false,
+          "artikel": "Schwerin",
+          "wikidata": "Q1709"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2038",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-03-11",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Krüll",
+      "auflage": 20200000,
+      "commons_datei": "Stamp Germany 1999 MiNr2038 Fraunhofer Gesellschaft.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fraunhofer-Gesellschaft",
+          "beschriftung": "Fraunhofer-Gesellschaft",
+          "haupt": true,
+          "artikel": "Fraunhofer-Gesellschaft",
+          "wikidata": "Q161057"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2039",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-03-11",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Nordatlantikpakt (NATO)",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 20000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2039 NATO.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "NATO",
+          "beschriftung": "NATO",
+          "haupt": true,
+          "artikel": "NATO",
+          "wikidata": "Q7184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2040",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-04-27",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Bremische Bürgerschaft",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremische Bürgerschaft",
+          "beschriftung": "Bremische Bürgerschaft",
+          "haupt": true,
+          "artikel": "Bremische Bürgerschaft",
+          "wikidata": "Q317147"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2041",
+      "block": "Block 46",
+      "art": "Sondermarke",
+      "ausgabetag": "1999-04-27",
+      "wert": "300+110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 150 Jahre Deutsche Briefmarken",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 3300000,
+      "commons_datei": "Stamp Germany 1999 MiNr2041 Deutsche Briefmarken.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2042",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-04-27",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltausstellung EXPO 2000, Hannover",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 31100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Expo 2000",
+          "beschriftung": "EXPO 2000",
+          "haupt": true,
+          "artikel": "Expo 2000",
+          "wikidata": "Q734463"
+        },
+        {
+          "titel": "Hannover",
+          "beschriftung": "Hannover",
+          "haupt": false,
+          "artikel": "Hannover",
+          "wikidata": "Q1715"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2043",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-04-27",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Automobilclub von Deutschland (AvD)",
+      "bild_beschreibung": "",
+      "entwerfer": "Heike Ullmann",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Automobilclub von Deutschland",
+          "beschriftung": "Automobilclub von Deutschland",
+          "haupt": true,
+          "artikel": "Automobilclub von Deutschland",
+          "wikidata": "Q315955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2044",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-04-27",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Krebshilfe",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger, Lorli Jünger",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Krebshilfe",
+          "beschriftung": "Deutsche Krebshilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Krebshilfe",
+          "wikidata": "Q1203257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2045",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-04-27",
+      "wert": "110+100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kosovo-Hilfe",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 3110000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kosovo",
+          "beschriftung": "Kosovo",
+          "haupt": true,
+          "artikel": "Kosovo",
+          "wikidata": "Q1246"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2046",
+      "block": "Block 47",
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-04",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche National- und Naturparke",
+      "bild_beschreibung": "Nationalpark Berchtesgaden; gleichzeitig Europamarke",
+      "entwerfer": "Silvia Runge",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": true,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Nationalpark Berchtesgaden",
+          "beschriftung": "Nationalpark Berchtesgaden",
+          "haupt": false,
+          "artikel": "Nationalpark Berchtesgaden",
+          "wikidata": "Q702489"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2047",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-04",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "900 Jahre Johanniter und Malteser",
+      "bild_beschreibung": "",
+      "entwerfer": "Lou Romboy",
+      "auflage": 20000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2047 Johanniter und Malteser.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johanniterorden",
+          "beschriftung": "Johanniter",
+          "haupt": true,
+          "artikel": "Johanniterorden",
+          "wikidata": "Q4498889"
+        },
+        {
+          "titel": "Souveräner Malteserorden",
+          "beschriftung": "Malteser",
+          "haupt": false,
+          "artikel": "Souveräner Malteserorden",
+          "wikidata": "Q190353"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2048",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-04",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Beendigung der Blockade Berlins",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 20000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2048 Berlin Blockade.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Blockade",
+          "beschriftung": "Blockade Berlins",
+          "haupt": true,
+          "artikel": "Berlin-Blockade",
+          "wikidata": "Q151349"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2049",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-04",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Europarat",
+      "bild_beschreibung": "",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europarat",
+          "beschriftung": "Europarat",
+          "haupt": true,
+          "artikel": "Europarat",
+          "wikidata": "Q8908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2050",
+      "block": "Block 48",
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-21",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Grundgesetz",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 8000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2050 Grundgesetz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Grundgesetz",
+          "beschriftung": "Grundgesetz",
+          "haupt": true,
+          "artikel": "Grundgesetz für die Bundesrepublik Deutschland",
+          "wikidata": "Q56045"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2051",
+      "block": "Block 49",
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-21",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Bundesrepublik Deutschland – Gegenüberstellung Vergangenheit/Gegenwart",
+      "bild_beschreibung": "Politische Anfänge und neuer Parlamentssaal",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesrepublik Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2052",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-21",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Bundesrepublik Deutschland – Gegenüberstellung Vergangenheit/Gegenwart",
+      "bild_beschreibung": "Kindheit einst und jetzt",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesrepublik Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2053",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-21",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Bundesrepublik Deutschland – Gegenüberstellung Vergangenheit/Gegenwart",
+      "bild_beschreibung": "Mauerbau und Fall der Mauer",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Mauer",
+          "beschriftung": "Mauerbau",
+          "haupt": true,
+          "artikel": "Berliner Mauer",
+          "wikidata": "Q5086"
+        },
+        {
+          "titel": "Bundesrepublik Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2054",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-05-21",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Bundesrepublik Deutschland – Gegenüberstellung Vergangenheit/Gegenwart",
+      "bild_beschreibung": "Militärische Konfrontation und Zusammenarbeit",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesrepublik Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2055",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Trickfilmfiguren",
+      "bild_beschreibung": "Der kleine Eisbär",
+      "entwerfer": "Peter Steiner",
+      "auflage": 2650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der kleine Eisbär",
+          "beschriftung": "Der kleine Eisbär",
+          "haupt": true,
+          "artikel": "Der kleine Eisbär",
+          "wikidata": "Q57586581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2056",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Trickfilmfiguren",
+      "bild_beschreibung": "Rabe Rudi",
+      "entwerfer": "Peter Steiner",
+      "auflage": 2620000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Siebenstein",
+          "beschriftung": "Rabe Rudi",
+          "haupt": true,
+          "artikel": "Siebenstein",
+          "wikidata": "Q2282411"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2057",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Trickfilmfiguren",
+      "bild_beschreibung": "Mecki",
+      "entwerfer": "Peter Steiner",
+      "auflage": 2630000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecki",
+          "beschriftung": "Mecki",
+          "haupt": true,
+          "artikel": "Mecki",
+          "wikidata": "Q1567149"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2058",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Trickfilmfiguren",
+      "bild_beschreibung": "Twipsy",
+      "entwerfer": "Peter Steiner",
+      "auflage": 2550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Twipsy",
+          "beschriftung": "Twipsy",
+          "haupt": true,
+          "artikel": "Twipsy",
+          "wikidata": "Q319209"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2059",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "220+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Trickfilmfiguren",
+      "bild_beschreibung": "Tabaluga",
+      "entwerfer": "Peter Steiner",
+      "auflage": 2510000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tabaluga",
+          "beschriftung": "Tabaluga",
+          "haupt": true,
+          "artikel": "Tabaluga",
+          "wikidata": "Q1639889"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2060",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Bistum Paderborn",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 21000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2060 Bistum Paderborn.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erzbistum Paderborn",
+          "beschriftung": "Bistum Paderborn",
+          "haupt": true,
+          "artikel": "Erzbistum Paderborn",
+          "wikidata": "Q253765"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2061",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Johann Strauß",
+      "bild_beschreibung": "",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 50000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2061 Johann Strauß.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Strauss (Sohn)",
+          "beschriftung": "Johann Strauß",
+          "haupt": true,
+          "artikel": "Johann Strauss (Sohn)",
+          "wikidata": "Q83309"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2062",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre SOS-Kinderdörfer",
+      "bild_beschreibung": "",
+      "entwerfer": "Marie-Helen Geißelbrecht",
+      "auflage": 80500000,
+      "commons_datei": "Stamp Germany 1999 MiNr2062 SOS Kinderdorf.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "SOS-Kinderdorf",
+          "beschriftung": "SOS-Kinderdörfer",
+          "haupt": true,
+          "artikel": "SOS-Kinderdorf",
+          "wikidata": "Q462794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2063",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-07-15",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Kulturstiftung der Länder",
+      "bild_beschreibung": "Skulptur \"Lachende Alte\" von Ernst Barlach",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": true,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        },
+        {
+          "titel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "beschriftung": "Kulturstiftung der Länder",
+          "haupt": false,
+          "artikel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "wikidata": "Q1538086"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2064",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-07-15",
+      "wert": "220",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Kulturstiftung der Länder",
+      "bild_beschreibung": "Skulptur \"Kopf eines Denkers\" von Wilhelm Lehmbruck",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Lehmbruck",
+          "beschriftung": "Wilhelm Lehmbruck",
+          "haupt": true,
+          "artikel": "Wilhelm Lehmbruck",
+          "wikidata": "Q551282"
+        },
+        {
+          "titel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "beschriftung": "Kulturstiftung der Länder",
+          "haupt": false,
+          "artikel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "wikidata": "Q1538086"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2065",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-07-15",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "115 Jahre Dominikus-Ringeisen-Werk, Ursberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dominikus-Ringeisen-Werk",
+          "beschriftung": "Dominikus-Ringeisen-Werk",
+          "haupt": true,
+          "artikel": "Dominikus-Ringeisen-Werk",
+          "wikidata": "Q15806294"
+        },
+        {
+          "titel": "Ursberg",
+          "beschriftung": "Ursberg",
+          "haupt": false,
+          "artikel": "Ursberg",
+          "wikidata": "Q508668"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2066",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-07-15",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag der Ersten Haager Friedenskonferenz",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Haager Friedenskonferenzen",
+          "beschriftung": "Ersten Haager Friedenskonferenz",
+          "haupt": true,
+          "artikel": "Haager Friedenskonferenzen",
+          "wikidata": "Q388037"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2067",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-07-15",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 33700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gustav Heinemann",
+          "beschriftung": "Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Gustav Heinemann",
+          "wikidata": "Q2573"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2068",
+      "block": "Block 50",
+      "art": "Sondermarke",
+      "ausgabetag": "1999-08-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Fernsehgerät HF1 von Herbert Hirche",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 8000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2068 Design Hirche.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herbert Hirche",
+          "beschriftung": "Herbert Hirche",
+          "haupt": true,
+          "artikel": "Herbert Hirche",
+          "wikidata": "Q1403074"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2069",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-08-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Essbesteck mono-a von Peter Raacke",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mono (Besteck)",
+          "beschriftung": "mono-a",
+          "haupt": true,
+          "artikel": "Mono (Besteck)",
+          "wikidata": "Q1944934"
+        },
+        {
+          "titel": "Peter Raacke",
+          "beschriftung": "Peter Raacke",
+          "haupt": false,
+          "artikel": "Peter Raacke",
+          "wikidata": "Q2077689"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2070",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-08-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Perlenflaschen von Günter Kupetz",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Normbrunnenflasche",
+          "beschriftung": "Perlenflaschen",
+          "haupt": true,
+          "artikel": "Normbrunnenflasche",
+          "wikidata": "Q1999857"
+        },
+        {
+          "titel": "Günter Kupetz",
+          "beschriftung": "Günter Kupetz",
+          "haupt": false,
+          "artikel": "Günter Kupetz",
+          "wikidata": "Q1560724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2071",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-08-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Transrapid von Alexander Neumeister",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Transrapid",
+          "beschriftung": "Transrapid",
+          "haupt": true,
+          "artikel": "Transrapid",
+          "wikidata": "Q157018"
+        },
+        {
+          "titel": "Alexander Neumeister",
+          "beschriftung": "Alexander Neumeister",
+          "haupt": false,
+          "artikel": "Alexander Neumeister",
+          "wikidata": "Q91850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2072",
+      "block": "Block 51",
+      "art": "Sondermarke",
+      "ausgabetag": "1999-08-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Briefmaus",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 13100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2073",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-08-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Gemälde von Joseph Karl Stieler;; Gemeinschaftsausgabe mit Korea",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 50000000,
+      "commons_datei": "Stamp Germany 1999 MiNr2073 Goethe.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        },
+        {
+          "titel": "Joseph Karl Stieler",
+          "beschriftung": "Joseph Karl Stieler",
+          "haupt": false,
+          "artikel": "Joseph Karl Stieler",
+          "wikidata": "Q467658"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Korea",
+          "beschriftung": "Korea",
+          "haupt": false,
+          "artikel": "Korea",
+          "wikidata": "Q18097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2074",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-09-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutscher Fußballmeister",
+      "bild_beschreibung": "FC Bayern München, Fußball-Bundesliga 1998/99",
+      "entwerfer": "Lutz Menze",
+      "auflage": 33400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "beschriftung": "Deutscher Fußballmeister",
+          "haupt": true,
+          "artikel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "wikidata": "Q1204881"
+        },
+        {
+          "titel": "FC Bayern München",
+          "beschriftung": "FC Bayern München",
+          "haupt": false,
+          "artikel": "FC Bayern München",
+          "wikidata": "Q15789"
+        },
+        {
+          "titel": "Fußball-Bundesliga 1998/99",
+          "beschriftung": "Fußball-Bundesliga 1998/99",
+          "haupt": false,
+          "artikel": "Fußball-Bundesliga 1998/99",
+          "wikidata": "Q695361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2075",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-09-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Verleihung des Friedenspreises des Deutschen Buchhandels",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedenspreis des Deutschen Buchhandels",
+          "beschriftung": "Friedenspreises des Deutschen Buchhandels",
+          "haupt": true,
+          "artikel": "Friedenspreis des Deutschen Buchhandels",
+          "wikidata": "Q265920"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2076",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-09-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Richard Strauss",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 30800000,
+      "commons_datei": "Stamp Germany 1999 MiNr2076 Richard Strauss.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Richard Strauss",
+          "beschriftung": "Richard Strauss",
+          "haupt": true,
+          "artikel": "Richard Strauss",
+          "wikidata": "Q13894"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2077",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Der Kosmos",
+      "bild_beschreibung": "Andromedagalaxie",
+      "entwerfer": "Benjamin Blase",
+      "auflage": 6150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Andromedagalaxie",
+          "beschriftung": "Andromedagalaxie",
+          "haupt": true,
+          "artikel": "Andromedagalaxie",
+          "wikidata": "Q2469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2078",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Der Kosmos",
+      "bild_beschreibung": "Sternbild Schwan",
+      "entwerfer": "Benjamin Blase",
+      "auflage": 6170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwan (Sternbild)",
+          "beschriftung": "Sternbild Schwan",
+          "haupt": true,
+          "artikel": "Schwan (Sternbild)",
+          "wikidata": "Q8921"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2079",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Der Kosmos",
+      "bild_beschreibung": "Explodierter Stern im Röntgenlicht",
+      "entwerfer": "Benjamin Blase",
+      "auflage": 17850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2080",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Der Kosmos",
+      "bild_beschreibung": "Kometenkollision mit Jupiter",
+      "entwerfer": "Benjamin Blase",
+      "auflage": 13470000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jupiter (Planet)",
+          "beschriftung": "Jupiter",
+          "haupt": true,
+          "artikel": "Jupiter (Planet)",
+          "wikidata": "Q319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2081",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "300+100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Der Kosmos",
+      "bild_beschreibung": "Gesamthimmel im Gammalicht",
+      "entwerfer": "Benjamin Blase",
+      "auflage": 7190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2082",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Brücken: Göltzschtalbrücke",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 70200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Göltzschtalbrücke",
+          "beschriftung": "Göltzschtalbrücke",
+          "haupt": true,
+          "artikel": "Göltzschtalbrücke",
+          "wikidata": "Q707706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2083",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-10-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutscher Gewerkschaftsbund",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 51300000,
+      "commons_datei": "Stamp Germany 1999 MiNr2083 DGB.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Gewerkschaftsbund",
+          "beschriftung": "Deutscher Gewerkschaftsbund",
+          "haupt": true,
+          "artikel": "Deutscher Gewerkschaftsbund",
+          "wikidata": "Q586581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2084",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-11-04",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Verkündigung des Engels",
+      "entwerfer": "Peter Steiner",
+      "auflage": 5080000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2085",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-11-04",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Geburt Christi",
+      "entwerfer": "Peter Steiner",
+      "auflage": 7780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2086",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1999-11-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bedrohte Tierarten",
+      "bild_beschreibung": "Große Hufeisennase",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 53700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bedrohte Tierarten",
+          "beschriftung": "Bedrohte Tierarten",
+          "haupt": true,
+          "artikel": "Bedrohte Tierarten",
+          "wikidata": "Q813944"
+        },
+        {
+          "titel": "Große Hufeisennase",
+          "beschriftung": "Große Hufeisennase",
+          "haupt": false,
+          "artikel": "Große Hufeisennase",
+          "wikidata": "Q737413"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2009",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1999-06-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Expo 2000 Hannover; aus Markenheftchen, oben oder unten geschnitten",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 802329000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        },
+        {
+          "titel": "Expo 2000",
+          "beschriftung": "Expo 2000",
+          "haupt": false,
+          "artikel": "Expo 2000",
+          "wikidata": "Q734463"
+        }
+      ]
+    },
+    {
+      "mi_nr": "ATM 3",
+      "block": null,
+      "art": "Automatenmarke",
+      "ausgabetag": "1999-10-22",
+      "wert": "5-9995",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Automatenmarke: Postembleme (drei Posthörner)",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Zepp",
+      "auflage": null,
+      "commons_datei": "ATM 3 Posthörner.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Automatenmarke (Deutschland)",
+          "beschriftung": "Automatenmarke",
+          "haupt": true,
+          "artikel": "Automatenmarke (Deutschland)",
+          "wikidata": "Q787137"
+        }
+      ]
+    }
+  ]
+}

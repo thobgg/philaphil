@@ -1,0 +1,2070 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1997,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1997 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1997_der_Bundesrepublik_Deutschland",
+    "revision": 260178835,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1895,
+    "mi_nr_bis": 1964,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1895",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-01-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Franz Schubert",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 25000000,
+      "commons_datei": "DPAG-1997-FranzSchubert.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Schubert",
+          "beschriftung": "Franz Schubert",
+          "haupt": true,
+          "artikel": "Franz Schubert",
+          "wikidata": "Q7312"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1896",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-01-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Sepp Herberger",
+      "bild_beschreibung": "",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sepp Herberger",
+          "beschriftung": "Sepp Herberger",
+          "haupt": true,
+          "artikel": "Sepp Herberger",
+          "wikidata": "Q157820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1897 →1954",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-01-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Mehr Sicherheit für Kinder im Straßenverkehr",
+      "bild_beschreibung": "",
+      "entwerfer": "Bernd Bexte",
+      "auflage": 24975000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1898",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fun-Sportarten",
+      "bild_beschreibung": "Aerobic",
+      "entwerfer": "Renate Riek-Bauer",
+      "auflage": 3050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aerobic",
+          "beschriftung": "Aerobic",
+          "haupt": true,
+          "artikel": "Aerobic",
+          "wikidata": "Q215641"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1899",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fun-Sportarten",
+      "bild_beschreibung": "Inline Skating",
+      "entwerfer": "Renate Riek-Bauer",
+      "auflage": 2806000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Inline Skating",
+          "beschriftung": "Inline Skating",
+          "haupt": true,
+          "artikel": "Inlineskaten",
+          "wikidata": "Q6034982"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1900",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fun-Sportarten",
+      "bild_beschreibung": "Streetball",
+      "entwerfer": "Renate Riek-Bauer",
+      "auflage": 3160000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Streetball",
+          "beschriftung": "Streetball",
+          "haupt": true,
+          "artikel": "Streetball",
+          "wikidata": "Q691875"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1901",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fun-Sportarten",
+      "bild_beschreibung": "Freiklettern",
+      "entwerfer": "Renate Riek-Bauer",
+      "auflage": 2580000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiklettern",
+          "beschriftung": "Freiklettern",
+          "haupt": true,
+          "artikel": "Freiklettern",
+          "wikidata": "Q162883"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1902",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Philipp Melanchthon",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 23880000,
+      "commons_datei": "DPAG-1997-PhilippMelanchthon.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Philipp Melanchthon",
+          "beschriftung": "Philipp Melanchthon",
+          "haupt": true,
+          "artikel": "Philipp Melanchthon",
+          "wikidata": "Q76325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1903",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Kölner Karneval, Karnevalisten beim Wibbeln",
+      "bild_beschreibung": "",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kölner Karneval",
+          "beschriftung": "Kölner Karneval",
+          "haupt": true,
+          "artikel": "Kölner Karneval",
+          "wikidata": "Q262577"
+        },
+        {
+          "titel": "Stippeföttche",
+          "beschriftung": "Wibbeln",
+          "haupt": false,
+          "artikel": "Stippeföttche",
+          "wikidata": "Q2802024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1904",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-02-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Ludwig Erhard",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 39000000,
+      "commons_datei": "DPAG-1997-LudwigErhard.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Erhard",
+          "beschriftung": "Ludwig Erhard",
+          "haupt": true,
+          "artikel": "Ludwig Erhard",
+          "wikidata": "Q2496"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1905",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-03-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Messeprivileg für Leipzig",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 40200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Messeprivileg für Leipzig",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1906",
+      "block": "Block 37",
+      "art": "Sondermarke",
+      "ausgabetag": "1997-03-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Architektur nach 1945",
+      "bild_beschreibung": "Philharmonie in Berlin von Hans Scharoun",
+      "entwerfer": "Karen Scholz",
+      "auflage": 40200000,
+      "commons_datei": "Stamp Germany 1997 Briefmarkenblock Architektur.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Philharmonie",
+          "beschriftung": "Philharmonie",
+          "haupt": true,
+          "artikel": "Berliner Philharmonie",
+          "wikidata": "Q32653910"
+        },
+        {
+          "titel": "Hans Scharoun",
+          "beschriftung": "Hans Scharoun",
+          "haupt": false,
+          "artikel": "Hans Scharoun",
+          "wikidata": "Q57481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1907",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-03-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Architektur nach 1945",
+      "bild_beschreibung": "Neue Nationalgalerie in Berlin von Ludwig Mies van der Rohe",
+      "entwerfer": "Karen Scholz",
+      "auflage": 40200000,
+      "commons_datei": "Stamp Germany 1997 Briefmarkenblock Architektur.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neue Nationalgalerie",
+          "beschriftung": "Neue Nationalgalerie",
+          "haupt": true,
+          "artikel": "Neue Nationalgalerie",
+          "wikidata": "Q32659772"
+        },
+        {
+          "titel": "Ludwig Mies van der Rohe",
+          "beschriftung": "Ludwig Mies van der Rohe",
+          "haupt": false,
+          "artikel": "Ludwig Mies van der Rohe",
+          "wikidata": "Q41508"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1908",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-03-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Architektur nach 1945",
+      "bild_beschreibung": "Wallfahrtskirche Neviges von Gottfried Böhm",
+      "entwerfer": "Karen Scholz",
+      "auflage": 40200000,
+      "commons_datei": "Stamp Germany 1997 Briefmarkenblock Architektur.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nevigeser Wallfahrtsdom",
+          "beschriftung": "Wallfahrtskirche Neviges",
+          "haupt": true,
+          "artikel": "Nevigeser Wallfahrtsdom",
+          "wikidata": "Q1982229"
+        },
+        {
+          "titel": "Gottfried Böhm",
+          "beschriftung": "Gottfried Böhm",
+          "haupt": false,
+          "artikel": "Gottfried Böhm",
+          "wikidata": "Q76841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1909",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-03-06",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Architektur nach 1945",
+      "bild_beschreibung": "Deutscher Pavillon in Montreal von Frei Otto",
+      "entwerfer": "Karen Scholz",
+      "auflage": 40200000,
+      "commons_datei": "Stamp Germany 1997 Briefmarkenblock Architektur.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frei Otto",
+          "beschriftung": "Frei Otto",
+          "haupt": true,
+          "artikel": "Frei Otto",
+          "wikidata": "Q64412"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1910",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-03-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1100 Jahre Straubing",
+      "bild_beschreibung": "",
+      "entwerfer": "Vera Braesecke-Kaul und Hilmar Kaul",
+      "auflage": 40300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Straubing",
+          "beschriftung": "Straubing",
+          "haupt": true,
+          "artikel": "Straubing",
+          "wikidata": "Q7027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1911",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-04-08",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Edelsteinregion Idar-Oberstein",
+      "bild_beschreibung": "",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 17300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Idar-Oberstein",
+          "beschriftung": "Idar-Oberstein",
+          "haupt": true,
+          "artikel": "Idar-Oberstein",
+          "wikidata": "Q16119"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1912",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-04-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Heinrich von Stephan",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 32750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1913",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-04-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Schlösser Augustusburg und Falkenlust",
+      "entwerfer": "Vera Braesecke-Kaul und Hilmar Kaul",
+      "auflage": 28550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Schlösser Augustusburg und Falkenlust",
+          "beschriftung": "Schlösser Augustusburg und Falkenlust",
+          "haupt": false,
+          "artikel": "Schlösser Augustusburg und Falkenlust",
+          "wikidata": "Q156292"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1914",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-04-23",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000. Todestag des Heiligen Adalbert",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Polen, Tschechien, Ungarn und Vatikanstadt",
+      "entwerfer": "Vladimír Suchánek",
+      "auflage": 25000000,
+      "commons_datei": "DPAG-1997-HeiligerAdalbert.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adalbert von Prag",
+          "beschriftung": "Heiligen Adalbert",
+          "haupt": true,
+          "artikel": "Adalbert von Prag",
+          "wikidata": "Q243427"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "Polen",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        },
+        {
+          "titel": "Tschechien",
+          "beschriftung": "Tschechien",
+          "haupt": false,
+          "artikel": "Tschechien",
+          "wikidata": "Q213"
+        },
+        {
+          "titel": "Ungarn",
+          "beschriftung": "Ungarn",
+          "haupt": false,
+          "artikel": "Ungarn",
+          "wikidata": "Q28"
+        },
+        {
+          "titel": "Vatikanstadt",
+          "beschriftung": "Vatikanstadt",
+          "haupt": false,
+          "artikel": "Vatikanstadt",
+          "wikidata": "Q237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1915",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europamarken – Sagen und Legenden",
+      "bild_beschreibung": "Vom Fischer und seiner Frau, niederdeutsches Märchen",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vom Fischer und seiner Frau",
+          "beschriftung": "Vom Fischer und seiner Frau",
+          "haupt": true,
+          "artikel": "Vom Fischer und seiner Frau",
+          "wikidata": "Q316990"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1916",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europamarken – Sagen und Legenden",
+      "bild_beschreibung": "Rübezahl, Sage aus dem Riesengebirge",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rübezahl",
+          "beschriftung": "Rübezahl",
+          "haupt": true,
+          "artikel": "Rübezahl",
+          "wikidata": "Q1778735"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1917",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Städtepartnerschaften",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 38500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Städtepartnerschaft",
+          "beschriftung": "Städtepartnerschaft",
+          "haupt": true,
+          "artikel": "Gemeindepartnerschaft",
+          "wikidata": "Q184711"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1918",
+      "block": "Block 38",
+      "art": "Sondermarke",
+      "ausgabetag": "1997-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Schutzgemeinschaft Deutscher Wald",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schutzgemeinschaft Deutscher Wald",
+          "beschriftung": "Schutzgemeinschaft Deutscher Wald",
+          "haupt": true,
+          "artikel": "Schutzgemeinschaft Deutscher Wald",
+          "wikidata": "Q2252290"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1919",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-05-05",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Schutzgemeinschaft Deutscher Wald",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schutzgemeinschaft Deutscher Wald",
+          "beschriftung": "Schutzgemeinschaft Deutscher Wald",
+          "haupt": true,
+          "artikel": "Schutzgemeinschaft Deutscher Wald",
+          "wikidata": "Q2252290"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1920",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Pferderassen",
+      "bild_beschreibung": "Rheinisch-Deutsches Kaltblut",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 2680000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rheinisch-Deutsches Kaltblut",
+          "beschriftung": "Rheinisch-Deutsches Kaltblut",
+          "haupt": true,
+          "artikel": "Rheinisch-Deutsches Kaltblut",
+          "wikidata": "Q1477772"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1921",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Pferderassen",
+      "bild_beschreibung": "Shetlandpony",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 2715000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Shetlandpony",
+          "beschriftung": "Shetlandpony",
+          "haupt": true,
+          "artikel": "Shetlandpony",
+          "wikidata": "Q214720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1922",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Pferderassen",
+      "bild_beschreibung": "Friese",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 2740000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friese",
+          "beschriftung": "Friese",
+          "haupt": true,
+          "artikel": "Friese",
+          "wikidata": "Q388952"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1923",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Pferderassen",
+      "bild_beschreibung": "Haflinger",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 2773000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haflinger",
+          "beschriftung": "Haflinger",
+          "haupt": true,
+          "artikel": "Haflinger",
+          "wikidata": "Q609630"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1924",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "200+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Pferderassen",
+      "bild_beschreibung": "Hannoveraner",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 2633000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hannoveraner (Pferd)",
+          "beschriftung": "Hannoveraner",
+          "haupt": true,
+          "artikel": "Hannoveraner (Pferd)",
+          "wikidata": "Q1501738"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1925",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Sebastian Kneipp",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Jacki",
+      "auflage": 49900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sebastian Kneipp",
+          "beschriftung": "Sebastian Kneipp",
+          "haupt": true,
+          "artikel": "Sebastian Kneipp",
+          "wikidata": "Q45075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1926",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Marshallplan",
+      "bild_beschreibung": "",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 160000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Marshallplan",
+          "beschriftung": "Marshallplan",
+          "haupt": true,
+          "artikel": "Marshallplan",
+          "wikidata": "Q4576"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1927",
+      "block": "Block 39",
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – documenta X Kassel",
+      "bild_beschreibung": "Komposition: Gemälde von Fritz Winter auf der documenta 2",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Winter (Maler)",
+          "beschriftung": "Fritz Winter",
+          "haupt": true,
+          "artikel": "Fritz Winter (Maler)",
+          "wikidata": "Q578152"
+        },
+        {
+          "titel": "documenta 2",
+          "beschriftung": "documenta 2",
+          "haupt": false,
+          "artikel": "Documenta II",
+          "wikidata": "Q265448"
+        },
+        {
+          "titel": "documenta X",
+          "beschriftung": "documenta X",
+          "haupt": false,
+          "artikel": "Documenta X",
+          "wikidata": "Q1234004"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1928",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – documenta X Kassel",
+      "bild_beschreibung": "Mouth No. 15. Bild von Tom Wesselmann auf der documenta 4",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tom Wesselmann",
+          "beschriftung": "Tom Wesselmann",
+          "haupt": true,
+          "artikel": "Tom Wesselmann",
+          "wikidata": "Q703660"
+        },
+        {
+          "titel": "documenta 4",
+          "beschriftung": "documenta 4",
+          "haupt": false,
+          "artikel": "4. documenta",
+          "wikidata": "Q231289"
+        },
+        {
+          "titel": "documenta X",
+          "beschriftung": "documenta X",
+          "haupt": false,
+          "artikel": "Documenta X",
+          "wikidata": "Q1234004"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1929",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – documenta X Kassel",
+      "bild_beschreibung": "Quath Lampa: Großflächenbild von Frank Stella auf der documenta 4",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 6500000,
+      "commons_datei": "Briefmarke Frank Stella d4 1997.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frank Stella",
+          "beschriftung": "Frank Stella",
+          "haupt": true,
+          "artikel": "Frank Stella",
+          "wikidata": "Q375268"
+        },
+        {
+          "titel": "documenta X",
+          "beschriftung": "documenta X",
+          "haupt": false,
+          "artikel": "Documenta X",
+          "wikidata": "Q1234004"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1930",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – documenta X Kassel",
+      "bild_beschreibung": "Beuys-Boice: Video-Objekt von Nam June Paik auf der documenta 8",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nam June Paik",
+          "beschriftung": "Nam June Paik",
+          "haupt": true,
+          "artikel": "Nam June Paik",
+          "wikidata": "Q158056"
+        },
+        {
+          "titel": "documenta 8",
+          "beschriftung": "documenta 8",
+          "haupt": false,
+          "artikel": "Documenta 8",
+          "wikidata": "Q1233991"
+        },
+        {
+          "titel": "documenta X",
+          "beschriftung": "documenta X",
+          "haupt": false,
+          "artikel": "Documenta X",
+          "wikidata": "Q1234004"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1931",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-06-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Brücken",
+      "bild_beschreibung": "100 Jahre Müngstener Brücke",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 147600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Müngstener Brücke",
+          "beschriftung": "Müngstener Brücke",
+          "haupt": true,
+          "artikel": "Müngstener Brücke",
+          "wikidata": "Q257027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1933",
+      "block": "Block 40",
+      "art": "Sondermarke",
+      "ausgabetag": "1997-07-17",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Kinder in einer Gondel",
+      "entwerfer": "Lilo Fromm",
+      "auflage": 9250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1941",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-08-19",
+      "wert": "110+90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hochwasserhilfe Brandenburg",
+      "bild_beschreibung": "siehe auch Wappen der Länder der Bundesrepublik Deutschland",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 3760000,
+      "commons_datei": "DPAG-1997-Brandenburg-Hochwasserhilfe.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Oderhochwasser 1997",
+          "beschriftung": "Hochwasserhilfe Brandenburg",
+          "haupt": true,
+          "artikel": "Oderhochwasser 1997",
+          "wikidata": "Q315494"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1942",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Dieselmotor, Rudolf Diesel",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dieselmotor",
+          "beschriftung": "Dieselmotor",
+          "haupt": true,
+          "artikel": "Dieselmotor",
+          "wikidata": "Q174174"
+        },
+        {
+          "titel": "Rudolf Diesel",
+          "beschriftung": "Rudolf Diesel",
+          "haupt": false,
+          "artikel": "Rudolf Diesel",
+          "wikidata": "Q12674"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1943",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Bayerischer Wald",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 94720000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bayerischer Wald",
+          "beschriftung": "Bayerischer Wald",
+          "haupt": true,
+          "artikel": "Bayerischer Wald",
+          "wikidata": "Q4207"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1944",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Lüneburger Heide",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 49150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lüneburger Heide",
+          "beschriftung": "Lüneburger Heide",
+          "haupt": true,
+          "artikel": "Lüneburger Heide",
+          "wikidata": "Q311124"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1945",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Norddeutsche Moorlandschaft",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 67500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moorlandschaft",
+          "beschriftung": "Moorlandschaft",
+          "haupt": true,
+          "artikel": "Moorlandschaft",
+          "wikidata": "Q36449705"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1946",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-09-17",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Kartoffelanbau in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 18770000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kartoffel",
+          "beschriftung": "Kartoffel",
+          "haupt": true,
+          "artikel": "Kartoffel",
+          "wikidata": "Q10998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1947",
+      "block": "Block 41",
+      "art": "Sondermarke",
+      "ausgabetag": "1997-09-17",
+      "wert": "440+220",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Tag der Briefmarke",
+      "bild_beschreibung": "Historisches Flugzeug und dreirädriger Motorwagen für den Posttransport",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3710000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1948",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wasser- und Windmühlen in Deutschland",
+      "bild_beschreibung": "Schwarzwälder Wassermühle",
+      "entwerfer": "Otto Rohse",
+      "auflage": 7990000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wassermühle",
+          "beschriftung": "Wassermühle",
+          "haupt": true,
+          "artikel": "Wassermühle",
+          "wikidata": "Q185187"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1949",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wasser- und Windmühlen in Deutschland",
+      "bild_beschreibung": "Hessische Wassermühlen",
+      "entwerfer": "Otto Rohse",
+      "auflage": 13965000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1950",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wasser- und Windmühlen in Deutschland",
+      "bild_beschreibung": "Niederrheinische Bockwindmühle",
+      "entwerfer": "Otto Rohse",
+      "auflage": 13795000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bockwindmühle",
+          "beschriftung": "Bockwindmühle",
+          "haupt": true,
+          "artikel": "Bockwindmühle",
+          "wikidata": "Q180997"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1951",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wasser- und Windmühlen in Deutschland",
+      "bild_beschreibung": "Schleswig-Holsteinische Schöpfwindmühle",
+      "entwerfer": "Otto Rohse",
+      "auflage": 13830000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1952",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "220+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wasser- und Windmühlen in Deutschland",
+      "bild_beschreibung": "Galerieholländer Windmühle",
+      "entwerfer": "Otto Rohse",
+      "auflage": 7167000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Windmühle",
+          "beschriftung": "Windmühle",
+          "haupt": true,
+          "artikel": "Windmühle",
+          "wikidata": "Q38720"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1953",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Felix Mendelssohn Bartholdy",
+      "bild_beschreibung": "",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 102500000,
+      "commons_datei": "DPAG-1997-FelixMendelssohnBartholdy.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Felix Mendelssohn Bartholdy",
+          "beschriftung": "Felix Mendelssohn Bartholdy",
+          "haupt": true,
+          "artikel": "Felix Mendelssohn Bartholdy",
+          "wikidata": "Q46096"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1954 →1897",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Mehr Sicherheit für Kinder im Straßenverkehr",
+      "bild_beschreibung": "Ergänzungswert",
+      "entwerfer": "Bernd Bexte",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1957",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Region Saar-Lor-Lux",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Frankreich und Luxemburg",
+      "entwerfer": "Christian Broutin",
+      "auflage": 100000000,
+      "commons_datei": "DPAG-1997-Saar-Lor-Lux.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Saar-Lor-Lux",
+          "beschriftung": "Saar-Lor-Lux",
+          "haupt": true,
+          "artikel": "Großregion (Saar-Lor-Lux)",
+          "wikidata": "Q516657"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        },
+        {
+          "titel": "Luxemburg",
+          "beschriftung": "Luxemburg",
+          "haupt": false,
+          "artikel": "Luxemburg",
+          "wikidata": "Q32"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1958",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-10-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutscher Fußballmeister",
+      "bild_beschreibung": "FC Bayern München, Fußball-Bundesliga 1996/97",
+      "entwerfer": "Sabine Bucher",
+      "auflage": 100000000,
+      "commons_datei": "DPAG-1997-FCBayernMuenchen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "beschriftung": "Deutscher Fußballmeister",
+          "haupt": true,
+          "artikel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "wikidata": "Q1204881"
+        },
+        {
+          "titel": "FC Bayern München",
+          "beschriftung": "FC Bayern München",
+          "haupt": false,
+          "artikel": "FC Bayern München",
+          "wikidata": "Q15789"
+        },
+        {
+          "titel": "Fußball-Bundesliga 1996/97",
+          "beschriftung": "Fußball-Bundesliga 1996/97",
+          "haupt": false,
+          "artikel": "Fußball-Bundesliga 1996/97",
+          "wikidata": "Q695331"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1959",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-11-06",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Anbetung der Heiligen drei Könige",
+      "entwerfer": "Jan Lenica",
+      "auflage": 5243000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heilige Drei Könige",
+          "beschriftung": "Heiligen drei Könige",
+          "haupt": true,
+          "artikel": "Heilige Drei Könige",
+          "wikidata": "Q51671"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1960",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-11-06",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Christi Geburt",
+      "entwerfer": "Jan Lenica",
+      "auflage": 8638000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1961",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-11-06",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Gerhard Tersteegen",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gerhard Tersteegen",
+          "beschriftung": "Gerhard Tersteegen",
+          "haupt": true,
+          "artikel": "Gerhard Tersteegen",
+          "wikidata": "Q67283"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1962",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-11-06",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Heinrich Heine",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 50000000,
+      "commons_datei": "DPAG-1997-HeinrichHeine.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1963",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-11-06",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Thomas Dehler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31130000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Thomas Dehler",
+          "beschriftung": "Thomas Dehler",
+          "haupt": true,
+          "artikel": "Thomas Dehler",
+          "wikidata": "Q215092"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1964",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1997-11-06",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutscher Caritasverband",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Caritasverband",
+          "beschriftung": "Deutscher Caritasverband",
+          "haupt": true,
+          "artikel": "Deutscher Caritasverband",
+          "wikidata": "Q29508174"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1932",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-07-17",
+      "wert": "47",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Europäer-Denkmal in Berus",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 311447000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europadenkmal",
+          "beschriftung": "Europäer-Denkmal",
+          "haupt": true,
+          "artikel": "Europadenkmal",
+          "wikidata": "Q1375315"
+        },
+        {
+          "titel": "Berus",
+          "beschriftung": "Berus",
+          "haupt": false,
+          "artikel": "Berus",
+          "wikidata": "Q829198"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1934",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Goethe- und Schiller-Denkmal in Weimar",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 517120000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goethe- und Schiller-Denkmal",
+          "beschriftung": "Goethe- und Schiller-Denkmal",
+          "haupt": true,
+          "artikel": "Goethe-Schiller-Denkmal",
+          "wikidata": "Q1526907"
+        },
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": false,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1935",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Schloss Bellevue Berlin; auch als Markenheftchen",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 670497000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Bellevue",
+          "beschriftung": "Schloss Bellevue",
+          "haupt": true,
+          "artikel": "Schloss Bellevue",
+          "wikidata": "Q317091"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1936",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-14",
+      "wert": "220",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Brühlsche Terrasse Dresden",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 130655000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brühlsche Terrasse",
+          "beschriftung": "Brühlsche Terrasse",
+          "haupt": true,
+          "artikel": "Brühlsche Terrasse",
+          "wikidata": "Q25711"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1937",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-14",
+      "wert": "440",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bremer Rathaus",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 80340000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremer Rathaus",
+          "beschriftung": "Bremer Rathaus",
+          "haupt": true,
+          "artikel": "Bremer Rathaus",
+          "wikidata": "Q19479"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1938",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "510",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Holstentor Lübeck",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 78265000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holstentor",
+          "beschriftung": "Holstentor",
+          "haupt": true,
+          "artikel": "Holstentor",
+          "wikidata": "Q321229"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1939",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-14",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Marlene Dietrich",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 2999460000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marlene Dietrich",
+          "beschriftung": "Marlene Dietrich",
+          "haupt": true,
+          "artikel": "Marlene Dietrich",
+          "wikidata": "Q4612"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1940",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-08-28",
+      "wert": "220",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Marie-Elisabeth Lüders",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 139020000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marie-Elisabeth Lüders",
+          "beschriftung": "Marie-Elisabeth Lüders",
+          "haupt": true,
+          "artikel": "Marie-Elisabeth Lüders",
+          "wikidata": "Q70950"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1955",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-10-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Elisabeth Schwarzhaupt",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 588070000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth Schwarzhaupt",
+          "beschriftung": "Elisabeth Schwarzhaupt",
+          "haupt": true,
+          "artikel": "Elisabeth Schwarzhaupt",
+          "wikidata": "Q65397"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1956",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1997-10-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Maria Probst",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 564200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maria Probst",
+          "beschriftung": "Maria Probst",
+          "haupt": true,
+          "artikel": "Maria Probst",
+          "wikidata": "Q547966"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "P157",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1997-08-28",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Postkarte aus der Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Die Postkarte erschien am gleichen Tag wie die motivgleiche Briefmarke. Und wurde wegen der Portoerhöhung zum 1. September notwendig.",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "FP 14",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1997-11-06",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Funklotterie-Postkarte",
+      "bild_beschreibung": "Die Marke wurde aus der Serie Für den Sport mit dem Motiv Streetball entnommen.",
+      "entwerfer": "Renate Riek-Bauer",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Funklotterie-Postkarte",
+          "beschriftung": "Funklotterie-Postkarte",
+          "haupt": true,
+          "artikel": "Funklotterie-Postkarte",
+          "wikidata": "Q1474447"
+        }
+      ]
+    }
+  ]
+}

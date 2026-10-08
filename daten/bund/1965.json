@@ -1,0 +1,985 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1965,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1965 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1965_der_Deutschen_Bundespost",
+    "revision": 259356488,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 462,
+    "mi_nr_bis": 488,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 27,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "462",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-01-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "150. Todestag von Matthias Claudius (1740–1815)",
+      "bild_beschreibung": "Der Wandsbecker Bothe, Eule, Hut, 3 Kröten und Tasche am Wanderstock",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1965 462 Matthias Claudius.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Matthias Claudius",
+          "beschriftung": "Matthias Claudius",
+          "haupt": true,
+          "artikel": "Matthias Claudius",
+          "wikidata": "Q77338"
+        },
+        {
+          "titel": "Der Wandsbecker Bothe",
+          "beschriftung": "Der Wandsbecker Bothe",
+          "haupt": false,
+          "artikel": "Der Wandsbecker Bothe",
+          "wikidata": "Q1197900"
+        },
+        {
+          "titel": "Eulen",
+          "beschriftung": "Eule",
+          "haupt": false,
+          "artikel": "Eulen",
+          "wikidata": "Q25222"
+        },
+        {
+          "titel": "Kröten",
+          "beschriftung": "Kröten",
+          "haupt": false,
+          "artikel": "Kröten",
+          "wikidata": "Q55372"
+        },
+        {
+          "titel": "Tasche",
+          "beschriftung": "Tasche",
+          "haupt": false,
+          "artikel": "Tasche",
+          "wikidata": "Q1549395"
+        },
+        {
+          "titel": "Wanderstock",
+          "beschriftung": "Wanderstock",
+          "haupt": false,
+          "artikel": "Wanderstock",
+          "wikidata": "Q1371996"
+        }
+      ]
+    },
+    {
+      "mi_nr": "463",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "150. Geburtstag von Otto von Bismarck (1815–1898)",
+      "bild_beschreibung": "Ministerpräsident von Preußen, Kanzler des Norddeutschen Bundes und der erste Reichskanzler des Deutschen Kaiserreichs",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 30000000,
+      "commons_datei": "DBP 150. Geburtstag Otto von Bismarck 20 Pfennig 1965.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto von Bismarck",
+          "beschriftung": "Otto von Bismarck",
+          "haupt": true,
+          "artikel": "Otto von Bismarck",
+          "wikidata": "Q8442"
+        },
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": false,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "Bundeskanzler (Norddeutscher Bund)",
+          "beschriftung": "Kanzler des Norddeutschen Bundes",
+          "haupt": false,
+          "artikel": "Bundeskanzler (Norddeutscher Bund)",
+          "wikidata": "Q885840"
+        },
+        {
+          "titel": "Reichskanzler",
+          "beschriftung": "Reichskanzler",
+          "haupt": false,
+          "artikel": "Reichskanzler",
+          "wikidata": "Q7050658"
+        },
+        {
+          "titel": "Deutsches Kaiserreich",
+          "beschriftung": "Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Deutsches Kaiserreich",
+          "wikidata": "Q43287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "464",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend, Jagdbares Federwild",
+      "bild_beschreibung": "Waldschnepfe, Scolopax rusticola",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 27606000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waldschnepfe",
+          "beschriftung": "Waldschnepfe",
+          "haupt": true,
+          "artikel": "Waldschnepfe",
+          "wikidata": "Q26114"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "465",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend, Jagdbares Federwild",
+      "bild_beschreibung": "Jagdfasan, Phasianus colchicus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6727000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fasan",
+          "beschriftung": "Jagdfasan",
+          "haupt": true,
+          "artikel": "Fasan",
+          "wikidata": "Q25432"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "466",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend, Jagdbares Federwild",
+      "bild_beschreibung": "Birkhahn, Lyrurus tetrix (auch Tetrao tetrix)",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6681000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Birkhuhn",
+          "beschriftung": "Birkhahn",
+          "haupt": true,
+          "artikel": "Birkhuhn",
+          "wikidata": "Q155878"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "467",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend, Jagdbares Federwild",
+      "bild_beschreibung": "Auerhahn, Tetrao urogallus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 5777000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Auerhuhn",
+          "beschriftung": "Auerhahn",
+          "haupt": true,
+          "artikel": "Auerhuhn",
+          "wikidata": "Q129059"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "468",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-25",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "Verkehrszeichen und Ampel",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrszeichen",
+          "beschriftung": "Verkehrszeichen",
+          "haupt": true,
+          "artikel": "Verkehrszeichen",
+          "wikidata": "Q170285"
+        },
+        {
+          "titel": "Lichtzeichenanlage",
+          "beschriftung": "Ampel",
+          "haupt": false,
+          "artikel": "Ampel",
+          "wikidata": "Q8004"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "469",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "Kommunikationssatellit und Satellitenantenne",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kommunikationssatellit",
+          "beschriftung": "Kommunikationssatellit",
+          "haupt": true,
+          "artikel": "Kommunikationssatellit",
+          "wikidata": "Q149918"
+        },
+        {
+          "titel": "Parabolantenne",
+          "beschriftung": "Satellitenantenne",
+          "haupt": false,
+          "artikel": "Parabolantenne",
+          "wikidata": "Q4928259"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "470",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-25",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "alter Postbus und moderner Omnibus",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kraftpost",
+          "beschriftung": "Postbus",
+          "haupt": true,
+          "artikel": "Kraftpost",
+          "wikidata": "Q1785998"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "471",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "Zeigertelegraf und Fernmeldeturm",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeigertelegraf",
+          "beschriftung": "Zeigertelegraf",
+          "haupt": true,
+          "artikel": "Zeigertelegraf",
+          "wikidata": "Q184847"
+        },
+        {
+          "titel": "Fernsehturm",
+          "beschriftung": "Fernmeldeturm",
+          "haupt": false,
+          "artikel": "Fernsehturm",
+          "wikidata": "Q11166728"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "472",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "Alte Dampflokomotive und moderne Elektrolokomotive",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dampflokomotive",
+          "beschriftung": "Dampflokomotive",
+          "haupt": true,
+          "artikel": "Dampflokomotive",
+          "wikidata": "Q171043"
+        },
+        {
+          "titel": "Elektrolokomotive",
+          "beschriftung": "Elektrolokomotive",
+          "haupt": false,
+          "artikel": "Elektrolokomotive",
+          "wikidata": "Q625151"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "473",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "Weltraumkapsel und Düsenflugzeug",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Strahlflugzeug",
+          "beschriftung": "Düsenflugzeug",
+          "haupt": true,
+          "artikel": "Strahlflugzeug",
+          "wikidata": "Q206592"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "474",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-25",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Internationale Verkehrsausstellung 1965 in München",
+      "bild_beschreibung": "Segelschiff Hammonia und Passagierschiff Bremen",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelschiff",
+          "beschriftung": "Segelschiff",
+          "haupt": true,
+          "artikel": "Segelschiff",
+          "wikidata": "Q170483"
+        },
+        {
+          "titel": "Passagierschiff",
+          "beschriftung": "Passagierschiff",
+          "haupt": false,
+          "artikel": "Passagierschiff",
+          "wikidata": "Q2055880"
+        },
+        {
+          "titel": "Bremen (Schiff, 1939)",
+          "beschriftung": "Bremen",
+          "haupt": false,
+          "artikel": "Bremen (Schiff, 1939)",
+          "wikidata": "Q321757"
+        },
+        {
+          "titel": "Internationale Verkehrsausstellung",
+          "beschriftung": "Internationale Verkehrsausstellung",
+          "haupt": false,
+          "artikel": "Internationale Verkehrsausstellung",
+          "wikidata": "Q1667516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "475",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-30",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "75 Jahre Tag der Arbeit am 1. Mai",
+      "bild_beschreibung": "Blumenstrauß",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1965 475 Tag der Arbeit.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erster Mai",
+          "beschriftung": "Tag der Arbeit",
+          "haupt": true,
+          "artikel": "Erster Mai",
+          "wikidata": "Q47499"
+        },
+        {
+          "titel": "Blumenstrauß",
+          "beschriftung": "Blumenstrauß",
+          "haupt": false,
+          "artikel": "Blumenstrauß",
+          "wikidata": "Q1187930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "476",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "100 Jahre Internationale Fernmeldeunion ITU",
+      "bild_beschreibung": "UIP-Logo, Globus mit In- und Umschrift",
+      "entwerfer": "Friedemann Lichtwitz",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1965 476 100J Internationale Fernmeldeunion ITU.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": true,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Globus",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        }
+      ]
+    },
+    {
+      "mi_nr": "477",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "100. Todestag von Adolph Kolping (1813–1865)",
+      "bild_beschreibung": "katholischer Priester und Begründer des Kolpingwerkes",
+      "entwerfer": "Herbert Kern",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1965 477 Adolph Kolping.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolph Kolping",
+          "beschriftung": "Adolph Kolping",
+          "haupt": true,
+          "artikel": "Adolph Kolping",
+          "wikidata": "Q60619"
+        },
+        {
+          "titel": "Römisch-katholische Kirche",
+          "beschriftung": "katholischer",
+          "haupt": false,
+          "artikel": "Römisch-katholische Kirche",
+          "wikidata": "Q9592"
+        },
+        {
+          "titel": "Priester (Christentum)",
+          "beschriftung": "Priester",
+          "haupt": false,
+          "artikel": "Priester (Christentum)",
+          "wikidata": "Q831474"
+        },
+        {
+          "titel": "Kolpingwerk",
+          "beschriftung": "Kolpingwerk",
+          "haupt": false,
+          "artikel": "Kolping Deutschland",
+          "wikidata": "Q315825"
+        }
+      ]
+    },
+    {
+      "mi_nr": "478",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "100 Jahre Deutsche Gesellschaft zur Rettung Schiffbrüchiger, DGzRS",
+      "bild_beschreibung": "Seenotrettungskreuzer Georg Breusing",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "beschriftung": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "haupt": true,
+          "artikel": "Deutsche Gesellschaft zur Rettung Schiffbrüchiger",
+          "wikidata": "Q896771"
+        },
+        {
+          "titel": "Seenotrettungskreuzer",
+          "beschriftung": "Seenotrettungskreuzer",
+          "haupt": false,
+          "artikel": "Seenotrettungskreuzer",
+          "wikidata": "Q18965653"
+        },
+        {
+          "titel": "Georg Breusing",
+          "beschriftung": "Georg Breusing",
+          "haupt": false,
+          "artikel": "Georg Breusing",
+          "wikidata": "Q1294519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "479",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "20 Jahre Vertreibung",
+      "bild_beschreibung": "Gruppe von Heimatvertriebenen",
+      "entwerfer": "Hahn und Lemke",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1965 479 Vertreibung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vertreibung",
+          "beschriftung": "Vertreibung",
+          "haupt": true,
+          "artikel": "Vertreibung",
+          "wikidata": "Q837556"
+        },
+        {
+          "titel": "Heimatvertriebener (Bundesvertriebenengesetz)",
+          "beschriftung": "Heimatvertriebenen",
+          "haupt": false,
+          "artikel": "Heimatvertriebener (Bundesvertriebenengesetz)",
+          "wikidata": "Q13427787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "480",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Evangelischer Kirchentag in Köln",
+      "bild_beschreibung": "Jerusalemkreuz in einem Labyrinth",
+      "entwerfer": "Rau",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1965 480 Evangelischer Kirchentag.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Evangelischer Kirchentag",
+          "beschriftung": "Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        },
+        {
+          "titel": "Köln",
+          "beschriftung": "Köln",
+          "haupt": false,
+          "artikel": "Köln",
+          "wikidata": "Q365"
+        },
+        {
+          "titel": "Jerusalemkreuz",
+          "beschriftung": "Jerusalemkreuz",
+          "haupt": false,
+          "artikel": "Jerusalemkreuz",
+          "wikidata": "Q387268"
+        },
+        {
+          "titel": "Labyrinth",
+          "beschriftung": "Labyrinth",
+          "haupt": false,
+          "artikel": "Labyrinth",
+          "wikidata": "Q48963"
+        }
+      ]
+    },
+    {
+      "mi_nr": "481",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Deutsche Funkausstellung, Stuttgart",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Schillinger und Hella Schillinger",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1965 481 Deutsche Funkausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": true,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "482",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "125 Jahre Briefmarken",
+      "bild_beschreibung": "Drei Briefmarken der Thurn-und-Taxis-Post",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30000000,
+      "commons_datei": "DBP 125 Jahre Briefmarken 20 Pfennig 1965.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Thurn-und-Taxis-Post",
+          "beschriftung": "Thurn-und-Taxis-Post",
+          "haupt": true,
+          "artikel": "Thurn-und-Taxis-Post",
+          "wikidata": "Q829760"
+        }
+      ]
+    },
+    {
+      "mi_nr": "483",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-27",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Stilisierter Zweig mit CEPT als Fruchtknoten",
+      "entwerfer": "Karlsson",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1965 483 Europa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweig",
+          "beschriftung": "Zweig",
+          "haupt": true,
+          "artikel": "Zweig",
+          "wikidata": "Q11162356"
+        },
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "CEPT",
+          "haupt": false,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        },
+        {
+          "titel": "Fruchtknoten",
+          "beschriftung": "Fruchtknoten",
+          "haupt": false,
+          "artikel": "Fruchtknoten",
+          "wikidata": "Q148515"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "484",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Stilisierter Zweig mit CEPT als Fruchtknoten",
+      "entwerfer": "Karlsson",
+      "auflage": 70000000,
+      "commons_datei": "DBP 1965 484 Europa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "485",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken, Aschenputtel",
+      "bild_beschreibung": "Märchen der Brüder Grimm; Aschenputtel lässt sich von Tauben beim Lesen der Linsen helfen",
+      "entwerfer": "Stefula",
+      "auflage": 36027000,
+      "commons_datei": "DBP 1965 485 Wohlfahrt Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Linse (Botanik)",
+          "beschriftung": "Linsen",
+          "haupt": false,
+          "artikel": "Linse (Botanik)",
+          "wikidata": "Q131226"
+        },
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": false,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "486",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken, Aschenputtel",
+      "bild_beschreibung": "Aschenputtel empfängt ihr Ballkleid aus einem Baum",
+      "entwerfer": "Stefula",
+      "auflage": 17350000,
+      "commons_datei": "DBP 1965 486 Wohlfahrt Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ballkleid",
+          "beschriftung": "Ballkleid",
+          "haupt": true,
+          "artikel": "Ballkleid",
+          "wikidata": "Q635784"
+        },
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": false,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "487",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken, Aschenputtel",
+      "bild_beschreibung": "Aschenputtel verlässt das Schloss und verliert einen Schuh",
+      "entwerfer": "Stefula",
+      "auflage": 28201000,
+      "commons_datei": "DBP 1965 487 Wohlfahrt Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": true,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "488",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken, Aschenputtel",
+      "bild_beschreibung": "Der Prinz führt Aschenputtel als seine Braut heim",
+      "entwerfer": "Stefula",
+      "auflage": 10203000,
+      "commons_datei": "DBP 1965 488 Wohlfahrt Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": true,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    }
+  ]
+}
