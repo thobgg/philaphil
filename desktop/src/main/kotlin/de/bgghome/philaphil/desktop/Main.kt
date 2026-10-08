@@ -1,5 +1,8 @@
 package de.bgghome.philaphil.desktop
 
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
@@ -19,6 +22,8 @@ fun main(args: Array<String>) {
     val plattform = DesktopPlattform()
     // --minr 1031: diese Marke gleich oeffnen
     val startMiNr = args.toList().zipWithNext().firstOrNull { it.first == "--minr" }?.second
+    // --vorladen: Vorschaubilder gleich nach dem Start laden (zum Testen ohne Klick)
+    val vorladen = "--vorladen" in args
     SingletonImageLoader.setSafe { context -> philaImageLoader(context, plattform) }
 
     application {
@@ -28,6 +33,10 @@ fun main(args: Array<String>) {
             title = APP_NAME,
             state = WindowState(size = DpSize(1200.dp, 800.dp)),
         ) {
+            val context = coil3.compose.LocalPlatformContext.current
+            val zustand by viewModel.zustand.collectAsState()
+            LaunchedEffect(zustand.laedt) { if (vorladen && !zustand.laedt) viewModel.vorladen(context) }
+            LaunchedEffect(zustand.vorladenMeldung) { if (vorladen) zustand.vorladenMeldung?.let { println("Vorladen: $it") } }
             PhilaTheme { AppRoot(viewModel) }
         }
     }

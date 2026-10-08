@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Nur um vor dem Vorladen der Bilder zu pruefen, ob das Netz WLAN (nicht nach Volumen) ist. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <!-- Kamera nur fuer eigene Markenfotos; die App kommt auch ohne aus. -->
     <uses-feature android:name="android.hardware.camera.any" android:required="false" />
 

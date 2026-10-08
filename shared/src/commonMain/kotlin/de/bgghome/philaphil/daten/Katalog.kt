@@ -43,6 +43,8 @@ class Katalog private constructor(private val db: KatalogDb) {
 
     fun info(schluessel: String): String? = db.katalogQueries.info(schluessel).executeAsOneOrNull()?.wert
 
+    fun alleCommonsDateien(): List<String> = db.katalogQueries.alleCommonsDateien().executeAsList().filterNotNull()
+
     fun thema(id: Long): Thema? = db.katalogQueries.thema(id).executeAsOneOrNull()
 
     fun suche(text: String): List<Marke> {

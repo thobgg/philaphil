@@ -120,3 +120,6 @@ LEFT JOIN marke_thema ON marke_thema.marke_id = marke.id
 LEFT JOIN thema ON thema.id = marke_thema.thema_id
 WHERE marke.anlass LIKE ? OR marke.bild_beschreibung LIKE ? OR thema.titel LIKE ? OR marke.mi_nr LIKE ?
 ORDER BY marke.jahr, marke.sortier_nr;
+
+alleCommonsDateien:
+SELECT DISTINCT commons_datei FROM marke WHERE commons_datei IS NOT NULL ORDER BY jahr, sortier_nr;

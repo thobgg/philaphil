@@ -6,6 +6,8 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.width
 import androidx.compose.material3.AlertDialog
+import androidx.compose.material3.LinearProgressIndicator
+import coil3.compose.LocalPlatformContext
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
@@ -23,6 +25,10 @@ import de.bgghome.philaphil.res.ordner_waehlen
 import de.bgghome.philaphil.res.sammlungsordner
 import de.bgghome.philaphil.res.schliessen
 import de.bgghome.philaphil.res.ueber
+import de.bgghome.philaphil.res.vorladen_abbrechen
+import de.bgghome.philaphil.res.vorladen_hinweis
+import de.bgghome.philaphil.res.vorladen_start
+import de.bgghome.philaphil.res.vorladen_titel
 import org.jetbrains.compose.resources.stringResource
 
 /** Einstellungen: der Sammlungsordner (bestand.json, Bilder/) und ein paar Zeilen ueber die App. */
@@ -46,6 +52,23 @@ fun Einstellungen(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> U
                 TextButton(onClick = { viewModel.sammlungsordnerSetzen(null) }) { Text(stringResource(Res.string.ordner_standard)) }
                 Spacer(Modifier.height(8.dp))
                 Text(stringResource(Res.string.ordner_hinweis), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Spacer(Modifier.height(16.dp))
+                // Vorschaubilder fuer unterwegs
+                val context = LocalPlatformContext.current
+                Text(stringResource(Res.string.vorladen_titel), style = MaterialTheme.typography.titleMedium)
+                Spacer(Modifier.height(4.dp))
+                Text(stringResource(Res.string.vorladen_hinweis), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Spacer(Modifier.height(6.dp))
+                val lauf = zustand.vorladen
+                OutlinedButton(onClick = { viewModel.vorladen(context) }) {
+                    Text(stringResource(if (lauf != null) Res.string.vorladen_abbrechen else Res.string.vorladen_start))
+                }
+                if (lauf != null) {
+                    Spacer(Modifier.height(6.dp))
+                    LinearProgressIndicator(progress = { if (lauf.second == 0) 0f else lauf.first.toFloat() / lauf.second })
+                    Text("${lauf.first} / ${lauf.second}", style = MaterialTheme.typography.bodySmall)
+                }
+                zustand.vorladenMeldung?.let { Text(it, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary) }
                 Spacer(Modifier.height(16.dp))
                 Text(stringResource(Res.string.ueber, APP_NAME, viewModel.plattform.versionName), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
             }

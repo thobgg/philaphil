@@ -49,4 +49,8 @@
     <string name="neu_einlesen">Neu einlesen</string>
     <string name="ordner_hinweis">Hier liegen bestand.json und der Ordner „Bilder“. Eigene Bilder heißen nach Gebiet und MiNr., etwa Bund-1031.jpg oder Bund-1031-2.png, und gelten für jede Marke, ob im Besitz oder nicht. Lass den Ordner von Synology Drive oder einer anderen Sync-App spiegeln, dann sind Handy und PC gleich.</string>
     <string name="ueber">%1$s %2$s · Daten: Wikipedia (CC BY-SA 4.0), Bilder: Wikimedia Commons · GPL-3.0</string>
+    <string name="vorladen_titel">Bilder für unterwegs</string>
+    <string name="vorladen_hinweis">Lädt die Vorschaubilder aller Marken von Wikimedia Commons, etwa 40 MB. Danach zeigen Liste und Karte auch ohne Netz Bilder. Am Handy nur im WLAN.</string>
+    <string name="vorladen_start">Vorschaubilder laden</string>
+    <string name="vorladen_abbrechen">Abbrechen</string>
 </resources>
