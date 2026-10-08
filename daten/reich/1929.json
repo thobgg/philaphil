@@ -1,0 +1,204 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1929,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1929 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1929_der_Deutschen_Reichspost",
+    "revision": 236181352,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 430,
+    "mi_nr_bis": 434,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 5,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "430",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1929-11-01",
+      "wert": "5+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Bremen",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 3051237,
+      "commons_datei": "DR 1929 430 Nothilfe Wappen Bremen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremer Wappen",
+          "beschriftung": "Wappen von Bremen",
+          "haupt": true,
+          "artikel": "Bremer Wappen",
+          "wikidata": "Q470548"
+        }
+      ]
+    },
+    {
+      "mi_nr": "431",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1929-11-01",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen des Freistaats Lippe",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 4214414,
+      "commons_datei": "DR 1929 431 Nothilfe Wappen Lippe-Detmold.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freistaat Lippe",
+          "beschriftung": "Freistaats Lippe",
+          "haupt": true,
+          "artikel": "Freistaat Lippe",
+          "wikidata": "Q835382"
+        }
+      ]
+    },
+    {
+      "mi_nr": "432",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1929-11-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Lübeck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 4898586,
+      "commons_datei": "DR 1929 432 Nothilfe Wappen Lübeck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lübecker Wappen",
+          "beschriftung": "Wappen von Lübeck",
+          "haupt": true,
+          "artikel": "Lübecker Wappen",
+          "wikidata": "Q1880167"
+        }
+      ]
+    },
+    {
+      "mi_nr": "433",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1929-11-01",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Mecklenburg-Strelitz",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 379455,
+      "commons_datei": "DR 1929 433 Nothilfe Wappen Mecklenburg-Strelitz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburg-Strelitz",
+          "beschriftung": "Mecklenburg-Strelitz",
+          "haupt": true,
+          "artikel": "Mecklenburg-Strelitz",
+          "wikidata": "Q161215"
+        }
+      ]
+    },
+    {
+      "mi_nr": "434",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1929-11-01",
+      "wert": "50+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Schaumburg-Lippe",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 177788,
+      "commons_datei": "DR 1929 434 Nothilfe Wappen Schaumburg-Lippe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schaumburg-Lippe",
+          "beschriftung": "Schaumburg-Lippe",
+          "haupt": true,
+          "artikel": "Schaumburg-Lippe",
+          "wikidata": "Q310650"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 123",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1929",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1929 123 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 124",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1929",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1929 124 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    }
+  ]
+}

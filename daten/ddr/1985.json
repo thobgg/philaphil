@@ -1,0 +1,2834 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1985,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1985 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1985_der_Deutschen_Post_der_DDR",
+    "revision": 264963771,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2920,
+    "mi_nr_bis": 2992,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 74,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2920",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIII)",
+      "bild_beschreibung": "Anton Ackermann (1905–1973)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anton Ackermann",
+          "beschriftung": "Anton Ackermann",
+          "haupt": true,
+          "artikel": "Anton Ackermann",
+          "wikidata": "Q69198"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2921",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIII)",
+      "bild_beschreibung": "Alfred Kurella (1895–1975)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alfred Kurella",
+          "beschriftung": "Alfred Kurella",
+          "haupt": true,
+          "artikel": "Alfred Kurella",
+          "wikidata": "Q78214"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2922",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIII)",
+      "bild_beschreibung": "Otto Schön (1905–1968)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Schön (Politiker)",
+          "beschriftung": "Otto Schön",
+          "haupt": true,
+          "artikel": "Otto Schön (Politiker)",
+          "wikidata": "Q1796786"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2923",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XXIV. Rennschlitten-Weltmeisterschaften, Oberhof",
+      "bild_beschreibung": "Einsitzer",
+      "entwerfer": "Gudrun Lenz",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rennrodel-Weltmeisterschaften 1985",
+          "beschriftung": "XXIV. Rennschlitten-Weltmeisterschaften",
+          "haupt": true,
+          "artikel": "Rennrodel-Weltmeisterschaften 1985",
+          "wikidata": "Q825808"
+        },
+        {
+          "titel": "Oberhof",
+          "beschriftung": "Oberhof",
+          "haupt": false,
+          "artikel": "Oberhof",
+          "wikidata": "Q489215"
+        },
+        {
+          "titel": "Rennrodeln",
+          "beschriftung": "Einsitzer",
+          "haupt": false,
+          "artikel": "Rennrodeln",
+          "wikidata": "Q273285"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2924",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Briefkästen",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden auch als Zusammendruck in Viererblockanordnung ausgegeben:; Erster amtlich eingeführter Holz-Briefkasten (bis ca. 1850)",
+      "entwerfer": "Berthold Lindner",
+      "auflage": 27500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postbriefkasten (Deutschland)",
+          "beschriftung": "Briefkästen",
+          "haupt": true,
+          "artikel": "Postbriefkasten (Deutschland)",
+          "wikidata": "Q1763036"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2925",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Briefkästen",
+      "bild_beschreibung": "Gusseiserner Briefkasten (um 1860)",
+      "entwerfer": "Berthold Lindner",
+      "auflage": 11500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gusseisen",
+          "beschriftung": "Gusseiserner",
+          "haupt": true,
+          "artikel": "Gusseisen",
+          "wikidata": "Q483269"
+        },
+        {
+          "titel": "Postbriefkasten (Deutschland)",
+          "beschriftung": "Briefkästen",
+          "haupt": false,
+          "artikel": "Postbriefkasten (Deutschland)",
+          "wikidata": "Q1763036"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2926",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-05",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Briefkästen",
+      "bild_beschreibung": "Gusseiserner Briefkasten (um 1900)",
+      "entwerfer": "Berthold Lindner",
+      "auflage": 8500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postbriefkasten (Deutschland)",
+          "beschriftung": "Briefkästen",
+          "haupt": true,
+          "artikel": "Postbriefkasten (Deutschland)",
+          "wikidata": "Q1763036"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2927",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Briefkästen",
+      "bild_beschreibung": "Briefkasten aus Blech und Gusseisen (um 1920)",
+      "entwerfer": "Berthold Lindner",
+      "auflage": 5600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postbriefkasten (Deutschland)",
+          "beschriftung": "Briefkästen",
+          "haupt": true,
+          "artikel": "Postbriefkasten (Deutschland)",
+          "wikidata": "Q1763036"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2928",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-12",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wiedereröffnung der Semperoper, Dresden",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Semperoper (1985)",
+      "entwerfer": "Peter Kraus",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Semperoper",
+          "beschriftung": "Semperoper",
+          "haupt": true,
+          "artikel": "Semperoper",
+          "wikidata": "Q127097"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2929",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-03-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Bachdenkmal an der Thomaskirche, Leipzig",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Bach-Denkmal in Leipzig",
+          "beschriftung": "Bachdenkmal",
+          "haupt": true,
+          "artikel": "Neues Bach-Denkmal in Leipzig",
+          "wikidata": "Q1980313"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2930",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-03-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Kanne mit Weinlaub-Dekor (Meißener Porzellan)",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meißener Porzellan",
+          "beschriftung": "Meißener Porzellan",
+          "haupt": true,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2931",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-03-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Johann Sebastian Bach und Georg Friedrich Händel, 400. Geburtstag von Heinrich Schütz",
+      "bild_beschreibung": "Diese und die folgenden zwei Marken wurden als Briefmarkenblock ausgegeben:; Johann Sebastian Bach, Komponist; rechts davon Zierfeld: Bachs letzte Handschrift (1750): Kunst der Fuge",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Die Kunst der Fuge",
+          "beschriftung": "Kunst der Fuge",
+          "haupt": false,
+          "artikel": "Die Kunst der Fuge",
+          "wikidata": "Q465878"
+        },
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": false,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": false,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        },
+        {
+          "titel": "Heinrich Schütz",
+          "beschriftung": "Heinrich Schütz",
+          "haupt": false,
+          "artikel": "Heinrich Schütz",
+          "wikidata": "Q153643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2932",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-03-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Johann Sebastian Bach und Georg Friedrich Händel, 400. Geburtstag von Heinrich Schütz",
+      "bild_beschreibung": "Georg Friedrich Händel, Komponist, rechts davon Zierfeld: Hallesche Händelausgabe (1961): Concerto Grosso, Opus 6 Nr. 5, 5. Satz Allegro",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1985, MiNr 2932.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": true,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": false,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        },
+        {
+          "titel": "Heinrich Schütz",
+          "beschriftung": "Heinrich Schütz",
+          "haupt": false,
+          "artikel": "Heinrich Schütz",
+          "wikidata": "Q153643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2933",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-03-19",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Johann Sebastian Bach und Georg Friedrich Händel, 400. Geburtstag von Heinrich Schütz",
+      "bild_beschreibung": "Heinrich Schütz, Komponist; rechts davon Zierfeld: Erstdruck Dresden (1648): Geistliche Chor-Music Nr.4",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1985, MiNr 2933.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": true,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": false,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": false,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        },
+        {
+          "titel": "Heinrich Schütz",
+          "beschriftung": "Heinrich Schütz",
+          "haupt": false,
+          "artikel": "Heinrich Schütz",
+          "wikidata": "Q153643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2934",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (III)",
+      "bild_beschreibung": "Neubrandenburg",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neubrandenburg",
+          "beschriftung": "Neubrandenburg",
+          "haupt": true,
+          "artikel": "Neubrandenburg",
+          "wikidata": "Q3958"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2935",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (III)",
+      "bild_beschreibung": "Potsdam",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": true,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2936",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (III)",
+      "bild_beschreibung": "Rostock",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rostocker Wappen",
+          "beschriftung": "Rostock",
+          "haupt": true,
+          "artikel": "Rostocker Wappen",
+          "wikidata": "Q1555442"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2937",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (III)",
+      "bild_beschreibung": "Schwerin",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwerin",
+          "beschriftung": "Schwerin",
+          "haupt": true,
+          "artikel": "Schwerin",
+          "wikidata": "Q1709"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2938",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (III)",
+      "bild_beschreibung": "Suhl",
+      "entwerfer": "Harald Stier",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": true,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2939",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Ehrenmal in der Gedenkstätte der Befreiung auf den Seelower Höhen (Brandenburg), Gedenkstätte Seelower Höhen",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Schlacht um die Seelower Höhen",
+          "beschriftung": "Seelower Höhen",
+          "haupt": false,
+          "artikel": "Schlacht um die Seelower Höhen",
+          "wikidata": "Q7879625"
+        },
+        {
+          "titel": "Brandenburg",
+          "beschriftung": "Brandenburg",
+          "haupt": false,
+          "artikel": "Brandenburg",
+          "wikidata": "Q1208"
+        },
+        {
+          "titel": "Gedenkstätte Seelower Höhen",
+          "beschriftung": "Gedenkstätte Seelower Höhen",
+          "haupt": false,
+          "artikel": "Gedenkstätte Seelower Höhen",
+          "wikidata": "Q11823591"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2940",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-23",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Egon Erwin Kisch",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem links anliegendem Zierfeld ausgegeben:; Egon Erwin Kisch, böhmischer Journalist und Schriftsteller",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 4200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Egon Erwin Kisch",
+          "beschriftung": "Egon Erwin Kisch",
+          "haupt": true,
+          "artikel": "Egon Erwin Kisch",
+          "wikidata": "Q78791"
+        },
+        {
+          "titel": "Böhmen",
+          "beschriftung": "böhmischer",
+          "haupt": false,
+          "artikel": "Böhmen",
+          "wikidata": "Q39193"
+        },
+        {
+          "titel": "Journalist",
+          "beschriftung": "Journalist",
+          "haupt": false,
+          "artikel": "Journalist",
+          "wikidata": "Q1930187"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2941",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Weltraumflug UdSSR-DDR; Waleri Bykowski und Sigmund Jähn",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sojus 31",
+          "beschriftung": "Weltraumflug UdSSR-DDR",
+          "haupt": true,
+          "artikel": "Sojus 31",
+          "wikidata": "Q916974"
+        },
+        {
+          "titel": "Waleri Fjodorowitsch Bykowski",
+          "beschriftung": "Waleri Bykowski",
+          "haupt": false,
+          "artikel": "Waleri Fjodorowitsch Bykowski",
+          "wikidata": "Q159681"
+        },
+        {
+          "titel": "Sigmund Jähn",
+          "beschriftung": "Sigmund Jähn",
+          "haupt": false,
+          "artikel": "Sigmund Jähn",
+          "wikidata": "Q57229"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Jahrestag der Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2942",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Kohle und Energie; Förderrekord durch Adolf Hennecke",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kohle",
+          "beschriftung": "Kohle",
+          "haupt": true,
+          "artikel": "Kohle",
+          "wikidata": "Q24489"
+        },
+        {
+          "titel": "Energie",
+          "beschriftung": "Energie",
+          "haupt": false,
+          "artikel": "Energie",
+          "wikidata": "Q11379"
+        },
+        {
+          "titel": "Adolf Hennecke",
+          "beschriftung": "Adolf Hennecke",
+          "haupt": false,
+          "artikel": "Adolf Hennecke",
+          "wikidata": "Q362086"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Jahrestag der Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2943",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Landwirtschaft; Genossenschaftsbauern, Traktoren",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirtschaft",
+          "beschriftung": "Landwirtschaft",
+          "haupt": true,
+          "artikel": "Landwirtschaft",
+          "wikidata": "Q11451"
+        },
+        {
+          "titel": "Genossenschaft",
+          "beschriftung": "Genossenschaft",
+          "haupt": false,
+          "artikel": "Genossenschaft",
+          "wikidata": "Q4539"
+        },
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": false,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Jahrestag der Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2944",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Wissenschaft und Technik; Arbeiterinnen, Integrierter Schaltkreis",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wissenschaft",
+          "beschriftung": "Wissenschaft",
+          "haupt": true,
+          "artikel": "Wissenschaft",
+          "wikidata": "Q336"
+        },
+        {
+          "titel": "Technik",
+          "beschriftung": "Technik",
+          "haupt": false,
+          "artikel": "Technik",
+          "wikidata": "Q2695280"
+        },
+        {
+          "titel": "Arbeiter",
+          "beschriftung": "Arbeiter",
+          "haupt": false,
+          "artikel": "Arbeiter",
+          "wikidata": "Q12713481"
+        },
+        {
+          "titel": "Integrierter Schaltkreis",
+          "beschriftung": "Integrierter Schaltkreis",
+          "haupt": false,
+          "artikel": "Integrierter Schaltkreis",
+          "wikidata": "Q80831"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Jahrestag der Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2945",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Ehrenmal für die gefallenen sowjetischen Soldaten, Berlin-Treptow",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Sowjetisches Ehrenmal (Treptower Park)",
+          "beschriftung": "gefallenen sowjetischen Soldaten, Berlin-Treptow",
+          "haupt": false,
+          "artikel": "Sowjetisches Ehrenmal im Treptower Park",
+          "wikidata": "Q48441"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Jahrestag der Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2946",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre Warschauer Vertrag",
+      "bild_beschreibung": "Wort „FRIEDEN“ aus den Flaggen der Mitgliedsländer Bulgarien, Ungarn, DDR, Polen, Rumänien, UdSSR und CSSR",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Warschauer Pakt",
+          "beschriftung": "Warschauer Vertrag",
+          "haupt": true,
+          "artikel": "Warschauer Pakt",
+          "wikidata": "Q41644"
+        },
+        {
+          "titel": "Frieden",
+          "beschriftung": "FRIEDEN",
+          "haupt": false,
+          "artikel": "Frieden",
+          "wikidata": "Q454"
+        },
+        {
+          "titel": "Bulgarien",
+          "beschriftung": "Bulgarien",
+          "haupt": false,
+          "artikel": "Bulgarien",
+          "wikidata": "Q219"
+        },
+        {
+          "titel": "Ungarn",
+          "beschriftung": "Ungarn",
+          "haupt": false,
+          "artikel": "Ungarn",
+          "wikidata": "Q28"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "Polen",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        },
+        {
+          "titel": "Rumänien",
+          "beschriftung": "Rumänien",
+          "haupt": false,
+          "artikel": "Rumänien",
+          "wikidata": "Q218"
+        },
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "UdSSR",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Tschechoslowakei",
+          "beschriftung": "CSSR",
+          "haupt": false,
+          "artikel": "Tschechoslowakei",
+          "wikidata": "Q33946"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2947",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-21",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XII. Parlament der Freien Deutschen Jugend (FDJ), Berlin",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; FDJ-Emblem, Rektorenhaus Esmarchstraße 18 (Kurt-Tucholsky-Bibliothek), Neue Wache, Palast der Republik, Fernsehturm",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste der Straßen und Plätze in Berlin-Prenzlauer Berg",
+          "beschriftung": "Esmarchstraße",
+          "haupt": true,
+          "artikel": "Liste der Straßen und Plätze in Berlin-Prenzlauer Berg",
+          "wikidata": "Q1476531"
+        },
+        {
+          "titel": "Neue Wache",
+          "beschriftung": "Neue Wache",
+          "haupt": false,
+          "artikel": "Neue Wache",
+          "wikidata": "Q152341"
+        },
+        {
+          "titel": "Palast der Republik",
+          "beschriftung": "Palast der Republik",
+          "haupt": false,
+          "artikel": "Palast der Republik",
+          "wikidata": "Q161156"
+        },
+        {
+          "titel": "Berliner Fernsehturm",
+          "beschriftung": "Fernsehturm",
+          "haupt": false,
+          "artikel": "Berliner Fernsehturm",
+          "wikidata": "Q151356"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "XII. Parlament der Freien Deutschen Jugend",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2948",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XII. Parlament der Freien Deutschen Jugend (FDJ), Berlin",
+      "bild_beschreibung": "Ernst Thälmann, Politiker; Fahnen; FDJ-Emblem",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Fahne",
+          "beschriftung": "Fahne",
+          "haupt": false,
+          "artikel": "Fahne",
+          "wikidata": "Q1371499"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "XII. Parlament der Freien Deutschen Jugend",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2949",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-28",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "90. Session des Internationalen Olympischen Komitees (IOC)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegendem Zierfeld ausgegeben:; Olympische Flagge",
+      "entwerfer": "Peter Korn",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tagung",
+          "beschriftung": "Session",
+          "haupt": true,
+          "artikel": "Tagung",
+          "wikidata": "Q625994"
+        },
+        {
+          "titel": "Internationales Olympisches Komitee",
+          "beschriftung": "Internationalen Olympischen Komitees",
+          "haupt": false,
+          "artikel": "Internationales Olympisches Komitee",
+          "wikidata": "Q40970"
+        },
+        {
+          "titel": "Olympische Ringe",
+          "beschriftung": "Olympische Flagge",
+          "haupt": false,
+          "artikel": "Olympische Ringe",
+          "wikidata": "Q1224195"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2950",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-28",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Solidarität",
+      "bild_beschreibung": "Wort „Solidarität“ in Weltkarte, Friedenstaube",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität (Zuschlagmarke)",
+          "beschriftung": "Internationale Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität (Zuschlagmarke)",
+          "wikidata": "Q2298788"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2951",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-06-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Freier Deutscher Gewerkschaftsbund (FDGB)",
+      "bild_beschreibung": "Zahl „40“ aus roten Fahnen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freier Deutscher Gewerkschaftsbund",
+          "haupt": true,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "roten Fahnen",
+          "haupt": false,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2952",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-06-25",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (II)",
+      "bild_beschreibung": "Harpyie (Harpia harpyja)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harpyie (Vogel)",
+          "beschriftung": "Harpyie",
+          "haupt": true,
+          "artikel": "Harpyie (Vogel)",
+          "wikidata": "Q53745"
+        },
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2953",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-06-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (II)",
+      "bild_beschreibung": "Rothalsgans (Branta ruficollis)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rothalsgans",
+          "beschriftung": "Rothalsgans",
+          "haupt": true,
+          "artikel": "Rothalsgans",
+          "wikidata": "Q187852"
+        },
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2954",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-06-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (II)",
+      "bild_beschreibung": "Brillenbär (Tremarctos ornatus)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brillenbär",
+          "beschriftung": "Brillenbär",
+          "haupt": true,
+          "artikel": "Brillenbär",
+          "wikidata": "Q137641"
+        },
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2955",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-06-25",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (II)",
+      "bild_beschreibung": "Banteng (Bos javanicus)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Banteng",
+          "beschriftung": "Banteng",
+          "haupt": true,
+          "artikel": "Banteng",
+          "wikidata": "Q183035"
+        },
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2956",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-06-25",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (II)",
+      "bild_beschreibung": "Sunda-Gavial (Tomistoma schlegelii)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sunda-Gavial",
+          "beschriftung": "Sunda-Gavial",
+          "haupt": true,
+          "artikel": "Sunda-Gavial",
+          "wikidata": "Q242464"
+        },
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2957",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (II): Dampfmaschinen",
+      "bild_beschreibung": "Bock-Dampfmaschine (1833), Gera",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gera",
+          "beschriftung": "Gera",
+          "haupt": true,
+          "artikel": "Gera",
+          "wikidata": "Q3750"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Dampfmaschine",
+          "beschriftung": "Dampfmaschine",
+          "haupt": false,
+          "artikel": "Dampfmaschine",
+          "wikidata": "Q12760"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2958",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-09",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (II): Dampfmaschinen",
+      "bild_beschreibung": "Balancier-Dampfmaschine (1848), Freiberg",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Balancier",
+          "beschriftung": "Balancier",
+          "haupt": true,
+          "artikel": "Balancier",
+          "wikidata": "Q804630"
+        },
+        {
+          "titel": "Freiberg",
+          "beschriftung": "Freiberg",
+          "haupt": false,
+          "artikel": "Freiberg",
+          "wikidata": "Q14819"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Dampfmaschine",
+          "beschriftung": "Dampfmaschine",
+          "haupt": false,
+          "artikel": "Dampfmaschine",
+          "wikidata": "Q12760"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2959",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-23",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XII. Weltfestspiele der Jugend und Studenten, Moskau",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Studierende Jugendliche verschiedener Nationalitäten",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Student",
+          "beschriftung": "Studierende Jugendliche",
+          "haupt": true,
+          "artikel": "Student",
+          "wikidata": "Q48282"
+        },
+        {
+          "titel": "Nation",
+          "beschriftung": "Nation",
+          "haupt": false,
+          "artikel": "Nation",
+          "wikidata": "Q6266"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2960",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-23",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XII. Weltfestspiele der Jugend und Studenten, Moskau",
+      "bild_beschreibung": "Demonstrierende Jugendliche verschiedener Nationalitäten",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstrierende",
+          "haupt": true,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2961",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Weltmeisterschaft im Orientierungstauchen, Neuglobsow",
+      "bild_beschreibung": "Taucher an Wendeboje",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tauchen",
+          "beschriftung": "Taucher",
+          "haupt": true,
+          "artikel": "Tauchen",
+          "wikidata": "Q179643"
+        },
+        {
+          "titel": "Boje (Schifffahrt)",
+          "beschriftung": "Wendeboje",
+          "haupt": false,
+          "artikel": "Boje (Schifffahrt)",
+          "wikidata": "Q30026"
+        },
+        {
+          "titel": "Orientierungstauchen",
+          "beschriftung": "Orientierungstauchen",
+          "haupt": false,
+          "artikel": "Orientierungstauchen",
+          "wikidata": "Q2030705"
+        },
+        {
+          "titel": "Neuglobsow",
+          "beschriftung": "Neuglobsow",
+          "haupt": false,
+          "artikel": "Neuglobsow",
+          "wikidata": "Q1461651"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2962",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-13",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Weltmeisterschaft im Orientierungstauchen, Neuglobsow",
+      "bild_beschreibung": "Streckentaucher",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Streckentauchen",
+          "beschriftung": "Streckentaucher",
+          "haupt": true,
+          "artikel": "Streckentauchen",
+          "wikidata": "Q2355253"
+        },
+        {
+          "titel": "Orientierungstauchen",
+          "beschriftung": "Orientierungstauchen",
+          "haupt": false,
+          "artikel": "Orientierungstauchen",
+          "wikidata": "Q2030705"
+        },
+        {
+          "titel": "Neuglobsow",
+          "beschriftung": "Neuglobsow",
+          "haupt": false,
+          "artikel": "Neuglobsow",
+          "wikidata": "Q1461651"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2963",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Bosehaus am Thomaskirchhof, Leipzig",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bosehaus",
+          "beschriftung": "Bosehaus",
+          "haupt": true,
+          "artikel": "Bosehaus",
+          "wikidata": "Q894408"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2964",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Bachtrompete, „Meister Johannes Scherzer“",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Piccolotrompete",
+          "beschriftung": "Bachtrompete",
+          "haupt": true,
+          "artikel": "Piccolotrompete",
+          "wikidata": "Q1569742"
+        },
+        {
+          "titel": "Johannes Scherzer",
+          "beschriftung": "Johannes Scherzer",
+          "haupt": false,
+          "artikel": "Johannes Scherzer",
+          "wikidata": null
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2965",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Briefmarkenausstellung SOZPHILEX 1985, Berlin",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck und auch im Markenheftchen ausgegeben:; Personenpostwagen (19. Jh.); Relief von Hermann Steinemann am Postfuhramt Berlin",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Markenheft",
+          "beschriftung": "Markenheft",
+          "haupt": true,
+          "artikel": "Briefmarkenheft",
+          "wikidata": "Q914931"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Personenpostwagen",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        },
+        {
+          "titel": "Hermann Steinemann",
+          "beschriftung": "Hermann Steinemann",
+          "haupt": false,
+          "artikel": "Hermann Steinemann",
+          "wikidata": null
+        },
+        {
+          "titel": "Postfuhramt",
+          "beschriftung": "Postfuhramt",
+          "haupt": false,
+          "artikel": "Postfuhramt",
+          "wikidata": "Q1745972"
+        },
+        {
+          "titel": "SOZPHILEX",
+          "beschriftung": "SOZPHILEX",
+          "haupt": false,
+          "artikel": "SOZPHILEX",
+          "wikidata": "Q4430329"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2966",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-10",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Briefmarkenausstellung SOZPHILEX 1985, Berlin",
+      "bild_beschreibung": "Personenpostwagen (19. Jh.); Relief von Hermann Steinemann am Postfuhramt Berlin",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SOZPHILEX",
+          "beschriftung": "SOZPHILEX",
+          "haupt": true,
+          "artikel": "SOZPHILEX",
+          "wikidata": "Q4430329"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2967",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-10",
+      "wert": "5 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Flugpostmarken (IV)",
+      "bild_beschreibung": "Stilisiertes Flugzeug mit Brief",
+      "entwerfer": "Detlef Glinski",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Stilisierung",
+          "beschriftung": "Stilisiertes",
+          "haupt": false,
+          "artikel": "Stilisierung",
+          "wikidata": "Q1752818"
+        },
+        {
+          "titel": "Flugzeug",
+          "beschriftung": "Flugzeug",
+          "haupt": false,
+          "artikel": "Flugzeug",
+          "wikidata": "Q197"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2968",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eisenbahnwesen",
+      "bild_beschreibung": "Gleisbildstellwerk; Meldetafel GS II DR (Ausschnitt)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Relaisstellwerk",
+          "beschriftung": "Gleisbildstellwerk",
+          "haupt": true,
+          "artikel": "Relaisstellwerk",
+          "wikidata": "Q2008263"
+        },
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": false,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2969",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eisenbahnwesen",
+      "bild_beschreibung": "Dampflok Saxonia; Konstrukteur Johann Andreas Schubert; Elektrolok BR 250",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dampflokomotive",
+          "beschriftung": "Dampflok",
+          "haupt": true,
+          "artikel": "Dampflokomotive",
+          "wikidata": "Q171043"
+        },
+        {
+          "titel": "LDE – Saxonia",
+          "beschriftung": "Saxonia",
+          "haupt": false,
+          "artikel": "LDE – Saxonia",
+          "wikidata": "Q566247"
+        },
+        {
+          "titel": "Johann Andreas Schubert",
+          "beschriftung": "Johann Andreas Schubert",
+          "haupt": false,
+          "artikel": "Johann Andreas Schubert",
+          "wikidata": "Q213946"
+        },
+        {
+          "titel": "Elektrolokomotive",
+          "beschriftung": "Elektrolok",
+          "haupt": false,
+          "artikel": "Elektrolokomotive",
+          "wikidata": "Q625151"
+        },
+        {
+          "titel": "DR-Baureihe 250",
+          "beschriftung": "BR 250",
+          "haupt": false,
+          "artikel": "DR-Baureihe 250",
+          "wikidata": "Q559652"
+        },
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": false,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2970",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-24",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eisenbahnwesen",
+      "bild_beschreibung": "Elektrifizierung mittels Hubschrauber",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elektrifizierung",
+          "beschriftung": "Elektrifizierung",
+          "haupt": true,
+          "artikel": "Elektrifizierung",
+          "wikidata": "Q1076056"
+        },
+        {
+          "titel": "Hubschrauber",
+          "beschriftung": "Hubschrauber",
+          "haupt": false,
+          "artikel": "Hubschrauber",
+          "wikidata": "Q34486"
+        },
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": false,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2971",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-09-24",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eisenbahnwesen",
+      "bild_beschreibung": "Hauptbahnhof Leipzig; Signale",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig Hauptbahnhof",
+          "beschriftung": "Hauptbahnhof Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig Hauptbahnhof",
+          "wikidata": "Q703916"
+        },
+        {
+          "titel": "Signal",
+          "beschriftung": "Signale",
+          "haupt": false,
+          "artikel": "Signal",
+          "wikidata": "Q2150504"
+        },
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": false,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2972 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Brücken in Berlin",
+      "bild_beschreibung": "Gertraudenbrücke",
+      "entwerfer": "Peter Korn",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gertraudenbrücke",
+          "beschriftung": "Gertraudenbrücke",
+          "haupt": true,
+          "artikel": "Gertraudenbrücke",
+          "wikidata": "Q1515489"
+        },
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": false,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2973 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Brücken in Berlin",
+      "bild_beschreibung": "Diese Marke wurde im Rastertiefdruck hergestellt:; Jungfernbrücke",
+      "entwerfer": "Peter Korn",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Rastertiefdruck",
+          "haupt": true,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Jungfernbrücke (Berlin)",
+          "beschriftung": "Jungfernbrücke",
+          "haupt": false,
+          "artikel": "Jungfernbrücke (Berlin)",
+          "wikidata": "Q459086"
+        },
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": false,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2973 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Brücken in Berlin",
+      "bild_beschreibung": "Diese Marke wurde im Offsetdruck als Kleinbogen ausgegeben:; Jungfernbrücke",
+      "entwerfer": "Peter Korn",
+      "auflage": 16800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Offsetdruck",
+          "beschriftung": "Offsetdruck",
+          "haupt": true,
+          "artikel": "Offsetdruck",
+          "wikidata": "Q190408"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": false,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2974 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-08",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Brücken in Berlin",
+      "bild_beschreibung": "Weidendammer Brücke",
+      "entwerfer": "Peter Korn",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weidendammer Brücke",
+          "beschriftung": "Weidendammer Brücke",
+          "haupt": true,
+          "artikel": "Weidendammer Brücke",
+          "wikidata": "Q161907"
+        },
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": false,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2975",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-08",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Brücken in Berlin",
+      "bild_beschreibung": "Schloßbrücke (Marx-Engels-Brücke)",
+      "entwerfer": "Peter Korn",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloßbrücke (Berlin-Mitte)",
+          "beschriftung": "Schloßbrücke",
+          "haupt": true,
+          "artikel": "Schloßbrücke (Berlin-Mitte)",
+          "wikidata": "Q459161"
+        },
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": false,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2976",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (II)",
+      "bild_beschreibung": "Burg Hohnstein (Kreis Sebnitz) (14. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Hohnstein (Sächsische Schweiz)",
+          "beschriftung": "Burg Hohnstein",
+          "haupt": true,
+          "artikel": "Burg Hohnstein (Sächsische Schweiz)",
+          "wikidata": "Q315602"
+        },
+        {
+          "titel": "Kreis Sebnitz",
+          "beschriftung": "Kreis Sebnitz",
+          "haupt": false,
+          "artikel": "Kreis Sebnitz",
+          "wikidata": "Q830296"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2977",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (II)",
+      "bild_beschreibung": "Rochsburg (Kreis Rochlitz) (12. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Rochsburg",
+          "beschriftung": "Rochsburg",
+          "haupt": true,
+          "artikel": "Schloss Rochsburg",
+          "wikidata": "Q1300080"
+        },
+        {
+          "titel": "Kreis Rochlitz",
+          "beschriftung": "Kreis Rochlitz",
+          "haupt": false,
+          "artikel": "Kreis Rochlitz",
+          "wikidata": "Q1787481"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2978",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (II)",
+      "bild_beschreibung": "Burg Schwarzenberg (Kreis Schwarzenberg) (12. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Schwarzenberg (Sachsen)",
+          "beschriftung": "Burg Schwarzenberg",
+          "haupt": true,
+          "artikel": "Schloss Schwarzenberg (Sachsen)",
+          "wikidata": "Q826149"
+        },
+        {
+          "titel": "Kreis Schwarzenberg",
+          "beschriftung": "Kreis Schwarzenberg",
+          "haupt": false,
+          "artikel": "Kreis Schwarzenberg",
+          "wikidata": "Q1415733"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2979",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (II)",
+      "bild_beschreibung": "Burg Stein (Kreis Zwickau-Land) (12./13. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Stein (Sachsen)",
+          "beschriftung": "Burg Stein",
+          "haupt": true,
+          "artikel": "Burg Stein (Sachsen)",
+          "wikidata": "Q1014096"
+        },
+        {
+          "titel": "Kreis Zwickau-Land",
+          "beschriftung": "Kreis Zwickau-Land",
+          "haupt": false,
+          "artikel": "Kreis Zwickau-Land",
+          "wikidata": "Q1787592"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2980",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Humboldt-Universität; 275 Jahre Charité",
+      "bild_beschreibung": "Mittelteil der Humboldt-Universität zu Berlin",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität",
+          "haupt": true,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2981",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-22",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Humboldt-Universität; 275 Jahre Charité",
+      "bild_beschreibung": "Historisches Gebäude und Neubau der Charité",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität",
+          "haupt": true,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2982",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-22",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Vereinte Nationen (UNO)",
+      "bild_beschreibung": "UNO-Emblem; Schloss Cecilienhof, Potsdam",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": true,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Flagge der Vereinten Nationen",
+          "beschriftung": "UNO-Emblem",
+          "haupt": false,
+          "artikel": "Flagge der Vereinten Nationen",
+          "wikidata": "Q172446"
+        },
+        {
+          "titel": "Cecilienhof",
+          "beschriftung": "Cecilienhof",
+          "haupt": false,
+          "artikel": "Cecilienhof",
+          "wikidata": "Q321783"
+        },
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2983",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (II)",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Elefantendressur",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elefant",
+          "beschriftung": "Elefant",
+          "haupt": true,
+          "artikel": "Elefanten",
+          "wikidata": "Q2372824"
+        },
+        {
+          "titel": "Zirkuskunst in der DDR",
+          "beschriftung": "Zirkuskunst in der DDR",
+          "haupt": false,
+          "artikel": "Zirkuskunst in der DDR",
+          "wikidata": "Q205977"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2984",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (II)",
+      "bild_beschreibung": "Luftakrobatik am Schwungtrapez",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Akrobatik",
+          "beschriftung": "Luftakrobatik",
+          "haupt": true,
+          "artikel": "Akrobatik",
+          "wikidata": "Q193036"
+        },
+        {
+          "titel": "Trapez (Sport)",
+          "beschriftung": "trapez",
+          "haupt": false,
+          "artikel": "Trapez (Sport)",
+          "wikidata": "Q1200918"
+        },
+        {
+          "titel": "Zirkuskunst in der DDR",
+          "beschriftung": "Zirkuskunst in der DDR",
+          "haupt": false,
+          "artikel": "Zirkuskunst in der DDR",
+          "wikidata": "Q205977"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2985",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (II)",
+      "bild_beschreibung": "Radäquilibristik",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zirkuskunst in der DDR",
+          "beschriftung": "Zirkuskunst in der DDR",
+          "haupt": true,
+          "artikel": "Zirkuskunst in der DDR",
+          "wikidata": "Q205977"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2986",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (II)",
+      "bild_beschreibung": "Tigerdressur",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tiger",
+          "beschriftung": "Tiger",
+          "haupt": true,
+          "artikel": "Tiger",
+          "wikidata": "Q19939"
+        },
+        {
+          "titel": "Zirkuskunst in der DDR",
+          "beschriftung": "Zirkuskunst in der DDR",
+          "haupt": false,
+          "artikel": "Zirkuskunst in der DDR",
+          "wikidata": "Q205977"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2987",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XV): Verschiedene Märchen der Gebrüder Grimm",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden als Kleinbogen ausgegeben:; Wilhelm Grimm und Jacob Grimm, Germanisten, Märchenforscher",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Wilhelm Grimm",
+          "beschriftung": "Wilhelm Grimm",
+          "haupt": false,
+          "artikel": "Wilhelm Grimm",
+          "wikidata": "Q6714"
+        },
+        {
+          "titel": "Jacob Grimm",
+          "beschriftung": "Jacob Grimm",
+          "haupt": false,
+          "artikel": "Jacob Grimm",
+          "wikidata": "Q6701"
+        },
+        {
+          "titel": "Germanistik",
+          "beschriftung": "Germanisten",
+          "haupt": false,
+          "artikel": "Germanistik",
+          "wikidata": "Q166153"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2988",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XV): Verschiedene Märchen der Gebrüder Grimm",
+      "bild_beschreibung": "Szene aus Das tapfere Schneiderlein",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das tapfere Schneiderlein",
+          "beschriftung": "Das tapfere Schneiderlein",
+          "haupt": true,
+          "artikel": "Das tapfere Schneiderlein",
+          "wikidata": "Q326838"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2989",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XV): Verschiedene Märchen der Gebrüder Grimm",
+      "bild_beschreibung": "Szene aus Hans im Glück",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans im Glück",
+          "beschriftung": "Hans im Glück",
+          "haupt": true,
+          "artikel": "Hans im Glück",
+          "wikidata": "Q11827"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2990",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XV): Verschiedene Märchen der Gebrüder Grimm",
+      "bild_beschreibung": "Szene aus Der gestiefelte Kater",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": true,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2991",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-26",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XV): Verschiedene Märchen der Gebrüder Grimm",
+      "bild_beschreibung": "Szene aus Die sieben Raben",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die sieben Raben",
+          "beschriftung": "Die sieben Raben",
+          "haupt": true,
+          "artikel": "Die sieben Raben",
+          "wikidata": "Q467932"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2992",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-26",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XV): Verschiedene Märchen der Gebrüder Grimm",
+      "bild_beschreibung": "Szene aus Der süße Brei",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der süße Brei",
+          "beschriftung": "Der süße Brei",
+          "haupt": true,
+          "artikel": "Der süße Brei",
+          "wikidata": "Q471233"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        }
+      ]
+    }
+  ]
+}

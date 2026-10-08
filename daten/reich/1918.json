@@ -1,0 +1,46 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1918,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1918 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1918_der_Deutschen_Reichspost",
+    "revision": 255531205,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 102,
+    "mi_nr_bis": 102,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "102",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1918-10-01",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1918 102 Germania.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    }
+  ]
+}

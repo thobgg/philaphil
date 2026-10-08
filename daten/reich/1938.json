@@ -1,0 +1,1296 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1938,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1938 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1938_der_Deutschen_Reichspost",
+    "revision": 268668512,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 660,
+    "mi_nr_bis": 685,
+    "luecken": [
+      663
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 25,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "660",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-01-28",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "5. Jahrestag der Machtergreifung durch Adolf Hitler",
+      "bild_beschreibung": "Fackelträger vor dem Brandenburger Tor",
+      "entwerfer": "Alois Kolb",
+      "auflage": null,
+      "commons_datei": "DR 1938 660 Machtergreifung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Machtergreifung",
+          "beschriftung": "Machtergreifung",
+          "haupt": false,
+          "artikel": "Machtergreifung",
+          "wikidata": "Q328271"
+        }
+      ]
+    },
+    {
+      "mi_nr": "661",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-01-28",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "5. Jahrestag der Machtergreifung durch Adolf Hitler",
+      "bild_beschreibung": "Fackelträger vor dem Brandenburger Tor",
+      "entwerfer": "Alois Kolb",
+      "auflage": null,
+      "commons_datei": "DR 1938 661 Machtergreifung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Machtergreifung",
+          "beschriftung": "Machtergreifung",
+          "haupt": true,
+          "artikel": "Machtergreifung",
+          "wikidata": "Q328271"
+        }
+      ]
+    },
+    {
+      "mi_nr": "662 (Berlin)",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-04-08",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Volksabstimmung in Österreich",
+      "bild_beschreibung": "Ein Deutscher und ein Österreicher mit Fahne",
+      "entwerfer": "Erwin Puchinger",
+      "auflage": null,
+      "commons_datei": "DR 1938 662 Volksabstimmung Österreich.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Anschluss (Österreich)",
+          "beschriftung": "Volksabstimmung in Österreich",
+          "haupt": true,
+          "artikel": "Anschluss Österreichs",
+          "wikidata": "Q154681"
+        },
+        {
+          "titel": "Fahne",
+          "beschriftung": "Fahne",
+          "haupt": false,
+          "artikel": "Fahne",
+          "wikidata": "Q1371499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "664",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-04-13",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "49. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": "DR 1938 664 Adolf Hitler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "665",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-06-21",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Deutsches Turn- und Sportfest in Breslau",
+      "bild_beschreibung": "Dominsel in Breslau",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1938 665 Turn- und Sportfest.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": true,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Breslau",
+          "beschriftung": "Breslau",
+          "haupt": false,
+          "artikel": "Breslau",
+          "wikidata": "Q1799"
+        }
+      ]
+    },
+    {
+      "mi_nr": "666",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-06-21",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Deutsches Turn- und Sportfest in Breslau",
+      "bild_beschreibung": "Sportfeld in Breslau",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1938 666 Turn- und Sportfest.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": true,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Breslau",
+          "beschriftung": "Breslau",
+          "haupt": false,
+          "artikel": "Breslau",
+          "wikidata": "Q1799"
+        }
+      ]
+    },
+    {
+      "mi_nr": "667",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-06-21",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Deutsches Turn- und Sportfest in Breslau",
+      "bild_beschreibung": "Breslauer Rathaus",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1938 667 Turn- und Sportfest.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Breslauer Rathaus",
+          "beschriftung": "Breslauer Rathaus",
+          "haupt": true,
+          "artikel": "Rathaus (Breslau)",
+          "wikidata": "Q910225"
+        },
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Breslau",
+          "beschriftung": "Breslau",
+          "haupt": false,
+          "artikel": "Breslau",
+          "wikidata": "Q1799"
+        }
+      ]
+    },
+    {
+      "mi_nr": "668",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-06-21",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Deutsches Turn- und Sportfest in Breslau",
+      "bild_beschreibung": "Jahrhunderthalle in Breslau",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1938 668 Turn- und Sportfest.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jahrhunderthalle (Breslau)",
+          "beschriftung": "Jahrhunderthalle",
+          "haupt": true,
+          "artikel": "Jahrhunderthalle (Breslau)",
+          "wikidata": "Q155743"
+        },
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Breslau",
+          "beschriftung": "Breslau",
+          "haupt": false,
+          "artikel": "Breslau",
+          "wikidata": "Q1799"
+        }
+      ]
+    },
+    {
+      "mi_nr": "669",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-07-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken zum 100. Geburtstag von Ferdinand Graf von Zeppelin",
+      "bild_beschreibung": "Graf Zeppelin an Bord eines seiner Luftschiffe",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": "DR 1938 669 Ferdinand von Zeppelin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftschiff",
+          "beschriftung": "Luftschiff",
+          "haupt": true,
+          "artikel": "Luftschiff",
+          "wikidata": "Q133585"
+        },
+        {
+          "titel": "Ferdinand Graf von Zeppelin",
+          "beschriftung": "Ferdinand Graf von Zeppelin",
+          "haupt": false,
+          "artikel": "Ferdinand von Zeppelin",
+          "wikidata": "Q75780"
+        }
+      ]
+    },
+    {
+      "mi_nr": "670",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-07-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken zum 100. Geburtstag von Ferdinand Graf von Zeppelin",
+      "bild_beschreibung": "Führergondel des Zeppelin LZ 129",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": "DR 1938 670 Zeppelin LZ 129.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeppelin",
+          "beschriftung": "Zeppelin",
+          "haupt": true,
+          "artikel": "Zeppelin",
+          "wikidata": "Q191413"
+        },
+        {
+          "titel": "LZ 129",
+          "beschriftung": "LZ 129",
+          "haupt": false,
+          "artikel": "LZ 129",
+          "wikidata": "Q217964"
+        },
+        {
+          "titel": "Ferdinand Graf von Zeppelin",
+          "beschriftung": "Ferdinand Graf von Zeppelin",
+          "haupt": false,
+          "artikel": "Ferdinand von Zeppelin",
+          "wikidata": "Q75780"
+        }
+      ]
+    },
+    {
+      "mi_nr": "671",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-07-20",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "5. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "unbekleidete Siegesgöttin mit Siegerkranz auf einem Pferd",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "das Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        }
+      ]
+    },
+    {
+      "mi_nr": "672",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-09-01",
+      "wert": "6+19",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "10. Reichsparteitag",
+      "bild_beschreibung": "Adolf Hitler",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichsparteitag",
+          "beschriftung": "Reichsparteitag",
+          "haupt": true,
+          "artikel": "Reichsparteitag",
+          "wikidata": "Q160225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "673",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-10-09",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Eröffnung des Theaters Saarpfalz",
+      "bild_beschreibung": "Saarländisches Staatstheater",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1938 673 Theater Saarpfalz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saarländisches Staatstheater",
+          "beschriftung": "Saarländisches Staatstheater",
+          "haupt": true,
+          "artikel": "Saarländisches Staatstheater",
+          "wikidata": "Q208805"
+        }
+      ]
+    },
+    {
+      "mi_nr": "674",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-10-09",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Eröffnung des Theaters Saarpfalz",
+      "bild_beschreibung": "Theater in Saarbrücken",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1938 674 Theater Saarpfalz.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "675",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Burg Forchtenstein, Silberdistel Carlina acaulis",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Forchtenstein",
+          "beschriftung": "Burg Forchtenstein",
+          "haupt": true,
+          "artikel": "Burg Forchtenstein",
+          "wikidata": "Q877030"
+        },
+        {
+          "titel": "Silberdistel",
+          "beschriftung": "Silberdistel",
+          "haupt": false,
+          "artikel": "Silberdistel",
+          "wikidata": "Q670377"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "676",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Flexenstraße, Frühlings-Kuhschelle Pulsatilla vernalis",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flexenpass",
+          "beschriftung": "Flexenstraße",
+          "haupt": true,
+          "artikel": "Flexenpass",
+          "wikidata": "Q361973"
+        },
+        {
+          "titel": "Frühlings-Kuhschelle",
+          "beschriftung": "Frühlings-Kuhschelle",
+          "haupt": false,
+          "artikel": "Frühlings-Kuhschelle",
+          "wikidata": "Q149379"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "677",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "5+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Zell am See, Aurikel Primula auricula",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zell am See",
+          "beschriftung": "Zell am See",
+          "haupt": true,
+          "artikel": "Zell am See",
+          "wikidata": "Q187572"
+        },
+        {
+          "titel": "Aurikel",
+          "beschriftung": "Aurikel",
+          "haupt": false,
+          "artikel": "Aurikel",
+          "wikidata": "Q164186"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "678",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Großglockner, Edelweiß Leontopodium alpinum",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großglockner",
+          "beschriftung": "Großglockner",
+          "haupt": true,
+          "artikel": "Großglockner",
+          "wikidata": "Q3388"
+        },
+        {
+          "titel": "Alpen-Edelweiß",
+          "beschriftung": "Edelweiß",
+          "haupt": false,
+          "artikel": "Alpen-Edelweiß",
+          "wikidata": "Q178265"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "679",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Burgruine Aggstein, Europäisches Alpenveilchen Cyclamen purpurascens",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burgruine Aggstein",
+          "beschriftung": "Burgruine Aggstein",
+          "haupt": true,
+          "artikel": "Burgruine Aggstein",
+          "wikidata": "Q698689"
+        },
+        {
+          "titel": "Europäisches Alpenveilchen",
+          "beschriftung": "Europäisches Alpenveilchen",
+          "haupt": false,
+          "artikel": "Europäisches Alpenveilchen",
+          "wikidata": "Q149344"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "680",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Denkmal Prinz Eugen in Wien, Heckenrose Rosa canina",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eugen von Savoyen",
+          "beschriftung": "Prinz Eugen",
+          "haupt": true,
+          "artikel": "Eugen von Savoyen",
+          "wikidata": "Q152428"
+        },
+        {
+          "titel": "Hunds-Rose",
+          "beschriftung": "Heckenrose",
+          "haupt": false,
+          "artikel": "Hundsrose",
+          "wikidata": "Q146066"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "681",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Erzberg, Alpenrose Rhododendron ferrugineum",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzberg",
+          "beschriftung": "Erzberg",
+          "haupt": true,
+          "artikel": "Erzberg",
+          "wikidata": "Q700232"
+        },
+        {
+          "titel": "Rostblättrige Alpenrose",
+          "beschriftung": "Alpenrose",
+          "haupt": false,
+          "artikel": "Rostblättrige Alpenrose",
+          "wikidata": "Q1341190"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "682",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Hall in Tirol, Stängelloser Enzian Gentiana acaulis",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hall in Tirol",
+          "beschriftung": "Hall in Tirol",
+          "haupt": true,
+          "artikel": "Hall in Tirol",
+          "wikidata": "Q302745"
+        },
+        {
+          "titel": "Kochscher Enzian",
+          "beschriftung": "Stängelloser Enzian",
+          "haupt": false,
+          "artikel": "Kochscher Enzian",
+          "wikidata": "Q163785"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "683",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-11-18",
+      "wert": "40+35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Winterhilfswerk, Landschaften aus dem Osten mit Blumen",
+      "bild_beschreibung": "Braunau am Inn, Frühlings-Krokus Crocus vernus",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Braunau am Inn",
+          "beschriftung": "Braunau am Inn",
+          "haupt": true,
+          "artikel": "Braunau am Inn",
+          "wikidata": "Q131128"
+        },
+        {
+          "titel": "Frühlings-Krokus",
+          "beschriftung": "Frühlings-Krokus",
+          "haupt": false,
+          "artikel": "Frühlings-Krokus",
+          "wikidata": "Q165077"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "684",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-12-02",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Volksabstimmung im Sudetenland",
+      "bild_beschreibung": "Ein Mann und eine Frau aus dem Egerland",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Egerland",
+          "beschriftung": "Egerland",
+          "haupt": true,
+          "artikel": "Egerland",
+          "wikidata": "Q782304"
+        },
+        {
+          "titel": "Sudetenland",
+          "beschriftung": "Sudetenland",
+          "haupt": false,
+          "artikel": "Sudetenland",
+          "wikidata": "Q194242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "685",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1938-12-02",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Volksabstimmung im Sudetenland",
+      "bild_beschreibung": "Ein Mann und eine Frau aus dem Egerland",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sudetenland",
+          "beschriftung": "Sudetenland",
+          "haupt": true,
+          "artikel": "Sudetenland",
+          "wikidata": "Q194242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 144",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "Adler auf Sockel",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 145",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 146",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 147",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 148",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 149",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 150",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 151",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 152",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 153",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 154",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1938-01-26",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "P 246",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": null,
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte zur Reichstagung „Kraft durch Freude“ (Luftpost)",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 247",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": null,
+      "wert": "5 / 5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte zur Reichstagung „Kraft durch Freude“ (Luftpost)",
+      "bild_beschreibung": "Frage- und Antwortteil",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 267",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-01-26",
+      "wert": "6 + 4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte zum 5. Jahrestag des 30. Januar 1933",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 267 1938-1.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 268",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-04-08",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Sonderkarte zur Abstimmung über den Anschluss Österreichs",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 268 1938-1v.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 269",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-06-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-06-30",
+      "anlass": "Sonderkarte zur Ausstellung „Sachsen am Werk“",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 269 1938 2.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 270",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-06-10",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-06-30",
+      "anlass": "Sonderkarte zur Ausstellung „Sachsen am Werk“",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 270 1938 2.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 271",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-07-12",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte für die Reichswettkämpfe der SA in Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 272",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-09-01",
+      "wert": "6 + 19",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte zum Reichsparteitag",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 272 1938-1.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 273",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-09-20",
+      "wert": "6 + 19",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte zum Erntedanktag",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 273 1938-2.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 274",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-10-18",
+      "wert": "6 + 4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-09-30",
+      "anlass": "Sonderkarten für das Winterhilfswerk",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 274 1938 01-1.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 275",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-12-02",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte zur Abstimmung im Sudetenland",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 275 1938-1v.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 276",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1938-12-31",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Sonderkarte für den Kölner Karneval",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 276 1938-1v.jpg",
+      "satz": false,
+      "themen": []
+    }
+  ]
+}

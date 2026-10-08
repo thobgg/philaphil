@@ -1,0 +1,554 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1928,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1928 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1928_der_Deutschen_Reichspost",
+    "revision": 236181385,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 410,
+    "mi_nr_bis": 429,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 7,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-09-20",
+      "wert": "2 RM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Luftschiff LZ 127 Graf Zeppelin",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1928 423 Zeppelin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "LZ 127",
+          "beschriftung": "LZ 127",
+          "haupt": true,
+          "artikel": "LZ 127",
+          "wikidata": "Q721226"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-09-20",
+      "wert": "4 RM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Luftschiff LZ 127 Graf Zeppelin",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1928 424 Zeppelin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-11-15",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1929-04-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Hamburg",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 1207598,
+      "commons_datei": "DR 1928 425 Nothilfe Wappen Hamburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-11-15",
+      "wert": "8+7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1929-04-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Mecklenburg-Schwerin",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 2400716,
+      "commons_datei": "DR 1928 426 Nothilfe Wappen Mecklenburg-Schwerin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburg-Schwerin",
+          "beschriftung": "Mecklenburg-Schwerin",
+          "haupt": true,
+          "artikel": "Mecklenburg-Schwerin",
+          "wikidata": "Q158445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "427",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-11-15",
+      "wert": "15+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1929-04-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Oldenburg",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 2406013,
+      "commons_datei": "DR 1928 427 Nothilfe Wappen Oldenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Oldenburg (Land)",
+          "beschriftung": "Oldenburg",
+          "haupt": true,
+          "artikel": "Oldenburg (Land)",
+          "wikidata": "Q19831559"
+        }
+      ]
+    },
+    {
+      "mi_nr": "428",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-11-15",
+      "wert": "25+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1929-04-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Braunschweig",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 284850,
+      "commons_datei": "DR 1928 428 Nothilfe Wappen Braunschweig.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freistaat Braunschweig",
+          "beschriftung": "Braunschweig",
+          "haupt": true,
+          "artikel": "Freistaat Braunschweig",
+          "wikidata": "Q648297"
+        }
+      ]
+    },
+    {
+      "mi_nr": "429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1928-11-15",
+      "wert": "50+50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1929-04-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Anhalt",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 156984,
+      "commons_datei": "DR 1928 429 Nothilfe Wappen Anhalt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anhalt",
+          "beschriftung": "Anhalt",
+          "haupt": true,
+          "artikel": "Anhalt",
+          "wikidata": "Q155578"
+        }
+      ]
+    },
+    {
+      "mi_nr": "410",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 410 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Ebert",
+          "beschriftung": "Friedrich Ebert",
+          "haupt": true,
+          "artikel": "Friedrich Ebert",
+          "wikidata": "Q2646"
+        },
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": false,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "411",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 411 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        },
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": false,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "412",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 412 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "413",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 413 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "414",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 414 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "415",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 415 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "416",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 416 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "417",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 417 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "418",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 418 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "419",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "45",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 419 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "420",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 420 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "421",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 421 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "422",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1928-09-01",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1928 422 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 122",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1928",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe (Ergänzungswert zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1928 122 Dienstmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarkenausgabe",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    }
+  ]
+}

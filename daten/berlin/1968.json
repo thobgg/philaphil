@@ -1,0 +1,269 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1968,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1968 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1968_der_Deutschen_Bundespost_Berlin",
+    "revision": 251521720,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 316,
+    "mi_nr_bis": 325,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 10,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend 1968: Vom Aussterben bedrohte Tiere",
+      "bild_beschreibung": "Europäische Wildkatze, Felis silvestris silvestris",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2590000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäische Wildkatze",
+          "beschriftung": "Europäische Wildkatze",
+          "haupt": true,
+          "artikel": "Europäische Wildkatze",
+          "wikidata": "Q148833"
+        }
+      ]
+    },
+    {
+      "mi_nr": "317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend 1968: Vom Aussterben bedrohte Tiere",
+      "bild_beschreibung": "Fischotter, Lutra lutra",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2987000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischotter",
+          "beschriftung": "Fischotter",
+          "haupt": true,
+          "artikel": "Fischotter",
+          "wikidata": "Q29995"
+        }
+      ]
+    },
+    {
+      "mi_nr": "318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend 1968: Vom Aussterben bedrohte Tiere",
+      "bild_beschreibung": "Dachs, Meles meles",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2545000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dachs",
+          "beschriftung": "Dachs",
+          "haupt": true,
+          "artikel": "Europäischer Dachs",
+          "wikidata": "Q27066"
+        }
+      ]
+    },
+    {
+      "mi_nr": "319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend 1968: Vom Aussterben bedrohte Tiere",
+      "bild_beschreibung": "Europäischer Biber, Castor fiber",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2534000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Biber",
+          "beschriftung": "Europäischer Biber",
+          "haupt": true,
+          "artikel": "Europäischer Biber",
+          "wikidata": "Q181191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "500 Jahre Kammergericht Berlin",
+      "bild_beschreibung": "Früheres Kammergericht, um 1735 erbaut, heute Jüdisches Museum Berlin",
+      "entwerfer": "Welde",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1968 320 Kammergericht.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kammergericht",
+          "beschriftung": "Kammergericht",
+          "haupt": true,
+          "artikel": "Kammergericht",
+          "wikidata": "Q59165607"
+        },
+        {
+          "titel": "Jüdisches Museum Berlin",
+          "beschriftung": "Jüdisches Museum Berlin",
+          "haupt": false,
+          "artikel": "Jüdisches Museum Berlin",
+          "wikidata": "Q157003"
+        }
+      ]
+    },
+    {
+      "mi_nr": "321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Deutsches Turnfest in Berlin",
+      "bild_beschreibung": "dreimal das Emblem des Deutschen Turnerbundes",
+      "entwerfer": "Schmitt",
+      "auflage": 6500000,
+      "commons_datei": "DBPB 1968 321 Turnfest.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Turner-Bund",
+          "beschriftung": "Deutschen Turnerbundes",
+          "haupt": true,
+          "artikel": "Deutscher Turner-Bund",
+          "wikidata": "Q1205411"
+        }
+      ]
+    },
+    {
+      "mi_nr": "322",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken 1968: Alte Puppen",
+      "bild_beschreibung": "Puppe um 1878",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5424000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "323",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken 1968: Alte Puppen",
+      "bild_beschreibung": "Puppe um 1850",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5427000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "324",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken 1968: Alte Puppen",
+      "bild_beschreibung": "Puppe um 1870",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5253000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken 1968: Alte Puppen",
+      "bild_beschreibung": "Puppe um 1885",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3723000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1986,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1986 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1986_der_Deutschen_Bundespost_Berlin",
+    "revision": 259738206,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 750,
+    "mi_nr_bis": 771,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-01-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wilhelm Furtwängler",
+      "bild_beschreibung": "Noten der Violin-Sonate D-Dur",
+      "entwerfer": "Bernd Görs",
+      "auflage": 7082000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Furtwängler",
+          "beschriftung": "Wilhelm Furtwängler",
+          "haupt": true,
+          "artikel": "Wilhelm Furtwängler",
+          "wikidata": "Q57285"
+        },
+        {
+          "titel": "Note (Musik)",
+          "beschriftung": "Noten",
+          "haupt": false,
+          "artikel": "Note (Musik)",
+          "wikidata": "Q263478"
+        },
+        {
+          "titel": "Violine",
+          "beschriftung": "Violin",
+          "haupt": false,
+          "artikel": "Violine",
+          "wikidata": "Q8355"
+        },
+        {
+          "titel": "Sonate",
+          "beschriftung": "Sonate",
+          "haupt": false,
+          "artikel": "Sonate",
+          "wikidata": "Q131269"
+        },
+        {
+          "titel": "D-Dur",
+          "beschriftung": "D-Dur",
+          "haupt": false,
+          "artikel": "D-Dur",
+          "wikidata": "Q1124006"
+        }
+      ]
+    },
+    {
+      "mi_nr": "751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1986",
+      "bild_beschreibung": "Jugend-Europameisterschaften im Schwimmen,; in Berlin",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2334197,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwimmeuropameisterschaften",
+          "beschriftung": "Jugend-Europameisterschaften",
+          "haupt": true,
+          "artikel": "Schwimmeuropameisterschaften",
+          "wikidata": "Q512129"
+        },
+        {
+          "titel": "Schwimmsport",
+          "beschriftung": "Schwimmen",
+          "haupt": false,
+          "artikel": "Schwimmsport",
+          "wikidata": "Q31920"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "752",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "120+55",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1986",
+      "bild_beschreibung": "Weltmeisterschaften im Springreiten,; in Aachen",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 1985523,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltmeisterschaften der olympischen Reitsportdisziplinen",
+          "beschriftung": "Weltmeisterschaften",
+          "haupt": true,
+          "artikel": "Weltmeisterschaften der olympischen Reitsportdisziplinen",
+          "wikidata": "Q19861323"
+        },
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": false,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        },
+        {
+          "titel": "Aachen",
+          "beschriftung": "Aachen",
+          "haupt": false,
+          "artikel": "Aachen",
+          "wikidata": "Q1017"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Ludwig Mies van der Rohe",
+      "bild_beschreibung": "Hintergrund „Neue Nationalgalerie“",
+      "entwerfer": "Bernd Görs",
+      "auflage": 8500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Mies van der Rohe",
+          "beschriftung": "Ludwig Mies van der Rohe",
+          "haupt": true,
+          "artikel": "Ludwig Mies van der Rohe",
+          "wikidata": "Q41508"
+        },
+        {
+          "titel": "Neue Nationalgalerie",
+          "beschriftung": "Neue Nationalgalerie",
+          "haupt": false,
+          "artikel": "Neue Nationalgalerie",
+          "wikidata": "Q32659772"
+        }
+      ]
+    },
+    {
+      "mi_nr": "754",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1986: Handwerksberufe",
+      "bild_beschreibung": "Glaser",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2421356,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Glaser",
+          "beschriftung": "Glaser",
+          "haupt": true,
+          "artikel": "Glaser",
+          "wikidata": "Q664283"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "755",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1986: Handwerksberufe",
+      "bild_beschreibung": "Schlosser",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2400733,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlosser (Beruf)",
+          "beschriftung": "Schlosser",
+          "haupt": true,
+          "artikel": "Schlosserei",
+          "wikidata": "Q9395454"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "756",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1986: Handwerksberufe",
+      "bild_beschreibung": "Schneider",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2391189,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneider",
+          "beschriftung": "Schneider",
+          "haupt": true,
+          "artikel": "Schneider",
+          "wikidata": "Q242468"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "757",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1986: Handwerksberufe",
+      "bild_beschreibung": "Tischler",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2397546,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tischler",
+          "beschriftung": "Tischler",
+          "haupt": true,
+          "artikel": "Tischler",
+          "wikidata": "Q326358"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europatag der Gemeinden und Regionen in Berlin",
+      "bild_beschreibung": "Stadtsilhouette, Flaggen europäischer Länder",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 6089000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Skyline",
+          "beschriftung": "Stadtsilhouette",
+          "haupt": true,
+          "artikel": "Skyline",
+          "wikidata": "Q465837"
+        },
+        {
+          "titel": "Flagge",
+          "beschriftung": "Flagge",
+          "haupt": false,
+          "artikel": "Flagge",
+          "wikidata": "Q14660"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "europäischer Länder",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        }
+      ]
+    },
+    {
+      "mi_nr": "759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Leopold von Ranke",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 6089000,
+      "commons_datei": "Stamps of Germany (Berlin) 1986, MiNr 759.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leopold von Ranke",
+          "beschriftung": "Leopold von Ranke",
+          "haupt": true,
+          "artikel": "Leopold von Ranke",
+          "wikidata": "Q77184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Gottfried Benn",
+      "bild_beschreibung": "",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 6089000,
+      "commons_datei": "Stamps of Germany (Berlin) 1986, MiNr 760.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gottfried Benn",
+          "beschriftung": "Gottfried Benn",
+          "haupt": true,
+          "artikel": "Gottfried Benn",
+          "wikidata": "Q57277"
+        }
+      ]
+    },
+    {
+      "mi_nr": "761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Portale und Tore in Berlin",
+      "bild_beschreibung": "Charlottenburger Tor",
+      "entwerfer": "Jacek Kanior",
+      "auflage": 19589000,
+      "commons_datei": "Stamps of Germany (Berlin) 1986, MiNr 761.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Charlottenburger Tor",
+          "beschriftung": "Charlottenburger Tor",
+          "haupt": true,
+          "artikel": "Charlottenburger Tor",
+          "wikidata": "Q876120"
+        },
+        {
+          "titel": "Portal (Architektur)",
+          "beschriftung": "Portale",
+          "haupt": false,
+          "artikel": "Portal (Architektur)",
+          "wikidata": "Q854429"
+        },
+        {
+          "titel": "Tor (Architektur)",
+          "beschriftung": "Tore",
+          "haupt": false,
+          "artikel": "Tor (Architektur)",
+          "wikidata": "Q53060"
+        }
+      ]
+    },
+    {
+      "mi_nr": "762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Portale und Tore in Berlin",
+      "bild_beschreibung": "Greifentor, Schloss Glienicke",
+      "entwerfer": "Hans Joachim Fuchs",
+      "auflage": 6489000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Greif",
+          "beschriftung": "Greif",
+          "haupt": true,
+          "artikel": "Greif",
+          "wikidata": "Q130223"
+        },
+        {
+          "titel": "Schloss Glienicke",
+          "beschriftung": "Schloss Glienicke",
+          "haupt": false,
+          "artikel": "Schloss Glienicke",
+          "wikidata": "Q301684"
+        },
+        {
+          "titel": "Portal (Architektur)",
+          "beschriftung": "Portale",
+          "haupt": false,
+          "artikel": "Portal (Architektur)",
+          "wikidata": "Q854429"
+        },
+        {
+          "titel": "Tor (Architektur)",
+          "beschriftung": "Tore",
+          "haupt": false,
+          "artikel": "Tor (Architektur)",
+          "wikidata": "Q53060"
+        }
+      ]
+    },
+    {
+      "mi_nr": "763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Portale und Tore in Berlin",
+      "bild_beschreibung": "Elefantentor, Zoologischer Garten",
+      "entwerfer": "Bernd Maurer",
+      "auflage": 7839000,
+      "commons_datei": "Stamps of Germany (Berlin) 1986, MiNr 763.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elefantentor (Zoologischer Garten Berlin)",
+          "beschriftung": "Elefantentor",
+          "haupt": true,
+          "artikel": "Elefantentor (Zoologischer Garten Berlin)",
+          "wikidata": "Q1326294"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Zoologischer Garten",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        },
+        {
+          "titel": "Portal (Architektur)",
+          "beschriftung": "Portale",
+          "haupt": false,
+          "artikel": "Portal (Architektur)",
+          "wikidata": "Q854429"
+        },
+        {
+          "titel": "Tor (Architektur)",
+          "beschriftung": "Tore",
+          "haupt": false,
+          "artikel": "Tor (Architektur)",
+          "wikidata": "Q53060"
+        }
+      ]
+    },
+    {
+      "mi_nr": "764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Todestag von König Friedrich dem Großen",
+      "bild_beschreibung": "„Flötenkonzert“, Gemälde von Adolph von Menzel",
+      "entwerfer": "Bernd Görs",
+      "auflage": 11589000,
+      "commons_datei": "Stamps of Germany (Berlin) 1986, MiNr 764.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich II. (Preußen)",
+          "beschriftung": "König Friedrich dem Großen",
+          "haupt": true,
+          "artikel": "Friedrich II. (Preußen)",
+          "wikidata": "Q33550"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        },
+        {
+          "titel": "Adolph Menzel",
+          "beschriftung": "Adolph von Menzel",
+          "haupt": false,
+          "artikel": "Adolph von Menzel",
+          "wikidata": "Q164961"
+        }
+      ]
+    },
+    {
+      "mi_nr": "765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1986: Kostbare Gläser",
+      "bild_beschreibung": "Kantharos, (1. Jahrhundert)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 11725000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kantharos",
+          "beschriftung": "Kantharos",
+          "haupt": true,
+          "artikel": "Kantharos",
+          "wikidata": "Q755706"
+        },
+        {
+          "titel": "Glas",
+          "beschriftung": "Gläser",
+          "haupt": false,
+          "artikel": "Glas",
+          "wikidata": "Q11469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "766",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1986: Kostbare Gläser",
+      "bild_beschreibung": "Becher mit Schlangenfadenmuster, (um 200)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 7152000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Becher",
+          "beschriftung": "Becher",
+          "haupt": true,
+          "artikel": "Becher",
+          "wikidata": "Q833823"
+        },
+        {
+          "titel": "Glas",
+          "beschriftung": "Gläser",
+          "haupt": false,
+          "artikel": "Glas",
+          "wikidata": "Q11469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1986: Kostbare Gläser",
+      "bild_beschreibung": "Kännchen mit Fadenauflage, (3. Jahrhundert)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 5343000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kanne",
+          "beschriftung": "Kännchen",
+          "haupt": true,
+          "artikel": "Kanne",
+          "wikidata": "Q2413314"
+        },
+        {
+          "titel": "Glas",
+          "beschriftung": "Gläser",
+          "haupt": false,
+          "artikel": "Glas",
+          "wikidata": "Q11469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "768",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-10-16",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1986: Kostbare Gläser",
+      "bild_beschreibung": "Diatretbecher, (4. Jahrhundert)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 11213000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diatretglas",
+          "beschriftung": "Diatretbecher",
+          "haupt": true,
+          "artikel": "Diatretglas",
+          "wikidata": "Q448190"
+        },
+        {
+          "titel": "Glas",
+          "beschriftung": "Gläser",
+          "haupt": false,
+          "artikel": "Glas",
+          "wikidata": "Q11469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1986",
+      "bild_beschreibung": "Anbetung der Könige, rechter Flügel des Ortenberger Altars",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 6189000,
+      "commons_datei": "Stamps of Germany (Berlin) 1986, MiNr 769.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": false,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Flügelaltar",
+          "beschriftung": "Flügel",
+          "haupt": false,
+          "artikel": "Flügelaltar",
+          "wikidata": "Q11801536"
+        },
+        {
+          "titel": "Ortenberg (Hessen)",
+          "beschriftung": "Ortenberger Altars",
+          "haupt": false,
+          "artikel": "Ortenberg (Hessen)",
+          "wikidata": "Q622509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "770",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Christine Teusch",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 72413000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christine Teusch",
+          "beschriftung": "Christine Teusch",
+          "haupt": true,
+          "artikel": "Christine Teusch",
+          "wikidata": "Q104995"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "771",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1986-11-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Clara Schumann",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 30413000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clara Schumann",
+          "beschriftung": "Clara Schumann",
+          "haupt": true,
+          "artikel": "Clara Schumann",
+          "wikidata": "Q132232"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    }
+  ]
+}

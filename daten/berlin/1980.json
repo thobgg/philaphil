@@ -1,0 +1,784 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1980,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1980 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1980_der_Deutschen_Bundespost_Berlin",
+    "revision": 259739882,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 614,
+    "mi_nr_bis": 636,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 21,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-02-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Alfred Wegener",
+      "bild_beschreibung": "Anfangsstadium der Kontinentalverschiebung",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7280000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 616.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alfred Wegener",
+          "beschriftung": "Alfred Wegener",
+          "haupt": true,
+          "artikel": "Alfred Wegener",
+          "wikidata": "Q76323"
+        },
+        {
+          "titel": "Kontinentaldrift",
+          "beschriftung": "Kontinentalverschiebung",
+          "haupt": false,
+          "artikel": "Kontinentaldrift",
+          "wikidata": "Q178605"
+        }
+      ]
+    },
+    {
+      "mi_nr": "617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1980: Luftfahrt",
+      "bild_beschreibung": "Verkehrsflugzeug Vickers Viscount (1950)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3052000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsflugzeug",
+          "beschriftung": "Verkehrsflugzeug",
+          "haupt": true,
+          "artikel": "Verkehrsflugzeug",
+          "wikidata": "Q210932"
+        },
+        {
+          "titel": "Vickers Viscount",
+          "beschriftung": "Vickers Viscount",
+          "haupt": false,
+          "artikel": "Vickers Viscount",
+          "wikidata": "Q1137051"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1980: Luftfahrt",
+      "bild_beschreibung": "Verkehrsflugzeug Fokker F-27 (1955)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3031000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fokker F-27",
+          "beschriftung": "Fokker F-27",
+          "haupt": true,
+          "artikel": "Fokker F-27",
+          "wikidata": "Q506736"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1980: Luftfahrt",
+      "bild_beschreibung": "Verkehrsflugzeug Sud Aviation Caravelle (1955)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3037000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sud Aviation Caravelle",
+          "beschriftung": "Sud Aviation Caravelle",
+          "haupt": true,
+          "artikel": "Sud Aviation Caravelle",
+          "wikidata": "Q6503"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-04-10",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1980: Luftfahrt",
+      "bild_beschreibung": "Hubschrauber Sikorsky S-55 (1949)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3022000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hubschrauber",
+          "beschriftung": "Hubschrauber",
+          "haupt": true,
+          "artikel": "Hubschrauber",
+          "wikidata": "Q34486"
+        },
+        {
+          "titel": "Sikorsky S-55",
+          "beschriftung": "Sikorsky S-55",
+          "haupt": false,
+          "artikel": "Sikorsky S-55",
+          "wikidata": "Q694765"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1980",
+      "bild_beschreibung": "Speerwerfen",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2741000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Speerwurf",
+          "beschriftung": "Speerwerfen",
+          "haupt": true,
+          "artikel": "Speerwurf",
+          "wikidata": "Q178108"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1980",
+      "bild_beschreibung": "Gewichtheben",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2815000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewichtheben",
+          "beschriftung": "Gewichtheben",
+          "haupt": true,
+          "artikel": "Gewichtheben",
+          "wikidata": "Q83462"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "623",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1980",
+      "bild_beschreibung": "Wasserball",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2757000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserball",
+          "beschriftung": "Wasserball",
+          "haupt": true,
+          "artikel": "Wasserball",
+          "wikidata": "Q7707"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "624",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-05-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutscher Katholikentag in Berlin",
+      "bild_beschreibung": "Kardinal Konrad Graf von Preysing-Lichtenegg-Moos",
+      "entwerfer": "Ernst Finke",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Deutscher Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Kardinal",
+          "beschriftung": "Kardinal",
+          "haupt": false,
+          "artikel": "Kardinal",
+          "wikidata": "Q45722"
+        },
+        {
+          "titel": "Konrad Graf von Preysing",
+          "beschriftung": "Konrad Graf von Preysing-Lichtenegg-Moos",
+          "haupt": false,
+          "artikel": "Konrad Graf von Preysing",
+          "wikidata": "Q61303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "625",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-07-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Preußische Museen in Berlin",
+      "bild_beschreibung": "„Operatio“, Emaille-Medaillon mit Goldschmiedearbeit (12. Jh.)",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 10110000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 625.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Email",
+          "beschriftung": "Email",
+          "haupt": true,
+          "artikel": "Email",
+          "wikidata": "Q213371"
+        },
+        {
+          "titel": "Medaillon (Kunst)",
+          "beschriftung": "Medaillon",
+          "haupt": false,
+          "artikel": "Medaillon (Kunst)",
+          "wikidata": null
+        },
+        {
+          "titel": "Goldschmied",
+          "beschriftung": "Goldschmied",
+          "haupt": false,
+          "artikel": "Goldschmied",
+          "wikidata": "Q211423"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Preußische Museen",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        }
+      ]
+    },
+    {
+      "mi_nr": "626",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-07-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Preußische Museen in Berlin",
+      "bild_beschreibung": "„Lesende Mönche“, Holzskulptur von Ernst Barlach",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skulptur",
+          "beschriftung": "Holzskulptur",
+          "haupt": true,
+          "artikel": "Skulptur",
+          "wikidata": "Q860861"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Preußische Museen",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        }
+      ]
+    },
+    {
+      "mi_nr": "627",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-08-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Robert Stolz",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7160000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 627.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Robert Stolz",
+          "beschriftung": "Robert Stolz",
+          "haupt": true,
+          "artikel": "Robert Stolz",
+          "wikidata": "Q45095"
+        }
+      ]
+    },
+    {
+      "mi_nr": "628",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-08-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Friedrich Wilhelm von Steuben",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 10110000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 628.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Wilhelm von Steuben",
+          "beschriftung": "Friedrich Wilhelm von Steuben",
+          "haupt": true,
+          "artikel": "Friedrich Wilhelm von Steuben",
+          "wikidata": "Q213525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "629",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1980: Gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Breitsame Orlaya grandiflora",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9052000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Strahlen-Breitsame",
+          "beschriftung": "Breitsame",
+          "haupt": true,
+          "artikel": "Strahlen-Breitsame",
+          "wikidata": "Q2352976"
+        },
+        {
+          "titel": "Ackerrandstreifen",
+          "beschriftung": "Ackerwildkräuter",
+          "haupt": false,
+          "artikel": "Ackerrandstreifen",
+          "wikidata": "Q341842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "630",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1980: Gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Acker-Goldstern Gagea arvensis",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8830000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Acker-Gelbstern",
+          "beschriftung": "Acker-Goldstern",
+          "haupt": true,
+          "artikel": "Acker-Gelbstern",
+          "wikidata": "Q159641"
+        },
+        {
+          "titel": "Ackerrandstreifen",
+          "beschriftung": "Ackerwildkräuter",
+          "haupt": false,
+          "artikel": "Ackerrandstreifen",
+          "wikidata": "Q341842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "631",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1980: Gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Sommer-Adonisröschen Adonis aestivalis",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 10499000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sommer-Adonisröschen",
+          "beschriftung": "Sommer-Adonisröschen",
+          "haupt": true,
+          "artikel": "Sommer-Adonisröschen",
+          "wikidata": "Q148926"
+        },
+        {
+          "titel": "Ackerrandstreifen",
+          "beschriftung": "Ackerwildkräuter",
+          "haupt": false,
+          "artikel": "Ackerrandstreifen",
+          "wikidata": "Q341842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "632",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-10-09",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1980: Gefährdete Ackerwildkräuter",
+      "bild_beschreibung": "Kleiner Frauenspiegel Legousia hybrida",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5124000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kleiner Frauenspiegel",
+          "beschriftung": "Kleiner Frauenspiegel",
+          "haupt": true,
+          "artikel": "Kleiner Frauenspiegel",
+          "wikidata": "Q1432700"
+        },
+        {
+          "titel": "Ackerrandstreifen",
+          "beschriftung": "Ackerwildkräuter",
+          "haupt": false,
+          "artikel": "Ackerrandstreifen",
+          "wikidata": "Q341842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "633",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1980",
+      "bild_beschreibung": "Verkündigung der Hirten, Handschrift aus Altomünster",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 6238000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 633.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Weihnachtsgeschichte",
+          "beschriftung": "Verkündigung der Hirten",
+          "haupt": false,
+          "artikel": "Weihnachtsgeschichte",
+          "wikidata": "Q51628"
+        },
+        {
+          "titel": "Abtei Weingarten",
+          "beschriftung": "Altomünster",
+          "haupt": false,
+          "artikel": "Abtei Weingarten",
+          "wikidata": "Q334353"
+        }
+      ]
+    },
+    {
+      "mi_nr": "634",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (III)",
+      "bild_beschreibung": "Lilienthal-Gedenkstätte, Berlin-Lichterfelde",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 10110000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Lilienthal-Gedenkstätte",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Berlin-Lichterfelde",
+          "beschriftung": "Berlin-Lichterfelde",
+          "haupt": false,
+          "artikel": "Berlin-Lichterfelde",
+          "wikidata": "Q155211"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "635",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (III)",
+      "bild_beschreibung": "Große Neugierde, Schlosspark Klein Glienicke",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 10110000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 635.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl von Preußen",
+          "beschriftung": "Große Neugierde",
+          "haupt": true,
+          "artikel": "Carl von Preußen",
+          "wikidata": "Q442587"
+        },
+        {
+          "titel": "Klein Glienicke",
+          "beschriftung": "Klein Glienicke",
+          "haupt": false,
+          "artikel": "Klein Glienicke",
+          "wikidata": "Q950773"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "636",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1980-11-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (III)",
+      "bild_beschreibung": "Grunewaldturm",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 8110000,
+      "commons_datei": "Stamps of Germany (Berlin) 1980, MiNr 636.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grunewaldturm",
+          "beschriftung": "Grunewaldturm",
+          "haupt": true,
+          "artikel": "Grunewaldturm",
+          "wikidata": "Q833787"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "614",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1980-02-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Renaissance-Schloß Wolfsburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wolfsburg (Schloss)",
+          "beschriftung": "Renaissance-Schloß Wolfsburg",
+          "haupt": true,
+          "artikel": "Wolfsburg (Schloss)",
+          "wikidata": "Q882569"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "615",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1980-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Inzlinger Wasserschloss",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Inzlinger Wasserschloss",
+          "beschriftung": "Inzlinger Wasserschloss",
+          "haupt": true,
+          "artikel": "Inzlinger Wasserschloss",
+          "wikidata": "Q1671861"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}

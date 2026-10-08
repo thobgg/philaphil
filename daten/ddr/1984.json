@@ -1,0 +1,2642 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1984,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1984 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1984_der_Deutschen_Post_der_DDR",
+    "revision": 264963752,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2848,
+    "mi_nr_bis": 2919,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 73,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2848",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Jenaer Glas",
+      "bild_beschreibung": "Otto Schott; oxydische Formel des Borosilikatglases",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jenaer Glas",
+          "beschriftung": "Jenaer Glas",
+          "haupt": true,
+          "artikel": "Jenaer Glas",
+          "wikidata": "Q1686806"
+        },
+        {
+          "titel": "Otto Schott",
+          "beschriftung": "Otto Schott",
+          "haupt": false,
+          "artikel": "Otto Schott",
+          "wikidata": "Q72357"
+        },
+        {
+          "titel": "Borosilikatglas",
+          "beschriftung": "Borosilikatglas",
+          "haupt": false,
+          "artikel": "Borosilikatglas",
+          "wikidata": "Q1422588"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2849",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XII)",
+      "bild_beschreibung": "Friedrich Ebert (1894–1979), Oberbürgermeister von Ost-Berlin",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Ebert junior",
+          "beschriftung": "Friedrich Ebert",
+          "haupt": true,
+          "artikel": "Friedrich Ebert junior",
+          "wikidata": "Q61659"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2850",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XII)",
+      "bild_beschreibung": "Fritz Große (1904–1957)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Große",
+          "beschriftung": "Fritz Große",
+          "haupt": true,
+          "artikel": "Fritz Große",
+          "wikidata": "Q110270"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2851",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XII)",
+      "bild_beschreibung": "Albert Norden (1904–1982)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albert Norden",
+          "beschriftung": "Albert Norden",
+          "haupt": true,
+          "artikel": "Albert Norden",
+          "wikidata": "Q86914"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2852",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-24",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag von Felix Mendelssohn Bartholdy",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; 175. Geburtstag von Felix Mendelssohn Bartholdy, Komponist",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Felix Mendelssohn Bartholdy",
+          "beschriftung": "Felix Mendelssohn Bartholdy",
+          "haupt": true,
+          "artikel": "Felix Mendelssohn Bartholdy",
+          "wikidata": "Q46096"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2853",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Postmeilensäulen",
+      "bild_beschreibung": "Viertelmeilenstein, Mühlau (1725); Halbmeilensäule Oederan (1722)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Galerie der kursächsischen Postmeilensäulen",
+          "beschriftung": "Mühlau",
+          "haupt": true,
+          "artikel": "Liste der kursächsischen Postmeilensäulen",
+          "wikidata": "Q1491903"
+        },
+        {
+          "titel": "Meilenstein",
+          "beschriftung": "Postmeilensäulen",
+          "haupt": false,
+          "artikel": "Meilenstein",
+          "wikidata": "Q10145"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2854",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Postmeilensäulen",
+      "bild_beschreibung": "Grenzmeilensäule Johanngeorgenstadt (1723) und Schönbrunn (1724)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Galerie der kursächsischen Postmeilensäulen",
+          "beschriftung": "Johanngeorgenstadt",
+          "haupt": true,
+          "artikel": "Liste der kursächsischen Postmeilensäulen",
+          "wikidata": "Q1491903"
+        },
+        {
+          "titel": "Meilenstein",
+          "beschriftung": "Postmeilensäulen",
+          "haupt": false,
+          "artikel": "Meilenstein",
+          "wikidata": "Q10145"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2855",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Postmeilensäulen",
+      "bild_beschreibung": "Distanzsäule Freiberg (1723)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Galerie der kursächsischen Postmeilensäulen",
+          "beschriftung": "Freiberg",
+          "haupt": true,
+          "artikel": "Liste der kursächsischen Postmeilensäulen",
+          "wikidata": "Q1491903"
+        },
+        {
+          "titel": "Meilenstein",
+          "beschriftung": "Postmeilensäulen",
+          "haupt": false,
+          "artikel": "Meilenstein",
+          "wikidata": "Q10145"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2856",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-07",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Postmeilensäulen",
+      "bild_beschreibung": "Distanzsäule Pegau (1723)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Galerie der kursächsischen Postmeilensäulen",
+          "beschriftung": "Pegau",
+          "haupt": true,
+          "artikel": "Liste der kursächsischen Postmeilensäulen",
+          "wikidata": "Q1491903"
+        },
+        {
+          "titel": "Meilenstein",
+          "beschriftung": "Postmeilensäulen",
+          "haupt": false,
+          "artikel": "Meilenstein",
+          "wikidata": "Q10145"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2857",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (II)",
+      "bild_beschreibung": "Gera",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gera",
+          "beschriftung": "Gera",
+          "haupt": true,
+          "artikel": "Gera",
+          "wikidata": "Q3750"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2858",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (II)",
+      "bild_beschreibung": "Halle",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": true,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2859",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (II)",
+      "bild_beschreibung": "Chemnitz",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": true,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2860",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (II)",
+      "bild_beschreibung": "Leipzig",
+      "entwerfer": "Harald Stier",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stadtwappen (II)",
+      "bild_beschreibung": "Magdeburg",
+      "entwerfer": "Harald Stier",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magdeburg",
+          "beschriftung": "Magdeburg",
+          "haupt": true,
+          "artikel": "Magdeburg",
+          "wikidata": "Q1733"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-03-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Altes Rathaus, Leipzig",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2863",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-03-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Automatische Fertigungslinie für Karosserieblechteile",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karosserie",
+          "beschriftung": "Karosserie",
+          "haupt": true,
+          "artikel": "Karosserie",
+          "wikidata": "Q1588072"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-03-20",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (IV)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2867 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Cranzahl–Kurort Oberwiesenthal (Spurweite 750 mm); Lokomotive 99 1775",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schmalspurbahn Cranzahl–Kurort Oberwiesenthal",
+          "beschriftung": "Cranzahl–Kurort Oberwiesenthal",
+          "haupt": true,
+          "artikel": "Schmalspurbahn Cranzahl–Kurort Oberwiesenthal",
+          "wikidata": "Q895745"
+        },
+        {
+          "titel": "DR-Baureihe 99.77–79",
+          "beschriftung": "99 1775",
+          "haupt": false,
+          "artikel": "DR-Baureihe 99.77–79",
+          "wikidata": "Q1155205"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-03-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (IV)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2866 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Selketalbahn (Spurweite 1000 mm); Lokomotive 99 6001",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Selketalbahn",
+          "beschriftung": "Selketalbahn",
+          "haupt": true,
+          "artikel": "Schmalspurbahn Gernrode–Hasselfelde",
+          "wikidata": "Q896732"
+        },
+        {
+          "titel": "NWE Nr. 21",
+          "beschriftung": "99 6001",
+          "haupt": false,
+          "artikel": "NWE Nr. 21",
+          "wikidata": "Q1961687"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-03-20",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (IV)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2865 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Selketalbahn (Spurweite 1000 mm); Personenwagen mit Gepäckabteil",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Personenwagen",
+          "beschriftung": "Personenwagen",
+          "haupt": true,
+          "artikel": "Reisezugwagen",
+          "wikidata": "Q753779"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-03-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (IV)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2864 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Cranzahl–Kurort Oberwiesenthal (Spurweite 750 mm); Personenwagen KB4",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": true,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-10",
+      "wert": "3 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Flugpostmarken (III)",
+      "bild_beschreibung": "Stilisiertes Flugzeug mit Brief",
+      "entwerfer": "Detlef Glinski",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Stilisierung",
+          "beschriftung": "Stilisiertes",
+          "haupt": false,
+          "artikel": "Stilisierung",
+          "wikidata": "Q1752818"
+        },
+        {
+          "titel": "Flugzeug",
+          "beschriftung": "Flugzeug",
+          "haupt": false,
+          "artikel": "Flugzeug",
+          "wikidata": "Q197"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Generalversammlung der Internationalen Gesellschaft für Denkmalpflege (ICOMOS), Rostock und Dresden",
+      "bild_beschreibung": "Rathaus, Rostock",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rostocker Rathaus",
+          "beschriftung": "Rathaus",
+          "haupt": true,
+          "artikel": "Rathaus Rostock",
+          "wikidata": "Q875084"
+        },
+        {
+          "titel": "International Council on Monuments and Sites",
+          "beschriftung": "Internationalen Gesellschaft für Denkmalpflege",
+          "haupt": false,
+          "artikel": "International Council on Monuments and Sites",
+          "wikidata": "Q273138"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-24",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Generalversammlung der Internationalen Gesellschaft für Denkmalpflege (ICOMOS), Rostock und Dresden",
+      "bild_beschreibung": "Albrechtsburg, Meißen",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrechtsburg",
+          "beschriftung": "Albrechtsburg",
+          "haupt": true,
+          "artikel": "Albrechtsburg",
+          "wikidata": "Q679009"
+        },
+        {
+          "titel": "Meißen",
+          "beschriftung": "Meißen",
+          "haupt": false,
+          "artikel": "Meißen",
+          "wikidata": "Q8738"
+        },
+        {
+          "titel": "International Council on Monuments and Sites",
+          "beschriftung": "Internationalen Gesellschaft für Denkmalpflege",
+          "haupt": false,
+          "artikel": "International Council on Monuments and Sites",
+          "wikidata": "Q273138"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2871",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-24",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Generalversammlung der Internationalen Gesellschaft für Denkmalpflege (ICOMOS), Rostock und Dresden",
+      "bild_beschreibung": "Steintor, Rostock",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steintor (Rostock)",
+          "beschriftung": "Steintor",
+          "haupt": true,
+          "artikel": "Steintor (Rostock)",
+          "wikidata": "Q2341716"
+        },
+        {
+          "titel": "International Council on Monuments and Sites",
+          "beschriftung": "Internationalen Gesellschaft für Denkmalpflege",
+          "haupt": false,
+          "artikel": "International Council on Monuments and Sites",
+          "wikidata": "Q273138"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-24",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Generalversammlung der Internationalen Gesellschaft für Denkmalpflege (ICOMOS), Rostock und Dresden",
+      "bild_beschreibung": "Stallhof, Dresden",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stallhof (Dresden)",
+          "beschriftung": "Stallhof",
+          "haupt": true,
+          "artikel": "Stallhof (Dresden)",
+          "wikidata": "Q1657854"
+        },
+        {
+          "titel": "International Council on Monuments and Sites",
+          "beschriftung": "Internationalen Gesellschaft für Denkmalpflege",
+          "haupt": false,
+          "artikel": "International Council on Monuments and Sites",
+          "wikidata": "Q273138"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Tagung der Ständigen Kommission des Rates für gegenseitigen Wirtschaftshilfe (RGW) für die Zusammenarbeit auf dem Gebiet des Post-Fernmeldewesens, Krakau",
+      "bild_beschreibung": "RGW-Gebäude, Moskau; Posthorn, Telefon, Brief",
+      "entwerfer": "Peter Korn",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rat für gegenseitige Wirtschaftshilfe",
+          "beschriftung": "Rates für gegenseitigen Wirtschaftshilfe",
+          "haupt": true,
+          "artikel": "Rat für gegenseitige Wirtschaftshilfe",
+          "wikidata": "Q191582"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        },
+        {
+          "titel": "Telekommunikation",
+          "beschriftung": "Fernmeldewesens",
+          "haupt": false,
+          "artikel": "Telekommunikation",
+          "wikidata": "Q418"
+        },
+        {
+          "titel": "Krakau",
+          "beschriftung": "Krakau",
+          "haupt": false,
+          "artikel": "Krakau",
+          "wikidata": "Q31487"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        },
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": false,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Telefon",
+          "beschriftung": "Telefon",
+          "haupt": false,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2874",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstguss aus Lauchhammer",
+      "bild_beschreibung": "Durchbrochene Schale (Mitte 19. Jh.)",
+      "entwerfer": "Peter Korn",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunst- und Glockengießerei Lauchhammer",
+          "beschriftung": "Kunstguss aus Lauchhammer",
+          "haupt": true,
+          "artikel": "Kunst- und Glockengießerei Lauchhammer",
+          "wikidata": "Q14548525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2875",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-22",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstguss aus Lauchhammer",
+      "bild_beschreibung": "„Aufsteigender“, Plastik von Fritz Cremer",
+      "entwerfer": "Peter Korn",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Cremer",
+          "beschriftung": "Fritz Cremer",
+          "haupt": true,
+          "artikel": "Fritz Cremer",
+          "wikidata": "Q529593"
+        },
+        {
+          "titel": "Kunst- und Glockengießerei Lauchhammer",
+          "beschriftung": "Kunstguss aus Lauchhammer",
+          "haupt": false,
+          "artikel": "Kunst- und Glockengießerei Lauchhammer",
+          "wikidata": "Q14548525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Theaterpuppen",
+      "bild_beschreibung": "Marionette&shy;n&shy;kasper",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1984, MiNr 2876.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": true,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        },
+        {
+          "titel": "kasper",
+          "beschriftung": "kasper",
+          "haupt": false,
+          "artikel": "Kasper",
+          "wikidata": "Q954170"
+        },
+        {
+          "titel": "Theaterpuppen",
+          "beschriftung": "Theaterpuppen",
+          "haupt": false,
+          "artikel": "Theaterpuppen",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "2877",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Theaterpuppen",
+      "bild_beschreibung": "Handpuppe&shy;nkasper",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1984, MiNr 2877.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Handpuppe",
+          "beschriftung": "Handpuppe",
+          "haupt": true,
+          "artikel": "Handpuppe",
+          "wikidata": "Q14875"
+        },
+        {
+          "titel": "Theaterpuppen",
+          "beschriftung": "Theaterpuppen",
+          "haupt": false,
+          "artikel": "Theaterpuppen",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "2878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationales Jugendfestival, Berlin",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Demonstrationszug",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstration",
+          "haupt": true,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "Nationales Jugendfestival",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationales Jugendfestival, Berlin",
+      "bild_beschreibung": "Jugendliche Bauarbeiter",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauberuf",
+          "beschriftung": "Bauarbeiter",
+          "haupt": true,
+          "artikel": "Bauberuf",
+          "wikidata": "Q811122"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "Nationales Jugendfestival",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2880",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Arbeiterfestspiele der DDR, Bezirk Gera",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Historische und moderne Gebäude im Bezirk Gera",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arbeiterfestspiele der DDR",
+          "beschriftung": "Arbeiterfestspiele der DDR",
+          "haupt": true,
+          "artikel": "Arbeiterfestspiele der DDR",
+          "wikidata": "Q627139"
+        },
+        {
+          "titel": "Bezirk Gera",
+          "beschriftung": "Bezirk Gera",
+          "haupt": false,
+          "artikel": "Bezirk Gera",
+          "wikidata": "Q48060"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2881",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Arbeiterfestspiele der DDR, Bezirk Gera",
+      "bild_beschreibung": "Trachtenpaar, Industriebauten",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Trachtenpaar",
+          "haupt": true,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        },
+        {
+          "titel": "Industrie",
+          "beschriftung": "Industrie",
+          "haupt": false,
+          "artikel": "Industrie",
+          "wikidata": "Q8148"
+        },
+        {
+          "titel": "Arbeiterfestspiele der DDR",
+          "beschriftung": "Arbeiterfestspiele der DDR",
+          "haupt": false,
+          "artikel": "Arbeiterfestspiele der DDR",
+          "wikidata": "Q627139"
+        },
+        {
+          "titel": "Bezirk Gera",
+          "beschriftung": "Bezirk Gera",
+          "haupt": false,
+          "artikel": "Bezirk Gera",
+          "wikidata": "Q48060"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2882",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-07-03",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Briefmarkenausstellung, Halle",
+      "bild_beschreibung": "Salzträger",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halloren",
+          "beschriftung": "Salzträger",
+          "haupt": true,
+          "artikel": "Halloren",
+          "wikidata": "Q1409250"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2883",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-07-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Briefmarkenausstellung, Halle",
+      "bild_beschreibung": "Hallore mit seiner Braut",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halloren",
+          "beschriftung": "Hallore",
+          "haupt": true,
+          "artikel": "Halloren",
+          "wikidata": "Q1409250"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2884",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-07",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Siegel (I)",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Siegel der Bäcker von Berlin (1442)",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bäcker",
+          "beschriftung": "Bäcker",
+          "haupt": true,
+          "artikel": "Bäcker",
+          "wikidata": "Q160131"
+        },
+        {
+          "titel": "Historische Siegel",
+          "beschriftung": "Historische Siegel",
+          "haupt": false,
+          "artikel": "Historische Siegel",
+          "wikidata": "Q1620902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2885",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Siegel (I)",
+      "bild_beschreibung": "Siegel der Wollweber von Berlin (1442)",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weber",
+          "beschriftung": "Wollweber",
+          "haupt": true,
+          "artikel": "Weber",
+          "wikidata": "Q437512"
+        },
+        {
+          "titel": "Historische Siegel",
+          "beschriftung": "Historische Siegel",
+          "haupt": false,
+          "artikel": "Historische Siegel",
+          "wikidata": "Q1620902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2886",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Siegel (I)",
+      "bild_beschreibung": "Siegel der Wollweber von Cölln an der Spree (1442)",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alt-Kölln",
+          "beschriftung": "Cölln",
+          "haupt": true,
+          "artikel": "Alt-Kölln",
+          "wikidata": "Q269622"
+        },
+        {
+          "titel": "Spree",
+          "beschriftung": "Spree",
+          "haupt": false,
+          "artikel": "Spree",
+          "wikidata": "Q1684"
+        },
+        {
+          "titel": "Historische Siegel",
+          "beschriftung": "Historische Siegel",
+          "haupt": false,
+          "artikel": "Historische Siegel",
+          "wikidata": "Q1620902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2887",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Siegel (I)",
+      "bild_beschreibung": "Siegel der Schuster von Cölln an der Spree (1442)",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schuhmacher",
+          "beschriftung": "Schuster",
+          "haupt": true,
+          "artikel": "Schuhmacher",
+          "wikidata": "Q152355"
+        },
+        {
+          "titel": "Historische Siegel",
+          "beschriftung": "Historische Siegel",
+          "haupt": false,
+          "artikel": "Historische Siegel",
+          "wikidata": "Q1620902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2888",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (I)",
+      "bild_beschreibung": "Neues und renovierte Wohngebäude",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wohngebäude",
+          "beschriftung": "Wohngebäude",
+          "haupt": true,
+          "artikel": "Wohngebäude",
+          "wikidata": "Q11755880"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2889",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (I)",
+      "bild_beschreibung": "Braunkohlenförderbrücke, Integrierter Schaltkreis",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "förderbrücke",
+          "beschriftung": "förderbrücke",
+          "haupt": true,
+          "artikel": "Förderbrücke",
+          "wikidata": "Q1430763"
+        },
+        {
+          "titel": "Integrierter Schaltkreis",
+          "beschriftung": "Integrierter Schaltkreis",
+          "haupt": false,
+          "artikel": "Integrierter Schaltkreis",
+          "wikidata": "Q80831"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2890",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (I)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Staatsratsgebäude, Berlin",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Staatsratsgebäude",
+          "beschriftung": "Staatsratsgebäude",
+          "haupt": false,
+          "artikel": "Staatsratsgebäude",
+          "wikidata": "Q318235"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2891",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Fregehaus, Katharinenstrasse, Leipzig",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fregehaus",
+          "beschriftung": "Fregehaus",
+          "haupt": true,
+          "artikel": "Fregehaus",
+          "wikidata": "Q1453739"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2892",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Bleikristalldose, Olbernhau",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bleikristall",
+          "beschriftung": "Bleikristall",
+          "haupt": true,
+          "artikel": "Bleikristall",
+          "wikidata": "Q359572"
+        },
+        {
+          "titel": "Olbernhau",
+          "beschriftung": "Olbernhau",
+          "haupt": false,
+          "artikel": "Olbernhau",
+          "wikidata": "Q57933"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2893",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-09-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (II)",
+      "bild_beschreibung": "Eisenhüttenkombinat Ost",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "ArcelorMittal Eisenhüttenstadt",
+          "beschriftung": "Eisenhüttenkombinat Ost",
+          "haupt": true,
+          "artikel": "ArcelorMittal Eisenhüttenstadt",
+          "wikidata": "Q631845"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2894",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-09-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (II)",
+      "bild_beschreibung": "Waffenbrüderschaft",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Militärbündnis",
+          "beschriftung": "Waffenbrüderschaft",
+          "haupt": true,
+          "artikel": "Militärbündnis",
+          "wikidata": "Q1127126"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2895",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-09-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (II)",
+      "bild_beschreibung": "Petrolchemisches Kombinat Schwedt",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 5100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "PCK Raffinerie",
+          "beschriftung": "Petrolchemisches Kombinat Schwedt",
+          "haupt": true,
+          "artikel": "PCK Raffinerie",
+          "wikidata": "Q14524622"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2896",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-09-11",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (II)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Wohnungsneubauten, Familie",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Plattenbau",
+          "beschriftung": "Wohnungsneubauten",
+          "haupt": false,
+          "artikel": "Plattenbau",
+          "wikidata": "Q1095072"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2897",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-09-18",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Widerstandskämpfer in der Mahn- und Gedenkstätte im Georg-Schumann-Bau der TU Dresden; Gedenkstätte Münchner Platz Dresden",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Georg Schumann (Politiker)",
+          "beschriftung": "Georg-Schumann-Bau",
+          "haupt": false,
+          "artikel": "Georg Schumann (Politiker)",
+          "wikidata": "Q112787"
+        },
+        {
+          "titel": "Technische Universität Dresden",
+          "beschriftung": "TU Dresden",
+          "haupt": false,
+          "artikel": "Technische Universität Dresden",
+          "wikidata": "Q158158"
+        },
+        {
+          "titel": "Gedenkstätte Münchner Platz Dresden",
+          "beschriftung": "Gedenkstätte Münchner Platz Dresden",
+          "haupt": false,
+          "artikel": "Gedenkstätte Münchner Platz Dresden",
+          "wikidata": "Q1497544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2898",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (III)",
+      "bild_beschreibung": "Bauwesen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauwesen",
+          "beschriftung": "Bauwesen",
+          "haupt": true,
+          "artikel": "Bauwesen",
+          "wikidata": "Q150737"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2899",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (III)",
+      "bild_beschreibung": "Landesverteidigung",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Landesverteidigung",
+          "haupt": true,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2900",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (III)",
+      "bild_beschreibung": "Industrie",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Industrie",
+          "beschriftung": "Industrie",
+          "haupt": true,
+          "artikel": "Industrie",
+          "wikidata": "Q8148"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2901",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (III)",
+      "bild_beschreibung": "Landwirtschaft",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirtschaft",
+          "beschriftung": "Landwirtschaft",
+          "haupt": true,
+          "artikel": "Landwirtschaft",
+          "wikidata": "Q11451"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2902",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre DDR (III)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Friedenstaube, Staatswappen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2903",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "8. Briefmarkenausstellung der Jugend, Magdeburg",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Magdeburg (um 1551)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Magdeburg",
+          "beschriftung": "Magdeburg",
+          "haupt": false,
+          "artikel": "Magdeburg",
+          "wikidata": "Q1733"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2904",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "8. Briefmarkenausstellung der Jugend, Magdeburg",
+      "bild_beschreibung": "Historische und neuzeitliche Gebäude in Magdeburg",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Magdeburg",
+          "beschriftung": "Magdeburg",
+          "haupt": false,
+          "artikel": "Magdeburg",
+          "wikidata": "Q1733"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2905 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grünes Gewölbe Dresden: Kunstwerke",
+      "bild_beschreibung": "Balthasar Permoser: Der Frühling",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Balthasar Permoser",
+          "beschriftung": "Balthasar Permoser",
+          "haupt": true,
+          "artikel": "Balthasar Permoser",
+          "wikidata": "Q494782"
+        },
+        {
+          "titel": "Grünes Gewölbe",
+          "beschriftung": "Grünes Gewölbe",
+          "haupt": false,
+          "artikel": "Grünes Gewölbe",
+          "wikidata": "Q707407"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Kunstwerk",
+          "beschriftung": "Kunstwerk",
+          "haupt": false,
+          "artikel": "Kunstwerk",
+          "wikidata": "Q838948"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2906 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grünes Gewölbe Dresden: Kunstwerke",
+      "bild_beschreibung": "Diese Marke wurde im Rastertiefdruck hergestellt:; Der Sommer",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Rastertiefdruck",
+          "haupt": true,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Grünes Gewölbe",
+          "beschriftung": "Grünes Gewölbe",
+          "haupt": false,
+          "artikel": "Grünes Gewölbe",
+          "wikidata": "Q707407"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Kunstwerk",
+          "beschriftung": "Kunstwerk",
+          "haupt": false,
+          "artikel": "Kunstwerk",
+          "wikidata": "Q838948"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2906 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grünes Gewölbe Dresden: Kunstwerke",
+      "bild_beschreibung": "Diese Marke wurde im Offsetdruck als Kleinbogen ausgegeben:; Der Sommer",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 16800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Offsetdruck",
+          "beschriftung": "Offsetdruck",
+          "haupt": true,
+          "artikel": "Offsetdruck",
+          "wikidata": "Q190408"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Grünes Gewölbe",
+          "beschriftung": "Grünes Gewölbe",
+          "haupt": false,
+          "artikel": "Grünes Gewölbe",
+          "wikidata": "Q707407"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Kunstwerk",
+          "beschriftung": "Kunstwerk",
+          "haupt": false,
+          "artikel": "Kunstwerk",
+          "wikidata": "Q838948"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2907 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-23",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grünes Gewölbe Dresden: Kunstwerke",
+      "bild_beschreibung": "Der Herbst",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grünes Gewölbe",
+          "beschriftung": "Grünes Gewölbe",
+          "haupt": true,
+          "artikel": "Grünes Gewölbe",
+          "wikidata": "Q707407"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Kunstwerk",
+          "beschriftung": "Kunstwerk",
+          "haupt": false,
+          "artikel": "Kunstwerk",
+          "wikidata": "Q838948"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2908 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-23",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grünes Gewölbe Dresden: Kunstwerke",
+      "bild_beschreibung": "Der Winter",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grünes Gewölbe",
+          "beschriftung": "Grünes Gewölbe",
+          "haupt": true,
+          "artikel": "Grünes Gewölbe",
+          "wikidata": "Q707407"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Kunstwerk",
+          "beschriftung": "Kunstwerk",
+          "haupt": false,
+          "artikel": "Kunstwerk",
+          "wikidata": "Q838948"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2909",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-23",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Solidarität",
+      "bild_beschreibung": "Weberknoten, Roter Stern",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität (Zuschlagmarke)",
+          "beschriftung": "Internationale Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität (Zuschlagmarke)",
+          "wikidata": "Q2298788"
+        },
+        {
+          "titel": "Kreuzknoten",
+          "beschriftung": "Weberknoten",
+          "haupt": false,
+          "artikel": "Kreuzknoten",
+          "wikidata": "Q378077"
+        },
+        {
+          "titel": "Roter Stern",
+          "beschriftung": "Roter Stern",
+          "haupt": false,
+          "artikel": "Roter Stern",
+          "wikidata": "Q208578"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2910",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (I)",
+      "bild_beschreibung": "Burg Falkenstein (Kreis Hettstedt) (12. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Falkenstein (Harz)",
+          "beschriftung": "Burg Falkenstein",
+          "haupt": true,
+          "artikel": "Burg Falkenstein (Harz)",
+          "wikidata": "Q317023"
+        },
+        {
+          "titel": "Kreis Hettstedt",
+          "beschriftung": "Kreis Hettstedt",
+          "haupt": false,
+          "artikel": "Kreis Hettstedt",
+          "wikidata": "Q1787338"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2911",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (I)",
+      "bild_beschreibung": "Burg Kriebstein (Kreis Hainichen) (12. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Kriebstein",
+          "beschriftung": "Burg Kriebstein",
+          "haupt": true,
+          "artikel": "Burg Kriebstein",
+          "wikidata": "Q1012744"
+        },
+        {
+          "titel": "Kreis Hainichen",
+          "beschriftung": "Kreis Hainichen",
+          "haupt": false,
+          "artikel": "Kreis Hainichen",
+          "wikidata": "Q1787335"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2912",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-06",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (I)",
+      "bild_beschreibung": "Burg Ranis (Kreis Pößneck) (11. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Ranis",
+          "beschriftung": "Burg Ranis",
+          "haupt": true,
+          "artikel": "Burg Ranis",
+          "wikidata": "Q1013581"
+        },
+        {
+          "titel": "Kreis Pößneck",
+          "beschriftung": "Kreis Pößneck",
+          "haupt": false,
+          "artikel": "Kreis Pößneck",
+          "wikidata": "Q1787466"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2913",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-06",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Burgen (I)",
+      "bild_beschreibung": "Neuenburg (Kreis Nebra) (11. Jh.)",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Neuenburg (Freyburg)",
+          "beschriftung": "Neuenburg",
+          "haupt": true,
+          "artikel": "Schloss Neuenburg (Freyburg)",
+          "wikidata": "Q895668"
+        },
+        {
+          "titel": "Kreis Nebra",
+          "beschriftung": "Kreis Nebra",
+          "haupt": false,
+          "artikel": "Kreis Nebra",
+          "wikidata": "Q1677145"
+        },
+        {
+          "titel": "Burgen (Briefmarkenserie)",
+          "beschriftung": "Burgen",
+          "haupt": false,
+          "artikel": "Burgen (Briefmarkenserie)",
+          "wikidata": "Q1014838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2914",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIV): Märchen von der toten Zarentochter und den 7 Recken",
+      "bild_beschreibung": "Märchen von Alexander Sergejewitsch Puschkin; Szene aus dem Märchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alexander Sergejewitsch Puschkin",
+          "beschriftung": "Alexander Sergejewitsch Puschkin",
+          "haupt": true,
+          "artikel": "Alexander Sergejewitsch Puschkin",
+          "wikidata": "Q7200"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Märchen von der toten Zarentochter und den 7 Recken",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2915",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIV): Märchen von der toten Zarentochter und den 7 Recken",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Märchen von der toten Zarentochter und den 7 Recken",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2916",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-27",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIV): Märchen von der toten Zarentochter und den 7 Recken",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Märchen von der toten Zarentochter und den 7 Recken",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2917",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIV): Märchen von der toten Zarentochter und den 7 Recken",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Märchen von der toten Zarentochter und den 7 Recken",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2918",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-27",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIV): Märchen von der toten Zarentochter und den 7 Recken",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Märchen von der toten Zarentochter und den 7 Recken",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2919",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-27",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIV): Märchen von der toten Zarentochter und den 7 Recken",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Märchen von der toten Zarentochter und den 7 Recken",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    }
+  ]
+}

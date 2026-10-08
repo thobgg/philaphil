@@ -136,7 +136,7 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
     val fokus = LocalFocusManager.current
     var auswahlOffen by remember { mutableStateOf(false) }
     if (auswahlOffen) {
-        Jahresauswahl(zustand.jahrgaenge, zustand.aktuellerJahrgang, onWahl = viewModel::jahrgangWaehlen, onClose = { auswahlOffen = false })
+        Jahresauswahl(zustand.gebiete, zustand.jahrgaenge, zustand.aktuellerJahrgang, onWahl = viewModel::jahrgangWaehlen, onClose = { auswahlOffen = false })
     }
     Column(Modifier.background(MaterialTheme.colorScheme.surface)) {
         TopAppBar(
@@ -144,7 +144,7 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
                 // Tipp auf den Jahrgang oeffnet die Auswahl aller Jahrgaenge
                 Column(Modifier.clickable { auswahlOffen = true }) {
                     Row(verticalAlignment = Alignment.CenterVertically) {
-                        Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
+                        Text(stringResource(Res.string.jahrgang_titel, if (breit) zustand.gebietAnzeige else zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
                         Icon(Icons.Default.ArrowDropDown, contentDescription = stringResource(Res.string.jahrgang_waehlen))
                     }
                     val zaehler = stringResource(Res.string.bestand_zaehler, zustand.imJahrgangVorhanden, zustand.jahrgang.size)

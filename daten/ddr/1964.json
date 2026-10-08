@@ -1,0 +1,2957 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1964,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1964 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1964_der_Deutschen_Post_der_DDR",
+    "revision": 260353164,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1004,
+    "mi_nr_bis": 1083,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 79,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1004",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-01-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmetterlinge",
+      "bild_beschreibung": "Admiral (Vanessa atalanta)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 27000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Admiral (Schmetterling)",
+          "beschriftung": "Admiral",
+          "haupt": true,
+          "artikel": "Admiral (Schmetterling)",
+          "wikidata": "Q156454"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1005",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-01-15",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmetterlinge",
+      "bild_beschreibung": "Hochalpen-Apollo (Parnassius phoebus)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpenapollo",
+          "beschriftung": "Hochalpen-Apollo",
+          "haupt": true,
+          "artikel": "Alpenapollo",
+          "wikidata": "Q370269"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1006",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-01-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmetterlinge",
+      "bild_beschreibung": "Schwalbenschwanz (Papilio machaon)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 27000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwalbenschwanz (Schmetterling)",
+          "beschriftung": "Schwalbenschwanz",
+          "haupt": true,
+          "artikel": "Schwalbenschwanz (Schmetterling)",
+          "wikidata": "Q179530"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1007",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-01-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmetterlinge",
+      "bild_beschreibung": "Postillon (Colias croceus)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postillon (Schmetterling)",
+          "beschriftung": "Postillon",
+          "haupt": true,
+          "artikel": "Postillon (Schmetterling)",
+          "wikidata": "Q520871"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1008",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-01-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmetterlinge",
+      "bild_beschreibung": "Großer Fuchs (Nymphalis polychloros)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großer Fuchs",
+          "beschriftung": "Großer Fuchs",
+          "haupt": true,
+          "artikel": "Großer Fuchs",
+          "wikidata": "Q163771"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1009",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Künstler",
+      "bild_beschreibung": "Quadriga auf dem Brandenburger Tor, Gottfried Schadow",
+      "entwerfer": "Eva Böhme",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1009.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Quadriga",
+          "beschriftung": "Quadriga",
+          "haupt": true,
+          "artikel": "Quadriga",
+          "wikidata": "Q155987"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Johann Gottfried Schadow",
+          "beschriftung": "Gottfried Schadow",
+          "haupt": false,
+          "artikel": "Johann Gottfried Schadow",
+          "wikidata": "Q51989"
+        },
+        {
+          "titel": "Künstler",
+          "beschriftung": "Künstler",
+          "haupt": false,
+          "artikel": "Künstler",
+          "wikidata": "Q483501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1010",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-02-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Künstler",
+      "bild_beschreibung": "Schlussstein am Zeughaus Berlin, Andreas Schlüter",
+      "entwerfer": "Eva Böhme",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1010.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlussstein",
+          "beschriftung": "Schlussstein",
+          "haupt": true,
+          "artikel": "Schlussstein",
+          "wikidata": "Q220919"
+        },
+        {
+          "titel": "Zeughaus Berlin",
+          "beschriftung": "Zeughaus Berlin",
+          "haupt": false,
+          "artikel": "Zeughaus (Berlin)",
+          "wikidata": "Q196970"
+        },
+        {
+          "titel": "Andreas Schlüter (Architekt)",
+          "beschriftung": "Andreas Schlüter",
+          "haupt": false,
+          "artikel": "Andreas Schlüter (Architekt)",
+          "wikidata": "Q500465"
+        },
+        {
+          "titel": "Künstler",
+          "beschriftung": "Künstler",
+          "haupt": false,
+          "artikel": "Künstler",
+          "wikidata": "Q483501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1011",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-02-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Künstler",
+      "bild_beschreibung": "William Shakespeare",
+      "entwerfer": "Eva Böhme",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1011.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "William Shakespeare",
+          "beschriftung": "William Shakespeare",
+          "haupt": true,
+          "artikel": "William Shakespeare",
+          "wikidata": "Q692"
+        },
+        {
+          "titel": "Künstler",
+          "beschriftung": "Künstler",
+          "haupt": false,
+          "artikel": "Künstler",
+          "wikidata": "Q483501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1012",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-02-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck im Viererblock mit zwei Zierfeldern ausgegeben:; Messehalle 18 (Elektrotechnik)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1012.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Messe Leipzig",
+          "beschriftung": "Messehalle 18",
+          "haupt": true,
+          "artikel": "Alte Messe Leipzig",
+          "wikidata": "Q435985"
+        },
+        {
+          "titel": "Elektrotechnik",
+          "beschriftung": "Elektrotechnik",
+          "haupt": false,
+          "artikel": "Elektrotechnik",
+          "wikidata": "Q43035"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1013",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-02-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Bräunigkes Hof, um 1700",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1013.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bräunigkes Hof",
+          "beschriftung": "Bräunigkes Hof",
+          "haupt": true,
+          "artikel": "Bräunigkes Hof",
+          "wikidata": null
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1014",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-03-24",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten und KZ-Opfer",
+      "bild_beschreibung": "Anton Saefkow",
+      "entwerfer": "Karl Sauer",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1014.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anton Saefkow",
+          "beschriftung": "Anton Saefkow",
+          "haupt": true,
+          "artikel": "Anton Saefkow",
+          "wikidata": "Q74356"
+        },
+        {
+          "titel": "Antifaschismus",
+          "beschriftung": "Antifaschisten",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1015",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-03-24",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten und KZ-Opfer",
+      "bild_beschreibung": "Franz Jacob",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1015.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Jacob",
+          "beschriftung": "Franz Jacob",
+          "haupt": true,
+          "artikel": "Franz Jacob",
+          "wikidata": "Q97587"
+        },
+        {
+          "titel": "Antifaschismus",
+          "beschriftung": "Antifaschisten",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1016",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-03-24",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten und KZ-Opfer",
+      "bild_beschreibung": "Bernhard Bästlein",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1016.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bernhard Bästlein",
+          "beschriftung": "Bernhard Bästlein",
+          "haupt": true,
+          "artikel": "Bernhard Bästlein",
+          "wikidata": "Q92232"
+        },
+        {
+          "titel": "Antifaschismus",
+          "beschriftung": "Antifaschisten",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1017",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-03-24",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten und KZ-Opfer",
+      "bild_beschreibung": "Harro Schulze-Boysen",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1017.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harro Schulze-Boysen",
+          "beschriftung": "Harro Schulze-Boysen",
+          "haupt": true,
+          "artikel": "Harro Schulze-Boysen",
+          "wikidata": "Q66784"
+        },
+        {
+          "titel": "Antifaschismus",
+          "beschriftung": "Antifaschisten",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1018",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-03-24",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten und KZ-Opfer",
+      "bild_beschreibung": "Adam Kuckhoff",
+      "entwerfer": "Karl Sauer",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1018.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adam Kuckhoff",
+          "beschriftung": "Adam Kuckhoff",
+          "haupt": true,
+          "artikel": "Adam Kuckhoff",
+          "wikidata": "Q87850"
+        },
+        {
+          "titel": "Antifaschismus",
+          "beschriftung": "Antifaschisten",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1019",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-03-24",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten und KZ-Opfer",
+      "bild_beschreibung": "Mildred und Arvid Harnack",
+      "entwerfer": "Karl Sauer",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1019.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mildred Harnack",
+          "beschriftung": "Mildred",
+          "haupt": true,
+          "artikel": "Mildred Harnack-Fish",
+          "wikidata": "Q72908"
+        },
+        {
+          "titel": "Arvid Harnack",
+          "beschriftung": "Arvid Harnack",
+          "haupt": false,
+          "artikel": "Arvid Harnack",
+          "wikidata": "Q68070"
+        },
+        {
+          "titel": "Antifaschismus",
+          "beschriftung": "Antifaschisten",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1020",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "70. Geburtstag von Nikita Chruschtschow",
+      "bild_beschreibung": "Nikita Chruschtschow, Arbeiter",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1020.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nikita Sergejewitsch Chruschtschow",
+          "beschriftung": "Nikita Chruschtschow",
+          "haupt": true,
+          "artikel": "Nikita Sergejewitsch Chruschtschow",
+          "wikidata": "Q35314"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1021",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "70. Geburtstag von Nikita Chruschtschow",
+      "bild_beschreibung": "Nikita Chruschtschow mit den Kosmonauten W. Tereschkowa und J. Gagarin vor Erdkugel und Mond",
+      "entwerfer": "Karl Sauer",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1021.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": true,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        },
+        {
+          "titel": "Walentina Wladimirowna Tereschkowa",
+          "beschriftung": "W.&nbsp;Tereschkowa",
+          "haupt": false,
+          "artikel": "Walentina Wladimirowna Tereschkowa",
+          "wikidata": "Q44371"
+        },
+        {
+          "titel": "Juri Alexejewitsch Gagarin",
+          "beschriftung": "J. Gagarin",
+          "haupt": false,
+          "artikel": "Juri Alexejewitsch Gagarin",
+          "wikidata": "Q7327"
+        },
+        {
+          "titel": "Nikita Sergejewitsch Chruschtschow",
+          "beschriftung": "Nikita Chruschtschow",
+          "haupt": false,
+          "artikel": "Nikita Sergejewitsch Chruschtschow",
+          "wikidata": "Q35314"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1022",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutschlandtreffen der Jugend, Berlin",
+      "bild_beschreibung": "Jugendliche vor Fahnen",
+      "entwerfer": "Ekkehard Walter",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutschlandtreffen der Jugend",
+          "beschriftung": "Deutschlandtreffen der Jugend",
+          "haupt": true,
+          "artikel": "Deutschlandtreffen der Jugend",
+          "wikidata": "Q1206375"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1023",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutschlandtreffen der Jugend, Berlin",
+      "bild_beschreibung": "Jugendliche Sportler",
+      "entwerfer": "Ekkehard Walter",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutschlandtreffen der Jugend",
+          "beschriftung": "Deutschlandtreffen der Jugend",
+          "haupt": true,
+          "artikel": "Deutschlandtreffen der Jugend",
+          "wikidata": "Q1206375"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1024",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-13",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutschlandtreffen der Jugend, Berlin",
+      "bild_beschreibung": "Musizierende Jugendliche vor dem Brandenburger Tor, Berlin",
+      "entwerfer": "Ekkehard Walter",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Deutschlandtreffen der Jugend",
+          "beschriftung": "Deutschlandtreffen der Jugend",
+          "haupt": false,
+          "artikel": "Deutschlandtreffen der Jugend",
+          "wikidata": "Q1206375"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1025",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag des Kindes: Figuren aus Kindersendungen des Deutschen Fernsehfunks",
+      "bild_beschreibung": "Flax und Krümel mit Struppi",
+      "entwerfer": "Werner Klemke",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flax und Krümel",
+          "beschriftung": "Flax und Krümel",
+          "haupt": true,
+          "artikel": "Flax und Krümel",
+          "wikidata": "Q1427576"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Tag des Kindes",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        },
+        {
+          "titel": "Kinder- und Jugendprogramm",
+          "beschriftung": "Kindersendungen",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendprogramm",
+          "wikidata": "Q1452460"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutschen Fernsehfunks",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1026",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag des Kindes: Figuren aus Kindersendungen des Deutschen Fernsehfunks",
+      "bild_beschreibung": "Meister Nadelöhr",
+      "entwerfer": "Werner Klemke",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eckart Friedrichson",
+          "beschriftung": "Meister Nadelöhr",
+          "haupt": true,
+          "artikel": "Eckart Friedrichson",
+          "wikidata": "Q1281318"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Tag des Kindes",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        },
+        {
+          "titel": "Kinder- und Jugendprogramm",
+          "beschriftung": "Kindersendungen",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendprogramm",
+          "wikidata": "Q1452460"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutschen Fernsehfunks",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1027",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag des Kindes: Figuren aus Kindersendungen des Deutschen Fernsehfunks",
+      "bild_beschreibung": "Pittiplatsch",
+      "entwerfer": "Werner Klemke",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pittiplatsch und Schnatterinchen",
+          "beschriftung": "Pittiplatsch",
+          "haupt": true,
+          "artikel": "Pittiplatsch und Schnatterinchen",
+          "wikidata": "Q2097307"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Tag des Kindes",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        },
+        {
+          "titel": "Kinder- und Jugendprogramm",
+          "beschriftung": "Kindersendungen",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendprogramm",
+          "wikidata": "Q1452460"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutschen Fernsehfunks",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1028",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag des Kindes: Figuren aus Kindersendungen des Deutschen Fernsehfunks",
+      "bild_beschreibung": "Sandmännchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unser Sandmännchen",
+          "beschriftung": "Sandmännchen",
+          "haupt": true,
+          "artikel": "Unser Sandmännchen",
+          "wikidata": "Q615195"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Tag des Kindes",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        },
+        {
+          "titel": "Kinder- und Jugendprogramm",
+          "beschriftung": "Kindersendungen",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendprogramm",
+          "wikidata": "Q1452460"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutschen Fernsehfunks",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1029",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag des Kindes: Figuren aus Kindersendungen des Deutschen Fernsehfunks",
+      "bild_beschreibung": "Bummi und Schnatterinchen",
+      "entwerfer": "Werner Klemke",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pittiplatsch und Schnatterinchen",
+          "beschriftung": "Bummi",
+          "haupt": true,
+          "artikel": "Pittiplatsch und Schnatterinchen",
+          "wikidata": "Q2097307"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Tag des Kindes",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        },
+        {
+          "titel": "Kinder- und Jugendprogramm",
+          "beschriftung": "Kindersendungen",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendprogramm",
+          "wikidata": "Q1452460"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutschen Fernsehfunks",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1030",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Frauenkongress der DDR",
+      "bild_beschreibung": "Frau mit Kind, Bild von Jenny Marx",
+      "entwerfer": "Eva Böhme",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1030.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jenny Marx",
+          "beschriftung": "Jenny Marx",
+          "haupt": true,
+          "artikel": "Jenny Marx",
+          "wikidata": "Q238302"
+        },
+        {
+          "titel": "Demokratischer Frauenbund Deutschlands",
+          "beschriftung": "Frauenkongress der DDR",
+          "haupt": false,
+          "artikel": "Demokratischer Frauenbund Deutschlands",
+          "wikidata": "Q558343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1031",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Frauenkongress der DDR",
+      "bild_beschreibung": "Technikerinnen, Transistorschaltung",
+      "entwerfer": "Eva Böhme",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1031.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Techniker",
+          "beschriftung": "Techniker",
+          "haupt": true,
+          "artikel": "Techniker",
+          "wikidata": "Q5352191"
+        },
+        {
+          "titel": "Transistor",
+          "beschriftung": "Transistor",
+          "haupt": false,
+          "artikel": "Transistor",
+          "wikidata": "Q5339"
+        },
+        {
+          "titel": "Demokratischer Frauenbund Deutschlands",
+          "beschriftung": "Frauenkongress der DDR",
+          "haupt": false,
+          "artikel": "Demokratischer Frauenbund Deutschlands",
+          "wikidata": "Q558343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1032",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-06-25",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Frauenkongress der DDR",
+      "bild_beschreibung": "Viehzüchterinnen, Schweine vor Schweinemastanlage",
+      "entwerfer": "Eva Böhme",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1032.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zucht",
+          "beschriftung": "Viehzüchterinnen",
+          "haupt": true,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        },
+        {
+          "titel": "Hausschwein",
+          "beschriftung": "Schweine",
+          "haupt": false,
+          "artikel": "Hausschwein",
+          "wikidata": "Q787"
+        },
+        {
+          "titel": "Tiermast",
+          "beschriftung": "Schweinemastanlage",
+          "haupt": false,
+          "artikel": "Tiermast",
+          "wikidata": "Q1529731"
+        },
+        {
+          "titel": "Demokratischer Frauenbund Deutschlands",
+          "beschriftung": "Frauenkongress der DDR",
+          "haupt": false,
+          "artikel": "Demokratischer Frauenbund Deutschlands",
+          "wikidata": "Q558343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1033",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (I)",
+      "bild_beschreibung": "Radrennen",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Straßenradsport",
+          "beschriftung": "Radrennen",
+          "haupt": true,
+          "artikel": "Straßenradsport",
+          "wikidata": "Q3609"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1034",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (I)",
+      "bild_beschreibung": "Volleyball",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": true,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1035",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (I)",
+      "bild_beschreibung": "Judo",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Judo",
+          "beschriftung": "Judo",
+          "haupt": true,
+          "artikel": "Judo",
+          "wikidata": "Q11420"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1036",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (I)",
+      "bild_beschreibung": "Wasserspringen",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserspringen",
+          "beschriftung": "Wasserspringen",
+          "haupt": true,
+          "artikel": "Wasserspringen",
+          "wikidata": "Q7735"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1037",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (I)",
+      "bild_beschreibung": "Langstreckenlauf",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Langstreckenlauf",
+          "beschriftung": "Langstreckenlauf",
+          "haupt": true,
+          "artikel": "Langstreckenlauf",
+          "wikidata": "Q917206"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1038",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (I)",
+      "bild_beschreibung": "Springreiten",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": true,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1039",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (II)",
+      "bild_beschreibung": "Die folgenden sechs Marken wurden als Zusammendruck in Sechserblockanordnung ausgegeben:; Kunstspringen",
+      "entwerfer": "Axel Bengs und Rudolf Skribelka",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserspringen",
+          "beschriftung": "Kunstspringen",
+          "haupt": true,
+          "artikel": "Wasserspringen",
+          "wikidata": "Q7735"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1040",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (II)",
+      "bild_beschreibung": "Springreiten",
+      "entwerfer": "Axel Bengs und Rudolf Skribelka",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": true,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1041",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (II)",
+      "bild_beschreibung": "Volleyball",
+      "entwerfer": "Axel Bengs und Rudolf Skribelka",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": true,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1042",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (II)",
+      "bild_beschreibung": "Radrennen",
+      "entwerfer": "Axel Bengs und Rudolf Skribelka",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radsport",
+          "beschriftung": "Radrennen",
+          "haupt": true,
+          "artikel": "Radsport",
+          "wikidata": "Q2215841"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1043",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (II)",
+      "bild_beschreibung": "Langstreckenlauf",
+      "entwerfer": "Axel Bengs und Rudolf Skribelka",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Langstreckenlauf",
+          "beschriftung": "Langstreckenlauf",
+          "haupt": true,
+          "artikel": "Langstreckenlauf",
+          "wikidata": "Q917206"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1044",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele Tokio (II)",
+      "bild_beschreibung": "Judo",
+      "entwerfer": "Axel Bengs und Rudolf Skribelka",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Judo",
+          "beschriftung": "Judo",
+          "haupt": true,
+          "artikel": "Judo",
+          "wikidata": "Q11420"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1045",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-29",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Pioniertreffen, Karl-Marx-Stadt",
+      "bild_beschreibung": "Junge Pioniere beim Lernen",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Karl-Marx-Stadt",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1046",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-29",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Pioniertreffen, Karl-Marx-Stadt",
+      "bild_beschreibung": "Junge Pioniere pflanzen einen Baum",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Karl-Marx-Stadt",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1047",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-29",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Pioniertreffen, Karl-Marx-Stadt",
+      "bild_beschreibung": "Junge Pioniere beim Ballspiel",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Karl-Marx-Stadt",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1048",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-08-12",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Denkmal in Leningrad (Sankt Petersburg)",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Sankt Petersburg",
+          "beschriftung": "Sankt Petersburg",
+          "haupt": false,
+          "artikel": "Sankt Petersburg",
+          "wikidata": "Q656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1049",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Weltfrieden",
+      "bild_beschreibung": "Frédéric Joliot-Curie",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 22000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frédéric Joliot-Curie",
+          "beschriftung": "Frédéric Joliot-Curie",
+          "haupt": true,
+          "artikel": "Frédéric Joliot-Curie",
+          "wikidata": "Q150989"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1050",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Weltfrieden",
+      "bild_beschreibung": "Bertha Freifrau von Suttner",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bertha von Suttner",
+          "beschriftung": "Bertha Freifrau von Suttner",
+          "haupt": true,
+          "artikel": "Bertha von Suttner",
+          "wikidata": "Q18456"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1051",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Weltfrieden",
+      "bild_beschreibung": "Carl von Ossietzky",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl von Ossietzky",
+          "beschriftung": "Carl von Ossietzky",
+          "haupt": true,
+          "artikel": "Carl von Ossietzky",
+          "wikidata": "Q76358"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1052",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Diese und die folgende Marke wurde auch als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Mittelalterliche Glaswerkstatt, Pokal",
+      "entwerfer": "Axel Bengs",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Glas",
+          "beschriftung": "Glas",
+          "haupt": true,
+          "artikel": "Glas",
+          "wikidata": "Q11469"
+        },
+        {
+          "titel": "Pokal (Trinkgefäß)",
+          "beschriftung": "Pokal",
+          "haupt": false,
+          "artikel": "Pokal (Trinkgefäß)",
+          "wikidata": "Q24530942"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1053",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-03",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Neuzeitliche Armaturen aus Jenaer Glas",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jenaer Glas",
+          "beschriftung": "Jenaer Glas",
+          "haupt": true,
+          "artikel": "Jenaer Glas",
+          "wikidata": "Q1686806"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1054",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag der Gründung der Ersten Internationalen Arbeiterassoziation (Internationale)",
+      "bild_beschreibung": "Stempelabdruck der Ersten Internationale",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1054.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stempel (Papier)",
+          "beschriftung": "Stempelabdruck",
+          "haupt": true,
+          "artikel": "Stempel (Papier)",
+          "wikidata": "Q644099"
+        },
+        {
+          "titel": "Erste Internationale",
+          "beschriftung": "Ersten Internationalen Arbeiterassoziation",
+          "haupt": false,
+          "artikel": "Internationale Arbeiterassoziation",
+          "wikidata": "Q183725"
+        },
+        {
+          "titel": "Internationale",
+          "beschriftung": "Internationale",
+          "haupt": false,
+          "artikel": "Internationale",
+          "wikidata": "Q1337795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1055",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-16",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag der Gründung der Ersten Internationalen Arbeiterassoziation (Internationale)",
+      "bild_beschreibung": "Stempelabdruck der Ersten Internationale",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1055.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erste Internationale",
+          "beschriftung": "Ersten Internationalen Arbeiterassoziation",
+          "haupt": true,
+          "artikel": "Internationale Arbeiterassoziation",
+          "wikidata": "Q183725"
+        },
+        {
+          "titel": "Internationale",
+          "beschriftung": "Internationale",
+          "haupt": false,
+          "artikel": "Internationale",
+          "wikidata": "Q1337795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1056",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-23",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Briefmarkenausstellung, Berlin",
+      "bild_beschreibung": "Briefmarke der DDR 1958, Mi.-Nr. 663",
+      "entwerfer": "Axel Bengs",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1958 der Deutschen Post der DDR",
+          "beschriftung": "1958",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1958 der Deutschen Post der DDR",
+          "wikidata": "Q914441"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1057",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-23",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Briefmarkenausstellung, Berlin",
+      "bild_beschreibung": "Briefmarke der DDR 1950, Mi.-Nr. 278",
+      "entwerfer": "Axel Bengs",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1950 der Deutschen Post der DDR",
+          "beschriftung": "1950",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1950 der Deutschen Post der DDR",
+          "wikidata": "Q914376"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1058",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-23",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Briefmarkenausstellung, Berlin",
+      "bild_beschreibung": "Briefmarke der DDR 1955, Mi.-Nr. 504",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+          "beschriftung": "1955",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+          "wikidata": "Q914413"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1059 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Diese und die folgenden vierzehn Marken wurden auch gemeinsam in einem geschnittenen und nicht gummierten Briefmarkenblock in einer Auflage von 1.200.000 Stück ausgegeben (Mi.-Nr. 1059 B–1073 B).; Schweißer, Schiff am Kai",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1059 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittenen",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Schweißer",
+          "beschriftung": "Schweißer",
+          "haupt": false,
+          "artikel": "Schweißer",
+          "wikidata": "Q836328"
+        },
+        {
+          "titel": "Kai (Uferbauwerk)",
+          "beschriftung": "Kai",
+          "haupt": false,
+          "artikel": "Kai (Uferbauwerk)",
+          "wikidata": "Q828909"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1060 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Melkerin, Milchviehanlage",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1060 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Melken",
+          "beschriftung": "Melkerin",
+          "haupt": true,
+          "artikel": "Melken",
+          "wikidata": "Q933949"
+        },
+        {
+          "titel": "Milchproduktion",
+          "beschriftung": "Milchviehanlage",
+          "haupt": false,
+          "artikel": "Milchproduktion",
+          "wikidata": "Q14096331"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1061 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Studentin mit Mikroskop, Hörsaal",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1061 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Student",
+          "beschriftung": "Student",
+          "haupt": true,
+          "artikel": "Student",
+          "wikidata": "Q48282"
+        },
+        {
+          "titel": "Mikroskop",
+          "beschriftung": "Mikroskop",
+          "haupt": false,
+          "artikel": "Mikroskop",
+          "wikidata": "Q196538"
+        },
+        {
+          "titel": "Hörsaal",
+          "beschriftung": "Hörsaal",
+          "haupt": false,
+          "artikel": "Hörsaal",
+          "wikidata": "Q253275"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1062 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Hüttenwerker, VEB Stahl- und Walzwerk Brandenburg (Siemens-Martin-Verfahren)",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1062 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenwerk",
+          "beschriftung": "Hüttenwerker",
+          "haupt": true,
+          "artikel": "Eisenwerk",
+          "wikidata": "Q10832530"
+        },
+        {
+          "titel": "Stahl- und Walzwerk Brandenburg",
+          "beschriftung": "Stahl- und Walzwerk Brandenburg",
+          "haupt": false,
+          "artikel": "Industriemuseum Brandenburg an der Havel",
+          "wikidata": "Q1248357"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1063 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Fahne vor Haus des Lehrers und Wohnblock am Alexanderplatz, Berlin",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1063 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haus des Lehrers",
+          "beschriftung": "Haus des Lehrers",
+          "haupt": true,
+          "artikel": "Haus des Lehrers",
+          "wikidata": "Q586235"
+        },
+        {
+          "titel": "Alexanderplatz",
+          "beschriftung": "Alexanderplatz",
+          "haupt": false,
+          "artikel": "Alexanderplatz",
+          "wikidata": "Q152783"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1064 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Chemiker, Chemieanlage",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1064 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Chemische Industrie",
+          "beschriftung": "Chemieanlage",
+          "haupt": false,
+          "artikel": "Chemische Industrie",
+          "wikidata": "Q207652"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1065 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Ingenieur, Werkzeugmaschine",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1065 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ingenieur",
+          "beschriftung": "Ingenieur",
+          "haupt": true,
+          "artikel": "Ingenieur",
+          "wikidata": "Q81096"
+        },
+        {
+          "titel": "Werkzeugmaschine",
+          "beschriftung": "Werkzeugmaschine",
+          "haupt": false,
+          "artikel": "Werkzeugmaschine",
+          "wikidata": "Q19768"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1066 a",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Angehöriger der Kampfgruppen, Industrieanlage",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1066 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kampfgruppen",
+          "beschriftung": "Kampfgruppen",
+          "haupt": true,
+          "artikel": "Kampfgruppen der Arbeiterklasse",
+          "wikidata": "Q644693"
+        },
+        {
+          "titel": "Industrie",
+          "beschriftung": "Industrie",
+          "haupt": false,
+          "artikel": "Industrie",
+          "wikidata": "Q8148"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1067 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Messefiguren, Altes Rathaus, Leipzig",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1067 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Messefiguren",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        },
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": false,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1068 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Vermessungsingenieur, Braunkohlentagebau",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1068 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ingenieurgeodäsie",
+          "beschriftung": "Vermessungsingenieur",
+          "haupt": true,
+          "artikel": "Ingenieurgeodäsie",
+          "wikidata": "Q13419632"
+        },
+        {
+          "titel": "Braunkohle",
+          "beschriftung": "Braunkohle",
+          "haupt": false,
+          "artikel": "Braunkohle",
+          "wikidata": "Q156267"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1069 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Winterurlauberin, verschneite Ortschaft",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1069 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Urlaub",
+          "beschriftung": "Winterurlauberin",
+          "haupt": true,
+          "artikel": "Urlaub",
+          "wikidata": "Q116213"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1070 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Wissenschaftler, Planetariumsprojektor von Carl Zeiss",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1070 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wissenschaft",
+          "beschriftung": "Wissenschaft",
+          "haupt": true,
+          "artikel": "Wissenschaft",
+          "wikidata": "Q336"
+        },
+        {
+          "titel": "Planetarium",
+          "beschriftung": "Planetarium",
+          "haupt": false,
+          "artikel": "Planetarium",
+          "wikidata": "Q148319"
+        },
+        {
+          "titel": "Carl Zeiss (Unternehmen)",
+          "beschriftung": "Carl Zeiss",
+          "haupt": false,
+          "artikel": "Carl Zeiss AG",
+          "wikidata": "Q282186"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1071 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Bildhauer, Dresdner Zwinger",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1071 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bildhauerei",
+          "beschriftung": "Bildhauer",
+          "haupt": true,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwinger",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1072 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Bauarbeiter, Wohnbauten",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1072 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauberuf",
+          "beschriftung": "Bauarbeiter",
+          "haupt": true,
+          "artikel": "Bauberuf",
+          "wikidata": "Q811122"
+        },
+        {
+          "titel": "Wohnungsbau",
+          "beschriftung": "Wohnbauten",
+          "haupt": false,
+          "artikel": "Wohnungsbau",
+          "wikidata": "Q1799415"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1073 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre DDR",
+      "bild_beschreibung": "Textilarbeiterin, Webstuhl",
+      "entwerfer": "Klaus Hennig und Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1073 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arbeiter",
+          "beschriftung": "Textilarbeiterin",
+          "haupt": true,
+          "artikel": "Arbeiter",
+          "wikidata": "Q12713481"
+        },
+        {
+          "titel": "Webstuhl",
+          "beschriftung": "Webstuhl",
+          "haupt": false,
+          "artikel": "Webstuhl",
+          "wikidata": "Q173056"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1074",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-25",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (I)",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck ausgegeben:; Mönchgut (Rügen)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mönchgut",
+          "beschriftung": "Mönchgut",
+          "haupt": true,
+          "artikel": "Mönchgut",
+          "wikidata": "Q316623"
+        },
+        {
+          "titel": "Rügen",
+          "beschriftung": "Rügen",
+          "haupt": false,
+          "artikel": "Rügen",
+          "wikidata": "Q3237"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1075",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-25",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (I)",
+      "bild_beschreibung": "Mönchgut (Rügen)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mönchgut",
+          "beschriftung": "Mönchgut",
+          "haupt": true,
+          "artikel": "Mönchgut",
+          "wikidata": "Q316623"
+        },
+        {
+          "titel": "Rügen",
+          "beschriftung": "Rügen",
+          "haupt": false,
+          "artikel": "Rügen",
+          "wikidata": "Q3237"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1076",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (I)",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck ausgegeben:; Spreewald",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": true,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1077",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (I)",
+      "bild_beschreibung": "Spreewald",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": true,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1078",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (I)",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck ausgegeben:; Thüringen",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thüringen",
+          "beschriftung": "Thüringen",
+          "haupt": true,
+          "artikel": "Thüringen",
+          "wikidata": "Q1205"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1079",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (I)",
+      "bild_beschreibung": "Thüringen",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thüringen",
+          "beschriftung": "Thüringen",
+          "haupt": true,
+          "artikel": "Thüringen",
+          "wikidata": "Q1205"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1081",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-12-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der ruhigen Sonne",
+      "bild_beschreibung": "Die folgenden drei Marken wurden jeweils als einzelner Briefmarkenblock ausgegeben:; Teil der Erdkugel, Satellit",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1081.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Satellit (Raumfahrt)",
+          "beschriftung": "Satellit",
+          "haupt": false,
+          "artikel": "Satellit (Raumfahrt)",
+          "wikidata": "Q26540"
+        },
+        {
+          "titel": "Internationales Jahr der ruhigen Sonne",
+          "beschriftung": "Internationales Jahr der ruhigen Sonne",
+          "haupt": false,
+          "artikel": "Internationales Jahr der ruhigen Sonne",
+          "wikidata": "Q1480936"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1082",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-12-29",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der ruhigen Sonne",
+      "bild_beschreibung": "Sonne mit Korona und Protuberanzen",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1600000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1082.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sonne",
+          "beschriftung": "Sonne",
+          "haupt": true,
+          "artikel": "Sonne",
+          "wikidata": "Q525"
+        },
+        {
+          "titel": "Korona (Sonne)",
+          "beschriftung": "Korona",
+          "haupt": false,
+          "artikel": "Korona (Sonne)",
+          "wikidata": "Q170754"
+        },
+        {
+          "titel": "Protuberanz",
+          "beschriftung": "Protuberanz",
+          "haupt": false,
+          "artikel": "Protuberanz",
+          "wikidata": "Q221699"
+        },
+        {
+          "titel": "Internationales Jahr der ruhigen Sonne",
+          "beschriftung": "Internationales Jahr der ruhigen Sonne",
+          "haupt": false,
+          "artikel": "Internationales Jahr der ruhigen Sonne",
+          "wikidata": "Q1480936"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1083",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-12-29",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der ruhigen Sonne",
+      "bild_beschreibung": "Satellitenbahnen vor Erdkugel mit Strahlungsgürtel",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1700000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1083.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Satellitenorbit",
+          "beschriftung": "Satellitenbahnen",
+          "haupt": true,
+          "artikel": "Satellitenorbit",
+          "wikidata": "Q19308490"
+        },
+        {
+          "titel": "Van-Allen-Gürtel",
+          "beschriftung": "Strahlungsgürtel",
+          "haupt": false,
+          "artikel": "Van-Allen-Gürtel",
+          "wikidata": "Q188533"
+        },
+        {
+          "titel": "Internationales Jahr der ruhigen Sonne",
+          "beschriftung": "Internationales Jahr der ruhigen Sonne",
+          "haupt": false,
+          "artikel": "Internationales Jahr der ruhigen Sonne",
+          "wikidata": "Q1480936"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1080",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie), Kleinformat (III)",
+      "bild_beschreibung": "",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei (DWD)",
+      "auflage": 111190000,
+      "commons_datei": "Stamps of Germany (DDR) 1964, MiNr 1080.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    }
+  ]
+}

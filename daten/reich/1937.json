@@ -1,0 +1,532 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1937,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1937 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1937_der_Deutschen_Reichspost",
+    "revision": 268668066,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 643,
+    "mi_nr_bis": 659,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 17,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "643",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-03-03",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Luftschutz",
+      "bild_beschreibung": "Schildträger mit Luftschutzabzeichen",
+      "entwerfer": "Ludwig Hohlwein",
+      "auflage": null,
+      "commons_datei": "DR 1937 643 Luftschutz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftschutz",
+          "beschriftung": "Luftschutz",
+          "haupt": true,
+          "artikel": "Luftschutz",
+          "wikidata": "Q448717"
+        }
+      ]
+    },
+    {
+      "mi_nr": "644",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-03-03",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Luftschutz",
+      "bild_beschreibung": "Schildträger mit Luftschutzabzeichen",
+      "entwerfer": "Ludwig Hohlwein",
+      "auflage": null,
+      "commons_datei": "DR 1937 644 Luftschutz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftschutz",
+          "beschriftung": "Luftschutz",
+          "haupt": true,
+          "artikel": "Luftschutz",
+          "wikidata": "Q448717"
+        }
+      ]
+    },
+    {
+      "mi_nr": "645",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-03-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Luftschutz",
+      "bild_beschreibung": "Schildträger mit Luftschutzabzeichen",
+      "entwerfer": "Ludwig Hohlwein",
+      "auflage": null,
+      "commons_datei": "DR 1937 645 Luftschutz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftschutz",
+          "beschriftung": "Luftschutz",
+          "haupt": true,
+          "artikel": "Luftschutz",
+          "wikidata": "Q448717"
+        }
+      ]
+    },
+    {
+      "mi_nr": "646",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-04-05",
+      "wert": "6+19",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "48. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "647",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-04-16",
+      "wert": "6+19",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Nationale Briefmarkenausstellung",
+      "bild_beschreibung": "wie 646, jedoch geschnitten",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "648",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-06-10",
+      "wert": "6+19+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Kulturförderung",
+      "bild_beschreibung": "wie 646, nur am anhängenden Rand mit zusätzlicher Schrift zu unterscheiden",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "649",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-08-01",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "4. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "3 Jockeys auf ihren Pferden während des Rennens",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "das Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        }
+      ]
+    },
+    {
+      "mi_nr": "650",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-09-03",
+      "wert": "6+19",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "9. Reichsparteitag",
+      "bild_beschreibung": "wie 646, mit zusätzlichem Aufdruck",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "651",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Rettungsboot Bremen",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremen (Schiff, 1931)",
+          "beschriftung": "Bremen",
+          "haupt": true,
+          "artikel": "Bremen (Schiff, 1931)",
+          "wikidata": "Q907423"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "652",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Feuerschiff Elbe 1",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerschiff Elbe 1",
+          "beschriftung": "Feuerschiff Elbe 1",
+          "haupt": true,
+          "artikel": "Feuerschiff Elbe 1",
+          "wikidata": "Q59184567"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "653",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "5+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Fischerboote an der Kurischen Nehrung",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trawler",
+          "beschriftung": "Fischerboote",
+          "haupt": true,
+          "artikel": "Trawler",
+          "wikidata": "Q326561"
+        },
+        {
+          "titel": "Kurische Nehrung",
+          "beschriftung": "Kurischen Nehrung",
+          "haupt": false,
+          "artikel": "Kurische Nehrung",
+          "wikidata": "Q5595"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "654",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Kraft durch Freude Wilhelm Gustloff vor Madeira, Aloe Aloe",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kraft durch Freude",
+          "beschriftung": "Kraft durch Freude",
+          "haupt": true,
+          "artikel": "Kraft durch Freude",
+          "wikidata": "Q157329"
+        },
+        {
+          "titel": "Wilhelm Gustloff (Schiff)",
+          "beschriftung": "Wilhelm Gustloff",
+          "haupt": false,
+          "artikel": "Wilhelm Gustloff (Schiff)",
+          "wikidata": "Q155014"
+        },
+        {
+          "titel": "Madeira",
+          "beschriftung": "Madeira",
+          "haupt": false,
+          "artikel": "Madeira",
+          "wikidata": "Q30188"
+        },
+        {
+          "titel": "Aloen",
+          "beschriftung": "Aloe",
+          "haupt": false,
+          "artikel": "Aloen",
+          "wikidata": "Q127134"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "655",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Viermastbark Padua",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bark (Schiffstyp)",
+          "beschriftung": "Viermastbark",
+          "haupt": true,
+          "artikel": "Bark (Schiffstyp)",
+          "wikidata": "Q216057"
+        },
+        {
+          "titel": "Kruzenshtern (Schiff)",
+          "beschriftung": "Padua",
+          "haupt": false,
+          "artikel": "Kruzenshtern (Schiff)",
+          "wikidata": "Q568875"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "656",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Dampfschiff Tannenberg",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dampfschiff",
+          "beschriftung": "Dampfschiff",
+          "haupt": true,
+          "artikel": "Dampfschiff",
+          "wikidata": "Q178193"
+        },
+        {
+          "titel": "Tannenberg (Schiff)",
+          "beschriftung": "Tannenberg",
+          "haupt": false,
+          "artikel": "Tannenberg (Schiff)",
+          "wikidata": "Q2392967"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "657",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Fährschiff Schwerin",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fähre",
+          "beschriftung": "Fährschiff",
+          "haupt": true,
+          "artikel": "Fähre",
+          "wikidata": "Q25653"
+        },
+        {
+          "titel": "Schwerin (Schiff, 1926)",
+          "beschriftung": "Schwerin",
+          "haupt": false,
+          "artikel": "Schwerin (Schiff, 1926)",
+          "wikidata": "Q2257098"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "658",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Schnelldampfer Hamburg",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamburg (Schiff, 1926)",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg (Schiff, 1926)",
+          "wikidata": "Q827103"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "659",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1937-11-04",
+      "wert": "40+35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-06-30",
+      "anlass": "Winterhilfswerk, Schiffe",
+      "bild_beschreibung": "Schnelldampfer Europa",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europa (Schiff, 1930)",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europa (Schiff, 1930)",
+          "wikidata": "Q689442"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    }
+  ]
+}

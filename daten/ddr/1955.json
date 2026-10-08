@@ -1,0 +1,1800 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1955,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1955_der_Deutschen_Post_der_DDR",
+    "revision": 260178925,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 447,
+    "mi_nr_bis": 509,
+    "luecken": [
+      461,
+      462,
+      467,
+      468,
+      469,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 46,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "447",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-02-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Leipziger Frühjahrsmesse 1955",
+      "bild_beschreibung": "Messepavillon der UdSSR auf dem Gelände der Technischen Messe",
+      "entwerfer": "Erich Gruner",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0447.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Achilleion (Leipzig)",
+          "beschriftung": "Messepavillon der UdSSR",
+          "haupt": true,
+          "artikel": "Achilleion (Leipzig)",
+          "wikidata": "Q340270"
+        },
+        {
+          "titel": "Alte Messe Leipzig",
+          "beschriftung": "Technischen Messe",
+          "haupt": false,
+          "artikel": "Alte Messe Leipzig",
+          "wikidata": "Q435985"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "448",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-02-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Leipziger Frühjahrsmesse 1955",
+      "bild_beschreibung": "Chinesischer Messepavillon auf dem Gelände der Technischen Messe",
+      "entwerfer": "Erich Gruner",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0448.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volksrepublik China",
+          "beschriftung": "Chinesischer",
+          "haupt": true,
+          "artikel": "Volksrepublik China",
+          "wikidata": "Q148"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "449",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-02-25",
+      "wert": "20 + 5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Hilfe für die Hochwassergeschädigten",
+      "bild_beschreibung": "Die Originalmarke ohne Aufdruck aus dem Jahr 1954 hat die Michel-Nummer 431.; Talsperre mit Wertzifferaufdruck",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1954 der Deutschen Post der DDR",
+          "beschriftung": "1954",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1954 der Deutschen Post der DDR",
+          "wikidata": "Q914408"
+        },
+        {
+          "titel": "Talsperre",
+          "beschriftung": "Talsperre",
+          "haupt": false,
+          "artikel": "Talsperre",
+          "wikidata": "Q12323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "450",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationaler Frauentag",
+      "bild_beschreibung": "Drei Frauen unterschiedlicher Hautfarbe, Demonstration",
+      "entwerfer": "Erich Gruner",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstration",
+          "haupt": true,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        },
+        {
+          "titel": "Internationaler Frauentag",
+          "beschriftung": "Internationaler Frauentag",
+          "haupt": false,
+          "artikel": "Internationaler Frauentag",
+          "wikidata": "Q38964"
+        }
+      ]
+    },
+    {
+      "mi_nr": "451",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationaler Frauentag",
+      "bild_beschreibung": "Drei Frauen unterschiedlicher Hautfarbe, Demonstration",
+      "entwerfer": "Erich Gruner",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0451.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationaler Frauentag",
+          "beschriftung": "Internationaler Frauentag",
+          "haupt": true,
+          "artikel": "Internationaler Frauentag",
+          "wikidata": "Q38964"
+        }
+      ]
+    },
+    {
+      "mi_nr": "452",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationale Konferenz der Werktätigen des öffentlichen Dienstes im Weltgewerkschaftsbund (WGB)",
+      "bild_beschreibung": "Demonstration, Fahne des Weltgewerkschaftsbundes",
+      "entwerfer": "Erich Gruner",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Öffentlicher Dienst",
+          "beschriftung": "öffentlichen Dienstes",
+          "haupt": true,
+          "artikel": "Öffentlicher Dienst",
+          "wikidata": "Q11771944"
+        },
+        {
+          "titel": "Weltgewerkschaftsbund",
+          "beschriftung": "Weltgewerkschaftsbund",
+          "haupt": false,
+          "artikel": "Weltgewerkschaftsbund",
+          "wikidata": "Q748999"
+        }
+      ]
+    },
+    {
+      "mi_nr": "459 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationaler Tag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Diese und die folgende Marke wurden auch gemeinsam als geschnittener Briefmarkenblock ausgegeben. (Mi.-Nr. 459 B–460 B).; Ehrenmal auf dem Friedhof Brandenburg (Havel)",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Gedenkstätte",
+          "beschriftung": "Ehrenmal",
+          "haupt": false,
+          "artikel": "Gedenkstätte",
+          "wikidata": "Q5003624"
+        },
+        {
+          "titel": "Brandenburg an der Havel",
+          "beschriftung": "Brandenburg (Havel)",
+          "haupt": false,
+          "artikel": "Brandenburg an der Havel",
+          "wikidata": "Q3931"
+        },
+        {
+          "titel": "Internationaler Tag",
+          "beschriftung": "Internationaler Tag",
+          "haupt": false,
+          "artikel": "Liste von Gedenk- und Aktionstagen",
+          "wikidata": "Q59128"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "460 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Internationaler Tag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Ehrenmal auf dem Friedhof Brandenburg (Havel)",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationaler Tag",
+          "beschriftung": "Internationaler Tag",
+          "haupt": true,
+          "artikel": "Liste von Gedenk- und Aktionstagen",
+          "wikidata": "Q59128"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "463",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Ehrenmal für die gefallenen Soldaten der Roten Armee in Berlin–Treptow",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sowjetisches Ehrenmal (Treptower Park)",
+          "beschriftung": "Ehrenmal für die gefallenen Soldaten der Roten Armee in Berlin–Treptow",
+          "haupt": true,
+          "artikel": "Sowjetisches Ehrenmal im Treptower Park",
+          "wikidata": "Q48441"
+        }
+      ]
+    },
+    {
+      "mi_nr": "464 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-30",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "150. Todestag von Friedrich Schiller",
+      "bild_beschreibung": "Diese und die folgenden zwei Marken wurden auch gemeinsam als geschnittener Briefmarkenblock ausgegeben. (Mi.-Nr. 464 B–466 B).; Friedrich Schiller nach einem Gemälde von Gerhard von Kügelgen, aufgeschlagenes Buch",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Gerhard von Kügelgen",
+          "beschriftung": "Gerhard von Kügelgen",
+          "haupt": false,
+          "artikel": "Gerhard von Kügelgen",
+          "wikidata": "Q697499"
+        },
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": false,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "465 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "150. Todestag von Friedrich Schiller",
+      "bild_beschreibung": "Friedrich Schiller",
+      "entwerfer": "Helmuth Götze",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "466 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "150. Todestag von Friedrich Schiller",
+      "bild_beschreibung": "Friedrich Schiller",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "470",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "VIII. Internationale Radfernfahrt für den Frieden",
+      "bild_beschreibung": "Radrennfahrer, Wappen von Prag, Berlin, Warschau",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radrennfahrer",
+          "beschriftung": "Radrennfahrer",
+          "haupt": true,
+          "artikel": "Radrennfahrer",
+          "wikidata": "Q2309784"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1955",
+          "beschriftung": "VIII. Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1955",
+          "wikidata": "Q1667179"
+        }
+      ]
+    },
+    {
+      "mi_nr": "471",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-04-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "VIII. Internationale Radfernfahrt für den Frieden",
+      "bild_beschreibung": "Radrennfahrer, Wappen von Prag, Berlin, Warschau",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1955",
+          "beschriftung": "VIII. Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1955",
+          "wikidata": "Q1667179"
+        }
+      ]
+    },
+    {
+      "mi_nr": "472",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "Mitbegründer der KPD, Karl Liebknecht, Kundgebung",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KPD",
+          "beschriftung": "KPD",
+          "haupt": true,
+          "artikel": "Kommunistische Partei Deutschlands",
+          "wikidata": "Q153401"
+        },
+        {
+          "titel": "Karl Liebknecht",
+          "beschriftung": "Karl Liebknecht",
+          "haupt": false,
+          "artikel": "Karl Liebknecht",
+          "wikidata": "Q75886"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "473",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "SPD-Führer August Bebel, Versammlung",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SPD",
+          "beschriftung": "SPD",
+          "haupt": true,
+          "artikel": "Sozialdemokratische Partei Deutschlands",
+          "wikidata": "Q49768"
+        },
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": false,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "474",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "Schriftsteller und Politiker Franz Mehring, Titelseite der Leipziger Volkszeitung",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Mehring",
+          "beschriftung": "Franz Mehring",
+          "haupt": true,
+          "artikel": "Franz Mehring",
+          "wikidata": "Q18806"
+        },
+        {
+          "titel": "Leipziger Volkszeitung",
+          "beschriftung": "Leipziger Volkszeitung",
+          "haupt": false,
+          "artikel": "Leipziger Volkszeitung",
+          "wikidata": "Q283347"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "475",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "KPD-Führer Ernst Thälmann vor Hafenarbeitern",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KPD",
+          "beschriftung": "KPD",
+          "haupt": true,
+          "artikel": "Kommunistische Partei Deutschlands",
+          "wikidata": "Q153401"
+        },
+        {
+          "titel": "Hafen",
+          "beschriftung": "Hafen",
+          "haupt": false,
+          "artikel": "Hafen",
+          "wikidata": "Q44782"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "476",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "KPD-Politikerin Clara Zetkin, Versammlung",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clara Zetkin",
+          "beschriftung": "Clara Zetkin",
+          "haupt": true,
+          "artikel": "Clara Zetkin",
+          "wikidata": "Q75823"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "477",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "SPD-Führer Wilhelm Liebknecht, Gerichtssaal",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Liebknecht",
+          "beschriftung": "Wilhelm Liebknecht",
+          "haupt": true,
+          "artikel": "Wilhelm Liebknecht",
+          "wikidata": "Q20127"
+        },
+        {
+          "titel": "Gerichtssaal",
+          "beschriftung": "Gerichtssaal",
+          "haupt": false,
+          "artikel": "Gerichtssaal",
+          "wikidata": "Q939726"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "478",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-06-20",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Führer der deutschen Arbeiterbewegung",
+      "bild_beschreibung": "Mitbegründerin der KPD, Rosa Luxemburg, Kundgebung",
+      "entwerfer": "Kurt Eigler, Bruno Petersen",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosa Luxemburg",
+          "beschriftung": "Rosa Luxemburg",
+          "haupt": true,
+          "artikel": "Rosa Luxemburg",
+          "wikidata": "Q7231"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "479",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-08-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Leipziger Herbstmesse 1955",
+      "bild_beschreibung": "Erzeugnisse der optischen Industrie, Messehallen 2 und 3",
+      "entwerfer": "Erich Gruner",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0479.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Optik",
+          "beschriftung": "optischen",
+          "haupt": true,
+          "artikel": "Optik",
+          "wikidata": "Q14620"
+        },
+        {
+          "titel": "Alte Messe Leipzig",
+          "beschriftung": "Messehallen",
+          "haupt": false,
+          "artikel": "Alte Messe Leipzig",
+          "wikidata": "Q435985"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "480",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-08-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Leipziger Herbstmesse 1955",
+      "bild_beschreibung": "Keramische Erzeugnisse, Eingang zur Mädlerpassage",
+      "entwerfer": "Erich Gruner",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0480.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Keramik",
+          "beschriftung": "Keramische",
+          "haupt": true,
+          "artikel": "Keramik",
+          "wikidata": "Q45621"
+        },
+        {
+          "titel": "Mädlerpassage",
+          "beschriftung": "Mädlerpassage",
+          "haupt": false,
+          "artikel": "Mädlerpassage",
+          "wikidata": "Q1491479"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "481",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-09-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10 Jahre Bodenreform",
+      "bild_beschreibung": "Überreichung der Besitzurkunde",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": true,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        }
+      ]
+    },
+    {
+      "mi_nr": "482",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-09-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10 Jahre Bodenreform",
+      "bild_beschreibung": "Errichtung einer Neubauernsiedlung",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neubauer (Agrarreform)",
+          "beschriftung": "Neubauernsiedlung",
+          "haupt": true,
+          "artikel": "Neubauer (Agrarreform)",
+          "wikidata": "Q1979258"
+        },
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": false,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        }
+      ]
+    },
+    {
+      "mi_nr": "483",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-09-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10 Jahre Bodenreform",
+      "bild_beschreibung": "Mähdrescher im Einsatz",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mähdrescher",
+          "beschriftung": "Mähdrescher",
+          "haupt": true,
+          "artikel": "Mähdrescher",
+          "wikidata": "Q26886"
+        },
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": false,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        }
+      ]
+    },
+    {
+      "mi_nr": "484",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10 Jahre Volkssolidarität",
+      "bild_beschreibung": "Mann mit Opferschale und Zeichen der Volkssolidarität vor Erdhalbkugeln",
+      "entwerfer": "Paul Hohler, Franz Schreiber",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0484.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        },
+        {
+          "titel": "Opferschale",
+          "beschriftung": "Opferschale",
+          "haupt": false,
+          "artikel": "Schale (Gefäß)",
+          "wikidata": "Q3579073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "485 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-07",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "60. Todestag von Friedrich Engels",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden auch gemeinsam als geschnittener Briefmarkenblock ausgegeben. (Mi.-Nr. 485 B–490 B).; Friedrich Engels und Karl Marx im Generalrat der I. Internationale 1864",
+      "entwerfer": "Theo Thomas",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0485.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Internationale Arbeiterassoziation",
+          "beschriftung": "I. Internationale",
+          "haupt": false,
+          "artikel": "Internationale Arbeiterassoziation",
+          "wikidata": "Q183725"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "486 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "60. Todestag von Friedrich Engels",
+      "bild_beschreibung": "Karl Marx und Friedrich Engels bei der Abfassung des „Kommunistischen Manifestes“",
+      "entwerfer": "Theo Thomas",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0486.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Manifest der Kommunistischen Partei",
+          "beschriftung": "Kommunistischen Manifestes",
+          "haupt": true,
+          "artikel": "Manifest der Kommunistischen Partei",
+          "wikidata": "Q40591"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "487 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-07",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "60. Todestag von Friedrich Engels",
+      "bild_beschreibung": "Friedrich Engels als Redakteur der Neuen Rheinischen Zeitung",
+      "entwerfer": "Theo Thomas",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0487.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Redakteur",
+          "beschriftung": "Redakteur",
+          "haupt": true,
+          "artikel": "Redakteur",
+          "wikidata": "Q876864"
+        },
+        {
+          "titel": "Neue Rheinische Zeitung",
+          "beschriftung": "Neuen Rheinischen Zeitung",
+          "haupt": false,
+          "artikel": "Neue Rheinische Zeitung",
+          "wikidata": "Q429850"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "488 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "60. Todestag von Friedrich Engels",
+      "bild_beschreibung": "Friedrich Engels, Publizist, Sozialist",
+      "entwerfer": "Theo Thomas",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0488.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Publizist",
+          "beschriftung": "Publizist",
+          "haupt": true,
+          "artikel": "Publizist",
+          "wikidata": "Q6051619"
+        },
+        {
+          "titel": "Sozialismus",
+          "beschriftung": "Sozialist",
+          "haupt": false,
+          "artikel": "Sozialismus",
+          "wikidata": "Q7272"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "489 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "60. Todestag von Friedrich Engels",
+      "bild_beschreibung": "Friedrich Engels, Jugendbildnis",
+      "entwerfer": "Theo Thomas",
+      "auflage": 750000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0489.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": true,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "490 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-07",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "60. Todestag von Friedrich Engels",
+      "bild_beschreibung": "Friedrich Engels als Teilnehmer an den Barrikadenkämpfen 1848",
+      "entwerfer": "Theo Thomas",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0490.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Revolution 1848/49",
+          "beschriftung": "Barrikadenkämpfen 1848",
+          "haupt": true,
+          "artikel": "Deutsche Revolution 1848/1849",
+          "wikidata": "Q3699"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "491",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-14",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Wiederhergestellte historische Bauwerke",
+      "bild_beschreibung": "Magdeburger Dom",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magdeburger Dom",
+          "beschriftung": "Magdeburger Dom",
+          "haupt": true,
+          "artikel": "Magdeburger Dom",
+          "wikidata": "Q668341"
+        }
+      ]
+    },
+    {
+      "mi_nr": "492",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Wiederhergestellte historische Bauwerke",
+      "bild_beschreibung": "Deutsche Staatsoper in Berlin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsoper Unter den Linden",
+          "beschriftung": "Deutsche Staatsoper",
+          "haupt": true,
+          "artikel": "Staatsoper Unter den Linden",
+          "wikidata": "Q312576"
+        }
+      ]
+    },
+    {
+      "mi_nr": "493",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-14",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Wiederhergestellte historische Bauwerke",
+      "bild_beschreibung": "Altes Rathaus in Leipzig",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "494",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Wiederhergestellte historische Bauwerke",
+      "bild_beschreibung": "Rotes Rathaus in Berlin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotes Rathaus",
+          "beschriftung": "Rotes Rathaus",
+          "haupt": true,
+          "artikel": "Rotes Rathaus",
+          "wikidata": "Q155210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "495",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Wiederhergestellte historische Bauwerke",
+      "bild_beschreibung": "Erfurter Dom",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erfurter Dom",
+          "beschriftung": "Erfurter Dom",
+          "haupt": true,
+          "artikel": "Erfurter Dom",
+          "wikidata": "Q701567"
+        }
+      ]
+    },
+    {
+      "mi_nr": "496",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Wiederhergestellte historische Bauwerke",
+      "bild_beschreibung": "Dresdner Zwinger, Wallpavillon",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dresdner Zwinger",
+          "beschriftung": "Dresdner Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Wallpavillon",
+          "beschriftung": "Wallpavillon",
+          "haupt": false,
+          "artikel": "Wallpavillon",
+          "wikidata": "Q1496790"
+        }
+      ]
+    },
+    {
+      "mi_nr": "497",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "400. Todestag von Georg Agricola",
+      "bild_beschreibung": "Brustbild des Arztes, Humanisten und Mineralogen",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0497.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georgius Agricola",
+          "beschriftung": "Georg Agricola",
+          "haupt": true,
+          "artikel": "Georgius Agricola",
+          "wikidata": "Q76579"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Humanist",
+          "beschriftung": "Humanist",
+          "haupt": false,
+          "artikel": "Humanismus",
+          "wikidata": "Q46158"
+        },
+        {
+          "titel": "Mineraloge",
+          "beschriftung": "Mineraloge",
+          "haupt": false,
+          "artikel": "Mineralogie",
+          "wikidata": "Q83353"
+        }
+      ]
+    },
+    {
+      "mi_nr": "504",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-12-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (I)",
+      "bild_beschreibung": "„Bildnis eines jungen Mannes“ von Albrecht Dürer",
+      "entwerfer": "Erich Gruner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0504.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": true,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "505",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-12-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (I)",
+      "bild_beschreibung": "„Das Schokoladenmädchen“ von Jean Etienne Liotard",
+      "entwerfer": "Erich Gruner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0505.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Schokoladenmädchen",
+          "beschriftung": "Das Schokoladenmädchen",
+          "haupt": true,
+          "artikel": "Das Schokoladenmädchen",
+          "wikidata": "Q445627"
+        },
+        {
+          "titel": "Jean Etienne Liotard",
+          "beschriftung": "Jean Etienne Liotard",
+          "haupt": false,
+          "artikel": "Jean-Étienne Liotard",
+          "wikidata": "Q123757"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "506",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-12-15",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (I)",
+      "bild_beschreibung": "„Bildnis eines Knaben“ von Pinturicchio",
+      "entwerfer": "Erich Gruner",
+      "auflage": 750000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0506.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pinturicchio",
+          "beschriftung": "Pinturicchio",
+          "haupt": true,
+          "artikel": "Pinturicchio",
+          "wikidata": "Q5591"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "507",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-12-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (I)",
+      "bild_beschreibung": "„Selbstbildnis“ mit Saskia von Rembrandt",
+      "entwerfer": "Erich Gruner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0507.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": true,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        },
+        {
+          "titel": "Saskia",
+          "beschriftung": "Saskia",
+          "haupt": false,
+          "artikel": "Saskia",
+          "wikidata": "Q337257"
+        },
+        {
+          "titel": "Rembrandt",
+          "beschriftung": "Rembrandt",
+          "haupt": false,
+          "artikel": "Rembrandt van Rijn",
+          "wikidata": "Q5598"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "508",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-12-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (I)",
+      "bild_beschreibung": "„Brief lesendes Mädchen am Fenster“ von Jan Vermeer van Delft",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0508.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefleserin am offenen Fenster",
+          "beschriftung": "Brief lesendes Mädchen am Fenster",
+          "haupt": true,
+          "artikel": "Briefleserin am offenen Fenster",
+          "wikidata": "Q700251"
+        },
+        {
+          "titel": "Jan Vermeer",
+          "beschriftung": "Jan Vermeer van Delft",
+          "haupt": false,
+          "artikel": "Jan Vermeer",
+          "wikidata": "Q41264"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "509",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-12-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (I)",
+      "bild_beschreibung": "„Die Sixtinische Madonna“ von Raffael",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0509.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sixtinische Madonna",
+          "beschriftung": "Sixtinische Madonna",
+          "haupt": true,
+          "artikel": "Sixtinische Madonna",
+          "wikidata": "Q328079"
+        },
+        {
+          "titel": "Raffael",
+          "beschriftung": "Raffael",
+          "haupt": false,
+          "artikel": "Raffael",
+          "wikidata": "Q5597"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "453",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-01-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (IV), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 2 (DDR und Posthorn), Zähnung K 13:12 1/2",
+      "bild_beschreibung": "Arbeiter tauschen Erfahrungen aus",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0453.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "454",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-08-15",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (IV), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 2 (DDR und Posthorn), Zähnung K 13:12 1/2",
+      "bild_beschreibung": "Stahlschmelzer, Hüttenwerk",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0454.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenwerk",
+          "beschriftung": "Hüttenwerk",
+          "haupt": true,
+          "artikel": "Eisenwerk",
+          "wikidata": "Q10832530"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "455",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-01-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (IV), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 2 (DDR und Posthorn), Zähnung K 13:12 1/2",
+      "bild_beschreibung": "Stalinallee (Berlin)",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0455.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Stalinallee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "456",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-01-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (IV), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 2 (DDR und Posthorn), Zähnung K 13:12 1/2",
+      "bild_beschreibung": "Dresdner Zwinger (Kronentor).",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0456.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kronentor",
+          "beschriftung": "Kronentor",
+          "haupt": true,
+          "artikel": "Kronentor",
+          "wikidata": "Q1789892"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "457",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-01-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (IV), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 2 (DDR und Posthorn), Zähnung K 13:12 1/2",
+      "bild_beschreibung": "Hochseeschiff auf Stapel",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0457.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiff",
+          "beschriftung": "Hochseeschiff",
+          "haupt": true,
+          "artikel": "Schiff",
+          "wikidata": "Q11446"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapel",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "458",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1955-08-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (IV), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 2 (DDR und Posthorn), Zähnung K 13:12 1/2",
+      "bild_beschreibung": "Familie vor dem Hochhaus an der Weberwiese (Berlin)",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1955, MiNr 0458.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochhaus an der Weberwiese",
+          "beschriftung": "Hochhaus an der Weberwiese",
+          "haupt": true,
+          "artikel": "Hochhaus an der Weberwiese",
+          "wikidata": "Q1428812"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    }
+  ]
+}

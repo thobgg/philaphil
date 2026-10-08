@@ -1,0 +1,787 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1956,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1956 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1956_der_Deutschen_Bundespost_Berlin",
+    "revision": 251518978,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 135,
+    "mi_nr_bis": 158,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 8,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "136",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-03-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Bundesrat Deutschland in Berlin",
+      "bild_beschreibung": "Bundesadler und Wappen Berlins",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 20000000,
+      "commons_datei": "DBPB 1956 136 Bundesrat.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesadler (Bundesrepublik Deutschland)",
+          "beschriftung": "Bundesadler",
+          "haupt": true,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        },
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Wappen Berlins",
+          "haupt": false,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        },
+        {
+          "titel": "Bundesrat (Deutschland)",
+          "beschriftung": "Bundesrat Deutschland",
+          "haupt": false,
+          "artikel": "Bundesrat (Deutschland)",
+          "wikidata": "Q146138"
+        }
+      ]
+    },
+    {
+      "mi_nr": "137",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-03-16",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Bundesrat Deutschland in Berlin",
+      "bild_beschreibung": "Bundesadler und Wappen Berlins",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1956 137 Bundesrat.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesrat (Deutschland)",
+          "beschriftung": "Bundesrat Deutschland",
+          "haupt": true,
+          "artikel": "Bundesrat (Deutschland)",
+          "wikidata": "Q146138"
+        }
+      ]
+    },
+    {
+      "mi_nr": "138",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-05-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "100 Jahre Verein Deutscher Ingenieure (VDI)",
+      "bild_beschreibung": "das Logo des VDI und ein Lorbeerzweig",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1956 138 VDI.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verein Deutscher Ingenieure",
+          "beschriftung": "VDI",
+          "haupt": true,
+          "artikel": "Verein Deutscher Ingenieure",
+          "wikidata": "Q529564"
+        },
+        {
+          "titel": "Echter Lorbeer",
+          "beschriftung": "Lorbeerzweig",
+          "haupt": false,
+          "artikel": "Echter Lorbeer",
+          "wikidata": "Q26006"
+        },
+        {
+          "titel": "Sondermarke 100 Jahre Verein Deutscher Ingenieure (VDI)",
+          "beschriftung": "100 Jahre Verein Deutscher Ingenieure (VDI)",
+          "haupt": false,
+          "artikel": "Sondermarke 100 Jahre Verein Deutscher Ingenieure (VDI)",
+          "wikidata": "Q26044156"
+        }
+      ]
+    },
+    {
+      "mi_nr": "139",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-05-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "100 Jahre Verein Deutscher Ingenieure (VDI)",
+      "bild_beschreibung": "das Logo des VDI und ein Lorbeerzweig",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 2500000,
+      "commons_datei": "DBPB 1956 139 VDI.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sondermarke 100 Jahre Verein Deutscher Ingenieure (VDI)",
+          "beschriftung": "100 Jahre Verein Deutscher Ingenieure (VDI)",
+          "haupt": true,
+          "artikel": "Sondermarke 100 Jahre Verein Deutscher Ingenieure (VDI)",
+          "wikidata": "Q26044156"
+        }
+      ]
+    },
+    {
+      "mi_nr": "155",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-09",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Berlinhilfe für die Hochwassergeschädigten",
+      "bild_beschreibung": "Freiheitsglocke (entspricht MiNr. 77, 1951, in anderer Farbe und mit Aufdruck); Zuschlagmarke",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1500000,
+      "commons_datei": "DBPB 1956 155 Hochwassergeschädigte.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hochwasser",
+          "beschriftung": "Hochwasser",
+          "haupt": true,
+          "artikel": "Hochwasser",
+          "wikidata": "Q8068"
+        },
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": false,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        }
+      ]
+    },
+    {
+      "mi_nr": "156",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "10. Todestag von Paul Lincke (1866–1946)",
+      "bild_beschreibung": "Komponist",
+      "entwerfer": "Leon Schnell",
+      "auflage": 2000000,
+      "commons_datei": "DBP-B Paul Linke 20 Pf 1956.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Lincke",
+          "beschriftung": "Paul Lincke",
+          "haupt": true,
+          "artikel": "Paul Lincke",
+          "wikidata": "Q712729"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "157",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Deutsche Industrieausstellung",
+      "bild_beschreibung": "Antennenmasten der Funkstelle Berlin-Nikolassee",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 1500000,
+      "commons_datei": "DBPB 1956 157 Deutsche Industrieausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Nikolassee",
+          "beschriftung": "Berlin-Nikolassee",
+          "haupt": true,
+          "artikel": "Berlin-Nikolassee",
+          "wikidata": "Q576653"
+        }
+      ]
+    },
+    {
+      "mi_nr": "158",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-26",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Brandenburgischer Postreiter um 1700; Zuschlag für die Philatelie",
+      "entwerfer": "Helmcke",
+      "auflage": 1500000,
+      "commons_datei": "DBPB 1956 158 Postreiter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Mark Brandenburg",
+          "beschriftung": "Brandenburgischer",
+          "haupt": false,
+          "artikel": "Mark Brandenburg",
+          "wikidata": "Q148499"
+        },
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": false,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        },
+        {
+          "titel": "Philatelie",
+          "beschriftung": "Philatelie",
+          "haupt": false,
+          "artikel": "Philatelie",
+          "wikidata": "Q131026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "135",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-03-01",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Berliner Funkturm",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 2000000,
+      "commons_datei": "DBPB 1956 135 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Funkturm",
+          "beschriftung": "Berliner Funkturm",
+          "haupt": true,
+          "artikel": "Berliner Funkturm",
+          "wikidata": "Q699724"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "140",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1957-02-23",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 20700000,
+      "commons_datei": "DBPB 1956 140 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "141",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1957-02-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Landespostdirektion Berlin",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 50160000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": true,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "142",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-10-05",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Berliner Funkturm",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 54500000,
+      "commons_datei": "DBPB 1956 142 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": true,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "143",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-06-22",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Rathaus Neukölln",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 26600000,
+      "commons_datei": "DBPB 1956 143 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bezirk Neukölln",
+          "beschriftung": "Neukölln",
+          "haupt": true,
+          "artikel": "Bezirk Neukölln",
+          "wikidata": "Q4071168"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "144",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-07-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Kaiser-Wilhelm-Gedächtniskirche",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 339630000,
+      "commons_datei": "DBPB 1956 144 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "145",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-07-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Luftbrückendenkmal",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 53420000,
+      "commons_datei": "DBPB 1956 145 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftbrückendenkmal",
+          "beschriftung": "Luftbrückendenkmal",
+          "haupt": true,
+          "artikel": "Luftbrückendenkmal",
+          "wikidata": "Q878229"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "146",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-07-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Henry-Ford-Bau der Freien Universität Berlin, Dahlem",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 81980000,
+      "commons_datei": "DBPB 1956 146 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Henry-Ford-Bau",
+          "beschriftung": "Henry-Ford-Bau",
+          "haupt": true,
+          "artikel": "Henry-Ford-Bau",
+          "wikidata": "Q14906806"
+        },
+        {
+          "titel": "Freie Universität Berlin",
+          "beschriftung": "Freien Universität Berlin",
+          "haupt": false,
+          "artikel": "Freie Universität Berlin",
+          "wikidata": "Q153006"
+        },
+        {
+          "titel": "Berlin-Dahlem",
+          "beschriftung": "Dahlem",
+          "haupt": false,
+          "artikel": "Berlin-Dahlem",
+          "wikidata": "Q700541"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "147",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-08-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Otto-Lilienthal-Denkmal in Lichterfelde",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 51460000,
+      "commons_datei": "DBPB 1956 147 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Otto-Lilienthal-Denkmal",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Berlin-Lichterfelde",
+          "beschriftung": "Lichterfelde",
+          "haupt": false,
+          "artikel": "Berlin-Lichterfelde",
+          "wikidata": "Q155211"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "148",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1957-11-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Schloss Pfaueninsel",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 10730000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Pfaueninsel",
+          "beschriftung": "Schloss Pfaueninsel",
+          "haupt": true,
+          "artikel": "Schloss Pfaueninsel",
+          "wikidata": "Q1229920"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "149",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1957-07-30",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Schloss Charlottenburg",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 11365000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schloss Charlottenburg",
+          "haupt": true,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "150",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-10-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Kraftwerk Reuter",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heizkraftwerk Reuter",
+          "beschriftung": "Kraftwerk Reuter",
+          "haupt": true,
+          "artikel": "Heizkraftwerk Reuter",
+          "wikidata": "Q1601491"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "151",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1957-11-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Industrie- und Handelskammer und Börse",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 13830000,
+      "commons_datei": "DBPB 1956 151 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Industrie- und Handelskammer",
+          "beschriftung": "Industrie- und Handelskammer",
+          "haupt": true,
+          "artikel": "Industrie- und Handelskammer",
+          "wikidata": "Q897399"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "152",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-10-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Schillertheater",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 14250000,
+      "commons_datei": "DBPB 1956 152 Berliner Stadtbilder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schillertheater (Berlin)",
+          "beschriftung": "Schillertheater",
+          "haupt": true,
+          "artikel": "Schillertheater (Berlin)",
+          "wikidata": "Q32487"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "153",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1956-11-10",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Reiterstandbild des Großen Kurfürsten",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 11865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reiterstandbild des Großen Kurfürsten",
+          "beschriftung": "Reiterstandbild",
+          "haupt": true,
+          "artikel": "Reiterstandbild des Großen Kurfürsten",
+          "wikidata": "Q21130084"
+        },
+        {
+          "titel": "Friedrich Wilhelm (Brandenburg)",
+          "beschriftung": "Großen Kurfürsten",
+          "haupt": false,
+          "artikel": "Friedrich Wilhelm (Brandenburg)",
+          "wikidata": "Q152727"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "154",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1958-04-26",
+      "wert": "3 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Kongresshalle",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 2420000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kongresshalle (Berlin-Tiergarten)",
+          "beschriftung": "Kongresshalle",
+          "haupt": true,
+          "artikel": "Kongresshalle (Berlin-Tiergarten)",
+          "wikidata": "Q895566"
+        },
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        }
+      ]
+    }
+  ]
+}

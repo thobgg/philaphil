@@ -1,0 +1,726 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1985,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1985 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1985_der_Deutschen_Bundespost_Berlin",
+    "revision": 258068366,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 730,
+    "mi_nr_bis": 749,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "730",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Bettina von Arnim",
+      "bild_beschreibung": "Radierung von Ludwig Emil Grimm",
+      "entwerfer": "Bernd Görs",
+      "auflage": 11550000,
+      "commons_datei": "Stamps of Germany (Berlin) 1985, MiNr 730.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bettina von Arnim",
+          "beschriftung": "Bettina von Arnim",
+          "haupt": true,
+          "artikel": "Bettina von Arnim",
+          "wikidata": "Q57236"
+        },
+        {
+          "titel": "Radierung",
+          "beschriftung": "Radierung",
+          "haupt": false,
+          "artikel": "Radierung",
+          "wikidata": "Q186986"
+        },
+        {
+          "titel": "Ludwig Emil Grimm",
+          "beschriftung": "Ludwig Emil Grimm",
+          "haupt": false,
+          "artikel": "Ludwig Emil Grimm",
+          "wikidata": "Q558766"
+        }
+      ]
+    },
+    {
+      "mi_nr": "731",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Wilhelm von Humboldt",
+      "bild_beschreibung": "Marmorskulptur von Paul Otto",
+      "entwerfer": "Bernd Görs",
+      "auflage": 7600000,
+      "commons_datei": "Stamps of Germany (Berlin) 1985, MiNr 731.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm von Humboldt",
+          "beschriftung": "Wilhelm von Humboldt",
+          "haupt": true,
+          "artikel": "Wilhelm von Humboldt",
+          "wikidata": "Q77888"
+        },
+        {
+          "titel": "Skulptur",
+          "beschriftung": "Marmorskulptur",
+          "haupt": false,
+          "artikel": "Skulptur",
+          "wikidata": "Q860861"
+        },
+        {
+          "titel": "Paul Otto (Bildhauer)",
+          "beschriftung": "Paul Otto",
+          "haupt": false,
+          "artikel": "Paul Otto (Bildhauer)",
+          "wikidata": "Q1757353"
+        }
+      ]
+    },
+    {
+      "mi_nr": "732",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1985",
+      "bild_beschreibung": "Basketball-Europameisterschaft der Männer,; in Stuttgart, Leverkusen und Karlsruhe",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 3170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Basketball-Europameisterschaft",
+          "beschriftung": "Basketball-Europameisterschaft",
+          "haupt": true,
+          "artikel": "Basketball-Europameisterschaft",
+          "wikidata": "Q193141"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        },
+        {
+          "titel": "Leverkusen",
+          "beschriftung": "Leverkusen",
+          "haupt": false,
+          "artikel": "Leverkusen",
+          "wikidata": "Q2938"
+        },
+        {
+          "titel": "Karlsruhe",
+          "beschriftung": "Karlsruhe",
+          "haupt": false,
+          "artikel": "Karlsruhe",
+          "wikidata": "Q1040"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "733",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1985",
+      "bild_beschreibung": "50 Jahre Deutscher Tischtennis-Bund (DTTB)",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Tischtennis-Bund",
+          "beschriftung": "Deutscher Tischtennis-Bund",
+          "haupt": true,
+          "artikel": "Deutscher Tischtennis-Bund",
+          "wikidata": "Q1205398"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "734",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bundesgartenschau",
+      "bild_beschreibung": "Emblem der Bundesgartenschau in Berlin",
+      "entwerfer": "Bernd Görs",
+      "auflage": 8175000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesgartenschau",
+          "beschriftung": "Bundesgartenschau",
+          "haupt": true,
+          "artikel": "Bundesgartenschau",
+          "wikidata": "Q643918"
+        }
+      ]
+    },
+    {
+      "mi_nr": "735",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1985: Historische Fahrräder und Symbol des Internationalen Jahr des Kindes",
+      "bild_beschreibung": "Büssing-Rad (1868)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Büssing",
+          "beschriftung": "Büssing",
+          "haupt": true,
+          "artikel": "Heinrich Büssing",
+          "wikidata": "Q326500"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationalen Jahr des Kindes",
+          "haupt": false,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "736",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1985: Historische Fahrräder und Symbol des Internationalen Jahr des Kindes",
+      "bild_beschreibung": "Kinderdreirad (1885)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2390000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dreirad",
+          "beschriftung": "Kinderdreirad",
+          "haupt": true,
+          "artikel": "Dreirad",
+          "wikidata": "Q536135"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationalen Jahr des Kindes",
+          "haupt": false,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "737",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1985: Historische Fahrräder und Symbol des Internationalen Jahr des Kindes",
+      "bild_beschreibung": "Jaray-Rad (1925)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2410000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul Jaray",
+          "beschriftung": "Jaray",
+          "haupt": true,
+          "artikel": "Paul Jaray",
+          "wikidata": "Q1036255"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationalen Jahr des Kindes",
+          "haupt": false,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "738",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1985: Historische Fahrräder und Symbol des Internationalen Jahr des Kindes",
+      "bild_beschreibung": "Opel-Rennrad (1925)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2380000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opel",
+          "beschriftung": "Opel",
+          "haupt": true,
+          "artikel": "Opel",
+          "wikidata": "Q40966"
+        },
+        {
+          "titel": "Rennrad",
+          "beschriftung": "Rennrad",
+          "haupt": false,
+          "artikel": "Rennrad",
+          "wikidata": "Q948482"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationalen Jahr des Kindes",
+          "haupt": false,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Otto Klemperer",
+      "bild_beschreibung": "",
+      "entwerfer": "Bernd Görs",
+      "auflage": 6100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto Klemperer",
+          "beschriftung": "Otto Klemperer",
+          "haupt": true,
+          "artikel": "Otto Klemperer",
+          "wikidata": "Q155136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "740",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Berliner Börse",
+      "bild_beschreibung": "",
+      "entwerfer": "Bernd Görs",
+      "auflage": 9580000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Börse Berlin",
+          "beschriftung": "Berliner Börse",
+          "haupt": true,
+          "artikel": "Börse Berlin",
+          "wikidata": "Q571760"
+        }
+      ]
+    },
+    {
+      "mi_nr": "741",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin (IFA)",
+      "bild_beschreibung": "50 Jahre Deutscher Fernsehrundfunk, Fernsehkamera und Fernsehempfänger „FE 3“ (1935)",
+      "entwerfer": "Bernd Görs",
+      "auflage": 6100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Geschichte des Fernsehens",
+          "beschriftung": "50 Jahre Deutscher Fernsehrundfunk",
+          "haupt": false,
+          "artikel": "Geschichte des Fernsehens",
+          "wikidata": "Q1517344"
+        },
+        {
+          "titel": "Videokamera",
+          "beschriftung": "Fernsehkamera",
+          "haupt": false,
+          "artikel": "Videokamera",
+          "wikidata": "Q313614"
+        },
+        {
+          "titel": "Fernseher",
+          "beschriftung": "Fernsehempfänger",
+          "haupt": false,
+          "artikel": "Fernsehgerät",
+          "wikidata": "Q8075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "742",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltkongress der Internationalen Gesellschaft für Gynäkologie und Geburtskunde (FIGO) in Berlin",
+      "bild_beschreibung": "FIGO-Emblem",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 6575000,
+      "commons_datei": "Stamps of Germany (Berlin) 1985, MiNr 742.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "FIGO",
+          "beschriftung": "Internationalen Gesellschaft für Gynäkologie und Geburtskunde (FIGO)",
+          "haupt": true,
+          "artikel": "FIGO",
+          "wikidata": "Q683972"
+        }
+      ]
+    },
+    {
+      "mi_nr": "743",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Jahrestag des Edikts von Potsdam",
+      "bild_beschreibung": "Kurfürstlich Brandenburgisches Siegel und Titel des Edikts",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 10075000,
+      "commons_datei": "Stamps of Germany (Berlin) 1985, MiNr 743.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Edikt von Potsdam",
+          "beschriftung": "Edikts von Potsdam",
+          "haupt": true,
+          "artikel": "Edikt von Potsdam",
+          "wikidata": "Q819756"
+        },
+        {
+          "titel": "Mark Brandenburg",
+          "beschriftung": "Kurfürstlich Brandenburgisches",
+          "haupt": false,
+          "artikel": "Mark Brandenburg",
+          "wikidata": "Q148499"
+        },
+        {
+          "titel": "Siegel",
+          "beschriftung": "Siegel",
+          "haupt": false,
+          "artikel": "Siegel",
+          "wikidata": "Q162919"
+        }
+      ]
+    },
+    {
+      "mi_nr": "744",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1985: Miniaturen",
+      "bild_beschreibung": "Streublumen, Beeren, Vögel und Insekten nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 9490000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Millefleurs",
+          "beschriftung": "Streublumen",
+          "haupt": true,
+          "artikel": "Millefleurs",
+          "wikidata": "Q1579277"
+        },
+        {
+          "titel": "Beere",
+          "beschriftung": "Beere",
+          "haupt": false,
+          "artikel": "Beere",
+          "wikidata": "Q13184"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        },
+        {
+          "titel": "Insekten",
+          "beschriftung": "Insekten",
+          "haupt": false,
+          "artikel": "Insekten",
+          "wikidata": "Q1390"
+        },
+        {
+          "titel": "Bordüre",
+          "beschriftung": "Bordüre",
+          "haupt": false,
+          "artikel": "Bordüre",
+          "wikidata": "Q365980"
+        },
+        {
+          "titel": "mittelalter",
+          "beschriftung": "mittelalter",
+          "haupt": false,
+          "artikel": "Mittelalter",
+          "wikidata": "Q12554"
+        },
+        {
+          "titel": "Gebetbuch",
+          "beschriftung": "Gebetbuch",
+          "haupt": false,
+          "artikel": "Gebetbuch",
+          "wikidata": "Q1496857"
+        },
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniaturen",
+          "haupt": false,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1985: Miniaturen",
+      "bild_beschreibung": "Streublumen, Beeren, Vögel und Insekten nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniaturen",
+          "haupt": true,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "746",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1985: Miniaturen",
+      "bild_beschreibung": "Streublumen, Beeren, Vögel und Insekten nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 11340000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniaturen",
+          "haupt": true,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1985: Miniaturen",
+      "bild_beschreibung": "Streublumen, Beeren, Vögel und Insekten nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 3970000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniaturen",
+          "haupt": true,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Kurt Tucholsky",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 6575000,
+      "commons_datei": "Stamps of Germany (Berlin) 1985, MiNr 748.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kurt Tucholsky",
+          "beschriftung": "Kurt Tucholsky",
+          "haupt": true,
+          "artikel": "Kurt Tucholsky",
+          "wikidata": "Q57386"
+        }
+      ]
+    },
+    {
+      "mi_nr": "749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarken 1985",
+      "bild_beschreibung": "Anbetung der Könige, Mitteltafel des Dreikönigsaltars von Hans Baldung",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 6530000,
+      "commons_datei": "Stamps of Germany (Berlin) 1985, MiNr 749.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarken",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": false,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Hans Baldung",
+          "beschriftung": "Hans Baldung",
+          "haupt": false,
+          "artikel": "Hans Baldung",
+          "wikidata": "Q164696"
+        }
+      ]
+    }
+  ]
+}

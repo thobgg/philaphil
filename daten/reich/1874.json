@@ -1,0 +1,54 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1874,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1874 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1874_der_Deutschen_Reichspost",
+    "revision": 248969830,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 29,
+    "mi_nr_bis": 30,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "29",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1874-01-01",
+      "wert": "2 ½",
+      "waehrung": "Gr",
+      "gueltig_bis": "1875-12-31",
+      "anlass": "großer Brustschild, Groschen mit Aufdruck",
+      "bild_beschreibung": "",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1874 29 gr Brustschild Aufdruck 2 1-2 Groschen.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "30",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1874-01-01",
+      "wert": "9",
+      "waehrung": "Kr",
+      "gueltig_bis": "1874-12-31",
+      "anlass": "großer Brustschild, Kreuzer mit Aufdruck",
+      "bild_beschreibung": "",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1874 30 gr Brustschild Aufdruck 9 Kreuzer.jpg",
+      "satz": false,
+      "themen": []
+    }
+  ]
+}

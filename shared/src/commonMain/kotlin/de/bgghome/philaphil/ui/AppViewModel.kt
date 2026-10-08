@@ -13,6 +13,7 @@ import de.bgghome.philaphil.daten.Ordner
 import de.bgghome.philaphil.daten.OrdnerDatei
 import de.bgghome.philaphil.daten.Sammlung
 import de.bgghome.philaphil.EINSTELLUNG_SAMMLUNG
+import de.bgghome.philaphil.db.Gebiete
 import de.bgghome.philaphil.db.Jahrgaenge
 import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.db.Quelle
@@ -48,6 +49,8 @@ data class AppZustand(
     val fehler: String? = null,
     val gebiet: String = "Bund",
     val jahr: Long = 1979,
+    /** Alle Sammelgebiete (Bund, Berlin, DDR, Reich …) in der Reihenfolge von daten/gebiete.json. */
+    val gebiete: List<Gebiete> = emptyList(),
     /** Alle Jahrgaenge im Katalog, zum Blaettern. */
     val jahrgaenge: List<Jahrgaenge> = emptyList(),
     /** Die Marken des Jahrgangs. */
@@ -87,10 +90,13 @@ data class AppZustand(
         }
     }
     val hauptthema: MarkenThema? get() = themen.firstOrNull { it.haupt }
-    private val jahrIndex: Int get() = jahrgaenge.indexOfFirst { it.gebiet == gebiet && it.jahr == jahr }
-    val aktuellerJahrgang: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex)
-    val voriger: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex - 1)
-    val naechster: Jahrgaenge? get() = jahrgaenge.getOrNull(jahrIndex + 1)
+    /** Blaettern bleibt im Gebiet: nach Bund 1949 kommt nicht Berlin 1990. */
+    private val imGebiet: List<Jahrgaenge> get() = jahrgaenge.filter { it.gebiet == gebiet }
+    private val jahrIndex: Int get() = imGebiet.indexOfFirst { it.jahr == jahr }
+    val aktuellerJahrgang: Jahrgaenge? get() = imGebiet.getOrNull(jahrIndex)
+    val voriger: Jahrgaenge? get() = if (jahrIndex > 0) imGebiet[jahrIndex - 1] else null
+    val naechster: Jahrgaenge? get() = imGebiet.getOrNull(jahrIndex + 1)
+    val gebietAnzeige: String get() = gebiete.firstOrNull { it.name == gebiet }?.anzeige ?: gebiet
     fun bild(marke: Marke?): BildInfo? = marke?.commons_datei?.let { bilder[it] }
     fun eigene(marke: Marke?): List<OrdnerDatei> = marke?.let { eigeneBilder[it.gebiet to it.mi_nr] }.orEmpty()
     fun bestandText(marke: Marke): String? = bestand[marke.gebiet to marke.mi_nr]
@@ -101,7 +107,7 @@ data class AppZustand(
 }
 
 /** @param startMiNr Marke, die nach dem Laden gleich geoeffnet wird (Desktop: Aufruf mit --minr 1031). */
-class AppViewModel(val plattform: Plattform, private val startMiNr: String? = null) : ViewModel() {
+class AppViewModel(val plattform: Plattform, private val startMiNr: String? = null, private val startGebiet: String? = null) : ViewModel() {
     private val _zustand = MutableStateFlow(AppZustand())
     val zustand: StateFlow<AppZustand> = _zustand
 
@@ -119,13 +125,18 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 val k = Katalog.oeffnen(plattform.datenOrdner).also { katalog = it }
                 val s = withContext(Dispatchers.IO) { Sammlung(plattform.datenOrdner, ordner, plattform.einstellungen) }.also { sammlung = it }
                 val jahrgaenge = withContext(Dispatchers.IO) { k.jahrgaenge }
+                val gebiete = withContext(Dispatchers.IO) { k.gebiete }
+                eigene.kuerzel = gebiete.associate { it.dateiname.lowercase() to it.name }
                 val bestand = withContext(Dispatchers.IO) { s.uebersicht() }
                 val scans = withContext(Dispatchers.IO) { eigene.einlesen() }
-                _zustand.update { it.copy(jahrgaenge = jahrgaenge, bestand = bestand, eigeneBilder = scans, sammlungsordner = ordner.anzeige) }
-                // Zuletzt gesehener Jahrgang, sonst der Pilot 1979
-                val jahr = plattform.einstellungen.lesen("jahr")?.toLongOrNull()?.takeIf { j -> jahrgaenge.any { it.jahr == j } } ?: _zustand.value.jahr
-                jahrgangLaden(_zustand.value.gebiet, jahr)
+                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, sammlungsordner = ordner.anzeige) }
+                // Zuletzt gesehener Jahrgang, sonst Bund 1979
+                val gebiet = plattform.einstellungen.lesen("gebiet")?.takeIf { g -> jahrgaenge.any { it.gebiet == g } } ?: _zustand.value.gebiet
+                val jahr = plattform.einstellungen.lesen("jahr")?.toLongOrNull()?.takeIf { j -> jahrgaenge.any { it.gebiet == gebiet && it.jahr == j } }
+                    ?: jahrgaenge.firstOrNull { it.gebiet == gebiet }?.jahr ?: _zustand.value.jahr
+                jahrgangLaden(gebiet, jahr)
                 startMiNr?.let { nr -> _zustand.value.jahrgang.firstOrNull { it.mi_nr == nr }?.let(::waehlen) }
+                startGebiet?.let { g -> _zustand.value.jahrgaenge.firstOrNull { it.gebiet == g }?.let(::jahrgangWaehlen) }
             } catch (e: Exception) {
                 _zustand.update { it.copy(laedt = false, fehler = e.message ?: e.toString()) }
             }
@@ -138,6 +149,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         val quelle = withContext(Dispatchers.IO) { k.quelle(gebiet, jahr) }
         _zustand.update { it.copy(laedt = false, gebiet = gebiet, jahr = jahr, jahrgang = marken, quelle = quelle) }
         plattform.einstellungen.schreiben("jahr", jahr.toString())
+        plattform.einstellungen.schreiben("gebiet", gebiet)
         bilderNachladen(marken)
     }
 

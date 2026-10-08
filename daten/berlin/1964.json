@@ -1,0 +1,626 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1964,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1964 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1964_der_Deutschen_Bundespost_Berlin",
+    "revision": 251520743,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 233,
+    "mi_nr_bis": 249,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "233",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "700 Jahre Schöneberg",
+      "bild_beschreibung": "Schöneberger Rathaus",
+      "entwerfer": "Lothar Wüst",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Schöneberg",
+          "beschriftung": "Schöneberg",
+          "haupt": true,
+          "artikel": "Berlin-Schöneberg",
+          "wikidata": "Q313189"
+        },
+        {
+          "titel": "Schöneberger Rathaus",
+          "beschriftung": "Schöneberger Rathaus",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "234",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wiederwahl des Bundespräsidenten Heinrich Lübke",
+      "bild_beschreibung": "Heinrich Lübke (1894–1972)",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 10000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1964, MiNr 234.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": false,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "235",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wiederwahl des Bundespräsidenten Heinrich Lübke",
+      "bild_beschreibung": "Heinrich Lübke (1894–1972)",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 7600000,
+      "commons_datei": "Stamps of Germany (Berlin) 1964, MiNr 235.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": false,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "236",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Serie: Hauptstädte der Länder der Bundesrepublik Deutschland: Berlin",
+      "bild_beschreibung": "Berliner Reichstag",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstag",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        }
+      ]
+    },
+    {
+      "mi_nr": "237",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken 1964: Märchen der Brüder Grimm: Dornröschen",
+      "bild_beschreibung": "die böse Fee spricht einen Fluch über Dornröschen",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 4426000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "238",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken 1964: Märchen der Brüder Grimm: Dornröschen",
+      "bild_beschreibung": "die böse Fee animiert Dornröschen zum Spinnen, so dass sie sich steche und den Fluch erfülle",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 3158000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "239",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken 1964: Märchen der Brüder Grimm: Dornröschen",
+      "bild_beschreibung": "nach 100 Jahren schlägt sich ein Prinz durch die Dornenhecke und erlöst Dornröschen",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 3111000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "240",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken 1964: Märchen der Brüder Grimm: Dornröschen",
+      "bild_beschreibung": "alle im Schloss wachen auf",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 3073000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "241",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-21",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Erster Todestag von John F. Kennedy",
+      "bild_beschreibung": "John F. Kennedy, Präsident der Vereinigten Staaten",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1964 241 John F. Kennedy.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "John F. Kennedy",
+          "beschriftung": "John F. Kennedy",
+          "haupt": true,
+          "artikel": "John F. Kennedy",
+          "wikidata": "Q9696"
+        },
+        {
+          "titel": "Präsident der Vereinigten Staaten",
+          "beschriftung": "Präsident der Vereinigten Staaten",
+          "haupt": false,
+          "artikel": "Präsident der Vereinigten Staaten",
+          "wikidata": "Q11696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "242",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Wallpavillon des Dresdner Zwingers",
+      "entwerfer": "Otto Rohse",
+      "auflage": 145000000,
+      "commons_datei": "DBPB 1964 242 Bauwerke Dresdner Zwinger.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wallpavillon",
+          "beschriftung": "Wallpavillon",
+          "haupt": true,
+          "artikel": "Wallpavillon",
+          "wikidata": "Q1496790"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwingers",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "243",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Schloss Tegel",
+      "entwerfer": "Otto Rohse",
+      "auflage": 25000000,
+      "commons_datei": "DBPB 1964 243 Bauwerke Schloss Tegel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": true,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "244",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Torhalle Lorsch",
+      "entwerfer": "Otto Rohse",
+      "auflage": 71000000,
+      "commons_datei": "DBPB 1964 244 Bauwerke Torhalle Lorsch.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Torhalle Lorsch",
+          "beschriftung": "Torhalle Lorsch",
+          "haupt": true,
+          "artikel": "Torhalle Lorsch",
+          "wikidata": "Q1131741"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "245",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Die Pfälzer Burg Trifels",
+      "entwerfer": "Otto Rohse",
+      "auflage": 30000000,
+      "commons_datei": "DBPB 1964 245 Bauwerke Burg Trifels.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pfalz (Region)",
+          "beschriftung": "Pfälzer",
+          "haupt": true,
+          "artikel": "Pfalz (Region)",
+          "wikidata": "Q326359"
+        },
+        {
+          "titel": "Reichsburg Trifels",
+          "beschriftung": "Trifels",
+          "haupt": false,
+          "artikel": "Reichsburg Trifels",
+          "wikidata": "Q559202"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "246",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Das Schlosstor in Ellwangen (Jagst)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1964 246 Bauwerke Schlosstor Ellwangen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss ob Ellwangen",
+          "beschriftung": "Schlosstor",
+          "haupt": true,
+          "artikel": "Schloss ob Ellwangen",
+          "wikidata": "Q2244356"
+        },
+        {
+          "titel": "Ellwangen (Jagst)",
+          "beschriftung": "Ellwangen (Jagst)",
+          "haupt": false,
+          "artikel": "Ellwangen (Jagst)",
+          "wikidata": "Q163973"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "247",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Treptower Tor in Neubrandenburg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6000000,
+      "commons_datei": "DBPB 1964 247 Bauwerke Treptower Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Treptower Tor",
+          "beschriftung": "Treptower Tor",
+          "haupt": true,
+          "artikel": "Treptower Tor",
+          "wikidata": "Q2451781"
+        },
+        {
+          "titel": "Neubrandenburg",
+          "beschriftung": "Neubrandenburg",
+          "haupt": false,
+          "artikel": "Neubrandenburg",
+          "wikidata": "Q3958"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "248",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-05-29",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Osthofentor, Soest",
+      "entwerfer": "Otto Rohse",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1964 248 Bauwerke Osthofentor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Osthofentor",
+          "beschriftung": "Osthofentor",
+          "haupt": true,
+          "artikel": "Osthofentor",
+          "wikidata": "Q2035602"
+        },
+        {
+          "titel": "Soest",
+          "beschriftung": "Soest",
+          "haupt": false,
+          "artikel": "Soest",
+          "wikidata": "Q6149"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "249",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Ellinger Tor Weißenburg in Bayern",
+      "entwerfer": "Otto Rohse",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1964 249 Bauwerke Ellinger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ellinger Tor",
+          "beschriftung": "Ellinger Tor",
+          "haupt": true,
+          "artikel": "Ellinger Tor",
+          "wikidata": "Q49597"
+        },
+        {
+          "titel": "Weißenburg in Bayern",
+          "beschriftung": "Weißenburg in Bayern",
+          "haupt": false,
+          "artikel": "Weißenburg in Bayern",
+          "wikidata": "Q44500"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    }
+  ]
+}

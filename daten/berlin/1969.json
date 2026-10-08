@@ -1,0 +1,885 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1969,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1969 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1969_der_Deutschen_Bundespost_Berlin",
+    "revision": 259731313,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 326,
+    "mi_nr_bis": 352,
+    "luecken": [],
+    "ausreisser": [
+      284
+    ],
+    "sondermarken_gezaehlt": 27,
+    "sondermarken_laut_einleitung": 23
+  },
+  "marken": [
+    {
+      "mi_nr": "326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Für die Jugend 1969: Pferde",
+      "bild_beschreibung": "Pony; Zuschlagmarke",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 2662000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pony (Pferd)",
+          "beschriftung": "Pony",
+          "haupt": true,
+          "artikel": "Pony (Pferd)",
+          "wikidata": "Q188828"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Für die Jugend 1969: Pferde",
+      "bild_beschreibung": "Kaltblut",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 2722000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaltblüter (Pferd)",
+          "beschriftung": "Kaltblut",
+          "haupt": true,
+          "artikel": "Kaltblüter (Pferd)",
+          "wikidata": "Q1513036"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Für die Jugend 1969: Pferde",
+      "bild_beschreibung": "Warmblut",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 2603000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Warmblüter (Pferd)",
+          "beschriftung": "Warmblut",
+          "haupt": true,
+          "artikel": "Warmblüter (Pferd)",
+          "wikidata": "Q2300748"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Für die Jugend 1969: Pferde",
+      "bild_beschreibung": "Vollblut",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 2586000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vollblüter",
+          "beschriftung": "Vollblut",
+          "haupt": true,
+          "artikel": "Vollblüter",
+          "wikidata": "Q1609437"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-03-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Droschkenkutscher von Heinrich Zille (1858–1929)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 11420000,
+      "commons_datei": "DBPB 1969 330 Heinrich Zille Droschkenkutscher.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Droschke",
+          "beschriftung": "Droschke",
+          "haupt": true,
+          "artikel": "Droschke",
+          "wikidata": "Q535863"
+        },
+        {
+          "titel": "Heinrich Zille",
+          "beschriftung": "Heinrich Zille",
+          "haupt": false,
+          "artikel": "Heinrich Zille",
+          "wikidata": "Q498211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "331",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Zeitungsverkäufer von Christian Wilhelm Allers (1857–1915)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 20100000,
+      "commons_datei": "DBPB 1969 331 Christian Wilhelm Allers Zeitungsverkäufer.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christian Wilhelm Allers",
+          "beschriftung": "Christian Wilhelm Allers",
+          "haupt": true,
+          "artikel": "Christian Wilhelm Allers",
+          "wikidata": "Q704689"
+        }
+      ]
+    },
+    {
+      "mi_nr": "332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Pferdeomnibus von Christian Wilhelm Allers (1857–1915)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 20690000,
+      "commons_datei": "DBPB 1969 332 Christian Wilhelm Allers Pferdeomnibus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferdeomnibus",
+          "beschriftung": "Pferdeomnibus",
+          "haupt": true,
+          "artikel": "Pferdeomnibus",
+          "wikidata": "Q750164"
+        },
+        {
+          "titel": "Christian Wilhelm Allers",
+          "beschriftung": "Christian Wilhelm Allers",
+          "haupt": false,
+          "artikel": "Christian Wilhelm Allers",
+          "wikidata": "Q704689"
+        }
+      ]
+    },
+    {
+      "mi_nr": "333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Schusterjunge von Franz Krüger (1797–1857)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 10060000,
+      "commons_datei": "DBPB 1969 333 Franz Krüger Schusterjunge.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Krüger",
+          "beschriftung": "Franz Krüger",
+          "haupt": true,
+          "artikel": "Franz Krüger",
+          "wikidata": "Q568298"
+        }
+      ]
+    },
+    {
+      "mi_nr": "334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Schuster von Adolph von Menzel (1815–1905)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 15440000,
+      "commons_datei": "DBPB 1969 334 Adolph von Menzel Schuster.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schuhmacher",
+          "beschriftung": "Schuster",
+          "haupt": true,
+          "artikel": "Schuhmacher",
+          "wikidata": "Q152355"
+        },
+        {
+          "titel": "Adolph von Menzel",
+          "beschriftung": "Adolph von Menzel",
+          "haupt": false,
+          "artikel": "Adolph von Menzel",
+          "wikidata": "Q164961"
+        }
+      ]
+    },
+    {
+      "mi_nr": "335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-03-26",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Borsig-Schmiede von Paul Friedrich Meyerheim (1842–1915)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 6620000,
+      "commons_datei": "DBPB 1969 335 Paul Meyerheim Borsig-Schmiede.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Borsig (Unternehmen)",
+          "beschriftung": "Borsig-Schmiede",
+          "haupt": true,
+          "artikel": "Borsig (Unternehmen)",
+          "wikidata": "Q546769"
+        },
+        {
+          "titel": "Paul Friedrich Meyerheim",
+          "beschriftung": "Paul Friedrich Meyerheim",
+          "haupt": false,
+          "artikel": "Paul Friedrich Meyerheim",
+          "wikidata": "Q1714991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-24",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Berlinerinnen von Franz Krüger (1797–1857)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 10600000,
+      "commons_datei": "DBPB 1969 336 Franz Krüger Berlinerinnen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Krüger",
+          "beschriftung": "Franz Krüger",
+          "haupt": true,
+          "artikel": "Franz Krüger",
+          "wikidata": "Q568298"
+        }
+      ]
+    },
+    {
+      "mi_nr": "337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-03-26",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Berliner des 19. Jahrhunderts",
+      "bild_beschreibung": "Am Brandenburger Tor von Christian Wilhelm Allers (1857–1915)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 4620000,
+      "commons_datei": "DBPB 1969 337 Christian Wilhelm Allers Am Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Christian Wilhelm Allers",
+          "beschriftung": "Christian Wilhelm Allers",
+          "haupt": false,
+          "artikel": "Christian Wilhelm Allers",
+          "wikidata": "Q704689"
+        }
+      ]
+    },
+    {
+      "mi_nr": "338",
+      "block": "Block 2",
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Briefmarkenblock – 125 Jahre Berliner Zoo",
+      "bild_beschreibung": "Orang-Utan; nur als Blockausgabe",
+      "entwerfer": "Wolfgang Weber",
+      "auflage": 4500000,
+      "commons_datei": "DBPB 1969 338 Orang-Utan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Orang-Utans",
+          "beschriftung": "Orang-Utan",
+          "haupt": true,
+          "artikel": "Orang-Utans",
+          "wikidata": "Q41050"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Briefmarkenblock – 125 Jahre Berliner Zoo",
+      "bild_beschreibung": "Pelikan; nur als Blockausgabe",
+      "entwerfer": "Wolfgang Weber",
+      "auflage": 4500000,
+      "commons_datei": "DBPB 1969 339 Pelikan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pelikane",
+          "beschriftung": "Pelikan",
+          "haupt": true,
+          "artikel": "Pelikane",
+          "wikidata": "Q19413"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Briefmarkenblock – 125 Jahre Berliner Zoo",
+      "bild_beschreibung": "Gaur; nur als Blockausgabe",
+      "entwerfer": "Wolfgang Weber",
+      "auflage": 4500000,
+      "commons_datei": "DBPB 1969 340 Gaur.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gaur",
+          "beschriftung": "Gaur",
+          "haupt": true,
+          "artikel": "Gaur",
+          "wikidata": "Q174296"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Briefmarkenblock – 125 Jahre Berliner Zoo",
+      "bild_beschreibung": "Zebra; nur als Blockausgabe",
+      "entwerfer": "Wolfgang Weber",
+      "auflage": 4500000,
+      "commons_datei": "DBPB 1969 341 Zebra.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zebra",
+          "beschriftung": "Zebra",
+          "haupt": true,
+          "artikel": "Zebras",
+          "wikidata": "Q32789"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-07-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Internationaler Weltkongress der IPTT",
+      "bild_beschreibung": "Briefträger in Australien",
+      "entwerfer": "Wilde",
+      "auflage": 12000000,
+      "commons_datei": "DBPB 1969 342 IPTT Weltkongress.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Briefträger",
+          "haupt": true,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "Australien",
+          "beschriftung": "Australien",
+          "haupt": false,
+          "artikel": "Australien",
+          "wikidata": "Q408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "343",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-07-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Internationaler Weltkongress der IPTT",
+      "bild_beschreibung": "Telefonistin in Afrika",
+      "entwerfer": "Wilde",
+      "auflage": 8500000,
+      "commons_datei": "DBPB 1969 343 IPTT Weltkongress.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Telefonist",
+          "beschriftung": "Telefonist",
+          "haupt": true,
+          "artikel": "Telefonist",
+          "wikidata": "Q1261521"
+        },
+        {
+          "titel": "Afrika",
+          "beschriftung": "Afrika",
+          "haupt": false,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        }
+      ]
+    },
+    {
+      "mi_nr": "344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-07-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Internationaler Weltkongress der IPTT",
+      "bild_beschreibung": "Fernmeldetechniker in Asien",
+      "entwerfer": "Wilde",
+      "auflage": 6500000,
+      "commons_datei": "DBPB 1969 344 IPTT Weltkongress.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernmeldehandwerker",
+          "beschriftung": "Fernmeldetechniker",
+          "haupt": true,
+          "artikel": "Fernmeldehandwerker",
+          "wikidata": "Q1407003"
+        },
+        {
+          "titel": "Asien",
+          "beschriftung": "Asien",
+          "haupt": false,
+          "artikel": "Asien",
+          "wikidata": "Q48"
+        }
+      ]
+    },
+    {
+      "mi_nr": "345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-07-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Internationaler Weltkongress der IPTT",
+      "bild_beschreibung": "Luftpost-Verladekräfte in der Schweiz",
+      "entwerfer": "Wilde",
+      "auflage": 4000000,
+      "commons_datei": "DBPB 1969 345 IPTT Weltkongress.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Schweiz",
+          "beschriftung": "Schweiz",
+          "haupt": false,
+          "artikel": "Schweiz",
+          "wikidata": "Q39"
+        }
+      ]
+    },
+    {
+      "mi_nr": "346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-09-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "200. Geburtstag von Alexander von Humboldt (1769–1859)",
+      "bild_beschreibung": "auf einem Gemälde von Joseph Karl Stieler (1781–1858); Diese Ausgabe wurde zusammen mit Venezuela herausgegeben.",
+      "entwerfer": "Bundesdruckerei",
+      "auflage": 6500000,
+      "commons_datei": "DBPB 1969 346 Joseph Karl Stieler Alexander von Humboldt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alexander von Humboldt",
+          "beschriftung": "Alexander von Humboldt",
+          "haupt": true,
+          "artikel": "Alexander von Humboldt",
+          "wikidata": "Q6694"
+        },
+        {
+          "titel": "Joseph Karl Stieler",
+          "beschriftung": "Joseph Karl Stieler",
+          "haupt": false,
+          "artikel": "Joseph Karl Stieler",
+          "wikidata": "Q467658"
+        },
+        {
+          "titel": "Venezuela",
+          "beschriftung": "Venezuela",
+          "haupt": false,
+          "artikel": "Venezuela",
+          "wikidata": "Q717"
+        }
+      ]
+    },
+    {
+      "mi_nr": "347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-09-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "100 Jahre Hochschule für Musik, Berlin",
+      "bild_beschreibung": "Joseph Joachim (1831–1907); auf einem Gemälde von Adolph von Menzel (1815–1905)",
+      "entwerfer": "Bundesdruckerei",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1969 347 Adolph von Menzel Joseph Joachim.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Joseph Joachim",
+          "beschriftung": "Joseph Joachim",
+          "haupt": true,
+          "artikel": "Joseph Joachim",
+          "wikidata": "Q159976"
+        },
+        {
+          "titel": "Adolph Menzel",
+          "beschriftung": "Adolph von Menzel",
+          "haupt": false,
+          "artikel": "Adolph von Menzel",
+          "wikidata": "Q164961"
+        }
+      ]
+    },
+    {
+      "mi_nr": "348",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Wohlfahrtsmarken 1969: Zinnfiguren",
+      "bild_beschreibung": "Postwagen um 1835; Zuschlagmarken",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5523000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postwagen",
+          "haupt": true,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Wohlfahrtsmarken 1969: Zinnfiguren",
+      "bild_beschreibung": "Bäuerin um 1850",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5671000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirt",
+          "beschriftung": "Bäuerin",
+          "haupt": true,
+          "artikel": "Landwirt",
+          "wikidata": "Q131512"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Wohlfahrtsmarken 1969: Zinnfiguren",
+      "bild_beschreibung": "Marktfrau um 1850",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5699000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Markt",
+          "beschriftung": "Markt",
+          "haupt": true,
+          "artikel": "Markt",
+          "wikidata": "Q330284"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Wohlfahrtsmarken 1969: Zinnfiguren",
+      "bild_beschreibung": "Postreiter um 1860",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4375000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": true,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-11-13",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Heilige Drei Könige aus dem Morgenland; Zinnfigur um 1850, Zuschlagmarke",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5369000,
+      "commons_datei": "DBPB 1969 352 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heilige Drei Könige",
+          "beschriftung": "Heilige Drei Könige",
+          "haupt": true,
+          "artikel": "Heilige Drei Könige",
+          "wikidata": "Q51671"
+        },
+        {
+          "titel": "Morgenland",
+          "beschriftung": "Morgenland",
+          "haupt": false,
+          "artikel": "Morgenland",
+          "wikidata": "Q1947733"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "284",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1969-03-23",
+      "wert": "1,30 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Schloss Tegel",
+      "entwerfer": "Otto Rohse",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": false,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        }
+      ]
+    }
+  ]
+}

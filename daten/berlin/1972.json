@@ -1,0 +1,877 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1972,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1972 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1972_der_Deutschen_Bundespost_Berlin",
+    "revision": 261898505,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 395,
+    "mi_nr_bis": 441,
+    "luecken": [
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      405,
+      408,
+      409,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      428,
+      430,
+      433
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 17,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "418",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1972: Tierschutz",
+      "bild_beschreibung": "Keine Vogelnester ausrauben!",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 2820000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nest",
+          "beschriftung": "Vogelnester",
+          "haupt": true,
+          "artikel": "Nest",
+          "wikidata": "Q4785"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "419",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1972: Tierschutz",
+      "bild_beschreibung": "Junge Katzen nicht ertränken!",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 2752000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hauskatze",
+          "beschriftung": "Katzen",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "420",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1972: Tierschutz",
+      "bild_beschreibung": "Tiere nicht schlagen!",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 2755000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tier",
+          "beschriftung": "Tier",
+          "haupt": true,
+          "artikel": "Tier",
+          "wikidata": "Q729"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "421",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1972: Tierschutz",
+      "bild_beschreibung": "Besonders nachts auf Tiere achten!",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 2741000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": true,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "422",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Friedrich Gilly",
+      "bild_beschreibung": "",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 7500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1972, MiNr 422.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Gilly",
+          "beschriftung": "Friedrich Gilly",
+          "haupt": true,
+          "artikel": "Friedrich Gilly",
+          "wikidata": "Q62973"
+        }
+      ]
+    },
+    {
+      "mi_nr": "423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-04-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemälde: Berliner Landschaften",
+      "bild_beschreibung": "„Am Grunewaldsee“, Alexander von Riesen",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 20350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grunewaldsee",
+          "beschriftung": "Grunewaldsee",
+          "haupt": true,
+          "artikel": "Grunewaldsee",
+          "wikidata": "Q895938"
+        },
+        {
+          "titel": "Alexander von Riesen",
+          "beschriftung": "Alexander von Riesen",
+          "haupt": false,
+          "artikel": "Alexander von Riesen",
+          "wikidata": null
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-04-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemälde: Berliner Landschaften",
+      "bild_beschreibung": "„Am Wannsee“, Max Liebermann",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 10890000,
+      "commons_datei": "Stamps of Germany (Berlin) 1972, MiNr 424.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin-Wannsee",
+          "beschriftung": "Wannsee",
+          "haupt": true,
+          "artikel": "Berlin-Wannsee",
+          "wikidata": "Q1949"
+        },
+        {
+          "titel": "Max Liebermann",
+          "beschriftung": "Max Liebermann",
+          "haupt": false,
+          "artikel": "Max Liebermann",
+          "wikidata": "Q158062"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-04-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemälde: Berliner Landschaften",
+      "bild_beschreibung": "„Am Schlachtensee“, Walter Leistikow",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 10250000,
+      "commons_datei": "Stamps of Germany (Berlin) 1972, MiNr 425.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlachtensee",
+          "beschriftung": "Schlachtensee",
+          "haupt": true,
+          "artikel": "Schlachtensee",
+          "wikidata": "Q896095"
+        },
+        {
+          "titel": "Walter Leistikow",
+          "beschriftung": "Walter Leistikow",
+          "haupt": false,
+          "artikel": "Walter Leistikow",
+          "wikidata": "Q573668"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-05-18",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von E. T. A. Hoffmann",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6375000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "E. T. A. Hoffmann",
+          "beschriftung": "E. T. A. Hoffmann",
+          "haupt": true,
+          "artikel": "E. T. A. Hoffmann",
+          "wikidata": "Q150471"
+        }
+      ]
+    },
+    {
+      "mi_nr": "434",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-07-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag von Max Liebermann",
+      "bild_beschreibung": "Selbstbildnis",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 10980000,
+      "commons_datei": "Stamps of Germany (Berlin) 1972, MiNr 434.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max Liebermann",
+          "beschriftung": "Max Liebermann",
+          "haupt": true,
+          "artikel": "Max Liebermann",
+          "wikidata": "Q158062"
+        },
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": false,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        }
+      ]
+    },
+    {
+      "mi_nr": "435",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1972: Schachfiguren",
+      "bild_beschreibung": "aus der Fayencemanufaktur Gien, der „St.-Georgs-Figurensatz“; Springer",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6868000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fayence",
+          "beschriftung": "Fayence",
+          "haupt": true,
+          "artikel": "Fayence",
+          "wikidata": "Q209671"
+        },
+        {
+          "titel": "Gien",
+          "beschriftung": "Gien",
+          "haupt": false,
+          "artikel": "Gien",
+          "wikidata": "Q475599"
+        },
+        {
+          "titel": "Schachfigur",
+          "beschriftung": "Schachfigur",
+          "haupt": false,
+          "artikel": "Schachfigur",
+          "wikidata": "Q208440"
+        }
+      ]
+    },
+    {
+      "mi_nr": "436",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1972: Schachfiguren",
+      "bild_beschreibung": "Turm",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5644000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schachfigur",
+          "beschriftung": "Schachfigur",
+          "haupt": true,
+          "artikel": "Schachfigur",
+          "wikidata": "Q208440"
+        }
+      ]
+    },
+    {
+      "mi_nr": "437",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1972: Schachfiguren",
+      "bild_beschreibung": "Dame",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6221000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schachfigur",
+          "beschriftung": "Schachfigur",
+          "haupt": true,
+          "artikel": "Schachfigur",
+          "wikidata": "Q208440"
+        }
+      ]
+    },
+    {
+      "mi_nr": "438",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1972: Schachfiguren",
+      "bild_beschreibung": "König",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4074000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schachfigur",
+          "beschriftung": "Schachfigur",
+          "haupt": true,
+          "artikel": "Schachfigur",
+          "wikidata": "Q208440"
+        }
+      ]
+    },
+    {
+      "mi_nr": "439",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Farbwerk, Druckzylinder und Papierbahn einer Stichtiefdruck-Rotationsmaschine",
+      "entwerfer": "Ernst Finke",
+      "auflage": 24950000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Stichtiefdruck",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Rotationsdruck",
+          "beschriftung": "Rotationsmaschine",
+          "haupt": false,
+          "artikel": "Rotationsdruck",
+          "wikidata": "Q911814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "440",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-11-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Karl August von Hardenberg",
+      "bild_beschreibung": "Gemälde von Johann Heinrich Wilhelm Tischbein",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 9630000,
+      "commons_datei": "Stamps of Germany (Berlin) 1972, MiNr 440.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl August von Hardenberg",
+          "beschriftung": "Karl August von Hardenberg",
+          "haupt": true,
+          "artikel": "Karl August von Hardenberg",
+          "wikidata": "Q213645"
+        },
+        {
+          "titel": "Johann Heinrich Wilhelm Tischbein",
+          "beschriftung": "Johann Heinrich Wilhelm Tischbein",
+          "haupt": false,
+          "artikel": "Johann Heinrich Wilhelm Tischbein",
+          "wikidata": "Q213973"
+        }
+      ]
+    },
+    {
+      "mi_nr": "441",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-11-10",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1972",
+      "bild_beschreibung": "Die „Heilige Familie“",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 5178000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Heilige Familie",
+          "beschriftung": "Heilige Familie",
+          "haupt": false,
+          "artikel": "Heilige Familie",
+          "wikidata": "Q618057"
+        }
+      ]
+    },
+    {
+      "mi_nr": "427",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-06-20",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 36000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "395",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 6946000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "429",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-06-20",
+      "wert": "130",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 4645000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "431",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "150",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 7154000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "396",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "160",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 4342000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "432",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-09-11",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 5139000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "403",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Sturz durch defekte Leiter",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 40880000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leiter (Gerät)",
+          "beschriftung": "Leiter",
+          "haupt": true,
+          "artikel": "Leiter (Gerät)",
+          "wikidata": "Q168639"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "404",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Gefahr durch Kreissäge",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 51878000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kreissäge",
+          "beschriftung": "Kreissäge",
+          "haupt": true,
+          "artikel": "Kreissäge",
+          "wikidata": "Q1141837"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "406",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-03-08",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Sicherung durch Schutzhelm",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 48673000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schutzhelm",
+          "beschriftung": "Schutzhelm",
+          "haupt": true,
+          "artikel": "Schutzhelm",
+          "wikidata": "Q2058262"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "407",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-06-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Gefahr durch defekten Stecker",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 36052000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steckverbinder",
+          "beschriftung": "Stecker",
+          "haupt": true,
+          "artikel": "Steckverbinder",
+          "wikidata": "Q2119531"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "410",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Gefahr durch schwebende Last",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 13840000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "411",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-09-11",
+      "wert": "150",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Absperrung bei Sturzgefahr",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 6985000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    }
+  ]
+}

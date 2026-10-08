@@ -1,0 +1,182 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1875,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1875 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1875_der_Deutschen_Reichspost",
+    "revision": 269617737,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 31,
+    "mi_nr_bis": 37,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "31",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Ziffer, Krone über dem Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 31 Krone PFENNIGE.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "32",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Ziffer, Krone über dem Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 32 Krone PFENNIGE.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "33",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Adler mit Krone im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 33 Adler PFENNIGE.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "34",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Adler mit Krone im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 34 Adler PFENNIGE.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "35",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Adler mit Krone im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 35 Adler PFENNIGE.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "36",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Adler mit Krone im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 36 Adler PFENNIGE.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "37",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1875-01-01",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1900-05-31",
+      "anlass": "Für den Innendienst",
+      "bild_beschreibung": "2 Mark im horizontalen Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1875 37 Innendienst.jpg",
+      "satz": false,
+      "themen": []
+    }
+  ]
+}

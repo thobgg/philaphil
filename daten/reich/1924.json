@@ -1,0 +1,805 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1924,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1924 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1924_der_Deutschen_Reichspost",
+    "revision": 236181391,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 344,
+    "mi_nr_bis": 369,
+    "luecken": [
+      367
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 18,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 7500000,
+      "commons_datei": "DR 1924 344 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 7500000,
+      "commons_datei": "DR 1924 345 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 7500000,
+      "commons_datei": "DR 1924 346 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 7500000,
+      "commons_datei": "DR 1924 347 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "348",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 7280000,
+      "commons_datei": "DR 1924 348 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 6370000,
+      "commons_datei": "DR 1924 349 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-01-11",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-06-30",
+      "anlass": "Flugpostmarke Holztaube",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Aufseeser",
+      "auflage": 6350000,
+      "commons_datei": "DR 1924 350 Flugpost Holztaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Holztaube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        }
+      ]
+    },
+    {
+      "mi_nr": "351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-02-25",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1925-06-30",
+      "anlass": "Nothilfe, Motive aus dem Leben der heiligen Elisabeth von Moritz von Schwind",
+      "bild_beschreibung": "Die Hungrigen speisen",
+      "entwerfer": "E. Böhm",
+      "auflage": 2156217,
+      "commons_datei": "DR 1924 351 Nothilfe hl. Elisabeth.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "heiligen Elisabeth",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        },
+        {
+          "titel": "Moritz von Schwind",
+          "beschriftung": "Moritz von Schwind",
+          "haupt": false,
+          "artikel": "Moritz von Schwind",
+          "wikidata": "Q551901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-02-25",
+      "wert": "10+30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1925-06-30",
+      "anlass": "Nothilfe, Motive aus dem Leben der heiligen Elisabeth von Moritz von Schwind",
+      "bild_beschreibung": "Die Durstigen tränken",
+      "entwerfer": "E. Böhm",
+      "auflage": 2156217,
+      "commons_datei": "DR 1924 352 Nothilfe hl. Elisabeth.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "heiligen Elisabeth",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        },
+        {
+          "titel": "Moritz von Schwind",
+          "beschriftung": "Moritz von Schwind",
+          "haupt": false,
+          "artikel": "Moritz von Schwind",
+          "wikidata": "Q551901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-02-25",
+      "wert": "20+60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1925-06-30",
+      "anlass": "Nothilfe, Motive aus dem Leben der heiligen Elisabeth von Moritz von Schwind",
+      "bild_beschreibung": "Die Nackten kleiden",
+      "entwerfer": "E. Böhm",
+      "auflage": 2156217,
+      "commons_datei": "DR 1924 353 Nothilfe hl. Elisabeth.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "heiligen Elisabeth",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        },
+        {
+          "titel": "Moritz von Schwind",
+          "beschriftung": "Moritz von Schwind",
+          "haupt": false,
+          "artikel": "Moritz von Schwind",
+          "wikidata": "Q551901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-02-25",
+      "wert": "50+150",
+      "waehrung": "Pf",
+      "gueltig_bis": "1925-06-30",
+      "anlass": "Nothilfe, Motive aus dem Leben der heiligen Elisabeth von Moritz von Schwind",
+      "bild_beschreibung": "Die Kranken pflegen",
+      "entwerfer": "E. Böhm",
+      "auflage": 2156217,
+      "commons_datei": "DR 1924 354 Nothilfe hl. Elisabeth.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "heiligen Elisabeth",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        },
+        {
+          "titel": "Moritz von Schwind",
+          "beschriftung": "Moritz von Schwind",
+          "haupt": false,
+          "artikel": "Moritz von Schwind",
+          "wikidata": "Q551901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "362",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-07-31",
+      "anlass": "Heinrich von Stephan (1831–1897)",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 362 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-07-31",
+      "anlass": "Heinrich von Stephan (1831–1897)",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 363 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924",
+      "wert": "1 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Bauwerke",
+      "bild_beschreibung": "Burg Rheinstein",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 364 Bauwerke Burg Rheinstein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Rheinstein",
+          "beschriftung": "Burg Rheinstein",
+          "haupt": true,
+          "artikel": "Burg Rheinstein",
+          "wikidata": "Q573635"
+        }
+      ]
+    },
+    {
+      "mi_nr": "365",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Bauwerke",
+      "bild_beschreibung": "Alt-Köln mit Kölner Dom",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 365 Bauwerke Kölner Dom.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kölner Dom",
+          "beschriftung": "Kölner Dom",
+          "haupt": true,
+          "artikel": "Kölner Dom",
+          "wikidata": "Q4176"
+        }
+      ]
+    },
+    {
+      "mi_nr": "366",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924",
+      "wert": "3 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Bauwerke",
+      "bild_beschreibung": "Marienburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 366 Bauwerke Marienburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marienburg (Ordensburg)",
+          "beschriftung": "Marienburg",
+          "haupt": true,
+          "artikel": "Marienburg (Malbork)",
+          "wikidata": "Q71279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-10-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-07-31",
+      "anlass": "50 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan (1831–1897)",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 368 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "369",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1924-10-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1930-07-31",
+      "anlass": "50 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan (1831–1897)",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 369 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "355",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-03",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 355 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "356",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 356 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "357",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 357 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "358",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 358 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "359",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 359 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "360",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-05",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 360 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "361",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1924-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie Reichsadler",
+      "bild_beschreibung": "",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1924 361 Reichsadler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 105",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 105 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 106",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 106 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 107",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 107 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 108",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 108 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 109",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 109 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 110",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 110 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 111",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Reichsadler mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 111 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 112",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Porträt von Heinrich von Stephan mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 112 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 113",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1924-03",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-12-31",
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Porträt von Heinrich von Stephan mit Aufdruck",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR-D 1924 113 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

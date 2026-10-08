@@ -1,0 +1,214 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1903,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1903 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1903_der_Deutschen_Reichspost",
+    "revision": 259566407,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": null,
+    "mi_nr_bis": null,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "D 1",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "Rahmen der Germania-Marken Inschrift Frei durch Ablösung Nr. 21",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 1.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 2",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 2.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 3",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 3.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 4",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Preussencountingstamp1903.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 5",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 5.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 6",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 6.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 7",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 7.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 8",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1903-01-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1903-12-31",
+      "anlass": "Dienstmarken für Preußen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Dienstmarke 8.png",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    }
+  ]
+}

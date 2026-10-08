@@ -1,0 +1,849 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1973,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1973 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1973_der_Deutschen_Bundespost_Berlin",
+    "revision": 259356462,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 428,
+    "mi_nr_bis": 463,
+    "luecken": [
+      429,
+      431,
+      432,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441
+    ],
+    "ausreisser": [
+      408
+    ],
+    "sondermarken_gezaehlt": 21,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "442",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1973: Greifvögel",
+      "bild_beschreibung": "Hühnerhabicht Accipiter gentilis",
+      "entwerfer": "Günter Magnus",
+      "auflage": 2655000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Habicht",
+          "beschriftung": "Hühnerhabicht",
+          "haupt": true,
+          "artikel": "Habicht",
+          "wikidata": "Q137474876"
+        },
+        {
+          "titel": "Greifvögel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "443",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1973: Greifvögel",
+      "bild_beschreibung": "Wanderfalke Falco peregrinus",
+      "entwerfer": "Günter Magnus",
+      "auflage": 2594000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wanderfalke",
+          "beschriftung": "Wanderfalke",
+          "haupt": true,
+          "artikel": "Wanderfalke",
+          "wikidata": "Q30535"
+        },
+        {
+          "titel": "Greifvögel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "444",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1973: Greifvögel",
+      "bild_beschreibung": "Sperber Accipiter nisus",
+      "entwerfer": "Günter Magnus",
+      "auflage": 2597000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sperber (Art)",
+          "beschriftung": "Sperber",
+          "haupt": true,
+          "artikel": "Sperber (Art)",
+          "wikidata": "Q25380"
+        },
+        {
+          "titel": "Greifvögel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "445",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-02-06",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1973: Greifvögel",
+      "bild_beschreibung": "Steinadler Aquila chrysaetos",
+      "entwerfer": "Günter Magnus",
+      "auflage": 2579000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steinadler",
+          "beschriftung": "Steinadler",
+          "haupt": true,
+          "artikel": "Steinadler",
+          "wikidata": "Q41181"
+        },
+        {
+          "titel": "Greifvögel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "446",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (II): Omnibusse",
+      "bild_beschreibung": "Pferdeomnibus (1907)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 12750000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 446.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferdeomnibus",
+          "beschriftung": "Pferdeomnibus",
+          "haupt": true,
+          "artikel": "Pferdeomnibus",
+          "wikidata": "Q750164"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "447",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-09-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (II): Omnibusse",
+      "bild_beschreibung": "Obus (1933)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 12450000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 447.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Oberleitungsbus",
+          "beschriftung": "Obus",
+          "haupt": true,
+          "artikel": "Oberleitungsbus",
+          "wikidata": "Q5639"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "448",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-30",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (II): Omnibusse",
+      "bild_beschreibung": "Decksitzautobus (1919)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6900000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 448.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "449",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-09-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (II): Omnibusse",
+      "bild_beschreibung": "Doppeldeckautobus (1970)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 8050000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 449.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Büssing DE",
+          "beschriftung": "Doppeldeckautobus",
+          "haupt": true,
+          "artikel": "Büssing DE",
+          "wikidata": "Q1021799"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "450",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-04-30",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (II): Omnibusse",
+      "bild_beschreibung": "Doppeldeckautobus (1925)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 450.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "451",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-09-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (II): Omnibusse",
+      "bild_beschreibung": "Standardautobus (1973)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 451.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "VÖV-Bus",
+          "beschriftung": "Standardautobus",
+          "haupt": true,
+          "artikel": "Standard-Bus",
+          "wikidata": "Q2330200"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Omnibus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "452",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-05-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Ludwig Tieck",
+      "bild_beschreibung": "Gemälde von Carl Christian Vogel von Vogelstein",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 7650000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 452.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Tieck",
+          "beschriftung": "Ludwig Tieck",
+          "haupt": true,
+          "artikel": "Ludwig Tieck",
+          "wikidata": "Q57239"
+        },
+        {
+          "titel": "Carl Christian Vogel von Vogelstein",
+          "beschriftung": "Carl Christian Vogel von Vogelstein",
+          "haupt": false,
+          "artikel": "Carl Christian Vogel von Vogelstein",
+          "wikidata": "Q683884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "454",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-06-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Todestag von Johann Joachim Quantz",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 8500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1973, MiNr 454.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Joachim Quantz",
+          "beschriftung": "Johann Joachim Quantz",
+          "haupt": true,
+          "artikel": "Johann Joachim Quantz",
+          "wikidata": "Q77212"
+        }
+      ]
+    },
+    {
+      "mi_nr": "455",
+      "block": "Block 4",
+      "art": "Sondermarke",
+      "ausgabetag": "1973-08-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Deutscher Rundfunk",
+      "bild_beschreibung": "Trichterlautsprecher (1924), Batterieempfänger (1926)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 3875010,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lautsprecher",
+          "beschriftung": "Trichterlautsprecher",
+          "haupt": true,
+          "artikel": "Lautsprecher",
+          "wikidata": "Q570"
+        },
+        {
+          "titel": "Detektorempfänger",
+          "beschriftung": "Batterieempfänger",
+          "haupt": false,
+          "artikel": "Detektorempfänger",
+          "wikidata": "Q695140"
+        },
+        {
+          "titel": "Geschichte des Hörfunks in Deutschland",
+          "beschriftung": "Deutscher Rundfunk",
+          "haupt": false,
+          "artikel": "Geschichte des Hörfunks in Deutschland",
+          "wikidata": "Q1517364"
+        }
+      ]
+    },
+    {
+      "mi_nr": "456",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-08-23",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Deutscher Rundfunk",
+      "bild_beschreibung": "Hans Bredow, Reismikrophon (1924)",
+      "entwerfer": "Ernst Finke",
+      "auflage": 3875010,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Bredow",
+          "beschriftung": "Hans Bredow",
+          "haupt": true,
+          "artikel": "Hans Bredow",
+          "wikidata": "Q1578820"
+        },
+        {
+          "titel": "Mikrofon",
+          "beschriftung": "Reismikrophon",
+          "haupt": false,
+          "artikel": "Mikrofon",
+          "wikidata": "Q46384"
+        },
+        {
+          "titel": "Geschichte des Hörfunks in Deutschland",
+          "beschriftung": "Deutscher Rundfunk",
+          "haupt": false,
+          "artikel": "Geschichte des Hörfunks in Deutschland",
+          "wikidata": "Q1517364"
+        }
+      ]
+    },
+    {
+      "mi_nr": "457",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-08-23",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Deutscher Rundfunk",
+      "bild_beschreibung": "Mädchen vor Fernsehgerät und Video-Casettenrecorder",
+      "entwerfer": "Ernst Finke",
+      "auflage": 3875010,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernseher",
+          "beschriftung": "Fernsehgerät",
+          "haupt": true,
+          "artikel": "Fernsehgerät",
+          "wikidata": "Q8075"
+        },
+        {
+          "titel": "Videorekorder",
+          "beschriftung": "Video-Casettenrecorder",
+          "haupt": false,
+          "artikel": "Videorekorder",
+          "wikidata": "Q380616"
+        },
+        {
+          "titel": "Geschichte des Hörfunks in Deutschland",
+          "beschriftung": "Deutscher Rundfunk",
+          "haupt": false,
+          "artikel": "Geschichte des Hörfunks in Deutschland",
+          "wikidata": "Q1517364"
+        }
+      ]
+    },
+    {
+      "mi_nr": "458",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-08-23",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Deutscher Rundfunk",
+      "bild_beschreibung": "Fernsehkamera",
+      "entwerfer": "Ernst Finke",
+      "auflage": 3875010,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elektronische Kamera",
+          "beschriftung": "Fernsehkamera",
+          "haupt": true,
+          "artikel": "Elektronische Kamera",
+          "wikidata": "Q313625"
+        },
+        {
+          "titel": "Geschichte des Hörfunks in Deutschland",
+          "beschriftung": "Deutscher Rundfunk",
+          "haupt": false,
+          "artikel": "Geschichte des Hörfunks in Deutschland",
+          "wikidata": "Q1517364"
+        }
+      ]
+    },
+    {
+      "mi_nr": "459",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1973: Musikinstrumente",
+      "bild_beschreibung": "Drehleier (17. Jahrhundert)",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 6708000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Drehleier",
+          "beschriftung": "Drehleier",
+          "haupt": true,
+          "artikel": "Drehleier",
+          "wikidata": "Q207821"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "460",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1973: Musikinstrumente",
+      "bild_beschreibung": "Trommel (16. Jahrhundert)",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 5721000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Membranophon",
+          "beschriftung": "Trommel",
+          "haupt": true,
+          "artikel": "Membranophon",
+          "wikidata": "Q212892"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "461",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1973: Musikinstrumente",
+      "bild_beschreibung": "Laute (18. Jahrhundert)",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 6375000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Laute",
+          "beschriftung": "Laute",
+          "haupt": true,
+          "artikel": "Laute",
+          "wikidata": "Q180733"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "462",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-10-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1973: Musikinstrumente",
+      "bild_beschreibung": "Orgel (16. Jahrhundert)",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 4037000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Orgel",
+          "beschriftung": "Orgel",
+          "haupt": true,
+          "artikel": "Orgel",
+          "wikidata": "Q281460"
+        },
+        {
+          "titel": "Musikinstrument",
+          "beschriftung": "Musikinstrument",
+          "haupt": false,
+          "artikel": "Musikinstrument",
+          "wikidata": "Q34379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "463",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1973-11-09",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1973",
+      "bild_beschreibung": "Weihnachtsstern",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 5175000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Weihnachtsstern (Symbol)",
+          "beschriftung": "Weihnachtsstern",
+          "haupt": false,
+          "artikel": "Weihnachtsstern (Symbol)",
+          "wikidata": "Q356326"
+        }
+      ]
+    },
+    {
+      "mi_nr": "428",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 5849000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "430",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 5654000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "433",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "190",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 4635000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "408",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Nagel im Brett",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 35790000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "453",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-06-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "spielendes Kind und Auto",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 9290000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    }
+  ]
+}

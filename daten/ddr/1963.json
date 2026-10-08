@@ -1,0 +1,2570 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1963,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1963 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1963_der_Deutschen_Post_der_DDR",
+    "revision": 268129645,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 934,
+    "mi_nr_bis": 1003,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 63,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "939",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-01-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "100. Geburtstag von Pierre de Coubertin",
+      "bild_beschreibung": "Porträt Pierre de Coubertins",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 22000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pierre de Coubertin",
+          "beschriftung": "Pierre de Coubertin",
+          "haupt": true,
+          "artikel": "Pierre de Coubertin",
+          "wikidata": "Q82984"
+        }
+      ]
+    },
+    {
+      "mi_nr": "940",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-01-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "100. Geburtstag von Pierre de Coubertin",
+      "bild_beschreibung": "Olympiastadion, Athen",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Panathinaiko-Stadion",
+          "beschriftung": "Olympiastadion",
+          "haupt": true,
+          "artikel": "Panathinaiko-Stadion",
+          "wikidata": "Q208811"
+        },
+        {
+          "titel": "Athen",
+          "beschriftung": "Athen",
+          "haupt": false,
+          "artikel": "Athen",
+          "wikidata": "Q1524"
+        }
+      ]
+    },
+    {
+      "mi_nr": "941",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-01-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "VI. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED)",
+      "bild_beschreibung": "VI. Parteitagsemblem vor Roter Fahne",
+      "entwerfer": "Karl Sauer",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0941.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag",
+          "haupt": true,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Sozialistische Einheitspartei Deutschlands",
+          "beschriftung": "Sozialistischen Einheitspartei Deutschlands (SED)",
+          "haupt": false,
+          "artikel": "Sozialistische Einheitspartei Deutschlands",
+          "wikidata": "Q49750"
+        },
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "Roter Fahne",
+          "haupt": false,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "942",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Kampf gegen die Malaria",
+      "bild_beschreibung": "Schädlingsbekämpfer mit Spritzgerät vor Weltkarte",
+      "entwerfer": "Klaus Hennig, Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0942.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schädlingsbekämpfer",
+          "beschriftung": "Schädlingsbekämpfer",
+          "haupt": true,
+          "artikel": "Kammerjäger",
+          "wikidata": "Q1723161"
+        },
+        {
+          "titel": "Malaria",
+          "beschriftung": "Malaria",
+          "haupt": false,
+          "artikel": "Malaria",
+          "wikidata": "Q12156"
+        }
+      ]
+    },
+    {
+      "mi_nr": "943",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Kampf gegen die Malaria",
+      "bild_beschreibung": "Rotes Kreuz mit Äskulapstab vor Weltkarte",
+      "entwerfer": "Klaus Hennig, Dietrich Dorfstecher",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0943.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "beschriftung": "Rotes Kreuz",
+          "haupt": true,
+          "artikel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "wikidata": "Q7178"
+        },
+        {
+          "titel": "Äskulapstab",
+          "beschriftung": "Äskulapstab",
+          "haupt": false,
+          "artikel": "Äskulapstab",
+          "wikidata": "Q223377"
+        },
+        {
+          "titel": "Malaria",
+          "beschriftung": "Malaria",
+          "haupt": false,
+          "artikel": "Malaria",
+          "wikidata": "Q12156"
+        }
+      ]
+    },
+    {
+      "mi_nr": "944",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Kampf gegen die Malaria",
+      "bild_beschreibung": "Gefleckte Malariamücke (Anopheles maculipernis) im gelben Kreuz vor Weltkarte",
+      "entwerfer": "Klaus Hennig, Dietrich Dorfstecher",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0944.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Malariamücke",
+          "beschriftung": "Malariamücke",
+          "haupt": true,
+          "artikel": "Anopheles",
+          "wikidata": "Q158597"
+        },
+        {
+          "titel": "Malaria",
+          "beschriftung": "Malaria",
+          "haupt": false,
+          "artikel": "Malaria",
+          "wikidata": "Q12156"
+        }
+      ]
+    },
+    {
+      "mi_nr": "945",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Internationale Rauchwarenauktion",
+      "bild_beschreibung": "Silberfuchs (Canis vulpes)",
+      "entwerfer": "Klaus Hennig, Gerhard Stauf",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Silberfuchs",
+          "beschriftung": "Silberfuchs",
+          "haupt": true,
+          "artikel": "Rotfuchs",
+          "wikidata": "Q8332"
+        },
+        {
+          "titel": "Rauchware",
+          "beschriftung": "Rauchware",
+          "haupt": false,
+          "artikel": "Rauchwaren",
+          "wikidata": "Q108696356"
+        }
+      ]
+    },
+    {
+      "mi_nr": "946",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Internationale Rauchwarenauktion",
+      "bild_beschreibung": "Karakulschaf (Ovis ammon)",
+      "entwerfer": "Klaus Hennig, Gerhard Stauf",
+      "auflage": 1100000,
+      "commons_datei": "DDR 1963 Michel 946.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karakulschaf",
+          "beschriftung": "Karakulschaf",
+          "haupt": true,
+          "artikel": "Karakulschaf",
+          "wikidata": "Q328230"
+        },
+        {
+          "titel": "Rauchware",
+          "beschriftung": "Rauchware",
+          "haupt": false,
+          "artikel": "Rauchwaren",
+          "wikidata": "Q108696356"
+        }
+      ]
+    },
+    {
+      "mi_nr": "947",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1963",
+      "bild_beschreibung": "Barthels Hof, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0947.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Barthels Hof",
+          "beschriftung": "Barthels Hof",
+          "haupt": true,
+          "artikel": "Barthels Hof",
+          "wikidata": "Q809277"
+        },
+        {
+          "titel": "Leipziger Frühjahrsmesse",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "948",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1963",
+      "bild_beschreibung": "Neues Rathaus, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0948.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Rathaus (Leipzig)",
+          "beschriftung": "Neues Rathaus",
+          "haupt": true,
+          "artikel": "Neues Rathaus (Leipzig)",
+          "wikidata": "Q676338"
+        },
+        {
+          "titel": "Leipziger Frühjahrsmesse",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "949",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1963",
+      "bild_beschreibung": "Krochhochhaus, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0949.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krochhochhaus",
+          "beschriftung": "Krochhochhaus",
+          "haupt": true,
+          "artikel": "Krochhochhaus",
+          "wikidata": "Q1789670"
+        },
+        {
+          "titel": "Leipziger Frühjahrsmesse",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "950 (Block 18)",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-03-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Chemische Industrie (Block 18), geschnitten, 105 × 74 mm",
+      "bild_beschreibung": "Laborantin an modernen labortechnischen Anlagen",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 1100000,
+      "commons_datei": "DDR 1963 Michel 950.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnitten",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        }
+      ]
+    },
+    {
+      "mi_nr": "951 (Block 18)",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-03-12",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Chemische Industrie (Block 18), geschnitten, 105 × 74 mm",
+      "bild_beschreibung": "Destillationskolonne der Petrolchemie",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 1100000,
+      "commons_datei": "DDR 1963 Michel 951.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Destillationskolonne",
+          "beschriftung": "Destillationskolonne",
+          "haupt": true,
+          "artikel": "Rektifikationskolonne",
+          "wikidata": "Q1436074"
+        },
+        {
+          "titel": "Petrolchemie",
+          "beschriftung": "Petrolchemie",
+          "haupt": false,
+          "artikel": "Petrochemie",
+          "wikidata": "Q493630"
+        },
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnitten",
+          "haupt": false,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        }
+      ]
+    },
+    {
+      "mi_nr": "952",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-03-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Berühmte Deutsche Schriftsteller und Opernkomponisten",
+      "bild_beschreibung": "Schriftsteller Johann Gottfried Seume, Szene aus Spaziergang nach Syrakus im Jahre 1802",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": true,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Johann Gottfried Seume",
+          "beschriftung": "Johann Gottfried Seume",
+          "haupt": false,
+          "artikel": "Johann Gottfried Seume",
+          "wikidata": "Q77451"
+        },
+        {
+          "titel": "Spaziergang nach Syrakus im Jahre 1802",
+          "beschriftung": "Spaziergang nach Syrakus im Jahre 1802",
+          "haupt": false,
+          "artikel": "Johann Gottfried Seume",
+          "wikidata": "Q77451"
+        }
+      ]
+    },
+    {
+      "mi_nr": "953",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-03-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Berühmte Deutsche Schriftsteller und Opernkomponisten",
+      "bild_beschreibung": "Dichter Friedrich Hebbel, Szene aus dem Drama Maria Magdalena",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": true,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Friedrich Hebbel",
+          "beschriftung": "Friedrich Hebbel",
+          "haupt": false,
+          "artikel": "Friedrich Hebbel",
+          "wikidata": "Q57182"
+        },
+        {
+          "titel": "Drama",
+          "beschriftung": "Drama",
+          "haupt": false,
+          "artikel": "Drama",
+          "wikidata": "Q25372"
+        },
+        {
+          "titel": "Maria Magdalena (Hebbel)",
+          "beschriftung": "Maria Magdalena",
+          "haupt": false,
+          "artikel": "Maria Magdalena (Hebbel)",
+          "wikidata": "Q1896129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "954",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-03-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Berühmte Deutsche Schriftsteller und Opernkomponisten",
+      "bild_beschreibung": "Schriftsteller Georg Büchner, Szene aus dem Drama Woyzeck",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": true,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Georg Büchner",
+          "beschriftung": "Georg Büchner",
+          "haupt": false,
+          "artikel": "Georg Büchner",
+          "wikidata": "Q154014"
+        },
+        {
+          "titel": "Woyzeck",
+          "beschriftung": "Woyzeck",
+          "haupt": false,
+          "artikel": "Woyzeck",
+          "wikidata": "Q657215"
+        }
+      ]
+    },
+    {
+      "mi_nr": "955",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-03-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Berühmte Deutsche Schriftsteller und Opernkomponisten",
+      "bild_beschreibung": "Komponist Richard Wagner, Szene aus der Oper Der fliegende Holländer",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": true,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Richard Wagner",
+          "beschriftung": "Richard Wagner",
+          "haupt": false,
+          "artikel": "Richard Wagner",
+          "wikidata": "Q1511"
+        },
+        {
+          "titel": "Oper",
+          "beschriftung": "Oper",
+          "haupt": false,
+          "artikel": "Oper",
+          "wikidata": "Q1344"
+        },
+        {
+          "titel": "Der fliegende Holländer",
+          "beschriftung": "Der fliegende Holländer",
+          "haupt": false,
+          "artikel": "Der fliegende Holländer",
+          "wikidata": "Q114640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "956",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "100 Jahre Internationales Rotes Kreuz",
+      "bild_beschreibung": "Rotkreuz-Schwester beim Anlegen eines Verbandes",
+      "entwerfer": "Hajo Rose",
+      "auflage": 1100000,
+      "commons_datei": "DDR 1963 Michel 956.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DRK-Schwesternschaft",
+          "beschriftung": "Rotkreuz-Schwester",
+          "haupt": true,
+          "artikel": "DRK-Schwesternschaft",
+          "wikidata": "Q2168828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "957",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "100 Jahre Internationales Rotes Kreuz",
+      "bild_beschreibung": "Krankentransportfahrzeug Barkas B 1000, Poliklinik",
+      "entwerfer": "Hajo Rose",
+      "auflage": 6000000,
+      "commons_datei": "DDR 1963 Michel 957.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Barkas B 1000",
+          "beschriftung": "Barkas B 1000",
+          "haupt": true,
+          "artikel": "Barkas B 1000",
+          "wikidata": "Q790475"
+        },
+        {
+          "titel": "Poliklinik",
+          "beschriftung": "Poliklinik",
+          "haupt": false,
+          "artikel": "Poliklinik",
+          "wikidata": "Q695416"
+        }
+      ]
+    },
+    {
+      "mi_nr": "958",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-27",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (I)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Walter Bohne (1903–1944), Langstreckenläufer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Bohne",
+          "beschriftung": "Walter Bohne",
+          "haupt": true,
+          "artikel": "Walter Bohne",
+          "wikidata": "Q1294566"
+        },
+        {
+          "titel": "Langstreckenlauf",
+          "beschriftung": "Langstreckenläufer",
+          "haupt": false,
+          "artikel": "Langstreckenlauf",
+          "wikidata": "Q917206"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "959",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-27",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (I)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Werner Seelenbinder (1904–1944), Ringer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Werner Seelenbinder",
+          "beschriftung": "Werner Seelenbinder",
+          "haupt": true,
+          "artikel": "Werner Seelenbinder",
+          "wikidata": "Q452309"
+        },
+        {
+          "titel": "Ringen",
+          "beschriftung": "Ringer",
+          "haupt": false,
+          "artikel": "Ringen",
+          "wikidata": "Q42486"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "960",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-27",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (I)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Albert Richter (1912–1940), Radrennfahrer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albert Richter (Radsportler)",
+          "beschriftung": "Albert Richter",
+          "haupt": true,
+          "artikel": "Albert Richter (Radsportler)",
+          "wikidata": "Q693252"
+        },
+        {
+          "titel": "Radrennfahrer",
+          "beschriftung": "Radrennfahrer",
+          "haupt": false,
+          "artikel": "Radrennfahrer",
+          "wikidata": "Q2309784"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "961",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-27",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (I)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Heinz Steyer (1909–1944), Fußballspieler",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinz Steyer",
+          "beschriftung": "Heinz Steyer",
+          "haupt": true,
+          "artikel": "Heinz Steyer",
+          "wikidata": "Q1601017"
+        },
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": false,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "962",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-27",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (I)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Kurt Schlosser (1900–1944), Bergsteiger",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurt Schlosser",
+          "beschriftung": "Kurt Schlosser",
+          "haupt": true,
+          "artikel": "Kurt Schlosser",
+          "wikidata": "Q108141"
+        },
+        {
+          "titel": "Bergsteiger",
+          "beschriftung": "Bergsteiger",
+          "haupt": false,
+          "artikel": "Bergsteigen",
+          "wikidata": "Q36908"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "963",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-13",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Turnen an Holmen",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": true,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "964",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-13",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Gymnastik mit Bändern",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gymnastik",
+          "beschriftung": "Gymnastik",
+          "haupt": true,
+          "artikel": "Gymnastik",
+          "wikidata": "Q107031718"
+        },
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "965",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-13",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Staffellauf der Männer",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staffellauf",
+          "beschriftung": "Staffellauf",
+          "haupt": true,
+          "artikel": "Staffellauf",
+          "wikidata": "Q327742"
+        },
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "966",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "75. Jahre Kampflied der internationalen sozialistischen Arbeiterbewegung „Die Internationale“",
+      "bild_beschreibung": "Porträt des Textdichters Eugène Pottier vor Noten des Vorspiels und der Anfangstakte",
+      "entwerfer": "Kosak",
+      "auflage": 22000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0966.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eugène Pottier",
+          "beschriftung": "Eugène Pottier",
+          "haupt": true,
+          "artikel": "Eugène Pottier",
+          "wikidata": "Q312915"
+        },
+        {
+          "titel": "Takt (Musik)",
+          "beschriftung": "takte",
+          "haupt": false,
+          "artikel": "Takt (Musik)",
+          "wikidata": "Q3240892"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        },
+        {
+          "titel": "Die Internationale",
+          "beschriftung": "Die Internationale",
+          "haupt": false,
+          "artikel": "Die Internationale",
+          "wikidata": "Q49617"
+        }
+      ]
+    },
+    {
+      "mi_nr": "967",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "75. Jahre Kampflied der internationalen sozialistischen Arbeiterbewegung „Die Internationale“",
+      "bild_beschreibung": "Porträt des Komponisten Pierre Degeyter vor Noten des Vorspiels und den Anfangstakten",
+      "entwerfer": "Kosak",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pierre Degeyter",
+          "beschriftung": "Pierre Degeyter",
+          "haupt": true,
+          "artikel": "Pierre Degeyter",
+          "wikidata": "Q279103"
+        },
+        {
+          "titel": "Arbeiterbewegung",
+          "beschriftung": "Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Arbeiterbewegung",
+          "wikidata": "Q208701"
+        },
+        {
+          "titel": "Die Internationale",
+          "beschriftung": "Die Internationale",
+          "haupt": false,
+          "artikel": "Die Internationale",
+          "wikidata": "Q49617"
+        }
+      ]
+    },
+    {
+      "mi_nr": "970",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Gruppenflug der Raumschiffe Wostok 5 und 6",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck ausgegeben:; Walentina Tereschkowa im Raumanzug, Wostok 6 vor Teil der Erdkugel",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 9500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walentina Wladimirowna Tereschkowa",
+          "beschriftung": "Walentina Tereschkowa",
+          "haupt": true,
+          "artikel": "Walentina Wladimirowna Tereschkowa",
+          "wikidata": "Q44371"
+        },
+        {
+          "titel": "Raumanzug",
+          "beschriftung": "Raumanzug",
+          "haupt": false,
+          "artikel": "Raumanzug",
+          "wikidata": "Q223571"
+        },
+        {
+          "titel": "Wostok 6",
+          "beschriftung": "Wostok 6",
+          "haupt": false,
+          "artikel": "Wostok 6",
+          "wikidata": "Q269668"
+        }
+      ]
+    },
+    {
+      "mi_nr": "971",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Gruppenflug der Raumschiffe Wostok 5 und 6",
+      "bild_beschreibung": "Waleri Bykowski im Raumanzug, Wostok 5 vor Teil der Erdkugel",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 9500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waleri Fjodorowitsch Bykowski",
+          "beschriftung": "Waleri Bykowski",
+          "haupt": true,
+          "artikel": "Waleri Fjodorowitsch Bykowski",
+          "wikidata": "Q159681"
+        },
+        {
+          "titel": "Raumanzug",
+          "beschriftung": "Raumanzug",
+          "haupt": false,
+          "artikel": "Raumanzug",
+          "wikidata": "Q223571"
+        },
+        {
+          "titel": "Wostok 5",
+          "beschriftung": "Wostok 5",
+          "haupt": false,
+          "artikel": "Wostok 5",
+          "wikidata": "Q257797"
+        }
+      ]
+    },
+    {
+      "mi_nr": "972",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "II. Weltmeisterschaftslauf im Motocross in Apolda, III. Weltmeisterschaftslauf für Motorräder 1963 auf dem Sachsenring",
+      "bild_beschreibung": "Motocross, 250-cm³-Klasse",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motocross",
+          "beschriftung": "Motocross",
+          "haupt": true,
+          "artikel": "Motocross",
+          "wikidata": "Q215862"
+        },
+        {
+          "titel": "Motocross-Weltmeisterschaft",
+          "beschriftung": "Weltmeisterschaftslauf im Motocross",
+          "haupt": false,
+          "artikel": "Motocross-Weltmeisterschaft",
+          "wikidata": "Q765057"
+        },
+        {
+          "titel": "Apolda",
+          "beschriftung": "Apolda",
+          "haupt": false,
+          "artikel": "Apolda",
+          "wikidata": "Q490689"
+        },
+        {
+          "titel": "Motorrad-Weltmeisterschaft 1963",
+          "beschriftung": "Weltmeisterschaftslauf für Motorräder 1963",
+          "haupt": false,
+          "artikel": "Motorrad-Weltmeisterschaft 1963",
+          "wikidata": "Q286985"
+        },
+        {
+          "titel": "Sachsenring",
+          "beschriftung": "Sachsenring",
+          "haupt": false,
+          "artikel": "Sachsenring",
+          "wikidata": "Q567770"
+        }
+      ]
+    },
+    {
+      "mi_nr": "973",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "II. Weltmeisterschaftslauf im Motocross in Apolda, III. Weltmeisterschaftslauf für Motorräder 1963 auf dem Sachsenring",
+      "bild_beschreibung": "Motorradrennen, 125-cm³-Klasse",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motorradrennen",
+          "beschriftung": "Motorradrennen",
+          "haupt": true,
+          "artikel": "Motorradsport",
+          "wikidata": "Q328716"
+        },
+        {
+          "titel": "Motocross-Weltmeisterschaft",
+          "beschriftung": "Weltmeisterschaftslauf im Motocross",
+          "haupt": false,
+          "artikel": "Motocross-Weltmeisterschaft",
+          "wikidata": "Q765057"
+        },
+        {
+          "titel": "Apolda",
+          "beschriftung": "Apolda",
+          "haupt": false,
+          "artikel": "Apolda",
+          "wikidata": "Q490689"
+        },
+        {
+          "titel": "Motorrad-Weltmeisterschaft 1963",
+          "beschriftung": "Weltmeisterschaftslauf für Motorräder 1963",
+          "haupt": false,
+          "artikel": "Motorrad-Weltmeisterschaft 1963",
+          "wikidata": "Q286985"
+        },
+        {
+          "titel": "Sachsenring",
+          "beschriftung": "Sachsenring",
+          "haupt": false,
+          "artikel": "Sachsenring",
+          "wikidata": "Q567770"
+        }
+      ]
+    },
+    {
+      "mi_nr": "974",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-30",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "II. Weltmeisterschaftslauf im Motocross in Apolda, III. Weltmeisterschaftslauf für Motorräder 1963 auf dem Sachsenring",
+      "bild_beschreibung": "Motorradrennen, 250-cm³-Klasse",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motocross-Weltmeisterschaft",
+          "beschriftung": "Weltmeisterschaftslauf im Motocross",
+          "haupt": true,
+          "artikel": "Motocross-Weltmeisterschaft",
+          "wikidata": "Q765057"
+        },
+        {
+          "titel": "Apolda",
+          "beschriftung": "Apolda",
+          "haupt": false,
+          "artikel": "Apolda",
+          "wikidata": "Q490689"
+        },
+        {
+          "titel": "Motorrad-Weltmeisterschaft 1963",
+          "beschriftung": "Weltmeisterschaftslauf für Motorräder 1963",
+          "haupt": false,
+          "artikel": "Motorrad-Weltmeisterschaft 1963",
+          "wikidata": "Q286985"
+        },
+        {
+          "titel": "Sachsenring",
+          "beschriftung": "Sachsenring",
+          "haupt": false,
+          "artikel": "Sachsenring",
+          "wikidata": "Q567770"
+        }
+      ]
+    },
+    {
+      "mi_nr": "975",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-08-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Internationale Mahn- und Gedenkstätten (I)",
+      "bild_beschreibung": "Denkmal mit Flammenschale, Treblinka (Polen)",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0975.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Flammenschale",
+          "beschriftung": "Flammenschale",
+          "haupt": true,
+          "artikel": "Flammenschale",
+          "wikidata": "Q1426997"
+        },
+        {
+          "titel": "Treblinka",
+          "beschriftung": "Treblinka",
+          "haupt": false,
+          "artikel": "Vernichtungslager Treblinka",
+          "wikidata": "Q152010"
+        }
+      ]
+    },
+    {
+      "mi_nr": "976",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-08-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Leipziger Herbstmesse 1963",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck ausgegeben:; Pkw, Triebwagen und Messezeichen vor Erdkugelhälfte",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0976.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pkw",
+          "beschriftung": "Pkw",
+          "haupt": true,
+          "artikel": "Personenkraftwagen",
+          "wikidata": "Q1144312"
+        },
+        {
+          "titel": "Triebwagen",
+          "beschriftung": "Triebwagen",
+          "haupt": false,
+          "artikel": "Triebwagen",
+          "wikidata": "Q3959904"
+        },
+        {
+          "titel": "Leipziger Herbstmesse",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "977",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-08-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Leipziger Herbstmesse 1963",
+      "bild_beschreibung": "Verkehrsflugzeug, Autobus und Messezeichen vor Erdkugelhälfte",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0977.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsflugzeug",
+          "beschriftung": "Verkehrsflugzeug",
+          "haupt": true,
+          "artikel": "Verkehrsflugzeug",
+          "wikidata": "Q210932"
+        },
+        {
+          "titel": "Omnibus",
+          "beschriftung": "Autobus",
+          "haupt": false,
+          "artikel": "Omnibus",
+          "wikidata": "Q5638"
+        },
+        {
+          "titel": "Leipziger Herbstmesse",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "978",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Geschützte Tiere (II)",
+      "bild_beschreibung": "Hirschkäfer (Lucanus cervus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 13000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hirschkäfer",
+          "beschriftung": "Hirschkäfer",
+          "haupt": true,
+          "artikel": "Hirschkäfer",
+          "wikidata": "Q190491"
+        }
+      ]
+    },
+    {
+      "mi_nr": "979",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Geschützte Tiere (II)",
+      "bild_beschreibung": "Fleckenstreifiger Feuersalamander (Salamandra salamandra terrestris)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuersalamander",
+          "beschriftung": "Fleckenstreifiger Feuersalamander",
+          "haupt": true,
+          "artikel": "Feuersalamander",
+          "wikidata": "Q26395"
+        }
+      ]
+    },
+    {
+      "mi_nr": "980",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-10",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Geschützte Tiere (II)",
+      "bild_beschreibung": "Europäische Sumpfschildkröte (Emys orbicularis)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sumpfschildkröte",
+          "beschriftung": "Europäische Sumpfschildkröte",
+          "haupt": true,
+          "artikel": "Sumpfschildkröte",
+          "wikidata": "Q20820332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "981",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Geschützte Tiere (II)",
+      "bild_beschreibung": "Wechselkröte (Bufo Verida)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wechselkröte",
+          "beschriftung": "Wechselkröte",
+          "haupt": true,
+          "artikel": "Wechselkröte",
+          "wikidata": "Q243242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "982",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-10",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Geschützte Tiere (II)",
+      "bild_beschreibung": "Braunbrustigel (Erinaceus europaeus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Igel",
+          "beschriftung": "Braunbrustigel",
+          "haupt": true,
+          "artikel": "Igel",
+          "wikidata": "Q28257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "983",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-24",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (II)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Hermann Tops (1897–1944), Turner",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hermann Tops",
+          "beschriftung": "Hermann Tops",
+          "haupt": true,
+          "artikel": "Hermann Tops",
+          "wikidata": "Q61906499"
+        },
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turner",
+          "haupt": false,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "984",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-24",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (II)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Käthe Tucholla (1910–1943), Hockeyspielerin",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käthe Tucholla",
+          "beschriftung": "Käthe Tucholla",
+          "haupt": true,
+          "artikel": "Käthe Tucholla",
+          "wikidata": "Q1488973"
+        },
+        {
+          "titel": "Hockey",
+          "beschriftung": "Hockey",
+          "haupt": false,
+          "artikel": "Hockey",
+          "wikidata": "Q1455"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "985",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-24",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (II)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Rudolf Seiffert (1908–1945), Schwimmer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudolf Seiffert",
+          "beschriftung": "Rudolf Seiffert",
+          "haupt": true,
+          "artikel": "Rudolf Seiffert",
+          "wikidata": "Q2173805"
+        },
+        {
+          "titel": "Schwimmsport",
+          "beschriftung": "Schwimmer",
+          "haupt": false,
+          "artikel": "Schwimmsport",
+          "wikidata": "Q31920"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "986",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-24",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (II)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Ernst Grube (1890–1945), Turner",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Grube",
+          "beschriftung": "Ernst Grube",
+          "haupt": true,
+          "artikel": "Ernst Grube",
+          "wikidata": "Q1358375"
+        },
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turner",
+          "haupt": false,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "987",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-24",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Sportler, KZ-Opfer (II)",
+      "bild_beschreibung": "Diese Marke wurde als Zusammendruck mit einem rechts anliegenden Zierfeld ausgegeben:; Kurt Biedermann (1903–1942), Wildwasserkanute",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurt Biedermann",
+          "beschriftung": "Kurt Biedermann",
+          "haupt": true,
+          "artikel": "Kurt Biedermann",
+          "wikidata": null
+        },
+        {
+          "titel": "Wildwasserpaddeln",
+          "beschriftung": "Wildwasserkanute",
+          "haupt": false,
+          "artikel": "Wildwasserpaddeln",
+          "wikidata": "Q337210"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Sportler",
+          "beschriftung": "Sportler",
+          "haupt": false,
+          "artikel": "Sportler",
+          "wikidata": "Q2066131"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "988",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "150. Jahrestag der Befreiungskriege",
+      "bild_beschreibung": "Preußischer Heerführer August Neidhardt von Gneisenau, preußischer Generalfeldmarschall Gebhard Leberecht von Blücher",
+      "entwerfer": "Horst Naumann",
+      "auflage": 13000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0988.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußischer",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "August Neidhardt von Gneisenau",
+          "beschriftung": "August Neidhardt von Gneisenau",
+          "haupt": false,
+          "artikel": "August Neidhardt von Gneisenau",
+          "wikidata": "Q165519"
+        },
+        {
+          "titel": "Generalfeldmarschall",
+          "beschriftung": "Generalfeldmarschall",
+          "haupt": false,
+          "artikel": "Generalfeldmarschall",
+          "wikidata": "Q7820253"
+        },
+        {
+          "titel": "Gebhard Leberecht von Blücher",
+          "beschriftung": "Gebhard Leberecht von Blücher",
+          "haupt": false,
+          "artikel": "Gebhard Leberecht von Blücher",
+          "wikidata": "Q153522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "989",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "150. Jahrestag der Befreiungskriege",
+      "bild_beschreibung": "Kosaken und Landwehr auf dem Berliner Kreuzberg",
+      "entwerfer": "Horst Naumann",
+      "auflage": 9000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0989.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kosake",
+          "beschriftung": "Kosake",
+          "haupt": true,
+          "artikel": "Kosaken",
+          "wikidata": "Q47805"
+        },
+        {
+          "titel": "Kreuzberg (Berlin)",
+          "beschriftung": "Kreuzberg",
+          "haupt": false,
+          "artikel": "Kreuzberg (Berlin)",
+          "wikidata": "Q523663"
+        }
+      ]
+    },
+    {
+      "mi_nr": "990",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "150. Jahrestag der Befreiungskriege",
+      "bild_beschreibung": "Dichter Ernst Moritz Arndt, preußischer Staatsmann Stein",
+      "entwerfer": "Horst Naumann",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0990.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Moritz Arndt",
+          "beschriftung": "Ernst Moritz Arndt",
+          "haupt": true,
+          "artikel": "Ernst Moritz Arndt",
+          "wikidata": "Q57351"
+        },
+        {
+          "titel": "Heinrich Friedrich Karl vom und zum Stein",
+          "beschriftung": "Stein",
+          "haupt": false,
+          "artikel": "Heinrich Friedrich Karl vom und zum Stein",
+          "wikidata": "Q213542"
+        }
+      ]
+    },
+    {
+      "mi_nr": "991",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "150. Jahrestag der Befreiungskriege",
+      "bild_beschreibung": "Freischar von Adolf Wilhelm von Lützow (Gemälde von Hans Kohlschein)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0991.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freischar",
+          "beschriftung": "Freischar",
+          "haupt": true,
+          "artikel": "Freischar",
+          "wikidata": "Q1454651"
+        },
+        {
+          "titel": "Ludwig Adolf Wilhelm von Lützow",
+          "beschriftung": "Adolf Wilhelm von Lützow",
+          "haupt": false,
+          "artikel": "Ludwig Adolf Wilhelm von Lützow",
+          "wikidata": "Q63965"
+        },
+        {
+          "titel": "Hans Kohlschein",
+          "beschriftung": "Hans Kohlschein",
+          "haupt": false,
+          "artikel": "Hans Kohlschein",
+          "wikidata": "Q1580805"
+        }
+      ]
+    },
+    {
+      "mi_nr": "992",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "150. Jahrestag der Befreiungskriege",
+      "bild_beschreibung": "preußischer General Gerhard von Scharnhorst, russischer Feldmarschall Fürst Michail Illarionowitsch Kutusow",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0992.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhard von Scharnhorst",
+          "beschriftung": "Gerhard von Scharnhorst",
+          "haupt": true,
+          "artikel": "Gerhard von Scharnhorst",
+          "wikidata": "Q170340"
+        },
+        {
+          "titel": "Michail Illarionowitsch Kutusow",
+          "beschriftung": "Michail Illarionowitsch Kutusow",
+          "haupt": false,
+          "artikel": "Michail Illarionowitsch Kutusow",
+          "wikidata": "Q185801"
+        }
+      ]
+    },
+    {
+      "mi_nr": "993",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Kosmonautin Walentina Tereschkowa, Raumschiff nach dem Start",
+      "entwerfer": "Karl Sauer",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0993.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": true,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        },
+        {
+          "titel": "Walentina Tereschkowa",
+          "beschriftung": "Walentina Tereschkowa",
+          "haupt": false,
+          "artikel": "Walentina Wladimirowna Tereschkowa",
+          "wikidata": "Q44371"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetischer Kosmonauten",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "994",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Kosmonautin Walentina Tereschkowa vor Kundgebung und Umrisskarte der DDR",
+      "entwerfer": "Karl Sauer",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0994.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walentina Tereschkowa",
+          "beschriftung": "Walentina Tereschkowa",
+          "haupt": true,
+          "artikel": "Walentina Wladimirowna Tereschkowa",
+          "wikidata": "Q44371"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetischer Kosmonauten",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "995",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-11-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Kosmonaut J. Gagarin, vor Kundgebung und Umrisskarte der DDR",
+      "entwerfer": "Karl Sauer",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0995.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Juri Alexejewitsch Gagarin",
+          "beschriftung": "J. Gagarin",
+          "haupt": true,
+          "artikel": "Juri Alexejewitsch Gagarin",
+          "wikidata": "Q7327"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetischer Kosmonauten",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "996",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Kosmonautin Walentina Tereschkowa im Raumanzug, Blick durch das Bordfenster eines Raumschiffs",
+      "entwerfer": "Karl Sauer",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0996.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Raumanzug",
+          "beschriftung": "Raumanzug",
+          "haupt": true,
+          "artikel": "Raumanzug",
+          "wikidata": "Q223571"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetischer Kosmonauten",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "997",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-11-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Reichspogromnacht",
+      "bild_beschreibung": "Brennende Synagoge, mit Kette umwundener Davidstern",
+      "entwerfer": "Karl Sauer, Horst Naumann",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichspogromnacht",
+          "beschriftung": "Reichspogromnacht",
+          "haupt": true,
+          "artikel": "Novemberpogrome 1938",
+          "wikidata": "Q36756"
+        },
+        {
+          "titel": "Synagoge",
+          "beschriftung": "Synagoge",
+          "haupt": false,
+          "artikel": "Synagoge",
+          "wikidata": "Q34627"
+        },
+        {
+          "titel": "Davidstern",
+          "beschriftung": "Davidstern",
+          "haupt": false,
+          "artikel": "Davidstern",
+          "wikidata": "Q161396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "998",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-11-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Briefverteilmaschine, Posthorn",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posttechnisches Zentralamt",
+          "beschriftung": "Briefverteilmaschine",
+          "haupt": true,
+          "artikel": "Posttechnisches Zentralamt",
+          "wikidata": "Q1399072"
+        },
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": false,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "999",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-11-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Gabelstapler mit Rollpalette, Bahnpostwagen, Posthorn",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gabelstapler",
+          "beschriftung": "Gabelstapler",
+          "haupt": true,
+          "artikel": "Gabelstapler",
+          "wikidata": "Q41577"
+        },
+        {
+          "titel": "Transportpalette",
+          "beschriftung": "Rollpalette",
+          "haupt": false,
+          "artikel": "Transportpalette",
+          "wikidata": "Q505996"
+        },
+        {
+          "titel": "Bahnpostwagen",
+          "beschriftung": "Bahnpostwagen",
+          "haupt": false,
+          "artikel": "Bahnpostwagen",
+          "wikidata": "Q15980697"
+        },
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": false,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1000",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-12-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Olympische Winterspiele 1964 in Innsbruck, Skispringen",
+      "bild_beschreibung": "Anlauf",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 1964",
+          "beschriftung": "Olympische Winterspiele 1964",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 1964",
+          "wikidata": "Q9636"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        },
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": false,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1001",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-12-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Olympische Winterspiele 1964 in Innsbruck, Skispringen",
+      "bild_beschreibung": "Absprung",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 1964",
+          "beschriftung": "Olympische Winterspiele 1964",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 1964",
+          "wikidata": "Q9636"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        },
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": false,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1002",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-12-18",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Olympische Winterspiele 1964 in Innsbruck, Skispringen",
+      "bild_beschreibung": "Flugphase",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 1964",
+          "beschriftung": "Olympische Winterspiele 1964",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 1964",
+          "wikidata": "Q9636"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        },
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": false,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1003",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-12-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Olympische Winterspiele 1964 in Innsbruck, Skispringen",
+      "bild_beschreibung": "Aufsprung",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 1964",
+          "beschriftung": "Olympische Winterspiele 1964",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 1964",
+          "wikidata": "Q9636"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        },
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": false,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "934",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-01-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 144770000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0934.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "935",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-01-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 165120000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0935.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "936",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-01-02",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 273380000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0936.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "937",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-02-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 188800000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0937.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "938",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-02-11",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 280940000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0938.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "968",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-06-25",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht, Großformat (I)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Karl Wolf",
+      "auflage": 57385000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0968.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "969",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-06-25",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht, Großformat (I)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Karl Wolf",
+      "auflage": 29882000,
+      "commons_datei": "Stamps of Germany (DDR) 1963, MiNr 0969.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    }
+  ]
+}

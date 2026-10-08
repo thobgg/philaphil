@@ -1,0 +1,274 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1925,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1925 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1925_der_Deutschen_Reichspost",
+    "revision": 236181310,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 367,
+    "mi_nr_bis": 377,
+    "luecken": [
+      368,
+      369
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-05-30",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1925-12-31",
+      "anlass": "Deutsche Verkehrs-Ausstellung München",
+      "bild_beschreibung": "Abstrakte Verkehrssymbole (Lenkrad, Flügelrad und Blitz)",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1925 370 Verkehrsausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenkrad",
+          "beschriftung": "Lenkrad",
+          "haupt": true,
+          "artikel": "Lenkrad",
+          "wikidata": "Q679300"
+        },
+        {
+          "titel": "Flügelrad (Eisenbahn)",
+          "beschriftung": "Flügelrad",
+          "haupt": false,
+          "artikel": "Flügelrad (Eisenbahn)",
+          "wikidata": "Q20191349"
+        },
+        {
+          "titel": "Blitz (Symbol)",
+          "beschriftung": "Blitz",
+          "haupt": false,
+          "artikel": "Blitz (Symbol)",
+          "wikidata": null
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-05-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1925-12-31",
+      "anlass": "Deutsche Verkehrs-Ausstellung München",
+      "bild_beschreibung": "Abstrakte Verkehrssymbole",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": null,
+      "commons_datei": "DR 1925 371 Verkehrsausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": true,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-05-30",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-01-31",
+      "anlass": "Rheinland 1000 Jahre deutsch",
+      "bild_beschreibung": "Landschaft aus dem Rheinland mit Hochofen und Burg, sowie einem Kopf eines Reichsadlers im Hintergrund",
+      "entwerfer": "Otto Firle",
+      "auflage": null,
+      "commons_datei": "DR 1925 372 Rheinland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rheinland",
+          "beschriftung": "Rheinland",
+          "haupt": true,
+          "artikel": "Rheinland",
+          "wikidata": "Q152243"
+        },
+        {
+          "titel": "Hochofen",
+          "beschriftung": "Hochofen",
+          "haupt": false,
+          "artikel": "Hochofen",
+          "wikidata": "Q181485"
+        },
+        {
+          "titel": "Burg",
+          "beschriftung": "Burg",
+          "haupt": false,
+          "artikel": "Burg",
+          "wikidata": "Q23413"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-01-31",
+      "anlass": "Rheinland 1000 Jahre deutsch",
+      "bild_beschreibung": "Landschaft aus dem Rheinland mit Hochofen und Burg, sowie einem Kopf eines Reichsadlers im Hintergrund",
+      "entwerfer": "Otto Firle",
+      "auflage": null,
+      "commons_datei": "DR 1925 373 Rheinland.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "374",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-01-31",
+      "anlass": "Rheinland 1000 Jahre deutsch",
+      "bild_beschreibung": "Landschaft aus dem Rheinland mit Hochofen und Burg, sowie einem Kopf eines Reichsadlers im Hintergrund",
+      "entwerfer": "Otto Firle",
+      "auflage": null,
+      "commons_datei": "DR 1925 374 Rheinland.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "367",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-09-11",
+      "wert": "5 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Bauwerke (Ergänzungswert zur Ausgabe von 1924)",
+      "bild_beschreibung": "Speyerer Dom",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1924 367 Bauwerke Speyerer Dom.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1924 der Deutschen Reichspost",
+          "beschriftung": "1924",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1924 der Deutschen Reichspost",
+          "wikidata": "Q914321"
+        },
+        {
+          "titel": "Speyerer Dom",
+          "beschriftung": "Speyerer Dom",
+          "haupt": false,
+          "artikel": "Speyerer Dom",
+          "wikidata": "Q22720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "375",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-12-15",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-05-31",
+      "anlass": "Deutsche Nothilfe - Wappen",
+      "bild_beschreibung": "Wappen von Preußen",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 4913150,
+      "commons_datei": "DR 1925 375 Nothilfe Wappen Preußen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Preußens",
+          "beschriftung": "Wappen von Preußen",
+          "haupt": true,
+          "artikel": "Wappen Preußens",
+          "wikidata": "Q573426"
+        }
+      ]
+    },
+    {
+      "mi_nr": "376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-12-15",
+      "wert": "10+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-05-31",
+      "anlass": "Deutsche Nothilfe - Wappen",
+      "bild_beschreibung": "Wappen von Bayern",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 3926961,
+      "commons_datei": "DR 1925 376 Nothilfe Wappen Bayern.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bayerisches Staatswappen",
+          "beschriftung": "Wappen von Bayern",
+          "haupt": true,
+          "artikel": "Wappen Bayerns",
+          "wikidata": "Q663063"
+        }
+      ]
+    },
+    {
+      "mi_nr": "377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1925-12-15",
+      "wert": "20+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1926-05-31",
+      "anlass": "Deutsche Nothilfe - Wappen",
+      "bild_beschreibung": "Wappen von Sachsen",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 983730,
+      "commons_datei": "DR 1925 377 Nothilfe Wappen Sachsen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen Sachsens",
+          "beschriftung": "Wappen von Sachsen",
+          "haupt": true,
+          "artikel": "Landeswappen Sachsens",
+          "wikidata": "Q562152"
+        }
+      ]
+    }
+  ]
+}

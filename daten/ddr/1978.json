@@ -1,0 +1,3916 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1978,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1978 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1978_der_Deutschen_Post_der_DDR",
+    "revision": 258318321,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2287,
+    "mi_nr_bis": 2387,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 101,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2287",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arzneipflanzen",
+      "bild_beschreibung": "Hagebutten der Heckenrose (Rosa canina)",
+      "entwerfer": "Heise",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hagebutte",
+          "beschriftung": "Hagebutte",
+          "haupt": true,
+          "artikel": "Hagebutte",
+          "wikidata": "Q46740"
+        },
+        {
+          "titel": "Hunds-Rose",
+          "beschriftung": "Heckenrose",
+          "haupt": false,
+          "artikel": "Hundsrose",
+          "wikidata": "Q146066"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Arzneipflanzen",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arzneipflanzen",
+      "bild_beschreibung": "Blätter der Hängebirke (Betula pendula)",
+      "entwerfer": "Heise",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hänge-Birke",
+          "beschriftung": "Hängebirke",
+          "haupt": true,
+          "artikel": "Hänge-Birke",
+          "wikidata": "Q156895"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Arzneipflanzen",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arzneipflanzen",
+      "bild_beschreibung": "Blüten der echten Kamille (Matricaria chamomilla)",
+      "entwerfer": "Heise",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echte Kamille",
+          "beschriftung": "echten Kamille",
+          "haupt": true,
+          "artikel": "Echte Kamille",
+          "wikidata": "Q28437"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Arzneipflanzen",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arzneipflanzen",
+      "bild_beschreibung": "Blätter des Huflattichs (Tussilago farfara)",
+      "entwerfer": "Heise",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Huflattich",
+          "beschriftung": "Huflattich",
+          "haupt": true,
+          "artikel": "Huflattich",
+          "wikidata": "Q26302"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Arzneipflanzen",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-10",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arzneipflanzen",
+      "bild_beschreibung": "Blüten der Sommerlinde (Tilia platyphyllos)",
+      "entwerfer": "Heise",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sommer-Linde",
+          "beschriftung": "Sommerlinde",
+          "haupt": true,
+          "artikel": "Sommerlinde",
+          "wikidata": "Q156831"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Arzneipflanzen",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arzneipflanzen",
+      "bild_beschreibung": "Blüten des Schwarzen Holunders (Sambucus nigra)",
+      "entwerfer": "Heise",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzer Holunder",
+          "beschriftung": "Schwarzen Holunders",
+          "haupt": true,
+          "artikel": "Schwarzer Holunder",
+          "wikidata": "Q22701"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Arzneipflanzen",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "5. Todestag von Amílcar Cabral",
+      "bild_beschreibung": "A. Cabral, Freiheitskämpfer aus Guinea-Bissau",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Amílcar Cabral",
+          "beschriftung": "Amílcar Cabral",
+          "haupt": true,
+          "artikel": "Amílcar Cabral",
+          "wikidata": "Q213416"
+        },
+        {
+          "titel": "Freiheitskämpfer",
+          "beschriftung": "Freiheitskämpfer",
+          "haupt": false,
+          "artikel": "Freiheitskämpfer",
+          "wikidata": "Q30242234"
+        },
+        {
+          "titel": "Guinea-Bissau",
+          "beschriftung": "Guinea-Bissau",
+          "haupt": false,
+          "artikel": "Guinea-Bissau",
+          "wikidata": "Q1007"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten (I)",
+      "bild_beschreibung": "Rathaus Suhl-Heinrichs (Henneberger Fachwerk)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrichs (Suhl)",
+          "beschriftung": "Suhl-Heinrichs",
+          "haupt": true,
+          "artikel": "Heinrichs (Suhl)",
+          "wikidata": "Q1599737"
+        },
+        {
+          "titel": "Henneberger Land",
+          "beschriftung": "Henneberger Fachwerk",
+          "haupt": false,
+          "artikel": "Henneberger Land",
+          "wikidata": "Q1571264"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten (I)",
+      "bild_beschreibung": "Bauernhaus Niederoderwitz (Umgebindehaus) (18. Jh.)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauernhof",
+          "beschriftung": "Bauernhaus",
+          "haupt": true,
+          "artikel": "Bauernhof",
+          "wikidata": "Q131596"
+        },
+        {
+          "titel": "Oderwitz",
+          "beschriftung": "Niederoderwitz",
+          "haupt": false,
+          "artikel": "Oderwitz",
+          "wikidata": "Q502467"
+        },
+        {
+          "titel": "Umgebindehaus",
+          "beschriftung": "Umgebindehaus",
+          "haupt": false,
+          "artikel": "Umgebindehaus",
+          "wikidata": "Q1362233"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten (I)",
+      "bild_beschreibung": "Bauernhaus, Strassen (Niederdeutsch), (17. Jh.)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gorlosen",
+          "beschriftung": "Strassen",
+          "haupt": true,
+          "artikel": "Gorlosen",
+          "wikidata": "Q674196"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten (I)",
+      "bild_beschreibung": "Bürgerhaus, Quedlinburg (Klopstockhaus) (17. Jh.)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bürgerhaus",
+          "beschriftung": "Bürgerhaus",
+          "haupt": true,
+          "artikel": "Bürgerhaus",
+          "wikidata": "Q1021106"
+        },
+        {
+          "titel": "Quedlinburg",
+          "beschriftung": "Quedlinburg",
+          "haupt": false,
+          "artikel": "Quedlinburg",
+          "wikidata": "Q40623"
+        },
+        {
+          "titel": "Klopstockhaus",
+          "beschriftung": "Klopstockhaus",
+          "haupt": false,
+          "artikel": "Klopstockhaus",
+          "wikidata": "Q105699730"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-24",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten (I)",
+      "bild_beschreibung": "Bürgerhaus, Eisenach (Lutherhaus) (17. Jh.)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenach",
+          "beschriftung": "Eisenach",
+          "haupt": true,
+          "artikel": "Eisenach",
+          "wikidata": "Q7070"
+        },
+        {
+          "titel": "Lutherhaus Eisenach",
+          "beschriftung": "Lutherhaus",
+          "haupt": false,
+          "artikel": "Lutherhaus Eisenach",
+          "wikidata": "Q1877893"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Posttransport früher und heute",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Postfahrzeug (1921).",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste von Postfahrzeugen",
+          "beschriftung": "Posttransport",
+          "haupt": true,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Posttransport früher und heute",
+      "bild_beschreibung": "Postfahrzeug (1978).",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste von Postfahrzeugen",
+          "beschriftung": "Posttransport",
+          "haupt": true,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Posttransport früher und heute",
+      "bild_beschreibung": "Bahnpostwagen (1896)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnpost",
+          "beschriftung": "Bahnpost",
+          "haupt": true,
+          "artikel": "Bahnpost",
+          "wikidata": "Q134011864"
+        },
+        {
+          "titel": "Liste von Postfahrzeugen",
+          "beschriftung": "Posttransport",
+          "haupt": false,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2302",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-09",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Posttransport früher und heute",
+      "bild_beschreibung": "Bahnpostwagen (1978).",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste von Postfahrzeugen",
+          "beschriftung": "Posttransport",
+          "haupt": true,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2303",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten von slawischen Stätten",
+      "bild_beschreibung": "Ohrgehänge (Silber) (11. Jh.)",
+      "entwerfer": "Bobbe",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ohrgehänge",
+          "beschriftung": "Ohrgehänge",
+          "haupt": true,
+          "artikel": "Ohrring",
+          "wikidata": "Q168456"
+        },
+        {
+          "titel": "Silber",
+          "beschriftung": "Silber",
+          "haupt": false,
+          "artikel": "Silber",
+          "wikidata": "Q1090"
+        },
+        {
+          "titel": "Slawen",
+          "beschriftung": "slawischen",
+          "haupt": false,
+          "artikel": "Slawen",
+          "wikidata": "Q40477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2304",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten von slawischen Stätten",
+      "bild_beschreibung": "Ohrring (Silber), Bodelwitz (10. Jh.)",
+      "entwerfer": "Bobbe",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ohrring",
+          "beschriftung": "Ohrring",
+          "haupt": true,
+          "artikel": "Ohrring",
+          "wikidata": "Q168456"
+        },
+        {
+          "titel": "Bodelwitz",
+          "beschriftung": "Bodelwitz",
+          "haupt": false,
+          "artikel": "Bodelwitz",
+          "wikidata": "Q628806"
+        },
+        {
+          "titel": "Slawen",
+          "beschriftung": "slawischen",
+          "haupt": false,
+          "artikel": "Slawen",
+          "wikidata": "Q40477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2305",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten von slawischen Stätten",
+      "bild_beschreibung": "Beschlag einer Schwertscheide (Bronze), Nimschütz (10. Jh.)",
+      "entwerfer": "Bobbe",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Scheide (Behälter)",
+          "beschriftung": "Schwertscheide",
+          "haupt": true,
+          "artikel": "Scheide (Behälter)",
+          "wikidata": "Q661140"
+        },
+        {
+          "titel": "Bronze",
+          "beschriftung": "Bronze",
+          "haupt": false,
+          "artikel": "Bronze",
+          "wikidata": "Q34095"
+        },
+        {
+          "titel": "Burk (Bautzen)",
+          "beschriftung": "Nimschütz",
+          "haupt": false,
+          "artikel": "Burk (Bautzen)",
+          "wikidata": "Q160834"
+        },
+        {
+          "titel": "Slawen",
+          "beschriftung": "slawischen",
+          "haupt": false,
+          "artikel": "Slawen",
+          "wikidata": "Q40477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2306",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten von slawischen Stätten",
+      "bild_beschreibung": "Pferd (Kleinplastik aus Bronze), Brandenburg (12. Jh.)",
+      "entwerfer": "Bobbe",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plastik (Kunst)",
+          "beschriftung": "Kleinplastik",
+          "haupt": true,
+          "artikel": "Plastik (Kunst)",
+          "wikidata": "Q1078913"
+        },
+        {
+          "titel": "Brandenburg",
+          "beschriftung": "Brandenburg",
+          "haupt": false,
+          "artikel": "Brandenburg",
+          "wikidata": "Q1208"
+        },
+        {
+          "titel": "Slawen",
+          "beschriftung": "slawischen",
+          "haupt": false,
+          "artikel": "Slawen",
+          "wikidata": "Q40477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2307",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-02-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten von slawischen Stätten",
+      "bild_beschreibung": "Arabische Silbermünze (Halbdirham), Ralswiek (781)",
+      "entwerfer": "Bobbe",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arabische Welt",
+          "beschriftung": "Arabische",
+          "haupt": true,
+          "artikel": "Arabische Welt",
+          "wikidata": "Q143487"
+        },
+        {
+          "titel": "Silbermünze",
+          "beschriftung": "Silbermünze",
+          "haupt": false,
+          "artikel": "Silbermünze",
+          "wikidata": "Q610038"
+        },
+        {
+          "titel": "Dirhem",
+          "beschriftung": "Halbdirham",
+          "haupt": false,
+          "artikel": "Dirham",
+          "wikidata": "Q572664"
+        },
+        {
+          "titel": "Ralswiek",
+          "beschriftung": "Ralswiek",
+          "haupt": false,
+          "artikel": "Ralswiek",
+          "wikidata": "Q658200"
+        },
+        {
+          "titel": "Slawen",
+          "beschriftung": "slawischen",
+          "haupt": false,
+          "artikel": "Slawen",
+          "wikidata": "Q40477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-03-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Königshaus am Markt, Leipzig",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Königshaus (Leipzig)",
+          "beschriftung": "Königshaus am Markt",
+          "haupt": true,
+          "artikel": "Königshaus (Leipzig)",
+          "wikidata": "Q917567"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-03-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Universalmesskammer „UMK 10/1318“, Firmenzeichen des VEB Carl Zeiss Jena",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Messkamera",
+          "beschriftung": "Universalmesskammer",
+          "haupt": true,
+          "artikel": "Messbildkamera",
+          "wikidata": "Q430630"
+        },
+        {
+          "titel": "Carl Zeiss AG",
+          "beschriftung": "VEB Carl Zeiss Jena",
+          "haupt": false,
+          "artikel": "Carl Zeiss AG",
+          "wikidata": "Q282186"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-03-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Interkosmosprogramm",
+      "bild_beschreibung": "Meteorologische Rakete „M 100“ (Atmosphärenphysik)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "M-100 (Rakete)",
+          "beschriftung": "M 100",
+          "haupt": true,
+          "artikel": "M-100 (Rakete)",
+          "wikidata": "Q128726"
+        },
+        {
+          "titel": "Meteorologie",
+          "beschriftung": "Atmosphärenphysik",
+          "haupt": false,
+          "artikel": "Meteorologie",
+          "wikidata": "Q25261"
+        },
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": false,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-03-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Interkosmosprogramm",
+      "bild_beschreibung": "Satellit Interkosmos 1 (Kosmische Physik)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Interkosmos 1",
+          "beschriftung": "Interkosmos 1",
+          "haupt": true,
+          "artikel": "Interkosmos 1",
+          "wikidata": null
+        },
+        {
+          "titel": "Physik",
+          "beschriftung": "Physik",
+          "haupt": false,
+          "artikel": "Physik",
+          "wikidata": "Q413"
+        },
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": false,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2312",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-03-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Interkosmosprogramm",
+      "bild_beschreibung": "Satellit Meteor mit Infrarot-Fourier-Spektrometer (Kosmische Meteorologie)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meteor (Satellit)",
+          "beschriftung": "Meteor",
+          "haupt": true,
+          "artikel": "Meteor (Satellit)",
+          "wikidata": "Q1925316"
+        },
+        {
+          "titel": "Weltraumwetter",
+          "beschriftung": "Kosmische Meteorologie",
+          "haupt": false,
+          "artikel": "Weltraumwetter",
+          "wikidata": "Q584093"
+        },
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": false,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2313",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-03-21",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Interkosmosprogramm",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Fernerkundung der Erde mit Multispektralkamera MKF-6",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Fernerkundung",
+          "beschriftung": "Fernerkundung",
+          "haupt": false,
+          "artikel": "Fernerkundung",
+          "wikidata": "Q199687"
+        },
+        {
+          "titel": "MKF 6",
+          "beschriftung": "Multispektralkamera MKF-6",
+          "haupt": false,
+          "artikel": "MKF 6",
+          "wikidata": "Q1881569"
+        },
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": false,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2314",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Jahrestag der Gründung der ersten staatlichen Bildungseinrichtung für Gehörlose",
+      "bild_beschreibung": "Samuel Heinicke, Taubstummenlehrer, Begründer der Bildungseinrichtung; Leipzig um 1800",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Samuel Heinicke",
+          "beschriftung": "Samuel Heinicke",
+          "haupt": true,
+          "artikel": "Samuel Heinicke",
+          "wikidata": "Q68317"
+        },
+        {
+          "titel": "Taubstummheit",
+          "beschriftung": "Taubstummenlehrer",
+          "haupt": false,
+          "artikel": "Taubstummheit",
+          "wikidata": "Q1118643"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2315",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Jahrestag der Gründung der ersten staatlichen Bildungseinrichtung für Gehörlose",
+      "bild_beschreibung": "Buchstaben a, b und c des Daktylalphabets, Schüler mit elektroakustischer Hörhilfe",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fingeralphabet",
+          "beschriftung": "Daktylalphabets",
+          "haupt": true,
+          "artikel": "Fingeralphabet",
+          "wikidata": "Q736748"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfernmeldetag",
+      "bild_beschreibung": "Fernseh- und Richtfunkturm, Dequede, Tonübertragungswagen FZ 34",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernsehturm Dequede",
+          "beschriftung": "Fernseh- und Richtfunkturm, Dequede",
+          "haupt": true,
+          "artikel": "Fernsehturm Dequede",
+          "wikidata": "Q1407279"
+        },
+        {
+          "titel": "Feiertage in der DDR",
+          "beschriftung": "Weltfernmeldetag",
+          "haupt": false,
+          "artikel": "Feiertage in der DDR",
+          "wikidata": "Q897143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfernmeldetag",
+      "bild_beschreibung": "Fernseh- und UKW-Turm Dresden, Richtfunkleitstelle im Fernseh- und UKW-Turm Berlin",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernsehturm Dresden",
+          "beschriftung": "Fernseh- und UKW-Turm Dresden",
+          "haupt": true,
+          "artikel": "Fernsehturm Dresden",
+          "wikidata": "Q277572"
+        },
+        {
+          "titel": "Richtfunk",
+          "beschriftung": "Richtfunk",
+          "haupt": false,
+          "artikel": "Richtfunk",
+          "wikidata": "Q747066"
+        },
+        {
+          "titel": "Berliner Fernsehturm",
+          "beschriftung": "Fernseh- und UKW-Turm Berlin",
+          "haupt": false,
+          "artikel": "Berliner Fernsehturm",
+          "wikidata": "Q151356"
+        },
+        {
+          "titel": "Feiertage in der DDR",
+          "beschriftung": "Weltfernmeldetag",
+          "haupt": false,
+          "artikel": "Feiertage in der DDR",
+          "wikidata": "Q897143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Paradetrachten aus dem Bergbau und Hüttenwesen",
+      "bild_beschreibung": "Sächsischer Bergmann",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sachsen",
+          "beschriftung": "Sächsischer",
+          "haupt": true,
+          "artikel": "Sachsen",
+          "wikidata": "Q1202"
+        },
+        {
+          "titel": "Bergmann",
+          "beschriftung": "Bergmann",
+          "haupt": false,
+          "artikel": "Bergmann",
+          "wikidata": "Q820037"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Paradetrachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        },
+        {
+          "titel": "Bergbau",
+          "beschriftung": "Bergbau",
+          "haupt": false,
+          "artikel": "Bergbau",
+          "wikidata": "Q44497"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Paradetrachten aus dem Bergbau und Hüttenwesen",
+      "bild_beschreibung": "Freiberger Hüttenmann",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiberg",
+          "beschriftung": "Freiberg",
+          "haupt": true,
+          "artikel": "Freiberg",
+          "wikidata": "Q14819"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Paradetrachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        },
+        {
+          "titel": "Bergbau",
+          "beschriftung": "Bergbau",
+          "haupt": false,
+          "artikel": "Bergbau",
+          "wikidata": "Q44497"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Paradetrachten aus dem Bergbau und Hüttenwesen",
+      "bild_beschreibung": "Bergakademist",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bergakademie",
+          "beschriftung": "Bergakademist",
+          "haupt": true,
+          "artikel": "Bergakademie",
+          "wikidata": "Q819311"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Paradetrachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        },
+        {
+          "titel": "Bergbau",
+          "beschriftung": "Bergbau",
+          "haupt": false,
+          "artikel": "Bergbau",
+          "wikidata": "Q44497"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-09",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Paradetrachten aus dem Bergbau und Hüttenwesen",
+      "bild_beschreibung": "Oberberghauptmann",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "berghauptmann",
+          "beschriftung": "berghauptmann",
+          "haupt": true,
+          "artikel": "Berghauptmann",
+          "wikidata": "Q819708"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Paradetrachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        },
+        {
+          "titel": "Bergbau",
+          "beschriftung": "Bergbau",
+          "haupt": false,
+          "artikel": "Bergbau",
+          "wikidata": "Q44497"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2322",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Zoologischer Garten Leipzig: Junge Raubkatzen",
+      "bild_beschreibung": "Löwe (Panthera leo)",
+      "entwerfer": "Heise und Lissmann",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löwe",
+          "beschriftung": "Löwe",
+          "haupt": true,
+          "artikel": "Löwe",
+          "wikidata": "Q140"
+        },
+        {
+          "titel": "Zoo Leipzig",
+          "beschriftung": "Zoologischer Garten Leipzig",
+          "haupt": false,
+          "artikel": "Zoo Leipzig",
+          "wikidata": "Q220055"
+        },
+        {
+          "titel": "Katzen",
+          "beschriftung": "Raubkatzen",
+          "haupt": false,
+          "artikel": "Katzen",
+          "wikidata": "Q25265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2323",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Zoologischer Garten Leipzig: Junge Raubkatzen",
+      "bild_beschreibung": "Leopard (Panthera pardus)",
+      "entwerfer": "Heise und Lissmann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leopard",
+          "beschriftung": "Leopard",
+          "haupt": true,
+          "artikel": "Leopard",
+          "wikidata": "Q34706"
+        },
+        {
+          "titel": "Zoo Leipzig",
+          "beschriftung": "Zoologischer Garten Leipzig",
+          "haupt": false,
+          "artikel": "Zoo Leipzig",
+          "wikidata": "Q220055"
+        },
+        {
+          "titel": "Katzen",
+          "beschriftung": "Raubkatzen",
+          "haupt": false,
+          "artikel": "Katzen",
+          "wikidata": "Q25265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2324",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-23",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Zoologischer Garten Leipzig: Junge Raubkatzen",
+      "bild_beschreibung": "Sibirischer Tiger (Panthera tigris altaica)",
+      "entwerfer": "Heise und Lissmann",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sibirischer Tiger",
+          "beschriftung": "Sibirischer Tiger",
+          "haupt": true,
+          "artikel": "Sibirischer Tiger",
+          "wikidata": "Q69581"
+        },
+        {
+          "titel": "Zoo Leipzig",
+          "beschriftung": "Zoologischer Garten Leipzig",
+          "haupt": false,
+          "artikel": "Zoo Leipzig",
+          "wikidata": "Q220055"
+        },
+        {
+          "titel": "Katzen",
+          "beschriftung": "Raubkatzen",
+          "haupt": false,
+          "artikel": "Katzen",
+          "wikidata": "Q25265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-23",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Zoologischer Garten Leipzig: Junge Raubkatzen",
+      "bild_beschreibung": "Irbis (Uncia uncia)",
+      "entwerfer": "Heise und Lissmann",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneeleopard",
+          "beschriftung": "Irbis",
+          "haupt": true,
+          "artikel": "Schneeleopard",
+          "wikidata": "Q30197"
+        },
+        {
+          "titel": "Zoo Leipzig",
+          "beschriftung": "Zoologischer Garten Leipzig",
+          "haupt": false,
+          "artikel": "Zoo Leipzig",
+          "wikidata": "Q220055"
+        },
+        {
+          "titel": "Katzen",
+          "beschriftung": "Raubkatzen",
+          "haupt": false,
+          "artikel": "Katzen",
+          "wikidata": "Q25265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Containertransport",
+      "bild_beschreibung": "Beladen eines Großcontainers mit einem Gabelstapler",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gabelstapler",
+          "beschriftung": "Gabelstapler",
+          "haupt": true,
+          "artikel": "Gabelstapler",
+          "wikidata": "Q41577"
+        },
+        {
+          "titel": "ISO-Container",
+          "beschriftung": "Containertransport",
+          "haupt": false,
+          "artikel": "ISO-Container",
+          "wikidata": "Q187956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Containertransport",
+      "bild_beschreibung": "Umsetzen eines Containers auf einen Sattelschlepper vom Typ LIAZ",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sattelzug",
+          "beschriftung": "Sattelschlepper",
+          "haupt": true,
+          "artikel": "Sattelzug",
+          "wikidata": "Q1936841"
+        },
+        {
+          "titel": "LIAZ",
+          "beschriftung": "LIAZ",
+          "haupt": false,
+          "artikel": "LIAZ",
+          "wikidata": "Q35927"
+        },
+        {
+          "titel": "ISO-Container",
+          "beschriftung": "Containertransport",
+          "haupt": false,
+          "artikel": "ISO-Container",
+          "wikidata": "Q187956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-13",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Containertransport",
+      "bild_beschreibung": "Großcontainer-Umschlagbahnhof mit zwei Diesellokomotiven der Baureihen 118 und 110 und einer Laufkatze",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Güterbahnhof",
+          "beschriftung": "Großcontainer-Umschlagbahnhof",
+          "haupt": true,
+          "artikel": "Güterbahnhof",
+          "wikidata": "Q55493"
+        },
+        {
+          "titel": "Diesellokomotive",
+          "beschriftung": "Diesellokomotive",
+          "haupt": false,
+          "artikel": "Diesellokomotive",
+          "wikidata": "Q34336"
+        },
+        {
+          "titel": "DR-Baureihe V 180",
+          "beschriftung": "118",
+          "haupt": false,
+          "artikel": "DR-Baureihe V 180",
+          "wikidata": "Q453354"
+        },
+        {
+          "titel": "DR-Baureihe V 100",
+          "beschriftung": "110",
+          "haupt": false,
+          "artikel": "DR-Baureihe V 100",
+          "wikidata": "Q314098"
+        },
+        {
+          "titel": "Laufkatze",
+          "beschriftung": "Laufkatze",
+          "haupt": false,
+          "artikel": "Laufkatze",
+          "wikidata": "Q1807473"
+        },
+        {
+          "titel": "ISO-Container",
+          "beschriftung": "Containertransport",
+          "haupt": false,
+          "artikel": "ISO-Container",
+          "wikidata": "Q187956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-13",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Containertransport",
+      "bild_beschreibung": "Umsetzen auf Überseefrachter „Boltenhagen“",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Containerschiff",
+          "beschriftung": "Überseefrachter",
+          "haupt": true,
+          "artikel": "Containerschiff",
+          "wikidata": "Q17210"
+        },
+        {
+          "titel": "Serie Boltenhagen",
+          "beschriftung": "Boltenhagen",
+          "haupt": false,
+          "artikel": "Serie Boltenhagen",
+          "wikidata": "Q2273652"
+        },
+        {
+          "titel": "ISO-Container",
+          "beschriftung": "Containertransport",
+          "haupt": false,
+          "artikel": "ISO-Container",
+          "wikidata": "Q187956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-20",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Altafrikanische Kunstschätze in Museen der DDR",
+      "bild_beschreibung": "Rinderfigur, Ton (1. Hälfte de 2. Jh. v. Chr.)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rinder",
+          "beschriftung": "Rinder",
+          "haupt": true,
+          "artikel": "Rinder",
+          "wikidata": "Q192205"
+        },
+        {
+          "titel": "Ton (Bodenart)",
+          "beschriftung": "Ton",
+          "haupt": false,
+          "artikel": "Ton (Bodenart)",
+          "wikidata": "Q42302"
+        },
+        {
+          "titel": "afrika",
+          "beschriftung": "afrika",
+          "haupt": false,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        },
+        {
+          "titel": "Museum",
+          "beschriftung": "Museen",
+          "haupt": false,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2331",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Altafrikanische Kunstschätze in Museen der DDR",
+      "bild_beschreibung": "Frauenkopf, Ton (1. Hälfte de 2. Jh. v. Chr.)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "afrika",
+          "beschriftung": "afrika",
+          "haupt": true,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        },
+        {
+          "titel": "Museum",
+          "beschriftung": "Museen",
+          "haupt": false,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Altafrikanische Kunstschätze in Museen der DDR",
+      "bild_beschreibung": "Oberarmreif, Gold mit Glasfluss (1. Jh. v. Chr.)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Armband",
+          "beschriftung": "Oberarmreif",
+          "haupt": true,
+          "artikel": "Armband",
+          "wikidata": "Q201664"
+        },
+        {
+          "titel": "Gold",
+          "beschriftung": "Gold",
+          "haupt": false,
+          "artikel": "Gold",
+          "wikidata": "Q897"
+        },
+        {
+          "titel": "Email",
+          "beschriftung": "Glasfluss",
+          "haupt": false,
+          "artikel": "Email",
+          "wikidata": "Q213371"
+        },
+        {
+          "titel": "afrika",
+          "beschriftung": "afrika",
+          "haupt": false,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        },
+        {
+          "titel": "Museum",
+          "beschriftung": "Museen",
+          "haupt": false,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Altafrikanische Kunstschätze in Museen der DDR",
+      "bild_beschreibung": "Schild eines Ringes, (1. Jh. v. Chr.)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ring (Schmuck)",
+          "beschriftung": "Ringes",
+          "haupt": true,
+          "artikel": "Ring (Schmuck)",
+          "wikidata": "Q46847"
+        },
+        {
+          "titel": "afrika",
+          "beschriftung": "afrika",
+          "haupt": false,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        },
+        {
+          "titel": "Museum",
+          "beschriftung": "Museen",
+          "haupt": false,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-20",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Altafrikanische Kunstschätze in Museen der DDR",
+      "bild_beschreibung": "Platte eines Siegelringes, Gold (1. Jh. v. Chr.)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Siegelring",
+          "beschriftung": "Siegelring",
+          "haupt": true,
+          "artikel": "Siegelring",
+          "wikidata": "Q2387838"
+        },
+        {
+          "titel": "afrika",
+          "beschriftung": "afrika",
+          "haupt": false,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        },
+        {
+          "titel": "Museum",
+          "beschriftung": "Museen",
+          "haupt": false,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-06-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Altafrikanische Kunstschätze in Museen der DDR",
+      "bild_beschreibung": "Halsschmuck, Halbedelstein/Fayence (1. Jh. v. Chr.)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halskette",
+          "beschriftung": "Halsschmuck",
+          "haupt": true,
+          "artikel": "Halskette",
+          "wikidata": "Q189299"
+        },
+        {
+          "titel": "Schmuckstein",
+          "beschriftung": "Halbedelstein",
+          "haupt": false,
+          "artikel": "Schmuckstein",
+          "wikidata": "Q83437"
+        },
+        {
+          "titel": "Ägyptische Fayence",
+          "beschriftung": "Fayence",
+          "haupt": false,
+          "artikel": "Ägyptische Fayence",
+          "wikidata": "Q253664"
+        },
+        {
+          "titel": "afrika",
+          "beschriftung": "afrika",
+          "haupt": false,
+          "artikel": "Afrika",
+          "wikidata": "Q15"
+        },
+        {
+          "titel": "Museum",
+          "beschriftung": "Museen",
+          "haupt": false,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Justus von Liebig (1803–1873), Chemiker und Naturforscher, im Hintergrund Symbole der Agrikulturchemie",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2336.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Justus von Liebig",
+          "beschriftung": "Justus von Liebig",
+          "haupt": true,
+          "artikel": "Justus von Liebig",
+          "wikidata": "Q16571"
+        },
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": false,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Naturforscher",
+          "beschriftung": "Naturforscher",
+          "haupt": false,
+          "artikel": "Naturgeschichte",
+          "wikidata": "Q484591"
+        },
+        {
+          "titel": "Symbol",
+          "beschriftung": "Symbol",
+          "haupt": false,
+          "artikel": "Symbol",
+          "wikidata": "Q80071"
+        },
+        {
+          "titel": "Agrochemie",
+          "beschriftung": "Agrikulturchemie",
+          "haupt": false,
+          "artikel": "Agrochemie",
+          "wikidata": "Q397334"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Joseph Dietzgen (1828–1888), Philosoph, im Hintergrund Buchtitel",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 15000000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2337.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Joseph Dietzgen",
+          "beschriftung": "Joseph Dietzgen",
+          "haupt": true,
+          "artikel": "Josef Dietzgen",
+          "wikidata": "Q60972"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Buchtitel",
+          "beschriftung": "Buchtitel",
+          "haupt": false,
+          "artikel": "Buchtitel",
+          "wikidata": "Q783521"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2338",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Alfred Döblin (1878–1957), Schriftsteller, im Hintergrund Buchtitel",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alfred Döblin",
+          "beschriftung": "Alfred Döblin",
+          "haupt": true,
+          "artikel": "Alfred Döblin",
+          "wikidata": "Q57389"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Buchtitel",
+          "beschriftung": "Buchtitel",
+          "haupt": false,
+          "artikel": "Buchtitel",
+          "wikidata": "Q783521"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Hans Loch (1898–1960), Politiker, im Hintergrund Namenszug",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Loch",
+          "beschriftung": "Hans Loch",
+          "haupt": true,
+          "artikel": "Hans Loch",
+          "wikidata": "Q96559"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Unterschrift",
+          "beschriftung": "Namenszug",
+          "haupt": false,
+          "artikel": "Unterschrift",
+          "wikidata": "Q188675"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Theodor Brugsch (1878–1963), Internist, im Hintergrund Schnittzeichnung eines Menschen und EKG",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Brugsch",
+          "beschriftung": "Theodor Brugsch",
+          "haupt": true,
+          "artikel": "Theodor Brugsch",
+          "wikidata": "Q105575"
+        },
+        {
+          "titel": "Innere Medizin",
+          "beschriftung": "Internist",
+          "haupt": false,
+          "artikel": "Innere Medizin",
+          "wikidata": "Q11180"
+        },
+        {
+          "titel": "Schnitt (Darstellung)",
+          "beschriftung": "Schnittzeichnung",
+          "haupt": false,
+          "artikel": "Schnitt (Darstellung)",
+          "wikidata": "Q1133032"
+        },
+        {
+          "titel": "Elektrokardiogramm",
+          "beschriftung": "EKG",
+          "haupt": false,
+          "artikel": "Elektrokardiogramm",
+          "wikidata": "Q13038557"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Friedrich Ludwig Jahn (1778–1852), Begründer der deutschen Turnbewegung, im Hintergrund Turner",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2341.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Ludwig Jahn",
+          "beschriftung": "Friedrich Ludwig Jahn",
+          "haupt": true,
+          "artikel": "Friedrich Ludwig Jahn",
+          "wikidata": "Q77098"
+        },
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turner",
+          "haupt": false,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (VI)",
+      "bild_beschreibung": "Albrecht von Graefe (1828–1870), Augenarzt, im Hintergrund Instrumente der Augenheilkunde",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2342.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrecht von Graefe",
+          "beschriftung": "Albrecht von Graefe",
+          "haupt": true,
+          "artikel": "Albrecht von Graefe",
+          "wikidata": "Q67987"
+        },
+        {
+          "titel": "Augenarzt",
+          "beschriftung": "Augenarzt",
+          "haupt": false,
+          "artikel": "Facharzt für Augenheilkunde",
+          "wikidata": "Q139086359"
+        },
+        {
+          "titel": "Augenheilkunde",
+          "beschriftung": "Augenheilkunde",
+          "haupt": false,
+          "artikel": "Augenheilkunde",
+          "wikidata": "Q161437"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2343",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "5. Briefmarkenausstellung der Jugend, Cottbus",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Cottbus um 1730.",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Cottbus",
+          "beschriftung": "Cottbus",
+          "haupt": false,
+          "artikel": "Cottbus",
+          "wikidata": "Q3214"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "5. Briefmarkenausstellung der Jugend, Cottbus",
+      "bild_beschreibung": "Historische und neuzeitliche Gebäude in Cottbus",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Cottbus",
+          "beschriftung": "Cottbus",
+          "haupt": false,
+          "artikel": "Cottbus",
+          "wikidata": "Q3214"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfestspiele der Jugend und Studenten, Havanna",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Festivalblume, Bauwerke in Havanna",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Havanna",
+          "beschriftung": "Havanna",
+          "haupt": false,
+          "artikel": "Havanna",
+          "wikidata": "Q1563"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfestspiele der Jugend und Studenten, Havanna",
+      "bild_beschreibung": "Festivalblume, Bauwerke in Berlin",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Havanna",
+          "beschriftung": "Havanna",
+          "haupt": false,
+          "artikel": "Havanna",
+          "wikidata": "Q1563"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kupferstichkabinett der Staatlichen Museen Berlin: Zeichnungen",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; „Landsknecht mit geschulterter Hellebarde“; von Hans Schäufelein",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2347.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Landsknecht",
+          "beschriftung": "Landsknecht",
+          "haupt": false,
+          "artikel": "Landsknecht",
+          "wikidata": "Q156733"
+        },
+        {
+          "titel": "Hellebarde",
+          "beschriftung": "Hellebarde",
+          "haupt": false,
+          "artikel": "Hellebarde",
+          "wikidata": "Q185623"
+        },
+        {
+          "titel": "Hans Schäufelin",
+          "beschriftung": "Hans Schäufelein",
+          "haupt": false,
+          "artikel": "Hans Schäufelin",
+          "wikidata": "Q675272"
+        },
+        {
+          "titel": "Kupferstichkabinett Berlin",
+          "beschriftung": "Kupferstichkabinett der Staatlichen Museen Berlin",
+          "haupt": false,
+          "artikel": "Kupferstichkabinett Berlin",
+          "wikidata": "Q555946"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichnungen",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2348",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kupferstichkabinett der Staatlichen Museen Berlin: Zeichnungen",
+      "bild_beschreibung": "„Studie einer Briefleserin“; von Jean-Antoine Watteau",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2348.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skizze",
+          "beschriftung": "Studie",
+          "haupt": true,
+          "artikel": "Skizze",
+          "wikidata": "Q5078274"
+        },
+        {
+          "titel": "Antoine Watteau",
+          "beschriftung": "Jean-Antoine Watteau",
+          "haupt": false,
+          "artikel": "Antoine Watteau",
+          "wikidata": "Q183221"
+        },
+        {
+          "titel": "Kupferstichkabinett Berlin",
+          "beschriftung": "Kupferstichkabinett der Staatlichen Museen Berlin",
+          "haupt": false,
+          "artikel": "Kupferstichkabinett Berlin",
+          "wikidata": "Q555946"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichnungen",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kupferstichkabinett der Staatlichen Museen Berlin: Zeichnungen",
+      "bild_beschreibung": "„Sitzender Knabe“; von Gabriel Metsu",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2349.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gabriel Metsu",
+          "beschriftung": "Gabriel Metsu",
+          "haupt": true,
+          "artikel": "Gabriel Metsu",
+          "wikidata": "Q355213"
+        },
+        {
+          "titel": "Kupferstichkabinett Berlin",
+          "beschriftung": "Kupferstichkabinett der Staatlichen Museen Berlin",
+          "haupt": false,
+          "artikel": "Kupferstichkabinett Berlin",
+          "wikidata": "Q555946"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichnungen",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kupferstichkabinett der Staatlichen Museen Berlin: Zeichnungen",
+      "bild_beschreibung": "„Sitzender junger Mann, Brot schneidend“; von Cornelis Saftleven",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2350.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cornelis Saftleven",
+          "beschriftung": "Cornelis Saftleven",
+          "haupt": true,
+          "artikel": "Cornelis Saftleven",
+          "wikidata": "Q130039"
+        },
+        {
+          "titel": "Kupferstichkabinett Berlin",
+          "beschriftung": "Kupferstichkabinett der Staatlichen Museen Berlin",
+          "haupt": false,
+          "artikel": "Kupferstichkabinett Berlin",
+          "wikidata": "Q555946"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichnungen",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kupferstichkabinett der Staatlichen Museen Berlin: Zeichnungen",
+      "bild_beschreibung": "„Heiliger Antonius in der Landschaft“; von Matthias Grünewald",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2351.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Antonius der Große",
+          "beschriftung": "Heiliger Antonius",
+          "haupt": true,
+          "artikel": "Antonius der Große",
+          "wikidata": "Q170547"
+        },
+        {
+          "titel": "Matthias Grünewald",
+          "beschriftung": "Matthias Grünewald",
+          "haupt": false,
+          "artikel": "Matthias Grünewald",
+          "wikidata": "Q154338"
+        },
+        {
+          "titel": "Kupferstichkabinett Berlin",
+          "beschriftung": "Kupferstichkabinett der Staatlichen Museen Berlin",
+          "haupt": false,
+          "artikel": "Kupferstichkabinett Berlin",
+          "wikidata": "Q555946"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichnungen",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-25",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kupferstichkabinett der Staatlichen Museen Berlin: Zeichnungen",
+      "bild_beschreibung": "„Sitzender Mann im Lehnstuhl“; von Abraham von Diepenbeeck",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1978, MiNr 2352.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Abraham van Diepenbeeck",
+          "beschriftung": "Abraham von Diepenbeeck",
+          "haupt": true,
+          "artikel": "Abraham van Diepenbeeck",
+          "wikidata": "Q330854"
+        },
+        {
+          "titel": "Kupferstichkabinett Berlin",
+          "beschriftung": "Kupferstichkabinett der Staatlichen Museen Berlin",
+          "haupt": false,
+          "artikel": "Kupferstichkabinett Berlin",
+          "wikidata": "Q555946"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichnungen",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "IFA-Kleintransporter „Multicar M 25“",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Industrieverband Fahrzeugbau",
+          "beschriftung": "IFA",
+          "haupt": true,
+          "artikel": "Industrieverband Fahrzeugbau",
+          "wikidata": "Q29666"
+        },
+        {
+          "titel": "Multicar",
+          "beschriftung": "Multicar M 25",
+          "haupt": false,
+          "artikel": "Multicar",
+          "wikidata": "Q564903"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Messehaus „Drei Könige“, Petersstraße, Leipzig",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haus Drei Könige (Leipzig)",
+          "beschriftung": "Messehaus „Drei Könige“",
+          "haupt": true,
+          "artikel": "Haus Drei Könige (Leipzig)",
+          "wikidata": "Q25089769"
+        },
+        {
+          "titel": "Petersstraße (Leipzig)",
+          "beschriftung": "Petersstraße",
+          "haupt": false,
+          "artikel": "Petersstraße (Leipzig)",
+          "wikidata": "Q1645167"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemeinsamer Weltraumflug UdSSR-DDR (I)",
+      "bild_beschreibung": "Raumschiff Sojus 31, Interkosmos-Symbol, Emblem des ersten gemeinsamen Weltraumfluges",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sojus 31",
+          "beschriftung": "Sojus 31",
+          "haupt": true,
+          "artikel": "Sojus 31",
+          "wikidata": "Q916974"
+        },
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": false,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-05",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten: Denkmal der DDR in der Mahn- und Gedenkstätte Mauthausen, Österreich von Fritz Cremer",
+      "bild_beschreibung": "„O Deutschland bleiche Mutter“ (Bertolt Brecht)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "KZ Mauthausen",
+          "beschriftung": "Mauthausen",
+          "haupt": false,
+          "artikel": "KZ Mauthausen",
+          "wikidata": "Q160139"
+        },
+        {
+          "titel": "Österreich",
+          "beschriftung": "Österreich",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Fritz Cremer",
+          "beschriftung": "Fritz Cremer",
+          "haupt": false,
+          "artikel": "Fritz Cremer",
+          "wikidata": "Q529593"
+        },
+        {
+          "titel": "Liste geflügelter Worte/O",
+          "beschriftung": "„O Deutschland bleiche Mutter“",
+          "haupt": false,
+          "artikel": "Liste geflügelter Worte/O",
+          "wikidata": "Q1862240"
+        },
+        {
+          "titel": "Bertolt Brecht",
+          "beschriftung": "Bertolt Brecht",
+          "haupt": false,
+          "artikel": "Bertolt Brecht",
+          "wikidata": "Q38757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Kampfgruppen",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Kampfgruppeneinheit, Traktor, Industrieanlagen",
+      "entwerfer": "Manfred König und Robert Diedrichs",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": true,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "Kampfgruppen",
+          "beschriftung": "Kampfgruppen",
+          "haupt": false,
+          "artikel": "Kampfgruppen der Arbeiterklasse",
+          "wikidata": "Q644693"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-19",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Kampfgruppen",
+      "bild_beschreibung": "Soldaten der Sowjetarmee, der NVA und Mitglieder der Kampfgruppen, Kämpfer des Roten Frontkämpferbundes (RFB)",
+      "entwerfer": "Manfred König und Robert Diedrichs",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Soldat",
+          "beschriftung": "Soldat",
+          "haupt": true,
+          "artikel": "Soldat",
+          "wikidata": "Q4991371"
+        },
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Sowjetarmee",
+          "haupt": false,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "NVA",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        },
+        {
+          "titel": "Roter Frontkämpferbund",
+          "beschriftung": "Roten Frontkämpferbundes",
+          "haupt": false,
+          "artikel": "Roter Frontkämpferbund",
+          "wikidata": "Q702302"
+        },
+        {
+          "titel": "Kampfgruppen",
+          "beschriftung": "Kampfgruppen",
+          "haupt": false,
+          "artikel": "Kampfgruppen der Arbeiterklasse",
+          "wikidata": "Q644693"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2359",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemeinsamer Weltraumflug UdSSR-DDR (II)",
+      "bild_beschreibung": "Raumschiff Sojus 22, Multispektralkamera MKF-6M",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sojus 22",
+          "beschriftung": "Sojus 22",
+          "haupt": true,
+          "artikel": "Sojus 22",
+          "wikidata": "Q285802"
+        },
+        {
+          "titel": "MKF 6",
+          "beschriftung": "Multispektralkamera MKF-6M",
+          "haupt": false,
+          "artikel": "MKF 6",
+          "wikidata": "Q1881569"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2360",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemeinsamer Weltraumflug UdSSR-DDR (II)",
+      "bild_beschreibung": "Albert Einstein (1879–1955), deutsch-amerikanischer Physiker, Raumschiff Sojus 31",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albert Einstein",
+          "beschriftung": "Albert Einstein",
+          "haupt": true,
+          "artikel": "Albert Einstein",
+          "wikidata": "Q937"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Sojus 31",
+          "beschriftung": "Sojus 31",
+          "haupt": false,
+          "artikel": "Sojus 31",
+          "wikidata": "Q916974"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2361",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemeinsamer Weltraumflug UdSSR-DDR (II)",
+      "bild_beschreibung": "Sigmund Jähn, erster deutscher Kosmonaut",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sigmund Jähn",
+          "beschriftung": "Sigmund Jähn",
+          "haupt": true,
+          "artikel": "Sigmund Jähn",
+          "wikidata": "Q57229"
+        },
+        {
+          "titel": "Raumfahrer",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2362",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemeinsamer Weltraumflug UdSSR-DDR (II)",
+      "bild_beschreibung": "Otto Lilienthal (1848–1896), Ingenieur und Flugpionier; Orbitalstation Saljut mit angekoppeltem Raumschiff Sojus",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Otto Lilienthal",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Ingenieur",
+          "beschriftung": "Ingenieur",
+          "haupt": false,
+          "artikel": "Ingenieur",
+          "wikidata": "Q81096"
+        },
+        {
+          "titel": "Liste bekannter Fliegerinnen und Flieger",
+          "beschriftung": "Flugpionier",
+          "haupt": false,
+          "artikel": "Liste bekannter Personen der Luftfahrt",
+          "wikidata": "Q1647742"
+        },
+        {
+          "titel": "Raumstation",
+          "beschriftung": "Orbitalstation",
+          "haupt": false,
+          "artikel": "Raumstation",
+          "wikidata": "Q25956"
+        },
+        {
+          "titel": "Saljut 6",
+          "beschriftung": "Saljut",
+          "haupt": false,
+          "artikel": "Saljut 6",
+          "wikidata": "Q613601"
+        },
+        {
+          "titel": "Sojus 31",
+          "beschriftung": "Sojus",
+          "haupt": false,
+          "artikel": "Sojus 31",
+          "wikidata": "Q916974"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-21",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gemeinsamer Weltraumflug UdSSR-DDR (II)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Kosmonauten Waleri Bykowski und Sigmund Jähn, Orbitalkomplex, Interkosmos-Emblem, Emblem des ersten gemeinsamen Weltraumfluges",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Waleri Fjodorowitsch Bykowski",
+          "beschriftung": "Waleri Bykowski",
+          "haupt": false,
+          "artikel": "Waleri Fjodorowitsch Bykowski",
+          "wikidata": "Q159681"
+        },
+        {
+          "titel": "Sigmund Jähn",
+          "beschriftung": "Sigmund Jähn",
+          "haupt": false,
+          "artikel": "Sigmund Jähn",
+          "wikidata": "Q57229"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (I)",
+      "bild_beschreibung": "Die folgenden vier Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Pyramide mit 7 Artisten",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Artist (Darsteller)",
+          "beschriftung": "Artisten",
+          "haupt": true,
+          "artikel": "Artist (Darsteller)",
+          "wikidata": "Q17307272"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2365",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (I)",
+      "bild_beschreibung": "Elefant auf Dreirad",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elefanten",
+          "beschriftung": "Elefant",
+          "haupt": true,
+          "artikel": "Elefanten",
+          "wikidata": "Q2372824"
+        },
+        {
+          "titel": "Dreirad",
+          "beschriftung": "Dreirad",
+          "haupt": false,
+          "artikel": "Dreirad",
+          "wikidata": "Q536135"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2366",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (I)",
+      "bild_beschreibung": "Pferdedressur",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": true,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        },
+        {
+          "titel": "dressur",
+          "beschriftung": "dressur",
+          "haupt": false,
+          "artikel": "Dressur",
+          "wikidata": "Q1193939"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2367",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-09-26",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zirkuskunst in der DDR (I)",
+      "bild_beschreibung": "Eisbärendressur",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisbär",
+          "beschriftung": "Eisbär",
+          "haupt": true,
+          "artikel": "Eisbär",
+          "wikidata": "Q33609"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zentrales Jugendobjekt „Drushba-Trasse“",
+      "bild_beschreibung": "Verlegen eines Rohrstückes, Ehrenabzeichen „Erbauer der Druschba-Trasse“",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jugendobjekt",
+          "beschriftung": "Zentrales Jugendobjekt",
+          "haupt": true,
+          "artikel": "Jugendobjekt",
+          "wikidata": "Q1668728"
+        },
+        {
+          "titel": "Druschba-Trasse",
+          "beschriftung": "Drushba-Trasse",
+          "haupt": false,
+          "artikel": "Druschba-Trasse",
+          "wikidata": "Q1261383"
+        },
+        {
+          "titel": "Liste der staatlichen und nichtstaatlichen Auszeichnungen der DDR",
+          "beschriftung": "Ehrenabzeichen",
+          "haupt": false,
+          "artikel": "Liste der staatlichen und nichtstaatlichen Auszeichnungen der DDR",
+          "wikidata": "Q466651"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2369",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr gegen Rassismus",
+      "bild_beschreibung": "Afrikaner hinter Stacheldraht",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationales Jahr gegen Rassismus",
+          "haupt": true,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        },
+        {
+          "titel": "Schwarzafrikaner",
+          "beschriftung": "Afrikaner",
+          "haupt": false,
+          "artikel": "Schwarzafrikaner",
+          "wikidata": "Q2253479"
+        },
+        {
+          "titel": "Stacheldraht",
+          "beschriftung": "Stacheldraht",
+          "haupt": false,
+          "artikel": "Stacheldraht",
+          "wikidata": "Q192065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Staatliche Wissenschaftliche Museen Dresden",
+      "bild_beschreibung": "Museum für Tierkunde Dresden; Ritter- oder Segelfalter (Papilio hahneli)",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Museum für Tierkunde Dresden",
+          "beschriftung": "Museum für Tierkunde Dresden",
+          "haupt": true,
+          "artikel": "Museum für Tierkunde Dresden",
+          "wikidata": "Q250369"
+        },
+        {
+          "titel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "beschriftung": "Staatliche Wissenschaftliche Museen Dresden",
+          "haupt": false,
+          "artikel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "wikidata": "Q2269939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Staatliche Wissenschaftliche Museen Dresden",
+      "bild_beschreibung": "Museum für Tierkunde Dresden; Turkestan-Agame (Agama lehmanni)",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "beschriftung": "Staatliche Wissenschaftliche Museen Dresden",
+          "haupt": true,
+          "artikel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "wikidata": "Q2269939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Staatliche Wissenschaftliche Museen Dresden",
+      "bild_beschreibung": "Museum für Mineralogie und Geologie Dresden; Achat (Fundort Wiederau, Kreis Rochlitz)",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Museum für Mineralogie und Geologie Dresden",
+          "beschriftung": "Museum für Mineralogie und Geologie Dresden",
+          "haupt": true,
+          "artikel": "Museum für Mineralogie und Geologie Dresden",
+          "wikidata": "Q1343014"
+        },
+        {
+          "titel": "Achat",
+          "beschriftung": "Achat",
+          "haupt": false,
+          "artikel": "Achat",
+          "wikidata": "Q123314"
+        },
+        {
+          "titel": "Königshain-Wiederau",
+          "beschriftung": "Wiederau",
+          "haupt": false,
+          "artikel": "Königshain-Wiederau",
+          "wikidata": "Q70981"
+        },
+        {
+          "titel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "beschriftung": "Staatliche Wissenschaftliche Museen Dresden",
+          "haupt": false,
+          "artikel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "wikidata": "Q2269939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Staatliche Wissenschaftliche Museen Dresden",
+      "bild_beschreibung": "Museum für Mineralogie und Geologie Dresden; Fossiler Froschlurch (Palaeobatrachus diluvianus) aus dem Polierschiefer von Seifhennersdorf",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Froschlurche",
+          "beschriftung": "Froschlurch",
+          "haupt": true,
+          "artikel": "Froschlurche",
+          "wikidata": "Q53636"
+        },
+        {
+          "titel": "Polieren",
+          "beschriftung": "Polierschiefer",
+          "haupt": false,
+          "artikel": "Polieren",
+          "wikidata": "Q1054722"
+        },
+        {
+          "titel": "Seifhennersdorf",
+          "beschriftung": "Seifhennersdorf",
+          "haupt": false,
+          "artikel": "Seifhennersdorf",
+          "wikidata": "Q165195"
+        },
+        {
+          "titel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "beschriftung": "Staatliche Wissenschaftliche Museen Dresden",
+          "haupt": false,
+          "artikel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "wikidata": "Q2269939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2374",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-24",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Staatliche Wissenschaftliche Museen Dresden",
+      "bild_beschreibung": "Mathematisch-Physikalischer Salon; Augsburger Stutzuhr (1710)",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mathematisch-Physikalischer Salon",
+          "beschriftung": "Mathematisch-Physikalischer Salon",
+          "haupt": true,
+          "artikel": "Mathematisch-Physikalischer Salon",
+          "wikidata": "Q321088"
+        },
+        {
+          "titel": "Augsburg",
+          "beschriftung": "Augsburg",
+          "haupt": false,
+          "artikel": "Augsburg",
+          "wikidata": "Q2749"
+        },
+        {
+          "titel": "Stockuhr",
+          "beschriftung": "Stutzuhr",
+          "haupt": false,
+          "artikel": "Stockuhr",
+          "wikidata": "Q2350836"
+        },
+        {
+          "titel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "beschriftung": "Staatliche Wissenschaftliche Museen Dresden",
+          "haupt": false,
+          "artikel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "wikidata": "Q2269939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2375",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-24",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Staatliche Wissenschaftliche Museen Dresden",
+      "bild_beschreibung": "Mathematisch-Physikalischer Salon; Gregorianisches Tisch-Spiegelteleskop (Löser-Werkstatt von Schloß Reinharz, um 1750)",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spiegelteleskop",
+          "beschriftung": "Spiegelteleskop",
+          "haupt": true,
+          "artikel": "Spiegelteleskop",
+          "wikidata": "Q35221"
+        },
+        {
+          "titel": "Reinharz",
+          "beschriftung": "Reinharz",
+          "haupt": false,
+          "artikel": "Reinharz",
+          "wikidata": "Q2141262"
+        },
+        {
+          "titel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "beschriftung": "Staatliche Wissenschaftliche Museen Dresden",
+          "haupt": false,
+          "artikel": "Senckenberg Naturhistorische Sammlungen Dresden",
+          "wikidata": "Q2269939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Jagdwaffen aus Suhl",
+      "bild_beschreibung": "Die Marken 2376, 2378 und 2380 wurden als Zusammendruck senkrecht untereinander ausgegeben:; Radschloßgewehr (1630)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radschloss",
+          "beschriftung": "Radschloßgewehr",
+          "haupt": true,
+          "artikel": "Radschloss",
+          "wikidata": "Q1967985"
+        },
+        {
+          "titel": "Jagdwaffe",
+          "beschriftung": "Jagdwaffe",
+          "haupt": false,
+          "artikel": "Jagdwaffe",
+          "wikidata": "Q1678432"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Jagdwaffen aus Suhl",
+      "bild_beschreibung": "Die Marken 2377, 2379 und 2381 wurden als Zusammendruck senkrecht untereinander ausgegeben:; Doppelflinte 147 S (1978)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flinte",
+          "beschriftung": "Doppelflinte",
+          "haupt": true,
+          "artikel": "Flinte",
+          "wikidata": "Q486396"
+        },
+        {
+          "titel": "Jagdwaffe",
+          "beschriftung": "Jagdwaffe",
+          "haupt": false,
+          "artikel": "Jagdwaffe",
+          "wikidata": "Q1678432"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Jagdwaffen aus Suhl",
+      "bild_beschreibung": "Schnapphahngewehr (1780)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steinschloss",
+          "beschriftung": "Schnapphahngewehr",
+          "haupt": true,
+          "artikel": "Steinschloss",
+          "wikidata": "Q369555"
+        },
+        {
+          "titel": "Jagdwaffe",
+          "beschriftung": "Jagdwaffe",
+          "haupt": false,
+          "artikel": "Jagdwaffe",
+          "wikidata": "Q1678432"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Jagdwaffen aus Suhl",
+      "bild_beschreibung": "Bock-Doppelflinte 303 E (1978)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bockbüchse",
+          "beschriftung": "Bock-Doppelflinte",
+          "haupt": true,
+          "artikel": "Bockbüchse",
+          "wikidata": null
+        },
+        {
+          "titel": "Jagdwaffe",
+          "beschriftung": "Jagdwaffe",
+          "haupt": false,
+          "artikel": "Jagdwaffe",
+          "wikidata": "Q1678432"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Jagdwaffen aus Suhl",
+      "bild_beschreibung": "Perkussionsbüchse (1850)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Perkussionswaffe",
+          "beschriftung": "Perkussionsbüchse",
+          "haupt": true,
+          "artikel": "Perkussionswaffe",
+          "wikidata": "Q1760590"
+        },
+        {
+          "titel": "Jagdwaffe",
+          "beschriftung": "Jagdwaffe",
+          "haupt": false,
+          "artikel": "Jagdwaffe",
+          "wikidata": "Q1678432"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Jagdwaffen aus Suhl",
+      "bild_beschreibung": "Drilling 30 (1978)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3060000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Drilling (Jagdwaffe)",
+          "beschriftung": "Drilling",
+          "haupt": true,
+          "artikel": "Drilling (Jagdwaffe)",
+          "wikidata": "Q221740"
+        },
+        {
+          "titel": "Jagdwaffe",
+          "beschriftung": "Jagdwaffe",
+          "haupt": false,
+          "artikel": "Jagdwaffe",
+          "wikidata": "Q1678432"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIII): Rapunzel",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Märchen der Gebrüder Grimm; Szene aus dem Märchen",
+      "entwerfer": "Paul Rosié",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Rapunzel",
+          "beschriftung": "Rapunzel",
+          "haupt": false,
+          "artikel": "Rapunzel",
+          "wikidata": "Q273585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIII): Rapunzel",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Paul Rosié",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Rapunzel",
+          "beschriftung": "Rapunzel",
+          "haupt": false,
+          "artikel": "Rapunzel",
+          "wikidata": "Q273585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIII): Rapunzel",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Paul Rosié",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Rapunzel",
+          "beschriftung": "Rapunzel",
+          "haupt": false,
+          "artikel": "Rapunzel",
+          "wikidata": "Q273585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIII): Rapunzel",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Paul Rosié",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Rapunzel",
+          "beschriftung": "Rapunzel",
+          "haupt": false,
+          "artikel": "Rapunzel",
+          "wikidata": "Q273585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2386",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIII): Rapunzel",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Paul Rosié",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Rapunzel",
+          "beschriftung": "Rapunzel",
+          "haupt": false,
+          "artikel": "Rapunzel",
+          "wikidata": "Q273585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2387",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (XIII): Rapunzel",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Paul Rosié",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Rapunzel",
+          "beschriftung": "Rapunzel",
+          "haupt": false,
+          "artikel": "Rapunzel",
+          "wikidata": "Q273585"
+        }
+      ]
+    }
+  ]
+}

@@ -24,10 +24,12 @@ fun main(args: Array<String>) {
     val startMiNr = args.toList().zipWithNext().firstOrNull { it.first == "--minr" }?.second
     // --vorladen: Vorschaubilder gleich nach dem Start laden (zum Testen ohne Klick)
     val vorladen = "--vorladen" in args
+    // --gebiet Reich: mit diesem Sammelgebiet starten (zum Testen)
+    val startGebiet = args.toList().zipWithNext().firstOrNull { it.first == "--gebiet" }?.second
     SingletonImageLoader.setSafe { context -> philaImageLoader(context, plattform) }
 
     application {
-        val viewModel = remember { AppViewModel(plattform, startMiNr) }
+        val viewModel = remember { AppViewModel(plattform, startMiNr, startGebiet) }
         Window(
             onCloseRequest = ::exitApplication,
             title = APP_NAME,

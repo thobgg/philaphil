@@ -1,0 +1,378 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1951,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1951 der Deutschen Post Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1951_der_Deutschen_Post_Berlin",
+    "revision": 251517144,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 74,
+    "mi_nr_bis": 86,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 13,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "74",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-04-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "100. Todestag von Albert Lortzing (1801–1851)",
+      "bild_beschreibung": "Komponist, Schauspieler und Dirigent",
+      "entwerfer": "Leon Schnell",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1951 74 Albert Lortzing.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albert Lortzing",
+          "beschriftung": "Albert Lortzing",
+          "haupt": true,
+          "artikel": "Albert Lortzing",
+          "wikidata": "Q154203"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Schauspieler",
+          "beschriftung": "Schauspieler",
+          "haupt": false,
+          "artikel": "Schauspieler",
+          "wikidata": "Q33999"
+        },
+        {
+          "titel": "Dirigent",
+          "beschriftung": "Dirigent",
+          "haupt": false,
+          "artikel": "Dirigent",
+          "wikidata": "Q158852"
+        }
+      ]
+    },
+    {
+      "mi_nr": "75",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-06",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (I), Klöppel links",
+      "entwerfer": "Leon Schnell",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1951 75 Freiheitsglocke links.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kirchenglocke",
+          "beschriftung": "Klöppel",
+          "haupt": true,
+          "artikel": "Kirchenglocke",
+          "wikidata": "Q3500690"
+        },
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": false,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "76",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-05-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (I), Klöppel links",
+      "entwerfer": "Leon Schnell",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1951 76 Freiheitsglocke links.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "77",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (I), Klöppel links",
+      "entwerfer": "Leon Schnell",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1951 77 Freiheitsglocke links.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "78",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-05-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (I), Klöppel links",
+      "entwerfer": "Leon Schnell",
+      "auflage": 250000,
+      "commons_datei": "DBPB 1951 78 Freiheitsglocke links.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "79",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (I), Klöppel links",
+      "entwerfer": "Leon Schnell",
+      "auflage": 250000,
+      "commons_datei": "DBPB 1951 79 Freiheitsglocke links.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "80",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-07",
+      "wert": "10+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Kinder mit Lupe vor Briefmarkenalbum und Weltglobus; Zuschlagmarke",
+      "entwerfer": "Leon Schnell",
+      "auflage": 514000,
+      "commons_datei": "DBPB 1951 80 Tag der Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lupe",
+          "beschriftung": "Lupe",
+          "haupt": true,
+          "artikel": "Lupe",
+          "wikidata": "Q166849"
+        },
+        {
+          "titel": "Briefmarkenalbum",
+          "beschriftung": "Briefmarkenalbum",
+          "haupt": false,
+          "artikel": "Briefmarkenalbum",
+          "wikidata": "Q914881"
+        },
+        {
+          "titel": "Globus (Kartografie)",
+          "beschriftung": "Weltglobus",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "81",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-07",
+      "wert": "20+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Kinder mit Lupe vor Briefmarkenalbum und Weltglobus; Zuschlagmarke",
+      "entwerfer": "Leon Schnell",
+      "auflage": 506000,
+      "commons_datei": "DBPB 1951 81 Tag der Briefmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "82",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-01-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (II), Klöppel rechts",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1951 82 Freiheitsglocke rechts.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "83",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-12-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (II), Klöppel rechts",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1951 83 Freiheitsglocke rechts.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "84",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-12-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (II), Klöppel rechts",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1951 84 Freiheitsglocke rechts.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "85",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-01-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (II), Klöppel rechts",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1951 85 Freiheitsglocke rechts.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "86",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-01-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (II), Klöppel rechts",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1951 86 Freiheitsglocke rechts.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

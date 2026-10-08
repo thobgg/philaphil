@@ -1,0 +1,3742 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1968,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1968 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1968_der_Deutschen_Post_der_DDR",
+    "revision": 264782368,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1335,
+    "mi_nr_bis": 1433,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 99,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-17",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1968, Grenoble",
+      "bild_beschreibung": "Eisschnelllauf",
+      "entwerfer": "Dietrich Dorfstecher und Rudolf Platzer",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisschnelllauf",
+          "beschriftung": "Eisschnelllauf",
+          "haupt": true,
+          "artikel": "Eisschnelllauf",
+          "wikidata": "Q17165362"
+        },
+        {
+          "titel": "Olympische Winterspiele 1968",
+          "beschriftung": "Olympische Winterspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1968",
+          "wikidata": "Q9642"
+        },
+        {
+          "titel": "Grenoble",
+          "beschriftung": "Grenoble",
+          "haupt": false,
+          "artikel": "Grenoble",
+          "wikidata": "Q1289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-17",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1968, Grenoble",
+      "bild_beschreibung": "Rennrodeln",
+      "entwerfer": "Dietrich Dorfstecher und Rudolf Platzer",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rennrodeln",
+          "beschriftung": "Rennrodeln",
+          "haupt": true,
+          "artikel": "Rennrodeln",
+          "wikidata": "Q273285"
+        },
+        {
+          "titel": "Olympische Winterspiele 1968",
+          "beschriftung": "Olympische Winterspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1968",
+          "wikidata": "Q9642"
+        },
+        {
+          "titel": "Grenoble",
+          "beschriftung": "Grenoble",
+          "haupt": false,
+          "artikel": "Grenoble",
+          "wikidata": "Q1289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-17",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1968, Grenoble",
+      "bild_beschreibung": "Alpiner Skilauf (Slalom)",
+      "entwerfer": "Dietrich Dorfstecher und Rudolf Platzer",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ski Alpin",
+          "beschriftung": "Alpiner Skilauf",
+          "haupt": true,
+          "artikel": "Ski Alpin",
+          "wikidata": "Q186222"
+        },
+        {
+          "titel": "Slalom",
+          "beschriftung": "Slalom",
+          "haupt": false,
+          "artikel": "Slalom",
+          "wikidata": "Q4117409"
+        },
+        {
+          "titel": "Olympische Winterspiele 1968",
+          "beschriftung": "Olympische Winterspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1968",
+          "wikidata": "Q9642"
+        },
+        {
+          "titel": "Grenoble",
+          "beschriftung": "Grenoble",
+          "haupt": false,
+          "artikel": "Grenoble",
+          "wikidata": "Q1289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1338",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1968, Grenoble",
+      "bild_beschreibung": "Eishockey",
+      "entwerfer": "Dietrich Dorfstecher und Rudolf Platzer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eishockey",
+          "beschriftung": "Eishockey",
+          "haupt": true,
+          "artikel": "Eishockey",
+          "wikidata": "Q41466"
+        },
+        {
+          "titel": "Olympische Winterspiele 1968",
+          "beschriftung": "Olympische Winterspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1968",
+          "wikidata": "Q9642"
+        },
+        {
+          "titel": "Grenoble",
+          "beschriftung": "Grenoble",
+          "haupt": false,
+          "artikel": "Grenoble",
+          "wikidata": "Q1289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1968, Grenoble",
+      "bild_beschreibung": "Eiskunstlauf (Paare)",
+      "entwerfer": "Dietrich Dorfstecher und Rudolf Platzer",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eiskunstlauf",
+          "beschriftung": "Eiskunstlauf",
+          "haupt": true,
+          "artikel": "Eiskunstlauf",
+          "wikidata": "Q38108"
+        },
+        {
+          "titel": "Olympische Winterspiele 1968",
+          "beschriftung": "Olympische Winterspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1968",
+          "wikidata": "Q9642"
+        },
+        {
+          "titel": "Grenoble",
+          "beschriftung": "Grenoble",
+          "haupt": false,
+          "artikel": "Grenoble",
+          "wikidata": "Q1289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1968, Grenoble",
+      "bild_beschreibung": "Skilanglauf",
+      "entwerfer": "Dietrich Dorfstecher und Rudolf Platzer",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skilanglauf",
+          "beschriftung": "Skilanglauf",
+          "haupt": true,
+          "artikel": "Skilanglauf",
+          "wikidata": "Q179687"
+        },
+        {
+          "titel": "Olympische Winterspiele 1968",
+          "beschriftung": "Olympische Winterspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1968",
+          "wikidata": "Q9642"
+        },
+        {
+          "titel": "Grenoble",
+          "beschriftung": "Grenoble",
+          "haupt": false,
+          "artikel": "Grenoble",
+          "wikidata": "Q1289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erfolge der sowjetischen Raumfahrt",
+      "bild_beschreibung": "Interplanetare Station Venus 4, erste weiche Venuslandung am 18. Oktober 1967",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Venera-Programm",
+          "beschriftung": "Venus 4",
+          "haupt": true,
+          "artikel": "Venera-Programm",
+          "wikidata": "Q192144"
+        },
+        {
+          "titel": "Venus (Planet)",
+          "beschriftung": "Venuslandung",
+          "haupt": false,
+          "artikel": "Venus (Planet)",
+          "wikidata": "Q313"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "Erfolge der sowjetischen Raumfahrt",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erfolge der sowjetischen Raumfahrt",
+      "bild_beschreibung": "Raumschiffe Kosmos 186 und Kosmos 188, Erde, erste automatische Kopplung am 30. Oktober 1967",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kosmos 186 und 188",
+          "beschriftung": "Kosmos 186",
+          "haupt": true,
+          "artikel": "Kosmos 186 und 188",
+          "wikidata": "Q545509"
+        },
+        {
+          "titel": "Erde",
+          "beschriftung": "Erde",
+          "haupt": false,
+          "artikel": "Erde",
+          "wikidata": "Q2"
+        },
+        {
+          "titel": "Rendezvous (Raumfahrt)",
+          "beschriftung": "Kopplung",
+          "haupt": false,
+          "artikel": "Rendezvous (Raumfahrt)",
+          "wikidata": "Q1093759"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "Erfolge der sowjetischen Raumfahrt",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1343",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Meteorologisches Hauptobservatorium Potsdam; Meteorologischer Dienst der DDR",
+      "bild_beschreibung": "Diese und die folgenden zwei Marken wurden gemeinsam als Zusammendruck ausgegeben:; Aktinometer, Meteorologisches Hauptobservatorium Potsdam (Süring-Haus), Sonne",
+      "entwerfer": "Joachim Rieß und Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aktinometer",
+          "beschriftung": "Aktinometer",
+          "haupt": true,
+          "artikel": "Aktinometer",
+          "wikidata": "Q403898"
+        },
+        {
+          "titel": "Sonne",
+          "beschriftung": "Sonne",
+          "haupt": false,
+          "artikel": "Sonne",
+          "wikidata": "Q525"
+        },
+        {
+          "titel": "Meteorologie",
+          "beschriftung": "Meteorologisches",
+          "haupt": false,
+          "artikel": "Meteorologie",
+          "wikidata": "Q25261"
+        },
+        {
+          "titel": "Potsdam-Institut für Klimafolgenforschung",
+          "beschriftung": "Hauptobservatorium Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam-Institut für Klimafolgenforschung",
+          "wikidata": "Q251061"
+        },
+        {
+          "titel": "Deutsche Meteorologische Gesellschaft",
+          "beschriftung": "Meteorologischer Dienst der DDR",
+          "haupt": false,
+          "artikel": "Deutsche Meteorologische Gesellschaft",
+          "wikidata": "Q1203558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Meteorologisches Hauptobservatorium Potsdam; Meteorologischer Dienst der DDR",
+      "bild_beschreibung": "Antenne, Satellitenaufnahme der Erdoberfläche Europas",
+      "entwerfer": "Joachim Rieß und Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Antenne",
+          "beschriftung": "Antenne",
+          "haupt": true,
+          "artikel": "Antenne",
+          "wikidata": "Q131214"
+        },
+        {
+          "titel": "Satellitenfotografie",
+          "beschriftung": "Satellitenaufnahme",
+          "haupt": false,
+          "artikel": "Fernerkundung",
+          "wikidata": "Q199687"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        },
+        {
+          "titel": "Meteorologie",
+          "beschriftung": "Meteorologisches",
+          "haupt": false,
+          "artikel": "Meteorologie",
+          "wikidata": "Q25261"
+        },
+        {
+          "titel": "Potsdam-Institut für Klimafolgenforschung",
+          "beschriftung": "Hauptobservatorium Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam-Institut für Klimafolgenforschung",
+          "wikidata": "Q251061"
+        },
+        {
+          "titel": "Deutsche Meteorologische Gesellschaft",
+          "beschriftung": "Meteorologischer Dienst der DDR",
+          "haupt": false,
+          "artikel": "Deutsche Meteorologische Gesellschaft",
+          "wikidata": "Q1203558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Meteorologisches Hauptobservatorium Potsdam; Meteorologischer Dienst der DDR",
+      "bild_beschreibung": "Getreidefeld bei Tag und Nacht, Feldfrüchte",
+      "entwerfer": "Joachim Rieß und Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Getreide",
+          "beschriftung": "Getreide",
+          "haupt": true,
+          "artikel": "Getreide",
+          "wikidata": "Q12117"
+        },
+        {
+          "titel": "Feldfrucht",
+          "beschriftung": "Feldfrüchte",
+          "haupt": false,
+          "artikel": "Feldfrucht",
+          "wikidata": "Q235352"
+        },
+        {
+          "titel": "Meteorologie",
+          "beschriftung": "Meteorologisches",
+          "haupt": false,
+          "artikel": "Meteorologie",
+          "wikidata": "Q25261"
+        },
+        {
+          "titel": "Potsdam-Institut für Klimafolgenforschung",
+          "beschriftung": "Hauptobservatorium Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam-Institut für Klimafolgenforschung",
+          "wikidata": "Q251061"
+        },
+        {
+          "titel": "Deutsche Meteorologische Gesellschaft",
+          "beschriftung": "Meteorologischer Dienst der DDR",
+          "haupt": false,
+          "artikel": "Deutsche Meteorologische Gesellschaft",
+          "wikidata": "Q1203558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Mahn- und Gedenkstätte Sachsenhausen: Glasfenster",
+      "bild_beschreibung": "Glasfenster des Triptychons des Museums für den antifaschistischen Widerstand der europäischen Völker; von Walter Womacka; Illegaler Kampf",
+      "entwerfer": "Axel Bengs",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Triptychon",
+          "beschriftung": "Triptychon",
+          "haupt": true,
+          "artikel": "Triptychon",
+          "wikidata": "Q79218"
+        },
+        {
+          "titel": "Museum für den antifaschistischen Widerstand der europäischen Völker",
+          "beschriftung": "Museums für den antifaschistischen Widerstand der europäischen Völker",
+          "haupt": false,
+          "artikel": "Museum für den antifaschistischen Widerstand der europäischen Völker",
+          "wikidata": null
+        },
+        {
+          "titel": "Walter Womacka",
+          "beschriftung": "Walter Womacka",
+          "haupt": false,
+          "artikel": "Walter Womacka",
+          "wikidata": "Q160350"
+        },
+        {
+          "titel": "Gedenkstätte und Museum Sachsenhausen",
+          "beschriftung": "Nationale Mahn- und Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Gedenkstätte und Museum Sachsenhausen",
+          "wikidata": "Q60322749"
+        },
+        {
+          "titel": "Bleiglasfenster",
+          "beschriftung": "Glasfenster",
+          "haupt": false,
+          "artikel": "Bleiglasfenster",
+          "wikidata": "Q488094"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Mahn- und Gedenkstätte Sachsenhausen: Glasfenster",
+      "bild_beschreibung": "Befreiung",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung",
+          "haupt": true,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        },
+        {
+          "titel": "Gedenkstätte und Museum Sachsenhausen",
+          "beschriftung": "Nationale Mahn- und Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Gedenkstätte und Museum Sachsenhausen",
+          "wikidata": "Q60322749"
+        },
+        {
+          "titel": "Bleiglasfenster",
+          "beschriftung": "Glasfenster",
+          "haupt": false,
+          "artikel": "Bleiglasfenster",
+          "wikidata": "Q488094"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1348",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Mahn- und Gedenkstätte Sachsenhausen: Glasfenster",
+      "bild_beschreibung": "Partisanenkampf",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Partisan",
+          "beschriftung": "Partisan",
+          "haupt": true,
+          "artikel": "Partisan",
+          "wikidata": "Q212948"
+        },
+        {
+          "titel": "Gedenkstätte und Museum Sachsenhausen",
+          "beschriftung": "Nationale Mahn- und Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Gedenkstätte und Museum Sachsenhausen",
+          "wikidata": "Q60322749"
+        },
+        {
+          "titel": "Bleiglasfenster",
+          "beschriftung": "Glasfenster",
+          "haupt": false,
+          "artikel": "Bleiglasfenster",
+          "wikidata": "Q488094"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Dieselelektrische Lokomotive „DE II“",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dieselelektrischer Antrieb",
+          "beschriftung": "Dieselelektrische",
+          "haupt": true,
+          "artikel": "Dieselelektrischer Antrieb",
+          "wikidata": "Q1163778"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        },
+        {
+          "titel": "DE II",
+          "beschriftung": "DE II",
+          "haupt": false,
+          "artikel": "DE II",
+          "wikidata": null
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-29",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Fang- und Gefrierschiff der „Atlantik“-Serie",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Atlantik (Schiffstyp)",
+          "beschriftung": "Atlantik",
+          "haupt": true,
+          "artikel": "Atlantik (Schiffstyp)",
+          "wikidata": "Q756529"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Maxim Gorki",
+      "bild_beschreibung": "Maxim Gorki; Ansicht von Nischni Nowgorod",
+      "entwerfer": "Gerhard Preuß",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1351.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nischni Nowgorod",
+          "beschriftung": "Nischni Nowgorod",
+          "haupt": true,
+          "artikel": "Nischni Nowgorod",
+          "wikidata": "Q891"
+        },
+        {
+          "titel": "Maxim Gorki",
+          "beschriftung": "Maxim Gorki",
+          "haupt": false,
+          "artikel": "Maxim Gorki",
+          "wikidata": "Q12706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Maxim Gorki",
+      "bild_beschreibung": "„Das Lied vom Sturmvogel“, (sinnbildliche Darstellung)",
+      "entwerfer": "Gerhard Preuß",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maxim Gorki",
+          "beschriftung": "Maxim Gorki",
+          "haupt": true,
+          "artikel": "Maxim Gorki",
+          "wikidata": "Q12706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (III)",
+      "bild_beschreibung": "Sorbische Frauen-Festtrachten; Brautjungfer aus Bluno (Kreis Hoyerswerda)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sorben",
+          "beschriftung": "Sorbische",
+          "haupt": true,
+          "artikel": "Sorben",
+          "wikidata": "Q146521"
+        },
+        {
+          "titel": "Brautjungfer",
+          "beschriftung": "Brautjungfer",
+          "haupt": false,
+          "artikel": "Brautjungfer",
+          "wikidata": "Q902435"
+        },
+        {
+          "titel": "Bluno",
+          "beschriftung": "Bluno",
+          "haupt": false,
+          "artikel": "Bluno",
+          "wikidata": "Q18672390"
+        },
+        {
+          "titel": "Kreis Hoyerswerda",
+          "beschriftung": "Kreis Hoyerswerda",
+          "haupt": false,
+          "artikel": "Kreis Hoyerswerda",
+          "wikidata": "Q1787348"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (III)",
+      "bild_beschreibung": "Brautjungfer aus Schleife (Kreis Weißwasser)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schleife (Sachsen)",
+          "beschriftung": "Schleife",
+          "haupt": true,
+          "artikel": "Schleife (Ort)",
+          "wikidata": "Q572576"
+        },
+        {
+          "titel": "Kreis Weißwasser",
+          "beschriftung": "Kreis Weißwasser",
+          "haupt": false,
+          "artikel": "Kreis Weißwasser",
+          "wikidata": "Q1535988"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (III)",
+      "bild_beschreibung": "Brautjungfer aus Crostwitz (Kreis Kamenz)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Crostwitz",
+          "beschriftung": "Crostwitz",
+          "haupt": true,
+          "artikel": "Crostwitz",
+          "wikidata": "Q93223"
+        },
+        {
+          "titel": "Kreis Kamenz",
+          "beschriftung": "Kreis Kamenz",
+          "haupt": false,
+          "artikel": "Kreis Kamenz",
+          "wikidata": "Q1492913"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkstrachten (III)",
+      "bild_beschreibung": "Ledige Patin aus dem Spreewald",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pate",
+          "beschriftung": "Patin",
+          "haupt": true,
+          "artikel": "Pate",
+          "wikidata": "Q223973"
+        },
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": false,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        },
+        {
+          "titel": "Volkstrachten",
+          "beschriftung": "Volkstrachten",
+          "haupt": false,
+          "artikel": "Volkstrachten",
+          "wikidata": "Q132124172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Niederwild",
+      "bild_beschreibung": "Jagdfasan (Phasianus colchicus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "fasan",
+          "beschriftung": "fasan",
+          "haupt": true,
+          "artikel": "Fasan",
+          "wikidata": "Q25432"
+        },
+        {
+          "titel": "Niederwild",
+          "beschriftung": "Niederwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-26",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Niederwild",
+      "bild_beschreibung": "Rebhühner (Perdix perdix)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rebhuhn",
+          "beschriftung": "Rebhühner",
+          "haupt": true,
+          "artikel": "Rebhuhn",
+          "wikidata": "Q26106"
+        },
+        {
+          "titel": "Niederwild",
+          "beschriftung": "Niederwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1359",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Niederwild",
+      "bild_beschreibung": "Stockenten (Anas platyrhynchos)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stockente",
+          "beschriftung": "Stockente",
+          "haupt": true,
+          "artikel": "Stockente",
+          "wikidata": "Q25348"
+        },
+        {
+          "titel": "Niederwild",
+          "beschriftung": "Niederwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1360",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Niederwild",
+      "bild_beschreibung": "Europäische Graugänse (Anser anser)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Graugans",
+          "beschriftung": "Europäische Graugänse",
+          "haupt": true,
+          "artikel": "Graugans",
+          "wikidata": "Q25882"
+        },
+        {
+          "titel": "Niederwild",
+          "beschriftung": "Niederwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1361",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-26",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Niederwild",
+      "bild_beschreibung": "Ringeltauben (Columba palumbus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ringeltaube",
+          "beschriftung": "Ringeltaube",
+          "haupt": true,
+          "artikel": "Ringeltaube",
+          "wikidata": "Q26026"
+        },
+        {
+          "titel": "Niederwild",
+          "beschriftung": "Niederwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1362",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-26",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Niederwild",
+      "bild_beschreibung": "Feldhasen (Lepus europaeus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldhase",
+          "beschriftung": "Feldhase",
+          "haupt": true,
+          "artikel": "Feldhase",
+          "wikidata": "Q26838"
+        },
+        {
+          "titel": "Niederwild",
+          "beschriftung": "Niederwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongress des Freien Deutschen Gewerkschaftsbundes (FDGB), Berlin",
+      "bild_beschreibung": "Fritz Heckert; Gemälde von Erich Hering",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Heckert",
+          "beschriftung": "Fritz Heckert",
+          "haupt": true,
+          "artikel": "Fritz Heckert",
+          "wikidata": "Q108840"
+        },
+        {
+          "titel": "Erich Hering (Maler)",
+          "beschriftung": "Erich Hering",
+          "haupt": false,
+          "artikel": "Erich Hering (Maler)",
+          "wikidata": "Q1697121"
+        },
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freien Deutschen Gewerkschaftsbundes",
+          "haupt": false,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongress des Freien Deutschen Gewerkschaftsbundes (FDGB), Berlin",
+      "bild_beschreibung": "Junge Werktätige vor Neubauten",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freien Deutschen Gewerkschaftsbundes",
+          "haupt": true,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1365 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Karl Marx",
+      "bild_beschreibung": "Ein geschnittener Briefmarkenblock mit aufgedruckter Zähnung hatte die gleichen Motive (Mi.-Nr. 464 B–466 B).; Diese und die folgenden zwei Marken wurden gemeinsam als Zusammendruck ausgegeben:; Titelseite des „Manifestes der Kommunistischen Partei“",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1365 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Manifest der Kommunistischen Partei",
+          "beschriftung": "Manifestes der Kommunistischen Partei",
+          "haupt": false,
+          "artikel": "Manifest der Kommunistischen Partei",
+          "wikidata": "Q40591"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1366 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Karl Marx",
+      "bild_beschreibung": "Karl Marx, Philosoph und Nationalökonom",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1366 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1367 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Karl Marx",
+      "bild_beschreibung": "Titelseite des ersten Bandes von „Das Kapital“",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1367 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Kapital",
+          "beschriftung": "Das Kapital",
+          "haupt": true,
+          "artikel": "Das Kapital",
+          "wikidata": "Q58784"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-05-08",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Menschenrechte",
+      "bild_beschreibung": "Hammer, Amboss; (Recht auf Arbeit)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hammer",
+          "beschriftung": "Hammer",
+          "haupt": true,
+          "artikel": "Hammer",
+          "wikidata": "Q25294"
+        },
+        {
+          "titel": "Amboss",
+          "beschriftung": "Amboss",
+          "haupt": false,
+          "artikel": "Amboss",
+          "wikidata": "Q104363"
+        },
+        {
+          "titel": "Recht auf Arbeit",
+          "beschriftung": "Recht auf Arbeit",
+          "haupt": false,
+          "artikel": "Recht auf Arbeit",
+          "wikidata": "Q514404"
+        },
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": false,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1369",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-05-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Menschenrechte",
+      "bild_beschreibung": "Baum, Erdkugel; (Recht auf Leben)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baum",
+          "beschriftung": "Baum",
+          "haupt": true,
+          "artikel": "Baum",
+          "wikidata": "Q10884"
+        },
+        {
+          "titel": "Erdfigur",
+          "beschriftung": "Erdkugel",
+          "haupt": false,
+          "artikel": "Erdfigur",
+          "wikidata": "Q437882"
+        },
+        {
+          "titel": "Recht auf Leben",
+          "beschriftung": "Recht auf Leben",
+          "haupt": false,
+          "artikel": "Recht auf Leben",
+          "wikidata": "Q25822"
+        },
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": false,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-05-08",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Menschenrechte",
+      "bild_beschreibung": "Friedenstaube, Sonne; (Recht auf Frieden)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": true,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Sonne",
+          "beschriftung": "Sonne",
+          "haupt": false,
+          "artikel": "Sonne",
+          "wikidata": "Q525"
+        },
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": false,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-05-08",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Unbesiegbares Vietnam (II)",
+      "bild_beschreibung": "Bewaffnete Mutter mit Kind",
+      "entwerfer": "Günter Schütz",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Unbesiegbares Vietnam",
+          "beschriftung": "Unbesiegbares Vietnam",
+          "haupt": true,
+          "artikel": "Unbesiegbares Vietnam",
+          "wikidata": "Q2492507"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Europäische Leichtathletikkämpfe der Junioren in Leipzig; Europameisterschaften der Frauen im Rudern in Berlin; Weltmeisterschaften im Turnierangeln in Güstrow",
+      "bild_beschreibung": "Hochsprung",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochsprung",
+          "beschriftung": "Hochsprung",
+          "haupt": true,
+          "artikel": "Hochsprung",
+          "wikidata": "Q165704"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Ruder-Europameisterschaften",
+          "beschriftung": "Europameisterschaften",
+          "haupt": false,
+          "artikel": "Ruder-Europameisterschaften",
+          "wikidata": "Q80767"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Güstrow",
+          "beschriftung": "Güstrow",
+          "haupt": false,
+          "artikel": "Güstrow",
+          "wikidata": "Q16147"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Europäische Leichtathletikkämpfe der Junioren in Leipzig; Europameisterschaften der Frauen im Rudern in Berlin; Weltmeisterschaften im Turnierangeln in Güstrow",
+      "bild_beschreibung": "Rudern",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudern",
+          "beschriftung": "Rudern",
+          "haupt": true,
+          "artikel": "Rudern",
+          "wikidata": "Q21368803"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Ruder-Europameisterschaften",
+          "beschriftung": "Europameisterschaften",
+          "haupt": false,
+          "artikel": "Ruder-Europameisterschaften",
+          "wikidata": "Q80767"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Güstrow",
+          "beschriftung": "Güstrow",
+          "haupt": false,
+          "artikel": "Güstrow",
+          "wikidata": "Q16147"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1374",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Europäische Leichtathletikkämpfe der Junioren in Leipzig; Europameisterschaften der Frauen im Rudern in Berlin; Weltmeisterschaften im Turnierangeln in Güstrow",
+      "bild_beschreibung": "Turnierangeln",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Castingsport",
+          "beschriftung": "Turnierangeln",
+          "haupt": true,
+          "artikel": "Castingsport",
+          "wikidata": "Q56634867"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Ruder-Europameisterschaften",
+          "beschriftung": "Europameisterschaften",
+          "haupt": false,
+          "artikel": "Ruder-Europameisterschaften",
+          "wikidata": "Q80767"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Güstrow",
+          "beschriftung": "Güstrow",
+          "haupt": false,
+          "artikel": "Güstrow",
+          "wikidata": "Q16147"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1375",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Brennende Fackel, Brandenburger Tor, Berlin",
+      "entwerfer": "Rudolf Platzer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fackel",
+          "beschriftung": "Fackel",
+          "haupt": true,
+          "artikel": "Fackel",
+          "wikidata": "Q327954"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Brennende Fackel, stilisiertes Sportstadion",
+      "entwerfer": "Rudolf Platzer",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "stadion",
+          "beschriftung": "stadion",
+          "haupt": true,
+          "artikel": "Stadion",
+          "wikidata": "Q483110"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-20",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfestspiele der Jugend und Studenten, Sofia",
+      "bild_beschreibung": "Emblem der Weltfestspiele, stilisierte Blume, Erdkugel",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Sofia",
+          "beschriftung": "Sofia",
+          "haupt": false,
+          "artikel": "Sofia",
+          "wikidata": "Q472"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfestspiele der Jugend und Studenten, Sofia",
+      "bild_beschreibung": "Emblem der Weltfestspiele, stilisierte Blume, Erdkugel",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Sofia",
+          "beschriftung": "Sofia",
+          "haupt": false,
+          "artikel": "Sofia",
+          "wikidata": "Q472"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (II)",
+      "bild_beschreibung": "Rathaus Wernigerode",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rathaus Wernigerode",
+          "beschriftung": "Rathaus Wernigerode",
+          "haupt": true,
+          "artikel": "Rathaus Wernigerode",
+          "wikidata": "Q25388869"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (II)",
+      "bild_beschreibung": "Schloss Moritzburg bei Dresden",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Moritzburg (Sachsen)",
+          "beschriftung": "Schloss Moritzburg",
+          "haupt": true,
+          "artikel": "Schloss Moritzburg (Sachsen)",
+          "wikidata": "Q156803"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (II)",
+      "bild_beschreibung": "Rathaus Greifswald",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Greifswalder Rathaus",
+          "beschriftung": "Rathaus Greifswald",
+          "haupt": true,
+          "artikel": "Rathaus Greifswald",
+          "wikidata": "Q1545500"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-25",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (II)",
+      "bild_beschreibung": "Neues Palais im Park Sanssouci (Potsdam)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Palais",
+          "beschriftung": "Neues Palais",
+          "haupt": true,
+          "artikel": "Neues Palais",
+          "wikidata": "Q677383"
+        },
+        {
+          "titel": "Sanssouci",
+          "beschriftung": "Park Sanssouci",
+          "haupt": false,
+          "artikel": "Schloss Sanssouci",
+          "wikidata": "Q151330"
+        },
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Geburtstag von Walter Ulbricht",
+      "bild_beschreibung": "Walter Ulbricht, erster Staatsratsvorsitzender der DDR; Staatswappen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Walter Ulbricht",
+          "beschriftung": "Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Walter Ulbricht",
+          "wikidata": "Q2628"
+        },
+        {
+          "titel": "Vorsitzender des Staatsrats (DDR)",
+          "beschriftung": "Staatsratsvorsitzender",
+          "haupt": false,
+          "artikel": "Vorsitzender des Staatsrats",
+          "wikidata": "Q889294"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Rostock",
+      "bild_beschreibung": "Historische Stadtansicht und Stadtwappen von Rostock",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rostocker Wappen",
+          "beschriftung": "Stadtwappen von Rostock",
+          "haupt": true,
+          "artikel": "Rostocker Wappen",
+          "wikidata": "Q1555442"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Rostock",
+      "bild_beschreibung": "Bekannte Bauwerke und Stadtwappen von Rostock",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": true,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1386",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (II)",
+      "bild_beschreibung": "Karl Landsteiner (1868–1943), Bakteriologe",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Landsteiner",
+          "beschriftung": "Karl Landsteiner",
+          "haupt": true,
+          "artikel": "Karl Landsteiner",
+          "wikidata": "Q84405"
+        },
+        {
+          "titel": "Bakteriologe",
+          "beschriftung": "Bakteriologe",
+          "haupt": false,
+          "artikel": "Bakteriologie",
+          "wikidata": "Q243748"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1387",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-17",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (II)",
+      "bild_beschreibung": "Emanuel Lasker (1868–1941), Schriftsteller und Philosoph, Schachweltmeister",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Emanuel Lasker",
+          "beschriftung": "Emanuel Lasker",
+          "haupt": true,
+          "artikel": "Emanuel Lasker",
+          "wikidata": "Q57095"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Schachweltmeister",
+          "beschriftung": "Schachweltmeister",
+          "haupt": false,
+          "artikel": "Schachweltmeister",
+          "wikidata": "Q10290970"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1388",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (II)",
+      "bild_beschreibung": "Hanns Eisler (1898–1962), Komponist",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hanns Eisler",
+          "beschriftung": "Hanns Eisler",
+          "haupt": true,
+          "artikel": "Hanns Eisler",
+          "wikidata": "Q78704"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1389",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (II)",
+      "bild_beschreibung": "Ignaz Semmelweis (1818–1865), Arzt und Geburtshelfer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1389.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ignaz Semmelweis",
+          "beschriftung": "Ignaz Semmelweis",
+          "haupt": true,
+          "artikel": "Ignaz Semmelweis",
+          "wikidata": "Q59736"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Geburtshilfe",
+          "beschriftung": "Geburtshelfer",
+          "haupt": false,
+          "artikel": "Geburtshilfe",
+          "wikidata": "Q20862341"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1390",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (II)",
+      "bild_beschreibung": "Max von Pettenkofer (1818–1901), Hygieniker",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max von Pettenkofer",
+          "beschriftung": "Max von Pettenkofer",
+          "haupt": true,
+          "artikel": "Max von Pettenkofer",
+          "wikidata": "Q44993"
+        },
+        {
+          "titel": "Hygiene",
+          "beschriftung": "Hygieniker",
+          "haupt": false,
+          "artikel": "Hygiene",
+          "wikidata": "Q162297"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1391",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Motorkunstflug",
+      "bild_beschreibung": "Sportflugzeug Typ Trener",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zlín Z-26",
+          "beschriftung": "Trener",
+          "haupt": true,
+          "artikel": "Zlín Z-26",
+          "wikidata": "Q207286"
+        },
+        {
+          "titel": "Kunstflug",
+          "beschriftung": "Motorkunstflug",
+          "haupt": false,
+          "artikel": "Kunstflug",
+          "wikidata": "Q373557"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1392",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-13",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Motorkunstflug",
+      "bild_beschreibung": "Sportflugzeuge Typ Trener beim Spiegelflug",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunstflug",
+          "beschriftung": "Motorkunstflug",
+          "haupt": true,
+          "artikel": "Kunstflug",
+          "wikidata": "Q373557"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1393",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen Dresden, Galerie Neue Meister: Gemälde",
+      "bild_beschreibung": "„Am Strand“; Walter Womacka",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Am Strand (Womacka)",
+          "beschriftung": "Am Strand",
+          "haupt": true,
+          "artikel": "Am Strand (Womacka)",
+          "wikidata": "Q160763"
+        },
+        {
+          "titel": "Walter Womacka",
+          "beschriftung": "Walter Womacka",
+          "haupt": false,
+          "artikel": "Walter Womacka",
+          "wikidata": "Q160350"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1394",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-20",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen Dresden, Galerie Neue Meister: Gemälde",
+      "bild_beschreibung": "„Mähende Bergbauern“; Albin Egger-Lienz",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1394.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albin Egger-Lienz",
+          "beschriftung": "Albin Egger-Lienz",
+          "haupt": true,
+          "artikel": "Albin Egger-Lienz",
+          "wikidata": "Q639706"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1395",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen Dresden, Galerie Neue Meister: Gemälde",
+      "bild_beschreibung": "„Kopfbild eines Bergbauernmädchens“; Wilhelm Leibl",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1395.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Leibl",
+          "beschriftung": "Wilhelm Leibl",
+          "haupt": true,
+          "artikel": "Wilhelm Leibl",
+          "wikidata": "Q704661"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1396",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen Dresden, Galerie Neue Meister: Gemälde",
+      "bild_beschreibung": "„Bildnis der Tochter in chinesischer Tracht“; Jose Venturelli",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1396.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jose Venturelli",
+          "beschriftung": "Jose Venturelli",
+          "haupt": true,
+          "artikel": "Jose Venturelli",
+          "wikidata": null
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1397",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen Dresden, Galerie Neue Meister: Gemälde",
+      "bild_beschreibung": "„Oberschülerin Petra“; Paul Michaelis",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul Michaelis (Maler)",
+          "beschriftung": "Paul Michaelis",
+          "haupt": true,
+          "artikel": "Paul Michaelis (Maler)",
+          "wikidata": "Q2061293"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1398",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-20",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen Dresden, Galerie Neue Meister: Gemälde",
+      "bild_beschreibung": "„Mädchen mit Gitarre in der Landschaft“; Louis Anton Gottlieb Castelli",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 1600000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1398.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Louis Anton Gottlieb Castelli",
+          "beschriftung": "Louis Anton Gottlieb Castelli",
+          "haupt": true,
+          "artikel": "Louis Anton Gottlieb Castelli",
+          "wikidata": null
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1399",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-08-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Modelleisenbahnen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        },
+        {
+          "titel": "Modelleisenbahn",
+          "beschriftung": "Modelleisenbahn",
+          "haupt": false,
+          "artikel": "Modelleisenbahn",
+          "wikidata": "Q623272"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1400",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-11",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nach dem Krieg erbaute Talsperren",
+      "bild_beschreibung": "Talsperre Spremberg",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Talsperre Spremberg",
+          "beschriftung": "Talsperre Spremberg",
+          "haupt": true,
+          "artikel": "Talsperre Spremberg",
+          "wikidata": "Q150046"
+        },
+        {
+          "titel": "Talsperre",
+          "beschriftung": "Talsperre",
+          "haupt": false,
+          "artikel": "Talsperre",
+          "wikidata": "Q12323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1401",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nach dem Krieg erbaute Talsperren",
+      "bild_beschreibung": "Talsperre Pöhl",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1401.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Talsperre Pöhl",
+          "beschriftung": "Talsperre Pöhl",
+          "haupt": true,
+          "artikel": "Talsperre Pöhl",
+          "wikidata": "Q1602617"
+        },
+        {
+          "titel": "Talsperre",
+          "beschriftung": "Talsperre",
+          "haupt": false,
+          "artikel": "Talsperre",
+          "wikidata": "Q12323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1402",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-11",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nach dem Krieg erbaute Talsperren",
+      "bild_beschreibung": "Ohra-Talsperre",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1600000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1402.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ohra-Talsperre",
+          "beschriftung": "Ohra-Talsperre",
+          "haupt": true,
+          "artikel": "Ohra-Talsperre",
+          "wikidata": "Q2016703"
+        },
+        {
+          "titel": "Talsperre",
+          "beschriftung": "Talsperre",
+          "haupt": false,
+          "artikel": "Talsperre",
+          "wikidata": "Q12323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1403",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nach dem Krieg erbaute Talsperren",
+      "bild_beschreibung": "Rappbodetalsperre",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1403.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rappbodetalsperre",
+          "beschriftung": "Rappbodetalsperre",
+          "haupt": true,
+          "artikel": "Rappbodetalsperre",
+          "wikidata": "Q314596"
+        },
+        {
+          "titel": "Talsperre",
+          "beschriftung": "Talsperre",
+          "haupt": false,
+          "artikel": "Talsperre",
+          "wikidata": "Q12323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968, Mexiko-Stadt",
+      "bild_beschreibung": "Kurzstreckenlauf",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sprint",
+          "beschriftung": "Kurzstreckenlauf",
+          "haupt": true,
+          "artikel": "Sprint",
+          "wikidata": "Q624482"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko-Stadt",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1405",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-18",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968, Mexiko-Stadt",
+      "bild_beschreibung": "Stabhochsprung",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stabhochsprung",
+          "beschriftung": "Stabhochsprung",
+          "haupt": true,
+          "artikel": "Stabhochsprung",
+          "wikidata": "Q185027"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko-Stadt",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1406",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-18",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968, Mexiko-Stadt",
+      "bild_beschreibung": "Fußball",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": true,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko-Stadt",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1407",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968, Mexiko-Stadt",
+      "bild_beschreibung": "Kunstturnen (Stufenbarren)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerätturnen",
+          "beschriftung": "Kunstturnen",
+          "haupt": true,
+          "artikel": "Gerätturnen",
+          "wikidata": "Q326827"
+        },
+        {
+          "titel": "Stufenbarren",
+          "beschriftung": "Stufenbarren",
+          "haupt": false,
+          "artikel": "Stufenbarren",
+          "wikidata": "Q89670998"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko-Stadt",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1408",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968, Mexiko-Stadt",
+      "bild_beschreibung": "Wasserball",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserball",
+          "beschriftung": "Wasserball",
+          "haupt": true,
+          "artikel": "Wasserball",
+          "wikidata": "Q7707"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko-Stadt",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1409",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-18",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968, Mexiko-Stadt",
+      "bild_beschreibung": "Rudern (Einer)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudern",
+          "beschriftung": "Rudern",
+          "haupt": true,
+          "artikel": "Rudern",
+          "wikidata": "Q21368803"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko-Stadt",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1410",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Mahnmal Fort de Breendonk, (Belgien)",
+      "entwerfer": "Horst Weiß",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1410.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Fort Breendonk",
+          "beschriftung": "Fort de Breendonk",
+          "haupt": false,
+          "artikel": "Fort Breendonk",
+          "wikidata": "Q700580"
+        },
+        {
+          "titel": "Belgien",
+          "beschriftung": "Belgien",
+          "haupt": false,
+          "artikel": "Belgien",
+          "wikidata": "Q31"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1411",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nützliche Käfer",
+      "bild_beschreibung": "Feld-Sandlaufkäfer (Cicindela campestris)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feld-Sandlaufkäfer",
+          "beschriftung": "Feld-Sandlaufkäfer",
+          "haupt": true,
+          "artikel": "Feld-Sandlaufkäfer",
+          "wikidata": "Q717055"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Nützliche Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1412",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-16",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nützliche Käfer",
+      "bild_beschreibung": "Gewöhnlicher Schaufelläufer (Cychrus caraboides)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewöhnlicher Schaufelläufer",
+          "beschriftung": "Gewöhnlicher Schaufelläufer",
+          "haupt": true,
+          "artikel": "Gewöhnlicher Schaufelläufer",
+          "wikidata": "Q1302515"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Nützliche Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1413",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nützliche Käfer",
+      "bild_beschreibung": "Zweipunkt-Marienkäfer (Adalia bipunctata)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweipunkt-Marienkäfer",
+          "beschriftung": "Zweipunkt-Marienkäfer",
+          "haupt": true,
+          "artikel": "Zweipunkt-Marienkäfer",
+          "wikidata": "Q233024"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Nützliche Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1414",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-16",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nützliche Käfer",
+      "bild_beschreibung": "Feldlaufkäfer (Carabus arcensis)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldlaufkäfer",
+          "beschriftung": "Feldlaufkäfer",
+          "haupt": true,
+          "artikel": "Feldlaufkäfer",
+          "wikidata": null
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Nützliche Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1415",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nützliche Käfer",
+      "bild_beschreibung": "Feuerfleck-Stutzkäfer (Hister bipustulatus)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerfleck-Stutzkäfer",
+          "beschriftung": "Feuerfleck-Stutzkäfer",
+          "haupt": true,
+          "artikel": "Feuerfleck-Stutzkäfer",
+          "wikidata": null
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Nützliche Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1416",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nützliche Käfer",
+      "bild_beschreibung": "Schwarzhals-Buntkäfer (Pseudoclerops mutillarius)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzhals-Buntkäfer",
+          "beschriftung": "Schwarzhals-Buntkäfer",
+          "haupt": true,
+          "artikel": "Schwarzhals-Buntkäfer",
+          "wikidata": null
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Nützliche Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1417",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Novemberrevolution in Deutschland",
+      "bild_beschreibung": "Wladimir Iljitsch Lenin; Faksimile seines Briefes an die Spartakusgruppe vom 18. Oktober 1918",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": true,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Faksimile",
+          "beschriftung": "Faksimile",
+          "haupt": false,
+          "artikel": "Faksimile",
+          "wikidata": "Q194070"
+        },
+        {
+          "titel": "Spartakusbund",
+          "beschriftung": "Spartakusgruppe",
+          "haupt": false,
+          "artikel": "Spartakusbund",
+          "wikidata": "Q156607"
+        },
+        {
+          "titel": "Novemberrevolution",
+          "beschriftung": "Novemberrevolution",
+          "haupt": false,
+          "artikel": "Novemberrevolution",
+          "wikidata": "Q170306"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1418",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Novemberrevolution in Deutschland",
+      "bild_beschreibung": "Bewaffnete Arbeiter, Matrosen und Soldaten; Titelleiste der Zeitung „Die Rote Fahne“",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die Rote Fahne",
+          "beschriftung": "Die Rote Fahne",
+          "haupt": true,
+          "artikel": "Die Rote Fahne",
+          "wikidata": "Q309119"
+        },
+        {
+          "titel": "Novemberrevolution",
+          "beschriftung": "Novemberrevolution",
+          "haupt": false,
+          "artikel": "Novemberrevolution",
+          "wikidata": "Q170306"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1419",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Novemberrevolution in Deutschland",
+      "bild_beschreibung": "Karl Liebknecht und Rosa Luxemburg; Kopf der Zeitung „Neues Deutschland“",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Liebknecht",
+          "beschriftung": "Karl Liebknecht",
+          "haupt": true,
+          "artikel": "Karl Liebknecht",
+          "wikidata": "Q75886"
+        },
+        {
+          "titel": "Rosa Luxemburg",
+          "beschriftung": "Rosa Luxemburg",
+          "haupt": false,
+          "artikel": "Rosa Luxemburg",
+          "wikidata": "Q7231"
+        },
+        {
+          "titel": "Neues Deutschland",
+          "beschriftung": "Neues Deutschland",
+          "haupt": false,
+          "artikel": "Nd",
+          "wikidata": "Q158547"
+        },
+        {
+          "titel": "Novemberrevolution",
+          "beschriftung": "Novemberrevolution",
+          "haupt": false,
+          "artikel": "Novemberrevolution",
+          "wikidata": "Q170306"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1420",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-12",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Orchideen",
+      "bild_beschreibung": "Laelio-Cattleya Maggie Raphaela alba ruba",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Laelio-Cattleya Maggie Raphaela alba ruba",
+          "beschriftung": "Laelio-Cattleya Maggie Raphaela alba ruba",
+          "haupt": true,
+          "artikel": "Laelio-Cattleya Maggie Raphaela alba ruba",
+          "wikidata": null
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1421",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Orchideen",
+      "bild_beschreibung": "Paphiopedilum albertianum",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paphiopedilum albertianum",
+          "beschriftung": "Paphiopedilum albertianum",
+          "haupt": true,
+          "artikel": "Paphiopedilum albertianum",
+          "wikidata": null
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1422",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-12",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Orchideen",
+      "bild_beschreibung": "Cattleya fabia",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cattleya fabia",
+          "beschriftung": "Cattleya fabia",
+          "haupt": true,
+          "artikel": "Cattleya fabia",
+          "wikidata": null
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Orchideen",
+      "bild_beschreibung": "Cattleya aclandia",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cattleya aclandia",
+          "beschriftung": "Cattleya aclandia",
+          "haupt": true,
+          "artikel": "Cattleya aclandia",
+          "wikidata": null
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Orchideen",
+      "bild_beschreibung": "Sobralia macrantha",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sobralia macrantha",
+          "beschriftung": "Sobralia macrantha",
+          "haupt": true,
+          "artikel": "Sobralia macrantha",
+          "wikidata": null
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Orchideen",
+      "bild_beschreibung": "Dendrobium alpha",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dendrobium alpha",
+          "beschriftung": "Dendrobium alpha",
+          "haupt": true,
+          "artikel": "Dendrobium alpha",
+          "wikidata": null
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (III): Der gestiefelte Kater (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": false,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1427",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (III): Der gestiefelte Kater (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": false,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1428",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-27",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (III): Der gestiefelte Kater (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": false,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (III): Der gestiefelte Kater (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": false,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1430",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (III): Der gestiefelte Kater (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": false,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1431",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-11-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (III): Der gestiefelte Kater (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Der gestiefelte Kater",
+          "beschriftung": "Der gestiefelte Kater",
+          "haupt": false,
+          "artikel": "Der gestiefelte Kater",
+          "wikidata": "Q11834"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1432",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-12-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Pionierorganisation „Ernst Thälmann“",
+      "bild_beschreibung": "Spielende und musizierende Kinder der Pionierorganisation",
+      "entwerfer": "Inge Uhlich",
+      "auflage": 10000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1432.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pionierorganisation „Ernst Thälmann“",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1433",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-12-03",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Pionierorganisation „Ernst Thälmann“",
+      "bild_beschreibung": "Spielende und musizierende Kinder der Pionierorganisation",
+      "entwerfer": "Inge Uhlich",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1968, MiNr 1433.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pionierorganisation „Ernst Thälmann“",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2333 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1961,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1961 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1961_der_Deutschen_Post_der_DDR",
+    "revision": 260179031,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 807,
+    "mi_nr_bis": 868,
+    "luecken": [],
+    "ausreisser": [
+      783
+    ],
+    "sondermarken_gezaehlt": 59,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "807",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-01-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "85. Geburtstag von Wilhelm Pieck",
+      "bild_beschreibung": "Wilhelm Pieck",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "808",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-02-06",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Werner Kube (1923–1945)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Werner Kube",
+          "beschriftung": "Werner Kube",
+          "haupt": true,
+          "artikel": "Werner Kube",
+          "wikidata": "Q1483898"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "809",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-02-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Hanno Günther (1921–1942)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hanno Günther",
+          "beschriftung": "Hanno Günther",
+          "haupt": true,
+          "artikel": "Hanno Günther",
+          "wikidata": "Q111078"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "810",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-02-06",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Elvira Eisenschneider (1924–1944)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elvira Eisenschneider",
+          "beschriftung": "Elvira Eisenschneider",
+          "haupt": true,
+          "artikel": "Elvira Eisenschneider",
+          "wikidata": "Q1334255"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "811",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-02-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Herta Lindner (1920–1943), Vorname fälschlich als Hertha abgedruckt",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herta Lindner",
+          "beschriftung": "Herta Lindner",
+          "haupt": true,
+          "artikel": "Herta Lindner",
+          "wikidata": "Q1614691"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "812",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-02-06",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Herbert Tschäpe (1913–1944)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herbert Tschäpe",
+          "beschriftung": "Herbert Tschäpe",
+          "haupt": true,
+          "artikel": "Herbert Tschäpe",
+          "wikidata": "Q1609216"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "813",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-03-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "380-Kilovolt-Schalter, Messezeichen \"MM\"",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volt",
+          "beschriftung": "Kilovolt",
+          "haupt": true,
+          "artikel": "Volt",
+          "wikidata": "Q25250"
+        },
+        {
+          "titel": "Schalter (Elektrotechnik)",
+          "beschriftung": "Schalter",
+          "haupt": false,
+          "artikel": "Schalter (Elektrotechnik)",
+          "wikidata": "Q5320"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "814",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-03-03",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Leipziger Pressezentrum, Messezeichen \"MM\"",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pressezentrum",
+          "beschriftung": "Pressezentrum",
+          "haupt": true,
+          "artikel": "Pressezentrum",
+          "wikidata": "Q2108957"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "815",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-03-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Landschaften und historische Bauwerke (I)",
+      "bild_beschreibung": "Aussichtspunkt der Bastei (Fels) und Lilienstein in der Sächsischen Schweiz",
+      "entwerfer": "Erich Gruner",
+      "auflage": 83000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0815.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bastei (Fels)",
+          "beschriftung": "Bastei (Fels)",
+          "haupt": true,
+          "artikel": "Bastei (Fels)",
+          "wikidata": "Q671486"
+        },
+        {
+          "titel": "Lilienstein",
+          "beschriftung": "Lilienstein",
+          "haupt": false,
+          "artikel": "Lilienstein",
+          "wikidata": "Q315159"
+        },
+        {
+          "titel": "Sächsische Schweiz",
+          "beschriftung": "Sächsischen Schweiz",
+          "haupt": false,
+          "artikel": "Sächsische Schweiz",
+          "wikidata": "Q159539"
+        }
+      ]
+    },
+    {
+      "mi_nr": "816",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-03-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-03-31",
+      "anlass": "Landschaften und historische Bauwerke (I)",
+      "bild_beschreibung": "Blick zum Brocken (Harz)",
+      "entwerfer": "Erich Gruner",
+      "auflage": 21000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0816.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brocken",
+          "beschriftung": "Brocken",
+          "haupt": true,
+          "artikel": "Brocken",
+          "wikidata": "Q155721"
+        },
+        {
+          "titel": "Harz (Mittelgebirge)",
+          "beschriftung": "Harz",
+          "haupt": false,
+          "artikel": "Harz (Mittelgebirge)",
+          "wikidata": "Q4186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "817",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Hochseefischerei",
+      "bild_beschreibung": "Fischtrawler",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischtrawler",
+          "beschriftung": "Fischtrawler",
+          "haupt": true,
+          "artikel": "Trawler",
+          "wikidata": "Q326561"
+        },
+        {
+          "titel": "Hochseefischerei",
+          "beschriftung": "Hochseefischerei",
+          "haupt": false,
+          "artikel": "Hochseefischerei",
+          "wikidata": "Q1454671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "818",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Hochseefischerei",
+      "bild_beschreibung": "Fischer beim Einholen der Netze",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 16500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischer (Beruf)",
+          "beschriftung": "Fischer",
+          "haupt": true,
+          "artikel": "Fischer (Beruf)",
+          "wikidata": "Q331432"
+        },
+        {
+          "titel": "Fischernetz",
+          "beschriftung": "Netze",
+          "haupt": false,
+          "artikel": "Fischernetz",
+          "wikidata": "Q271598"
+        },
+        {
+          "titel": "Hochseefischerei",
+          "beschriftung": "Hochseefischerei",
+          "haupt": false,
+          "artikel": "Hochseefischerei",
+          "wikidata": "Q1454671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "819",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Hochseefischerei",
+      "bild_beschreibung": "Fang- und Verarbeitungsschiff \"Robert Koch\"",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fabrikschiff",
+          "beschriftung": "Verarbeitungsschiff",
+          "haupt": true,
+          "artikel": "Fabrikschiff",
+          "wikidata": "Q431858"
+        },
+        {
+          "titel": "Robert Koch",
+          "beschriftung": "Robert Koch",
+          "haupt": false,
+          "artikel": "Robert Koch",
+          "wikidata": "Q37193"
+        },
+        {
+          "titel": "Hochseefischerei",
+          "beschriftung": "Hochseefischerei",
+          "haupt": false,
+          "artikel": "Hochseefischerei",
+          "wikidata": "Q1454671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "820",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Hochseefischerei",
+      "bild_beschreibung": "Arbeiterin an Fischverarbeitungsmaschine",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0820.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Speisefisch",
+          "beschriftung": "Fischverarbeitungsmaschine",
+          "haupt": true,
+          "artikel": "Speisefisch",
+          "wikidata": "Q600396"
+        },
+        {
+          "titel": "Hochseefischerei",
+          "beschriftung": "Hochseefischerei",
+          "haupt": false,
+          "artikel": "Hochseefischerei",
+          "wikidata": "Q1454671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "783 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-20",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: Mahnmal (IV)",
+      "bild_beschreibung": "Diese Marke wurde ursprünglich 1960 ohne Zierfeld in einer Auflage von 3.000.000 Stück ausgegeben (Mi.-Nr. 783 A).; Mahnmal der Nationalen Gedenkstätte Sachsenhausen",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0783 B ohne Zierfeld.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: Mahnmal",
+          "haupt": true,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Mahnmal",
+          "beschriftung": "Mahnmal",
+          "haupt": false,
+          "artikel": "Mahnmal",
+          "wikidata": "Q1885014"
+        },
+        {
+          "titel": "KZ Sachsenhausen",
+          "beschriftung": "Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "KZ Sachsenhausen",
+          "wikidata": "Q154498"
+        }
+      ]
+    },
+    {
+      "mi_nr": "821",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "15 Jahre SED",
+      "bild_beschreibung": "Vereinigung zweier Demonstrationszüge, Porträts von Marx, Engels und Lenin",
+      "entwerfer": "Oswin Volkamer, Karl Sauer",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "SED",
+          "beschriftung": "SED",
+          "haupt": true,
+          "artikel": "Sozialistische Einheitspartei Deutschlands",
+          "wikidata": "Q49750"
+        },
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstration",
+          "haupt": false,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "822",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Der erste Weltraumflieger Juri Alexejewitsch Gagarin",
+      "bild_beschreibung": "Endstufe der Trägerrakete des Raumschiffs Wostok I, Teil der Erdkugel",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mehrstufenrakete",
+          "beschriftung": "Endstufe",
+          "haupt": true,
+          "artikel": "Stufenrakete",
+          "wikidata": "Q1161829"
+        },
+        {
+          "titel": "Trägerrakete",
+          "beschriftung": "Trägerrakete",
+          "haupt": false,
+          "artikel": "Trägerrakete",
+          "wikidata": "Q697175"
+        },
+        {
+          "titel": "Wostok 1",
+          "beschriftung": "Wostok I",
+          "haupt": false,
+          "artikel": "Wostok 1",
+          "wikidata": "Q182524"
+        }
+      ]
+    },
+    {
+      "mi_nr": "823",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Der erste Weltraumflieger Juri Alexejewitsch Gagarin",
+      "bild_beschreibung": "Kosmonaut Juri Gagarin",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": true,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        },
+        {
+          "titel": "Juri Gagarin",
+          "beschriftung": "Juri Gagarin",
+          "haupt": false,
+          "artikel": "Juri Alexejewitsch Gagarin",
+          "wikidata": "Q7327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "824",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Der erste Weltraumflieger Juri Alexejewitsch Gagarin",
+      "bild_beschreibung": "Weltraumkapsel am Fallschirm über Wolkendecke",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mehrstufenrakete",
+          "beschriftung": "Weltraumkapsel",
+          "haupt": true,
+          "artikel": "Stufenrakete",
+          "wikidata": "Q1161829"
+        },
+        {
+          "titel": "Fallschirm",
+          "beschriftung": "Fallschirm",
+          "haupt": false,
+          "artikel": "Fallschirm",
+          "wikidata": "Q482816"
+        },
+        {
+          "titel": "Wolkendecke",
+          "beschriftung": "Wolkendecke",
+          "haupt": false,
+          "artikel": "Bewölkung",
+          "wikidata": "Q830457"
+        }
+      ]
+    },
+    {
+      "mi_nr": "825",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-05-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "100 Jahre Dresdner Zoo",
+      "bild_beschreibung": "Grant-Zebra (Equus quagga grant)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zebra",
+          "beschriftung": "Grant-Zebra",
+          "haupt": true,
+          "artikel": "Zebras",
+          "wikidata": "Q32789"
+        },
+        {
+          "titel": "Zoo Dresden",
+          "beschriftung": "Dresdner Zoo",
+          "haupt": false,
+          "artikel": "Zoo Dresden",
+          "wikidata": "Q220024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "826",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-05-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "100 Jahre Dresdner Zoo",
+      "bild_beschreibung": "Kilimandscharo-Guarezas (Colobus abessnicus caudatus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarz-weiße Stummelaffen",
+          "beschriftung": "Kilimandscharo-Guarezas",
+          "haupt": true,
+          "artikel": "Schwarz-weiße Stummelaffen",
+          "wikidata": "Q358813"
+        },
+        {
+          "titel": "Zoo Dresden",
+          "beschriftung": "Dresdner Zoo",
+          "haupt": false,
+          "artikel": "Zoo Dresden",
+          "wikidata": "Q220024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "827",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-05-25",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "IV. Pioniertreffen in Erfurt",
+      "bild_beschreibung": "Junge Pioniere beim Volleyball",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": true,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        },
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": false,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": false,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "828",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-05-25",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "IV. Pioniertreffen in Erfurt",
+      "bild_beschreibung": "Junge Pioniere beim Volkstanz",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        },
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": false,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": false,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "829",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-05-25",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "IV. Pioniertreffen in Erfurt",
+      "bild_beschreibung": "Junge Pioniere beim Flugmodellbau",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Modellbau",
+          "beschriftung": "Flugmodellbau",
+          "haupt": true,
+          "artikel": "Modellbau",
+          "wikidata": "Q917912"
+        },
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": false,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": false,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "830",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "III. Europacup im Frauenturnen (Leipzig)",
+      "bild_beschreibung": "Turnerin beim Bodenturnen",
+      "entwerfer": "Wolfgang Bley",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0830.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenturnen",
+          "beschriftung": "Bodenturnen",
+          "haupt": true,
+          "artikel": "Bodenturnen",
+          "wikidata": "Q828144"
+        },
+        {
+          "titel": "Europacup",
+          "beschriftung": "Europacup",
+          "haupt": false,
+          "artikel": "Europapokal",
+          "wikidata": "Q26268681"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "831",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "III. Europacup im Frauenturnen (Leipzig)",
+      "bild_beschreibung": "Turnerin am Schwebebalken",
+      "entwerfer": "Karl-Heinz Müller",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0831.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwebebalken",
+          "beschriftung": "Schwebebalken",
+          "haupt": true,
+          "artikel": "Schwebebalken",
+          "wikidata": "Q655301"
+        },
+        {
+          "titel": "Europacup",
+          "beschriftung": "Europacup",
+          "haupt": false,
+          "artikel": "Europapokal",
+          "wikidata": "Q26268681"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "832",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-03",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "III. Europacup im Frauenturnen (Leipzig)",
+      "bild_beschreibung": "Turnerin am Stufenbarren",
+      "entwerfer": "Karl-Heinz Müller",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0832.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stufenbarren",
+          "beschriftung": "Stufenbarren",
+          "haupt": true,
+          "artikel": "Stufenbarren",
+          "wikidata": "Q89670998"
+        },
+        {
+          "titel": "Europacup",
+          "beschriftung": "Europacup",
+          "haupt": false,
+          "artikel": "Europapokal",
+          "wikidata": "Q26268681"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "833",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "1000 Jahre Halle/Saale",
+      "bild_beschreibung": "Hallknechte vor Burg Giebichenstein",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halloren",
+          "beschriftung": "Hallknechte",
+          "haupt": true,
+          "artikel": "Halloren",
+          "wikidata": "Q1409250"
+        },
+        {
+          "titel": "Burg Giebichenstein",
+          "beschriftung": "Burg Giebichenstein",
+          "haupt": false,
+          "artikel": "Burg Giebichenstein",
+          "wikidata": "Q885088"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Saale",
+          "beschriftung": "Saale",
+          "haupt": false,
+          "artikel": "Saale",
+          "wikidata": "Q1678"
+        }
+      ]
+    },
+    {
+      "mi_nr": "834",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "1000 Jahre Halle/Saale",
+      "bild_beschreibung": "Chemiker vor Hallenser Bauwerken (u. a. Roter Turm, Marktkirche, Franckesche Stiftungen)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Roter Turm (Halle)",
+          "beschriftung": "Roter Turm",
+          "haupt": false,
+          "artikel": "Roter Turm (Halle (Saale))",
+          "wikidata": "Q1368151"
+        },
+        {
+          "titel": "Marktkirche Unser Lieben Frauen",
+          "beschriftung": "Marktkirche",
+          "haupt": false,
+          "artikel": "Marktkirche Unser Lieben Frauen",
+          "wikidata": "Q538370"
+        },
+        {
+          "titel": "Franckesche Stiftungen",
+          "beschriftung": "Franckesche Stiftungen",
+          "haupt": false,
+          "artikel": "Franckesche Stiftungen",
+          "wikidata": "Q276846"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Saale",
+          "beschriftung": "Saale",
+          "haupt": false,
+          "artikel": "Saale",
+          "wikidata": "Q1678"
+        }
+      ]
+    },
+    {
+      "mi_nr": "835",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-22",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Landschaften und historische Bauwerke (II)",
+      "bild_beschreibung": "Ruine Rudelsburg an der Saale",
+      "entwerfer": "Erich Gruner",
+      "auflage": 69000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ruine",
+          "beschriftung": "Ruine",
+          "haupt": true,
+          "artikel": "Ruine",
+          "wikidata": "Q109607"
+        },
+        {
+          "titel": "Rudelsburg",
+          "beschriftung": "Rudelsburg",
+          "haupt": false,
+          "artikel": "Rudelsburg",
+          "wikidata": "Q896555"
+        },
+        {
+          "titel": "Saale",
+          "beschriftung": "Saale",
+          "haupt": false,
+          "artikel": "Saale",
+          "wikidata": "Q1678"
+        }
+      ]
+    },
+    {
+      "mi_nr": "836",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Landschaften und historische Bauwerke (II)",
+      "bild_beschreibung": "Wartburg bei Eisenach",
+      "entwerfer": "Erich Gruner",
+      "auflage": 99000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0836.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburg",
+          "beschriftung": "Wartburg",
+          "haupt": true,
+          "artikel": "Wartburg",
+          "wikidata": "Q151545"
+        },
+        {
+          "titel": "Eisenach",
+          "beschriftung": "Eisenach",
+          "haupt": false,
+          "artikel": "Eisenach",
+          "wikidata": "Q7070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "837",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-06-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Landschaften und historische Bauwerke (II)",
+      "bild_beschreibung": "Rathaus Wernigerode",
+      "entwerfer": "Erich Gruner",
+      "auflage": 65000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0837.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rathaus Wernigerode",
+          "beschriftung": "Rathaus Wernigerode",
+          "haupt": true,
+          "artikel": "Rathaus Wernigerode",
+          "wikidata": "Q25388869"
+        }
+      ]
+    },
+    {
+      "mi_nr": "838",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-06",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Weltmeisterschaften im Kanu–Slalom und Wildwasserrennen (Rote Weißeritz im Rabenauer Grund)",
+      "bild_beschreibung": "Kajak-Einer",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kajak",
+          "beschriftung": "Kajak",
+          "haupt": true,
+          "artikel": "Kajak",
+          "wikidata": "Q179246"
+        },
+        {
+          "titel": "Kanuslalom",
+          "beschriftung": "Kanu–Slalom",
+          "haupt": false,
+          "artikel": "Kanuslalom",
+          "wikidata": "Q31874"
+        },
+        {
+          "titel": "Wildwasserrennsport",
+          "beschriftung": "Wildwasserrennen",
+          "haupt": false,
+          "artikel": "Wildwasserrennsport",
+          "wikidata": "Q1897833"
+        },
+        {
+          "titel": "Rote Weißeritz",
+          "beschriftung": "Rote Weißeritz",
+          "haupt": false,
+          "artikel": "Rote Weißeritz",
+          "wikidata": "Q20288"
+        },
+        {
+          "titel": "Rabenauer Grund",
+          "beschriftung": "Rabenauer Grund",
+          "haupt": false,
+          "artikel": "Rabenauer Grund",
+          "wikidata": "Q32243849"
+        }
+      ]
+    },
+    {
+      "mi_nr": "839",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Weltmeisterschaften im Kanu–Slalom und Wildwasserrennen (Rote Weißeritz im Rabenauer Grund)",
+      "bild_beschreibung": "Kanadier-Einer",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Canadier",
+          "beschriftung": "Kanadier",
+          "haupt": true,
+          "artikel": "Canadier",
+          "wikidata": "Q350709"
+        },
+        {
+          "titel": "Kanuslalom",
+          "beschriftung": "Kanu–Slalom",
+          "haupt": false,
+          "artikel": "Kanuslalom",
+          "wikidata": "Q31874"
+        },
+        {
+          "titel": "Wildwasserrennsport",
+          "beschriftung": "Wildwasserrennen",
+          "haupt": false,
+          "artikel": "Wildwasserrennsport",
+          "wikidata": "Q1897833"
+        },
+        {
+          "titel": "Rote Weißeritz",
+          "beschriftung": "Rote Weißeritz",
+          "haupt": false,
+          "artikel": "Rote Weißeritz",
+          "wikidata": "Q20288"
+        },
+        {
+          "titel": "Rabenauer Grund",
+          "beschriftung": "Rabenauer Grund",
+          "haupt": false,
+          "artikel": "Rabenauer Grund",
+          "wikidata": "Q32243849"
+        }
+      ]
+    },
+    {
+      "mi_nr": "840",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Weltmeisterschaften im Kanu–Slalom und Wildwasserrennen (Rote Weißeritz im Rabenauer Grund)",
+      "bild_beschreibung": "Kanadier-Zweier",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kanuslalom",
+          "beschriftung": "Kanu–Slalom",
+          "haupt": true,
+          "artikel": "Kanuslalom",
+          "wikidata": "Q31874"
+        },
+        {
+          "titel": "Wildwasserrennsport",
+          "beschriftung": "Wildwasserrennen",
+          "haupt": false,
+          "artikel": "Wildwasserrennsport",
+          "wikidata": "Q1897833"
+        },
+        {
+          "titel": "Rote Weißeritz",
+          "beschriftung": "Rote Weißeritz",
+          "haupt": false,
+          "artikel": "Rote Weißeritz",
+          "wikidata": "Q20288"
+        },
+        {
+          "titel": "Rabenauer Grund",
+          "beschriftung": "Rabenauer Grund",
+          "haupt": false,
+          "artikel": "Rabenauer Grund",
+          "wikidata": "Q32243849"
+        }
+      ]
+    },
+    {
+      "mi_nr": "841",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Weltmeisterschaften im Angeln (Merseburg)",
+      "bild_beschreibung": "Turnierangeln: Zielwurf",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Castingsport",
+          "beschriftung": "Zielwurf",
+          "haupt": true,
+          "artikel": "Castingsport",
+          "wikidata": "Q56634867"
+        },
+        {
+          "titel": "Angeln (Fischfang)",
+          "beschriftung": "Angeln",
+          "haupt": false,
+          "artikel": "Angeln",
+          "wikidata": "Q1194492"
+        },
+        {
+          "titel": "Merseburg",
+          "beschriftung": "Merseburg",
+          "haupt": false,
+          "artikel": "Merseburg",
+          "wikidata": "Q14945"
+        }
+      ]
+    },
+    {
+      "mi_nr": "842",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Weltmeisterschaften im Angeln (Merseburg)",
+      "bild_beschreibung": "Sportliches Angeln am fließenden Gewässer",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Angeln (Fischfang)",
+          "beschriftung": "Angeln",
+          "haupt": true,
+          "artikel": "Angeln",
+          "wikidata": "Q1194492"
+        },
+        {
+          "titel": "Merseburg",
+          "beschriftung": "Merseburg",
+          "haupt": false,
+          "artikel": "Merseburg",
+          "wikidata": "Q14945"
+        }
+      ]
+    },
+    {
+      "mi_nr": "843",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-08-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Alte Waage, Messezeichen \"MM\"",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0843.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Waage (Leipzig)",
+          "beschriftung": "Alte Waage",
+          "haupt": true,
+          "artikel": "Alte Waage (Leipzig)",
+          "wikidata": "Q436368"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "844",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-08-23",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Alte Börse, Messezeichen \"MM\"",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0844.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Handelsbörse (Leipzig)",
+          "beschriftung": "Alte Börse",
+          "haupt": true,
+          "artikel": "Alte Handelsbörse (Leipzig)",
+          "wikidata": "Q435606"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "849",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-07",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "Carlo Schönhaar (1924–1942)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carlo Schönhaar",
+          "beschriftung": "Carlo Schönhaar",
+          "haupt": true,
+          "artikel": "Carlo Schönhaar",
+          "wikidata": "Q1042486"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "850",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-07",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "Herbert Baum (1912–1942)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herbert Baum",
+          "beschriftung": "Herbert Baum",
+          "haupt": true,
+          "artikel": "Herbert Baum",
+          "wikidata": "Q77513"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "851",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-07",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "Liselotte Herrmann (1909–1938)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liselotte Herrmann",
+          "beschriftung": "Liselotte Herrmann",
+          "haupt": true,
+          "artikel": "Liselotte Herrmann",
+          "wikidata": "Q110098"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "852",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-07",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "Sophie Scholl (1921–1943) und Hans Scholl (1918–1943)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sophie Scholl",
+          "beschriftung": "Sophie Scholl",
+          "haupt": true,
+          "artikel": "Sophie Scholl",
+          "wikidata": "Q76972"
+        },
+        {
+          "titel": "Hans Scholl",
+          "beschriftung": "Hans Scholl",
+          "haupt": false,
+          "artikel": "Hans Scholl",
+          "wikidata": "Q57820"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "853",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-07",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "Hilde (1909–1943) und Hans Coppi (1916–1942)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hilde Coppi",
+          "beschriftung": "Hilde",
+          "haupt": true,
+          "artikel": "Hilde Coppi",
+          "wikidata": "Q70772"
+        },
+        {
+          "titel": "Hans Coppi",
+          "beschriftung": "Hans Coppi",
+          "haupt": false,
+          "artikel": "Hans Coppi",
+          "wikidata": "Q68152"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau und Erhaltung der Nationalen Gedenkstätten Buchenwald, Ravensbrück und Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "854",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Internationale Gartenbauausstellung (iga), Erfurt",
+      "bild_beschreibung": "Gartentulpen (Tulipa gesneriana)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 7000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0854.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tulpen",
+          "beschriftung": "Gartentulpen",
+          "haupt": true,
+          "artikel": "Tulpen",
+          "wikidata": "Q93201"
+        },
+        {
+          "titel": "egapark",
+          "beschriftung": "Internationale Gartenbauausstellung",
+          "haupt": false,
+          "artikel": "Egapark",
+          "wikidata": "Q1296736"
+        },
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": false,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "855",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Internationale Gartenbauausstellung (iga), Erfurt",
+      "bild_beschreibung": "Dahlien (Dahlia pinnata)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 15000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0855.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dahlien",
+          "beschriftung": "Dahlien",
+          "haupt": true,
+          "artikel": "Dahlien",
+          "wikidata": "Q130918"
+        },
+        {
+          "titel": "egapark",
+          "beschriftung": "Internationale Gartenbauausstellung",
+          "haupt": false,
+          "artikel": "Egapark",
+          "wikidata": "Q1296736"
+        },
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": false,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "856",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Internationale Gartenbauausstellung (iga), Erfurt",
+      "bild_beschreibung": "Edelrose (Rosa spec.)",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0856.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Edelrose",
+          "beschriftung": "Edelrose",
+          "haupt": true,
+          "artikel": "Teehybride",
+          "wikidata": "Q279919"
+        },
+        {
+          "titel": "egapark",
+          "beschriftung": "Internationale Gartenbauausstellung",
+          "haupt": false,
+          "artikel": "Egapark",
+          "wikidata": "Q1296736"
+        },
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": false,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        }
+      ]
+    },
+    {
+      "mi_nr": "857",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-11-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "150. Geburtstag von Franz Liszt (1811-1886)",
+      "bild_beschreibung": "Brustbilder von Franz Liszt und Hector Berlioz",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0857.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Liszt",
+          "beschriftung": "Franz Liszt",
+          "haupt": true,
+          "artikel": "Franz Liszt",
+          "wikidata": "Q41309"
+        },
+        {
+          "titel": "Hector Berlioz",
+          "beschriftung": "Hector Berlioz",
+          "haupt": false,
+          "artikel": "Hector Berlioz",
+          "wikidata": "Q1151"
+        }
+      ]
+    },
+    {
+      "mi_nr": "858",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "150. Geburtstag von Franz Liszt (1811-1886)",
+      "bild_beschreibung": "Jugendhand von Franz Liszt",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "859",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "150. Geburtstag von Franz Liszt (1811-1886)",
+      "bild_beschreibung": "Medaille mit Profil von Franz Liszt",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0859.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Medaille",
+          "beschriftung": "Medaille",
+          "haupt": true,
+          "artikel": "Medaille",
+          "wikidata": "Q131647"
+        }
+      ]
+    },
+    {
+      "mi_nr": "860",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-11-23",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "150. Geburtstag von Franz Liszt (1811-1886)",
+      "bild_beschreibung": "Brustbilder von Franz Liszt und Frédéric Chopin",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0860.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frédéric Chopin",
+          "beschriftung": "Frédéric Chopin",
+          "haupt": true,
+          "artikel": "Frédéric Chopin",
+          "wikidata": "Q1268"
+        }
+      ]
+    },
+    {
+      "mi_nr": "861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Fernsehkamera vor Bildschirm",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0861.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernsehkamera",
+          "beschriftung": "Fernsehkamera",
+          "haupt": true,
+          "artikel": "Elektronische Kamera",
+          "wikidata": "Q313625"
+        },
+        {
+          "titel": "Bildschirm",
+          "beschriftung": "Bildschirm",
+          "haupt": false,
+          "artikel": "Bildschirm",
+          "wikidata": "Q6021804"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Studiomikrofon vor Skale eines Rundfunkempfängers",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0862.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mikrofon",
+          "beschriftung": "Studiomikrofon",
+          "haupt": true,
+          "artikel": "Mikrofon",
+          "wikidata": "Q46384"
+        },
+        {
+          "titel": "Skale",
+          "beschriftung": "Skale",
+          "haupt": false,
+          "artikel": "Skale",
+          "wikidata": "Q2632744"
+        },
+        {
+          "titel": "Rundfunkempfangsgerät",
+          "beschriftung": "Rundfunkempfängers",
+          "haupt": false,
+          "artikel": "Rundfunkempfangsgerät",
+          "wikidata": "Q1644403"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "863",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-11",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Besuch des sowjetischen Kosmonauten German Titow in der DDR",
+      "bild_beschreibung": "Titow und Junge Pioniere",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "German Stepanowitsch Titow",
+          "beschriftung": "Titow",
+          "haupt": true,
+          "artikel": "German Stepanowitsch Titow",
+          "wikidata": "Q152298"
+        },
+        {
+          "titel": "Junge Pioniere",
+          "beschriftung": "Junge Pioniere",
+          "haupt": false,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "UdSSR",
+          "beschriftung": "sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Besuch des sowjetischen Kosmonauten German Titow in der DDR",
+      "bild_beschreibung": "Titow in Leipzig (Augustusplatz)",
+      "entwerfer": "Karl Sauer",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Augustusplatz",
+          "beschriftung": "Augustusplatz",
+          "haupt": false,
+          "artikel": "Augustusplatz",
+          "wikidata": "Q880646"
+        },
+        {
+          "titel": "UdSSR",
+          "beschriftung": "sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-11",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Besuch des sowjetischen Kosmonauten German Titow in der DDR",
+      "bild_beschreibung": "Titow im Raumschiff Wostok II auf der Umlaufbahn um die Erde",
+      "entwerfer": "Karl Sauer",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Raumschiff",
+          "beschriftung": "Raumschiff",
+          "haupt": true,
+          "artikel": "Raumschiff",
+          "wikidata": "Q40218"
+        },
+        {
+          "titel": "Wostok 2",
+          "beschriftung": "Wostok II",
+          "haupt": false,
+          "artikel": "Wostok 2",
+          "wikidata": "Q221678"
+        },
+        {
+          "titel": "Umlaufbahn",
+          "beschriftung": "Umlaufbahn",
+          "haupt": false,
+          "artikel": "Umlaufbahn",
+          "wikidata": "Q4130"
+        },
+        {
+          "titel": "UdSSR",
+          "beschriftung": "sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Besuch des sowjetischen Kosmonauten German Titow in der DDR",
+      "bild_beschreibung": "Auszeichnung Titows mit dem Karl-Marx-Orden",
+      "entwerfer": "Karl Sauer",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Orden",
+          "beschriftung": "Karl-Marx-Orden",
+          "haupt": true,
+          "artikel": "Karl-Marx-Orden",
+          "wikidata": "Q694401"
+        },
+        {
+          "titel": "UdSSR",
+          "beschriftung": "sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Besuch des sowjetischen Kosmonauten German Titow in der DDR",
+      "bild_beschreibung": "Wostok II auf der Umlaufbahn um die Erde",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0867.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "UdSSR",
+          "beschriftung": "sowjetischen",
+          "haupt": true,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-11",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Besuch des sowjetischen Kosmonauten German Titow in der DDR",
+      "bild_beschreibung": "Walter Ulbricht und Titow auf der Fahrt durch Berlin",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Ulbricht",
+          "beschriftung": "Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Walter Ulbricht",
+          "wikidata": "Q2628"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "UdSSR",
+          "beschriftung": "sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": false,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "845",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-08-29",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (I)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 1605660000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0845.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Ulbricht",
+          "beschriftung": "Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Walter Ulbricht",
+          "wikidata": "Q2628"
+        },
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": false,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "846",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-08-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (I)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 5450640000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0846.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "847",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-08-29",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (I)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 689040000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0847.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "848",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-08-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (I)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 1827710000,
+      "commons_datei": "Stamps of Germany (DDR) 1961, MiNr 0848.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    }
+  ]
+}

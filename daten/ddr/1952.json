@@ -1,0 +1,1373 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1952,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1952 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1952_der_Deutschen_Post_der_DDR",
+    "revision": 263634164,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 298,
+    "mi_nr_bis": 341,
+    "luecken": [
+      334,
+      337,
+      340
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 24,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-01-12",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "3. Wintersportmeisterschaften Oberhof 1952",
+      "bild_beschreibung": "Skilangläufer in der Loipe",
+      "entwerfer": "Heinz Liedtke, Heinz Weber",
+      "auflage": 2000000,
+      "commons_datei": "GDR-stamp Wintersport 1952 Mi. 298.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skilanglauf",
+          "beschriftung": "Skilangläufer",
+          "haupt": true,
+          "artikel": "Skilanglauf",
+          "wikidata": "Q179687"
+        },
+        {
+          "titel": "Loipe",
+          "beschriftung": "Loipe",
+          "haupt": false,
+          "artikel": "Loipe",
+          "wikidata": "Q1754598"
+        },
+        {
+          "titel": "Wintersport",
+          "beschriftung": "Wintersport",
+          "haupt": false,
+          "artikel": "Wintersport",
+          "wikidata": "Q204686"
+        },
+        {
+          "titel": "Oberhof",
+          "beschriftung": "Oberhof",
+          "haupt": false,
+          "artikel": "Oberhof",
+          "wikidata": "Q489215"
+        }
+      ]
+    },
+    {
+      "mi_nr": "299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-01-12",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "3. Wintersportmeisterschaften Oberhof 1952",
+      "bild_beschreibung": "Skispringer beim Sprung von der Thüringenschanze im sog. Vorlagestil",
+      "entwerfer": "Heinz Liedtke, Heinz Weber",
+      "auflage": 2000000,
+      "commons_datei": "GDR-stamp Wintersport 1952 Mi. 299.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringer",
+          "haupt": true,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        },
+        {
+          "titel": "Thüringenschanze",
+          "beschriftung": "Thüringenschanze",
+          "haupt": false,
+          "artikel": "Thüringenschanze",
+          "wikidata": "Q325392"
+        },
+        {
+          "titel": "Skisprungtechnik",
+          "beschriftung": "Vorlagestil",
+          "haupt": false,
+          "artikel": "Skisprungtechnik",
+          "wikidata": "Q5208274"
+        },
+        {
+          "titel": "Wintersport",
+          "beschriftung": "Wintersport",
+          "haupt": false,
+          "artikel": "Wintersport",
+          "wikidata": "Q204686"
+        },
+        {
+          "titel": "Oberhof",
+          "beschriftung": "Oberhof",
+          "haupt": false,
+          "artikel": "Oberhof",
+          "wikidata": "Q489215"
+        }
+      ]
+    },
+    {
+      "mi_nr": "300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-03-26",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "125. Todestag von Ludwig van Beethoven",
+      "bild_beschreibung": "Komponist Ludwig van Beethoven",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2305000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": true,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": false,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-03-26",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "125. Todestag von Ludwig van Beethoven",
+      "bild_beschreibung": "Komponist Ludwig van Beethoven",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2305000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "302",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-05-01",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Staatsbesuch von Klement Gottwald",
+      "bild_beschreibung": "Staatspräsident der ČSR Klement Gottwald, Hradschin, Brandenburger Tor",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": "Klement Gottwald-4801.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tschechoslowakische Republik",
+          "beschriftung": "ČSR",
+          "haupt": true,
+          "artikel": "Tschechoslowakei",
+          "wikidata": "Q33946"
+        },
+        {
+          "titel": "Klement Gottwald",
+          "beschriftung": "Klement Gottwald",
+          "haupt": false,
+          "artikel": "Klement Gottwald",
+          "wikidata": "Q296054"
+        },
+        {
+          "titel": "Hradschin",
+          "beschriftung": "Hradschin",
+          "haupt": false,
+          "artikel": "Hradčany (Prag)",
+          "wikidata": "Q744598"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        }
+      ]
+    },
+    {
+      "mi_nr": "303",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-05-01",
+      "wert": "12+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Nationales Aufbauprogramm Berlin",
+      "bild_beschreibung": "Schuttabräumung mit Loren vor dem Hochhaus an der Weberwiese",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trümmerfrau",
+          "beschriftung": "Schuttabräumung",
+          "haupt": true,
+          "artikel": "Trümmerfrau",
+          "wikidata": "Q641166"
+        },
+        {
+          "titel": "Güterlore",
+          "beschriftung": "Loren",
+          "haupt": false,
+          "artikel": "Lore (Eisenbahn)",
+          "wikidata": "Q3644569"
+        },
+        {
+          "titel": "Hochhaus an der Weberwiese",
+          "beschriftung": "Hochhaus an der Weberwiese",
+          "haupt": false,
+          "artikel": "Hochhaus an der Weberwiese",
+          "wikidata": "Q1428812"
+        }
+      ]
+    },
+    {
+      "mi_nr": "304",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-05-01",
+      "wert": "24+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Nationales Aufbauprogramm Berlin",
+      "bild_beschreibung": "Rohbau vor Wohnhäusern in der Stalinallee",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rohbau (Bauwesen)",
+          "beschriftung": "Rohbau",
+          "haupt": true,
+          "artikel": "Rohbau (Bauwesen)",
+          "wikidata": "Q2162190"
+        },
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Stalinallee",
+          "haupt": false,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        }
+      ]
+    },
+    {
+      "mi_nr": "305",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-05-01",
+      "wert": "30+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Nationales Aufbauprogramm Berlin",
+      "bild_beschreibung": "Dachstuhlbau vor dem Roten Rathaus",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dachstuhl",
+          "beschriftung": "Dachstuhl",
+          "haupt": true,
+          "artikel": "Dachstuhl",
+          "wikidata": "Q149495"
+        },
+        {
+          "titel": "Rotes Rathaus",
+          "beschriftung": "Roten Rathaus",
+          "haupt": false,
+          "artikel": "Rotes Rathaus",
+          "wikidata": "Q155210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "306",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-05-01",
+      "wert": "50+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Nationales Aufbauprogramm Berlin",
+      "bild_beschreibung": "Bauleiter und Handwerker mit Bauzeichnung auf einer Baustelle",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauleiter",
+          "beschriftung": "Bauleiter",
+          "haupt": true,
+          "artikel": "Bauleitung",
+          "wikidata": "Q811459"
+        },
+        {
+          "titel": "Bauzeichnung",
+          "beschriftung": "Bauzeichnung",
+          "haupt": false,
+          "artikel": "Bauzeichnung",
+          "wikidata": "Q611203"
+        }
+      ]
+    },
+    {
+      "mi_nr": "307",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-05-05",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "V. Internationale Radfernfahrt für den Frieden Warschau, Berlin, Prag",
+      "bild_beschreibung": "Radrennfahrer auf der Strecke",
+      "entwerfer": "Heinz Liedtke, Heinz Weber",
+      "auflage": 2000000,
+      "commons_datei": "Course de la paix 1952 (timbre RDA).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1952",
+          "beschriftung": "V. Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1952",
+          "wikidata": "Q1667176"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Radrennfahrer",
+          "beschriftung": "Radrennfahrer",
+          "haupt": false,
+          "artikel": "Radrennfahrer",
+          "wikidata": "Q2309784"
+        }
+      ]
+    },
+    {
+      "mi_nr": "308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-07-05",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Händelfest, Halle (Saale)",
+      "bild_beschreibung": "Komponist Georg Friedrich Händel",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": true,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        },
+        {
+          "titel": "Händel-Festspiele Halle",
+          "beschriftung": "Händelfest",
+          "haupt": false,
+          "artikel": "Händel-Festspiele Halle",
+          "wikidata": "Q835892"
+        }
+      ]
+    },
+    {
+      "mi_nr": "309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-07-05",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Händelfest, Halle (Saale)",
+      "bild_beschreibung": "Komponist Albert Lortzing",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albert Lortzing",
+          "beschriftung": "Albert Lortzing",
+          "haupt": true,
+          "artikel": "Albert Lortzing",
+          "wikidata": "Q154203"
+        },
+        {
+          "titel": "Händel-Festspiele Halle",
+          "beschriftung": "Händelfest",
+          "haupt": false,
+          "artikel": "Händel-Festspiele Halle",
+          "wikidata": "Q835892"
+        }
+      ]
+    },
+    {
+      "mi_nr": "310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-07-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Händelfest, Halle (Saale)",
+      "bild_beschreibung": "Komponist Carl Maria von Weber",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Maria von Weber",
+          "beschriftung": "Carl Maria von Weber",
+          "haupt": true,
+          "artikel": "Carl Maria von Weber",
+          "wikidata": "Q154812"
+        },
+        {
+          "titel": "Händel-Festspiele Halle",
+          "beschriftung": "Händelfest",
+          "haupt": false,
+          "artikel": "Händel-Festspiele Halle",
+          "wikidata": "Q835892"
+        }
+      ]
+    },
+    {
+      "mi_nr": "311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-08-11",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Geburts- und Todestage berühmter Persönlichkeiten",
+      "bild_beschreibung": "Schriftsteller Victor Hugo",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Victor Hugo",
+          "beschriftung": "Victor Hugo",
+          "haupt": true,
+          "artikel": "Victor Hugo",
+          "wikidata": "Q535"
+        }
+      ]
+    },
+    {
+      "mi_nr": "312",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-08-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Geburts- und Todestage berühmter Persönlichkeiten",
+      "bild_beschreibung": "Universalgelehrter Leonardo da Vinci",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Universalgelehrter",
+          "beschriftung": "Universalgelehrter",
+          "haupt": true,
+          "artikel": "Universalgelehrter",
+          "wikidata": "Q270141"
+        },
+        {
+          "titel": "Leonardo da Vinci",
+          "beschriftung": "Leonardo da Vinci",
+          "haupt": false,
+          "artikel": "Leonardo da Vinci",
+          "wikidata": "Q762"
+        }
+      ]
+    },
+    {
+      "mi_nr": "313",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-08-11",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Geburts- und Todestage berühmter Persönlichkeiten",
+      "bild_beschreibung": "Dichter Nikolai Gogol",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nikolai Gogol",
+          "beschriftung": "Nikolai Gogol",
+          "haupt": true,
+          "artikel": "Nikolai Wassiljewitsch Gogol",
+          "wikidata": "Q43718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "314",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-08-11",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Geburts- und Todestage berühmter Persönlichkeiten",
+      "bild_beschreibung": "Universalgelehrter Avicenna ibn Sīnā",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Avicenna",
+          "beschriftung": "Avicenna ibn Sīnā",
+          "haupt": true,
+          "artikel": "Avicenna",
+          "wikidata": "Q8011"
+        }
+      ]
+    },
+    {
+      "mi_nr": "315",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-09-07",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Leipziger Herbstmesse 1952",
+      "bild_beschreibung": "Messezeichen „MM“, Leipziger Stadtwappen, Schwermaschinenbau, Erdkugel, Friedenstaube",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        },
+        {
+          "titel": "Maschinenbau",
+          "beschriftung": "Schwermaschinenbau",
+          "haupt": false,
+          "artikel": "Maschinenbau",
+          "wikidata": "Q101333"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Erdkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-09-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Leipziger Herbstmesse 1952",
+      "bild_beschreibung": "Messezeichen „MM“, Leipziger Stadtwappen, Schwermaschinenbau, Erdkugel, Friedenstaube",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-15",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "100. Todestag von Friedrich Ludwig Jahn",
+      "bild_beschreibung": "Initiator der deutschen Turnbewegung Friedrich Ludwig Jahn",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Ludwig Jahn",
+          "beschriftung": "Friedrich Ludwig Jahn",
+          "haupt": true,
+          "artikel": "Friedrich Ludwig Jahn",
+          "wikidata": "Q77098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-18",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "450 Jahre Universität Halle-Wittenberg",
+      "bild_beschreibung": "Augusteum in Wittenberg",
+      "entwerfer": "Erich Gruner",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Universität Halle-Wittenberg",
+          "beschriftung": "Universität Halle-Wittenberg",
+          "haupt": true,
+          "artikel": "Martin-Luther-Universität Halle-Wittenberg",
+          "wikidata": "Q32120"
+        },
+        {
+          "titel": "Augusteum und Lutherhaus Wittenberg",
+          "beschriftung": "Augusteum",
+          "haupt": false,
+          "artikel": "Augusteum und Lutherhaus Wittenberg",
+          "wikidata": "Q459493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-26",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Tag der Briefmarke 1952",
+      "bild_beschreibung": "24 Pf-Pieck-Briefmarke, Friedenstaube, Hammer und Ährenkranz vor Fahnen",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-12-08",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Völkerkongress für den Frieden, Wien 1952",
+      "bild_beschreibung": "Erdkugel mit Fahnenband und Friedenstaube über dem Stephansdom",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stephansdom",
+          "beschriftung": "Stephansdom",
+          "haupt": true,
+          "artikel": "Stephansdom",
+          "wikidata": "Q5943"
+        },
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": false,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-12-08",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Völkerkongress für den Frieden, Wien 1952",
+      "bild_beschreibung": "Erdkugel mit Fahnenband und Friedenstaube über dem Stephansdom",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": true,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "322",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-09-22",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (II), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Wilhelm Pieck (Buchdruck)",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": false,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "323",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-08",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (II), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Wilhelm Pieck (Buchdruck)",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "324",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-08",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (II), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Wilhelm Pieck (Buchdruck)",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "325",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (II), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Wilhelm Pieck (Buchdruck)",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "326",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-06",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1990-10-02",
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (II), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Wilhelm Pieck (Offset)",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "327",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Zeichnerin und Bildhauerin Käthe Kollwitz",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bildhauer",
+          "beschriftung": "Bildhauer",
+          "haupt": true,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "328",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-11",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Dichter Gerhart Hauptmann",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": true,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": false,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "329",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Philosoph Karl Marx",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": true,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "330",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "SPD-Führer August Bebel",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SPD",
+          "beschriftung": "SPD",
+          "haupt": true,
+          "artikel": "Sozialdemokratische Partei Deutschlands",
+          "wikidata": "Q49768"
+        },
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": false,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "331",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Philosoph Georg Wilhelm Friedrich Hegel",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": true,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Georg Wilhelm Friedrich Hegel",
+          "beschriftung": "Georg Wilhelm Friedrich Hegel",
+          "haupt": false,
+          "artikel": "Georg Wilhelm Friedrich Hegel",
+          "wikidata": "Q9235"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "332",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-09",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Arzt und Politiker Rudolf Virchow",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": true,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Rudolf Virchow",
+          "beschriftung": "Rudolf Virchow",
+          "haupt": false,
+          "artikel": "Rudolf Virchow",
+          "wikidata": "Q76432"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "333",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Zeichnerin und Bildhauerin Käthe Kollwitz",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "335",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Philosoph und Politiker von Friedrich Engels",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": true,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "336",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Dichter Gerhart Hauptmann",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "338",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "Philosoph Georg Wilhelm Friedrich Hegel",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "339",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-04-15",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "KPD-Führer Ernst Thälmann",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KPD",
+          "beschriftung": "KPD",
+          "haupt": true,
+          "artikel": "Kommunistische Partei Deutschlands",
+          "wikidata": "Q153401"
+        },
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": false,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "341",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1952-11",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Dauermarkenserie: Persönlichkeiten aus Politik, Kunst und Wissenschaft (II), Wasserzeichen „DDR und Posthorn“",
+      "bild_beschreibung": "SPD-Führer August Bebel",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    }
+  ]
+}

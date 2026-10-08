@@ -1,0 +1,2568 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1986,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1986 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1986_der_Deutschen_Post_der_DDR",
+    "revision": 264963790,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2993,
+    "mi_nr_bis": 3062,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 74,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2993",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-01-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Denkmale der Wasserwirtschaft",
+      "bild_beschreibung": "Handständerkolbenpumpe (um 1900)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "kolbenpumpe",
+          "beschriftung": "kolbenpumpe",
+          "haupt": true,
+          "artikel": "Hubkolbenpumpe",
+          "wikidata": "Q1038362"
+        },
+        {
+          "titel": "Wasserwirtschaft",
+          "beschriftung": "Wasserwirtschaft",
+          "haupt": false,
+          "artikel": "Wasserwirtschaft",
+          "wikidata": "Q1501619"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2994",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-01-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Denkmale der Wasserwirtschaft",
+      "bild_beschreibung": "Wasserturm Berlin-Altglienicke (1906)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserwerk Altglienicke",
+          "beschriftung": "Wasserturm Berlin-Altglienicke",
+          "haupt": true,
+          "artikel": "Wasserwerk Altglienicke",
+          "wikidata": "Q2551946"
+        },
+        {
+          "titel": "Wasserwirtschaft",
+          "beschriftung": "Wasserwirtschaft",
+          "haupt": false,
+          "artikel": "Wasserwirtschaft",
+          "wikidata": "Q1501619"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2995",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-01-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Denkmale der Wasserwirtschaft",
+      "bild_beschreibung": "Wasserwerk Berlin-Friedrichshagen (1893)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserwerk Friedrichshagen",
+          "beschriftung": "Wasserwerk Berlin-Friedrichshagen",
+          "haupt": true,
+          "artikel": "Wasserwerk Friedrichshagen",
+          "wikidata": "Q2551951"
+        },
+        {
+          "titel": "Wasserwirtschaft",
+          "beschriftung": "Wasserwirtschaft",
+          "haupt": false,
+          "artikel": "Wasserwirtschaft",
+          "wikidata": "Q1501619"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2996",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-01-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Denkmale der Wasserwirtschaft",
+      "bild_beschreibung": "Rappbodetalsperre (1959)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rappbodetalsperre",
+          "beschriftung": "Rappbodetalsperre",
+          "haupt": true,
+          "artikel": "Rappbodetalsperre",
+          "wikidata": "Q314596"
+        },
+        {
+          "titel": "Wasserwirtschaft",
+          "beschriftung": "Wasserwirtschaft",
+          "haupt": false,
+          "artikel": "Wasserwirtschaft",
+          "wikidata": "Q1501619"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2997 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Ausgabe im Rastertiefdruck; Sächsischer Postillion (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tiefdruckverfahren",
+          "beschriftung": "Rastertiefdruck",
+          "haupt": true,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Königreich Sachsen",
+          "beschriftung": "Sächsischer",
+          "haupt": false,
+          "artikel": "Königreich Sachsen",
+          "wikidata": "Q153015"
+        },
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": false,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2998 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Preußischer Briefträger (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußischer",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Briefträger",
+          "haupt": false,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": false,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2999 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Preußischer Postbeamter (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": true,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3000 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "1M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Mecklenburger Postbeamter (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburg",
+          "beschriftung": "Mecklenburg",
+          "haupt": true,
+          "artikel": "Mecklenburg",
+          "wikidata": "Q109057"
+        },
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": false,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2997 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Ausgabe im Offsetdruck; Diese und die folgenden drei Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Sächsischer Postillion (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Offsetdruck",
+          "beschriftung": "Offsetdruck",
+          "haupt": true,
+          "artikel": "Offsetdruck",
+          "wikidata": "Q190408"
+        },
+        {
+          "titel": "Königreich Sachsen",
+          "beschriftung": "Sächsischer",
+          "haupt": false,
+          "artikel": "Königreich Sachsen",
+          "wikidata": "Q153015"
+        },
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": false,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2998 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Preußischer Briefträger (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": true,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2999 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Preußischer Postbeamter (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": true,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3000 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-04",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postuniformen",
+      "bild_beschreibung": "Mecklenburger Postbeamter (um 1850)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mecklenburg",
+          "beschriftung": "Mecklenburg",
+          "haupt": true,
+          "artikel": "Mecklenburg",
+          "wikidata": "Q109057"
+        },
+        {
+          "titel": "uniform",
+          "beschriftung": "uniform",
+          "haupt": false,
+          "artikel": "Uniform",
+          "wikidata": "Q7434"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3001",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre Nationale Volksarmee (NVA)",
+      "bild_beschreibung": "Diese Marke wurde mit einem rechts anhängenden Zierfeld ausgegeben:; Truppenfahne der NVA",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": true,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        },
+        {
+          "titel": "Truppenfahne",
+          "beschriftung": "Truppenfahne",
+          "haupt": false,
+          "artikel": "Truppenfahne",
+          "wikidata": "Q60339559"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3002",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-02-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Freie Deutsche Jugend (FDJ)",
+      "bild_beschreibung": "Fahne der FDJ",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1986, MiNr 3002.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "Freie Deutsche Jugend",
+          "haupt": true,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Fahne",
+          "beschriftung": "Fahne",
+          "haupt": false,
+          "artikel": "Fahne",
+          "wikidata": "Q1371499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3003",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-03-11",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Messeemblem, Messegebäude 1946.",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3004",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-03-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Fabriktrawler „Atlantik 488“",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Atlantik 488",
+          "beschriftung": "Atlantik 488",
+          "haupt": true,
+          "artikel": "Atlantik 488",
+          "wikidata": "Q756532"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3005",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-03-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre bemannter Raumflug",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Juri Gagarin (1934–1968), sowjetischer Kosmonaut; Raumschiff Wostok 1",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Juri Alexejewitsch Gagarin",
+          "beschriftung": "Juri Gagarin",
+          "haupt": true,
+          "artikel": "Juri Alexejewitsch Gagarin",
+          "wikidata": "Q7327"
+        },
+        {
+          "titel": "Wostok 1",
+          "beschriftung": "Wostok 1",
+          "haupt": false,
+          "artikel": "Wostok 1",
+          "wikidata": "Q182524"
+        },
+        {
+          "titel": "Bemannte Raumfahrt",
+          "beschriftung": "bemannter Raumflug",
+          "haupt": false,
+          "artikel": "Bemannte Raumfahrt",
+          "wikidata": "Q752783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3006",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-03-25",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre bemannter Raumflug",
+      "bild_beschreibung": "Kosmonauten Waleri Bykowski und Sigmund Jähn; Orbitalkomplex; Interkosmos-Emblem",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waleri Fjodorowitsch Bykowski",
+          "beschriftung": "Waleri Bykowski",
+          "haupt": true,
+          "artikel": "Waleri Fjodorowitsch Bykowski",
+          "wikidata": "Q159681"
+        },
+        {
+          "titel": "Sigmund Jähn",
+          "beschriftung": "Sigmund Jähn",
+          "haupt": false,
+          "artikel": "Sigmund Jähn",
+          "wikidata": "Q57229"
+        },
+        {
+          "titel": "Raumstation",
+          "beschriftung": "Orbitalkomplex",
+          "haupt": false,
+          "artikel": "Raumstation",
+          "wikidata": "Q25956"
+        },
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": false,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        },
+        {
+          "titel": "Bemannte Raumfahrt",
+          "beschriftung": "bemannter Raumflug",
+          "haupt": false,
+          "artikel": "Bemannte Raumfahrt",
+          "wikidata": "Q752783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3007",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-03-25",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre bemannter Raumflug",
+      "bild_beschreibung": "Venussonde Venera; Fourier-Spektrometer; Umlaufbahn um die Venus",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Venus (Planet)",
+          "beschriftung": "Venussonde",
+          "haupt": true,
+          "artikel": "Venus (Planet)",
+          "wikidata": "Q313"
+        },
+        {
+          "titel": "Venera",
+          "beschriftung": "Venera",
+          "haupt": false,
+          "artikel": "Venera-Programm",
+          "wikidata": "Q192144"
+        },
+        {
+          "titel": "Spektrometer",
+          "beschriftung": "Spektrometer",
+          "haupt": false,
+          "artikel": "Spektrometer",
+          "wikidata": "Q188463"
+        },
+        {
+          "titel": "Bemannte Raumfahrt",
+          "beschriftung": "bemannter Raumflug",
+          "haupt": false,
+          "artikel": "Bemannte Raumfahrt",
+          "wikidata": "Q752783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3008",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-03-25",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre bemannter Raumflug",
+      "bild_beschreibung": "Multispektralkamera MKF 6, Orbitalkomplex, Erdaufnahme, Flugzeug, Forschungsschiff",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "MKF 6",
+          "beschriftung": "MKF 6",
+          "haupt": true,
+          "artikel": "MKF 6",
+          "wikidata": "Q1881569"
+        },
+        {
+          "titel": "Raumstation",
+          "beschriftung": "Orbitalkomplex",
+          "haupt": false,
+          "artikel": "Raumstation",
+          "wikidata": "Q25956"
+        },
+        {
+          "titel": "Flugzeug",
+          "beschriftung": "Flugzeug",
+          "haupt": false,
+          "artikel": "Flugzeug",
+          "wikidata": "Q197"
+        },
+        {
+          "titel": "Forschungsschiff",
+          "beschriftung": "Forschungsschiff",
+          "haupt": false,
+          "artikel": "Forschungsschiff",
+          "wikidata": "Q391022"
+        },
+        {
+          "titel": "Bemannte Raumfahrt",
+          "beschriftung": "bemannter Raumflug",
+          "haupt": false,
+          "artikel": "Bemannte Raumfahrt",
+          "wikidata": "Q752783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3009",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED)",
+      "bild_beschreibung": "Karl Marx, Friedrich Engels und Lenin",
+      "entwerfer": "Kraus",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3010",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED)",
+      "bild_beschreibung": "Ernst Thälmann",
+      "entwerfer": "Kraus",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3011",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED)",
+      "bild_beschreibung": "Wilhelm Pieck, Otto Grotewohl",
+      "entwerfer": "Kraus",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        },
+        {
+          "titel": "Otto Grotewohl",
+          "beschriftung": "Otto Grotewohl",
+          "haupt": false,
+          "artikel": "Otto Grotewohl",
+          "wikidata": "Q77210"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3012",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-08",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED)",
+      "bild_beschreibung": "Junge Familie mit Kind",
+      "entwerfer": "Kraus",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": true,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3013",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-08",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Bauarbeiter übergibt Schlüssel",
+      "entwerfer": "Kraus",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Bauberuf",
+          "beschriftung": "Bauarbeiter",
+          "haupt": false,
+          "artikel": "Bauberuf",
+          "wikidata": "Q811122"
+        },
+        {
+          "titel": "Schlüssel",
+          "beschriftung": "Schlüssel",
+          "haupt": false,
+          "artikel": "Schlüssel",
+          "wikidata": "Q132041"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "XI. Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3014",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-04-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Übergabe des Ernst-Thälmann-Parks, Berlin",
+      "bild_beschreibung": "Ernst-Thälmann-Denkmal",
+      "entwerfer": "Kraus",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1986, MiNr 3014.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst-Thälmann-Park",
+          "beschriftung": "Ernst-Thälmann-Park",
+          "haupt": true,
+          "artikel": "Ernst-Thälmann-Park",
+          "wikidata": "Q689324"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Ernst-Thälmann-Denkmal (Prenzlauer Berg)",
+          "beschriftung": "Ernst-Thälmann-Denkmal",
+          "haupt": false,
+          "artikel": "Ernst-Thälmann-Denkmal (Berlin)",
+          "wikidata": "Q1357207"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3015",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (III): Historische Straßenbahnen",
+      "bild_beschreibung": "Dresdner Pferdebahn (1886)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresdner",
+          "haupt": true,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Pferdebahn",
+          "beschriftung": "Pferdebahn",
+          "haupt": false,
+          "artikel": "Pferdebahn",
+          "wikidata": "Q7959671"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Straßenbahn",
+          "beschriftung": "Straßenbahn",
+          "haupt": false,
+          "artikel": "Straßenbahn",
+          "wikidata": "Q3407658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3016",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (III): Historische Straßenbahnen",
+      "bild_beschreibung": "Leipziger Straßenbahn (1896)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Straßenbahn",
+          "beschriftung": "Straßenbahn",
+          "haupt": false,
+          "artikel": "Straßenbahn",
+          "wikidata": "Q3407658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3017",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (III): Historische Straßenbahnen",
+      "bild_beschreibung": "Berliner Straßenbahn (1910)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Straßenbahn Berlin",
+          "beschriftung": "Berliner Straßenbahn",
+          "haupt": true,
+          "artikel": "Straßenbahn Berlin",
+          "wikidata": "Q99668"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Straßenbahn",
+          "beschriftung": "Straßenbahn",
+          "haupt": false,
+          "artikel": "Straßenbahn",
+          "wikidata": "Q3407658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3018",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-20",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (III): Historische Straßenbahnen",
+      "bild_beschreibung": "Hallesche Straßenbahn (1928)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Hallesche",
+          "haupt": true,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Straßenbahn",
+          "beschriftung": "Straßenbahn",
+          "haupt": false,
+          "artikel": "Straßenbahn",
+          "wikidata": "Q3407658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3019",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Dresdner Zoo",
+      "bild_beschreibung": "Sumatra-Orang-Utan (Pongo pygmaeus abeli)",
+      "entwerfer": "Zieger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sumatra-Orang-Utan",
+          "beschriftung": "Sumatra-Orang-Utan",
+          "haupt": true,
+          "artikel": "Sumatra-Orang-Utan",
+          "wikidata": "Q543424"
+        },
+        {
+          "titel": "Zoo Dresden",
+          "beschriftung": "Dresdner Zoo",
+          "haupt": false,
+          "artikel": "Zoo Dresden",
+          "wikidata": "Q220024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3020",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Dresdner Zoo",
+      "bild_beschreibung": "Kilimandscharo-Guereza (Colobus abyssinicus caudatus)",
+      "entwerfer": "Zieger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kilimandscharo",
+          "beschriftung": "Kilimandscharo",
+          "haupt": true,
+          "artikel": "Kilimandscharo",
+          "wikidata": "Q7296"
+        },
+        {
+          "titel": "Guereza",
+          "beschriftung": "Guereza",
+          "haupt": false,
+          "artikel": "Mantelaffe",
+          "wikidata": "Q628239"
+        },
+        {
+          "titel": "Zoo Dresden",
+          "beschriftung": "Dresdner Zoo",
+          "haupt": false,
+          "artikel": "Zoo Dresden",
+          "wikidata": "Q220024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3021",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-27",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Dresdner Zoo",
+      "bild_beschreibung": "Mandrill (Mandrillus sphinx)",
+      "entwerfer": "Zieger",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mandrill",
+          "beschriftung": "Mandrill",
+          "haupt": true,
+          "artikel": "Mandrill",
+          "wikidata": "Q189868"
+        },
+        {
+          "titel": "Zoo Dresden",
+          "beschriftung": "Dresdner Zoo",
+          "haupt": false,
+          "artikel": "Zoo Dresden",
+          "wikidata": "Q220024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3022",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-05-27",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Dresdner Zoo",
+      "bild_beschreibung": "Katta (Lemur catta)",
+      "entwerfer": "Zieger",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katta",
+          "beschriftung": "Katta",
+          "haupt": true,
+          "artikel": "Katta",
+          "wikidata": "Q185385"
+        },
+        {
+          "titel": "Zoo Dresden",
+          "beschriftung": "Dresdner Zoo",
+          "haupt": false,
+          "artikel": "Zoo Dresden",
+          "wikidata": "Q220024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3023",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (I)",
+      "bild_beschreibung": "Ältestes Stadtsiegel (1253)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Stadtsiegel",
+          "haupt": true,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3024",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (I)",
+      "bild_beschreibung": "Ältester Stadtplan (1648)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stadtplan",
+          "beschriftung": "Stadtplan",
+          "haupt": true,
+          "artikel": "Stadtplan",
+          "wikidata": "Q336371"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3025",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-03",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (I)",
+      "bild_beschreibung": "Ältestes Stadtwappen (1280)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Stadtwappen",
+          "haupt": true,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3026",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-03",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (I)",
+      "bild_beschreibung": "Nikolaikirche (um 1832)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nikolaikirche (Berlin)",
+          "beschriftung": "Nikolaikirche",
+          "haupt": true,
+          "artikel": "Nikolaikirche (Berlin)",
+          "wikidata": "Q679052"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3027",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-03",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (I)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Haus des Ministerrats der DDR",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Altes Stadthaus (Berlin)",
+          "beschriftung": "Haus des Ministerrats der DDR",
+          "haupt": false,
+          "artikel": "Altes Stadthaus (Berlin)",
+          "wikidata": "Q95417"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3028",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "21. Arbeiterfestspiele der DDR, Bezirk Magdeburg",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Trachtenpaar, Traktor, Förderbagger, Fachwerkhaus",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Trachtenpaar",
+          "haupt": true,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        },
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": false,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "Schaufelradbagger",
+          "beschriftung": "Förderbagger",
+          "haupt": false,
+          "artikel": "Schaufelradbagger",
+          "wikidata": "Q278222"
+        },
+        {
+          "titel": "Fachwerkhaus",
+          "beschriftung": "Fachwerkhaus",
+          "haupt": false,
+          "artikel": "Fachwerkhaus",
+          "wikidata": "Q12020836"
+        },
+        {
+          "titel": "Arbeiterfestspiele der DDR",
+          "beschriftung": "Arbeiterfestspiele der DDR",
+          "haupt": false,
+          "artikel": "Arbeiterfestspiele der DDR",
+          "wikidata": "Q627139"
+        },
+        {
+          "titel": "Bezirk Magdeburg",
+          "beschriftung": "Bezirk Magdeburg",
+          "haupt": false,
+          "artikel": "Bezirk Magdeburg",
+          "wikidata": "Q48083"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3029",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-06-17",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "21. Arbeiterfestspiele der DDR, Bezirk Magdeburg",
+      "bild_beschreibung": "Frachtkähne im Elbhafen von Magdeburg, Stadtansicht",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kahn",
+          "beschriftung": "Frachtkähne",
+          "haupt": true,
+          "artikel": "Kahn",
+          "wikidata": "Q5457690"
+        },
+        {
+          "titel": "Magdeburg-Industriehafen",
+          "beschriftung": "Elbhafen von Magdeburg",
+          "haupt": false,
+          "artikel": "Magdeburg-Industriehafen",
+          "wikidata": "Q1529168"
+        },
+        {
+          "titel": "Arbeiterfestspiele der DDR",
+          "beschriftung": "Arbeiterfestspiele der DDR",
+          "haupt": false,
+          "artikel": "Arbeiterfestspiele der DDR",
+          "wikidata": "Q627139"
+        },
+        {
+          "titel": "Bezirk Magdeburg",
+          "beschriftung": "Bezirk Magdeburg",
+          "haupt": false,
+          "artikel": "Bezirk Magdeburg",
+          "wikidata": "Q48083"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3030",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-07-22",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "9. Briefmarkenausstellung der Jugend, Berlin",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Berlin (um 1652)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3031",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-07-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "9. Briefmarkenausstellung der Jugend, Berlin",
+      "bild_beschreibung": "Historische und moderne Gebäude in Berlin",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3032",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-07-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlösser",
+      "bild_beschreibung": "Diese Marke wurde auch als Kleinbogen ausgegeben:; Schloss Schwerin",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 32400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Schloss Schwerin",
+          "beschriftung": "Schloss Schwerin",
+          "haupt": false,
+          "artikel": "Schweriner Schloss",
+          "wikidata": "Q573656"
+        },
+        {
+          "titel": "Schloss (Architektur)",
+          "beschriftung": "Schlösser",
+          "haupt": false,
+          "artikel": "Schloss (Architektur)",
+          "wikidata": "Q751876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3033",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-07-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlösser",
+      "bild_beschreibung": "Diese Marke wurde auch als Kleinbogen ausgegeben:; Schloss Güstrow",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 16400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Schloss Güstrow",
+          "beschriftung": "Schloss Güstrow",
+          "haupt": false,
+          "artikel": "Schloss Güstrow",
+          "wikidata": "Q2241369"
+        },
+        {
+          "titel": "Schloss (Architektur)",
+          "beschriftung": "Schlösser",
+          "haupt": false,
+          "artikel": "Schloss (Architektur)",
+          "wikidata": "Q751876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3034",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-07-29",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlösser",
+      "bild_beschreibung": "Schloss Rheinsberg",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Rheinsberg",
+          "beschriftung": "Schloss Rheinsberg",
+          "haupt": true,
+          "artikel": "Schloss Rheinsberg",
+          "wikidata": "Q317840"
+        },
+        {
+          "titel": "Schloss (Architektur)",
+          "beschriftung": "Schlösser",
+          "haupt": false,
+          "artikel": "Schloss (Architektur)",
+          "wikidata": "Q751876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3035",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-07-29",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlösser",
+      "bild_beschreibung": "Schloss Ludwigslust",
+      "entwerfer": "Snechana Russewa-Hoyer",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Ludwigslust",
+          "beschriftung": "Schloss Ludwigslust",
+          "haupt": true,
+          "artikel": "Schloss Ludwigslust",
+          "wikidata": "Q442394"
+        },
+        {
+          "titel": "Schloss (Architektur)",
+          "beschriftung": "Schlösser",
+          "haupt": false,
+          "artikel": "Schloss (Architektur)",
+          "wikidata": "Q751876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3036",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-05",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr des Friedens",
+      "bild_beschreibung": "Friedenstauben, UNO-Emblem, Hände",
+      "entwerfer": "Kaiser",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1986, MiNr 3036.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Jahre und Dekaden",
+          "beschriftung": "Internationales Jahr des Friedens",
+          "haupt": true,
+          "artikel": "Internationale Jahre und Dekaden",
+          "wikidata": "Q13534339"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "UNO",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3037",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre antifaschistischer Schutzwall",
+      "bild_beschreibung": "Mitglieder der Kampfgruppen der Arbeiterklasse und der Freien Deutschen Jugend, Brandenburger Tor, Staatswappen",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "antifaschistischer Schutzwall",
+          "beschriftung": "antifaschistischer Schutzwall",
+          "haupt": true,
+          "artikel": "Antifaschistischer Schutzwall",
+          "wikidata": "Q15783635"
+        },
+        {
+          "titel": "Kampfgruppen der Arbeiterklasse",
+          "beschriftung": "Kampfgruppen der Arbeiterklasse",
+          "haupt": false,
+          "artikel": "Kampfgruppen der Arbeiterklasse",
+          "wikidata": "Q644693"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "Freien Deutschen Jugend",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Staatswappen der DDR",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3038",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-19",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Diese und die folgende Marke wurde als Briefmarkenblock ausgegeben:; Ring-Messehaus",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Ring-Messehaus (Leipzig)",
+          "beschriftung": "Ring-Messehaus",
+          "haupt": false,
+          "artikel": "Ring-Messehaus (Leipzig)",
+          "wikidata": "Q2153474"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3039",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-08-19",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Historische Marktszene",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3040",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Münzen: Städtetaler",
+      "bild_beschreibung": "Stadttaler Rostock (1637)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": true,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Münze",
+          "beschriftung": "Münze",
+          "haupt": false,
+          "artikel": "Münze",
+          "wikidata": "Q41207"
+        },
+        {
+          "titel": "Scheidemünze",
+          "beschriftung": "Städtetaler",
+          "haupt": false,
+          "artikel": "Scheidemünze",
+          "wikidata": "Q834400"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3041",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Münzen: Städtetaler",
+      "bild_beschreibung": "Stadttaler Nordhausen (1660)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 5100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nordhausen",
+          "beschriftung": "Nordhausen",
+          "haupt": true,
+          "artikel": "Nordhausen",
+          "wikidata": "Q7033"
+        },
+        {
+          "titel": "Münze",
+          "beschriftung": "Münze",
+          "haupt": false,
+          "artikel": "Münze",
+          "wikidata": "Q41207"
+        },
+        {
+          "titel": "Scheidemünze",
+          "beschriftung": "Städtetaler",
+          "haupt": false,
+          "artikel": "Scheidemünze",
+          "wikidata": "Q834400"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3042",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Münzen: Städtetaler",
+      "bild_beschreibung": "Stadttaler Erfurt (1633)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 4200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erfurt",
+          "beschriftung": "Erfurt",
+          "haupt": true,
+          "artikel": "Erfurt",
+          "wikidata": "Q1729"
+        },
+        {
+          "titel": "Münze",
+          "beschriftung": "Münze",
+          "haupt": false,
+          "artikel": "Münze",
+          "wikidata": "Q41207"
+        },
+        {
+          "titel": "Scheidemünze",
+          "beschriftung": "Städtetaler",
+          "haupt": false,
+          "artikel": "Scheidemünze",
+          "wikidata": "Q834400"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3043",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Münzen: Städtetaler",
+      "bild_beschreibung": "Stadttaler Magdeburg (1638)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 4200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magdeburg",
+          "beschriftung": "Magdeburg",
+          "haupt": true,
+          "artikel": "Magdeburg",
+          "wikidata": "Q1733"
+        },
+        {
+          "titel": "Münze",
+          "beschriftung": "Münze",
+          "haupt": false,
+          "artikel": "Münze",
+          "wikidata": "Q41207"
+        },
+        {
+          "titel": "Scheidemünze",
+          "beschriftung": "Städtetaler",
+          "haupt": false,
+          "artikel": "Scheidemünze",
+          "wikidata": "Q834400"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3044",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "1M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Münzen: Städtetaler",
+      "bild_beschreibung": "Stadttaler Stralsund (1622)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stralsund",
+          "beschriftung": "Stralsund",
+          "haupt": true,
+          "artikel": "Stralsund",
+          "wikidata": "Q4065"
+        },
+        {
+          "titel": "Münze",
+          "beschriftung": "Münze",
+          "haupt": false,
+          "artikel": "Münze",
+          "wikidata": "Q41207"
+        },
+        {
+          "titel": "Scheidemünze",
+          "beschriftung": "Städtetaler",
+          "haupt": false,
+          "artikel": "Scheidemünze",
+          "wikidata": "Q834400"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3045",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Sportschießen, Suhl",
+      "bild_beschreibung": "Gewehrschießen",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewehrschießen",
+          "beschriftung": "Gewehrschießen",
+          "haupt": true,
+          "artikel": "Sportschießen",
+          "wikidata": "Q206989"
+        },
+        {
+          "titel": "Sportschießen",
+          "beschriftung": "Sportschießen",
+          "haupt": false,
+          "artikel": "Sportschießen",
+          "wikidata": "Q206989"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3046",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Sportschießen, Suhl",
+      "bild_beschreibung": "Pistolenschießen",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pistolenschießen",
+          "beschriftung": "Pistolenschießen",
+          "haupt": true,
+          "artikel": "Sportschießen",
+          "wikidata": "Q206989"
+        },
+        {
+          "titel": "Sportschießen",
+          "beschriftung": "Sportschießen",
+          "haupt": false,
+          "artikel": "Sportschießen",
+          "wikidata": "Q206989"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3047",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-02",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Sportschießen, Suhl",
+      "bild_beschreibung": "Skeetschießen",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wurfscheibenschießen",
+          "beschriftung": "Skeetschießen",
+          "haupt": true,
+          "artikel": "Wurfscheibenschießen",
+          "wikidata": "Q5130059"
+        },
+        {
+          "titel": "Sportschießen",
+          "beschriftung": "Sportschießen",
+          "haupt": false,
+          "artikel": "Sportschießen",
+          "wikidata": "Q206989"
+        },
+        {
+          "titel": "Suhl",
+          "beschriftung": "Suhl",
+          "haupt": false,
+          "artikel": "Suhl",
+          "wikidata": "Q14891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3048",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Grenztruppen der DDR",
+      "bild_beschreibung": "Soldat der Grenztruppen, Grenzpfahl",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Grenztruppen der DDR",
+          "beschriftung": "Grenztruppen der DDR",
+          "haupt": true,
+          "artikel": "Grenztruppen der DDR",
+          "wikidata": "Q704449"
+        },
+        {
+          "titel": "DDR-Grenzsäule",
+          "beschriftung": "Grenzpfahl",
+          "haupt": false,
+          "artikel": "DDR-Grenzsäule",
+          "wikidata": "Q1152528"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3049",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-09",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XI. Weltgewerkschaftskongreß, Berlin",
+      "bild_beschreibung": "Diese Marke wurde mit einem rechts anhängenden Zierfeld ausgegeben:; Weltkugeln, Flaggenband",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltgewerkschaftsbund",
+          "beschriftung": "XI. Weltgewerkschaftskongreß",
+          "haupt": true,
+          "artikel": "Weltgewerkschaftsbund",
+          "wikidata": "Q748999"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Weltkugeln",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3050",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Formierung der Internationalen Brigaden in Spanien",
+      "bild_beschreibung": "Denkmal der deutschen Interbrigadisten im Volkspark Friedrichshain, Berlin",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Brigaden",
+          "beschriftung": "Internationalen Brigaden",
+          "haupt": true,
+          "artikel": "Internationale Brigaden",
+          "wikidata": "Q132518"
+        },
+        {
+          "titel": "Volkspark Friedrichshain",
+          "beschriftung": "Volkspark Friedrichshain",
+          "haupt": false,
+          "artikel": "Volkspark Friedrichshain",
+          "wikidata": "Q648023"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3051",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-23",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten: 25 Jahre Mahn- und Gedenkstätte Sachsenhausen",
+      "bild_beschreibung": "Figurengruppe vor Stele in der Gedenkstätte im KZ Sachsenhausen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Sachsenhausen (Oranienburg)",
+          "beschriftung": "Sachsenhausen",
+          "haupt": false,
+          "artikel": "Sachsenhausen (Oranienburg)",
+          "wikidata": "Q319883"
+        },
+        {
+          "titel": "Gedenkstätte und Museum Sachsenhausen",
+          "beschriftung": "Gedenkstätte im KZ Sachsenhausen",
+          "haupt": false,
+          "artikel": "Gedenkstätte und Museum Sachsenhausen",
+          "wikidata": "Q60322749"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3052",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-23",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eröffnung der Eisenbahnfährverbindung zwischen Mukran (DDR) und Klaipėda (Litauen)",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck ausgegeben:; Doppelstockfährbrücken",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fährverbindung Mukran–Klaipėda",
+          "beschriftung": "Eisenbahnfährverbindung zwischen Mukran (DDR) und Klaipėda (Litauen)",
+          "haupt": true,
+          "artikel": "Fährverbindung Mukran–Klaipėda",
+          "wikidata": "Q1478814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3053",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-09-23",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eröffnung der Eisenbahnfährverbindung zwischen Mukran (DDR) und Klaipėda (Litauen)",
+      "bild_beschreibung": "Zweideckfährschiff",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenbahnfähre",
+          "beschriftung": "Zweideckfährschiff",
+          "haupt": true,
+          "artikel": "Eisenbahnfähre",
+          "wikidata": "Q15262"
+        },
+        {
+          "titel": "Fährverbindung Mukran–Klaipėda",
+          "beschriftung": "Eisenbahnfährverbindung zwischen Mukran (DDR) und Klaipėda (Litauen)",
+          "haupt": false,
+          "artikel": "Fährverbindung Mukran–Klaipėda",
+          "wikidata": "Q1478814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3054",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Solidarität",
+      "bild_beschreibung": "Hilfe für die Entwicklungsländer",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität",
+          "beschriftung": "Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität",
+          "wikidata": "Q815726"
+        },
+        {
+          "titel": "Entwicklungsland",
+          "beschriftung": "Entwicklungsländer",
+          "haupt": false,
+          "artikel": "Entwicklungsland",
+          "wikidata": "Q177323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3055",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-04",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Carl Maria von Weber",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Carl Maria von Weber, Komponist",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1986, MiNr 3055.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Maria von Weber",
+          "beschriftung": "Carl Maria von Weber",
+          "haupt": true,
+          "artikel": "Carl Maria von Weber",
+          "wikidata": "Q154812"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3056",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "69. Geburtstag von Indira Gandhi",
+      "bild_beschreibung": "Indira Gandhi, indische Politikerin",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Indira Gandhi",
+          "beschriftung": "Indira Gandhi",
+          "haupt": true,
+          "artikel": "Indira Gandhi",
+          "wikidata": "Q1149"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3057",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erzgebirgische Schwibbogen",
+      "bild_beschreibung": "„Schwibbogen“ genannte Weihnachtsleuchter aus Johanngeorgenstadt; Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; 1778",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johanngeorgenstadt",
+          "beschriftung": "Johanngeorgenstadt",
+          "haupt": true,
+          "artikel": "Johanngeorgenstadt",
+          "wikidata": "Q57903"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Erzgebirgischer Schwibbogen",
+          "beschriftung": "Schwibbogen",
+          "haupt": false,
+          "artikel": "Erzgebirgischer Schwibbogen",
+          "wikidata": "Q314495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3058",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erzgebirgische Schwibbogen",
+      "bild_beschreibung": "1796",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzgebirgischer Schwibbogen",
+          "beschriftung": "Schwibbogen",
+          "haupt": true,
+          "artikel": "Erzgebirgischer Schwibbogen",
+          "wikidata": "Q314495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3059",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erzgebirgische Schwibbogen",
+      "bild_beschreibung": "1810",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzgebirgischer Schwibbogen",
+          "beschriftung": "Schwibbogen",
+          "haupt": true,
+          "artikel": "Erzgebirgischer Schwibbogen",
+          "wikidata": "Q314495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3060",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erzgebirgische Schwibbogen",
+      "bild_beschreibung": "1821",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzgebirgischer Schwibbogen",
+          "beschriftung": "Schwibbogen",
+          "haupt": true,
+          "artikel": "Erzgebirgischer Schwibbogen",
+          "wikidata": "Q314495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3061",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erzgebirgische Schwibbogen",
+      "bild_beschreibung": "1830",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzgebirgischer Schwibbogen",
+          "beschriftung": "Schwibbogen",
+          "haupt": true,
+          "artikel": "Erzgebirgischer Schwibbogen",
+          "wikidata": "Q314495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3062",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1986-11-18",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Erzgebirgische Schwibbogen",
+      "bild_beschreibung": "1925",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erzgebirgischer Schwibbogen",
+          "beschriftung": "Schwibbogen",
+          "haupt": true,
+          "artikel": "Erzgebirgischer Schwibbogen",
+          "wikidata": "Q314495"
+        }
+      ]
+    }
+  ]
+}

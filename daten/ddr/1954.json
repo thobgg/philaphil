@@ -1,0 +1,991 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1954,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1954 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1954_der_Deutschen_Post_der_DDR",
+    "revision": 259672212,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 411,
+    "mi_nr_bis": 445,
+    "luecken": [
+      412,
+      414,
+      415,
+      416,
+      417,
+      419,
+      420,
+      421,
+      422
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 16,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-01-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "225. Geburtstag von Gotthold Ephraim Lessing",
+      "bild_beschreibung": "Gotthold Ephraim Lessing (1729–1781), Dichter und Philosoph",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0423.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gotthold Ephraim Lessing",
+          "beschriftung": "Gotthold Ephraim Lessing",
+          "haupt": true,
+          "artikel": "Gotthold Ephraim Lessing",
+          "wikidata": "Q34628"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-01-25",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Außenministerkonferenz in Berlin",
+      "bild_beschreibung": "Friedenstaube über Verhandlungstisch, Schriftband, Demonstrationszug",
+      "entwerfer": "Erich Gruner",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Außenministerkonferenz",
+          "beschriftung": "Außenministerkonferenz in Berlin",
+          "haupt": true,
+          "artikel": "Berliner Außenministerkonferenz",
+          "wikidata": "Q4892411"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstration",
+          "haupt": false,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        }
+      ]
+    },
+    {
+      "mi_nr": "425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-03-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "1. Todestag von Josef Stalin",
+      "bild_beschreibung": "Josef Stalin (1878–1953), sowjetischer Staatsmann",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3700000,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0425.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Josef Stalin",
+          "haupt": true,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "sowjetischer",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-04-30",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "VII. Internationale Radfernfahrt für den Frieden",
+      "bild_beschreibung": "Radrennfahrer bei einer Ortsdurchfahrt",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1954",
+          "beschriftung": "VII. Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1954",
+          "wikidata": "Q1667178"
+        }
+      ]
+    },
+    {
+      "mi_nr": "427",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-04-30",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "VII. Internationale Radfernfahrt für den Frieden",
+      "bild_beschreibung": "Radrennfahrer auf der Strecke",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1954",
+          "beschriftung": "VII. Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1954",
+          "wikidata": "Q1667178"
+        }
+      ]
+    },
+    {
+      "mi_nr": "428",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-06-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "II. Deutschlandtreffen der Jugend, Berlin",
+      "bild_beschreibung": "Volkstanzpaar, Jugendliche mit Fahnen",
+      "entwerfer": "Bruno Bade, Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        },
+        {
+          "titel": "Deutschlandtreffen der Jugend",
+          "beschriftung": "Deutschlandtreffen der Jugend",
+          "haupt": false,
+          "artikel": "Deutschlandtreffen der Jugend",
+          "wikidata": "Q1206375"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-06-03",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "II. Deutschlandtreffen der Jugend, Berlin",
+      "bild_beschreibung": "Jugendliche vor Fahne",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0429.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutschlandtreffen der Jugend",
+          "beschriftung": "Deutschlandtreffen der Jugend",
+          "haupt": true,
+          "artikel": "Deutschlandtreffen der Jugend",
+          "wikidata": "Q1206375"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "430",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-07-12",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "80. Todestag von Fritz Reuter",
+      "bild_beschreibung": "Fritz Reuter (1810–1874), niederdeutscher Mundart-Schriftsteller",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fritz Reuter",
+          "beschriftung": "Fritz Reuter",
+          "haupt": true,
+          "artikel": "Fritz Reuter",
+          "wikidata": "Q76492"
+        },
+        {
+          "titel": "Niederdeutsche Sprache",
+          "beschriftung": "niederdeutscher",
+          "haupt": false,
+          "artikel": "Niederdeutsche Sprache",
+          "wikidata": "Q25433"
+        },
+        {
+          "titel": "Dialekt",
+          "beschriftung": "Mundart",
+          "haupt": false,
+          "artikel": "Dialekt",
+          "wikidata": "Q33384"
+        }
+      ]
+    },
+    {
+      "mi_nr": "431",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-08-16",
+      "wert": "24+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Hilfe für die Hochwassergeschädigten",
+      "bild_beschreibung": "Talsperre Sosa",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Talsperre Sosa",
+          "beschriftung": "Talsperre Sosa",
+          "haupt": true,
+          "artikel": "Talsperre Sosa",
+          "wikidata": "Q2390960"
+        }
+      ]
+    },
+    {
+      "mi_nr": "432",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-08-18",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10. Todestag von Ernst Thälmann",
+      "bild_beschreibung": "Ernst Thälmann (1886–1944), Politiker",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "433",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-09-04",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Grimmaische Straße mit Messehaus „Handelshof“, Leipzig",
+      "entwerfer": "Erich Gruner",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grimmaische Straße",
+          "beschriftung": "Grimmaische Straße",
+          "haupt": true,
+          "artikel": "Grimmaische Straße",
+          "wikidata": "Q99737786"
+        },
+        {
+          "titel": "Handelshof (Leipzig)",
+          "beschriftung": "Handelshof",
+          "haupt": false,
+          "artikel": "Handelshof (Leipzig)",
+          "wikidata": "Q1574873"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "434",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-09-04",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Grimmaische Straße mit Messehaus „Handelshof“, Leipzig",
+      "entwerfer": "Erich Gruner",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "443",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-10-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "5 Jahre Deutsche Demokratische Republik",
+      "bild_beschreibung": "Wilhelm Pieck, erster Präsident der DDR; Fahnen; Benzinwerk Böhlen und Traktor",
+      "entwerfer": "Erich Gruner",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        },
+        {
+          "titel": "Präsident der DDR",
+          "beschriftung": "Präsident der DDR",
+          "haupt": false,
+          "artikel": "Präsident der DDR",
+          "wikidata": "Q2114953"
+        },
+        {
+          "titel": "Benzinwerk Böhlen",
+          "beschriftung": "Benzinwerk Böhlen",
+          "haupt": false,
+          "artikel": "Benzinwerk Böhlen",
+          "wikidata": null
+        },
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": false,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "Deutsche Demokratische Republik",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "444",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-10-06",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "5 Jahre Deutsche Demokratische Republik",
+      "bild_beschreibung": "Wilhelm Pieck, erster Präsident der DDR; Fahnen; Benzinwerk Böhlen und Traktor",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0444.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "Deutsche Demokratische Republik",
+          "haupt": true,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "445 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Kölner Dom, Völkerschlachtdenkmal Leipzig",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0445.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        },
+        {
+          "titel": "Kölner Dom",
+          "beschriftung": "Kölner Dom",
+          "haupt": false,
+          "artikel": "Kölner Dom",
+          "wikidata": "Q4176"
+        },
+        {
+          "titel": "Völkerschlachtdenkmal",
+          "beschriftung": "Völkerschlachtdenkmal Leipzig",
+          "haupt": false,
+          "artikel": "Völkerschlachtdenkmal",
+          "wikidata": "Q699448"
+        }
+      ]
+    },
+    {
+      "mi_nr": "445 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-10-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Erste Zentrale Briefmarkenausstellung der Betriebsarbeitsgemeinschaften Philatelie, Berlin",
+      "bild_beschreibung": "Diese Marke wurde als geschnittener Briefmarkenblock ausgegeben:; Kölner Dom, Völkerschlachtdenkmal Leipzig",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Philatelie",
+          "beschriftung": "Philatelie",
+          "haupt": false,
+          "artikel": "Philatelie",
+          "wikidata": "Q131026"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": false,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        }
+      ]
+    },
+    {
+      "mi_nr": "411",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-01-25",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Frau am Fernschreiber",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 15 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernschreiber",
+          "beschriftung": "Fernschreiber",
+          "haupt": true,
+          "artikel": "Fernschreiber",
+          "wikidata": "Q66196"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "413",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Werktätige vor Kurhaus Bad Elster",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 20 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bad Elster",
+          "beschriftung": "Bad Elster",
+          "haupt": true,
+          "artikel": "Bad Elster",
+          "wikidata": "Q46856"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "418",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-02-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Chemiker, Chemiewerk",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 40 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Chemische Industrie",
+          "beschriftung": "Chemiewerk",
+          "haupt": false,
+          "artikel": "Chemische Industrie",
+          "wikidata": "Q207652"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "435",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Arbeiter aus Ost und West reichen sich die Hände; Aufdruck auf Michel-Nummer 407",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0435.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arbeiter",
+          "beschriftung": "Arbeiter",
+          "haupt": true,
+          "artikel": "Arbeiter",
+          "wikidata": "Q12713481"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "436",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Lernende Jugend, dahinter Bild von Karl Marx; Aufdruck auf Michel-Nummer 408",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0436.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "437",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Bauer, Handwerker, Intellektueller; Aufdruck auf Michel-Nummer 410",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0437.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirt",
+          "beschriftung": "Bauer",
+          "haupt": true,
+          "artikel": "Landwirt",
+          "wikidata": "Q131512"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        },
+        {
+          "titel": "Intellektueller",
+          "beschriftung": "Intellektueller",
+          "haupt": false,
+          "artikel": "Intellektueller",
+          "wikidata": "Q58968"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "438",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Stahlschmelzer, Hüttenwerk; Aufdruck auf Michel-Nummer 412",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0438.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenwerk",
+          "beschriftung": "Hüttenwerk",
+          "haupt": true,
+          "artikel": "Eisenwerk",
+          "wikidata": "Q10832530"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "439 a",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Karl-Marx-Allee (Stalinallee), Berlin; Aufdruck auf Michel-Nummer 414",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0439 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Karl-Marx-Allee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "439 b",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Karl-Marx-Allee (Stalinallee), Berlin; Aufdruck auf Michel-Nummer 371",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0439.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "440",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Zwinger, Dresden; Aufdruck auf Michel-Nummer 419",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0440.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "441",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Hochseeschiff auf Stapel; Aufdruck auf Michel-Nummer 420",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0441.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Hochseeschiff",
+          "haupt": true,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapel",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "442",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-01",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (III)",
+      "bild_beschreibung": "Familie, Hochhaus an der Weberwiese, Berlin; Aufdruck auf Michel-Nummer 422",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1954, MiNr 0442.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Hochhaus an der Weberwiese",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    }
+  ]
+}

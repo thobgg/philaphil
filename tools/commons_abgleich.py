@@ -21,25 +21,28 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from wikipedia_import import DATEN, USER_AGENT  # noqa: E402
+from wikipedia_import import DATEN, USER_AGENT, gebiete_laden, nach_jahr  # noqa: E402
 import urllib.parse  # noqa: E402
 import urllib.request  # noqa: E402
 
 API = "https://commons.wikimedia.org/w/api.php"
-AUSSCHLUSS = re.compile(r"(?i)\betb\b|\bpsc\b|ersttag|\bfdc\b|berlin|\bbln\b|ddr|\bgdr\b|german democratic|saar|umschlag|envelope|brief\b|cover|ganzsache|postcard|postkarte|stempel|cancel")
+BELEGE = r"\betb\b|\bpsc\b|ersttag|\bfdc\b|saar|umschlag|envelope|brief\b|cover|ganzsache|postcard|postkarte|stempel|cancel"
+# Andere Gebiete im Dateinamen: nur ausschliessen, wenn es nicht das eigene ist
+FREMD = {"berlin": r"berlin|\bbln\b", "ddr": r"ddr|\bgdr\b|german democratic", "bund": r"\bdbp\b|bundespost(?! berlin)|\bbrd\b|\bfrg\b", "reich": r"\bdr\b|reichspost"}
+
+
+def ausschluss(gebiet):
+    fremd = [m for g, m in FREMD.items() if g != gebiet and not (gebiet == "berlin" and g == "bund")]
+    return re.compile("(?i)" + "|".join([BELEGE] + fremd))
 FUELLWOERTER = {"jahre", "jahr", "geburtstag", "todestag", "deutsche", "deutschen", "deutscher", "bundespost", "stamp", "stamps",
                 "briefmarke", "germany", "deutschland", "serie", "für", "fuer", "und", "der", "die", "das", "des", "von", "zum",
                 "zur", "den", "dem", "mit", "auf", "aus", "dbp", "dpag", "jpg", "png", "100", "the", "of", "and", "in", "im"}
 
 
-def kategorie(jahr):
-    return f"{jahr} Deutsche Bundespost stamps" if jahr <= 1994 else f"{jahr} stamps of Germany"
-
-
-def dateien(jahr):
+def dateien(gebiet, jahr):
     gefunden, weiter = [], {}
     while True:
-        q = {"action": "query", "list": "categorymembers", "cmtitle": "Category:" + kategorie(jahr), "cmtype": "file",
+        q = {"action": "query", "list": "categorymembers", "cmtitle": "Category:" + nach_jahr(gebiete_laden()[gebiet], "commons", jahr), "cmtype": "file",
              "cmlimit": "500", "format": "json", "formatversion": "2", **weiter}
         req = urllib.request.Request(API + "?" + urllib.parse.urlencode(q), headers={"User-Agent": USER_AGENT})
         d = json.load(urllib.request.urlopen(req, timeout=60))
@@ -63,7 +66,8 @@ def abgleich(gebiet, jahr):
     ohne = [m for m in marken if not m.get("commons_datei") and not (hand.get(m["mi_nr"]) or {}).get("commons_datei")]
     if not ohne:
         return {}
-    frei = [d for d in dateien(jahr) if d not in vergeben and not AUSSCHLUSS.search(d)]
+    raus = ausschluss(gebiet)
+    frei = [d for d in dateien(gebiet, jahr) if d not in vergeben and not raus.search(d)]
     ergebnis = {}
 
     # 1. MiNr im Dateinamen
@@ -97,10 +101,12 @@ def abgleich(gebiet, jahr):
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--gebiet", default="bund")
-    p.add_argument("--jahr", type=int, nargs="+", required=True)
+    p.add_argument("--jahr", type=int, nargs="+")
+    p.add_argument("--alle", action="store_true")
     args = p.parse_args()
     summe = {"minr": 0, "woerter": 0}
-    for jahr in args.jahr:
+    e = gebiete_laden()[args.gebiet]
+    for jahr in (range(e["von"], e["bis"] + 1) if args.alle else (args.jahr or [])):
         if not (DATEN / args.gebiet / f"{jahr}.json").exists():
             continue
         try:

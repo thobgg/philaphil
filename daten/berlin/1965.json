@@ -1,0 +1,600 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1965,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1965 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1965_der_Deutschen_Bundespost_Berlin",
+    "revision": 265017114,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 250,
+    "mi_nr_bis": 269,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "250",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend 1965: Jagdbares Federwild",
+      "bild_beschreibung": "Waldschnepfe, Scolopax rusticola",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 5351000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waldschnepfe",
+          "beschriftung": "Waldschnepfe",
+          "haupt": true,
+          "artikel": "Waldschnepfe",
+          "wikidata": "Q26114"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "251",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend 1965: Jagdbares Federwild",
+      "bild_beschreibung": "Jagdfasan, Phasianus colchicus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 4568000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fasan",
+          "beschriftung": "Jagdfasan",
+          "haupt": true,
+          "artikel": "Fasan",
+          "wikidata": "Q25432"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "252",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend 1965: Jagdbares Federwild",
+      "bild_beschreibung": "Birkhahn, Lyrurus tetrix (auch Tetrao tetrix)",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 4536000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Birkhuhn",
+          "beschriftung": "Birkhahn",
+          "haupt": true,
+          "artikel": "Birkhuhn",
+          "wikidata": "Q155878"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "253",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-01",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend 1965: Jagdbares Federwild",
+      "bild_beschreibung": "Auerhahn, Tetrao urogallus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 4484000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Auerhuhn",
+          "beschriftung": "Auerhahn",
+          "haupt": true,
+          "artikel": "Auerhuhn",
+          "wikidata": "Q129059"
+        },
+        {
+          "titel": "Federwild",
+          "beschriftung": "Federwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "254",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Kaiser-Wilhelm-Gedächtniskirche",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 54100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "255",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-23",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Deutsche Oper Berlin",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 18873000,
+      "commons_datei": "DBPB 1965 255 Deutsche Oper.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Oper Berlin",
+          "beschriftung": "Deutsche Oper Berlin",
+          "haupt": true,
+          "artikel": "Deutsche Oper Berlin",
+          "wikidata": "Q637834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "256",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Berliner Philharmonie",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 31050000,
+      "commons_datei": "DBPB 1965 256 Philharmonie.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Philharmonie",
+          "beschriftung": "Berliner Philharmonie",
+          "haupt": true,
+          "artikel": "Berliner Philharmonie",
+          "wikidata": "Q32653910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "257",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-04-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Jüdisches Gemeindehaus",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 32510000,
+      "commons_datei": "DBPB 1965 257 Jüdisches Gemeindehaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jüdisches Gemeindehaus (Berlin)",
+          "beschriftung": "Jüdisches Gemeindehaus",
+          "haupt": true,
+          "artikel": "Jüdisches Gemeindehaus (Berlin)",
+          "wikidata": "Q22138747"
+        }
+      ]
+    },
+    {
+      "mi_nr": "258",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-28",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Kirche Maria Regina Martyrum",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11150000,
+      "commons_datei": "DBPB 1965 258 Regina Martyrum.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maria Regina Martyrum (Berlin)",
+          "beschriftung": "Kirche Maria Regina Martyrum",
+          "haupt": true,
+          "artikel": "Maria Regina Martyrum (Berlin)",
+          "wikidata": "Q1896259"
+        }
+      ]
+    },
+    {
+      "mi_nr": "259",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-11-18",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Ernst-Reuter-Platz",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11110000,
+      "commons_datei": "DBPB 1965 259 Ernst-Reuter-Platz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst-Reuter-Platz",
+          "beschriftung": "Ernst-Reuter-Platz",
+          "haupt": true,
+          "artikel": "Ernst-Reuter-Platz",
+          "wikidata": "Q314156"
+        }
+      ]
+    },
+    {
+      "mi_nr": "260",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-04-19",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Europa-Center-Berlin",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7208000,
+      "commons_datei": "DBPB 1965 260 Europa-Center.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europa-Center-Berlin",
+          "beschriftung": "Europa-Center-Berlin",
+          "haupt": true,
+          "artikel": "Europa-Center",
+          "wikidata": "Q703289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "261",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-11-18",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Technische Universität Berlin",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 8040000,
+      "commons_datei": "DBPB 1965 261 Technische Universität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Universität Berlin",
+          "beschriftung": "Technische Universität Berlin",
+          "haupt": true,
+          "artikel": "Technische Universität Berlin",
+          "wikidata": "Q51985"
+        }
+      ]
+    },
+    {
+      "mi_nr": "262",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-11-18",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Stadtautobahn A 100",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 8169000,
+      "commons_datei": "DBPB 1965 262 Stadtautobahn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesautobahn 100",
+          "beschriftung": "A 100",
+          "haupt": true,
+          "artikel": "Bundesautobahn 100",
+          "wikidata": "Q17014"
+        }
+      ]
+    },
+    {
+      "mi_nr": "263",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-09-16",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Planetarium Wilhelm-Foerster-Sternwarte",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 10051000,
+      "commons_datei": "DBPB 1965 263 Planetarium und Sternwarte.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Planetarium",
+          "beschriftung": "Planetarium",
+          "haupt": true,
+          "artikel": "Planetarium",
+          "wikidata": "Q148319"
+        },
+        {
+          "titel": "Wilhelm-Foerster-Sternwarte",
+          "beschriftung": "Wilhelm-Foerster-Sternwarte",
+          "haupt": false,
+          "artikel": "Wilhelm-Foerster-Sternwarte",
+          "wikidata": "Q1528934"
+        }
+      ]
+    },
+    {
+      "mi_nr": "264",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-09-16",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Fernmeldeturm Berlin-Schäferberg",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 10750000,
+      "commons_datei": "DBPB 1965 264 Fernmeldeturm Schäferberg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernmeldeturm Berlin-Schäferberg",
+          "beschriftung": "Fernmeldeturm Berlin-Schäferberg",
+          "haupt": true,
+          "artikel": "Fernmeldeturm Berlin-Schäferberg",
+          "wikidata": "Q1407025"
+        }
+      ]
+    },
+    {
+      "mi_nr": "265",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-11-18",
+      "wert": "1,10 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Das neue Berlin",
+      "bild_beschreibung": "Universitätsklinikum Steglitz",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6070000,
+      "commons_datei": "DBPB 1965 265 Universitätsklinikum Steglitz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Charité",
+          "beschriftung": "Universitätsklinikum Steglitz",
+          "haupt": true,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "266",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken 1965: Märchen der Brüder Grimm: Aschenputtel",
+      "bild_beschreibung": "Aschenputtel lässt sich von Tauben beim Lesen der Linsen helfen",
+      "entwerfer": "Stefula",
+      "auflage": 5196000,
+      "commons_datei": "DBPB 1965 266 Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Linse (Botanik)",
+          "beschriftung": "Linsen",
+          "haupt": true,
+          "artikel": "Linse (Botanik)",
+          "wikidata": "Q131226"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": false,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "267",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken 1965: Märchen der Brüder Grimm: Aschenputtel",
+      "bild_beschreibung": "Aschenputtel empfängt ihr Ballkleid aus einem Baum",
+      "entwerfer": "Stefula",
+      "auflage": 4657000,
+      "commons_datei": "DBPB 1965 267 Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": false,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "268",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken 1965: Märchen der Brüder Grimm: Aschenputtel",
+      "bild_beschreibung": "Aschenputtel verlässt das Schloss und verliert einen Schuh",
+      "entwerfer": "Stefula",
+      "auflage": 5401000,
+      "commons_datei": "DBPB 1965 268 Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": false,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "269",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Wohlfahrtsmarken 1965: Märchen der Brüder Grimm: Aschenputtel",
+      "bild_beschreibung": "Der Prinz führt Aschenputtel als seine Braut heim",
+      "entwerfer": "Stefula",
+      "auflage": 3512000,
+      "commons_datei": "DBPB 1965 269 Aschenputtel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Aschenputtel",
+          "beschriftung": "Aschenputtel",
+          "haupt": false,
+          "artikel": "Aschenputtel",
+          "wikidata": "Q11841"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1975,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1975 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1975_der_Deutschen_Bundespost_Berlin",
+    "revision": 262499062,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 482,
+    "mi_nr_bis": 515,
+    "luecken": [
+      496,
+      507
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "482",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125. Todestag von Johann Gottfried Schadow",
+      "bild_beschreibung": "Selbstbildnis",
+      "entwerfer": "Manuela Pusch",
+      "auflage": 7950000,
+      "commons_datei": "Stamps of Germany (Berlin) 1975, MiNr 482.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Gottfried Schadow",
+          "beschriftung": "Johann Gottfried Schadow",
+          "haupt": true,
+          "artikel": "Johann Gottfried Schadow",
+          "wikidata": "Q51989"
+        },
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": false,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        }
+      ]
+    },
+    {
+      "mi_nr": "483",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (III): Personenschifffahrt",
+      "bild_beschreibung": "Dampfschiff „Prinzeß Charlotte“",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dampfschiff",
+          "beschriftung": "Dampfschiff",
+          "haupt": true,
+          "artikel": "Dampfschiff",
+          "wikidata": "Q178193"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Personenverkehr",
+          "beschriftung": "Personenschifffahrt",
+          "haupt": false,
+          "artikel": "Personenverkehr",
+          "wikidata": "Q2072431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "484",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (III): Personenschifffahrt",
+      "bild_beschreibung": "Dampfschiff „Siegfried“",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Personenverkehr",
+          "beschriftung": "Personenschifffahrt",
+          "haupt": false,
+          "artikel": "Personenverkehr",
+          "wikidata": "Q2072431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "485",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (III): Personenschifffahrt",
+      "bild_beschreibung": "Dampfschiff „Sperber“",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 9300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Personenverkehr",
+          "beschriftung": "Personenschifffahrt",
+          "haupt": false,
+          "artikel": "Personenverkehr",
+          "wikidata": "Q2072431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "486",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (III): Personenschifffahrt",
+      "bild_beschreibung": "Motorschiff „Vaterland“",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motorschiff",
+          "beschriftung": "Motorschiff",
+          "haupt": true,
+          "artikel": "Motorschiff",
+          "wikidata": "Q402092"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Personenverkehr",
+          "beschriftung": "Personenschifffahrt",
+          "haupt": false,
+          "artikel": "Personenverkehr",
+          "wikidata": "Q2072431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "487",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (III): Personenschifffahrt",
+      "bild_beschreibung": "Motorschiff „Moby Dick“",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stern und Kreisschiffahrt",
+          "beschriftung": "Moby Dick",
+          "haupt": true,
+          "artikel": "Stern und Kreisschiffahrt",
+          "wikidata": "Q1719876"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Personenverkehr",
+          "beschriftung": "Personenschifffahrt",
+          "haupt": false,
+          "artikel": "Personenverkehr",
+          "wikidata": "Q2072431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "488",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1975: Lokomotiven",
+      "bild_beschreibung": "Dampflokomotive „Drache“",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2996000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dampflokomotive",
+          "beschriftung": "Dampflokomotive",
+          "haupt": true,
+          "artikel": "Dampflokomotive",
+          "wikidata": "Q171043"
+        },
+        {
+          "titel": "Drache (Lokomotive)",
+          "beschriftung": "Drache",
+          "haupt": false,
+          "artikel": "Drache (Lokomotive)",
+          "wikidata": "Q16740346"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "489",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1975: Lokomotiven",
+      "bild_beschreibung": "Dampflokomotive Baureihe 89",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2950000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preußische T 3",
+          "beschriftung": "Baureihe 89",
+          "haupt": true,
+          "artikel": "Preußische T 3",
+          "wikidata": "Q462222"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "490",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1975: Lokomotiven",
+      "bild_beschreibung": "Dampflokomotive Baureihe 50",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2953000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DR-Baureihe 50",
+          "beschriftung": "Baureihe 50",
+          "haupt": true,
+          "artikel": "DR-Baureihe 50",
+          "wikidata": "Q644608"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "491",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1975: Lokomotiven",
+      "bild_beschreibung": "Dampflokomotive Baureihe 10",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2924000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DB-Baureihe 10",
+          "beschriftung": "Baureihe 10",
+          "haupt": true,
+          "artikel": "DB-Baureihe 10",
+          "wikidata": "Q522289"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "492",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Ferdinand Sauerbruch",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 8780000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ferdinand Sauerbruch",
+          "beschriftung": "Ferdinand Sauerbruch",
+          "haupt": true,
+          "artikel": "Ferdinand Sauerbruch",
+          "wikidata": "Q62330"
+        }
+      ]
+    },
+    {
+      "mi_nr": "493",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gymnaestrada Berlin",
+      "bild_beschreibung": "Veranstaltungs-Abzeichen",
+      "entwerfer": "Ernst Finke",
+      "auflage": 7130000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gymnaestrada",
+          "beschriftung": "Gymnaestrada",
+          "haupt": true,
+          "artikel": "Gymnaestrada",
+          "wikidata": "Q1558043"
+        }
+      ]
+    },
+    {
+      "mi_nr": "508",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Denkmalschutzjahr",
+      "bild_beschreibung": "Naunynstraße, Berlin-Kreuzberg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6950000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Nationalkomitee für Denkmalschutz",
+          "beschriftung": "Europäisches Denkmalschutzjahr",
+          "haupt": true,
+          "artikel": "Deutsches Nationalkomitee für Denkmalschutz",
+          "wikidata": "Q1205857"
+        },
+        {
+          "titel": "Franz Christian Naunyn",
+          "beschriftung": "Naunynstraße",
+          "haupt": false,
+          "artikel": "Franz Christian Naunyn",
+          "wikidata": "Q1446465"
+        },
+        {
+          "titel": "Berlin-Kreuzberg",
+          "beschriftung": "Berlin-Kreuzberg",
+          "haupt": false,
+          "artikel": "Berlin-Kreuzberg",
+          "wikidata": "Q308928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "509",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Lovis Corinth",
+      "bild_beschreibung": "Selbstbildnis",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 8130000,
+      "commons_datei": "Stamps of Germany (Berlin) 1975, MiNr 509.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lovis Corinth",
+          "beschriftung": "Lovis Corinth",
+          "haupt": true,
+          "artikel": "Lovis Corinth",
+          "wikidata": "Q157610"
+        },
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": false,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        }
+      ]
+    },
+    {
+      "mi_nr": "510",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1975: Alpenblumen",
+      "bild_beschreibung": "Gelber Enzian Gentiana lutea",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5959000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gelber Enzian",
+          "beschriftung": "Gelber Enzian",
+          "haupt": true,
+          "artikel": "Gelber Enzian",
+          "wikidata": "Q158572"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "511",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1975: Alpenblumen",
+      "bild_beschreibung": "Arnika Arnica montana",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6029000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arnika",
+          "beschriftung": "Arnika",
+          "haupt": true,
+          "artikel": "Arnika",
+          "wikidata": "Q207848"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "512",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1975: Alpenblumen",
+      "bild_beschreibung": "Europäisches Alpenveilchen Cyclamen purpurascens",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7565000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäisches Alpenveilchen",
+          "beschriftung": "Europäisches Alpenveilchen",
+          "haupt": true,
+          "artikel": "Europäisches Alpenveilchen",
+          "wikidata": "Q149344"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "513",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1975: Alpenblumen",
+      "bild_beschreibung": "Stängelloser Enzian (Clusius-Enzian) Gentiana clusii",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4395000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clusius-Enzian",
+          "beschriftung": "Stängelloser Enzian (Clusius-Enzian)",
+          "haupt": true,
+          "artikel": "Clusius-Enzian",
+          "wikidata": "Q159969"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "514",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1975",
+      "bild_beschreibung": "Schneeheide Erica carnea",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5060000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Schneeheide",
+          "beschriftung": "Schneeheide",
+          "haupt": false,
+          "artikel": "Schneeheide",
+          "wikidata": "Q248958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "515",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Paul Löbe",
+      "bild_beschreibung": "Im Hintergrund das Reichstagsgebäude",
+      "entwerfer": "Ernst Finke",
+      "auflage": 7050000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Löbe",
+          "beschriftung": "Paul Löbe",
+          "haupt": true,
+          "artikel": "Paul Löbe",
+          "wikidata": "Q62671"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        }
+      ]
+    },
+    {
+      "mi_nr": "494",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Nachrichtensatellit (Symphonie)",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nachrichtensatellit",
+          "beschriftung": "Nachrichtensatellit",
+          "haupt": true,
+          "artikel": "Kommunikationssatellit",
+          "wikidata": "Q149918"
+        },
+        {
+          "titel": "Symphonie (Satellit)",
+          "beschriftung": "Symphonie",
+          "haupt": false,
+          "artikel": "Symphonie (Satellit)",
+          "wikidata": "Q291270"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "495",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Nahverkehrs-Triebzug ET 420/421",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DB-Baureihe 420",
+          "beschriftung": "Nahverkehrs-Triebzug ET 420/421",
+          "haupt": true,
+          "artikel": "DB-Baureihe 420",
+          "wikidata": "Q834170"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "497",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Rettungshubschrauber Bölkow Bo 105",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rettungshubschrauber",
+          "beschriftung": "Rettungshubschrauber",
+          "haupt": true,
+          "artikel": "Rettungshubschrauber",
+          "wikidata": "Q2146417"
+        },
+        {
+          "titel": "Bölkow Bo 105",
+          "beschriftung": "Bölkow Bo 105",
+          "haupt": false,
+          "artikel": "Bölkow Bo 105",
+          "wikidata": "Q835768"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "498",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Weltraumlabor Spacelab im Space Shuttle",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spacelab",
+          "beschriftung": "Weltraumlabor Spacelab",
+          "haupt": true,
+          "artikel": "Spacelab",
+          "wikidata": "Q166008"
+        },
+        {
+          "titel": "Space Shuttle",
+          "beschriftung": "Space Shuttle",
+          "haupt": false,
+          "artikel": "Space Shuttle",
+          "wikidata": "Q48806"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "499",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Erdfunkstelle Raisting",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erdfunkstelle Raisting",
+          "beschriftung": "Erdfunkstelle Raisting",
+          "haupt": true,
+          "artikel": "Erdfunkstelle Raisting",
+          "wikidata": "Q324125"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "500",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Schiffbau",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiffbau",
+          "beschriftung": "Schiffbau",
+          "haupt": true,
+          "artikel": "Schiffbau",
+          "wikidata": "Q474200"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "501",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Traktor",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": true,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "502",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Braunkohlenbagger",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schaufelradbagger",
+          "beschriftung": "Braunkohlenbagger",
+          "haupt": true,
+          "artikel": "Schaufelradbagger",
+          "wikidata": "Q278222"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "503",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Anlage zur Styrolherstellung",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Styrol",
+          "beschriftung": "Anlage zur Styrolherstellung",
+          "haupt": true,
+          "artikel": "Styrol",
+          "wikidata": "Q28917"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "504",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Heizkraftwerk",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heizkraftwerk",
+          "beschriftung": "Heizkraftwerk",
+          "haupt": true,
+          "artikel": "Heizkraftwerk",
+          "wikidata": "Q1601458"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "505",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "160",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Hochofen",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochofen",
+          "beschriftung": "Hochofen",
+          "haupt": true,
+          "artikel": "Hochofen",
+          "wikidata": "Q181485"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "506",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Bohrinsel",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bohrinsel",
+          "beschriftung": "Bohrinsel",
+          "haupt": true,
+          "artikel": "Bohrinsel",
+          "wikidata": "Q689880"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    }
+  ]
+}

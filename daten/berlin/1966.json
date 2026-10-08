@@ -1,0 +1,991 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1966,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1966 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1966_der_Deutschen_Bundespost_Berlin",
+    "revision": 265017107,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 270,
+    "mi_nr_bis": 298,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 8,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-04-22",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Für die Jugend 1966: Hochwild",
+      "bild_beschreibung": "Rehbock, Capreolus capreolus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2913000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reh",
+          "beschriftung": "Reh",
+          "haupt": true,
+          "artikel": "Reh",
+          "wikidata": "Q122069"
+        },
+        {
+          "titel": "Hochwild",
+          "beschriftung": "Hochwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-04-22",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Für die Jugend 1966: Hochwild",
+      "bild_beschreibung": "Gämse, Rupicapra rupicapra",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 3248000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gämse",
+          "beschriftung": "Gämse",
+          "haupt": true,
+          "artikel": "Gämse",
+          "wikidata": "Q131340"
+        },
+        {
+          "titel": "Hochwild",
+          "beschriftung": "Hochwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-04-22",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1967-12-31",
+      "anlass": "Für die Jugend 1966: Hochwild",
+      "bild_beschreibung": "Damhirsch, Dama dama",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2905000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Damhirsch",
+          "beschriftung": "Damhirsch",
+          "haupt": true,
+          "artikel": "Damhirsch",
+          "wikidata": "Q159857"
+        },
+        {
+          "titel": "Hochwild",
+          "beschriftung": "Hochwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-04-22",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Für die Jugend 1966: Hochwild",
+      "bild_beschreibung": "Rothirsch, Cervus elaphus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rothirsch",
+          "beschriftung": "Rothirsch",
+          "haupt": true,
+          "artikel": "Rothirsch",
+          "wikidata": "Q79794"
+        },
+        {
+          "titel": "Hochwild",
+          "beschriftung": "Hochwild",
+          "haupt": false,
+          "artikel": "Wild",
+          "wikidata": "Q223930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-10-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Wohlfahrtsmarken 1966: Märchen der Brüder Grimm: Der Froschkönig",
+      "bild_beschreibung": "Die Prinzessin bittet den Frosch, die verlorene goldene Kugel aus dem Brunnen zu holen",
+      "entwerfer": "Stefula",
+      "auflage": 5365000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echte Frösche (Gattung)",
+          "beschriftung": "Frosch",
+          "haupt": true,
+          "artikel": "Echte Frösche (Gattung)",
+          "wikidata": "Q72738"
+        },
+        {
+          "titel": "Brunnen",
+          "beschriftung": "Brunnen",
+          "haupt": false,
+          "artikel": "Brunnen",
+          "wikidata": "Q43483"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-10-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Wohlfahrtsmarken 1966: Märchen der Brüder Grimm: Der Froschkönig",
+      "bild_beschreibung": "Die Prinzessin speist mit dem Frosch",
+      "entwerfer": "Stefula",
+      "auflage": 5527000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Wohlfahrtsmarken 1966: Märchen der Brüder Grimm: Der Froschkönig",
+      "bild_beschreibung": "Der Frosch hat sich in einen schönen Prinzen verwandelt",
+      "entwerfer": "Stefula",
+      "auflage": 4765000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1966-10-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Wohlfahrtsmarken 1966: Märchen der Brüder Grimm: Der Froschkönig",
+      "bild_beschreibung": "Prinz und Prinzessin in der Hochzeitskutsche",
+      "entwerfer": "Stefula",
+      "auflage": 3967000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "270",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-06-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Berliner Tor, Stettin, polnisch: Szczecin, in Westpommern",
+      "entwerfer": "Otto Rohse",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stettin",
+          "beschriftung": "Stettin",
+          "haupt": true,
+          "artikel": "Stettin",
+          "wikidata": "Q393"
+        },
+        {
+          "titel": "Woiwodschaft Westpommern",
+          "beschriftung": "Westpommern",
+          "haupt": false,
+          "artikel": "Woiwodschaft Westpommern",
+          "wikidata": "Q54188"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "271",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-06-15",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Burg Pfalzgrafenstein, bei Kaub im Rhein",
+      "entwerfer": "Otto Rohse",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Pfalzgrafenstein",
+          "beschriftung": "Burg Pfalzgrafenstein",
+          "haupt": true,
+          "artikel": "Burg Pfalzgrafenstein",
+          "wikidata": "Q696951"
+        },
+        {
+          "titel": "Kaub",
+          "beschriftung": "Kaub",
+          "haupt": false,
+          "artikel": "Kaub",
+          "wikidata": "Q540860"
+        },
+        {
+          "titel": "Rhein",
+          "beschriftung": "Rhein",
+          "haupt": false,
+          "artikel": "Rhein",
+          "wikidata": "Q584"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "272",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-06-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Wallpavillon des Dresdner Zwingers",
+      "entwerfer": "Otto Rohse",
+      "auflage": 210000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wallpavillon",
+          "beschriftung": "Wallpavillon",
+          "haupt": true,
+          "artikel": "Wallpavillon",
+          "wikidata": "Q1496790"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwingers",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "273",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-11-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Torhalle Lorsch",
+      "entwerfer": "Otto Rohse",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Torhalle Lorsch",
+          "beschriftung": "Torhalle Lorsch",
+          "haupt": true,
+          "artikel": "Torhalle Lorsch",
+          "wikidata": "Q1131741"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "274",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-01-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Das Nordertor in Flensburg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 21000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nordertor",
+          "beschriftung": "Nordertor",
+          "haupt": true,
+          "artikel": "Nordertor",
+          "wikidata": "Q301998"
+        },
+        {
+          "titel": "Flensburg",
+          "beschriftung": "Flensburg",
+          "haupt": false,
+          "artikel": "Flensburg",
+          "wikidata": "Q3798"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "275",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-02-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Das Nordertor in Flensburg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 45000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "276",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-08-04",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Die Pfälzer Burg Trifels",
+      "entwerfer": "Otto Rohse",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pfalz (Region)",
+          "beschriftung": "Pfälzer",
+          "haupt": true,
+          "artikel": "Pfalz (Region)",
+          "wikidata": "Q326359"
+        },
+        {
+          "titel": "Reichsburg Trifels",
+          "beschriftung": "Trifels",
+          "haupt": false,
+          "artikel": "Reichsburg Trifels",
+          "wikidata": "Q559202"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "277",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-08-04",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Das Schlosstor in Ellwangen (Jagst)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss ob Ellwangen",
+          "beschriftung": "Schlosstor",
+          "haupt": true,
+          "artikel": "Schloss ob Ellwangen",
+          "wikidata": "Q2244356"
+        },
+        {
+          "titel": "Ellwangen (Jagst)",
+          "beschriftung": "Ellwangen (Jagst)",
+          "haupt": false,
+          "artikel": "Ellwangen (Jagst)",
+          "wikidata": "Q163973"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "278",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-04-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Das Treptower Tor in Neubrandenburg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Treptower Tor",
+          "beschriftung": "Treptower Tor",
+          "haupt": true,
+          "artikel": "Treptower Tor",
+          "wikidata": "Q2451781"
+        },
+        {
+          "titel": "Neubrandenburg",
+          "beschriftung": "Neubrandenburg",
+          "haupt": false,
+          "artikel": "Neubrandenburg",
+          "wikidata": "Q3958"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "279",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-04-14",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Das Osthofentor, Soest",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Osthofentor",
+          "beschriftung": "Osthofentor",
+          "haupt": true,
+          "artikel": "Osthofentor",
+          "wikidata": "Q2035602"
+        },
+        {
+          "titel": "Soest",
+          "beschriftung": "Soest",
+          "haupt": false,
+          "artikel": "Soest",
+          "wikidata": "Q6149"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "280",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-06-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Ellinger Tor Weißenburg in Bayern",
+      "entwerfer": "Otto Rohse",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ellinger Tor",
+          "beschriftung": "Ellinger Tor",
+          "haupt": true,
+          "artikel": "Ellinger Tor",
+          "wikidata": "Q49597"
+        },
+        {
+          "titel": "Weißenburg in Bayern",
+          "beschriftung": "Weißenburg in Bayern",
+          "haupt": false,
+          "artikel": "Weißenburg in Bayern",
+          "wikidata": "Q44500"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "281",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-06-15",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Zschokkesches Stift, Königsberg (Preußen)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Königsberg (Preußen)",
+          "beschriftung": "Königsberg (Preußen)",
+          "haupt": true,
+          "artikel": "Königsberg (Preußen)",
+          "wikidata": "Q4120832"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "282",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-11-07",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Melanchthonhaus Wittenberg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Melanchthonhaus Wittenberg",
+          "beschriftung": "Melanchthonhaus Wittenberg",
+          "haupt": true,
+          "artikel": "Melanchthonhaus Wittenberg",
+          "wikidata": "Q316137"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "283",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-12-13",
+      "wert": "1,10 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Trinitatishospital in Hildesheim",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hildesheim",
+          "beschriftung": "Hildesheim",
+          "haupt": true,
+          "artikel": "Hildesheim",
+          "wikidata": "Q3185"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "284",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1969-03-23",
+      "wert": "1,30 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Schloss Tegel",
+      "entwerfer": "Otto Rohse",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": true,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "285",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-12-13",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Bürgerhalle im Rathaus, Löwenberg in Schlesien",
+      "entwerfer": "Otto Rohse",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lwówek Śląski",
+          "beschriftung": "Löwenberg",
+          "haupt": true,
+          "artikel": "Lwówek Śląski",
+          "wikidata": "Q219382"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "286",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-10-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Brandenburger Tor",
+      "bild_beschreibung": "",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": null,
+      "commons_datei": "DBPB 1966 286 Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor (Briefmarkenserie)",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor (Briefmarkenserie)",
+          "wikidata": "Q897908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "287",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-10-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Brandenburger Tor",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": null,
+      "commons_datei": "DBPB 1966 287 Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor (Briefmarkenserie)",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor (Briefmarkenserie)",
+          "wikidata": "Q897908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "288",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Brandenburger Tor",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": null,
+      "commons_datei": "DBPB 1966 288 Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor (Briefmarkenserie)",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor (Briefmarkenserie)",
+          "wikidata": "Q897908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "289",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1966-10-24",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Brandenburger Tor",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": null,
+      "commons_datei": "DBPB 1966 289 Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor (Briefmarkenserie)",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor (Briefmarkenserie)",
+          "wikidata": "Q897908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "290",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1967-04-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": "1991-12-31",
+      "anlass": "Dauermarkenserie: Brandenburger Tor",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": null,
+      "commons_datei": "DBPB 1966 290 Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor (Briefmarkenserie)",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor (Briefmarkenserie)",
+          "wikidata": "Q897908"
+        }
+      ]
+    }
+  ]
+}

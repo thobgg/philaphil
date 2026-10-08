@@ -1,0 +1,2776 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1987,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1987 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1987_der_Deutschen_Post_der_DDR",
+    "revision": 264963802,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3063,
+    "mi_nr_bis": 3139,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 78,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3063",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Denkmale: Rolandsäulen (I)",
+      "bild_beschreibung": "Stendal (1525)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 18000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stendal",
+          "beschriftung": "Stendal",
+          "haupt": true,
+          "artikel": "Stendal",
+          "wikidata": "Q7082"
+        },
+        {
+          "titel": "Historische Denkmale: Rolandsäulen",
+          "beschriftung": "Historische Denkmale: Rolandsäulen",
+          "haupt": false,
+          "artikel": "Historische Denkmale: Rolandsäulen",
+          "wikidata": "Q1620840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3064",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Denkmale: Rolandsäulen (I)",
+      "bild_beschreibung": "Halle (1719)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hallescher Roland",
+          "beschriftung": "Halle",
+          "haupt": true,
+          "artikel": "Hallescher Roland",
+          "wikidata": "Q1571663"
+        },
+        {
+          "titel": "Historische Denkmale: Rolandsäulen",
+          "beschriftung": "Historische Denkmale: Rolandsäulen",
+          "haupt": false,
+          "artikel": "Historische Denkmale: Rolandsäulen",
+          "wikidata": "Q1620840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3065",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-20",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Denkmale: Rolandsäulen (I)",
+      "bild_beschreibung": "Brandenburg (1474)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburg an der Havel",
+          "beschriftung": "Brandenburg",
+          "haupt": true,
+          "artikel": "Brandenburg an der Havel",
+          "wikidata": "Q3931"
+        },
+        {
+          "titel": "Historische Denkmale: Rolandsäulen",
+          "beschriftung": "Historische Denkmale: Rolandsäulen",
+          "haupt": false,
+          "artikel": "Historische Denkmale: Rolandsäulen",
+          "wikidata": "Q1620840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3066",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Denkmale: Rolandsäulen (I)",
+      "bild_beschreibung": "Quedlinburg (1460)",
+      "entwerfer": "Andrea Soest",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Quedlinburger Roland",
+          "beschriftung": "Quedlinburg",
+          "haupt": true,
+          "artikel": "Quedlinburger Roland",
+          "wikidata": "Q2122547"
+        },
+        {
+          "titel": "Historische Denkmale: Rolandsäulen",
+          "beschriftung": "Historische Denkmale: Rolandsäulen",
+          "haupt": false,
+          "artikel": "Historische Denkmale: Rolandsäulen",
+          "wikidata": "Q1620840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3067",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postgebäude",
+      "bild_beschreibung": "Die folgenden vier Marken wurden auch als Zusammendruck in Viererblockanordnung ausgegeben:; Auflage aus Viererblock: jeweils 3.500.000 Einzelmarken; Postamt Freiberg",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 21500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postamt",
+          "beschriftung": "Postamt",
+          "haupt": true,
+          "artikel": "Postamt",
+          "wikidata": "Q2663692"
+        },
+        {
+          "titel": "Freiberg",
+          "beschriftung": "Freiberg",
+          "haupt": false,
+          "artikel": "Freiberg",
+          "wikidata": "Q14819"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3068",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postgebäude",
+      "bild_beschreibung": "Postamt Perleberg 1",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 11500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Perleberg",
+          "beschriftung": "Perleberg",
+          "haupt": true,
+          "artikel": "Perleberg",
+          "wikidata": "Q498540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3069",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-03",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postgebäude",
+      "bild_beschreibung": "Postamt Weimar",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": true,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3070",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-03",
+      "wert": "1,20 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Postgebäude",
+      "bild_beschreibung": "Postamt Kirschau",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kirschau",
+          "beschriftung": "Kirschau",
+          "haupt": true,
+          "artikel": "Kirschau",
+          "wikidata": "Q550175"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3071",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Palais Ephraim",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ephraim-Palais",
+          "beschriftung": "Palais Ephraim",
+          "haupt": true,
+          "artikel": "Ephraim-Palais",
+          "wikidata": "Q878325"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3072",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Alt-Marzahn, Neubauten",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin-Marzahn",
+          "beschriftung": "Alt-Marzahn",
+          "haupt": true,
+          "artikel": "Berlin-Marzahn",
+          "wikidata": "Q702521"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3073",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Marx-Engels-Forum",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marx-Engels-Forum",
+          "beschriftung": "Marx-Engels-Forum",
+          "haupt": true,
+          "artikel": "Marx-Engels-Forum",
+          "wikidata": "Q31752"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3074",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Friedrichstadtpalast",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrichstadtpalast",
+          "beschriftung": "Friedrichstadtpalast",
+          "haupt": true,
+          "artikel": "Friedrichstadt-Palast",
+          "wikidata": "Q565670"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3075",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Diese Marke wurde als Kleinbogen ausgegeben:; Palais Ephraim",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Ephraim-Palais",
+          "beschriftung": "Palais Ephraim",
+          "haupt": false,
+          "artikel": "Ephraim-Palais",
+          "wikidata": "Q878325"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3076",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Diese Marke wurde als Kleinbogen ausgegeben:; Alt-Marzahn, Neubauten",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin-Marzahn",
+          "beschriftung": "Alt-Marzahn",
+          "haupt": true,
+          "artikel": "Berlin-Marzahn",
+          "wikidata": "Q702521"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3077",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Diese Marke wurde als Kleinbogen ausgegeben:; Marx-Engels-Forum",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marx-Engels-Forum",
+          "beschriftung": "Marx-Engels-Forum",
+          "haupt": true,
+          "artikel": "Marx-Engels-Forum",
+          "wikidata": "Q31752"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3078",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (II)",
+      "bild_beschreibung": "Diese Marke wurde als Kleinbogen ausgegeben:; Friedrichstadtpalast",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrichstadtpalast",
+          "beschriftung": "Friedrichstadtpalast",
+          "haupt": true,
+          "artikel": "Friedrichstadt-Palast",
+          "wikidata": "Q565670"
+        },
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3079",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Demokratischer Frauenbund Deutschlands (DFD)",
+      "bild_beschreibung": "Frau mit roter Blume im Haar",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 18000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Demokratischer Frauenbund Deutschlands",
+          "beschriftung": "Demokratischer Frauenbund Deutschlands",
+          "haupt": true,
+          "artikel": "Demokratischer Frauenbund Deutschlands",
+          "wikidata": "Q558343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3080",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-10",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Neubau Messehalle 20, Technische Messe",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3081",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Händler vor der Waage am Markt (um 1804)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3082",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIV)",
+      "bild_beschreibung": "Fritz Gäbler (1897–1974)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Gäbler",
+          "beschriftung": "Fritz Gäbler",
+          "haupt": true,
+          "artikel": "Fritz Gäbler",
+          "wikidata": "Q104912"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3083",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIV)",
+      "bild_beschreibung": "Robert Siewert (1887–1973)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Robert Siewert",
+          "beschriftung": "Robert Siewert",
+          "haupt": true,
+          "artikel": "Robert Siewert",
+          "wikidata": "Q98124"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3084",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIV)",
+      "bild_beschreibung": "Walter Vesper (1897–1978)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Vesper",
+          "beschriftung": "Walter Vesper",
+          "haupt": true,
+          "artikel": "Walter Vesper",
+          "wikidata": "Q1229903"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3085",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XIV)",
+      "bild_beschreibung": "Clara Zetkin (1857–1933), Frauenrechtlerin, Alterspräsidentin des Reichstages",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clara Zetkin",
+          "beschriftung": "Clara Zetkin",
+          "haupt": true,
+          "artikel": "Clara Zetkin",
+          "wikidata": "Q75823"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3086",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongreß des Freien Deutschen Gewerkschaftsbundes (FDGB), Berlin",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Wohnungsbau",
+      "entwerfer": "Peter Korn",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wohnungsbau",
+          "beschriftung": "Wohnungsbau",
+          "haupt": true,
+          "artikel": "Wohnungsbau",
+          "wikidata": "Q1799415"
+        },
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freien Deutschen Gewerkschaftsbundes",
+          "haupt": false,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3087",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-07",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongreß des Freien Deutschen Gewerkschaftsbundes (FDGB), Berlin",
+      "bild_beschreibung": "Technologie",
+      "entwerfer": "Peter Korn",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technologie",
+          "beschriftung": "Technologie",
+          "haupt": true,
+          "artikel": "Technologie",
+          "wikidata": "Q11016"
+        },
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freien Deutschen Gewerkschaftsbundes",
+          "haupt": false,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3088",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kongreß des Deutschen Roten Kreuzes der DDR. Dresden",
+      "bild_beschreibung": "DRK-Fahne, Weltkarte, Friedenstauben",
+      "entwerfer": "Link",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1987, MiNr 3088.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3089",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-07",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Deutsches Hygiene-Museum, Dresden",
+      "bild_beschreibung": "Karl August Lingner, Museumsgebäude",
+      "entwerfer": "Berthold Lindner",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1987, MiNr 3089.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Hygiene-Museum",
+          "beschriftung": "Deutsches Hygiene-Museum",
+          "haupt": true,
+          "artikel": "Deutsches Hygiene-Museum",
+          "wikidata": "Q874373"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Karl August Lingner",
+          "beschriftung": "Karl August Lingner",
+          "haupt": false,
+          "artikel": "Karl August Lingner",
+          "wikidata": "Q125103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3090",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre Landwirtschaftliche Produktionsgenossenschaften (LPG)",
+      "bild_beschreibung": "Landwirtschaftsmaschinen, Pferdepflug",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Landwirtschaftliche Produktionsgenossenschaft",
+          "beschriftung": "Landwirtschaftliche Produktionsgenossenschaft",
+          "haupt": true,
+          "artikel": "Landwirtschaftliche Produktionsgenossenschaft",
+          "wikidata": "Q13574663"
+        },
+        {
+          "titel": "pflug",
+          "beschriftung": "pflug",
+          "haupt": false,
+          "artikel": "Pflug",
+          "wikidata": "Q11464"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3091",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (X)",
+      "bild_beschreibung": "Ludwig Uhland (1787–1862), Dichter und Germanist",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig Uhland",
+          "beschriftung": "Ludwig Uhland",
+          "haupt": true,
+          "artikel": "Ludwig Uhland",
+          "wikidata": "Q61058"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Germanistik",
+          "beschriftung": "Germanist",
+          "haupt": false,
+          "artikel": "Germanistik",
+          "wikidata": "Q166153"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3092",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (X)",
+      "bild_beschreibung": "Arnold Zweig (1887–1968), Schriftsteller",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arnold Zweig",
+          "beschriftung": "Arnold Zweig",
+          "haupt": true,
+          "artikel": "Arnold Zweig",
+          "wikidata": "Q75868"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3093",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-05",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (X)",
+      "bild_beschreibung": "Gerhart Hauptmann (1862–1946), Dichter, Dramatiker und Nobelpreisträger",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": true,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Dramatiker",
+          "beschriftung": "Dramatiker",
+          "haupt": false,
+          "artikel": "Dramatiker",
+          "wikidata": "Q214917"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3094",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (X)",
+      "bild_beschreibung": "Gustav Hertz (1887–1975), Physiker und Nobelpreisträger",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gustav Hertz",
+          "beschriftung": "Gustav Hertz",
+          "haupt": true,
+          "artikel": "Gustav Hertz",
+          "wikidata": "Q57070"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3095 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-19",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Blei (Abramis brama)",
+      "entwerfer": "Kraus",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brachse",
+          "beschriftung": "Blei",
+          "haupt": true,
+          "artikel": "Brasse (Fisch)",
+          "wikidata": "Q144534"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3096 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Diese Briefmarke wurde auch als Kleinbogen ausgegeben:; Auflage aus Kleinbogen: 8.400.000; Bachforelle (Salmo trutta fario)",
+      "entwerfer": "Kraus",
+      "auflage": 26400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bachforelle",
+          "beschriftung": "Bachforelle",
+          "haupt": true,
+          "artikel": "Bachforelle",
+          "wikidata": "Q1671485"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3096 II",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1988-11-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Diese Marke stammt aus einem Markenheftchen; Bachforelle (Salmo trutta fario)",
+      "entwerfer": "Kraus",
+      "auflage": 77000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenheft",
+          "beschriftung": "Markenheftchen",
+          "haupt": true,
+          "artikel": "Briefmarkenheft",
+          "wikidata": "Q914931"
+        },
+        {
+          "titel": "Bachforelle",
+          "beschriftung": "Bachforelle",
+          "haupt": false,
+          "artikel": "Bachforelle",
+          "wikidata": "Q1671485"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3097 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Diese Briefmarke wurde auch als Kleinbogen ausgegeben:; Auflage aus Kleinbogen: 8.400.000; Wels (Silurus glanis)",
+      "entwerfer": "Kraus",
+      "auflage": 16400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Wels",
+          "beschriftung": "Wels",
+          "haupt": true,
+          "artikel": "Europäischer Wels",
+          "wikidata": "Q159323"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3098 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-19",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Äsche (Thymallus thymallus)",
+      "entwerfer": "Kraus",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Äsche",
+          "beschriftung": "Äsche",
+          "haupt": true,
+          "artikel": "Europäische Äsche",
+          "wikidata": "Q627960"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3099 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-19",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Barbe (Barbus barbus)",
+      "entwerfer": "Kraus",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäische Äsche",
+          "beschriftung": "Barbe",
+          "haupt": true,
+          "artikel": "Europäische Äsche",
+          "wikidata": "Q627960"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3100 I",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-19",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Süßwasserfische",
+      "bild_beschreibung": "Hecht (Esox lucius)",
+      "entwerfer": "Kraus",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hecht",
+          "beschriftung": "Hecht",
+          "haupt": true,
+          "artikel": "Hecht",
+          "wikidata": "Q165278"
+        },
+        {
+          "titel": "Süßwasserfisch",
+          "beschriftung": "Süßwasserfisch",
+          "haupt": false,
+          "artikel": "Süßwasserfisch",
+          "wikidata": "Q1072742"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3101",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-06-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Feuerwehren: Löschfahrzeuge",
+      "bild_beschreibung": "Die folgenden vier Marken wurden auch als Zusammendruck in Viererblockanordnung ausgegeben:; Auflage aus Viererblock: jeweils 2.300.000 Einzelmarken; Bespannte Handdruckspritze (1756)",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 18300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerspritze",
+          "beschriftung": "Handdruckspritze",
+          "haupt": true,
+          "artikel": "Feuerspritze",
+          "wikidata": "Q1409700"
+        },
+        {
+          "titel": "Feuerwehr",
+          "beschriftung": "Feuerwehr",
+          "haupt": false,
+          "artikel": "Feuerwehr",
+          "wikidata": "Q6498663"
+        },
+        {
+          "titel": "Feuerwehrfahrzeuge in Deutschland",
+          "beschriftung": "Löschfahrzeuge",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeuge in Deutschland",
+          "wikidata": "Q1409984"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3102",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-06-16",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Feuerwehren: Löschfahrzeuge",
+      "bild_beschreibung": "Mobile Dampfspritze (1903).",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 5800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerwehr",
+          "beschriftung": "Feuerwehr",
+          "haupt": true,
+          "artikel": "Feuerwehr",
+          "wikidata": "Q6498663"
+        },
+        {
+          "titel": "Feuerwehrfahrzeuge in Deutschland",
+          "beschriftung": "Löschfahrzeuge",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeuge in Deutschland",
+          "wikidata": "Q1409984"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3103",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-06-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Feuerwehren: Löschfahrzeuge",
+      "bild_beschreibung": "Löschfahrzeug Lf15 (1919).",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 5800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerwehr",
+          "beschriftung": "Feuerwehr",
+          "haupt": true,
+          "artikel": "Feuerwehr",
+          "wikidata": "Q6498663"
+        },
+        {
+          "titel": "Feuerwehrfahrzeuge in Deutschland",
+          "beschriftung": "Löschfahrzeuge",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeuge in Deutschland",
+          "wikidata": "Q1409984"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3104",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-06-16",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Feuerwehren: Löschfahrzeuge",
+      "bild_beschreibung": "Löschfahrzeug LF 16-TS 8 (1971)",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 4400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löschfahrzeuge in der DDR",
+          "beschriftung": "LF 16-TS 8",
+          "haupt": true,
+          "artikel": "Löschfahrzeuge in der DDR",
+          "wikidata": "Q14524117"
+        },
+        {
+          "titel": "Feuerwehr",
+          "beschriftung": "Feuerwehr",
+          "haupt": false,
+          "artikel": "Feuerwehr",
+          "wikidata": "Q6498663"
+        },
+        {
+          "titel": "Feuerwehrfahrzeuge in Deutschland",
+          "beschriftung": "Löschfahrzeuge",
+          "haupt": false,
+          "artikel": "Feuerwehrfahrzeuge in Deutschland",
+          "wikidata": "Q1409984"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3105",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-06-16",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Solidarität: Kampf gegen Apartheid",
+      "bild_beschreibung": "Afrikanerin mit Kind",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität",
+          "beschriftung": "Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität",
+          "wikidata": "Q815726"
+        },
+        {
+          "titel": "Apartheid",
+          "beschriftung": "Apartheid",
+          "haupt": false,
+          "artikel": "Apartheid",
+          "wikidata": "Q11409"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3106",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-07",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Esperanto",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Ludwig Lazarus Zamenhof, polnischer Augenarzt, Erfinder der Weltsprache Esperanto",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1987, MiNr 3106.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Esperanto",
+          "beschriftung": "Esperanto",
+          "haupt": true,
+          "artikel": "Esperanto",
+          "wikidata": "Q143"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Ludwik Lejzer Zamenhof",
+          "beschriftung": "Ludwig Lazarus Zamenhof",
+          "haupt": false,
+          "artikel": "Ludwik Lejzer Zamenhof",
+          "wikidata": "Q11758"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "polnischer",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        },
+        {
+          "titel": "Augenheilkunde",
+          "beschriftung": "Augenarzt",
+          "haupt": false,
+          "artikel": "Augenheilkunde",
+          "wikidata": "Q161437"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3107",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (III)",
+      "bild_beschreibung": "Fischotter (Lutra lutra); WWF-Symbol",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischotter",
+          "beschriftung": "Fischotter",
+          "haupt": true,
+          "artikel": "Fischotter",
+          "wikidata": "Q29995"
+        },
+        {
+          "titel": "WWF",
+          "beschriftung": "WWF",
+          "haupt": false,
+          "artikel": "WWF",
+          "wikidata": "Q117892"
+        },
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3108",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (III)",
+      "bild_beschreibung": "Fischotter (Lutra lutra); WWF-Symbol",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": true,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3109",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (III)",
+      "bild_beschreibung": "Fischotter (Lutra lutra); WWF-Symbol",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": true,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3110",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vom Aussterben bedrohte Tiere (III)",
+      "bild_beschreibung": "Fischotter (Lutra lutra); WWF-Symbol",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vom Aussterben bedrohte Tiere",
+          "beschriftung": "Vom Aussterben bedrohte Tiere",
+          "haupt": true,
+          "artikel": "Vom Aussterben bedrohte Tiere",
+          "wikidata": "Q1534024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VIII. Turn- und Sportfest, XI. Kinder- und Jugendspartakiade, Leipzig",
+      "bild_beschreibung": "Tauziehen",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tauziehen",
+          "beschriftung": "Tauziehen",
+          "haupt": true,
+          "artikel": "Tauziehen",
+          "wikidata": "Q102843"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3112",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VIII. Turn- und Sportfest, XI. Kinder- und Jugendspartakiade, Leipzig",
+      "bild_beschreibung": "Handball",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Handball",
+          "beschriftung": "Handball",
+          "haupt": true,
+          "artikel": "Handball",
+          "wikidata": "Q8418"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3113",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-21",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VIII. Turn- und Sportfest, XI. Kinder- und Jugendspartakiade, Leipzig",
+      "bild_beschreibung": "Weitsprung",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weitsprung",
+          "beschriftung": "Weitsprung",
+          "haupt": true,
+          "artikel": "Weitsprung",
+          "wikidata": "Q170737"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3114",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VIII. Turn- und Sportfest, XI. Kinder- und Jugendspartakiade, Leipzig",
+      "bild_beschreibung": "Tischtennis",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tischtennis",
+          "beschriftung": "Tischtennis",
+          "haupt": true,
+          "artikel": "Tischtennis",
+          "wikidata": "Q3930"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3115",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-21",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VIII. Turn- und Sportfest, XI. Kinder- und Jugendspartakiade, Leipzig",
+      "bild_beschreibung": "Kegeln",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kegeln",
+          "beschriftung": "Kegeln",
+          "haupt": true,
+          "artikel": "Kegeln",
+          "wikidata": "Q706199"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3116",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VIII. Turn- und Sportfest, XI. Kinder- und Jugendspartakiade, Leipzig",
+      "bild_beschreibung": "Meilenlauf",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 2250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meilenlauf",
+          "beschriftung": "Meilenlauf",
+          "haupt": true,
+          "artikel": "Meilenlauf",
+          "wikidata": "Q943635"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3117",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-08-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "35 Jahre Gesellschaft für Sport und Technik (GST)",
+      "bild_beschreibung": "GST-Mitglieder in verschiedenen Ausbildungsdisziplinen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gesellschaft für Sport und Technik",
+          "beschriftung": "Gesellschaft für Sport und Technik",
+          "haupt": true,
+          "artikel": "Gesellschaft für Sport und Technik",
+          "wikidata": "Q896852"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3118",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-08-11",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Ehemaliges Hofpostamt Berlin (um 1760)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Tag der Philatelisten",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3119",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-08-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten",
+      "bild_beschreibung": "Wartenberg-Palais, Berlin",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Palais Wartenberg",
+          "beschriftung": "Wartenberg-Palais",
+          "haupt": true,
+          "artikel": "Palais Wartenberg",
+          "wikidata": "Q52031070"
+        },
+        {
+          "titel": "Tag der Philatelisten",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3120",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-08-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Die folgenden zwei Marken wurde als Briefmarkenblock ausgegeben:; Historische Messeszene (1804) nach Radierungen aus den Leipziger Meßscenen von Christian Gottfried Heinrich Geißler",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Radierung",
+          "beschriftung": "Radierung",
+          "haupt": false,
+          "artikel": "Radierung",
+          "wikidata": "Q186986"
+        },
+        {
+          "titel": "Christian Gottfried Heinrich Geißler",
+          "beschriftung": "Christian Gottfried Heinrich Geißler",
+          "haupt": false,
+          "artikel": "Christian Gottfried Geißler",
+          "wikidata": "Q1079892"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3121",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-08-25",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Historische Messeszene (1804) nach Radierungen aus den Leipziger Meßscenen von Christian Gottfried Heinrich Geißler",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3122",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-09-08",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Skulptur in der Mahn- und Gedenkstätte Budapest",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Budapest",
+          "beschriftung": "Budapest",
+          "haupt": false,
+          "artikel": "Budapest",
+          "wikidata": "Q1781"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3123",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-09-08",
+      "wert": "1,35 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin (III)",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Ernst-Thälmann-Denkmal im Ernst-Thälmann-Park, Berlin",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "750 Jahre Berlin",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": true,
+          "artikel": "750 Jahre Berlin",
+          "wikidata": "Q19724824"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Ernst-Thälmann-Denkmal (Prenzlauer Berg)",
+          "beschriftung": "Ernst-Thälmann-Denkmal",
+          "haupt": false,
+          "artikel": "Ernst-Thälmann-Denkmal (Berlin)",
+          "wikidata": "Q1357207"
+        },
+        {
+          "titel": "Ernst-Thälmann-Park",
+          "beschriftung": "Ernst-Thälmann-Park",
+          "haupt": false,
+          "artikel": "Ernst-Thälmann-Park",
+          "wikidata": "Q689324"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3124",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-09-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstausstellung der DDR, Dresden",
+      "bild_beschreibung": "Weidendammbrücke, Kreidezeichnung von Arno Mohr",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pastellmalerei",
+          "beschriftung": "Kreidezeichnung",
+          "haupt": true,
+          "artikel": "Pastellmalerei",
+          "wikidata": "Q189085"
+        },
+        {
+          "titel": "Arno Mohr",
+          "beschriftung": "Arno Mohr",
+          "haupt": false,
+          "artikel": "Arno Mohr",
+          "wikidata": "Q108030"
+        },
+        {
+          "titel": "Kunstausstellung der DDR",
+          "beschriftung": "Kunstausstellung der DDR",
+          "haupt": false,
+          "artikel": "Kunstausstellung der DDR",
+          "wikidata": "Q1778508"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3125",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-09-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstausstellung der DDR, Dresden",
+      "bild_beschreibung": "Sie wollten nur Lesen und Schreiben lehren; Gemälde von Willi Sitte",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": true,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        },
+        {
+          "titel": "Willi Sitte",
+          "beschriftung": "Willi Sitte",
+          "haupt": false,
+          "artikel": "Willi Sitte",
+          "wikidata": "Q90856"
+        },
+        {
+          "titel": "Kunstausstellung der DDR",
+          "beschriftung": "Kunstausstellung der DDR",
+          "haupt": false,
+          "artikel": "Kunstausstellung der DDR",
+          "wikidata": "Q1778508"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3126",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-09-22",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstausstellung der DDR, Dresden",
+      "bild_beschreibung": "Großer trauernder Mann; Bronzeplastik von Wieland Förster",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plastik (Kunst)",
+          "beschriftung": "plastik",
+          "haupt": true,
+          "artikel": "Plastik (Kunst)",
+          "wikidata": "Q1078913"
+        },
+        {
+          "titel": "Wieland Förster",
+          "beschriftung": "Wieland Förster",
+          "haupt": false,
+          "artikel": "Wieland Förster",
+          "wikidata": "Q1362461"
+        },
+        {
+          "titel": "Kunstausstellung der DDR",
+          "beschriftung": "Kunstausstellung der DDR",
+          "haupt": false,
+          "artikel": "Kunstausstellung der DDR",
+          "wikidata": "Q1778508"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3127",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-09-22",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstausstellung der DDR, Dresden",
+      "bild_beschreibung": "Schale von Gerd Lucke",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerd Lucke",
+          "beschriftung": "Gerd Lucke",
+          "haupt": true,
+          "artikel": "Gerd Lucke",
+          "wikidata": "Q131405855"
+        },
+        {
+          "titel": "Kunstausstellung der DDR",
+          "beschriftung": "Kunstausstellung der DDR",
+          "haupt": false,
+          "artikel": "Kunstausstellung der DDR",
+          "wikidata": "Q1778508"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3128",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-06",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Flugpostmarken (V)",
+      "bild_beschreibung": "Stilisiertes Flugzeug mit Brief",
+      "entwerfer": "Detlef Glinski",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flugzeug",
+          "beschriftung": "Flugzeug",
+          "haupt": true,
+          "artikel": "Flugzeug",
+          "wikidata": "Q197"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        },
+        {
+          "titel": "Flugpostmarken",
+          "beschriftung": "Flugpostmarken",
+          "haupt": false,
+          "artikel": "Flugpostmarken",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "3129",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Flugpostmarken (V)",
+      "bild_beschreibung": "Stilisiertes Flugzeug mit Brief",
+      "entwerfer": "Detlef Glinski",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flugpostmarken",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Flugpostmarken",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "3130",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "70. Jahrestag der Oktoberrevolution in Russland",
+      "bild_beschreibung": "Wladimir Iljitsch Lenin; Smolny-Gebäude, Leningrad; Kreuzer Aurora",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": true,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Smolny-Institut",
+          "beschriftung": "Smolny-Gebäude",
+          "haupt": false,
+          "artikel": "Smolny-Institut",
+          "wikidata": "Q728971"
+        },
+        {
+          "titel": "Sankt Petersburg",
+          "beschriftung": "Leningrad",
+          "haupt": false,
+          "artikel": "Sankt Petersburg",
+          "wikidata": "Q656"
+        },
+        {
+          "titel": "Aurora (Schiff, 1903)",
+          "beschriftung": "Aurora",
+          "haupt": false,
+          "artikel": "Aurora (Schiff, 1903)",
+          "wikidata": "Q168713"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        },
+        {
+          "titel": "Russland",
+          "beschriftung": "Russland",
+          "haupt": false,
+          "artikel": "Russland",
+          "wikidata": "Q159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3131",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "70. Jahrestag der Oktoberrevolution in Russland",
+      "bild_beschreibung": "Türme und Roter Stern des Kremlpalastes, Moskau",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roter Stern",
+          "beschriftung": "Roter Stern",
+          "haupt": true,
+          "artikel": "Roter Stern",
+          "wikidata": "Q208578"
+        },
+        {
+          "titel": "Moskauer Kreml",
+          "beschriftung": "Kremlpalastes",
+          "haupt": false,
+          "artikel": "Moskauer Kreml",
+          "wikidata": "Q133274"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        },
+        {
+          "titel": "Russland",
+          "beschriftung": "Russland",
+          "haupt": false,
+          "artikel": "Russland",
+          "wikidata": "Q159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3132",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre der Messe der Meister von Morgen (MMM)",
+      "bild_beschreibung": "Jugendlicher am Personalcomputer PC 1715",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Personal Computer",
+          "beschriftung": "Personalcomputer",
+          "haupt": true,
+          "artikel": "Personal Computer",
+          "wikidata": "Q16338"
+        },
+        {
+          "titel": "PC 1715",
+          "beschriftung": "PC 1715",
+          "haupt": false,
+          "artikel": "PC 1715",
+          "wikidata": "Q2043887"
+        },
+        {
+          "titel": "Messe der Meister von Morgen",
+          "beschriftung": "Messe der Meister von Morgen",
+          "haupt": false,
+          "artikel": "Messe der Meister von Morgen",
+          "wikidata": "Q1264541"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3133",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre der Messe der Meister von Morgen (MMM)",
+      "bild_beschreibung": "Schweißroboter ZIM 10-S",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Industrieroboter",
+          "beschriftung": "Schweißroboter",
+          "haupt": true,
+          "artikel": "Industrieroboter",
+          "wikidata": "Q1128980"
+        },
+        {
+          "titel": "ZIM 10-S",
+          "beschriftung": "ZIM 10-S",
+          "haupt": false,
+          "artikel": "ZIM 10-S",
+          "wikidata": null
+        },
+        {
+          "titel": "Messe der Meister von Morgen",
+          "beschriftung": "Messe der Meister von Morgen",
+          "haupt": false,
+          "artikel": "Messe der Meister von Morgen",
+          "wikidata": "Q1264541"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3134",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtspyramiden aus dem Erzgebirge",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Annaberg (um 1810)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Annaberg-Buchholz",
+          "beschriftung": "Annaberg",
+          "haupt": false,
+          "artikel": "Annaberg-Buchholz",
+          "wikidata": "Q57944"
+        },
+        {
+          "titel": "Weihnachtspyramide",
+          "beschriftung": "Weihnachtspyramide",
+          "haupt": false,
+          "artikel": "Weihnachtspyramide",
+          "wikidata": "Q663515"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3135",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtspyramiden aus dem Erzgebirge",
+      "bild_beschreibung": "Freiberg (um 1830)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiberg",
+          "beschriftung": "Freiberg",
+          "haupt": true,
+          "artikel": "Freiberg",
+          "wikidata": "Q14819"
+        },
+        {
+          "titel": "Weihnachtspyramide",
+          "beschriftung": "Weihnachtspyramide",
+          "haupt": false,
+          "artikel": "Weihnachtspyramide",
+          "wikidata": "Q663515"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3136",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtspyramiden aus dem Erzgebirge",
+      "bild_beschreibung": "Neustädtel (um 1870)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neustädtel (Schneeberg)",
+          "beschriftung": "Neustädtel",
+          "haupt": true,
+          "artikel": "Neustädtel (Schneeberg)",
+          "wikidata": "Q1981743"
+        },
+        {
+          "titel": "Weihnachtspyramide",
+          "beschriftung": "Weihnachtspyramide",
+          "haupt": false,
+          "artikel": "Weihnachtspyramide",
+          "wikidata": "Q663515"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3137",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtspyramiden aus dem Erzgebirge",
+      "bild_beschreibung": "Schneeberg (um 1870)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneeberg (Erzgebirge)",
+          "beschriftung": "Schneeberg",
+          "haupt": true,
+          "artikel": "Schneeberg (Erzgebirge)",
+          "wikidata": "Q57941"
+        },
+        {
+          "titel": "Weihnachtspyramide",
+          "beschriftung": "Weihnachtspyramide",
+          "haupt": false,
+          "artikel": "Weihnachtspyramide",
+          "wikidata": "Q663515"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3138",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-24",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtspyramiden aus dem Erzgebirge",
+      "bild_beschreibung": "Lößnitz (um 1880)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lößnitz (Erzgebirge)",
+          "beschriftung": "Lößnitz",
+          "haupt": true,
+          "artikel": "Lößnitz (Erzgebirge)",
+          "wikidata": "Q57921"
+        },
+        {
+          "titel": "Weihnachtspyramide",
+          "beschriftung": "Weihnachtspyramide",
+          "haupt": false,
+          "artikel": "Weihnachtspyramide",
+          "wikidata": "Q663515"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3139",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-24",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtspyramiden aus dem Erzgebirge",
+      "bild_beschreibung": "Seiffen (um 1910)",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seiffen/Erzgeb.",
+          "beschriftung": "Seiffen",
+          "haupt": true,
+          "artikel": "Seiffen/Erzgeb.",
+          "wikidata": "Q57837"
+        },
+        {
+          "titel": "Weihnachtspyramide",
+          "beschriftung": "Weihnachtspyramide",
+          "haupt": false,
+          "artikel": "Weihnachtspyramide",
+          "wikidata": "Q663515"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        }
+      ]
+    }
+  ]
+}

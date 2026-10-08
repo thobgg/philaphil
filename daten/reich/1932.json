@@ -1,0 +1,496 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1932,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1932 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1932_der_Deutschen_Reichspost",
+    "revision": 261634524,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 463,
+    "mi_nr_bis": 478,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 7,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "463",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-02-02",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1932-08-31",
+      "anlass": "Nothilfe Bauwerke",
+      "bild_beschreibung": "Dresdner Zwinger",
+      "entwerfer": "unbekannt",
+      "auflage": 676019,
+      "commons_datei": "DR 1932 463 Nothilfe, Dresden.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        }
+      ]
+    },
+    {
+      "mi_nr": "464",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-02-02",
+      "wert": "12+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1932-08-31",
+      "anlass": "Nothilfe Bauwerke",
+      "bild_beschreibung": "Breslauer Rathaus",
+      "entwerfer": "unbekannt",
+      "auflage": 744477,
+      "commons_datei": "DR 1932 464 Nothilfe, Breslau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Breslauer Rathaus",
+          "beschriftung": "Breslauer Rathaus",
+          "haupt": true,
+          "artikel": "Rathaus (Breslau)",
+          "wikidata": "Q910225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "474",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-11-01",
+      "wert": "4+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Nothilfe Burgen und Schlösser",
+      "bild_beschreibung": "Wartburg",
+      "entwerfer": "unbekannt",
+      "auflage": 2709027,
+      "commons_datei": "DR 1932 474 Nothilfe Burgen und Schlösser Wartburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburg",
+          "beschriftung": "Wartburg",
+          "haupt": true,
+          "artikel": "Wartburg",
+          "wikidata": "Q151545"
+        }
+      ]
+    },
+    {
+      "mi_nr": "475",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-11-01",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Nothilfe Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Stolzenfels",
+      "entwerfer": "unbekannt",
+      "auflage": 3305032,
+      "commons_datei": "DR 1932 475 Nothilfe Burgen und Schlösser Schloss Stolzenfels.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Stolzenfels",
+          "beschriftung": "Schloss Stolzenfels",
+          "haupt": true,
+          "artikel": "Schloss Stolzenfels",
+          "wikidata": "Q833779"
+        }
+      ]
+    },
+    {
+      "mi_nr": "476",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-11-01",
+      "wert": "12+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Nothilfe Burgen und Schlösser",
+      "bild_beschreibung": "Nürnberger Burg",
+      "entwerfer": "unbekannt",
+      "auflage": 4798610,
+      "commons_datei": "DR 1932 476 Nothilfe Burgen und Schlösser Burg Nürnberg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nürnberger Burg",
+          "beschriftung": "Nürnberger Burg",
+          "haupt": true,
+          "artikel": "Nürnberger Burg",
+          "wikidata": "Q707396"
+        }
+      ]
+    },
+    {
+      "mi_nr": "477",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-11-01",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Nothilfe Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Lichtenstein",
+      "entwerfer": "unbekannt",
+      "auflage": 468886,
+      "commons_datei": "DR 1932 477 Nothilfe Burgen und Schlösser Schloss Lichtenstein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Lichtenstein (Württemberg)",
+          "beschriftung": "Schloss Lichtenstein",
+          "haupt": true,
+          "artikel": "Schloss Lichtenstein (Württemberg)",
+          "wikidata": "Q155693"
+        }
+      ]
+    },
+    {
+      "mi_nr": "478",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1932-11-01",
+      "wert": "40+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Nothilfe Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Marburg",
+      "entwerfer": "unbekannt",
+      "auflage": 203175,
+      "commons_datei": "DR 1932 478 Nothilfe Burgen und Schlösser Schloss Marburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marburger Schloss",
+          "beschriftung": "Schloss Marburg",
+          "haupt": true,
+          "artikel": "Marburger Schloss",
+          "wikidata": "Q538301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "465",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1932 465 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Ebert",
+          "beschriftung": "Friedrich Ebert",
+          "haupt": true,
+          "artikel": "Friedrich Ebert",
+          "wikidata": "Q2646"
+        },
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": false,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "466",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-01",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1932 466 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        },
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": false,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "467",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "Porträt Paul von Hindenburgs, Wasserzeichen 2 Waffeln",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 467 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        },
+        {
+          "titel": "Wasserzeichen (Briefmarkenpapier)",
+          "beschriftung": "Wasserzeichen",
+          "haupt": false,
+          "artikel": "Wasserzeichen (Briefmarkenpapier)",
+          "wikidata": "Q18632671"
+        },
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": false,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "468",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 468 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "469",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 469 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "470",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 470 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "471",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 471 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "472",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 472 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "473",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1932-10-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon I",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1932 473 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 128",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1932",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1932 128 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 129",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1932",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1932 129 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    }
+  ]
+}

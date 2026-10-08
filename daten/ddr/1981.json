@@ -1,0 +1,3751 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1981,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1981 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1981_der_Deutschen_Post_der_DDR",
+    "revision": 265318831,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2572,
+    "mi_nr_bis": 2666,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 90,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2572",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "225. Geburtstag von Wolfgang Amadeus Mozart",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; W. A. Mozart, Komponist",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wolfgang Amadeus Mozart",
+          "beschriftung": "Wolfgang Amadeus Mozart",
+          "haupt": true,
+          "artikel": "Wolfgang Amadeus Mozart",
+          "wikidata": "Q254"
+        },
+        {
+          "titel": "Briefmarkenblocks der Deutschen Post der DDR",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblocks der Deutschen Post der DDR",
+          "wikidata": "Q914858"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2573",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seltene Gehölze",
+      "bild_beschreibung": "Johannisapfel (Malus domestica)",
+      "entwerfer": "Evelyne Bobbe und Karl-Heinz Bobbe",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weißer Klarapfel",
+          "beschriftung": "Johannisapfel",
+          "haupt": true,
+          "artikel": "Weißer Klarapfel",
+          "wikidata": "Q1759796"
+        },
+        {
+          "titel": "Unterholz",
+          "beschriftung": "Gehölze",
+          "haupt": false,
+          "artikel": "Unterholz",
+          "wikidata": "Q422666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2574",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seltene Gehölze",
+      "bild_beschreibung": "Schneeglöckchenbaum (Halesia carolina)",
+      "entwerfer": "Evelyne Bobbe und Karl-Heinz Bobbe",
+      "auflage": 17000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Halesia carolina",
+          "beschriftung": "Halesia carolina",
+          "haupt": true,
+          "artikel": "Schneeglöckchenbaum",
+          "wikidata": "Q3125935"
+        },
+        {
+          "titel": "Unterholz",
+          "beschriftung": "Gehölze",
+          "haupt": false,
+          "artikel": "Unterholz",
+          "wikidata": "Q422666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2575",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seltene Gehölze",
+      "bild_beschreibung": "Blasenstrauch (Colutea aboreszens)",
+      "entwerfer": "Evelyne Bobbe und Karl-Heinz Bobbe",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gelber Blasenstrauch",
+          "beschriftung": "Blasenstrauch",
+          "haupt": true,
+          "artikel": "Gelber Blasenstrauch",
+          "wikidata": "Q158890"
+        },
+        {
+          "titel": "Unterholz",
+          "beschriftung": "Gehölze",
+          "haupt": false,
+          "artikel": "Unterholz",
+          "wikidata": "Q422666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2576",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seltene Gehölze",
+      "bild_beschreibung": "Paulownie (Paulownie tomentosa)",
+      "entwerfer": "Evelyne Bobbe und Karl-Heinz Bobbe",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blauglockenbaum",
+          "beschriftung": "Paulownie",
+          "haupt": true,
+          "artikel": "Blauglockenbaum",
+          "wikidata": "Q157393"
+        },
+        {
+          "titel": "Unterholz",
+          "beschriftung": "Gehölze",
+          "haupt": false,
+          "artikel": "Unterholz",
+          "wikidata": "Q422666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2577",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seltene Gehölze",
+      "bild_beschreibung": "Deutsches Geißblatt (Lonicera periclymenum)",
+      "entwerfer": "Evelyne Bobbe und Karl-Heinz Bobbe",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waldgeißblatt",
+          "beschriftung": "Deutsches Geißblatt",
+          "haupt": true,
+          "artikel": "Waldgeißblatt",
+          "wikidata": "Q161584"
+        },
+        {
+          "titel": "Unterholz",
+          "beschriftung": "Gehölze",
+          "haupt": false,
+          "artikel": "Unterholz",
+          "wikidata": "Q422666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Seltene Gehölze",
+      "bild_beschreibung": "Echter Gewürzstrauch (Calycanthus floridus)",
+      "entwerfer": "Evelyne Bobbe und Karl-Heinz Bobbe",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echter Gewürzstrauch",
+          "beschriftung": "Echter Gewürzstrauch",
+          "haupt": true,
+          "artikel": "Echter Gewürzstrauch",
+          "wikidata": "Q165416"
+        },
+        {
+          "titel": "Unterholz",
+          "beschriftung": "Gehölze",
+          "haupt": false,
+          "artikel": "Unterholz",
+          "wikidata": "Q422666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2579",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Heinrich von Stephan",
+      "bild_beschreibung": "H.v. Stephan, Postfachmann, Mitbegründer des Weltpostvereins (UPU)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2580",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahre Nationale Volksarmee (NVA)",
+      "bild_beschreibung": "Vereidigung in der Nationalen Mahn- und Gedenkstätte Sachsenhausen",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fahneneid der NVA",
+          "beschriftung": "Vereidigung",
+          "haupt": true,
+          "artikel": "Fahneneid der NVA",
+          "wikidata": "Q1392179"
+        },
+        {
+          "titel": "Gedenkstätte und Museum Sachsenhausen",
+          "beschriftung": "Nationalen Mahn- und Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Gedenkstätte und Museum Sachsenhausen",
+          "wikidata": "Q60322749"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2581",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahre Nationale Volksarmee (NVA)",
+      "bild_beschreibung": "Großer Wachaufzug, Neue Wache, Berlin",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ehrenwache",
+          "beschriftung": "Großer Wachaufzug",
+          "haupt": true,
+          "artikel": "Ehrenwache",
+          "wikidata": "Q1060409"
+        },
+        {
+          "titel": "Neue Wache",
+          "beschriftung": "Neue Wache",
+          "haupt": false,
+          "artikel": "Neue Wache",
+          "wikidata": "Q152341"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2582",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteitag der Sozialistischen Einheitspartei Deutschlands (SED), Berlin (I)",
+      "bild_beschreibung": "Karl Marx und Wladimir Iljitsch Lenin, Rote Fahne",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": true,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "Rote Fahne",
+          "haupt": false,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2583",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildungseinrichtungen der Deutschen Post",
+      "bild_beschreibung": "Lehrlingsausbildung im Post- und Zeitungswesen",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ausbildung",
+          "beschriftung": "Lehrlingsausbildung",
+          "haupt": true,
+          "artikel": "Ausbildung",
+          "wikidata": "Q8434"
+        },
+        {
+          "titel": "Zeitung",
+          "beschriftung": "Zeitung",
+          "haupt": false,
+          "artikel": "Zeitung",
+          "wikidata": "Q11032"
+        },
+        {
+          "titel": "Bildungsinstitution",
+          "beschriftung": "Bildungseinrichtungen",
+          "haupt": false,
+          "artikel": "Bildungseinrichtung",
+          "wikidata": "Q2385804"
+        },
+        {
+          "titel": "Deutsche Post (DDR)",
+          "beschriftung": "Deutschen Post",
+          "haupt": false,
+          "artikel": "Deutsche Post (DDR)",
+          "wikidata": "Q316296"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2584",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildungseinrichtungen der Deutschen Post",
+      "bild_beschreibung": "Lehrlingsausbildung im Fernsprech- und Fernschreibwesen",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Telefon",
+          "beschriftung": "Fernsprech",
+          "haupt": true,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Fernschreiber",
+          "beschriftung": "Fernschreibwesen",
+          "haupt": false,
+          "artikel": "Fernschreiber",
+          "wikidata": "Q66196"
+        },
+        {
+          "titel": "Bildungsinstitution",
+          "beschriftung": "Bildungseinrichtungen",
+          "haupt": false,
+          "artikel": "Bildungseinrichtung",
+          "wikidata": "Q2385804"
+        },
+        {
+          "titel": "Deutsche Post (DDR)",
+          "beschriftung": "Deutschen Post",
+          "haupt": false,
+          "artikel": "Deutsche Post (DDR)",
+          "wikidata": "Q316296"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2585",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildungseinrichtungen der Deutschen Post",
+      "bild_beschreibung": "Lehrlingsausbildung im Funkwesen",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Funktechnik",
+          "beschriftung": "Funkwesen",
+          "haupt": true,
+          "artikel": "Funktechnik",
+          "wikidata": "Q872"
+        },
+        {
+          "titel": "Bildungsinstitution",
+          "beschriftung": "Bildungseinrichtungen",
+          "haupt": false,
+          "artikel": "Bildungseinrichtung",
+          "wikidata": "Q2385804"
+        },
+        {
+          "titel": "Deutsche Post (DDR)",
+          "beschriftung": "Deutschen Post",
+          "haupt": false,
+          "artikel": "Deutsche Post (DDR)",
+          "wikidata": "Q316296"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2586",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildungseinrichtungen der Deutschen Post",
+      "bild_beschreibung": "Ingenieurschule „Rosa Luxemburg“ der Deutschen Post, Leipzig",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochschule für Telekommunikation Leipzig",
+          "beschriftung": "Ingenieurschule „Rosa Luxemburg",
+          "haupt": true,
+          "artikel": "Hochschule für Telekommunikation Leipzig",
+          "wikidata": "Q1622226"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Bildungsinstitution",
+          "beschriftung": "Bildungseinrichtungen",
+          "haupt": false,
+          "artikel": "Bildungseinrichtung",
+          "wikidata": "Q2385804"
+        },
+        {
+          "titel": "Deutsche Post (DDR)",
+          "beschriftung": "Deutschen Post",
+          "haupt": false,
+          "artikel": "Deutsche Post (DDR)",
+          "wikidata": "Q316296"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2587",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildungseinrichtungen der Deutschen Post",
+      "bild_beschreibung": "Hochschule für Verkehrswesen „Friedrich List“, Dresden",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochschule für Verkehrswesen",
+          "beschriftung": "Hochschule für Verkehrswesen",
+          "haupt": true,
+          "artikel": "Hochschule für Verkehrswesen",
+          "wikidata": "Q1622225"
+        },
+        {
+          "titel": "Fakultät Verkehrswissenschaften „Friedrich List“",
+          "beschriftung": "Friedrich List",
+          "haupt": false,
+          "artikel": "Fakultät Verkehrswissenschaften „Friedrich List“",
+          "wikidata": "Q1393813"
+        },
+        {
+          "titel": "Bildungsinstitution",
+          "beschriftung": "Bildungseinrichtungen",
+          "haupt": false,
+          "artikel": "Bildungseinrichtung",
+          "wikidata": "Q2385804"
+        },
+        {
+          "titel": "Deutsche Post (DDR)",
+          "beschriftung": "Deutschen Post",
+          "haupt": false,
+          "artikel": "Deutsche Post (DDR)",
+          "wikidata": "Q316296"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2589",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (IX)",
+      "bild_beschreibung": "Erich Baron (1881–1933)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erich Baron",
+          "beschriftung": "Erich Baron",
+          "haupt": true,
+          "artikel": "Erich Baron",
+          "wikidata": "Q114903"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2590",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (IX)",
+      "bild_beschreibung": "Conrad Blenkle (1901–1943), Mitbegründer der Kommunistischen Jugend Deutschlands, NS-Opfer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Conrad Blenkle",
+          "beschriftung": "Conrad Blenkle",
+          "haupt": true,
+          "artikel": "Conrad Blenkle",
+          "wikidata": "Q1126667"
+        },
+        {
+          "titel": "Kommunistischer Jugendverband Deutschlands (1918)",
+          "beschriftung": "Kommunistischen Jugend Deutschlands",
+          "haupt": false,
+          "artikel": "Kommunistischer Jugendverband Deutschlands (1920)",
+          "wikidata": "Q38506"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2591",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (IX)",
+      "bild_beschreibung": "Arthur Ewert (1890–1959)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arthur Ewert",
+          "beschriftung": "Arthur Ewert",
+          "haupt": true,
+          "artikel": "Arthur Ewert",
+          "wikidata": "Q709297"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2592",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (IX)",
+      "bild_beschreibung": "Walter Stoecker (1891–1939)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Stoecker",
+          "beschriftung": "Walter Stoecker",
+          "haupt": true,
+          "artikel": "Walter Stoecker",
+          "wikidata": "Q1335588"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2593",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Hotel Merkur, Leipzig",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hotel The Westin Leipzig",
+          "beschriftung": "Hotel Merkur",
+          "haupt": true,
+          "artikel": "The Westin Leipzig",
+          "wikidata": "Q1631047"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2594",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "TAKRAF, Bandabsetzer für Tagebaubetriebe",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "TAKRAF (Kombinat)",
+          "beschriftung": "TAKRAF",
+          "haupt": true,
+          "artikel": "Schwermaschinenbaukombinat TAKRAF",
+          "wikidata": "Q302508"
+        },
+        {
+          "titel": "Bandabsetzer",
+          "beschriftung": "Bandabsetzer",
+          "haupt": false,
+          "artikel": "Bandabsetzer",
+          "wikidata": null
+        },
+        {
+          "titel": "Tagebau",
+          "beschriftung": "Tagebau",
+          "haupt": false,
+          "artikel": "Tagebau",
+          "wikidata": "Q113594123"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2595",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteitag der Sozialistischen Einheitspartei Deutschlands (SED), Berlin (II): Gemälde",
+      "bild_beschreibung": "„Ernst Thälmann“, von Willi Sitte",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Willi Sitte",
+          "beschriftung": "Willi Sitte",
+          "haupt": false,
+          "artikel": "Willi Sitte",
+          "wikidata": "Q90856"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2596",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteitag der Sozialistischen Einheitspartei Deutschlands (SED), Berlin (II): Gemälde",
+      "bild_beschreibung": "„Brigadier“, von Bernhard Heisig",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brigade (DDR)",
+          "beschriftung": "Brigadier",
+          "haupt": true,
+          "artikel": "Sozialistische Brigade",
+          "wikidata": "Q14920619"
+        },
+        {
+          "titel": "Bernhard Heisig",
+          "beschriftung": "Bernhard Heisig",
+          "haupt": false,
+          "artikel": "Bernhard Heisig",
+          "wikidata": "Q97495"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2597",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteitag der Sozialistischen Einheitspartei Deutschlands (SED), Berlin (II): Gemälde",
+      "bild_beschreibung": "„Festtag“, von Rudolf Bergander",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feiertag",
+          "beschriftung": "Festtag",
+          "haupt": true,
+          "artikel": "Feiertag",
+          "wikidata": "Q1445650"
+        },
+        {
+          "titel": "Rudolf Bergander",
+          "beschriftung": "Rudolf Bergander",
+          "haupt": false,
+          "artikel": "Rudolf Bergander",
+          "wikidata": "Q104218"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2598",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteitag der Sozialistischen Einheitspartei Deutschlands (SED), Berlin (II): Gemälde",
+      "bild_beschreibung": "„Waffenbrüder“, von Paul Michaelis",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Defensivbündnis",
+          "beschriftung": "Waffenbrüder",
+          "haupt": true,
+          "artikel": "Militärbündnis",
+          "wikidata": "Q1127126"
+        },
+        {
+          "titel": "Paul Michaelis (Maler)",
+          "beschriftung": "Paul Michaelis",
+          "haupt": false,
+          "artikel": "Paul Michaelis (Maler)",
+          "wikidata": "Q2061293"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2599",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-24",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteitag der Sozialistischen Einheitspartei Deutschlands (SED), Berlin (II): Gemälde",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; „Wenn Kommunisten träumen“ (Detail), von Walter Womacka",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 2200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Walter Womacka",
+          "beschriftung": "Walter Womacka",
+          "haupt": false,
+          "artikel": "Walter Womacka",
+          "wikidata": "Q160350"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2600",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-03-24",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sport- und Erholungszentrum Berlin",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Sport- und Erholungszentrum Berlin, Leninallee",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sport- und Erholungszentrum",
+          "beschriftung": "Sport- und Erholungszentrum Berlin",
+          "haupt": true,
+          "artikel": "Sport- und Erholungszentrum",
+          "wikidata": "Q1509008"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Landsberger Allee",
+          "beschriftung": "Leninallee",
+          "haupt": false,
+          "artikel": "Landsberger Allee",
+          "wikidata": "Q317582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2601",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rationelle Energieanwendung",
+      "bild_beschreibung": "Diese Briefmarke wurde auch als Kleinbogen ausgegeben:; Auflage aus Bogen: 21.000.000 Einzelmarken; Braunkohlebrikett, Steckdose, Stecker",
+      "entwerfer": "Bobbe",
+      "auflage": 29000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Energieeinsparung",
+          "beschriftung": "Rationelle Energieanwendung",
+          "haupt": true,
+          "artikel": "Energieeinsparung",
+          "wikidata": "Q380170"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "brikett",
+          "beschriftung": "brikett",
+          "haupt": false,
+          "artikel": "Brikett",
+          "wikidata": "Q153022"
+        },
+        {
+          "titel": "Steckdose",
+          "beschriftung": "Steckdose",
+          "haupt": false,
+          "artikel": "Steckdose",
+          "wikidata": "Q215292"
+        },
+        {
+          "titel": "Steckverbinder",
+          "beschriftung": "Stecker",
+          "haupt": false,
+          "artikel": "Steckverbinder",
+          "wikidata": "Q2119531"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (IX)",
+      "bild_beschreibung": "Heinrich Barkhausen (1881–1956), Elektrotechniker, Im Hintergrund Barkhausensche Röhrenformel",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Barkhausen",
+          "beschriftung": "Heinrich Barkhausen",
+          "haupt": true,
+          "artikel": "Heinrich Barkhausen",
+          "wikidata": "Q60264"
+        },
+        {
+          "titel": "Elektrotechnik",
+          "beschriftung": "Elektrotechnik",
+          "haupt": false,
+          "artikel": "Elektrotechnik",
+          "wikidata": "Q43035"
+        },
+        {
+          "titel": "Barkhausensche Röhrenformel",
+          "beschriftung": "Barkhausensche Röhrenformel",
+          "haupt": false,
+          "artikel": "Barkhausensche Röhrenformel",
+          "wikidata": "Q808276"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (IX)",
+      "bild_beschreibung": "Johannes Robert Becher (1891–1958), Schriftsteller und Dichter, im Hintergrund Vers aus dem Werk Jahrhundert",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johannes Robert Becher",
+          "beschriftung": "Johannes Robert Becher",
+          "haupt": true,
+          "artikel": "Johannes R. Becher",
+          "wikidata": "Q58057"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (IX)",
+      "bild_beschreibung": "Richard Dedekind (1831–1916), Mathematiker, im Hintergrund Formel des Dedekindschen Schnittes",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Richard Dedekind",
+          "beschriftung": "Richard Dedekind",
+          "haupt": true,
+          "artikel": "Richard Dedekind",
+          "wikidata": "Q76556"
+        },
+        {
+          "titel": "Mathematiker",
+          "beschriftung": "Mathematiker",
+          "haupt": false,
+          "artikel": "Mathematiker",
+          "wikidata": "Q170790"
+        },
+        {
+          "titel": "Dedekindscher Schnitt",
+          "beschriftung": "Dedekindschen Schnittes",
+          "haupt": false,
+          "artikel": "Dedekindscher Schnitt",
+          "wikidata": "Q851333"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-05",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (IX)",
+      "bild_beschreibung": "Georg Philipp Telemann (1681–1767), Komponist, im Hintergrund Notenblatt",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2606.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Philipp Telemann",
+          "beschriftung": "Georg Philipp Telemann",
+          "haupt": true,
+          "artikel": "Georg Philipp Telemann",
+          "wikidata": "Q75854"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Notensatz",
+          "beschriftung": "Notenblatt",
+          "haupt": false,
+          "artikel": "Notensatz",
+          "wikidata": "Q460053"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (IX)",
+      "bild_beschreibung": "Adelbert von Chamisso (1781–1838), Dichter und Naturforscher, im Hintergrund Zweige des Kalifornischen Kappenmohns",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2607.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adelbert von Chamisso",
+          "beschriftung": "Adelbert von Chamisso",
+          "haupt": true,
+          "artikel": "Adelbert von Chamisso",
+          "wikidata": "Q154782"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Naturgeschichte",
+          "beschriftung": "Naturforscher",
+          "haupt": false,
+          "artikel": "Naturgeschichte",
+          "wikidata": "Q484591"
+        },
+        {
+          "titel": "Kalifornischer Mohn",
+          "beschriftung": "Kalifornischen Kappenmohns",
+          "haupt": false,
+          "artikel": "Kalifornischer Mohn",
+          "wikidata": "Q158795"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (IX)",
+      "bild_beschreibung": "Wilhelm Raabe (1831–1910), Dichter und Erzähler, im Hintergrund Buchtitel Die Chronik der Sperlingsgasse",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Raabe",
+          "beschriftung": "Wilhelm Raabe",
+          "haupt": true,
+          "artikel": "Wilhelm Raabe",
+          "wikidata": "Q60647"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Erzähler",
+          "beschriftung": "Erzähler",
+          "haupt": false,
+          "artikel": "Erzähler",
+          "wikidata": "Q755070"
+        },
+        {
+          "titel": "Buchtitel",
+          "beschriftung": "Buchtitel",
+          "haupt": false,
+          "artikel": "Buchtitel",
+          "wikidata": "Q783521"
+        },
+        {
+          "titel": "Die Chronik der Sperlingsgasse",
+          "beschriftung": "Die Chronik der Sperlingsgasse",
+          "haupt": false,
+          "artikel": "Die Chronik der Sperlingsgasse",
+          "wikidata": "Q1211874"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parlament der Freien Deutschen Jugend (FDJ), Berlin",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Mitglieder der FDJ, Fahne mit den Bildnissen von Thälmann und Pieck",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Pieck",
+          "haupt": false,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "Parlament der Freien Deutschen Jugend",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-05-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parlament der Freien Deutschen Jugend (FDJ), Berlin",
+      "bild_beschreibung": "Mitglieder der FDJ und ausländische Jugendliche bei der Berufsausbildung, FDJ-Fahne",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jugendaustausch",
+          "beschriftung": "ausländische Jugendliche",
+          "haupt": true,
+          "artikel": "Jugendaustausch",
+          "wikidata": "Q1711255"
+        },
+        {
+          "titel": "Ausbildung",
+          "beschriftung": "Berufsausbildung",
+          "haupt": false,
+          "artikel": "Ausbildung",
+          "wikidata": "Q8434"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "Parlament der Freien Deutschen Jugend",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2611",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-09",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landschaftsparks",
+      "bild_beschreibung": "Wörlitz (Schloss)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wörlitz",
+          "beschriftung": "Wörlitz",
+          "haupt": true,
+          "artikel": "Wörlitz",
+          "wikidata": "Q518275"
+        },
+        {
+          "titel": "Schloss Wörlitz",
+          "beschriftung": "Schloss",
+          "haupt": false,
+          "artikel": "Schloss Wörlitz",
+          "wikidata": "Q21293161"
+        },
+        {
+          "titel": "Landschaftspark",
+          "beschriftung": "Landschaftspark",
+          "haupt": false,
+          "artikel": "Landschaftsgarten",
+          "wikidata": "Q15077303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landschaftsparks",
+      "bild_beschreibung": "Tiefurt (Musentempel)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tiefurt",
+          "beschriftung": "Tiefurt",
+          "haupt": true,
+          "artikel": "Tiefurt",
+          "wikidata": "Q2432031"
+        },
+        {
+          "titel": "Schloss Tiefurt",
+          "beschriftung": "Musentempel",
+          "haupt": false,
+          "artikel": "Schloss Tiefurt",
+          "wikidata": "Q466847"
+        },
+        {
+          "titel": "Landschaftspark",
+          "beschriftung": "Landschaftspark",
+          "haupt": false,
+          "artikel": "Landschaftsgarten",
+          "wikidata": "Q15077303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-09",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landschaftsparks",
+      "bild_beschreibung": "Neuhardenberg (Marxwalde) (Schloß)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neuhardenberg",
+          "beschriftung": "Neuhardenberg",
+          "haupt": true,
+          "artikel": "Neuhardenberg",
+          "wikidata": "Q582614"
+        },
+        {
+          "titel": "Schloss Neuhardenberg",
+          "beschriftung": "Schloß",
+          "haupt": false,
+          "artikel": "Schloss Neuhardenberg",
+          "wikidata": "Q2242613"
+        },
+        {
+          "titel": "Landschaftspark",
+          "beschriftung": "Landschaftspark",
+          "haupt": false,
+          "artikel": "Landschaftsgarten",
+          "wikidata": "Q15077303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2614",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landschaftsparks",
+      "bild_beschreibung": "Branitz (Blick vom Herrmannshügel)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Branitz (Cottbus)",
+          "beschriftung": "Branitz",
+          "haupt": true,
+          "artikel": "Branitz (Cottbus)",
+          "wikidata": "Q14551273"
+        },
+        {
+          "titel": "Branitzer Park",
+          "beschriftung": "Blick vom Herrmannshügel",
+          "haupt": false,
+          "artikel": "Branitzer Park",
+          "wikidata": "Q881773"
+        },
+        {
+          "titel": "Landschaftspark",
+          "beschriftung": "Landschaftspark",
+          "haupt": false,
+          "artikel": "Landschaftsgarten",
+          "wikidata": "Q15077303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2615",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landschaftsparks",
+      "bild_beschreibung": "Berlin-Treptow (Große Liegewiese)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bezirk Treptow",
+          "beschriftung": "Berlin-Treptow",
+          "haupt": true,
+          "artikel": "Bezirk Treptow",
+          "wikidata": "Q677833"
+        },
+        {
+          "titel": "Treptower Park",
+          "beschriftung": "Große Liegewiese",
+          "haupt": false,
+          "artikel": "Treptower Park",
+          "wikidata": "Q666937"
+        },
+        {
+          "titel": "Landschaftspark",
+          "beschriftung": "Landschaftspark",
+          "haupt": false,
+          "artikel": "Landschaftsgarten",
+          "wikidata": "Q15077303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-09",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landschaftsparks",
+      "bild_beschreibung": "Wiesenburg",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Wiesenburg (Brandenburg)",
+          "beschriftung": "Wiesenburg",
+          "haupt": true,
+          "artikel": "Schloss Wiesenburg (Brandenburg)",
+          "wikidata": "Q863002"
+        },
+        {
+          "titel": "Landschaftspark",
+          "beschriftung": "Landschaftspark",
+          "haupt": false,
+          "artikel": "Landschaftsgarten",
+          "wikidata": "Q15077303"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-23",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Jugendliche bei Sport und Spiel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jugend",
+          "beschriftung": "Jugendliche",
+          "haupt": true,
+          "artikel": "Jugend",
+          "wikidata": "Q190007"
+        },
+        {
+          "titel": "Sport",
+          "beschriftung": "Sport",
+          "haupt": false,
+          "artikel": "Sport",
+          "wikidata": "Q349"
+        },
+        {
+          "titel": "Spiel",
+          "beschriftung": "Spiel",
+          "haupt": false,
+          "artikel": "Spiel",
+          "wikidata": "Q11410"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Jugendliche bei künstlerischer Gymnastik",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gymnastik",
+          "beschriftung": "Gymnastik",
+          "haupt": true,
+          "artikel": "Gymnastik",
+          "wikidata": "Q107031718"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Karl Friedrich Schinkel",
+      "bild_beschreibung": "Schauspielhaus Berlin",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schauspielhaus Berlin",
+          "beschriftung": "Schauspielhaus Berlin",
+          "haupt": true,
+          "artikel": "Schauspielhaus (Berlin)",
+          "wikidata": "Q702548"
+        },
+        {
+          "titel": "Karl Friedrich Schinkel",
+          "beschriftung": "Karl Friedrich Schinkel",
+          "haupt": false,
+          "artikel": "Karl Friedrich Schinkel",
+          "wikidata": "Q151759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-23",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Karl Friedrich Schinkel",
+      "bild_beschreibung": "Altes Museum Berlin",
+      "entwerfer": "Axel Bengs",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Museum",
+          "beschriftung": "Altes Museum Berlin",
+          "haupt": true,
+          "artikel": "Altes Museum",
+          "wikidata": "Q156722"
+        },
+        {
+          "titel": "Karl Friedrich Schinkel",
+          "beschriftung": "Karl Friedrich Schinkel",
+          "haupt": false,
+          "artikel": "Karl Friedrich Schinkel",
+          "wikidata": "Q151759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Behinderten",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Rollstuhlfahrer beim Speerwurf",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rollstuhl",
+          "beschriftung": "Rollstuhl",
+          "haupt": true,
+          "artikel": "Rollstuhl",
+          "wikidata": "Q191931"
+        },
+        {
+          "titel": "Speerwurf",
+          "beschriftung": "Speerwurf",
+          "haupt": false,
+          "artikel": "Speerwurf",
+          "wikidata": "Q178108"
+        },
+        {
+          "titel": "Internationales Jahr der Behinderten",
+          "beschriftung": "Internationales Jahr der Behinderten",
+          "haupt": false,
+          "artikel": "Internationales Jahr der Behinderten",
+          "wikidata": "Q6054409"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-06-23",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Behinderten",
+      "bild_beschreibung": "Behinderte besuchen Museum",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Museum",
+          "beschriftung": "Museum",
+          "haupt": true,
+          "artikel": "Museum",
+          "wikidata": "Q33506"
+        },
+        {
+          "titel": "Internationales Jahr der Behinderten",
+          "beschriftung": "Internationales Jahr der Behinderten",
+          "haupt": false,
+          "artikel": "Internationales Jahr der Behinderten",
+          "wikidata": "Q6054409"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2623",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten in der DDR (II)",
+      "bild_beschreibung": "Umgebindehaus, Zaulsdorf (nach 1800)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Umgebindehaus",
+          "beschriftung": "Umgebindehaus",
+          "haupt": true,
+          "artikel": "Umgebindehaus",
+          "wikidata": "Q1362233"
+        },
+        {
+          "titel": "Zaulsdorf",
+          "beschriftung": "Zaulsdorf",
+          "haupt": false,
+          "artikel": "Zaulsdorf",
+          "wikidata": "Q8067165"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten in der DDR",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2624",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten in der DDR (II)",
+      "bild_beschreibung": "Zuckerhut (Pfarrwitwenhaus), Groß Zicker (nach 1700)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste der Baudenkmale in Gager",
+          "beschriftung": "Pfarrwitwenhaus",
+          "haupt": true,
+          "artikel": "Liste der Baudenkmale in Gager",
+          "wikidata": null
+        },
+        {
+          "titel": "Gager",
+          "beschriftung": "Groß Zicker",
+          "haupt": false,
+          "artikel": "Gager",
+          "wikidata": "Q258295"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten in der DDR",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2625",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten in der DDR (II)",
+      "bild_beschreibung": "Wohnstallhaus, Weckersdorf (um 1700)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wohnstallhaus",
+          "beschriftung": "Wohnstallhaus",
+          "haupt": true,
+          "artikel": "Wohnstallhaus",
+          "wikidata": "Q2588110"
+        },
+        {
+          "titel": "Weckersdorf",
+          "beschriftung": "Weckersdorf",
+          "haupt": false,
+          "artikel": "Weckersdorf",
+          "wikidata": "Q2553822"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten in der DDR",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2626",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten in der DDR (II)",
+      "bild_beschreibung": "Löwinghaus, Pillgram (18. Jahrhundert)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vorlaubenhaus",
+          "beschriftung": "Löwinghaus",
+          "haupt": true,
+          "artikel": "Vorlaubenhaus",
+          "wikidata": "Q1584200"
+        },
+        {
+          "titel": "Pillgram",
+          "beschriftung": "Pillgram",
+          "haupt": false,
+          "artikel": "Pillgram",
+          "wikidata": "Q1425382"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten in der DDR",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2627",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-07",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten in der DDR (II)",
+      "bild_beschreibung": "Bauernhaus, Eschenbach (1741)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauernhaus",
+          "beschriftung": "Bauernhaus",
+          "haupt": true,
+          "artikel": "Bauernhof",
+          "wikidata": "Q131596"
+        },
+        {
+          "titel": "Eschenbach (Schöneck)",
+          "beschriftung": "Eschenbach",
+          "haupt": false,
+          "artikel": "Eschenbach (Schöneck)",
+          "wikidata": "Q1366984"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten in der DDR",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2628",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-07",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Fachwerkbauten in der DDR (II)",
+      "bild_beschreibung": "Giebellaubenhaus, Lüdersdorf (um 1800)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vorlaubenhaus",
+          "beschriftung": "Giebellaubenhaus",
+          "haupt": true,
+          "artikel": "Vorlaubenhaus",
+          "wikidata": "Q1584200"
+        },
+        {
+          "titel": "Parsteinsee",
+          "beschriftung": "Lüdersdorf",
+          "haupt": false,
+          "artikel": "Parsteinsee",
+          "wikidata": "Q560215"
+        },
+        {
+          "titel": "Fachwerkbauten in der DDR",
+          "beschriftung": "Fachwerkbauten in der DDR",
+          "haupt": false,
+          "artikel": "Fachwerkbauten in der DDR",
+          "wikidata": "Q1391571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2629",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (II)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2631 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Bahn Freital-Kurort Kipsdorf (Spurweite 750 mm); Lokomotive",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weißeritztalbahn",
+          "beschriftung": "Bahn Freital-Kurort Kipsdorf",
+          "haupt": true,
+          "artikel": "Schmalspurbahn Freital-Hainsberg–Kurort Kipsdorf",
+          "wikidata": "Q884695"
+        },
+        {
+          "titel": "Spurweite (Schienenverkehr)",
+          "beschriftung": "Spurweite",
+          "haupt": false,
+          "artikel": "Spurweite (Schienenverkehr)",
+          "wikidata": "Q214519"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2630",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (II)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2632 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Bahn Putbus-Göhren (Spurweite 750 mm); Lokomotive",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rügensche Kleinbahn",
+          "beschriftung": "Bahn Putbus-Göhren",
+          "haupt": true,
+          "artikel": "Rügensche Kleinbahn",
+          "wikidata": "Q883462"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2631",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-21",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (II)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2629 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Bahn Freital-Kurort Kipsdorf (Spurweite 750 mm); Packwagen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gepäckwagen (Eisenbahnwagen)",
+          "beschriftung": "Packwagen",
+          "haupt": true,
+          "artikel": "Gepäckwagen (Eisenbahnwagen)",
+          "wikidata": "Q1509724"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2632",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schmalspurbahnen in der DDR (II)",
+      "bild_beschreibung": "Diese Marke wurde mit Mi.Nr. 2630 als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Bahn Putbus-Göhren (Spurweite 750 mm); Personenwagen",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Personenwagen",
+          "beschriftung": "Personenwagen",
+          "haupt": true,
+          "artikel": "Reisezugwagen",
+          "wikidata": "Q753779"
+        },
+        {
+          "titel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "beschriftung": "Schmalspurbahnen in der DDR",
+          "haupt": false,
+          "artikel": "Schmalspurbahnen in der DDR (Briefmarkenserie)",
+          "wikidata": "Q1741136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2634",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-08-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Erdöldestillationsanlage",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemieanlagenbau Leipzig-Grimma",
+          "beschriftung": "Erdöldestillationsanlage",
+          "haupt": true,
+          "artikel": "Chemieanlagenbaukombinat",
+          "wikidata": "Q1069225"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2635",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-08-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Neues Gewandhaus, Leipzig",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewandhaus (Leipzig)",
+          "beschriftung": "Neues Gewandhaus",
+          "haupt": true,
+          "artikel": "Gewandhaus (Leipzig)",
+          "wikidata": "Q519613"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2636",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-08-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Papyrus Ebers (Detail), Universitätsbibliothek Leipzig",
+      "entwerfer": "Müller",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2636.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Papyrus Ebers",
+          "beschriftung": "Papyrus Ebers",
+          "haupt": true,
+          "artikel": "Papyrus Ebers",
+          "wikidata": "Q310301"
+        },
+        {
+          "titel": "Universitätsbibliothek Leipzig",
+          "beschriftung": "Universitätsbibliothek Leipzig",
+          "haupt": false,
+          "artikel": "Universitätsbibliothek Leipzig",
+          "wikidata": "Q872896"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2637",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-08-18",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Maya-Handschrift (Detail), Sächsische Landesbibliothek Dresden",
+      "entwerfer": "Müller",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2637.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Codex Dresdensis",
+          "beschriftung": "Maya-Handschrift",
+          "haupt": true,
+          "artikel": "Codex Dresdensis",
+          "wikidata": "Q200944"
+        },
+        {
+          "titel": "Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden",
+          "beschriftung": "Sächsische Landesbibliothek Dresden",
+          "haupt": false,
+          "artikel": "Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden",
+          "wikidata": "Q323270"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2638",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-08-18",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Miniatur und Zeilen eines Sonetts von Petrarca, Deutsche Staatsbibliothek Berlin",
+      "entwerfer": "Müller",
+      "auflage": 2100000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2638.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniatur",
+          "haupt": true,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        },
+        {
+          "titel": "Sonett",
+          "beschriftung": "Sonett",
+          "haupt": false,
+          "artikel": "Sonett",
+          "wikidata": "Q80056"
+        },
+        {
+          "titel": "Francesco Petrarca",
+          "beschriftung": "Petrarca",
+          "haupt": false,
+          "artikel": "Francesco Petrarca",
+          "wikidata": "Q1401"
+        },
+        {
+          "titel": "Staatsbibliothek zu Berlin",
+          "beschriftung": "Deutsche Staatsbibliothek Berlin",
+          "haupt": false,
+          "artikel": "Staatsbibliothek zu Berlin",
+          "wikidata": "Q170109"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2639",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-08",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Ehrenmal für die antifaschistischen Widerstandskämpfer, Saßnitz",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Sassnitz",
+          "beschriftung": "Ehrenmal für die antifaschistischen Widerstandskämpfer, Saßnitz",
+          "haupt": false,
+          "artikel": "Sassnitz",
+          "wikidata": "Q494631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2640",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften Leipzig, Medizinhistorische Sammlung",
+      "bild_beschreibung": "Bilsenkraut (Hyosciamus niger), Räucherpfanne (16. Jh.)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzes Bilsenkraut",
+          "beschriftung": "Bilsenkraut",
+          "haupt": true,
+          "artikel": "Schwarzes Bilsenkraut",
+          "wikidata": "Q161058"
+        },
+        {
+          "titel": "Ritualmagie",
+          "beschriftung": "Räucherpfanne",
+          "haupt": false,
+          "artikel": "Ritualmagie",
+          "wikidata": "Q2155334"
+        },
+        {
+          "titel": "Karl-Sudhoff-Institut",
+          "beschriftung": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften",
+          "haupt": false,
+          "artikel": "Karl-Sudhoff-Institut",
+          "wikidata": "Q101406473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2641",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften Leipzig, Medizinhistorische Sammlung",
+      "bild_beschreibung": "Pelikan, Geißfüße, Zahnzange (17. Jh.)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pelikan (Zahnmedizin)",
+          "beschriftung": "Pelikan",
+          "haupt": true,
+          "artikel": "Pelikan (Zahnmedizin)",
+          "wikidata": "Q2068005"
+        },
+        {
+          "titel": "Geißfuß (Werkzeug)",
+          "beschriftung": "Geißfüße",
+          "haupt": false,
+          "artikel": "Geißfuß (Werkzeug)",
+          "wikidata": "Q1499116"
+        },
+        {
+          "titel": "Extraktion (Zahnmedizin)",
+          "beschriftung": "Zahnzange",
+          "haupt": false,
+          "artikel": "Extraktion (Zahnmedizin)",
+          "wikidata": "Q849893"
+        },
+        {
+          "titel": "Karl-Sudhoff-Institut",
+          "beschriftung": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften",
+          "haupt": false,
+          "artikel": "Karl-Sudhoff-Institut",
+          "wikidata": "Q101406473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2642",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-22",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften Leipzig, Medizinhistorische Sammlung",
+      "bild_beschreibung": "Haarseilzangen (17. Jh.)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haarseil",
+          "beschriftung": "Haarseil",
+          "haupt": true,
+          "artikel": "Haarseil",
+          "wikidata": "Q1566618"
+        },
+        {
+          "titel": "Karl-Sudhoff-Institut",
+          "beschriftung": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften",
+          "haupt": false,
+          "artikel": "Karl-Sudhoff-Institut",
+          "wikidata": "Q101406473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2643",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-22",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften Leipzig, Medizinhistorische Sammlung",
+      "bild_beschreibung": "Steinschnittmesser (18. Jh.), Bruchschere (17. Jh.)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steinschnittmesser",
+          "beschriftung": "Steinschnittmesser",
+          "haupt": true,
+          "artikel": "Steinschnittmesser",
+          "wikidata": null
+        },
+        {
+          "titel": "Bruchschere",
+          "beschriftung": "Bruchschere",
+          "haupt": false,
+          "artikel": "Bruchschere",
+          "wikidata": null
+        },
+        {
+          "titel": "Karl-Sudhoff-Institut",
+          "beschriftung": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften",
+          "haupt": false,
+          "artikel": "Karl-Sudhoff-Institut",
+          "wikidata": "Q101406473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2644",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften Leipzig, Medizinhistorische Sammlung",
+      "bild_beschreibung": "Geburtszange (18. Jh.), Speculum (17. Jh.)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geburtszange",
+          "beschriftung": "Geburtszange",
+          "haupt": true,
+          "artikel": "Geburtszange",
+          "wikidata": "Q1364965"
+        },
+        {
+          "titel": "Spekulum",
+          "beschriftung": "Speculum",
+          "haupt": false,
+          "artikel": "Spekulum",
+          "wikidata": "Q1342422"
+        },
+        {
+          "titel": "Karl-Sudhoff-Institut",
+          "beschriftung": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften",
+          "haupt": false,
+          "artikel": "Karl-Sudhoff-Institut",
+          "wikidata": "Q101406473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2645",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-09-22",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften Leipzig, Medizinhistorische Sammlung",
+      "bild_beschreibung": "Elevatoren, (17. Jh.)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elevatorium",
+          "beschriftung": "Elevatoren",
+          "haupt": true,
+          "artikel": "Elevatorium",
+          "wikidata": "Q1328356"
+        },
+        {
+          "titel": "Karl-Sudhoff-Institut",
+          "beschriftung": "Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften",
+          "haupt": false,
+          "artikel": "Karl-Sudhoff-Institut",
+          "wikidata": "Q101406473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2646",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten",
+      "bild_beschreibung": "Brief von Friedrich Engels",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2646.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": true,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Tag der Philatelisten",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2647",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten",
+      "bild_beschreibung": "Postkarte von Karl Marx",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1981, MiNr 2647.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postkarte",
+          "beschriftung": "Postkarte",
+          "haupt": true,
+          "artikel": "Postkarte",
+          "wikidata": "Q192425"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Tag der Philatelisten",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2648",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Solidarität",
+      "bild_beschreibung": "Afrikaner mit gesprengten Ketten, aufgehende Sonne",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität",
+          "beschriftung": "Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität",
+          "wikidata": "Q815726"
+        },
+        {
+          "titel": "Dekolonisation Afrikas",
+          "beschriftung": "Afrikaner mit gesprengten Ketten",
+          "haupt": false,
+          "artikel": "Dekolonisation Afrikas",
+          "wikidata": "Q1146918"
+        },
+        {
+          "titel": "Sonne",
+          "beschriftung": "Sonne",
+          "haupt": false,
+          "artikel": "Sonne",
+          "wikidata": "Q525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2651",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Binnenschiffe der DDR",
+      "bild_beschreibung": "Schubschiff (1969–1970)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schubboot",
+          "beschriftung": "Schubschiff",
+          "haupt": true,
+          "artikel": "Schubboot",
+          "wikidata": "Q1763083"
+        },
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Binnenschiffe der DDR",
+          "haupt": false,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2652",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Binnenschiffe der DDR",
+      "bild_beschreibung": "Schubverband: Kanalschubschiff (1964–1966) und zwei Schubprähme (ab 1964)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schubverband",
+          "beschriftung": "Schubverband",
+          "haupt": true,
+          "artikel": "Schubverband",
+          "wikidata": "Q1320015"
+        },
+        {
+          "titel": "Schiffe ohne eigenen Antrieb",
+          "beschriftung": "Schubprähme",
+          "haupt": false,
+          "artikel": "Schiff ohne eigenen Antrieb",
+          "wikidata": "Q65185061"
+        },
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Binnenschiffe der DDR",
+          "haupt": false,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2653",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Binnenschiffe der DDR",
+      "bild_beschreibung": "Dieselelektrisches Seitenrad-Fahrgastschiff (1961–1964)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dieselelektrischer Antrieb",
+          "beschriftung": "Dieselelektrisches",
+          "haupt": true,
+          "artikel": "Dieselelektrischer Antrieb",
+          "wikidata": "Q1163778"
+        },
+        {
+          "titel": "Raddampfer",
+          "beschriftung": "Seitenrad",
+          "haupt": false,
+          "artikel": "Raddampfer",
+          "wikidata": "Q1121471"
+        },
+        {
+          "titel": "Fahrgastschiff",
+          "beschriftung": "Fahrgastschiff",
+          "haupt": false,
+          "artikel": "Passagierschiff",
+          "wikidata": "Q2055880"
+        },
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Binnenschiffe der DDR",
+          "haupt": false,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2654",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-20",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Binnenschiffe der DDR",
+      "bild_beschreibung": "Eisbrecher der Oderserie (1957–1958)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisbrecher",
+          "beschriftung": "Eisbrecher",
+          "haupt": true,
+          "artikel": "Eisbrecher",
+          "wikidata": "Q14978"
+        },
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Binnenschiffe der DDR",
+          "haupt": false,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2655",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Binnenschiffe der DDR",
+      "bild_beschreibung": "Motorgüterschiff (1961–1963)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gütermotorschiff",
+          "beschriftung": "Motorgüterschiff",
+          "haupt": true,
+          "artikel": "Gütermotorschiff",
+          "wikidata": "Q1239028"
+        },
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Binnenschiffe der DDR",
+          "haupt": false,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2656",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-20",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Binnenschiffe der DDR",
+      "bild_beschreibung": "Eimerketten-Schwimmbagger (1970)",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baggerschiff",
+          "beschriftung": "Eimerketten-Schwimmbagger",
+          "haupt": true,
+          "artikel": "Baggerschiff",
+          "wikidata": "Q5810820"
+        },
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Binnenschiffe der DDR",
+          "haupt": false,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2657",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (I): Windmühlen",
+      "bild_beschreibung": "Galerie-Holländermühle, Dabel (1892)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holländerwindmühle",
+          "beschriftung": "Galerie-Holländermühle",
+          "haupt": true,
+          "artikel": "Holländerwindmühle",
+          "wikidata": "Q1534870"
+        },
+        {
+          "titel": "Dabel",
+          "beschriftung": "Dabel",
+          "haupt": false,
+          "artikel": "Dabel",
+          "wikidata": "Q559043"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Windmühle",
+          "beschriftung": "Windmühle",
+          "haupt": false,
+          "artikel": "Windmühle",
+          "wikidata": "Q38720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2658",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (I): Windmühlen",
+      "bild_beschreibung": "Turm-Holländermühle, Parenz",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holländerwindmühle",
+          "beschriftung": "Turm-Holländermühle",
+          "haupt": true,
+          "artikel": "Holländerwindmühle",
+          "wikidata": "Q1534870"
+        },
+        {
+          "titel": "Hirschstein",
+          "beschriftung": "Parenz",
+          "haupt": false,
+          "artikel": "Hirschstein",
+          "wikidata": "Q8718"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Windmühle",
+          "beschriftung": "Windmühle",
+          "haupt": false,
+          "artikel": "Windmühle",
+          "wikidata": "Q38720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2659",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (I): Windmühlen",
+      "bild_beschreibung": "Turm-Holländermühle, Dresden-Gohlis",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gohliser Windmühle",
+          "beschriftung": "Turm-Holländermühle, Dresden-Gohlis",
+          "haupt": true,
+          "artikel": "Gohliser Windmühle",
+          "wikidata": "Q1474912"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Windmühle",
+          "beschriftung": "Windmühle",
+          "haupt": false,
+          "artikel": "Windmühle",
+          "wikidata": "Q38720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2660",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-10",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Technische Denkmale (I): Windmühlen",
+      "bild_beschreibung": "Bockwindmühle, Ballstädt (1850)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bockwindmühle",
+          "beschriftung": "Bockwindmühle",
+          "haupt": true,
+          "artikel": "Bockwindmühle",
+          "wikidata": "Q180997"
+        },
+        {
+          "titel": "Ballstädt",
+          "beschriftung": "Ballstädt",
+          "haupt": false,
+          "artikel": "Ballstädt",
+          "wikidata": "Q553703"
+        },
+        {
+          "titel": "Technische Denkmale",
+          "beschriftung": "Technische Denkmale",
+          "haupt": false,
+          "artikel": "Technische Denkmale",
+          "wikidata": "Q1423002"
+        },
+        {
+          "titel": "Windmühle",
+          "beschriftung": "Windmühle",
+          "haupt": false,
+          "artikel": "Windmühle",
+          "wikidata": "Q38720"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2661",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historisches Spielzeug (II): Tiere",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Bemalte Gliederschlange aus Holz (um 1850)",
+      "entwerfer": "Axel Bertram",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Gliederschlange (Spielzeug)",
+          "beschriftung": "Gliederschlange",
+          "haupt": false,
+          "artikel": "Gliederschlange (Spielzeug)",
+          "wikidata": null
+        },
+        {
+          "titel": "Historisches Spielzeug",
+          "beschriftung": "Historisches Spielzeug",
+          "haupt": false,
+          "artikel": "Historisches Spielzeug",
+          "wikidata": "Q1587289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2662",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historisches Spielzeug (II): Tiere",
+      "bild_beschreibung": "Teddybär (ca. seit 1910)",
+      "entwerfer": "Axel Bertram",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Teddybär",
+          "beschriftung": "Teddybär",
+          "haupt": true,
+          "artikel": "Teddybär",
+          "wikidata": "Q213477"
+        },
+        {
+          "titel": "Historisches Spielzeug",
+          "beschriftung": "Historisches Spielzeug",
+          "haupt": false,
+          "artikel": "Historisches Spielzeug",
+          "wikidata": "Q1587289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2663",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historisches Spielzeug (II): Tiere",
+      "bild_beschreibung": "Badefisch aus Zelluloid (um 1935)",
+      "entwerfer": "Axel Bertram",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Badefisch",
+          "beschriftung": "Badefisch",
+          "haupt": true,
+          "artikel": "Badefisch",
+          "wikidata": null
+        },
+        {
+          "titel": "Zelluloid",
+          "beschriftung": "Zelluloid",
+          "haupt": false,
+          "artikel": "Zelluloid",
+          "wikidata": "Q146612"
+        },
+        {
+          "titel": "Historisches Spielzeug",
+          "beschriftung": "Historisches Spielzeug",
+          "haupt": false,
+          "artikel": "Historisches Spielzeug",
+          "wikidata": "Q1587289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2664",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historisches Spielzeug (II): Tiere",
+      "bild_beschreibung": "Steckenpferd (um 1850)",
+      "entwerfer": "Axel Bertram",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steckenpferd",
+          "beschriftung": "Steckenpferd",
+          "haupt": true,
+          "artikel": "Steckenpferd",
+          "wikidata": "Q2335617"
+        },
+        {
+          "titel": "Historisches Spielzeug",
+          "beschriftung": "Historisches Spielzeug",
+          "haupt": false,
+          "artikel": "Historisches Spielzeug",
+          "wikidata": "Q1587289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2665",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-24",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historisches Spielzeug (II): Tiere",
+      "bild_beschreibung": "Kuckuck (um 1800)",
+      "entwerfer": "Axel Bertram",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kuckuck",
+          "beschriftung": "Kuckuck",
+          "haupt": true,
+          "artikel": "Kuckuck",
+          "wikidata": "Q18845"
+        },
+        {
+          "titel": "Historisches Spielzeug",
+          "beschriftung": "Historisches Spielzeug",
+          "haupt": false,
+          "artikel": "Historisches Spielzeug",
+          "wikidata": "Q1587289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2666",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-24",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historisches Spielzeug (II): Tiere",
+      "bild_beschreibung": "Springfrosch (um 1930)",
+      "entwerfer": "Axel Bertram",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mechanisches Spielzeug",
+          "beschriftung": "Springfrosch",
+          "haupt": true,
+          "artikel": "Mechanisches Spielzeug",
+          "wikidata": "Q1574237"
+        },
+        {
+          "titel": "Historisches Spielzeug",
+          "beschriftung": "Historisches Spielzeug",
+          "haupt": false,
+          "artikel": "Historisches Spielzeug",
+          "wikidata": "Q1587289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2588",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1981-02-10",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (XII)",
+      "bild_beschreibung": "Denkmal auf dem Ernst-Thälmann-Platz, Neubauten, Halle (Saale)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": true,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        },
+        {
+          "titel": "Riebeckplatz",
+          "beschriftung": "Denkmal auf dem Ernst-Thälmann-Platz",
+          "haupt": false,
+          "artikel": "Riebeckplatz",
+          "wikidata": "Q2151919"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle (Saale)",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2602",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1981-04-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (XIII)",
+      "bild_beschreibung": "Altes Rathaus und Wohnhochhaus, Wintergartenstrasse, Leipzig",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": true,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        },
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": false,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        },
+        {
+          "titel": "Wintergartenhochhaus",
+          "beschriftung": "Wohnhochhaus, Wintergartenstrasse",
+          "haupt": false,
+          "artikel": "Wintergartenhochhaus",
+          "wikidata": "Q2585007"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2633",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1981-07-21",
+      "wert": "3 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (XIV)",
+      "bild_beschreibung": "Staatswappen",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": true,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2649",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1981-10-06",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (XV)",
+      "bild_beschreibung": "Kronentor des Dresdner Zwingers",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kronentor",
+          "beschriftung": "Kronentor",
+          "haupt": true,
+          "artikel": "Kronentor",
+          "wikidata": "Q1789892"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwingers",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": false,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2650",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1981-10-06",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (XV)",
+      "bild_beschreibung": "Kröpeliner Tor und Haus Sonne, Rostock; Teepott und Leuchtturm, Warnemünde",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kröpeliner Tor",
+          "beschriftung": "Kröpeliner Tor",
+          "haupt": true,
+          "artikel": "Kröpeliner Tor",
+          "wikidata": "Q1790663"
+        },
+        {
+          "titel": "Haus Sonne",
+          "beschriftung": "Haus Sonne",
+          "haupt": false,
+          "artikel": "Haus zur Sonne (Braunschweig)",
+          "wikidata": "Q18748662"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Teepott Warnemünde",
+          "beschriftung": "Teepott",
+          "haupt": false,
+          "artikel": "Teepott Warnemünde",
+          "wikidata": "Q2400135"
+        },
+        {
+          "titel": "Leuchtturm Warnemünde",
+          "beschriftung": "Leuchtturm",
+          "haupt": false,
+          "artikel": "Leuchtturm Warnemünde",
+          "wikidata": "Q1697562"
+        },
+        {
+          "titel": "Warnemünde",
+          "beschriftung": "Warnemünde",
+          "haupt": false,
+          "artikel": "Warnemünde",
+          "wikidata": "Q311849"
+        },
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": false,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        }
+      ]
+    }
+  ]
+}

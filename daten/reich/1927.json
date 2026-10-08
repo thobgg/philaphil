@@ -1,0 +1,422 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1927,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1927_der_Deutschen_Reichspost",
+    "revision": 236181270,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 379,
+    "mi_nr_bis": 409,
+    "luecken": [
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      390,
+      392,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 8,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "A379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-05-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler (Ergänzungswert zur Ausgabe von 1926)",
+      "bild_beschreibung": "Stilisierter Adler",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1927 A379 Flugpost Adler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1926 der Deutschen Reichspost",
+          "beschriftung": "1926",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1926 der Deutschen Reichspost",
+          "wikidata": "Q914325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "403",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-09-26",
+      "wert": "8 (+7)",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-07-31",
+      "anlass": "80. Geburtstag des Reichspräsidenten Paul von Hindenburg",
+      "bild_beschreibung": "Wohltätigkeitsausgabe für die Deutsche Nothilfe",
+      "entwerfer": null,
+      "auflage": 4801295,
+      "commons_datei": "DR 1927 403 Paul von Hindenburg Nothilfe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-09-26",
+      "wert": "15 (+15)",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-07-31",
+      "anlass": "80. Geburtstag des Reichspräsidenten Paul von Hindenburg",
+      "bild_beschreibung": "Wohltätigkeitsausgabe für die Deutsche Nothilfe",
+      "entwerfer": null,
+      "auflage": 4652152,
+      "commons_datei": "DR 1927 404 Paul von Hindenburg Nothilfe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "405",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-09-26",
+      "wert": "25 (+25)",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-07-31",
+      "anlass": "80. Geburtstag des Reichspräsidenten Paul von Hindenburg",
+      "bild_beschreibung": "Wohltätigkeitsausgabe für die Deutsche Nothilfe",
+      "entwerfer": null,
+      "auflage": 714259,
+      "commons_datei": "DR 1927 405 Paul von Hindenburg Nothilfe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "406",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-09-26",
+      "wert": "50 (+50)",
+      "waehrung": "Pf",
+      "gueltig_bis": "1928-07-31",
+      "anlass": "80. Geburtstag des Reichspräsidenten Paul von Hindenburg",
+      "bild_beschreibung": "Wohltätigkeitsausgabe für die Deutsche Nothilfe",
+      "entwerfer": null,
+      "auflage": 389666,
+      "commons_datei": "DR 1927 406 Paul von Hindenburg Nothilfe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "407 → 389",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-10-10",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-11-30",
+      "anlass": "Tagung des Internationalen Arbeitsamtes in Berlin",
+      "bild_beschreibung": "Sonderaushilfsausgabe der Serie Köpfe berühmter Deutscher; Ludwig van Beethoven",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1927 407 IAA Ludwig van Beethoven.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": true,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        },
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": false,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "408 → 391",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-10-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-11-30",
+      "anlass": "Tagung des Internationalen Arbeitsamtes in Berlin",
+      "bild_beschreibung": "Sonderaushilfsausgabe der Serie Köpfe berühmter Deutscher; Immanuel Kant",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1927 408 IAA Immanuel Kant.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Immanuel Kant",
+          "beschriftung": "Immanuel Kant",
+          "haupt": true,
+          "artikel": "Immanuel Kant",
+          "wikidata": "Q9312"
+        }
+      ]
+    },
+    {
+      "mi_nr": "409 → 393",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1927-10-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-11-30",
+      "anlass": "Tagung des Internationalen Arbeitsamtes in Berlin",
+      "bild_beschreibung": "Sonderaushilfsausgabe der Serie Köpfe berühmter Deutscher; Johann Wolfgang von Goethe",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1927 409 IAA Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "389",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1927-08",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher (Ergänzungswert zur Ausgabe von 1926)",
+      "bild_beschreibung": "Ludwig van Beethoven",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 389 Ludwig van Beethoven.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": true,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1926 der Deutschen Reichspost",
+          "beschriftung": "1926",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1926 der Deutschen Reichspost",
+          "wikidata": "Q914325"
+        },
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": false,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 114",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 114 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 115",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 115 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 116",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 116 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 117",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 117 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 118",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 118 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 119",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 119 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 120",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 120 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 121",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1927",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarkenausgabe",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1927 121 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

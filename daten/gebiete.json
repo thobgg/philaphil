@@ -1,0 +1,24 @@
+{
+  "_hinweis": "Ein Eintrag je Sammelgebiet. Neues Gebiet: Zeile ergänzen, dann tools/wikipedia_import.py --gebiet <schluessel> --alle. {jahr} wird ersetzt; 'titel_ab' wechselt den Seitentitel ab einem Jahr. 'commons' ist die Jahreskategorie auf Wikimedia Commons, 'dateiname' das Kürzel für eigene Bilder (Reich-529.jpg).",
+  "bund": {
+    "name": "Bund", "anzeige": "Bundesrepublik Deutschland", "von": 1949, "bis": 2026, "dateiname": "Bund",
+    "titel": "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost",
+    "titel_ab": {"1949": "Briefmarken-Jahrgang {jahr} der Deutschen Post", "1950": "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost", "1995": "Briefmarken-Jahrgang {jahr} der Bundesrepublik Deutschland"},
+    "commons": "{jahr} Deutsche Bundespost stamps", "commons_ab": {"1995": "{jahr} stamps of Germany"}
+  },
+  "berlin": {
+    "name": "Berlin", "anzeige": "Berlin (West)", "von": 1948, "bis": 1990, "dateiname": "Berlin",
+    "titel": "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost Berlin",
+    "commons": "{jahr} Deutsche Bundespost Berlin stamps"
+  },
+  "ddr": {
+    "name": "DDR", "anzeige": "Deutsche Demokratische Republik", "von": 1949, "bis": 1990, "dateiname": "DDR",
+    "titel": "Briefmarken-Jahrgang {jahr} der Deutschen Post der DDR",
+    "commons": "{jahr} stamps of the German Democratic Republic"
+  },
+  "reich": {
+    "name": "Reich", "anzeige": "Deutsches Reich", "von": 1872, "bis": 1945, "dateiname": "Reich",
+    "titel": "Briefmarken-Jahrgang {jahr} der Deutschen Reichspost",
+    "commons": "{jahr} stamps of Germany"
+  }
+}

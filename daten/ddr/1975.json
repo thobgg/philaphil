@@ -1,0 +1,3632 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1975,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1975 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1975_der_Deutschen_Post_der_DDR",
+    "revision": 266219516,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2012,
+    "mi_nr_bis": 2106,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 94,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2012",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (III)",
+      "bild_beschreibung": "Martha Arendsee (1885–1953), Mitbegründerin des NKFD",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": true,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        },
+        {
+          "titel": "Martha Arendsee",
+          "beschriftung": "Martha Arendsee",
+          "haupt": false,
+          "artikel": "Martha Arendsee",
+          "wikidata": "Q1903020"
+        },
+        {
+          "titel": "Nationalkomitee Freies Deutschland",
+          "beschriftung": "NKFD",
+          "haupt": false,
+          "artikel": "Nationalkomitee Freies Deutschland",
+          "wikidata": "Q700570"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2013",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-11",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Deutschen Bauernkrieges",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Bauern bei der Fronarbeit",
+      "entwerfer": "Müller",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2013.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Bauernstand",
+          "beschriftung": "Bauern",
+          "haupt": false,
+          "artikel": "Bauernstand",
+          "wikidata": "Q63993747"
+        },
+        {
+          "titel": "Frondienst",
+          "beschriftung": "Fronarbeit",
+          "haupt": false,
+          "artikel": "Frondienst",
+          "wikidata": "Q1369542"
+        },
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Deutschen Bauernkrieges",
+          "haupt": false,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2014",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Deutschen Bauernkrieges",
+      "bild_beschreibung": "Bauern bei der Abgabe des Zehnten",
+      "entwerfer": "Müller",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2014.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zehnt",
+          "beschriftung": "Zehnt",
+          "haupt": true,
+          "artikel": "Zehnt",
+          "wikidata": "Q184664"
+        },
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Deutschen Bauernkrieges",
+          "haupt": false,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2015",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Deutschen Bauernkrieges",
+      "bild_beschreibung": "Thomas Müntzer, Theologe und Revolutionär, Anführer im Bauernkrieg in Thüringen",
+      "entwerfer": "Müller",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2015.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thomas Müntzer",
+          "beschriftung": "Thomas Müntzer",
+          "haupt": true,
+          "artikel": "Thomas Müntzer",
+          "wikidata": "Q153981"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Revolution",
+          "beschriftung": "Revolution",
+          "haupt": false,
+          "artikel": "Revolution",
+          "wikidata": "Q10931"
+        },
+        {
+          "titel": "Thüringen",
+          "beschriftung": "Thüringen",
+          "haupt": false,
+          "artikel": "Thüringen",
+          "wikidata": "Q1205"
+        },
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Deutschen Bauernkrieges",
+          "haupt": false,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2016",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Deutschen Bauernkrieges",
+      "bild_beschreibung": "Revolutionäre Bauern",
+      "entwerfer": "Müller",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2016.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Deutschen Bauernkrieges",
+          "haupt": true,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2017",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-11",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Deutschen Bauernkrieges",
+      "bild_beschreibung": "Revolutionärer Bauer mit Sturmfahne",
+      "entwerfer": "Müller",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2017.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "fahne",
+          "beschriftung": "fahne",
+          "haupt": true,
+          "artikel": "Fahne",
+          "wikidata": "Q1371499"
+        },
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Deutschen Bauernkrieges",
+          "haupt": false,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2018",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Deutschen Bauernkrieges",
+      "bild_beschreibung": "Bauer vor Gericht",
+      "entwerfer": "Müller",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2018.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gericht",
+          "beschriftung": "Gericht",
+          "haupt": true,
+          "artikel": "Gericht",
+          "wikidata": "Q41487"
+        },
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Deutschen Bauernkrieges",
+          "haupt": false,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2019",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Frau",
+      "bild_beschreibung": "Die folgenden drei Marken wurden als Zusammendruck ausgegeben:; Frauen verschiedener Nationen, Emblem der UNO für das Internationale Jahr der Frau",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nation",
+          "beschriftung": "Nation",
+          "haupt": true,
+          "artikel": "Nation",
+          "wikidata": "Q6266"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "UNO",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Internationales Jahr der Frau",
+          "beschriftung": "Internationales Jahr der Frau",
+          "haupt": false,
+          "artikel": "Internationales Jahr der Frau",
+          "wikidata": "Q14626962"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2020",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Frau",
+      "bild_beschreibung": "Frauen verschiedener Nationen, Emblem der UNO für das Internationale Jahr der Frau",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nation",
+          "beschriftung": "Nation",
+          "haupt": true,
+          "artikel": "Nation",
+          "wikidata": "Q6266"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "UNO",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Internationales Jahr der Frau",
+          "beschriftung": "Internationales Jahr der Frau",
+          "haupt": false,
+          "artikel": "Internationales Jahr der Frau",
+          "wikidata": "Q14626962"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2021",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Frau",
+      "bild_beschreibung": "Frauen verschiedener Nationen, Emblem der UNO für das Internationale Jahr der Frau",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nation",
+          "beschriftung": "Nation",
+          "haupt": true,
+          "artikel": "Nation",
+          "wikidata": "Q6266"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "UNO",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Internationales Jahr der Frau",
+          "beschriftung": "Internationales Jahr der Frau",
+          "haupt": false,
+          "artikel": "Internationales Jahr der Frau",
+          "wikidata": "Q14626962"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2023",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Mikrofilm-Aufnahmekamera „PENTAKTA A 100“",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mikroform",
+          "beschriftung": "Mikrofilm",
+          "haupt": true,
+          "artikel": "Mikroform",
+          "wikidata": "Q830450"
+        },
+        {
+          "titel": "PENTAKTA A 100",
+          "beschriftung": "PENTAKTA A 100",
+          "haupt": false,
+          "artikel": "PENTAKTA A 100",
+          "wikidata": null
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2024",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "SKET-Zementwerk nach dem Trockenverfahren",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwermaschinenbau-Kombinat „Ernst Thälmann“",
+          "beschriftung": "SKET",
+          "haupt": true,
+          "artikel": "Schwermaschinenbau-Kombinat „Ernst Thälmann“",
+          "wikidata": "Q2257159"
+        },
+        {
+          "titel": "Zement",
+          "beschriftung": "Zement",
+          "haupt": false,
+          "artikel": "Zement",
+          "wikidata": "Q45190"
+        },
+        {
+          "titel": "Trockenverfahren",
+          "beschriftung": "Trockenverfahren",
+          "haupt": false,
+          "artikel": "Trockenverfahren",
+          "wikidata": null
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2025",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (III)",
+      "bild_beschreibung": "Hans Otto (1900–1933), Schauspieler",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Otto",
+          "beschriftung": "Hans Otto",
+          "haupt": true,
+          "artikel": "Hans Otto",
+          "wikidata": "Q1581576"
+        },
+        {
+          "titel": "Schauspieler",
+          "beschriftung": "Schauspieler",
+          "haupt": false,
+          "artikel": "Schauspieler",
+          "wikidata": "Q33999"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2026",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (III)",
+      "bild_beschreibung": "Thomas Mann (1875–1955), Schriftsteller und Nobelpreisträger",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thomas Mann",
+          "beschriftung": "Thomas Mann",
+          "haupt": true,
+          "artikel": "Thomas Mann",
+          "wikidata": "Q37030"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2027",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (III)",
+      "bild_beschreibung": "Albert Schweitzer (1875–1965), Missionsarzt, Theologe, Musiker und Nobelpreisträger",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albert Schweitzer",
+          "beschriftung": "Albert Schweitzer",
+          "haupt": true,
+          "artikel": "Albert Schweitzer",
+          "wikidata": "Q49325"
+        },
+        {
+          "titel": "Mission (Christentum)",
+          "beschriftung": "Missionsarzt",
+          "haupt": false,
+          "artikel": "Mission (Christentum)",
+          "wikidata": "Q51647"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Musiker",
+          "beschriftung": "Musiker",
+          "haupt": false,
+          "artikel": "Musiker",
+          "wikidata": "Q639669"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2028",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (III)",
+      "bild_beschreibung": "Michelangelo (1475–1564), Bildhauer, Maler, Baumeister und Dichter",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Michelangelo",
+          "beschriftung": "Michelangelo",
+          "haupt": true,
+          "artikel": "Michelangelo",
+          "wikidata": "Q5592"
+        },
+        {
+          "titel": "Bildhauerei",
+          "beschriftung": "Bildhauer",
+          "haupt": false,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        },
+        {
+          "titel": "Malerei",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Baumeister",
+          "beschriftung": "Baumeister",
+          "haupt": false,
+          "artikel": "Baumeister",
+          "wikidata": "Q1340643"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2029",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-18",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (III)",
+      "bild_beschreibung": "André-Marie Ampère (1775–1836), Mathematiker und Physiker",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2029.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "André-Marie Ampère",
+          "beschriftung": "André-Marie Ampère",
+          "haupt": true,
+          "artikel": "André-Marie Ampère",
+          "wikidata": "Q675"
+        },
+        {
+          "titel": "Mathematiker",
+          "beschriftung": "Mathematiker",
+          "haupt": false,
+          "artikel": "Mathematiker",
+          "wikidata": "Q170790"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2030",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Ararauna (Ara ararauna)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gelbbrustara",
+          "beschriftung": "Ararauna",
+          "haupt": true,
+          "artikel": "Gelbbrustara",
+          "wikidata": "Q205477"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2031",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Orang-Utan (Pongo pygmaeus)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Borneo-Orang-Utan",
+          "beschriftung": "Orang-Utan",
+          "haupt": true,
+          "artikel": "Borneo-Orang-Utan",
+          "wikidata": "Q599672"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2032",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Sibirischer Steinbock (Capra ibex sibirica)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sibirischer Steinbock",
+          "beschriftung": "Sibirischer Steinbock",
+          "haupt": true,
+          "artikel": "Sibirischer Steinbock",
+          "wikidata": "Q754947"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2033",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Panzernashorn (Rhinoceros unicornis)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Panzernashorn",
+          "beschriftung": "Panzernashorn",
+          "haupt": true,
+          "artikel": "Panzernashorn",
+          "wikidata": "Q47910"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2034",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Zwergflusspferd (Choeropsis liberiensis)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwergflusspferd",
+          "beschriftung": "Zwergflusspferd",
+          "haupt": true,
+          "artikel": "Zwergflusspferd",
+          "wikidata": "Q22110899"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2035",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Kegelrobbe (Halichoerus grypus)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kegelrobbe",
+          "beschriftung": "Kegelrobbe",
+          "haupt": true,
+          "artikel": "Kegelrobbe",
+          "wikidata": "Q27370"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2036",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Sibirischer Tiger (Panthera tigris altaica)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sibirischer Tiger",
+          "beschriftung": "Sibirischer Tiger",
+          "haupt": true,
+          "artikel": "Sibirischer Tiger",
+          "wikidata": "Q69581"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2037",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-03-25",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zootiere",
+      "bild_beschreibung": "Böhm-Zebra (Equus quagga boehmi)",
+      "entwerfer": "Reiner Zieger",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steppenzebra",
+          "beschriftung": "Böhm-Zebra",
+          "haupt": true,
+          "artikel": "Steppenzebra",
+          "wikidata": "Q245305"
+        },
+        {
+          "titel": "Zoo",
+          "beschriftung": "Zoo",
+          "haupt": false,
+          "artikel": "Zoo",
+          "wikidata": "Q43501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2038",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Sowjetisches Ehrenmal, Berlin-Treptow",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sowjetisches Ehrenmal (Treptower Park)",
+          "beschriftung": "Sowjetisches Ehrenmal",
+          "haupt": true,
+          "artikel": "Sowjetisches Ehrenmal im Treptower Park",
+          "wikidata": "Q48441"
+        },
+        {
+          "titel": "Bezirk Treptow-Köpenick",
+          "beschriftung": "Berlin-Treptow",
+          "haupt": false,
+          "artikel": "Bezirk Treptow-Köpenick",
+          "wikidata": "Q158089"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2039",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Denkmalgruppe in der Nationalen Mahn- und Gedenkstätte Buchenwald (Detail); von Fritz Cremer",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KZ Buchenwald",
+          "beschriftung": "Nationalen Mahn- und Gedenkstätte Buchenwald",
+          "haupt": true,
+          "artikel": "KZ Buchenwald",
+          "wikidata": "Q152802"
+        },
+        {
+          "titel": "Fritz Cremer",
+          "beschriftung": "Fritz Cremer",
+          "haupt": false,
+          "artikel": "Fritz Cremer",
+          "wikidata": "Q529593"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2040",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Aufbauhelferin; Denkmal von Fritz Cremer",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trümmerfrau",
+          "beschriftung": "Aufbauhelferin",
+          "haupt": true,
+          "artikel": "Trümmerfrau",
+          "wikidata": "Q641166"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2041",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-06",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Arbeiter und Soldaten; RGW-Gebäude, Moskau",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rat für gegenseitige Wirtschaftshilfe",
+          "beschriftung": "RGW",
+          "haupt": true,
+          "artikel": "Rat für gegenseitige Wirtschaftshilfe",
+          "wikidata": "Q191582"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2042",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Diese Marke wurde als geschnittener Briefmarkenblock ausgegeben:; Soldat der Roten Armee hisst die Rote Fahne auf dem Reichstagsgebäude in Berlin",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Roten Armee",
+          "haupt": false,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "Rote Fahne",
+          "haupt": false,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2043",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Warschauer Vertrag",
+      "bild_beschreibung": "Soldaten der Sowjetarmee und der Nationalen Volksarmee der DDR, Industrieanlagen",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Warschauer Pakt",
+          "beschriftung": "Warschauer Vertrag",
+          "haupt": true,
+          "artikel": "Warschauer Pakt",
+          "wikidata": "Q41644"
+        },
+        {
+          "titel": "Soldat",
+          "beschriftung": "Soldat",
+          "haupt": false,
+          "artikel": "Soldat",
+          "wikidata": "Q4991371"
+        },
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Sowjetarmee",
+          "haupt": false,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationalen Volksarmee der DDR",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        },
+        {
+          "titel": "Industrie",
+          "beschriftung": "Industrie",
+          "haupt": false,
+          "artikel": "Industrie",
+          "wikidata": "Q8148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2044",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Festival der Freundschaft der Jugend der UdSSR und der DDR, Halle/Saale",
+      "bild_beschreibung": "Verschlungene Fahnenbänder, Abzeichen des Komsomol und der FDJ",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Festival der Freundschaft der Jugend der UdSSR und der DDR",
+          "beschriftung": "Festival der Freundschaft der Jugend der UdSSR und der DDR",
+          "haupt": true,
+          "artikel": "Festival der Freundschaft der Jugend der UdSSR und der DDR",
+          "wikidata": null
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle/Saale",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Fahne",
+          "beschriftung": "Fahne",
+          "haupt": false,
+          "artikel": "Fahne",
+          "wikidata": "Q1371499"
+        },
+        {
+          "titel": "Komsomol",
+          "beschriftung": "Komsomol",
+          "haupt": false,
+          "artikel": "Komsomol",
+          "wikidata": "Q166073"
+        },
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "FDJ",
+          "haupt": false,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2045",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-13",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+      "bild_beschreibung": "Leitfeuer Timmendorf (erbaut 1872)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Timmendorf",
+          "beschriftung": "Leitfeuer Timmendorf",
+          "haupt": true,
+          "artikel": "Leuchtturm Timmendorf",
+          "wikidata": "Q1821458"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2046",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+      "bild_beschreibung": "Leuchtturm Gellen (erbaut 1905)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Gellen",
+          "beschriftung": "Leuchtturm Gellen",
+          "haupt": true,
+          "artikel": "Leuchtturm Gellen",
+          "wikidata": "Q19946245"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2047",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+      "bild_beschreibung": "Molenfeuer Sassnitz (erbaut 1904)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Molenfeuer Sassnitz",
+          "beschriftung": "Molenfeuer Sassnitz",
+          "haupt": true,
+          "artikel": "Molenfeuer Sassnitz",
+          "wikidata": "Q1943419"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2048",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-13",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+      "bild_beschreibung": "Leuchtturm Dornbusch (erbaut 1888)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Dornbusch",
+          "beschriftung": "Leuchtturm Dornbusch",
+          "haupt": true,
+          "artikel": "Leuchtturm Dornbusch",
+          "wikidata": "Q1821420"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2049",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-13",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+      "bild_beschreibung": "Leitfeuer Peenemünde (erbaut 1954)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Peenemünde",
+          "beschriftung": "Peenemünde",
+          "haupt": true,
+          "artikel": "Peenemünde",
+          "wikidata": "Q490398"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2050",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag des Zusammenschlusses der SDAP und des ADAVs zur SAPD, 100. Jahrestag der Veröffentlichung der Programmkritik durch Karl Marx",
+      "bild_beschreibung": "Die folgenden drei Marken wurden als Zusammendruck ausgegeben:; Wilhelm Liebknecht und August Bebel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Liebknecht",
+          "beschriftung": "Wilhelm Liebknecht",
+          "haupt": true,
+          "artikel": "Wilhelm Liebknecht",
+          "wikidata": "Q20127"
+        },
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": false,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        },
+        {
+          "titel": "Sozialdemokratische Arbeiterpartei (Deutschland)",
+          "beschriftung": "SDAP",
+          "haupt": false,
+          "artikel": "Sozialdemokratische Arbeiterpartei (Deutschland)",
+          "wikidata": "Q565429"
+        },
+        {
+          "titel": "Allgemeiner Deutscher Arbeiterverein",
+          "beschriftung": "ADAVs",
+          "haupt": false,
+          "artikel": "Allgemeiner Deutscher Arbeiterverein",
+          "wikidata": "Q565426"
+        },
+        {
+          "titel": "Sozialistische Arbeiterpartei Deutschlands (1875)",
+          "beschriftung": "SAPD",
+          "haupt": false,
+          "artikel": "Sozialistische Arbeiterpartei Deutschlands (1875)",
+          "wikidata": "Q2801301"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2051",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag des Zusammenschlusses der SDAP und des ADAVs zur SAPD, 100. Jahrestag der Veröffentlichung der Programmkritik durch Karl Marx",
+      "bild_beschreibung": "Tagungsstätte des Vereinigungskongresses „Tivoli“, Gotha; Titelseite des Protokolls",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tivoli (Gotha)",
+          "beschriftung": "Tivoli",
+          "haupt": true,
+          "artikel": "Tivoli (Gotha)",
+          "wikidata": "Q2437255"
+        },
+        {
+          "titel": "Gotha",
+          "beschriftung": "Gotha",
+          "haupt": false,
+          "artikel": "Gotha",
+          "wikidata": "Q6986"
+        },
+        {
+          "titel": "Sozialdemokratische Arbeiterpartei (Deutschland)",
+          "beschriftung": "SDAP",
+          "haupt": false,
+          "artikel": "Sozialdemokratische Arbeiterpartei (Deutschland)",
+          "wikidata": "Q565429"
+        },
+        {
+          "titel": "Allgemeiner Deutscher Arbeiterverein",
+          "beschriftung": "ADAVs",
+          "haupt": false,
+          "artikel": "Allgemeiner Deutscher Arbeiterverein",
+          "wikidata": "Q565426"
+        },
+        {
+          "titel": "Sozialistische Arbeiterpartei Deutschlands (1875)",
+          "beschriftung": "SAPD",
+          "haupt": false,
+          "artikel": "Sozialistische Arbeiterpartei Deutschlands (1875)",
+          "wikidata": "Q2801301"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2052",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag des Zusammenschlusses der SDAP und des ADAVs zur SAPD, 100. Jahrestag der Veröffentlichung der Programmkritik durch Karl Marx",
+      "bild_beschreibung": "Karl Marx und Friedrich Engels",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Sozialdemokratische Arbeiterpartei (Deutschland)",
+          "beschriftung": "SDAP",
+          "haupt": false,
+          "artikel": "Sozialdemokratische Arbeiterpartei (Deutschland)",
+          "wikidata": "Q565429"
+        },
+        {
+          "titel": "Allgemeiner Deutscher Arbeiterverein",
+          "beschriftung": "ADAVs",
+          "haupt": false,
+          "artikel": "Allgemeiner Deutscher Arbeiterverein",
+          "wikidata": "Q565426"
+        },
+        {
+          "titel": "Sozialistische Arbeiterpartei Deutschlands (1875)",
+          "beschriftung": "SAPD",
+          "haupt": false,
+          "artikel": "Sozialistische Arbeiterpartei Deutschlands (1875)",
+          "wikidata": "Q2801301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2053",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Eisenhüttenstadt",
+      "bild_beschreibung": "Wissenschaftliche Zusammenarbeit der sozialistischen Länder, Mosaik von Walter Womacka",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eisenhüttenstadt",
+          "beschriftung": "Eisenhüttenstadt",
+          "haupt": true,
+          "artikel": "Eisenhüttenstadt",
+          "wikidata": "Q16106"
+        },
+        {
+          "titel": "Ostblock",
+          "beschriftung": "sozialistischen Länder",
+          "haupt": false,
+          "artikel": "Ostblock",
+          "wikidata": "Q170541"
+        },
+        {
+          "titel": "Mosaik",
+          "beschriftung": "Mosaik",
+          "haupt": false,
+          "artikel": "Mosaik",
+          "wikidata": "Q133067"
+        },
+        {
+          "titel": "Walter Womacka",
+          "beschriftung": "Walter Womacka",
+          "haupt": false,
+          "artikel": "Walter Womacka",
+          "wikidata": "Q160350"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2054",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre Freier Deutscher Gewerkschaftsbund (FDGB)",
+      "bild_beschreibung": "Bauarbeiter, Neubauten, FDGB-Abzeichen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freier Deutscher Gewerkschaftsbund",
+          "haupt": true,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2055",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-24",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Alte Uhren",
+      "bild_beschreibung": "Automatenuhr (Türmchenuhr) von Paulus Schuster (1585)",
+      "entwerfer": "Dietrich Dorfstecher und Ziratzki, nach Fotos von Reinhold",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Automatenuhr",
+          "beschriftung": "Automatenuhr",
+          "haupt": true,
+          "artikel": "Automatenuhr",
+          "wikidata": "Q787159"
+        },
+        {
+          "titel": "Paulus Schuster",
+          "beschriftung": "Paulus Schuster",
+          "haupt": false,
+          "artikel": "Paulus Schuster",
+          "wikidata": null
+        },
+        {
+          "titel": "Uhren",
+          "beschriftung": "Uhren",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2056",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Alte Uhren",
+      "bild_beschreibung": "Astronomische Stutzuhr eines Augsburger Meisters (um 1560)",
+      "entwerfer": "Dietrich Dorfstecher und Ziratzki, nach Fotos von Reinhold",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Astronomie",
+          "beschriftung": "Astronomische",
+          "haupt": true,
+          "artikel": "Astronomie",
+          "wikidata": "Q333"
+        },
+        {
+          "titel": "Stockuhr",
+          "beschriftung": "Stutzuhr",
+          "haupt": false,
+          "artikel": "Stockuhr",
+          "wikidata": "Q2350836"
+        },
+        {
+          "titel": "Augsburg",
+          "beschriftung": "Augsburg",
+          "haupt": false,
+          "artikel": "Augsburg",
+          "wikidata": "Q2749"
+        },
+        {
+          "titel": "Uhren",
+          "beschriftung": "Uhren",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2057",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-24",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Alte Uhren",
+      "bild_beschreibung": "Tafelaufsatz-Automatenuhr von Hans Schlottheim (um 1600)",
+      "entwerfer": "Dietrich Dorfstecher und Ziratzki, nach Fotos von Reinhold",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tafelaufsatz",
+          "beschriftung": "Tafelaufsatz",
+          "haupt": true,
+          "artikel": "Tafelaufsatz",
+          "wikidata": "Q2387515"
+        },
+        {
+          "titel": "Automatenuhr",
+          "beschriftung": "Automatenuhr",
+          "haupt": false,
+          "artikel": "Automatenuhr",
+          "wikidata": "Q787159"
+        },
+        {
+          "titel": "Hans Schlottheim",
+          "beschriftung": "Hans Schlottheim",
+          "haupt": false,
+          "artikel": "Hans Schlottheim",
+          "wikidata": null
+        },
+        {
+          "titel": "Uhren",
+          "beschriftung": "Uhren",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2058",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Alte Uhren",
+      "bild_beschreibung": "Stutzuhr (Hubertusuhr) von Johann Heinrich Köhler und J. P. Graupner (um 1720)",
+      "entwerfer": "Dietrich Dorfstecher und Ziratzki, nach Fotos von Reinhold",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hubertus von Lüttich",
+          "beschriftung": "Hubertusuhr",
+          "haupt": true,
+          "artikel": "Hubertus von Lüttich",
+          "wikidata": "Q159834"
+        },
+        {
+          "titel": "Johann Heinrich Köhler",
+          "beschriftung": "Johann Heinrich Köhler",
+          "haupt": false,
+          "artikel": "Johann Heinrich Köhler",
+          "wikidata": "Q39258158"
+        },
+        {
+          "titel": "J. P. Graupner",
+          "beschriftung": "J. P. Graupner",
+          "haupt": false,
+          "artikel": "J. P. Graupner",
+          "wikidata": null
+        },
+        {
+          "titel": "Uhren",
+          "beschriftung": "Uhren",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2059",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Alte Uhren",
+      "bild_beschreibung": "Stutzuhr von Johann Heinrich Köhler (um 1700)",
+      "entwerfer": "Dietrich Dorfstecher und Ziratzki, nach Fotos von Reinhold",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Köhler",
+          "beschriftung": "Johann Heinrich Köhler",
+          "haupt": true,
+          "artikel": "Johann Heinrich Köhler",
+          "wikidata": "Q39258158"
+        },
+        {
+          "titel": "Uhren",
+          "beschriftung": "Uhren",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2060",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-06-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Alte Uhren",
+      "bild_beschreibung": "Geographisch-astronomische Kunstuhr von Johannes Klein (1738)",
+      "entwerfer": "Dietrich Dorfstecher und Ziratzki, nach Fotos von Reinhold",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geographie",
+          "beschriftung": "Geographisch",
+          "haupt": true,
+          "artikel": "Geographie",
+          "wikidata": "Q1071"
+        },
+        {
+          "titel": "Astronomie",
+          "beschriftung": "astronomische",
+          "haupt": false,
+          "artikel": "Astronomie",
+          "wikidata": "Q333"
+        },
+        {
+          "titel": "Johannes Klein (Astronom)",
+          "beschriftung": "Johannes Klein",
+          "haupt": false,
+          "artikel": "Johannes Klein (Astronom)",
+          "wikidata": "Q1697847"
+        },
+        {
+          "titel": "Uhren",
+          "beschriftung": "Uhren",
+          "haupt": false,
+          "artikel": "Uhr",
+          "wikidata": "Q376"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2061",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "275 Jahre Akademie der Wissenschaften, Berlin",
+      "bild_beschreibung": "Deutsches Wörterbuch von Jakob und Wilhelm Grimm",
+      "entwerfer": "Axel Bengs",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Wörterbuch",
+          "beschriftung": "Deutsches Wörterbuch",
+          "haupt": true,
+          "artikel": "Deutsches Wörterbuch",
+          "wikidata": "Q96321"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Jakob und Wilhelm Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Akademie der Wissenschaften",
+          "beschriftung": "Akademie der Wissenschaften",
+          "haupt": false,
+          "artikel": "Akademie der Wissenschaften",
+          "wikidata": "Q414147"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2062",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "275 Jahre Akademie der Wissenschaften, Berlin",
+      "bild_beschreibung": "Karl-Schwarzschild-Observatorium, Tautenburg bei Jena",
+      "entwerfer": "Axel Bengs",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thüringer Landessternwarte Tautenburg",
+          "beschriftung": "Karl-Schwarzschild-Observatorium",
+          "haupt": true,
+          "artikel": "Thüringer Landessternwarte Tautenburg",
+          "wikidata": "Q646078"
+        },
+        {
+          "titel": "Tautenburg",
+          "beschriftung": "Tautenburg",
+          "haupt": false,
+          "artikel": "Tautenburg",
+          "wikidata": "Q540441"
+        },
+        {
+          "titel": "Jena",
+          "beschriftung": "Jena",
+          "haupt": false,
+          "artikel": "Jena",
+          "wikidata": "Q3150"
+        },
+        {
+          "titel": "Akademie der Wissenschaften",
+          "beschriftung": "Akademie der Wissenschaften",
+          "haupt": false,
+          "artikel": "Akademie der Wissenschaften",
+          "wikidata": "Q414147"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2063",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "275 Jahre Akademie der Wissenschaften, Berlin",
+      "bild_beschreibung": "„Theoria cum praxi“ (Theorie und Praxis): Elektronenmikroskop und Chemieanlage",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theoria cum praxi",
+          "beschriftung": "Theoria cum praxi",
+          "haupt": true,
+          "artikel": "Theoria cum praxi",
+          "wikidata": null
+        },
+        {
+          "titel": "Elektronenmikroskop",
+          "beschriftung": "Elektronenmikroskop",
+          "haupt": false,
+          "artikel": "Elektronenmikroskop",
+          "wikidata": "Q132560"
+        },
+        {
+          "titel": "Chemische Industrie",
+          "beschriftung": "Chemieanlage",
+          "haupt": false,
+          "artikel": "Chemische Industrie",
+          "wikidata": "Q207652"
+        },
+        {
+          "titel": "Akademie der Wissenschaften",
+          "beschriftung": "Akademie der Wissenschaften",
+          "haupt": false,
+          "artikel": "Akademie der Wissenschaften",
+          "wikidata": "Q414147"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2064",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-02",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "275 Jahre Akademie der Wissenschaften, Berlin",
+      "bild_beschreibung": "Satellit Interkosmos 10",
+      "entwerfer": "Axel Bengs",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Interkosmos",
+          "beschriftung": "Interkosmos",
+          "haupt": true,
+          "artikel": "Interkosmos",
+          "wikidata": "Q828585"
+        },
+        {
+          "titel": "Akademie der Wissenschaften",
+          "beschriftung": "Akademie der Wissenschaften",
+          "haupt": false,
+          "artikel": "Akademie der Wissenschaften",
+          "wikidata": "Q414147"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2065",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Fackellauf",
+      "entwerfer": "Bremer",
+      "auflage": 9000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2065.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fackel",
+          "beschriftung": "Fackel",
+          "haupt": true,
+          "artikel": "Fackel",
+          "wikidata": "Q327954"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2066",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Hürdenlauf",
+      "entwerfer": "Bremer",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2066.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hürdenlauf",
+          "beschriftung": "Hürdenlauf",
+          "haupt": true,
+          "artikel": "Hürdenlauf",
+          "wikidata": "Q537769"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2067",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Schwimmen",
+      "entwerfer": "Bremer",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2067.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwimmen",
+          "beschriftung": "Schwimmen",
+          "haupt": true,
+          "artikel": "Schwimmen",
+          "wikidata": "Q115727402"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2068",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade, Berlin",
+      "bild_beschreibung": "Turnen am Schwebebalken",
+      "entwerfer": "Bremer",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1975, MiNr 2068.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwebebalken",
+          "beschriftung": "Schwebebalken",
+          "haupt": true,
+          "artikel": "Schwebebalken",
+          "wikidata": "Q655301"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2069",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Unterzeichnung der Schlußakte der Konferenz über Sicherheit und Zusammenarbeit in Europa (KSZE), Helsinki",
+      "bild_beschreibung": "Landkarte von Europa",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konferenz über Sicherheit und Zusammenarbeit in Europa",
+          "beschriftung": "Unterzeichnung der Schlußakte der Konferenz über Sicherheit und Zusammenarbeit in Europa",
+          "haupt": true,
+          "artikel": "Konferenz über Sicherheit und Zusammenarbeit in Europa",
+          "wikidata": "Q318161"
+        },
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": false,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2070",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-19",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Blumenzüchtungen",
+      "bild_beschreibung": "Sommeraster (Callistephus chinensis), „Meisteraster“ „Harzgruß“",
+      "entwerfer": "Horst Naumann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sommeraster",
+          "beschriftung": "Sommeraster",
+          "haupt": true,
+          "artikel": "Sommeraster",
+          "wikidata": "Q312441"
+        },
+        {
+          "titel": "Zucht",
+          "beschriftung": "Blumenzüchtungen",
+          "haupt": false,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2071",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Blumenzüchtungen",
+      "bild_beschreibung": "Pelargonie (Pelargonium zonale), „PAC-Mini-Pelargonie“",
+      "entwerfer": "Horst Naumann",
+      "auflage": 14000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pelargonien",
+          "beschriftung": "Pelargonie",
+          "haupt": true,
+          "artikel": "Pelargonien",
+          "wikidata": "Q146118"
+        },
+        {
+          "titel": "Zucht",
+          "beschriftung": "Blumenzüchtungen",
+          "haupt": false,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2072",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Blumenzüchtungen",
+      "bild_beschreibung": "Gerbera (Gerbera jamesonii), „Auriga“, „Markal“",
+      "entwerfer": "Horst Naumann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerbera",
+          "beschriftung": "Gerbera",
+          "haupt": true,
+          "artikel": "Gerbera",
+          "wikidata": "Q310654"
+        },
+        {
+          "titel": "Zucht",
+          "beschriftung": "Blumenzüchtungen",
+          "haupt": false,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2073",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-19",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Blumenzüchtungen",
+      "bild_beschreibung": "Gartennelke (Dianthus caryophyllus), „Barter Frühling“",
+      "entwerfer": "Horst Naumann",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landnelke",
+          "beschriftung": "Gartennelke",
+          "haupt": true,
+          "artikel": "Landnelke",
+          "wikidata": "Q158984"
+        },
+        {
+          "titel": "Zucht",
+          "beschriftung": "Blumenzüchtungen",
+          "haupt": false,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2074",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-19",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Blumenzüchtungen",
+      "bild_beschreibung": "Chrysanthemen (Chrysanthemum indicum), „Ziero“",
+      "entwerfer": "Horst Naumann",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Garten-Chrysantheme",
+          "beschriftung": "Chrysanthemen",
+          "haupt": true,
+          "artikel": "Garten-Chrysantheme",
+          "wikidata": "Q15530181"
+        },
+        {
+          "titel": "Zucht",
+          "beschriftung": "Blumenzüchtungen",
+          "haupt": false,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2075",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-19",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Blumenzüchtungen",
+      "bild_beschreibung": "Gartenstiefmütterchen (Viola wittrockiana)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Garten-Stiefmütterchen",
+          "beschriftung": "Gartenstiefmütterchen",
+          "haupt": true,
+          "artikel": "Garten-Stiefmütterchen",
+          "wikidata": "Q12861234"
+        },
+        {
+          "titel": "Zucht",
+          "beschriftung": "Blumenzüchtungen",
+          "haupt": false,
+          "artikel": "Zucht",
+          "wikidata": "Q995745"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2076",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Universalnarkoseeinheit „Medimorph“",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Narkosegerät",
+          "beschriftung": "Universalnarkoseeinheit",
+          "haupt": true,
+          "artikel": "Narkosegerät",
+          "wikidata": "Q1316377"
+        },
+        {
+          "titel": "Medimorph",
+          "beschriftung": "Medimorph",
+          "haupt": false,
+          "artikel": "Medimorph",
+          "wikidata": null
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2077",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Motorrad IFA „MZ TS 250“",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorrad",
+          "haupt": true,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        },
+        {
+          "titel": "Industrieverband Fahrzeugbau",
+          "beschriftung": "IFA",
+          "haupt": false,
+          "artikel": "Industrieverband Fahrzeugbau",
+          "wikidata": "Q29666"
+        },
+        {
+          "titel": "MZ TS 250",
+          "beschriftung": "MZ TS 250",
+          "haupt": false,
+          "artikel": "MZ TS 250",
+          "wikidata": "Q106413425"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2078",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sicherheit im Straßenverkehr (III)",
+      "bild_beschreibung": "Schülerlotse",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schülerlotse",
+          "beschriftung": "Schülerlotse",
+          "haupt": true,
+          "artikel": "Schülerlotse",
+          "wikidata": "Q1752545"
+        },
+        {
+          "titel": "Sicherheit im Straßenverkehr",
+          "beschriftung": "Sicherheit im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Straßenverkehrssicherheit",
+          "wikidata": "Q1147899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2079",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-09",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sicherheit im Straßenverkehr (III)",
+      "bild_beschreibung": "Verkehrsregelung durch die Volkspolizei",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsregelung",
+          "beschriftung": "Verkehrsregelung",
+          "haupt": true,
+          "artikel": "Verkehrsregelung",
+          "wikidata": "Q2516403"
+        },
+        {
+          "titel": "Deutsche Volkspolizei",
+          "beschriftung": "Volkspolizei",
+          "haupt": false,
+          "artikel": "Deutsche Volkspolizei",
+          "wikidata": "Q56040"
+        },
+        {
+          "titel": "Sicherheit im Straßenverkehr",
+          "beschriftung": "Sicherheit im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Straßenverkehrssicherheit",
+          "wikidata": "Q1147899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2080",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sicherheit im Straßenverkehr (III)",
+      "bild_beschreibung": "Verkehrspolizist im operativen Dienst, Verkehrssicherheitsplakette",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsposten",
+          "beschriftung": "Verkehrspolizist",
+          "haupt": true,
+          "artikel": "Verkehrsposten",
+          "wikidata": "Q2516376"
+        },
+        {
+          "titel": "Verkehrssicherheitsplakette",
+          "beschriftung": "Verkehrssicherheitsplakette",
+          "haupt": false,
+          "artikel": "Verkehrssicherheitsplakette",
+          "wikidata": null
+        },
+        {
+          "titel": "Sicherheit im Straßenverkehr",
+          "beschriftung": "Sicherheit im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Straßenverkehrssicherheit",
+          "wikidata": "Q1147899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2081",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sicherheit im Straßenverkehr (III)",
+      "bild_beschreibung": "Technische Kfz-Überprüfung",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Prüforganisation",
+          "beschriftung": "Technische Kfz-Überprüfung",
+          "haupt": true,
+          "artikel": "Technische Prüforganisation",
+          "wikidata": "Q6017561"
+        },
+        {
+          "titel": "Sicherheit im Straßenverkehr",
+          "beschriftung": "Sicherheit im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Straßenverkehrssicherheit",
+          "wikidata": "Q1147899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2082",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-09",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sicherheit im Straßenverkehr (III)",
+      "bild_beschreibung": "Verkehrsunterricht",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsunterricht",
+          "beschriftung": "Verkehrsunterricht",
+          "haupt": true,
+          "artikel": "Verkehrsunterricht",
+          "wikidata": "Q2126475"
+        },
+        {
+          "titel": "Sicherheit im Straßenverkehr",
+          "beschriftung": "Sicherheit im Straßenverkehr",
+          "haupt": false,
+          "artikel": "Straßenverkehrssicherheit",
+          "wikidata": "Q1147899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2083",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sowjetisch-amerikanisches Raumfahrtunternehmen Sojus-Apollo",
+      "bild_beschreibung": "Raumkapsel Sojus beim Start",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sojus 19",
+          "beschriftung": "Sojus",
+          "haupt": true,
+          "artikel": "Sojus 19",
+          "wikidata": "Q1724109"
+        },
+        {
+          "titel": "Apollo-Sojus-Test-Projekt",
+          "beschriftung": "Sowjetisch-amerikanisches Raumfahrtunternehmen Sojus-Apollo",
+          "haupt": false,
+          "artikel": "Apollo-Sojus-Test-Projekt",
+          "wikidata": "Q208759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2084",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sowjetisch-amerikanisches Raumfahrtunternehmen Sojus-Apollo",
+      "bild_beschreibung": "Annäherungsmanöver",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Apollo-Sojus-Test-Projekt",
+          "beschriftung": "Sowjetisch-amerikanisches Raumfahrtunternehmen Sojus-Apollo",
+          "haupt": true,
+          "artikel": "Apollo-Sojus-Test-Projekt",
+          "wikidata": "Q208759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2085",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sowjetisch-amerikanisches Raumfahrtunternehmen Sojus-Apollo",
+      "bild_beschreibung": "Kopplungsmanöver Sojus 19-Apollo 18",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rendezvous (Raumfahrt)",
+          "beschriftung": "Kopplungsmanöver",
+          "haupt": true,
+          "artikel": "Rendezvous (Raumfahrt)",
+          "wikidata": "Q1093759"
+        },
+        {
+          "titel": "Sojus 19",
+          "beschriftung": "Sojus 19",
+          "haupt": false,
+          "artikel": "Sojus 19",
+          "wikidata": "Q1724109"
+        },
+        {
+          "titel": "Apollo-Sojus-Projekt",
+          "beschriftung": "Apollo 18",
+          "haupt": false,
+          "artikel": "Apollo-Sojus-Test-Projekt",
+          "wikidata": "Q208759"
+        },
+        {
+          "titel": "Apollo-Sojus-Test-Projekt",
+          "beschriftung": "Sowjetisch-amerikanisches Raumfahrtunternehmen Sojus-Apollo",
+          "haupt": false,
+          "artikel": "Apollo-Sojus-Test-Projekt",
+          "wikidata": "Q208759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2086",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Weimar",
+      "bild_beschreibung": "Stadtansicht um 1650: Kupferstich von Matthäus Merian d. Ä.",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": true,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Matthäus Merian",
+          "beschriftung": "Matthäus Merian d. Ä.",
+          "haupt": false,
+          "artikel": "Matthäus Merian",
+          "wikidata": "Q57968"
+        },
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": false,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2087",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Weimar",
+      "bild_beschreibung": "Denkmal in der Mahn- und Gedenkstätte Buchenwald bei Weimar",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KZ Buchenwald",
+          "beschriftung": "Mahn- und Gedenkstätte Buchenwald",
+          "haupt": true,
+          "artikel": "KZ Buchenwald",
+          "wikidata": "Q152802"
+        },
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": false,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2088",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-23",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Weimar",
+      "bild_beschreibung": "Historische und moderne Gebäude in Weimar",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": true,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2089",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-09-23",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Solidarität",
+      "bild_beschreibung": "Erhobene Faust, Roter Stern",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität",
+          "beschriftung": "Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität",
+          "wikidata": "Q815726"
+        },
+        {
+          "titel": "Erhobene Faust",
+          "beschriftung": "Erhobene Faust",
+          "haupt": false,
+          "artikel": "Erhobene Faust",
+          "wikidata": "Q2543966"
+        },
+        {
+          "titel": "Roter Stern",
+          "beschriftung": "Roter Stern",
+          "haupt": false,
+          "artikel": "Roter Stern",
+          "wikidata": "Q208578"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2090",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Welt-Braille-Jahr, 150 Jahre Braille-Blindenschrift",
+      "bild_beschreibung": "Louis Braille, französischer Blindenlehrer und Kirchenorganist; Blindenschriftraster",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Louis Braille",
+          "beschriftung": "Braille",
+          "haupt": true,
+          "artikel": "Louis Braille",
+          "wikidata": "Q93182"
+        },
+        {
+          "titel": "Blindenschrift",
+          "beschriftung": "Blindenschrift",
+          "haupt": false,
+          "artikel": "Blindenschrift",
+          "wikidata": "Q241871"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2091",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-14",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Welt-Braille-Jahr, 150 Jahre Braille-Blindenschrift",
+      "bild_beschreibung": "Hände lesen das Wort Braille in Blindenschrift",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Louis Braille",
+          "beschriftung": "Braille",
+          "haupt": true,
+          "artikel": "Louis Braille",
+          "wikidata": "Q93182"
+        },
+        {
+          "titel": "Blindenschrift",
+          "beschriftung": "Blindenschrift",
+          "haupt": false,
+          "artikel": "Blindenschrift",
+          "wikidata": "Q241871"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2092",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Welt-Braille-Jahr, 150 Jahre Braille-Blindenschrift",
+      "bild_beschreibung": "Auge (Querschnitt), Schutzbrille",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Auge",
+          "beschriftung": "Auge",
+          "haupt": true,
+          "artikel": "Auge",
+          "wikidata": "Q7364"
+        },
+        {
+          "titel": "Schutzbrille",
+          "beschriftung": "Schutzbrille",
+          "haupt": false,
+          "artikel": "Schutzbrille",
+          "wikidata": "Q72797"
+        },
+        {
+          "titel": "Louis Braille",
+          "beschriftung": "Braille",
+          "haupt": false,
+          "artikel": "Louis Braille",
+          "wikidata": "Q93182"
+        },
+        {
+          "titel": "Blindenschrift",
+          "beschriftung": "Blindenschrift",
+          "haupt": false,
+          "artikel": "Blindenschrift",
+          "wikidata": "Q241871"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2093",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-14",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Figur von Fritz Cremer, Mahnmal auf dem Zentralfriedhof Wien",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Fritz Cremer",
+          "beschriftung": "Fritz Cremer",
+          "haupt": false,
+          "artikel": "Fritz Cremer",
+          "wikidata": "Q529593"
+        },
+        {
+          "titel": "Wiener Zentralfriedhof",
+          "beschriftung": "Zentralfriedhof Wien",
+          "haupt": false,
+          "artikel": "Wiener Zentralfriedhof",
+          "wikidata": "Q240744"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2094",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-21",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten",
+      "bild_beschreibung": "Restauriertes Posttor, Wurzen (1734)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wurzen",
+          "beschriftung": "Restauriertes Posttor, Wurzen",
+          "haupt": true,
+          "artikel": "Wurzen",
+          "wikidata": "Q10784"
+        },
+        {
+          "titel": "Tag der Philatelisten",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2095",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten",
+      "bild_beschreibung": "Neues Postamt Bärenfels (Osterzgebirge)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bärenfels",
+          "beschriftung": "Bärenfels",
+          "haupt": true,
+          "artikel": "Bärenfels",
+          "wikidata": "Q1019100"
+        },
+        {
+          "titel": "Tag der Philatelisten",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2096",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (X): Des Kaisers neue Kleider",
+      "bild_beschreibung": "Diese und die folgenden zwei Marken wurden zusammen als Kleinbogen ausgegeben:; Szene aus dem Märchen",
+      "entwerfer": "Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Des Kaisers neue Kleider",
+          "beschriftung": "Des Kaisers neue Kleider",
+          "haupt": false,
+          "artikel": "Des Kaisers neue Kleider",
+          "wikidata": "Q11866"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2097",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-18",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (X): Des Kaisers neue Kleider",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Des Kaisers neue Kleider",
+          "beschriftung": "Des Kaisers neue Kleider",
+          "haupt": false,
+          "artikel": "Des Kaisers neue Kleider",
+          "wikidata": "Q11866"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2098",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-18",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (X): Des Kaisers neue Kleider",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Des Kaisers neue Kleider",
+          "beschriftung": "Des Kaisers neue Kleider",
+          "haupt": false,
+          "artikel": "Des Kaisers neue Kleider",
+          "wikidata": "Q11866"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2099",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Massen-Rodelwettkämpfe",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rodeln",
+          "beschriftung": "Rodelwettkämpfe",
+          "haupt": true,
+          "artikel": "Rodeln",
+          "wikidata": "Q3266340"
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2100",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Rennrodelbahn Oberhof",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rennrodelbahn Oberhof",
+          "beschriftung": "Rennrodelbahn Oberhof",
+          "haupt": true,
+          "artikel": "Rennrodelbahn Oberhof",
+          "wikidata": "Q873768"
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2101",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Eisschnelllaufbahn Berlin",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisschnelllaufbahn Berlin",
+          "beschriftung": "Eisschnelllaufbahn Berlin",
+          "haupt": true,
+          "artikel": "Eisschnelllaufbahn Berlin",
+          "wikidata": null
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2102",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "25+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Skisprung-Schanze am Rennsteig, Oberhof",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schanzenanlage im Kanzlersgrund",
+          "beschriftung": "Skisprung-Schanze am Rennsteig",
+          "haupt": true,
+          "artikel": "Schanzenanlage im Kanzlersgrund",
+          "wikidata": "Q466174"
+        },
+        {
+          "titel": "Oberhof",
+          "beschriftung": "Oberhof",
+          "haupt": false,
+          "artikel": "Oberhof",
+          "wikidata": "Q489215"
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2103",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Eissporthalle Chemnitz (Karl-Marx-Stadt)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemnitz-Schloßchemnitz",
+          "beschriftung": "Eissporthalle Chemnitz",
+          "haupt": true,
+          "artikel": "Chemnitz-Schloßchemnitz",
+          "wikidata": "Q1069553"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Karl-Marx-Stadt",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2104",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Massen-Skilanglauf, Schmiedefeld",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schmiedefeld am Rennsteig",
+          "beschriftung": "Massen-Skilanglauf",
+          "haupt": true,
+          "artikel": "Schmiedefeld am Rennsteig",
+          "wikidata": "Q631546"
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2105",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-02",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Winterspiele 1976, Innsbruck",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Ansicht von Innsbruck und Umgebung",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        },
+        {
+          "titel": "Olympische Winterspiele 1976",
+          "beschriftung": "Olympische Winterspiele 1976",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1976",
+          "wikidata": "Q9651"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2106",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-12-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (IV)",
+      "bild_beschreibung": "Wilhelm Pieck (1876–1960), erster Präsident der DDR",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": true,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        },
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": false,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        },
+        {
+          "titel": "Präsident der DDR",
+          "beschriftung": "Präsident der DDR",
+          "haupt": false,
+          "artikel": "Präsident der DDR",
+          "wikidata": "Q2114953"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2022",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-03-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (IV)",
+      "bild_beschreibung": "Alexanderplatz, Berlin",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": true,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        },
+        {
+          "titel": "Alexanderplatz",
+          "beschriftung": "Alexanderplatz",
+          "haupt": false,
+          "artikel": "Alexanderplatz",
+          "wikidata": "Q152783"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    }
+  ]
+}

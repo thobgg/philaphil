@@ -1,0 +1,1617 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1956,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1956 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1956_der_Deutschen_Post_der_DDR",
+    "revision": 270702730,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 510,
+    "mi_nr_bis": 558,
+    "luecken": [
+      523
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 48,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "510",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-01-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "200. Geburtstag von Wolfgang Amadeus Mozart",
+      "bild_beschreibung": "Mozarts Brustbild von rechts",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wolfgang Amadeus Mozart",
+          "beschriftung": "Wolfgang Amadeus Mozart",
+          "haupt": true,
+          "artikel": "Wolfgang Amadeus Mozart",
+          "wikidata": "Q254"
+        }
+      ]
+    },
+    {
+      "mi_nr": "511",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-01-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "200. Geburtstag von Wolfgang Amadeus Mozart",
+      "bild_beschreibung": "Mozarts Brustbild von links",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0511.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wolfgang Amadeus Mozart",
+          "beschriftung": "Wolfgang Amadeus Mozart",
+          "haupt": true,
+          "artikel": "Wolfgang Amadeus Mozart",
+          "wikidata": "Q254"
+        }
+      ]
+    },
+    {
+      "mi_nr": "512",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Eröffnung des zivilen Luftverkehrs in der DDR",
+      "bild_beschreibung": "Fahne der Deutschen Lufthansa der DDR, Flughafengebäude Berlin-Schönefeld",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Lufthansa (DDR)",
+          "beschriftung": "Deutschen Lufthansa der DDR",
+          "haupt": true,
+          "artikel": "Deutsche Lufthansa (DDR)",
+          "wikidata": "Q1203441"
+        },
+        {
+          "titel": "Flughafen Berlin-Schönefeld",
+          "beschriftung": "Flughafengebäude Berlin-Schönefeld",
+          "haupt": false,
+          "artikel": "Flughafen Berlin-Schönefeld",
+          "wikidata": "Q9689"
+        },
+        {
+          "titel": "Luftverkehr",
+          "beschriftung": "Luftverkehr",
+          "haupt": false,
+          "artikel": "Luftverkehr",
+          "wikidata": "Q118984357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "513",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Eröffnung des zivilen Luftverkehrs in der DDR",
+      "bild_beschreibung": "Flugzeug Iljuschin Il-14 (Il 14) der Lufthansa im Fluge von links oben",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0513.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Iljuschin Il-14",
+          "beschriftung": "Iljuschin Il-14",
+          "haupt": true,
+          "artikel": "Iljuschin Il-14",
+          "wikidata": "Q275031"
+        },
+        {
+          "titel": "Luftverkehr",
+          "beschriftung": "Luftverkehr",
+          "haupt": false,
+          "artikel": "Luftverkehr",
+          "wikidata": "Q118984357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "514",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Eröffnung des zivilen Luftverkehrs in der DDR",
+      "bild_beschreibung": "Flugzeug Il-14 der Lufthansa im Fluge von rechts unten",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftverkehr",
+          "beschriftung": "Luftverkehr",
+          "haupt": true,
+          "artikel": "Luftverkehr",
+          "wikidata": "Q118984357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "515",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Eröffnung des zivilen Luftverkehrs in der DDR",
+      "bild_beschreibung": "Flugzeug Il-14 der Lufthansa im Fluge von rechts",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0515.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftverkehr",
+          "beschriftung": "Luftverkehr",
+          "haupt": true,
+          "artikel": "Luftverkehr",
+          "wikidata": "Q118984357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "516",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "100. Todestag von Heinrich Heine",
+      "bild_beschreibung": "Porträt von Heinrich Heine",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "517",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "100. Todestag von Heinrich Heine",
+      "bild_beschreibung": "Porträt von Heinrich Heine",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0517.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "518",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1956",
+      "bild_beschreibung": "Eisenbahndrehkräne",
+      "entwerfer": "Erich Gruner",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schienendrehkran",
+          "beschriftung": "Eisenbahndrehkräne",
+          "haupt": true,
+          "artikel": "Schienendrehkran",
+          "wikidata": "Q2142500"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "519",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-02-25",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1956",
+      "bild_beschreibung": "Eisenbahndrehkräne",
+      "entwerfer": "Erich Gruner",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "520",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-04-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "70. Geburtstag von Ernst Thälmann",
+      "bild_beschreibung": "Diese Marke wurde auch in einem geschnittenen Briefmarkenblock in einer Auflage von 750.000 Stück zu einem Ausgabepreis von 0,40 DM am 25. Mai 1956 ausgegeben (Mi.-Nr. 520 B).; Brustbild von Ernst Thälmann vor einer roten Fahne",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Mark (DDR)",
+          "beschriftung": "DM",
+          "haupt": false,
+          "artikel": "Mark (DDR)",
+          "wikidata": "Q157011"
+        },
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "roten Fahne",
+          "haupt": false,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "521",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-04-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "IX. Internationale Radfernfahrt für den Frieden Warschau-Berlin-Prag",
+      "bild_beschreibung": "Hand mit Lorbeerzweig vor einem Speichenrad",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lorbeerkranz",
+          "beschriftung": "Lorbeerzweig",
+          "haupt": true,
+          "artikel": "Lorbeerkranz",
+          "wikidata": "Q734844"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Speichenrad",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1956",
+          "beschriftung": "IX. Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1956",
+          "wikidata": "Q1667181"
+        }
+      ]
+    },
+    {
+      "mi_nr": "522",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-04-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "IX. Internationale Radfernfahrt für den Frieden Warschau-Berlin-Prag",
+      "bild_beschreibung": "Wappen von Prag, Berlin, Warschau vor einem Speichenrad",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen",
+          "beschriftung": "Wappen",
+          "haupt": true,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        },
+        {
+          "titel": "Prager Wappen",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prager Wappen",
+          "wikidata": "Q630095"
+        },
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1956",
+          "beschriftung": "IX. Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1956",
+          "wikidata": "Q1667181"
+        }
+      ]
+    },
+    {
+      "mi_nr": "524",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-06-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "750 Jahre Dresden",
+      "bild_beschreibung": "Kreuzkirche, Rathaus und Neubauten am Altmarkt",
+      "entwerfer": "Helmuth Götze",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kreuzkirche (Dresden)",
+          "beschriftung": "Kreuzkirche",
+          "haupt": true,
+          "artikel": "Kreuzkirche (Dresden)",
+          "wikidata": "Q301607"
+        },
+        {
+          "titel": "Neues Rathaus (Dresden)",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Neues Rathaus (Dresden)",
+          "wikidata": "Q1980363"
+        },
+        {
+          "titel": "Altmarkt (Dresden)",
+          "beschriftung": "Altmarkt",
+          "haupt": false,
+          "artikel": "Altmarkt (Dresden)",
+          "wikidata": "Q21161975"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "525",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-06-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "750 Jahre Dresden",
+      "bild_beschreibung": "Georgentor, Augustusbrücke, Hausmannsturm, Katholische Hofkirche",
+      "entwerfer": "Helmuth Götze",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georgentor (Dresden)",
+          "beschriftung": "Georgentor",
+          "haupt": true,
+          "artikel": "Georgentor (Dresden)",
+          "wikidata": "Q1508741"
+        },
+        {
+          "titel": "Augustusbrücke",
+          "beschriftung": "Augustusbrücke",
+          "haupt": false,
+          "artikel": "Augustusbrücke",
+          "wikidata": "Q450445"
+        },
+        {
+          "titel": "Hausmannsturm (Dresden)",
+          "beschriftung": "Hausmannsturm",
+          "haupt": false,
+          "artikel": "Hausmannsturm (Dresden)",
+          "wikidata": "Q1288508"
+        },
+        {
+          "titel": "Katholische Hofkirche",
+          "beschriftung": "Katholische Hofkirche",
+          "haupt": false,
+          "artikel": "Katholische Hofkirche",
+          "wikidata": "Q666935"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "526",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-06-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "750 Jahre Dresden",
+      "bild_beschreibung": "Technische Hochschule mit dem Turm der Sternwarte (Beyer-Bau)",
+      "entwerfer": "Helmuth Götze",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Universität Dresden",
+          "beschriftung": "Technische Hochschule",
+          "haupt": true,
+          "artikel": "Technische Universität Dresden",
+          "wikidata": "Q158158"
+        },
+        {
+          "titel": "Sternwarte",
+          "beschriftung": "Sternwarte",
+          "haupt": false,
+          "artikel": "Sternwarte",
+          "wikidata": "Q1254933"
+        },
+        {
+          "titel": "Beyer-Bau",
+          "beschriftung": "Beyer-Bau",
+          "haupt": false,
+          "artikel": "Beyer-Bau",
+          "wikidata": "Q853065"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "527",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-06-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "10 Jahre Volkseigene Betriebe",
+      "bild_beschreibung": "Arbeiter mit VEB-Emblem, Fabrikanlage",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volkseigener Betrieb",
+          "beschriftung": "Volkseigene Betriebe",
+          "haupt": true,
+          "artikel": "Volkseigener Betrieb",
+          "wikidata": "Q2531989"
+        }
+      ]
+    },
+    {
+      "mi_nr": "528",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-09-30",
+      "anlass": "100. Todestag von Robert Schumann",
+      "bild_beschreibung": "In dieser Ausgabe wurden irrtümlich Noten von Franz Schubert, Wandrers Nachtlied, verwendet. Die Briefmarken wurden daher am 23. Juli 1956 vom Verkauf zurückgezogen und durch die Michel-Nummer 541 und 542 ersetzt.; Brustbild von Robert Schumann",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0528.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Schubert",
+          "beschriftung": "Franz Schubert",
+          "haupt": true,
+          "artikel": "Franz Schubert",
+          "wikidata": "Q7312"
+        },
+        {
+          "titel": "Wandrers Nachtlied",
+          "beschriftung": "Wandrers Nachtlied",
+          "haupt": false,
+          "artikel": "Wandrers Nachtlied",
+          "wikidata": "Q2548168"
+        },
+        {
+          "titel": "Robert Schumann",
+          "beschriftung": "Robert Schumann",
+          "haupt": false,
+          "artikel": "Robert Schumann",
+          "wikidata": "Q7351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "529",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-09-30",
+      "anlass": "100. Todestag von Robert Schumann",
+      "bild_beschreibung": "Brustbild von Robert Schumann",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Robert Schumann",
+          "beschriftung": "Robert Schumann",
+          "haupt": true,
+          "artikel": "Robert Schumann",
+          "wikidata": "Q7351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "530",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-25",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "II. Deutsches Turn- und Sportfest, Leipzig",
+      "bild_beschreibung": "Zwei Fußballspieler",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": true,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        },
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "531",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "II. Deutsches Turn- und Sportfest, Leipzig",
+      "bild_beschreibung": "Speerwerfer",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Speerwurf",
+          "beschriftung": "Speerwerfer",
+          "haupt": true,
+          "artikel": "Speerwurf",
+          "wikidata": "Q178108"
+        },
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "532",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-25",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "II. Deutsches Turn- und Sportfest, Leipzig",
+      "bild_beschreibung": "Zwei Hürdenläufer",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hürdenlauf",
+          "beschriftung": "Hürdenläufer",
+          "haupt": true,
+          "artikel": "Hürdenlauf",
+          "wikidata": "Q537769"
+        },
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "533",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-07-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "II. Deutsches Turn- und Sportfest, Leipzig",
+      "bild_beschreibung": "Turner an den Ringen",
+      "entwerfer": "Bruno Petersen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turnsportler",
+          "beschriftung": "Turner",
+          "haupt": true,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Ringeturnen",
+          "beschriftung": "Ringen",
+          "haupt": false,
+          "artikel": "Ringeturnen",
+          "wikidata": "Q655318"
+        },
+        {
+          "titel": "Deutsches Turn- und Sportfest",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "534",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "1. Todestag von Thomas Mann",
+      "bild_beschreibung": "Brustbild des Schriftstellers und Nobelpreisträgers Thomas Mann (seitenverkehrte Darstellung).",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Thomas Mann",
+          "beschriftung": "Thomas Mann",
+          "haupt": true,
+          "artikel": "Thomas Mann",
+          "wikidata": "Q37030"
+        },
+        {
+          "titel": "Nobelpreisträger",
+          "beschriftung": "Nobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der Nobelpreisträger",
+          "wikidata": "Q339619"
+        }
+      ]
+    },
+    {
+      "mi_nr": "535",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-08-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "100. Geburtstag von Jakub Bart-Ćišinski",
+      "bild_beschreibung": "Brustbild des sorbischen Dichters nach einer Vorlage von Horst Schlosser",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jakub Bart-Ćišinski",
+          "beschriftung": "Jakub Bart-Ćišinski",
+          "haupt": true,
+          "artikel": "Jakub Bart-Ćišinski",
+          "wikidata": "Q77194"
+        },
+        {
+          "titel": "Sorben",
+          "beschriftung": "sorbischen",
+          "haupt": false,
+          "artikel": "Sorben",
+          "wikidata": "Q146521"
+        }
+      ]
+    },
+    {
+      "mi_nr": "536",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Leipziger Herbstmesse 1956",
+      "bild_beschreibung": "Plauener Spitze, Mustermesse-Symbol",
+      "entwerfer": "Wolfgang Hoepfner",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plauener Spitze",
+          "beschriftung": "Plauener Spitze",
+          "haupt": true,
+          "artikel": "Plauener Spitze",
+          "wikidata": "Q2098931"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "537",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Leipziger Herbstmesse 1956",
+      "bild_beschreibung": "Segelboot, Mustermesse-Symbol",
+      "entwerfer": "Wolfgang Hoepfner",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelboot",
+          "beschriftung": "Segelboot",
+          "haupt": true,
+          "artikel": "Segelboot",
+          "wikidata": "Q1075310"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "538",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-08",
+      "wert": "20+80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Aufbau Nationaler Gedenkstätten",
+      "bild_beschreibung": "Glockenturm der KZ-Gedenkstätte Buchenwald",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0538.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau Nationaler Gedenkstätten",
+          "haupt": true,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Glockenturm",
+          "beschriftung": "Glockenturm",
+          "haupt": false,
+          "artikel": "Glockenturm",
+          "wikidata": "Q200334"
+        },
+        {
+          "titel": "KZ Buchenwald",
+          "beschriftung": "KZ-Gedenkstätte Buchenwald",
+          "haupt": false,
+          "artikel": "KZ Buchenwald",
+          "wikidata": "Q152802"
+        }
+      ]
+    },
+    {
+      "mi_nr": "539",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "(XVI.) Olympische Sommerspiele 1956 (Melbourne)",
+      "bild_beschreibung": "Olympische Ringe, Lorbeer, Fackel",
+      "entwerfer": "Hanns Zethmeyer",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Ringe",
+          "beschriftung": "Olympische Ringe",
+          "haupt": true,
+          "artikel": "Olympische Ringe",
+          "wikidata": "Q1224195"
+        },
+        {
+          "titel": "Lorbeerkranz",
+          "beschriftung": "Lorbeer",
+          "haupt": false,
+          "artikel": "Lorbeerkranz",
+          "wikidata": "Q734844"
+        },
+        {
+          "titel": "Fackel",
+          "beschriftung": "Fackel",
+          "haupt": false,
+          "artikel": "Fackel",
+          "wikidata": "Q327954"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1956",
+          "beschriftung": "(XVI.) Olympische Sommerspiele 1956 (Melbourne)",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1956",
+          "wikidata": "Q8411"
+        }
+      ]
+    },
+    {
+      "mi_nr": "540",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-09-28",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "(XVI.) Olympische Sommerspiele 1956 (Melbourne)",
+      "bild_beschreibung": "Olympische Ringe, Speerwerfen in der Antike",
+      "entwerfer": "Hanns Zethmeyer",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Speerwurf",
+          "beschriftung": "Speerwerfen",
+          "haupt": true,
+          "artikel": "Speerwurf",
+          "wikidata": "Q178108"
+        },
+        {
+          "titel": "Antike",
+          "beschriftung": "Antike",
+          "haupt": false,
+          "artikel": "Antike",
+          "wikidata": "Q486761"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1956",
+          "beschriftung": "(XVI.) Olympische Sommerspiele 1956 (Melbourne)",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1956",
+          "wikidata": "Q8411"
+        }
+      ]
+    },
+    {
+      "mi_nr": "541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "100. Todestag von Robert Schumann (berichtigte Notenabbildungen des Komponisten)",
+      "bild_beschreibung": "Brustbild von Robert Schumann, Noten von Eichendorffs Mondnacht",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Joseph von Eichendorff",
+          "beschriftung": "Eichendorffs",
+          "haupt": true,
+          "artikel": "Joseph von Eichendorff",
+          "wikidata": "Q77204"
+        },
+        {
+          "titel": "Mondnacht (Eichendorff)",
+          "beschriftung": "Mondnacht",
+          "haupt": false,
+          "artikel": "Mondnacht (Eichendorff)",
+          "wikidata": "Q1944263"
+        },
+        {
+          "titel": "Robert Schumann",
+          "beschriftung": "Robert Schumann",
+          "haupt": false,
+          "artikel": "Robert Schumann",
+          "wikidata": "Q7351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "100. Todestag von Robert Schumann (berichtigte Notenabbildungen des Komponisten)",
+      "bild_beschreibung": "Brustbild von Robert Schumann, Noten von Eichendorffs Mondnacht",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0542.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Robert Schumann",
+          "beschriftung": "Robert Schumann",
+          "haupt": true,
+          "artikel": "Robert Schumann",
+          "wikidata": "Q7351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "543",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "500 Jahre Universität Greifswald",
+      "bild_beschreibung": "Klassisches Siegel des Rektors der Universität",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Universität Greifswald",
+          "beschriftung": "Universität Greifswald",
+          "haupt": true,
+          "artikel": "Universität Greifswald",
+          "wikidata": "Q165528"
+        },
+        {
+          "titel": "Siegel",
+          "beschriftung": "Siegel",
+          "haupt": false,
+          "artikel": "Siegel",
+          "wikidata": "Q162919"
+        },
+        {
+          "titel": "Rektor",
+          "beschriftung": "Rektor",
+          "haupt": false,
+          "artikel": "Rektor",
+          "wikidata": "Q212071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-10-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Tag der Briefmarke 1956",
+      "bild_beschreibung": "Mittelalterlicher Postläufer um 1450",
+      "entwerfer": "Paul Hohler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Postläufer",
+          "haupt": false,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        }
+      ]
+    },
+    {
+      "mi_nr": "545",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-11-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "110 Jahre Carl Zeiss-Werke Jena",
+      "bild_beschreibung": "Brustbild des Physikers und Sozialreformers Ernst Abbe, Zeiss-Symbol",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Abbe",
+          "beschriftung": "Ernst Abbe",
+          "haupt": true,
+          "artikel": "Ernst Abbe",
+          "wikidata": "Q76359"
+        },
+        {
+          "titel": "Carl Zeiss (Unternehmen)",
+          "beschriftung": "Carl Zeiss-Werke",
+          "haupt": false,
+          "artikel": "Carl Zeiss AG",
+          "wikidata": "Q282186"
+        },
+        {
+          "titel": "Jena",
+          "beschriftung": "Jena",
+          "haupt": false,
+          "artikel": "Jena",
+          "wikidata": "Q3150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-11-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "110 Jahre Carl Zeiss-Werke Jena",
+      "bild_beschreibung": "Carl Zeiss-Werke, Zeiss-Symbol",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Zeiss (Unternehmen)",
+          "beschriftung": "Carl Zeiss-Werke",
+          "haupt": true,
+          "artikel": "Carl Zeiss AG",
+          "wikidata": "Q282186"
+        },
+        {
+          "titel": "Jena",
+          "beschriftung": "Jena",
+          "haupt": false,
+          "artikel": "Jena",
+          "wikidata": "Q3150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-11-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "110 Jahre Carl Zeiss-Werke Jena",
+      "bild_beschreibung": "Brustbild des Mechanikers und Unternehmers Carl Zeiss",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mechaniker",
+          "beschriftung": "Mechaniker",
+          "haupt": true,
+          "artikel": "Mechaniker",
+          "wikidata": "Q327029"
+        },
+        {
+          "titel": "Carl Zeiß",
+          "beschriftung": "Carl Zeiss",
+          "haupt": false,
+          "artikel": "Carl Zeiß",
+          "wikidata": "Q76833"
+        },
+        {
+          "titel": "Carl Zeiss (Unternehmen)",
+          "beschriftung": "Carl Zeiss-Werke",
+          "haupt": false,
+          "artikel": "Carl Zeiss AG",
+          "wikidata": "Q282186"
+        },
+        {
+          "titel": "Jena",
+          "beschriftung": "Jena",
+          "haupt": false,
+          "artikel": "Jena",
+          "wikidata": "Q3150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Tag der Menschenrechte",
+      "bild_beschreibung": "Asiatin mit Blumen",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": true,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Tag der Menschenrechte",
+      "bild_beschreibung": "Afrikanerin mit Kind",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": true,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-03-31",
+      "anlass": "Tag der Menschenrechte",
+      "bild_beschreibung": "Europäer mit Friedenstaube",
+      "entwerfer": "Axel Bengs, Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": true,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": false,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-14",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Indische Elefanten (Elephas maximus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Indischer Elefant",
+          "beschriftung": "Indische Elefanten",
+          "haupt": true,
+          "artikel": "Indischer Elefant",
+          "wikidata": "Q591305"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Rosaflamingos (Phoenicopterus ruber roseus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosaflamingo",
+          "beschriftung": "Rosaflamingo",
+          "haupt": true,
+          "artikel": "Rosaflamingo",
+          "wikidata": "Q179863"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-14",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Spitzmaulnashorn (Diceros bicornis bicornis)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spitzmaulnashorn",
+          "beschriftung": "Spitzmaulnashorn",
+          "haupt": true,
+          "artikel": "Spitzmaulnashorn",
+          "wikidata": "Q95036"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "554",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Ladak-Wildschafe (Ovis ammon vignei)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wildschaf",
+          "beschriftung": "Wildschaf",
+          "haupt": true,
+          "artikel": "Wildschaf",
+          "wikidata": "Q378080"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Wisent (Bison bonasus bonasus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wisent",
+          "beschriftung": "Wisent",
+          "haupt": true,
+          "artikel": "Wisent",
+          "wikidata": "Q81091"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "556",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Eisbär (Thalarctos maritimus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisbär",
+          "beschriftung": "Eisbär",
+          "haupt": true,
+          "artikel": "Eisbär",
+          "wikidata": "Q33609"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-20",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Internationale Solidarität mit Ungarn",
+      "bild_beschreibung": "Die Originalmarke ohne Aufdruck aus dem Jahr 1955 hat die Michel-Nummer 494.; Rotes Rathaus Berlin mit Aufdruck „Helft dem sozialistischen Ungarn“",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1956, MiNr 0557.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität (Zuschlagmarke)",
+          "beschriftung": "Internationale Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität (Zuschlagmarke)",
+          "wikidata": "Q2298788"
+        },
+        {
+          "titel": "Ungarn",
+          "beschriftung": "Ungarn",
+          "haupt": false,
+          "artikel": "Ungarn",
+          "wikidata": "Q28"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+          "beschriftung": "1955",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+          "wikidata": "Q914413"
+        },
+        {
+          "titel": "Rotes Rathaus",
+          "beschriftung": "Rotes Rathaus",
+          "haupt": false,
+          "artikel": "Rotes Rathaus",
+          "wikidata": "Q155210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1956-12-20",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Internationale Solidarität mit Ägypten",
+      "bild_beschreibung": "Die Originalmarke ohne Aufdruck aus dem Jahr 1955 hat die Michel-Nummer 494.; Rotes Rathaus Berlin mit Aufdruck „Helft Ägypten“",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 3000000,
+      "commons_datei": "Briefmarke DDR Helft Ägypten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Solidarität (Zuschlagmarke)",
+          "beschriftung": "Internationale Solidarität",
+          "haupt": true,
+          "artikel": "Solidarität (Zuschlagmarke)",
+          "wikidata": "Q2298788"
+        },
+        {
+          "titel": "Ägypten",
+          "beschriftung": "Ägypten",
+          "haupt": false,
+          "artikel": "Ägypten",
+          "wikidata": "Q79"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+          "beschriftung": "1955",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1955 der Deutschen Post der DDR",
+          "wikidata": "Q914413"
+        }
+      ]
+    }
+  ]
+}

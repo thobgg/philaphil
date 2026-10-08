@@ -1,0 +1,1462 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1944,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1944 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1944_der_Deutschen_Reichspost",
+    "revision": 269146601,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 864,
+    "mi_nr_bis": 906,
+    "luecken": [
+      905
+    ],
+    "ausreisser": [
+      795
+    ],
+    "sondermarken_gezaehlt": 42,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-01-25",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Robert Koch (1843–1910)",
+      "bild_beschreibung": "Mediziner und Mikrobiologe",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Robert Koch",
+          "beschriftung": "Robert Koch",
+          "haupt": true,
+          "artikel": "Robert Koch",
+          "wikidata": "Q37193"
+        },
+        {
+          "titel": "Medizin",
+          "beschriftung": "Medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        },
+        {
+          "titel": "Mikrobiologie",
+          "beschriftung": "Mikrobiologe",
+          "haupt": false,
+          "artikel": "Mikrobiologie",
+          "wikidata": "Q7193"
+        }
+      ]
+    },
+    {
+      "mi_nr": "865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-01-29",
+      "wert": "54+96",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "11. Jahrestag der Machtergreifung von Adolf Hitler (1889–1945)",
+      "bild_beschreibung": "Diktator des Dritten Reichs",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1944 865 Adolf Hitler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Machtergreifung",
+          "beschriftung": "Machtergreifung",
+          "haupt": true,
+          "artikel": "Machtergreifung",
+          "wikidata": "Q328271"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        },
+        {
+          "titel": "Diktatur",
+          "beschriftung": "Diktator",
+          "haupt": false,
+          "artikel": "Diktatur",
+          "wikidata": "Q317"
+        },
+        {
+          "titel": "Drittes Reich",
+          "beschriftung": "Dritten Reichs",
+          "haupt": false,
+          "artikel": "Drittes Reich",
+          "wikidata": "Q518617"
+        }
+      ]
+    },
+    {
+      "mi_nr": "866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-02-11",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Flugpostdienst",
+      "bild_beschreibung": "Focke-Wulf Fw 200",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Focke-Wulf Fw 200",
+          "beschriftung": "Focke-Wulf Fw 200",
+          "haupt": true,
+          "artikel": "Focke-Wulf Fw 200",
+          "wikidata": "Q157485"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostdienst",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-02-11",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Flugpostdienst",
+      "bild_beschreibung": "Blohm & Voss Ha 139",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1944 867 Luftpostdienst HA 139 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blohm & Voss Ha 139",
+          "beschriftung": "Blohm & Voss Ha 139",
+          "haupt": true,
+          "artikel": "Blohm & Voss Ha 139",
+          "wikidata": "Q884907"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostdienst",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-02-11",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Flugpostdienst",
+      "bild_beschreibung": "Junkers Ju 90",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1944 868 Luftpostdienst Ju 90.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Junkers Ju 90",
+          "beschriftung": "Junkers Ju 90",
+          "haupt": true,
+          "artikel": "Junkers Ju 90",
+          "wikidata": "Q700131"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostdienst",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-02",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Hilfswerk Mutter und Kind",
+      "bild_beschreibung": "Säuglingskrippe",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kinderkrippe",
+          "beschriftung": "Säuglingskrippe",
+          "haupt": true,
+          "artikel": "Kinderkrippe",
+          "wikidata": "Q364005"
+        },
+        {
+          "titel": "Hilfswerk Mutter und Kind",
+          "beschriftung": "Hilfswerk Mutter und Kind",
+          "haupt": false,
+          "artikel": "Hilfswerk Mutter und Kind",
+          "wikidata": "Q1618573"
+        }
+      ]
+    },
+    {
+      "mi_nr": "870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-02",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Hilfswerk Mutter und Kind",
+      "bild_beschreibung": "Gemeindeschwester bei einem Familienbesuch",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pflegefachkraft in der ambulanten Pflege",
+          "beschriftung": "Gemeindeschwester",
+          "haupt": true,
+          "artikel": "Pflegefachkraft in der ambulanten Pflege",
+          "wikidata": "Q2084151"
+        },
+        {
+          "titel": "Hilfswerk Mutter und Kind",
+          "beschriftung": "Hilfswerk Mutter und Kind",
+          "haupt": false,
+          "artikel": "Hilfswerk Mutter und Kind",
+          "wikidata": "Q1618573"
+        }
+      ]
+    },
+    {
+      "mi_nr": "871",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-02",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Hilfswerk Mutter und Kind",
+      "bild_beschreibung": "Arzt bei der Untersuchung eines Kleinkindes",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": true,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Hilfswerk Mutter und Kind",
+          "beschriftung": "Hilfswerk Mutter und Kind",
+          "haupt": false,
+          "artikel": "Hilfswerk Mutter und Kind",
+          "wikidata": "Q1618573"
+        }
+      ]
+    },
+    {
+      "mi_nr": "872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-02",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Hilfswerk Mutter und Kind",
+      "bild_beschreibung": "Müttererholungsheim",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": "DR 1944 872 Hilfswerk Mutter und Kind.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hilfswerk Mutter und Kind",
+          "beschriftung": "Hilfswerk Mutter und Kind",
+          "haupt": true,
+          "artikel": "Hilfswerk Mutter und Kind",
+          "wikidata": "Q1618573"
+        }
+      ]
+    },
+    {
+      "mi_nr": "873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Sturmboot",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sturmboot",
+          "beschriftung": "Sturmboot",
+          "haupt": true,
+          "artikel": "Sturmboot",
+          "wikidata": "Q1797655"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "874",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Kettenkrad",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kettenkrad",
+          "beschriftung": "Kettenkrad",
+          "haupt": true,
+          "artikel": "Kettenkrad",
+          "wikidata": "Q170316"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "875",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "5+3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Fallschirmjäger",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fallschirmjäger (Wehrmacht)",
+          "beschriftung": "Fallschirmjäger",
+          "haupt": true,
+          "artikel": "Fallschirmjäger (Wehrmacht)",
+          "wikidata": "Q13479665"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "U-Boot-Kommandant am Sehrohr",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "U-Boot",
+          "beschriftung": "U-Boot",
+          "haupt": true,
+          "artikel": "U-Boot",
+          "wikidata": "Q2811"
+        },
+        {
+          "titel": "Periskop",
+          "beschriftung": "Sehrohr",
+          "haupt": false,
+          "artikel": "Periskop",
+          "wikidata": "Q183122"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "877",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Granatwerfer",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Granatwerfer",
+          "beschriftung": "Granatwerfer",
+          "haupt": true,
+          "artikel": "Granatwerfer",
+          "wikidata": "Q184613"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Flugabwehr-Suchscheinwerfer",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flugabwehr",
+          "beschriftung": "Flugabwehr",
+          "haupt": true,
+          "artikel": "Flugabwehr",
+          "wikidata": "Q843941"
+        },
+        {
+          "titel": "Suchscheinwerfer",
+          "beschriftung": "Suchscheinwerfer",
+          "haupt": false,
+          "artikel": "Suchscheinwerfer",
+          "wikidata": "Q946042"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Maschinengewehr-Schützen",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maschinengewehr",
+          "beschriftung": "Maschinengewehr",
+          "haupt": true,
+          "artikel": "Maschinengewehr",
+          "wikidata": "Q12800"
+        },
+        {
+          "titel": "Schütze (Militär)",
+          "beschriftung": "Schützen",
+          "haupt": false,
+          "artikel": "Schütze (Militär)",
+          "wikidata": "Q4443713"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "880",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Sturmgeschütz",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sturmgeschütz",
+          "beschriftung": "Sturmgeschütz",
+          "haupt": true,
+          "artikel": "Sturmgeschütz",
+          "wikidata": "Q745798"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "881",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "16+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Schnellboot S26-29",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schnellboot",
+          "beschriftung": "Schnellboot",
+          "haupt": true,
+          "artikel": "Schnellboot",
+          "wikidata": "Q719226"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "882",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Arado Ar 196",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arado Ar 196",
+          "beschriftung": "Arado Ar 196",
+          "haupt": true,
+          "artikel": "Arado Ar 196",
+          "wikidata": "Q163170"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "883",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "24+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Eisenbahngeschütz",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenbahngeschütz",
+          "beschriftung": "Eisenbahngeschütz",
+          "haupt": true,
+          "artikel": "Eisenbahngeschütz",
+          "wikidata": "Q1049358"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "884",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Nebelwerfer",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nebelwerfer",
+          "beschriftung": "Nebelwerfer",
+          "haupt": true,
+          "artikel": "Nebelwerfer",
+          "wikidata": "Q160876"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "885",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "30+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Gebirgsjäger",
+      "entwerfer": "O. Anton",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gebirgstruppe (Deutschland)",
+          "beschriftung": "Gebirgsjäger",
+          "haupt": true,
+          "artikel": "Gebirgstruppe (Deutschland)",
+          "wikidata": "Q1305692"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "886",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-03-11",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Fulda",
+      "bild_beschreibung": "Statue im Schlossgarten, im Hintergrund Dom, Michaelskirche und Orangerie",
+      "entwerfer": "F. Wolff",
+      "auflage": null,
+      "commons_datei": "DR 1944 886 1200 Jahre Fulda.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fulda",
+          "beschriftung": "Fulda",
+          "haupt": true,
+          "artikel": "Fulda",
+          "wikidata": "Q3963"
+        },
+        {
+          "titel": "Fuldaer Stadtschloss",
+          "beschriftung": "Schlossgarten",
+          "haupt": false,
+          "artikel": "Fuldaer Stadtschloss",
+          "wikidata": "Q1473497"
+        },
+        {
+          "titel": "Fuldaer Dom",
+          "beschriftung": "Dom",
+          "haupt": false,
+          "artikel": "Fuldaer Dom",
+          "wikidata": "Q314517"
+        },
+        {
+          "titel": "Michaelskirche (Fulda)",
+          "beschriftung": "Michaelskirche",
+          "haupt": false,
+          "artikel": "Michaelskirche (Fulda)",
+          "wikidata": "Q762910"
+        },
+        {
+          "titel": "Orangerie",
+          "beschriftung": "Orangerie",
+          "haupt": false,
+          "artikel": "Orangerie",
+          "wikidata": "Q952885"
+        }
+      ]
+    },
+    {
+      "mi_nr": "887",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-04-14",
+      "wert": "54+96",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "55. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "888",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-05",
+      "wert": "6+9",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Briefträgerin",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Briefträgerin",
+          "haupt": true,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "889",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-05",
+      "wert": "8+12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Postkutsche",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": true,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "890",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-05",
+      "wert": "12+18",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Feldpost im Osten",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Feldpost im Zweiten Weltkrieg",
+          "beschriftung": "Feldpost",
+          "haupt": true,
+          "artikel": "Deutsche Feldpost im Zweiten Weltkrieg",
+          "wikidata": "Q1202520"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "891",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-05",
+      "wert": "16+24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Geländefahrer",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geländewagen",
+          "beschriftung": "Geländefahrer",
+          "haupt": true,
+          "artikel": "Geländewagen",
+          "wikidata": "Q946596"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "892",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-05",
+      "wert": "20+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Postschutz",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postschutz",
+          "beschriftung": "Postschutz",
+          "haupt": true,
+          "artikel": "Postschutz",
+          "wikidata": "Q1778811"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "893",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-05",
+      "wert": "24+36",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "100 Segelflugwerkstätten",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelflugzeug",
+          "beschriftung": "Segelflugwerkstätten",
+          "haupt": true,
+          "artikel": "Segelflugzeug",
+          "wikidata": "Q180173"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "894",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-06",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Ausstellung des Arbeitsdienstes",
+      "bild_beschreibung": "Mädchen des Arbeitsdienstes mit Rechen",
+      "entwerfer": "René Ahrlé",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rechen (Werkzeug)",
+          "beschriftung": "Rechen",
+          "haupt": true,
+          "artikel": "Rechen (Werkzeug)",
+          "wikidata": "Q200822"
+        },
+        {
+          "titel": "Reichsarbeitsdienst",
+          "beschriftung": "Arbeitsdienst",
+          "haupt": false,
+          "artikel": "Reichsarbeitsdienst",
+          "wikidata": "Q318359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "895",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-06",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Ausstellung des Arbeitsdienstes",
+      "bild_beschreibung": "Junger Mann des Arbeitsdienstes mit Spaten",
+      "entwerfer": "René Ahrlé",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spaten",
+          "beschriftung": "Spaten",
+          "haupt": true,
+          "artikel": "Spaten",
+          "wikidata": "Q216642"
+        },
+        {
+          "titel": "Reichsarbeitsdienst",
+          "beschriftung": "Arbeitsdienst",
+          "haupt": false,
+          "artikel": "Reichsarbeitsdienst",
+          "wikidata": "Q318359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "896",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-07-02",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Albertus-Universität in Königsberg",
+      "bild_beschreibung": "Herzog Albrecht mit Schwert und Wappen",
+      "entwerfer": "Marten",
+      "auflage": null,
+      "commons_datei": "DR 1944 896 Albertus Universität Königsberg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albrecht (Preußen)",
+          "beschriftung": "Herzog Albrecht",
+          "haupt": true,
+          "artikel": "Albrecht (Preußen)",
+          "wikidata": "Q40433"
+        },
+        {
+          "titel": "Schwert",
+          "beschriftung": "Schwert",
+          "haupt": false,
+          "artikel": "Schwert",
+          "wikidata": "Q12791"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Wappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "897",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-07-02",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "7. Tiroler Landesschiessen",
+      "bild_beschreibung": "Tiroler Standschütze und Soldat",
+      "entwerfer": "L. Alton",
+      "auflage": null,
+      "commons_datei": "DR 1944 897 Tiroler Landesschiessen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Soldat",
+          "beschriftung": "Soldat",
+          "haupt": true,
+          "artikel": "Soldat",
+          "wikidata": "Q4991371"
+        },
+        {
+          "titel": "Tirol (Bundesland)",
+          "beschriftung": "Tiroler",
+          "haupt": false,
+          "artikel": "Tirol (Bundesland)",
+          "wikidata": "Q42880"
+        }
+      ]
+    },
+    {
+      "mi_nr": "898",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-07-02",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "7. Tiroler Landesschiessen",
+      "bild_beschreibung": "Tiroler Standschütze und Soldat",
+      "entwerfer": "L. Alton",
+      "auflage": null,
+      "commons_datei": "DR 1944 898 Tiroler Landesschiessen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tirol (Bundesland)",
+          "beschriftung": "Tiroler",
+          "haupt": true,
+          "artikel": "Tirol (Bundesland)",
+          "wikidata": "Q42880"
+        }
+      ]
+    },
+    {
+      "mi_nr": "899",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-07-23",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "11. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "Stute und Fohlen",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        },
+        {
+          "titel": "Stute",
+          "beschriftung": "Stute",
+          "haupt": false,
+          "artikel": "Stute",
+          "wikidata": "Q1104034"
+        },
+        {
+          "titel": "Fohlen",
+          "beschriftung": "Fohlen",
+          "haupt": false,
+          "artikel": "Fohlen",
+          "wikidata": "Q45614"
+        }
+      ]
+    },
+    {
+      "mi_nr": "900",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-08",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rennen um den Großen Preis von Wien 1944",
+      "bild_beschreibung": "Pferdekopf im Siegerkranz",
+      "entwerfer": "H. Frank",
+      "auflage": null,
+      "commons_datei": "DR 1944 900 Großer Preis von Wien.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": true,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        },
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": false,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "901",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-08",
+      "wert": "12+88",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rennen um den Großen Preis von Wien 1944",
+      "bild_beschreibung": "Pferdekopf im Siegerkranz",
+      "entwerfer": "H. Frank",
+      "auflage": null,
+      "commons_datei": "DR 1944 901 Großer Preis von Wien.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": true,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "902",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-09-11",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Gesellschaft für Goldschmiedekunst",
+      "bild_beschreibung": "Nautilusbecher, Dresden",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1944 902 Goldschmiedekunst Nautilusbecher.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nautiluspokal",
+          "beschriftung": "Nautilusbecher",
+          "haupt": true,
+          "artikel": "Nautiluspokal",
+          "wikidata": "Q1972093"
+        },
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Goldschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "903",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-09-11",
+      "wert": "12+88",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Gesellschaft für Goldschmiedekunst",
+      "bild_beschreibung": "Nautilusbecher, Dresden",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1944 903 Goldschmiedekunst Nautilusbecher.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Goldschmiedekunst",
+          "haupt": true,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "904",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-10-02",
+      "wert": "6+24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Posthorn und Brief",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "906",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1944-11-09",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "21. Jahrestag des Hitlerputsches",
+      "bild_beschreibung": "Adler im Kampf mit 3 Schlangen",
+      "entwerfer": "Karl Diebitsch",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hitlerputsch",
+          "beschriftung": "Hitlerputsch",
+          "haupt": true,
+          "artikel": "Hitlerputsch",
+          "wikidata": "Q36749"
+        },
+        {
+          "titel": "Adler (Biologie)",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Adler (Biologie)",
+          "wikidata": "Q2092297"
+        },
+        {
+          "titel": "Schlangen",
+          "beschriftung": "Schlangen",
+          "haupt": false,
+          "artikel": "Schlangen",
+          "wikidata": "Q2102"
+        }
+      ]
+    },
+    {
+      "mi_nr": "A795",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "42",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "Porträt Hitlers mit Inschrift »GROSSDEUTSCHES REICH«",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": "DR 1941 795A Adolf Hitler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": true,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        },
+        {
+          "titel": "Großdeutsches Reich",
+          "beschriftung": "GROSSDEUTSCHES REICH",
+          "haupt": false,
+          "artikel": "NS-Staat",
+          "wikidata": "Q7318"
+        }
+      ]
+    },
+    {
+      "mi_nr": "P 297",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1944-09-11",
+      "wert": "6 + 4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sonderkarte für die deutsche Goldschmiedekunst",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 297 1944-2.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 313",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": null,
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hitler-Dauerserie mit Postleitzahlkreisen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 314",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": null,
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hitler-Dauerserie mit Postleitzahlkreisen",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 314 1944-1.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

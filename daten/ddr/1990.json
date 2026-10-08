@@ -1,0 +1,2398 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1990,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1990 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1990_der_Deutschen_Post_der_DDR",
+    "revision": 262073000,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3295,
+    "mi_nr_bis": 3365,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 49,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-09",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die Biene (Apis mellifica) auf",
+      "bild_beschreibung": "Apfelblüte",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Äpfel",
+          "beschriftung": "Apfelblüte",
+          "haupt": true,
+          "artikel": "Äpfel",
+          "wikidata": "Q104819"
+        },
+        {
+          "titel": "Westliche Honigbiene",
+          "beschriftung": "Biene",
+          "haupt": false,
+          "artikel": "Westliche Honigbiene",
+          "wikidata": "Q30034"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die Biene (Apis mellifica) auf",
+      "bild_beschreibung": "Blühendes Heidekraut",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heidekräuter",
+          "beschriftung": "Heidekraut",
+          "haupt": true,
+          "artikel": "Heidekräuter",
+          "wikidata": "Q206998"
+        },
+        {
+          "titel": "Westliche Honigbiene",
+          "beschriftung": "Biene",
+          "haupt": false,
+          "artikel": "Westliche Honigbiene",
+          "wikidata": "Q30034"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die Biene (Apis mellifica) auf",
+      "bild_beschreibung": "Rapsblüte",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Raps",
+          "beschriftung": "Raps",
+          "haupt": true,
+          "artikel": "Raps",
+          "wikidata": "Q177932"
+        },
+        {
+          "titel": "Westliche Honigbiene",
+          "beschriftung": "Biene",
+          "haupt": false,
+          "artikel": "Westliche Honigbiene",
+          "wikidata": "Q30034"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die Biene (Apis mellifica) auf",
+      "bild_beschreibung": "Rotklee",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiesen-Klee",
+          "beschriftung": "Rotklee",
+          "haupt": true,
+          "artikel": "Wiesenklee",
+          "wikidata": "Q156635"
+        },
+        {
+          "titel": "Westliche Honigbiene",
+          "beschriftung": "Biene",
+          "haupt": false,
+          "artikel": "Westliche Honigbiene",
+          "wikidata": "Q30034"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Internationale Postverbindungen in Europa (I) „Der kleine Postreiter“, Stich von Albrecht Dürer",
+      "bild_beschreibung": "",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stich und Schnitt",
+          "beschriftung": "Stich",
+          "haupt": true,
+          "artikel": "Stich und Schnitt",
+          "wikidata": "Q8418372"
+        },
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": false,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XVI)",
+      "bild_beschreibung": "Bruno Leuschner (1910–1965), Gewerkschaftsführer und Widerstandskämpfer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bruno Leuschner (Politiker)",
+          "beschriftung": "Bruno Leuschner",
+          "haupt": true,
+          "artikel": "Bruno Leuschner (Politiker)",
+          "wikidata": "Q993479"
+        },
+        {
+          "titel": "Gewerkschaft",
+          "beschriftung": "Gewerkschaft",
+          "haupt": false,
+          "artikel": "Gewerkschaft",
+          "wikidata": "Q178790"
+        },
+        {
+          "titel": "Widerstandskämpfer",
+          "beschriftung": "Widerstandskämpfer",
+          "haupt": false,
+          "artikel": "Widerstandskämpfer",
+          "wikidata": "Q1397808"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (XVI)",
+      "bild_beschreibung": "Erich Weinert (1890–1953), Schriftsteller",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erich Weinert",
+          "beschriftung": "Erich Weinert",
+          "haupt": true,
+          "artikel": "Erich Weinert",
+          "wikidata": "Q62115"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3302",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Posthausschilder",
+      "bild_beschreibung": "Fürstliche Thurn- und Taxissche Lehnspost-Expedition des Fürstentums Schwarzburg-Rudolstadt, Blankenburg",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thurn-und-Taxis-Post",
+          "beschriftung": "Thurn- und Taxissche Lehnspost",
+          "haupt": true,
+          "artikel": "Thurn-und-Taxis-Post",
+          "wikidata": "Q829760"
+        },
+        {
+          "titel": "Schwarzburg-Rudolstadt",
+          "beschriftung": "Schwarzburg-Rudolstadt",
+          "haupt": false,
+          "artikel": "Schwarzburg-Rudolstadt",
+          "wikidata": "Q695316"
+        },
+        {
+          "titel": "Bad Blankenburg",
+          "beschriftung": "Blankenburg",
+          "haupt": false,
+          "artikel": "Bad Blankenburg",
+          "wikidata": "Q518432"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3303",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Posthausschilder",
+      "bild_beschreibung": "Königlich-Sächsische Briefsammlung (um 1830)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Königreich Sachsen",
+          "beschriftung": "Königlich-Sächsische",
+          "haupt": true,
+          "artikel": "Königreich Sachsen",
+          "wikidata": "Q153015"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3304",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Posthausschilder",
+      "bild_beschreibung": "Kaiserliche Postagentur (um 1880)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Kaiserliche Postagentur",
+          "haupt": true,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3305",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Posthausschilder",
+      "bild_beschreibung": "Posthülfstelle des Landpostdienstes (um 1900)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthilfstelle",
+          "beschriftung": "Posthülfstelle",
+          "haupt": true,
+          "artikel": "Posthilfstelle",
+          "wikidata": "Q2106118"
+        },
+        {
+          "titel": "Landpost",
+          "beschriftung": "Landpost",
+          "haupt": false,
+          "artikel": "Landpost",
+          "wikidata": "Q1292155"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3306",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die folgenden vier Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:",
+      "bild_beschreibung": "Fürstliche Thurn- und Taxissche Lehnspost-Expedition des Fürstentums Schwarzburg-Rudolstadt, Blankenburg",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thurn-und-Taxis-Post",
+          "beschriftung": "Thurn- und Taxissche Lehnspost",
+          "haupt": true,
+          "artikel": "Thurn-und-Taxis-Post",
+          "wikidata": "Q829760"
+        },
+        {
+          "titel": "Schwarzburg-Rudolstadt",
+          "beschriftung": "Schwarzburg-Rudolstadt",
+          "haupt": false,
+          "artikel": "Schwarzburg-Rudolstadt",
+          "wikidata": "Q695316"
+        },
+        {
+          "titel": "Bad Blankenburg",
+          "beschriftung": "Blankenburg",
+          "haupt": false,
+          "artikel": "Bad Blankenburg",
+          "wikidata": "Q518432"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3307",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die folgenden vier Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:",
+      "bild_beschreibung": "Königlich-Sächsische Briefsammlung (um 1830)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Königreich Sachsen",
+          "beschriftung": "Königlich-Sächsische",
+          "haupt": true,
+          "artikel": "Königreich Sachsen",
+          "wikidata": "Q153015"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die folgenden vier Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:",
+      "bild_beschreibung": "Kaiserliche Postagentur (um 1880)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Kaiserliche Postagentur",
+          "haupt": true,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-06",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die folgenden vier Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:",
+      "bild_beschreibung": "Posthülfstelle des Landpostdienstes (um 1900)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthilfstelle",
+          "beschriftung": "Posthülfstelle",
+          "haupt": true,
+          "artikel": "Posthilfstelle",
+          "wikidata": "Q2106118"
+        },
+        {
+          "titel": "Landpost",
+          "beschriftung": "Landpost",
+          "haupt": false,
+          "artikel": "Landpost",
+          "wikidata": "Q1292155"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von August Bebel",
+      "bild_beschreibung": "",
+      "entwerfer": "Kraus",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": true,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Flugmodelle, Europäische Luftpostausstellung „Lilienthal '91“",
+      "bild_beschreibung": "Entwurf eines Schwingflügel-Flugzeugs von Leonardo da Vinci",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ornithopter",
+          "beschriftung": "Schwingflügel-Flugzeugs",
+          "haupt": true,
+          "artikel": "Ornithopter",
+          "wikidata": "Q667431"
+        },
+        {
+          "titel": "Leonardo da Vinci",
+          "beschriftung": "Leonardo da Vinci",
+          "haupt": false,
+          "artikel": "Leonardo da Vinci",
+          "wikidata": "Q762"
+        },
+        {
+          "titel": "Flugmodell",
+          "beschriftung": "Flugmodell",
+          "haupt": false,
+          "artikel": "Flugmodell",
+          "wikidata": "Q2475583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3312",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-20",
+      "wert": "35+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Flugmodelle, Europäische Luftpostausstellung „Lilienthal '91“",
+      "bild_beschreibung": "Entwurf eines Schwingflügel-Flugzeugs von Melchior Bauer",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Melchior Bauer",
+          "beschriftung": "Melchior Bauer",
+          "haupt": true,
+          "artikel": "Melchior Bauer",
+          "wikidata": "Q105510"
+        },
+        {
+          "titel": "Flugmodell",
+          "beschriftung": "Flugmodell",
+          "haupt": false,
+          "artikel": "Flugmodell",
+          "wikidata": "Q2475583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3313",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Flugmodelle, Europäische Luftpostausstellung „Lilienthal '91“",
+      "bild_beschreibung": "Schwingflügel-Flugzeug von Albrecht Ludwig Berblinger",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrecht Ludwig Berblinger",
+          "beschriftung": "Albrecht Ludwig Berblinger",
+          "haupt": true,
+          "artikel": "Albrecht Ludwig Berblinger",
+          "wikidata": "Q45440"
+        },
+        {
+          "titel": "Flugmodell",
+          "beschriftung": "Flugmodell",
+          "haupt": false,
+          "artikel": "Flugmodell",
+          "wikidata": "Q2475583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3314",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-20",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Flugmodelle, Europäische Luftpostausstellung „Lilienthal '91“",
+      "bild_beschreibung": "Normal-Segelapparat von Otto Lilienthal",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Otto Lilienthal",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Flugmodell",
+          "beschriftung": "Flugmodell",
+          "haupt": false,
+          "artikel": "Flugmodell",
+          "wikidata": "Q2475583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3315",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-28",
+      "wert": "35+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wir sind das Volk (siehe Montagsdemonstrationen 1989/1990 in der DDR) Nikolaikirche Leipzig, Demonstranten, Stadtwappen",
+      "bild_beschreibung": "",
+      "entwerfer": "Grit Fiedler (Idee: Köhler)",
+      "auflage": 7200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wir sind das Volk",
+          "beschriftung": "Wir sind das Volk",
+          "haupt": true,
+          "artikel": "Wir sind das Volk",
+          "wikidata": "Q1235544"
+        },
+        {
+          "titel": "Montagsdemonstrationen 1989/1990 in der DDR",
+          "beschriftung": "Montagsdemonstrationen 1989/1990 in der DDR",
+          "haupt": false,
+          "artikel": "Montagsdemonstrationen 1989/1990 in der DDR",
+          "wikidata": "Q263047"
+        },
+        {
+          "titel": "Nikolaikirche (Leipzig)",
+          "beschriftung": "Nikolaikirche Leipzig",
+          "haupt": false,
+          "artikel": "Nikolaikirche (Leipzig)",
+          "wikidata": "Q694286"
+        },
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstranten",
+          "haupt": false,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-03-06",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Siegel des Messeprivilegs von 1268",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Siegel",
+          "beschriftung": "Siegel",
+          "haupt": true,
+          "artikel": "Siegel",
+          "wikidata": "Q162919"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-03-06",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Siegel des Messeprivilegs von 1497",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 2300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-03-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Museum für Deutsche Geschichte im Zeughaus Berlin",
+      "bild_beschreibung": "Kopf eines sterbenden Kriegers, Schlusssteinrelief einer Fensterwölbung am Zeughaus von Andreas Schlüter",
+      "entwerfer": "Ebert",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeughaus Berlin",
+          "beschriftung": "Kopf eines sterbenden Kriegers",
+          "haupt": true,
+          "artikel": "Zeughaus (Berlin)",
+          "wikidata": "Q196970"
+        },
+        {
+          "titel": "Schlussstein",
+          "beschriftung": "Schlussstein",
+          "haupt": false,
+          "artikel": "Schlussstein",
+          "wikidata": "Q220919"
+        },
+        {
+          "titel": "Andreas Schlüter (Architekt)",
+          "beschriftung": "Andreas Schlüter",
+          "haupt": false,
+          "artikel": "Andreas Schlüter (Architekt)",
+          "wikidata": "Q500465"
+        },
+        {
+          "titel": "Deutsches Historisches Museum",
+          "beschriftung": "Museum für Deutsche Geschichte",
+          "haupt": false,
+          "artikel": "Deutsches Historisches Museum",
+          "wikidata": "Q688335"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-03-06",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Museum für Deutsche Geschichte im Zeughaus Berlin",
+      "bild_beschreibung": "Kopf eines sterbenden Kriegers, Schlusssteinrelief einer Fensterwölbung am Zeughaus von Andreas Schlüter",
+      "entwerfer": "Ebert",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Historisches Museum",
+          "beschriftung": "Museum für Deutsche Geschichte",
+          "haupt": true,
+          "artikel": "Deutsches Historisches Museum",
+          "wikidata": "Q688335"
+        },
+        {
+          "titel": "Zeughaus Berlin",
+          "beschriftung": "Zeughaus Berlin",
+          "haupt": false,
+          "artikel": "Zeughaus (Berlin)",
+          "wikidata": "Q196970"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-03-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (XII)",
+      "bild_beschreibung": "Friedrich Adolph Wilhelm Diesterweg (1790–1866), Pädagoge",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolph Diesterweg",
+          "beschriftung": "Friedrich Adolph Wilhelm Diesterweg",
+          "haupt": true,
+          "artikel": "Adolph Diesterweg",
+          "wikidata": "Q77434"
+        },
+        {
+          "titel": "Pädagoge",
+          "beschriftung": "Pädagoge",
+          "haupt": false,
+          "artikel": "Pädagoge",
+          "wikidata": "Q1231865"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-03-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (XII)",
+      "bild_beschreibung": "Kurt Tucholsky (1890–1935), Schriftsteller",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurt Tucholsky",
+          "beschriftung": "Kurt Tucholsky",
+          "haupt": true,
+          "artikel": "Kurt Tucholsky",
+          "wikidata": "Q57386"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3322",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Tag der Arbeit",
+      "bild_beschreibung": "Historisches Mai-Schmuckblatt (um 1890)",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1990, MiNr 3322.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erster Mai",
+          "beschriftung": "Tag der Arbeit",
+          "haupt": true,
+          "artikel": "Erster Mai",
+          "wikidata": "Q47499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3323",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Tag der Arbeit",
+      "bild_beschreibung": "Rote Nelke",
+      "entwerfer": "Ekkehart Haller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erster Mai",
+          "beschriftung": "Tag der Arbeit",
+          "haupt": true,
+          "artikel": "Erster Mai",
+          "wikidata": "Q47499"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3324",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Museum für Naturkunde der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Dicraeosaurus hansemanni",
+      "entwerfer": "Ulrike Lange",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Museum für Naturkunde (Berlin)",
+          "beschriftung": "Museum für Naturkunde",
+          "haupt": true,
+          "artikel": "Museum für Naturkunde (Berlin)",
+          "wikidata": "Q233098"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Dicraeosaurus",
+          "beschriftung": "Dicraeosaurus hansemanni",
+          "haupt": false,
+          "artikel": "Dicraeosaurus",
+          "wikidata": "Q131410"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Diese Marke wurde auch als Kleinbogen ausgegeben:",
+      "bild_beschreibung": "Kentrurosaurus aethiopicus",
+      "entwerfer": "Ulrike Lange",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kentrosaurus",
+          "beschriftung": "Kentrurosaurus aethiopicus",
+          "haupt": true,
+          "artikel": "Kentrosaurus",
+          "wikidata": "Q131094"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-17",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Diese Marke wurde auch als Kleinbogen ausgegeben:",
+      "bild_beschreibung": "Dysalotosaurus lettow-vorbecki",
+      "entwerfer": "Ulrike Lange",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dryosaurus",
+          "beschriftung": "Dysalotosaurus lettow-vorbecki",
+          "haupt": true,
+          "artikel": "Dryosaurus",
+          "wikidata": "Q131085"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-17",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Diese Marke wurde auch als Kleinbogen ausgegeben:",
+      "bild_beschreibung": "Brachiosaurus brancai",
+      "entwerfer": "Ulrike Lange",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brachiosaurus",
+          "beschriftung": "Brachiosaurus brancai",
+          "haupt": true,
+          "artikel": "Brachiosaurus",
+          "wikidata": "Q14397"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-17",
+      "wert": "85",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Diese Marke wurde auch als Kleinbogen ausgegeben:",
+      "bild_beschreibung": "Schädel des Brachiosaurus",
+      "entwerfer": "Ulrike Lange",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schädel",
+          "beschriftung": "Schädel",
+          "haupt": true,
+          "artikel": "Schädel",
+          "wikidata": "Q13147"
+        },
+        {
+          "titel": "Brachiosaurus",
+          "beschriftung": "Brachiosaurus",
+          "haupt": false,
+          "artikel": "Brachiosaurus",
+          "wikidata": "Q14397"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Briefmarken",
+      "bild_beschreibung": "Marke Großbritannien, Mi.-Nr. 1",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "One Penny Black",
+          "beschriftung": "Marke Großbritannien",
+          "haupt": true,
+          "artikel": "One Penny Black",
+          "wikidata": "Q107701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-08",
+      "wert": "35+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Briefmarken",
+      "bild_beschreibung": "Marke Sachsen, Mi.-Nr. 1",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sachsendreier",
+          "beschriftung": "Marke Sachsen",
+          "haupt": true,
+          "artikel": "Sachsendreier",
+          "wikidata": "Q317127"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3331",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-08",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Briefmarken",
+      "bild_beschreibung": "Die erste Briefmarke der DDR, Mi.-Nr. 242",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1949 der Deutschen Post der DDR",
+          "beschriftung": "erste Briefmarke der DDR",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1949 der Deutschen Post der DDR",
+          "wikidata": "Q914371"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Internationale Fernmeldeunion (UIT)",
+      "bild_beschreibung": "Typendruck-Telegraph (1855) von David Edward Hughes",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 24000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Telegrafie",
+          "beschriftung": "Telegraph",
+          "haupt": true,
+          "artikel": "Telegrafie",
+          "wikidata": "Q721587"
+        },
+        {
+          "titel": "David Edward Hughes",
+          "beschriftung": "David Edward Hughes",
+          "haupt": false,
+          "artikel": "David Edward Hughes",
+          "wikidata": "Q366078"
+        },
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": false,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Internationale Fernmeldeunion (UIT)",
+      "bild_beschreibung": "Verteilergestänge für Telefonleitungen am Postamt Köpenick",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Telefon",
+          "beschriftung": "Telefon",
+          "haupt": true,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Berlin-Köpenick",
+          "beschriftung": "Köpenick",
+          "haupt": false,
+          "artikel": "Berlin-Köpenick",
+          "wikidata": "Q521521"
+        },
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": false,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Internationale Fernmeldeunion (UIT)",
+      "bild_beschreibung": "Fernseh- und UKW-Turm und Senderegie (Rundfunk)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Fernsehturm",
+          "beschriftung": "Fernseh- und UKW-Turm",
+          "haupt": true,
+          "artikel": "Berliner Fernsehturm",
+          "wikidata": "Q151356"
+        },
+        {
+          "titel": "Rundfunk",
+          "beschriftung": "Rundfunk",
+          "haupt": false,
+          "artikel": "Rundfunk",
+          "wikidata": "Q15078788"
+        },
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": false,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Internationale Fernmeldeunion (UIT)",
+      "bild_beschreibung": "Nachrichtensatellit vom Typ Molnija vor Erdkugel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kommunikationssatellit",
+          "beschriftung": "Nachrichtensatellit",
+          "haupt": true,
+          "artikel": "Kommunikationssatellit",
+          "wikidata": "Q149918"
+        },
+        {
+          "titel": "Molnija (Satellit)",
+          "beschriftung": "Molnija",
+          "haupt": false,
+          "artikel": "Molnija (Satellit)",
+          "wikidata": "Q593283"
+        },
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": false,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Diese Marke erschien als Briefmarkenblock:",
+      "bild_beschreibung": "Philipp Reis, Erfinder des Telefons",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Philipp Reis",
+          "beschriftung": "Philipp Reis",
+          "haupt": false,
+          "artikel": "Philipp Reis",
+          "wikidata": "Q77124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-15",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "70. Geburtstag von Papst Johannes Paul II.",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes Paul II.",
+          "beschriftung": "Johannes Paul II.",
+          "haupt": true,
+          "artikel": "Johannes Paul II.",
+          "wikidata": "Q989"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3338",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "11. Briefmarkenausstellung der Jugend, Halle Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:",
+      "bild_beschreibung": "Halle, Anfang 18. Jahrhundert",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "11. Briefmarkenausstellung der Jugend, Halle Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:",
+      "bild_beschreibung": "Historische und moderne Gebäude in Halle",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": true,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Ordensregeln der Ritter des Hospitals St. Marien des deutschen Hauses in Jerusalem (1264)",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Orden",
+          "beschriftung": "Ritter des Hospitals St. Marien des deutschen Hauses in Jerusalem",
+          "haupt": true,
+          "artikel": "Deutscher Orden",
+          "wikidata": "Q48189"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-19",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Rudimentum novitiorum, Lübeck (1475)",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lucas Brandis",
+          "beschriftung": "Rudimentum novitiorum",
+          "haupt": true,
+          "artikel": "Lucas Brandis",
+          "wikidata": "Q1873044"
+        },
+        {
+          "titel": "Lübeck",
+          "beschriftung": "Lübeck",
+          "haupt": false,
+          "artikel": "Lübeck",
+          "wikidata": "Q2843"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-19",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Nizami, Chosrou wa Scherin, Persien (18. Jahrhundert)",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nezāmi",
+          "beschriftung": "Nizami",
+          "haupt": true,
+          "artikel": "Nezami",
+          "wikidata": "Q234908"
+        },
+        {
+          "titel": "Chosrau und Schirin",
+          "beschriftung": "Chosrou wa Scherin",
+          "haupt": false,
+          "artikel": "Chosrau und Schirin",
+          "wikidata": "Q61076"
+        },
+        {
+          "titel": "Iran",
+          "beschriftung": "Persien",
+          "haupt": false,
+          "artikel": "Iran",
+          "wikidata": "Q794"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3343",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-06-19",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kostbarkeiten in Bibliotheken der DDR",
+      "bild_beschreibung": "Einband aus der Musikbibliothek der Prinzessin Anna Amalia von Preußen, (18. Jahrhundert)",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Amalie von Preußen",
+          "beschriftung": "Anna Amalia von Preußen",
+          "haupt": true,
+          "artikel": "Amalie von Preußen",
+          "wikidata": "Q237754"
+        },
+        {
+          "titel": "Bibliothek",
+          "beschriftung": "Bibliothek",
+          "haupt": false,
+          "artikel": "Bibliothek",
+          "wikidata": "Q7075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3353",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-07-24",
+      "wert": "30+5 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr der Alphabetisierung",
+      "bild_beschreibung": "Buchstaben verschiedener Schriften",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Buchstabe",
+          "beschriftung": "Buchstabe",
+          "haupt": true,
+          "artikel": "Buchstabe",
+          "wikidata": "Q9788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3354",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-08-28",
+      "wert": "30 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Internationale Postverbindungen in Europa (II)",
+      "bild_beschreibung": "Briefbote (Kartenspiel aus dem 15. Jahrhundert), Briefbote (um 1486)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bote",
+          "beschriftung": "Briefbote",
+          "haupt": true,
+          "artikel": "Bote",
+          "wikidata": "Q848466"
+        },
+        {
+          "titel": "Kartenspiel",
+          "beschriftung": "Kartenspiel",
+          "haupt": false,
+          "artikel": "Kartenspiel",
+          "wikidata": "Q142714"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3355",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-08-28",
+      "wert": "50 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Internationale Postverbindungen in Europa (II)",
+      "bild_beschreibung": "„Der kleine Postreiter“, Stich von Albrecht Dürer (um 1590)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stich und Schnitt",
+          "beschriftung": "Stich",
+          "haupt": true,
+          "artikel": "Stich und Schnitt",
+          "wikidata": "Q8418372"
+        },
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": false,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3356",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-08-28",
+      "wert": "70 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Internationale Postverbindungen in Europa (II)",
+      "bild_beschreibung": "Kutschwagen (um 1595), Postwagen (1750)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kutsche",
+          "beschriftung": "Kutschwagen",
+          "haupt": true,
+          "artikel": "Kutsche",
+          "wikidata": "Q4655519"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3357",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-08-28",
+      "wert": "100 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Internationale Postverbindungen in Europa (II)",
+      "bild_beschreibung": "Bahnpostwagen (1872), Bahnpostwagen (um 1900)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnpost",
+          "beschriftung": "Bahnpost",
+          "haupt": true,
+          "artikel": "Bahnpost",
+          "wikidata": "Q134011864"
+        },
+        {
+          "titel": "Europa",
+          "beschriftung": "Europa",
+          "haupt": false,
+          "artikel": "Europa",
+          "wikidata": "Q46"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3358",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-09-18",
+      "wert": "30 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Wiederaufbau der Neuen Synagoge Berlin",
+      "bild_beschreibung": "Louis Lewandowski, Komponist",
+      "entwerfer": "Gudrun Lenz",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1990, MiNr 3358.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Louis Lewandowski",
+          "beschriftung": "Louis Lewandowski",
+          "haupt": true,
+          "artikel": "Louis Lewandowski",
+          "wikidata": "Q565666"
+        },
+        {
+          "titel": "Neue Synagoge (Berlin)",
+          "beschriftung": "Neuen Synagoge Berlin",
+          "haupt": false,
+          "artikel": "Neue Synagoge (Berlin)",
+          "wikidata": "Q246474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3359",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-09-18",
+      "wert": "50+15 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Wiederaufbau der Neuen Synagoge Berlin",
+      "bild_beschreibung": "Neue Synagoge Berlin (Centrum Judaicum)",
+      "entwerfer": "Gudrun Lenz",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1990, MiNr 3359.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neue Synagoge (Berlin)",
+          "beschriftung": "Neuen Synagoge Berlin",
+          "haupt": true,
+          "artikel": "Neue Synagoge (Berlin)",
+          "wikidata": "Q246474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3360",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-10-02",
+      "wert": "30 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Kongreß der Internationalen Astronautischen Föderation (IAF), Dresden",
+      "bild_beschreibung": "Bauwerke in Dresden",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "International Astronautical Federation",
+          "beschriftung": "Internationalen Astronautischen Föderation",
+          "haupt": true,
+          "artikel": "International Astronautical Federation",
+          "wikidata": "Q1634011"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3361",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-10-02",
+      "wert": "50 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Kongreß der Internationalen Astronautischen Föderation (IAF), Dresden",
+      "bild_beschreibung": "Erde",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erde",
+          "beschriftung": "Erde",
+          "haupt": true,
+          "artikel": "Erde",
+          "wikidata": "Q2"
+        },
+        {
+          "titel": "International Astronautical Federation",
+          "beschriftung": "Internationalen Astronautischen Föderation",
+          "haupt": false,
+          "artikel": "International Astronautical Federation",
+          "wikidata": "Q1634011"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3362",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-10-02",
+      "wert": "70 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Kongreß der Internationalen Astronautischen Föderation (IAF), Dresden",
+      "bild_beschreibung": "Mond",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mond",
+          "beschriftung": "Mond",
+          "haupt": true,
+          "artikel": "Mond",
+          "wikidata": "Q405"
+        },
+        {
+          "titel": "International Astronautical Federation",
+          "beschriftung": "Internationalen Astronautischen Föderation",
+          "haupt": false,
+          "artikel": "International Astronautical Federation",
+          "wikidata": "Q1634011"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3363",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-10-02",
+      "wert": "100 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Kongreß der Internationalen Astronautischen Föderation (IAF), Dresden",
+      "bild_beschreibung": "Mars",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mars (Planet)",
+          "beschriftung": "Mars",
+          "haupt": true,
+          "artikel": "Mars (Planet)",
+          "wikidata": "Q111"
+        },
+        {
+          "titel": "International Astronautical Federation",
+          "beschriftung": "Internationalen Astronautischen Föderation",
+          "haupt": false,
+          "artikel": "International Astronautical Federation",
+          "wikidata": "Q1634011"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3364",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-10-02",
+      "wert": "30 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Heinrich Schliemann",
+      "bild_beschreibung": "Doppelhenkelbecher, Troja",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Troja",
+          "beschriftung": "Troja",
+          "haupt": true,
+          "artikel": "Troja",
+          "wikidata": "Q22647"
+        },
+        {
+          "titel": "Heinrich Schliemann",
+          "beschriftung": "Heinrich Schliemann",
+          "haupt": false,
+          "artikel": "Heinrich Schliemann",
+          "wikidata": "Q57106"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3365",
+      "block": null,
+      "art": "Nach dem Vollzug der Währungsunion mit der BRD am 1. Juli 1990 wurden die folgenden Marken in der Währung Deutsche Mark und nicht in Mark ausgegeben",
+      "ausgabetag": "1990-10-02",
+      "wert": "50 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Heinrich Schliemann",
+      "bild_beschreibung": "Doppelgefäß, Troja",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Schliemann",
+          "beschriftung": "Heinrich Schliemann",
+          "haupt": true,
+          "artikel": "Heinrich Schliemann",
+          "wikidata": "Q57106"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3344",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "10 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Albrechtsburg und Dom, Meißen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 170000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrechtsburg",
+          "beschriftung": "Albrechtsburg",
+          "haupt": true,
+          "artikel": "Albrechtsburg",
+          "wikidata": "Q679009"
+        },
+        {
+          "titel": "Meißner Dom",
+          "beschriftung": "Dom",
+          "haupt": false,
+          "artikel": "Meißner Dom",
+          "wikidata": "Q322853"
+        },
+        {
+          "titel": "Meißen",
+          "beschriftung": "Meißen",
+          "haupt": false,
+          "artikel": "Meißen",
+          "wikidata": "Q8738"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3345",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "30 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Goethe-Schiller-Denkmal, Weimar",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 283640000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goethe-Schiller-Denkmal",
+          "beschriftung": "Goethe-Schiller-Denkmal",
+          "haupt": true,
+          "artikel": "Goethe-Schiller-Denkmal",
+          "wikidata": "Q1526907"
+        },
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": false,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3346",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "50 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Brandenburger Tor, Berlin",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 352240000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3347",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "60 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Kyffhäuser-Denkmal",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 55000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kyffhäuserdenkmal",
+          "beschriftung": "Kyffhäuser-Denkmal",
+          "haupt": true,
+          "artikel": "Kyffhäuserdenkmal",
+          "wikidata": "Q573639"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3348",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "70 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Semper-Oper, Dresden",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 75000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Semperoper",
+          "beschriftung": "Semper-Oper",
+          "haupt": true,
+          "artikel": "Semperoper",
+          "wikidata": "Q127097"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3349",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "80 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Sanssouci, Potsdam",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 50500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sanssouci",
+          "beschriftung": "Sanssouci",
+          "haupt": true,
+          "artikel": "Schloss Sanssouci",
+          "wikidata": "Q151330"
+        },
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3350",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "100 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Wartburg, Eisenach",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 45000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburg",
+          "beschriftung": "Wartburg",
+          "haupt": true,
+          "artikel": "Wartburg",
+          "wikidata": "Q151545"
+        },
+        {
+          "titel": "Eisenach",
+          "beschriftung": "Eisenach",
+          "haupt": false,
+          "artikel": "Eisenach",
+          "wikidata": "Q7070"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3351",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "200 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Dom, Magdeburg",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 80000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magdeburger Dom",
+          "beschriftung": "Dom",
+          "haupt": true,
+          "artikel": "Magdeburger Dom",
+          "wikidata": "Q668341"
+        },
+        {
+          "titel": "Magdeburg",
+          "beschriftung": "Magdeburg",
+          "haupt": false,
+          "artikel": "Magdeburg",
+          "wikidata": "Q1733"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3352",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-07-02",
+      "wert": "500 (DM)",
+      "waehrung": "DM",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bauwerke und Denkmäler",
+      "bild_beschreibung": "Schloß, Schwerin",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 25500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schweriner Schloss",
+          "beschriftung": "Schloß",
+          "haupt": true,
+          "artikel": "Schweriner Schloss",
+          "wikidata": "Q573656"
+        },
+        {
+          "titel": "Schwerin",
+          "beschriftung": "Schwerin",
+          "haupt": false,
+          "artikel": "Schwerin",
+          "wikidata": "Q1709"
+        },
+        {
+          "titel": "Bauwerke und Denkmäler",
+          "beschriftung": "Bauwerke und Denkmäler",
+          "haupt": false,
+          "artikel": "Bauwerke und Denkmäler",
+          "wikidata": "Q811956"
+        }
+      ]
+    }
+  ]
+}

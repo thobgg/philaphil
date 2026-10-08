@@ -1,0 +1,192 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1960,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1960 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1960_der_Deutschen_Bundespost_Berlin",
+    "revision": 251519872,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 191,
+    "mi_nr_bis": 196,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 6,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "191",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-05-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "50. Todestag von Robert Koch (1843–1910)",
+      "bild_beschreibung": "Mediziner und Mikrobiologe, der 1905 den Nobelpreis für Physiologie oder Medizin erhielt, neben einem Mikroskop",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1960 191 Robert Koch.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Robert Koch",
+          "beschriftung": "Robert Koch",
+          "haupt": true,
+          "artikel": "Robert Koch",
+          "wikidata": "Q37193"
+        },
+        {
+          "titel": "Medizin",
+          "beschriftung": "Medizin",
+          "haupt": false,
+          "artikel": "Medizin",
+          "wikidata": "Q11190"
+        },
+        {
+          "titel": "Mikrobiologie",
+          "beschriftung": "Mikrobiologe",
+          "haupt": false,
+          "artikel": "Mikrobiologie",
+          "wikidata": "Q7193"
+        },
+        {
+          "titel": "Nobelpreis für Physiologie oder Medizin",
+          "beschriftung": "Nobelpreis für Physiologie oder Medizin",
+          "haupt": false,
+          "artikel": "Nobelpreis für Physiologie oder Medizin",
+          "wikidata": "Q80061"
+        },
+        {
+          "titel": "Mikroskop",
+          "beschriftung": "Mikroskop",
+          "haupt": false,
+          "artikel": "Mikroskop",
+          "wikidata": "Q196538"
+        }
+      ]
+    },
+    {
+      "mi_nr": "192",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "2. Todestag von Walther Schreiber (1884–1958)",
+      "bild_beschreibung": "Regierender Bürgermeister von Berlin von September 1953 bis Dezember 1954",
+      "entwerfer": "Ernst Finke",
+      "auflage": 2750000,
+      "commons_datei": "DBPB 1960 192 Walther Schreiber.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Walther Schreiber",
+          "beschriftung": "Walther Schreiber",
+          "haupt": true,
+          "artikel": "Walther Schreiber",
+          "wikidata": "Q69232"
+        },
+        {
+          "titel": "Regierender Bürgermeister von Berlin",
+          "beschriftung": "Regierender Bürgermeister von Berlin",
+          "haupt": false,
+          "artikel": "Regierender Bürgermeister von Berlin",
+          "wikidata": "Q641159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "193",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-15",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Ferienplätze für Berliner Kinder durch das Hilfswerk Berlin",
+      "bild_beschreibung": "Junge am Fenster in einem Berliner Hinterhof",
+      "entwerfer": "Lothar Wüst",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hof (Architektur)",
+          "beschriftung": "Hinterhof",
+          "haupt": true,
+          "artikel": "Hof (Architektur)",
+          "wikidata": "Q309250"
+        }
+      ]
+    },
+    {
+      "mi_nr": "194",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-15",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Ferienplätze für Berliner Kinder durch das Hilfswerk Berlin",
+      "bild_beschreibung": "Mädchen im Straßenverkehr vor einem Doppeldeckerbus der Berliner Verkehrsbetriebe",
+      "entwerfer": "Lothar Wüst",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Doppeldeckerbus",
+          "beschriftung": "Doppeldeckerbus",
+          "haupt": true,
+          "artikel": "Doppeldeckerbus",
+          "wikidata": "Q854585"
+        },
+        {
+          "titel": "Busverkehr in Berlin",
+          "beschriftung": "Berliner Verkehrsbetriebe",
+          "haupt": false,
+          "artikel": "Busverkehr in Berlin",
+          "wikidata": "Q99676"
+        }
+      ]
+    },
+    {
+      "mi_nr": "195",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-15",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Ferienplätze für Berliner Kinder durch das Hilfswerk Berlin",
+      "bild_beschreibung": "Mädchen im Gebirge",
+      "entwerfer": "Lothar Wüst",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "196",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Ferienplätze für Berliner Kinder durch das Hilfswerk Berlin",
+      "bild_beschreibung": "Junge am Meer",
+      "entwerfer": "Lothar Wüst",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

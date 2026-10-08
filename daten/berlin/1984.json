@@ -1,0 +1,773 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1984,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1984 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1984_der_Deutschen_Bundespost_Berlin",
+    "revision": 259739932,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 708,
+    "mi_nr_bis": 729,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 22,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "708",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstschätze in Berliner Museen",
+      "bild_beschreibung": "Königin Kleopatra VII.; Antikenmuseum",
+      "entwerfer": "Bernd Görs",
+      "auflage": 14525000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kleopatra VII.",
+          "beschriftung": "Kleopatra VII.",
+          "haupt": true,
+          "artikel": "Kleopatra VII.",
+          "wikidata": "Q635"
+        },
+        {
+          "titel": "Museen in Berlin",
+          "beschriftung": "Berliner Museen",
+          "haupt": false,
+          "artikel": "Museen in Berlin",
+          "wikidata": "Q84071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "709",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstschätze in Berliner Museen",
+      "bild_beschreibung": "Ehepaar aus der Nekropole von Giza; Ägyptisches Museum",
+      "entwerfer": "Bernd Görs",
+      "auflage": 10092000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nekropole",
+          "beschriftung": "Nekropole",
+          "haupt": true,
+          "artikel": "Nekropole",
+          "wikidata": "Q200141"
+        },
+        {
+          "titel": "Gizeh",
+          "beschriftung": "Giza",
+          "haupt": false,
+          "artikel": "Gizeh",
+          "wikidata": "Q81788"
+        },
+        {
+          "titel": "Ägyptisches Museum Berlin",
+          "beschriftung": "Ägyptisches Museum",
+          "haupt": false,
+          "artikel": "Ägyptisches Museum Berlin",
+          "wikidata": "Q254156"
+        },
+        {
+          "titel": "Museen in Berlin",
+          "beschriftung": "Berliner Museen",
+          "haupt": false,
+          "artikel": "Museen in Berlin",
+          "wikidata": "Q84071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "710",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstschätze in Berliner Museen",
+      "bild_beschreibung": "Göttin mit dem Perlenturban, Monte-Albán-Kultur in Südmexiko, etwa 400 n. Chr.; Museum für Völkerkunde",
+      "entwerfer": "Bernd Görs",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Monte Albán",
+          "beschriftung": "Monte-Albán",
+          "haupt": true,
+          "artikel": "Monte Albán",
+          "wikidata": "Q464899"
+        },
+        {
+          "titel": "Museum für Völkerkunde Berlin",
+          "beschriftung": "Museum für Völkerkunde",
+          "haupt": false,
+          "artikel": "Ethnologisches Museum (Berlin)",
+          "wikidata": "Q688353"
+        },
+        {
+          "titel": "Museen in Berlin",
+          "beschriftung": "Berliner Museen",
+          "haupt": false,
+          "artikel": "Museen in Berlin",
+          "wikidata": "Q84071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "711",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstschätze in Berliner Museen",
+      "bild_beschreibung": "Majolika-Schale mit dem Bildnis der Deidamia von Nicolò da Urbino, um 1525; Kunstgewerbemuseum",
+      "entwerfer": "Bernd Görs",
+      "auflage": 8092000,
+      "commons_datei": "Stamps of Germany (Berlin) 1984, MiNr 711.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Majolika",
+          "beschriftung": "Majolika",
+          "haupt": true,
+          "artikel": "Majolika",
+          "wikidata": "Q622753"
+        },
+        {
+          "titel": "Deidameia (Tochter des Lykomedes)",
+          "beschriftung": "Deidamia",
+          "haupt": false,
+          "artikel": "Deidameia (Tochter des Lykomedes)",
+          "wikidata": "Q431387"
+        },
+        {
+          "titel": "Kunstgewerbemuseum Berlin",
+          "beschriftung": "Kunstgewerbemuseum",
+          "haupt": false,
+          "artikel": "Kunstgewerbemuseum Berlin",
+          "wikidata": "Q477503"
+        },
+        {
+          "titel": "Museen in Berlin",
+          "beschriftung": "Berliner Museen",
+          "haupt": false,
+          "artikel": "Museen in Berlin",
+          "wikidata": "Q84071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "712",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1984: Bestäuberinsekten",
+      "bild_beschreibung": "Gebänderter Pinselkäfer Trichius fasciatus auf ; Gemeiner Pastinak Pastinaca sativa",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 2619000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gebänderter Pinselkäfer",
+          "beschriftung": "Gebänderter Pinselkäfer",
+          "haupt": true,
+          "artikel": "Gebänderter Pinselkäfer",
+          "wikidata": "Q1387496"
+        },
+        {
+          "titel": "Pastinaken",
+          "beschriftung": "Gemeiner Pastinak",
+          "haupt": false,
+          "artikel": "Pastinaken",
+          "wikidata": "Q1479657"
+        },
+        {
+          "titel": "Bestäubung",
+          "beschriftung": "Bestäuberinsekten",
+          "haupt": false,
+          "artikel": "Bestäubung",
+          "wikidata": "Q134624"
+        }
+      ]
+    },
+    {
+      "mi_nr": "713",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1984: Bestäuberinsekten",
+      "bild_beschreibung": "Esparsetten-Widderchen Zygaena carniolica auf ; Acker-Witwenblume Knautia arvensis",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 2646000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Esparsetten-Widderchen",
+          "beschriftung": "Esparsetten-Widderchen",
+          "haupt": true,
+          "artikel": "Esparsetten-Widderchen",
+          "wikidata": "Q997409"
+        },
+        {
+          "titel": "Acker-Witwenblume",
+          "beschriftung": "Acker-Witwenblume",
+          "haupt": false,
+          "artikel": "Acker-Witwenblume",
+          "wikidata": "Q27648"
+        },
+        {
+          "titel": "Bestäubung",
+          "beschriftung": "Bestäuberinsekten",
+          "haupt": false,
+          "artikel": "Bestäubung",
+          "wikidata": "Q134624"
+        }
+      ]
+    },
+    {
+      "mi_nr": "714",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1984: Bestäuberinsekten",
+      "bild_beschreibung": "Dunkle Erdhummel Bombus terrestris auf ; Weiß-Klee Trifolium repens",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 2647000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dunkle Erdhummel",
+          "beschriftung": "Dunkle Erdhummel",
+          "haupt": true,
+          "artikel": "Dunkle Erdhummel",
+          "wikidata": "Q752274"
+        },
+        {
+          "titel": "Weiß-Klee",
+          "beschriftung": "Weiß-Klee",
+          "haupt": false,
+          "artikel": "Weißklee",
+          "wikidata": "Q148675"
+        },
+        {
+          "titel": "Bestäubung",
+          "beschriftung": "Bestäuberinsekten",
+          "haupt": false,
+          "artikel": "Bestäubung",
+          "wikidata": "Q134624"
+        }
+      ]
+    },
+    {
+      "mi_nr": "715",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1984: Bestäuberinsekten",
+      "bild_beschreibung": "Schwebfliege Eristalis tenax auf ; Kohl-Gänsedistel Sonchus oleraceus",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 2637000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mistbiene",
+          "beschriftung": "Schwebfliege",
+          "haupt": true,
+          "artikel": "Mistbiene",
+          "wikidata": "Q1048880"
+        },
+        {
+          "titel": "Gemüse-Gänsedistel",
+          "beschriftung": "Kohl-Gänsedistel",
+          "haupt": false,
+          "artikel": "Gemüse-Gänsedistel",
+          "wikidata": "Q331676"
+        },
+        {
+          "titel": "Bestäubung",
+          "beschriftung": "Bestäuberinsekten",
+          "haupt": false,
+          "artikel": "Bestäubung",
+          "wikidata": "Q134624"
+        }
+      ]
+    },
+    {
+      "mi_nr": "716",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1984: Olympische Sommerspiele 1984",
+      "bild_beschreibung": "Hürdenlauf, Frauen",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 2502000,
+      "commons_datei": "Stamps of Germany (Berlin) 1984, MiNr 716.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hürdenlauf",
+          "beschriftung": "Hürdenlauf",
+          "haupt": true,
+          "artikel": "Hürdenlauf",
+          "wikidata": "Q537769"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1984",
+          "beschriftung": "Olympische Sommerspiele 1984",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1984",
+          "wikidata": "Q8456"
+        }
+      ]
+    },
+    {
+      "mi_nr": "717",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1984: Olympische Sommerspiele 1984",
+      "bild_beschreibung": "Straßenradfahren, Frauen",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1984, MiNr 717.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Sommerspiele 1984/Radsport",
+          "beschriftung": "Straßenradfahren",
+          "haupt": true,
+          "artikel": "Olympische Sommerspiele 1984/Radsport",
+          "wikidata": "Q338672"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1984",
+          "beschriftung": "Olympische Sommerspiele 1984",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1984",
+          "wikidata": "Q8456"
+        }
+      ]
+    },
+    {
+      "mi_nr": "718",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1984: Olympische Sommerspiele 1984",
+      "bild_beschreibung": "Viererkajak, Frauen",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1984, MiNr 718.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vierer-Kajak",
+          "beschriftung": "Viererkajak",
+          "haupt": true,
+          "artikel": "Vierer-Kajak",
+          "wikidata": "Q2523544"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1984",
+          "beschriftung": "Olympische Sommerspiele 1984",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1984",
+          "wikidata": "Q8456"
+        }
+      ]
+    },
+    {
+      "mi_nr": "719",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Dr. Erich Klausener",
+      "bild_beschreibung": "Emblem des 32. Katholikentages (Berlin, Hoppegarten) 1934",
+      "entwerfer": "Hans Joachim Fuchs",
+      "auflage": 6600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erich Klausener",
+          "beschriftung": "Erich Klausener",
+          "haupt": true,
+          "artikel": "Erich Klausener",
+          "wikidata": "Q64781"
+        }
+      ]
+    },
+    {
+      "mi_nr": "720",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Strom für Berlin",
+      "bild_beschreibung": "Allegorie von Karl Ludwig Sütterlin (1865–1917), Grafiker",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 10095000,
+      "commons_datei": "Stamps of Germany (Berlin) 1984, MiNr 720.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Elektrizität",
+          "beschriftung": "Strom",
+          "haupt": true,
+          "artikel": "Elektrizität",
+          "wikidata": "Q12725"
+        },
+        {
+          "titel": "Allegorie",
+          "beschriftung": "Allegorie",
+          "haupt": false,
+          "artikel": "Allegorie",
+          "wikidata": "Q18535"
+        },
+        {
+          "titel": "Ludwig Sütterlin (Grafiker)",
+          "beschriftung": "Karl Ludwig Sütterlin",
+          "haupt": false,
+          "artikel": "Ludwig Sütterlin (Grafiker)",
+          "wikidata": "Q68040"
+        },
+        {
+          "titel": "Grafiker",
+          "beschriftung": "Grafiker",
+          "haupt": false,
+          "artikel": "Grafiker",
+          "wikidata": "Q1925963"
+        }
+      ]
+    },
+    {
+      "mi_nr": "721",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Konferenz der europäischen Kulturminister",
+      "bild_beschreibung": "Konferenzemblem",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "722",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Alfred Brehm",
+      "bild_beschreibung": "Hintergrund ein Weißstorch Ciconia ciconia",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 9100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alfred Brehm",
+          "beschriftung": "Alfred Brehm",
+          "haupt": true,
+          "artikel": "Alfred Brehm",
+          "wikidata": "Q155112"
+        },
+        {
+          "titel": "Weißstorch",
+          "beschriftung": "Weißstorch",
+          "haupt": false,
+          "artikel": "Weißstorch",
+          "wikidata": "Q25352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "723",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Dr. Ernst Ludwig Heim",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Joachim Fuchs",
+      "auflage": 8590000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Ludwig Heim",
+          "beschriftung": "Ernst Ludwig Heim",
+          "haupt": true,
+          "artikel": "Ernst Ludwig Heim",
+          "wikidata": "Q55044837"
+        }
+      ]
+    },
+    {
+      "mi_nr": "724",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1984: Orchideen",
+      "bild_beschreibung": "Kleines Zweiblatt Listera cordata",
+      "entwerfer": "Günter Jacki",
+      "auflage": 9105000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweiblatt",
+          "beschriftung": "Kleines Zweiblatt",
+          "haupt": true,
+          "artikel": "Zweiblatt",
+          "wikidata": "Q140764"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "725",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1984: Orchideen",
+      "bild_beschreibung": "Fliegen-Ragwurz Ophrys insectifera",
+      "entwerfer": "Günter Jacki",
+      "auflage": 7517000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fliegen-Ragwurz",
+          "beschriftung": "Fliegen-Ragwurz",
+          "haupt": true,
+          "artikel": "Fliegen-Ragwurz",
+          "wikidata": "Q158927"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "726",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1984: Orchideen",
+      "bild_beschreibung": "Echte Sumpfwurz Epipactis palustris",
+      "entwerfer": "Günter Jacki",
+      "auflage": 10843000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sumpf-Stendelwurz",
+          "beschriftung": "Echte Sumpfwurz",
+          "haupt": true,
+          "artikel": "Sumpf-Stendelwurz",
+          "wikidata": "Q161124"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "727",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1984: Orchideen",
+      "bild_beschreibung": "Wanzen-Knabenkraut Orchis coriophora",
+      "entwerfer": "Günter Jacki",
+      "auflage": 4231000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wanzen-Knabenkraut",
+          "beschriftung": "Wanzen-Knabenkraut",
+          "haupt": true,
+          "artikel": "Wanzen-Knabenkraut",
+          "wikidata": "Q27885033"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "728",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Karl Schmidt-Rottluff",
+      "bild_beschreibung": "Sonnenblumen auf grauem Grund",
+      "entwerfer": "Bernd Görs",
+      "auflage": 7650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Schmidt-Rottluff",
+          "beschriftung": "Karl Schmidt-Rottluff",
+          "haupt": true,
+          "artikel": "Karl Schmidt-Rottluff",
+          "wikidata": "Q161143"
+        },
+        {
+          "titel": "Sonnenblume",
+          "beschriftung": "Sonnenblume",
+          "haupt": false,
+          "artikel": "Sonnenblume",
+          "wikidata": "Q171497"
+        }
+      ]
+    },
+    {
+      "mi_nr": "729",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-08",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1984",
+      "bild_beschreibung": "Heiliger Nikolaus",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6958000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Nikolaus von Myra",
+          "beschriftung": "Heiliger Nikolaus",
+          "haupt": false,
+          "artikel": "Nikolaus von Myra",
+          "wikidata": "Q44269"
+        }
+      ]
+    }
+  ]
+}

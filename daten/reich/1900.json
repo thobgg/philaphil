@@ -1,0 +1,409 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1900,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1900 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1900_der_Deutschen_Reichspost",
+    "revision": 255531198,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 52,
+    "mi_nr_bis": 66,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "52",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-03-29",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Krone / Adler",
+      "bild_beschreibung": "letzte Ausgabe der Serie, Ziffer im Oval unter Krone",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1900 52 Krone.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "53",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-07-04",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 53 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "54",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-02",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 54 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "55",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 55 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "56",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1899-12-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 56 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "57",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-01-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 57 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "58",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-03-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 58 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "59",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1899-12-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 59 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "60",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1899-12-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 60 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "61",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1899-12-20",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 61 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "62",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-01-01",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "→ für die halbierte Marke mit 3-Pf-Aufdruck, siehe: Vineta-Provisorium",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1900 62 Germania Reichspost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vineta-Provisorium",
+          "beschriftung": "Vineta-Provisorium",
+          "haupt": true,
+          "artikel": "Vineta-Provisorium",
+          "wikidata": "Q319359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "63",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-04-01",
+      "wert": "1 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Reichspostamt in Berlin",
+      "entwerfer": "C. Frenzel",
+      "auflage": null,
+      "commons_datei": "Germania63 1 b lilabraun.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspostamt",
+          "beschriftung": "Reichspostamt",
+          "haupt": true,
+          "artikel": "Reichspostamt",
+          "wikidata": "Q944210"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "64",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-06-01",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Symbolische Darstellungen Nord und Süd Detail aus dem Gemälde Victoria von Anton von Werner",
+      "entwerfer": "Entwurf: W. Lipinsky Stich: W. Roese",
+      "auflage": null,
+      "commons_datei": "Germania64 Type I.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anton von Werner",
+          "beschriftung": "Anton von Werner",
+          "haupt": true,
+          "artikel": "Anton von Werner",
+          "wikidata": "Q77324"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "65",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-08-02",
+      "wert": "3 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Enthüllung des Denkmals Kaiser Wilhelm I in Berlin, nach einem Gemälde von W. Pape",
+      "entwerfer": "Reichsdruckerei Stich: W. Roese",
+      "auflage": null,
+      "commons_datei": "Germania65 Type II postfrisch.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Nationaldenkmal",
+          "beschriftung": "Denkmals Kaiser Wilhelm I",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Nationaldenkmal",
+          "wikidata": "Q125738"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "66",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1900-12-14",
+      "wert": "5 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-12-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Reichsgründungsgedenkfeier im weißen Saal des Berliner Schlosses, nach einem Gemälde von W. Pape",
+      "entwerfer": "Reichsdruckerei Stich: W. Roese",
+      "auflage": null,
+      "commons_datei": "Germania66.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsgründungstag",
+          "beschriftung": "Reichsgründungsgedenkfeier",
+          "haupt": true,
+          "artikel": "Reichsgründungstag",
+          "wikidata": "Q2139492"
+        },
+        {
+          "titel": "Berliner Stadtschloss",
+          "beschriftung": "Berliner Schlosses",
+          "haupt": false,
+          "artikel": "Berliner Schloss",
+          "wikidata": "Q170119"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    }
+  ]
+}

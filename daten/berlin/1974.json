@@ -1,0 +1,580 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1974,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1974 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1974_der_Deutschen_Bundespost_Berlin",
+    "revision": 259738200,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 464,
+    "mi_nr_bis": 481,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 18,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "464",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "275. Geburtstag von Georg Wenzeslaus von Knobelsdorff",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 16400000,
+      "commons_datei": "Stamps of Germany (Berlin) 1974, MiNr 464.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georg Wenzeslaus von Knobelsdorff",
+          "beschriftung": "Georg Wenzeslaus von Knobelsdorff",
+          "haupt": true,
+          "artikel": "Georg Wenzeslaus von Knobelsdorff",
+          "wikidata": "Q65901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "465",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-15",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Gustav Robert Kirchhoff",
+      "bild_beschreibung": "Im Hintergrund die Formel für die Berechnung von vermaschten Stromkreisen",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7950000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gustav Robert Kirchhoff",
+          "beschriftung": "Gustav Robert Kirchhoff",
+          "haupt": true,
+          "artikel": "Gustav Robert Kirchhoff",
+          "wikidata": "Q60052"
+        },
+        {
+          "titel": "Kirchhoffsche Regeln",
+          "beschriftung": "Berechnung von vermaschten Stromkreisen",
+          "haupt": false,
+          "artikel": "Kirchhoffsche Regeln",
+          "wikidata": "Q187672"
+        }
+      ]
+    },
+    {
+      "mi_nr": "466",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-17",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Beendigung der Blockade Berlins, Berliner Luftbrücke",
+      "bild_beschreibung": "Luftbrückendenkmal in Berlin-Tempelhof, Flaggen der Alliierten Schutzmächte",
+      "entwerfer": "Ernst Finke",
+      "auflage": 5500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1974, MiNr 466.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Blockade",
+          "beschriftung": "Blockade Berlins",
+          "haupt": true,
+          "artikel": "Berlin-Blockade",
+          "wikidata": "Q151349"
+        },
+        {
+          "titel": "Berliner Luftbrücke",
+          "beschriftung": "Berliner Luftbrücke",
+          "haupt": false,
+          "artikel": "Berliner Luftbrücke",
+          "wikidata": "Q12177407"
+        },
+        {
+          "titel": "Luftbrückendenkmal",
+          "beschriftung": "Luftbrückendenkmal",
+          "haupt": false,
+          "artikel": "Luftbrückendenkmal",
+          "wikidata": "Q878229"
+        },
+        {
+          "titel": "Berlin-Tempelhof",
+          "beschriftung": "Berlin-Tempelhof",
+          "haupt": false,
+          "artikel": "Berlin-Tempelhof",
+          "wikidata": "Q363830"
+        }
+      ]
+    },
+    {
+      "mi_nr": "467",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag von Adolf Slaby",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 6050000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolf Slaby",
+          "beschriftung": "Adolf Slaby",
+          "haupt": true,
+          "artikel": "Adolf Slaby",
+          "wikidata": "Q75523"
+        }
+      ]
+    },
+    {
+      "mi_nr": "468",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-17",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1974: Elemente internationaler Jugendarbeit",
+      "bild_beschreibung": "Jugend fotografiert",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 2571000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "fotografie",
+          "beschriftung": "fotografie",
+          "haupt": true,
+          "artikel": "Fotografie",
+          "wikidata": "Q11633"
+        },
+        {
+          "titel": "Jugendarbeit",
+          "beschriftung": "Jugendarbeit",
+          "haupt": false,
+          "artikel": "Jugendarbeit",
+          "wikidata": "Q1711247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "469",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-17",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1974: Elemente internationaler Jugendarbeit",
+      "bild_beschreibung": "Jugendsport",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 2510000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Breitensport",
+          "beschriftung": "Jugendsport",
+          "haupt": true,
+          "artikel": "Breitensport",
+          "wikidata": "Q484937"
+        },
+        {
+          "titel": "Jugendarbeit",
+          "beschriftung": "Jugendarbeit",
+          "haupt": false,
+          "artikel": "Jugendarbeit",
+          "wikidata": "Q1711247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "470",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-17",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1974: Elemente internationaler Jugendarbeit",
+      "bild_beschreibung": "Jugend musiziert",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 2507000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Musik",
+          "beschriftung": "musiziert",
+          "haupt": true,
+          "artikel": "Musik",
+          "wikidata": "Q638"
+        },
+        {
+          "titel": "Jugendarbeit",
+          "beschriftung": "Jugendarbeit",
+          "haupt": false,
+          "artikel": "Jugendarbeit",
+          "wikidata": "Q1711247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "471",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-17",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1974: Elemente internationaler Jugendarbeit",
+      "bild_beschreibung": "Jugend hilft",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Bundesjugendring",
+          "beschriftung": "hilft",
+          "haupt": true,
+          "artikel": "Deutscher Bundesjugendring",
+          "wikidata": "Q972816"
+        },
+        {
+          "titel": "Jugendarbeit",
+          "beschriftung": "Jugendarbeit",
+          "haupt": false,
+          "artikel": "Jugendarbeit",
+          "wikidata": "Q1711247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "472",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-07-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Gymnasium zum Grauen Kloster, Berlin",
+      "bild_beschreibung": "Athene und Hermes, Siegel des Gymnasiums",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 10550000,
+      "commons_datei": "Stamps of Germany (Berlin) 1974, MiNr 472.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlinisches Gymnasium zum Grauen Kloster",
+          "beschriftung": "Grauen Kloster",
+          "haupt": true,
+          "artikel": "Berlinisches Gymnasium zum Grauen Kloster",
+          "wikidata": "Q122202781"
+        },
+        {
+          "titel": "Athene",
+          "beschriftung": "Athene",
+          "haupt": false,
+          "artikel": "Athene",
+          "wikidata": "Q37122"
+        },
+        {
+          "titel": "Hermes",
+          "beschriftung": "Hermes",
+          "haupt": false,
+          "artikel": "Hermes",
+          "wikidata": "Q41484"
+        }
+      ]
+    },
+    {
+      "mi_nr": "473",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-15",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1974: Blumensträuße",
+      "bild_beschreibung": "Frühlingsstrauß",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5770000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frühling",
+          "beschriftung": "Frühling",
+          "haupt": true,
+          "artikel": "Frühling",
+          "wikidata": "Q1312"
+        },
+        {
+          "titel": "Blumenstrauß",
+          "beschriftung": "Blumensträuße",
+          "haupt": false,
+          "artikel": "Blumenstrauß",
+          "wikidata": "Q1187930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "474",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1974: Blumensträuße",
+      "bild_beschreibung": "Herbststrauß",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5745000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herbst",
+          "beschriftung": "Herbst",
+          "haupt": true,
+          "artikel": "Herbst",
+          "wikidata": "Q1314"
+        },
+        {
+          "titel": "Blumenstrauß",
+          "beschriftung": "Blumensträuße",
+          "haupt": false,
+          "artikel": "Blumenstrauß",
+          "wikidata": "Q1187930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "475",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1974: Blumensträuße",
+      "bild_beschreibung": "Rosenstrauß",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6516000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosen",
+          "beschriftung": "Rosen",
+          "haupt": true,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        },
+        {
+          "titel": "Blumenstrauß",
+          "beschriftung": "Blumensträuße",
+          "haupt": false,
+          "artikel": "Blumenstrauß",
+          "wikidata": "Q1187930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "476",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-15",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1974: Blumensträuße",
+      "bild_beschreibung": "Winterlicher Strauß",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4055000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Winter",
+          "beschriftung": "Winter",
+          "haupt": true,
+          "artikel": "Winter",
+          "wikidata": "Q1311"
+        },
+        {
+          "titel": "Blumenstrauß",
+          "beschriftung": "Blumensträuße",
+          "haupt": false,
+          "artikel": "Blumenstrauß",
+          "wikidata": "Q1187930"
+        }
+      ]
+    },
+    {
+      "mi_nr": "477",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Inbetriebnahme des Flughafens Berlin-Tegel",
+      "bild_beschreibung": "Zentralgebäude mit sechseckigem Flugsteigring",
+      "entwerfer": "Ernst Finke",
+      "auflage": 8750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Flughafen Berlin-Tegel",
+          "beschriftung": "Flughafens Berlin-Tegel",
+          "haupt": true,
+          "artikel": "Flughafen Berlin-Tegel",
+          "wikidata": "Q9688"
+        }
+      ]
+    },
+    {
+      "mi_nr": "478",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-29",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Porzellan",
+      "bild_beschreibung": "„Venus“, Friedrich Elias Meyer d. Ä. (1723–1785)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Venus (Mythologie)",
+          "beschriftung": "Venus",
+          "haupt": true,
+          "artikel": "Venus (Mythologie)",
+          "wikidata": "Q47652"
+        },
+        {
+          "titel": "Königliche Porzellan-Manufaktur Berlin",
+          "beschriftung": "Berliner Porzellan",
+          "haupt": false,
+          "artikel": "Königliche Porzellan-Manufaktur Berlin",
+          "wikidata": "Q516134"
+        }
+      ]
+    },
+    {
+      "mi_nr": "479",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-29",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Porzellan",
+      "bild_beschreibung": "Allegorie: „Die Astronomie“, Wilhelm Christian Meyer (1726–1786)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Allegorie",
+          "beschriftung": "Allegorie",
+          "haupt": true,
+          "artikel": "Allegorie",
+          "wikidata": "Q18535"
+        },
+        {
+          "titel": "Astronomie",
+          "beschriftung": "Astronomie",
+          "haupt": false,
+          "artikel": "Astronomie",
+          "wikidata": "Q333"
+        },
+        {
+          "titel": "Königliche Porzellan-Manufaktur Berlin",
+          "beschriftung": "Berliner Porzellan",
+          "haupt": false,
+          "artikel": "Königliche Porzellan-Manufaktur Berlin",
+          "wikidata": "Q516134"
+        }
+      ]
+    },
+    {
+      "mi_nr": "480",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-29",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Porzellan",
+      "bild_beschreibung": "Allegorie: „Die Gerechtigkeit“, J. G. Müller (um 1785)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 8500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerechtigkeit",
+          "beschriftung": "Gerechtigkeit",
+          "haupt": true,
+          "artikel": "Gerechtigkeit",
+          "wikidata": "Q13189320"
+        },
+        {
+          "titel": "Königliche Porzellan-Manufaktur Berlin",
+          "beschriftung": "Berliner Porzellan",
+          "haupt": false,
+          "artikel": "Königliche Porzellan-Manufaktur Berlin",
+          "wikidata": "Q516134"
+        }
+      ]
+    },
+    {
+      "mi_nr": "481",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-29",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1974",
+      "bild_beschreibung": "Weihnachtlicher Strauß",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4956000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        }
+      ]
+    }
+  ]
+}

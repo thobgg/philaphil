@@ -1,0 +1,2687 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1962,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1962 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1962_der_Deutschen_Post_der_DDR",
+    "revision": 262157050,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 869,
+    "mi_nr_bis": 933,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 65,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-16",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Geschützte Tiere (I)",
+      "bild_beschreibung": "Rote Waldameise (Formica rufa)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rote Waldameise",
+          "beschriftung": "Rote Waldameise",
+          "haupt": true,
+          "artikel": "Rote Waldameise",
+          "wikidata": "Q148769"
+        },
+        {
+          "titel": "Geschützte Tiere",
+          "beschriftung": "Geschützte Tiere",
+          "haupt": false,
+          "artikel": "Geschützte Tiere",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Geschützte Tiere (I)",
+      "bild_beschreibung": "Mauswiesel (Mustalis nivalis)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 14000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mauswiesel",
+          "beschriftung": "Mauswiesel",
+          "haupt": true,
+          "artikel": "Mauswiesel",
+          "wikidata": "Q25311"
+        },
+        {
+          "titel": "Geschützte Tiere",
+          "beschriftung": "Geschützte Tiere",
+          "haupt": false,
+          "artikel": "Geschützte Tiere",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "871",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Geschützte Tiere (I)",
+      "bild_beschreibung": "Spitzmaus (Soricidae)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 13000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spitzmaus",
+          "beschriftung": "Spitzmaus",
+          "haupt": true,
+          "artikel": "Spitzmäuse",
+          "wikidata": "Q41631"
+        },
+        {
+          "titel": "Geschützte Tiere",
+          "beschriftung": "Geschützte Tiere",
+          "haupt": false,
+          "artikel": "Geschützte Tiere",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Geschützte Tiere (I)",
+      "bild_beschreibung": "Fledermaus (Chiroptera)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fledermaus",
+          "beschriftung": "Fledermaus",
+          "haupt": true,
+          "artikel": "Fledermäuse",
+          "wikidata": "Q971343"
+        },
+        {
+          "titel": "Geschützte Tiere",
+          "beschriftung": "Geschützte Tiere",
+          "haupt": false,
+          "artikel": "Geschützte Tiere",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1962",
+      "bild_beschreibung": "Haus Zum Arabischen Coffe Baum, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zum Arabischen Coffe Baum",
+          "beschriftung": "Zum Arabischen Coffe Baum",
+          "haupt": true,
+          "artikel": "Zum Arabischen Coffe Baum",
+          "wikidata": "Q228926"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "874",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1962",
+      "bild_beschreibung": "Gohliser Schlösschen, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0874.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gohliser Schlösschen",
+          "beschriftung": "Gohliser Schlösschen",
+          "haupt": true,
+          "artikel": "Gohliser Schlösschen",
+          "wikidata": "Q1534379"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "875",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-02-22",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1962",
+      "bild_beschreibung": "Romanushaus, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher, Manfred Brückels",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0875.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Romanushaus",
+          "beschriftung": "Romanushaus",
+          "haupt": true,
+          "artikel": "Romanushaus",
+          "wikidata": "Q2164978"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "6 Jahre Nationale Volksarmee",
+      "bild_beschreibung": "Pilot im Düsenjäger am Boden",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0876.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pilot",
+          "beschriftung": "Pilot",
+          "haupt": true,
+          "artikel": "Pilot",
+          "wikidata": "Q2095549"
+        },
+        {
+          "titel": "Militärflugplatz",
+          "beschriftung": "am Boden",
+          "haupt": false,
+          "artikel": "Militärflugplatz",
+          "wikidata": "Q695850"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "877",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "6 Jahre Nationale Volksarmee",
+      "bild_beschreibung": "Mot-Schütze vor Schützenpanzerwagen",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0877.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mechanisierte Infanterie",
+          "beschriftung": "Mot-Schütze",
+          "haupt": true,
+          "artikel": "Mechanisierte Infanterie",
+          "wikidata": "Q1053481"
+        },
+        {
+          "titel": "Schützenpanzerwagen",
+          "beschriftung": "Schützenpanzerwagen",
+          "haupt": false,
+          "artikel": "Mannschaftstransportwagen (Militär)",
+          "wikidata": "Q4407246"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "6 Jahre Nationale Volksarmee",
+      "bild_beschreibung": "Soldat mit Maschinenpistole und Arbeiter vor einem Stahlwerk",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0878.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Soldat",
+          "beschriftung": "Soldat",
+          "haupt": true,
+          "artikel": "Soldat",
+          "wikidata": "Q4991371"
+        },
+        {
+          "titel": "PPSch-41",
+          "beschriftung": "Maschinenpistole",
+          "haupt": false,
+          "artikel": "PPSch-41",
+          "wikidata": "Q153932"
+        },
+        {
+          "titel": "Arbeiter",
+          "beschriftung": "Arbeiter",
+          "haupt": false,
+          "artikel": "Arbeiter",
+          "wikidata": "Q12713481"
+        },
+        {
+          "titel": "Stahlwerk",
+          "beschriftung": "Stahlwerk",
+          "haupt": false,
+          "artikel": "Stahlerzeugung",
+          "wikidata": "Q482090"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "6 Jahre Nationale Volksarmee",
+      "bild_beschreibung": "Signalgast mit Signalflaggen vor Kriegsschiffen der Volksmarine",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0879.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Signalgast",
+          "beschriftung": "Signalgast",
+          "haupt": true,
+          "artikel": "Signalgast",
+          "wikidata": "Q1065141"
+        },
+        {
+          "titel": "Flaggenalphabet",
+          "beschriftung": "Signalflaggen",
+          "haupt": false,
+          "artikel": "Flaggenalphabet",
+          "wikidata": "Q1671640"
+        },
+        {
+          "titel": "Kriegsschiff",
+          "beschriftung": "Kriegsschiff",
+          "haupt": false,
+          "artikel": "Kriegsschiff",
+          "wikidata": "Q2031121"
+        },
+        {
+          "titel": "Volksmarine",
+          "beschriftung": "Volksmarine",
+          "haupt": false,
+          "artikel": "Volksmarine",
+          "wikidata": "Q508647"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "880",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "6 Jahre Nationale Volksarmee",
+      "bild_beschreibung": "Panzerfahrer vor einem Panzer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0880.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Panzer",
+          "beschriftung": "Panzer",
+          "haupt": true,
+          "artikel": "Panzer",
+          "wikidata": "Q130368"
+        },
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationale Volksarmee",
+          "haupt": false,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        }
+      ]
+    },
+    {
+      "mi_nr": "881",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-22",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (I)",
+      "bild_beschreibung": "Danielle Casanova (1909–1943), französische Jugendfunktionärin, Partisanin",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Danielle Casanova",
+          "beschriftung": "Danielle Casanova",
+          "haupt": true,
+          "artikel": "Danielle Casanova",
+          "wikidata": "Q457505"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "französische",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        },
+        {
+          "titel": "Partisan",
+          "beschriftung": "Partisan",
+          "haupt": false,
+          "artikel": "Partisan",
+          "wikidata": "Q212948"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "882",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-22",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (I)",
+      "bild_beschreibung": "Julius Fučík (1903–1943), tschechischer Schriftsteller und Journalist, Widerstandskämpfer",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0882.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Julius Fučík (Autor)",
+          "beschriftung": "Julius Fučík",
+          "haupt": true,
+          "artikel": "Julius Fučík (Autor)",
+          "wikidata": "Q142059"
+        },
+        {
+          "titel": "Tschechoslowakei",
+          "beschriftung": "tschechischer",
+          "haupt": false,
+          "artikel": "Tschechoslowakei",
+          "wikidata": "Q33946"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Journalist",
+          "beschriftung": "Journalist",
+          "haupt": false,
+          "artikel": "Journalist",
+          "wikidata": "Q1930187"
+        },
+        {
+          "titel": "Widerstandskämpfer",
+          "beschriftung": "Widerstandskämpfer",
+          "haupt": false,
+          "artikel": "Widerstandskämpfer",
+          "wikidata": "Q1397808"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "883",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-22",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (I)",
+      "bild_beschreibung": "Johanna Schaft (1920–1945), niederländische Studentin, Widerstandskämpferin",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0883.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hannie Schaft",
+          "beschriftung": "Johanna Schaft",
+          "haupt": true,
+          "artikel": "Hannie Schaft",
+          "wikidata": "Q448486"
+        },
+        {
+          "titel": "Niederlande",
+          "beschriftung": "niederländische",
+          "haupt": false,
+          "artikel": "Niederlande",
+          "wikidata": "Q55"
+        },
+        {
+          "titel": "Student",
+          "beschriftung": "Student",
+          "haupt": false,
+          "artikel": "Student",
+          "wikidata": "Q48282"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "884",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-22",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (I)",
+      "bild_beschreibung": "Paweł Finder (1904–1944), polnischer Parteifunktionär",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paweł Finder",
+          "beschriftung": "Paweł Finder",
+          "haupt": true,
+          "artikel": "Paweł Finder",
+          "wikidata": "Q320116"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "polnischer",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "885",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-03-22",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (I)",
+      "bild_beschreibung": "Soja Kosmodemjanskaja (1923–1941), sowjetische Komsomolzin, Partisanin",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 1000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0885.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Soja Anatoljewna Kosmodemjanskaja",
+          "beschriftung": "Soja Kosmodemjanskaja",
+          "haupt": true,
+          "artikel": "Soja Anatoljewna Kosmodemjanskaja",
+          "wikidata": "Q229062"
+        },
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "sowjetische",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Komsomol",
+          "beschriftung": "Komsomol",
+          "haupt": false,
+          "artikel": "Komsomol",
+          "wikidata": "Q166073"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "886",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-04-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "XV. Internationale Radfernfahrt für den Frieden Berlin-Prag-Warschau",
+      "bild_beschreibung": "Radrennfahrer vor der Prager Burg",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radrennfahrer",
+          "beschriftung": "Radrennfahrer",
+          "haupt": true,
+          "artikel": "Radrennfahrer",
+          "wikidata": "Q2309784"
+        },
+        {
+          "titel": "Prager Burg",
+          "beschriftung": "Prager Burg",
+          "haupt": false,
+          "artikel": "Prager Burg",
+          "wikidata": "Q193369"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1962",
+          "beschriftung": "XV. Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1962",
+          "wikidata": "Q1667188"
+        }
+      ]
+    },
+    {
+      "mi_nr": "887",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-04-26",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "XV. Internationale Radfernfahrt für den Frieden Berlin-Prag-Warschau",
+      "bild_beschreibung": "Radrennfahrer mit den Nationalmannschafts-Trikots vor dem Kulturpalast in Warschau",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nationalmannschaft",
+          "beschriftung": "Nationalmannschaft",
+          "haupt": true,
+          "artikel": "Nationalmannschaft",
+          "wikidata": "Q1194951"
+        },
+        {
+          "titel": "Kulturpalast (Warschau)",
+          "beschriftung": "Kulturpalast",
+          "haupt": false,
+          "artikel": "Kulturpalast (Warschau)",
+          "wikidata": "Q167566"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1962",
+          "beschriftung": "XV. Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1962",
+          "wikidata": "Q1667188"
+        }
+      ]
+    },
+    {
+      "mi_nr": "888",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-04-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "XV. Internationale Radfernfahrt für den Frieden Berlin-Prag-Warschau",
+      "bild_beschreibung": "Radrennfahrer im Gelben Trikot vor dem Roten Rathaus in Berlin",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotes Rathaus",
+          "beschriftung": "Roten Rathaus",
+          "haupt": true,
+          "artikel": "Rotes Rathaus",
+          "wikidata": "Q155210"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1962",
+          "beschriftung": "XV. Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1962",
+          "wikidata": "Q1667188"
+        }
+      ]
+    },
+    {
+      "mi_nr": "889",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "200. Geburtstag von Johann Gottlieb Fichte",
+      "bild_beschreibung": "Geburtshaus des Philosophen Johann Gottlieb Fichte in Rammenau",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geburtshaus",
+          "beschriftung": "Geburtshaus",
+          "haupt": true,
+          "artikel": "Geburtshaus",
+          "wikidata": "Q1752787"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Rammenau",
+          "beschriftung": "Rammenau",
+          "haupt": false,
+          "artikel": "Rammenau",
+          "wikidata": "Q93289"
+        },
+        {
+          "titel": "Johann Gottlieb Fichte",
+          "beschriftung": "Johann Gottlieb Fichte",
+          "haupt": false,
+          "artikel": "Johann Gottlieb Fichte",
+          "wikidata": "Q102585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "890",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "200. Geburtstag von Johann Gottlieb Fichte",
+      "bild_beschreibung": "Porträt Fichtes",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0890.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Gottlieb Fichte",
+          "beschriftung": "Johann Gottlieb Fichte",
+          "haupt": true,
+          "artikel": "Johann Gottlieb Fichte",
+          "wikidata": "Q102585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "891",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "20. Jahrestag der Zerstörung von Lidice",
+      "bild_beschreibung": "Kreuz mit Dornenkrone, Rose und Schriftzug Lidice",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kreuz (Christentum)",
+          "beschriftung": "Kreuz",
+          "haupt": true,
+          "artikel": "Kreuz (Christentum)",
+          "wikidata": "Q392371"
+        },
+        {
+          "titel": "Dornenkrone",
+          "beschriftung": "Dornenkrone",
+          "haupt": false,
+          "artikel": "Dornenkrone",
+          "wikidata": "Q1127583"
+        },
+        {
+          "titel": "Rosen",
+          "beschriftung": "Rose",
+          "haupt": false,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        },
+        {
+          "titel": "Lidice",
+          "beschriftung": "Lidice",
+          "haupt": false,
+          "artikel": "Lidice",
+          "wikidata": "Q154888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "892",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "20. Jahrestag der Zerstörung von Lidice",
+      "bild_beschreibung": "Kreuz mit Dornenkrone, Rose und Schriftzug Lidice",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0892.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lidice",
+          "beschriftung": "Lidice",
+          "haupt": true,
+          "artikel": "Lidice",
+          "wikidata": "Q154888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "893",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "80. Geburtstag von Georgi Dimitroff",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Georgi Dimitroff vor dem Reichsgericht in Leipzig",
+      "entwerfer": "Axel Bengs",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsgericht",
+          "beschriftung": "Reichsgericht",
+          "haupt": true,
+          "artikel": "Reichsgericht",
+          "wikidata": "Q512552"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Georgi Dimitroff",
+          "beschriftung": "Georgi Dimitroff",
+          "haupt": false,
+          "artikel": "Georgi Dimitroff",
+          "wikidata": "Q155074"
+        }
+      ]
+    },
+    {
+      "mi_nr": "894",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "80. Geburtstag von Georgi Dimitroff",
+      "bild_beschreibung": "Porträt des bulgarischen Politikers Dimitroff",
+      "entwerfer": "Axel Bengs",
+      "auflage": 9100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bulgarien",
+          "beschriftung": "bulgarischen",
+          "haupt": true,
+          "artikel": "Bulgarien",
+          "wikidata": "Q219"
+        },
+        {
+          "titel": "Georgi Dimitroff",
+          "beschriftung": "Georgi Dimitroff",
+          "haupt": false,
+          "artikel": "Georgi Dimitroff",
+          "wikidata": "Q155074"
+        }
+      ]
+    },
+    {
+      "mi_nr": "895",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "10. Nationale Landwirtschaftsausstellung in Leipzig",
+      "bild_beschreibung": "Maislegemaschine, Maiskolben",
+      "entwerfer": "Hans-Joachim Walch",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maislegemaschine",
+          "beschriftung": "Maislegemaschine",
+          "haupt": true,
+          "artikel": "Einzelkornsaat",
+          "wikidata": "Q1310110"
+        },
+        {
+          "titel": "Maiskolben",
+          "beschriftung": "Maiskolben",
+          "haupt": false,
+          "artikel": "Mais",
+          "wikidata": "Q11575"
+        },
+        {
+          "titel": "agra (Landwirtschaftsausstellung)",
+          "beschriftung": "Nationale Landwirtschaftsausstellung",
+          "haupt": false,
+          "artikel": "Agra (Landwirtschaftsausstellung)",
+          "wikidata": "Q395859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "896",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "10. Nationale Landwirtschaftsausstellung in Leipzig",
+      "bild_beschreibung": "Kühe im Weidemelkstand",
+      "entwerfer": "Hans-Joachim Walch",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hausrind",
+          "beschriftung": "Kühe",
+          "haupt": true,
+          "artikel": "Hausrind",
+          "wikidata": "Q830"
+        },
+        {
+          "titel": "melkstand",
+          "beschriftung": "melkstand",
+          "haupt": false,
+          "artikel": "Melkstand",
+          "wikidata": "Q1919481"
+        },
+        {
+          "titel": "agra (Landwirtschaftsausstellung)",
+          "beschriftung": "Nationale Landwirtschaftsausstellung",
+          "haupt": false,
+          "artikel": "Agra (Landwirtschaftsausstellung)",
+          "wikidata": "Q395859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "897",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-26",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "10. Nationale Landwirtschaftsausstellung in Leipzig",
+      "bild_beschreibung": "Mähdrescher, Weizenähre",
+      "entwerfer": "Hans-Joachim Walch",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mähdrescher",
+          "beschriftung": "Mähdrescher",
+          "haupt": true,
+          "artikel": "Mähdrescher",
+          "wikidata": "Q26886"
+        },
+        {
+          "titel": "Weizen",
+          "beschriftung": "Weizen",
+          "haupt": false,
+          "artikel": "Weizen",
+          "wikidata": "Q15645384"
+        },
+        {
+          "titel": "ähre",
+          "beschriftung": "ähre",
+          "haupt": false,
+          "artikel": "Ähre",
+          "wikidata": "Q123786564"
+        },
+        {
+          "titel": "agra (Landwirtschaftsausstellung)",
+          "beschriftung": "Nationale Landwirtschaftsausstellung",
+          "haupt": false,
+          "artikel": "Agra (Landwirtschaftsausstellung)",
+          "wikidata": "Q395859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "898",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5. Ostseewoche in Rostock",
+      "bild_beschreibung": "Karte der Ostsee",
+      "entwerfer": "Harry Prieß",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0898.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ostsee",
+          "beschriftung": "Ostsee",
+          "haupt": true,
+          "artikel": "Ostsee",
+          "wikidata": "Q545"
+        },
+        {
+          "titel": "Ostseewoche",
+          "beschriftung": "Ostseewoche",
+          "haupt": false,
+          "artikel": "Ostseewoche",
+          "wikidata": "Q1756855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "899",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5. Ostseewoche in Rostock",
+      "bild_beschreibung": "Hochhaus in der Langen Straße, Rostock",
+      "entwerfer": "Charlotte Schneider",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lange Straße (Rostock)",
+          "beschriftung": "Langen Straße",
+          "haupt": true,
+          "artikel": "Lange Straße (Rostock)",
+          "wikidata": "Q1651266"
+        },
+        {
+          "titel": "Ostseewoche",
+          "beschriftung": "Ostseewoche",
+          "haupt": false,
+          "artikel": "Ostseewoche",
+          "wikidata": "Q1756855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "900",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5. Ostseewoche in Rostock",
+      "bild_beschreibung": "10.000-t-Motorschiff (Typ „Frieden“) im Rostocker Hafen",
+      "entwerfer": "Charlotte Schneider",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Typ IV",
+          "beschriftung": "Typ „Frieden“",
+          "haupt": true,
+          "artikel": "Typ IV",
+          "wikidata": "Q2462953"
+        },
+        {
+          "titel": "Hafen Rostock",
+          "beschriftung": "Rostocker Hafen",
+          "haupt": false,
+          "artikel": "Hafen Rostock",
+          "wikidata": "Q1090823"
+        },
+        {
+          "titel": "Ostseewoche",
+          "beschriftung": "Ostseewoche",
+          "haupt": false,
+          "artikel": "Ostseewoche",
+          "wikidata": "Q1756855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "901",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-17",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "VIII. Weltfestspiele der Jugend und Studenten in Helsinki 1962 (I)",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden als Zusammendruck in Viererblockanordnung ausgegeben:; Brandenburger Tor, Berlin",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0901.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": false,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "902",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-17",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "VIII. Weltfestspiele der Jugend und Studenten in Helsinki 1962 (I)",
+      "bild_beschreibung": "Jugendliche verschiedener Rassen",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0902.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jugend",
+          "beschriftung": "Jugend",
+          "haupt": true,
+          "artikel": "Jugend",
+          "wikidata": "Q190007"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": false,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "903",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "VIII. Weltfestspiele der Jugend und Studenten in Helsinki 1962 (I)",
+      "bild_beschreibung": "Friedenstaube",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0903.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": true,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": false,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "904",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "VIII. Weltfestspiele der Jugend und Studenten in Helsinki 1962 (I)",
+      "bild_beschreibung": "Nationaltheater, Helsinki",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0904.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Finnisches Nationaltheater",
+          "beschriftung": "Nationaltheater",
+          "haupt": true,
+          "artikel": "Finnisches Nationaltheater",
+          "wikidata": "Q108560166"
+        },
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": false,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        },
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "905",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-17",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "VIII. Weltfestspiele der Jugend und Studenten in Helsinki 1962 (II)",
+      "bild_beschreibung": "Diese und die folgende Marke wurden als Zusammendruck ausgegeben:; Volkstanzpaar",
+      "entwerfer": "Dietrich Dorfstecher, Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0905.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "906",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-17",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "VIII. Weltfestspiele der Jugend und Studenten in Helsinki 1962 (II)",
+      "bild_beschreibung": "Jugendliche verschiedener Nationen",
+      "entwerfer": "Dietrich Dorfstecher, Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0906.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "907",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-07",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "X. Schwimm-Europameisterschaften in Leipzig",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden auch als Zusammendruck in Sechserblockanordnung ausgegeben:; Auflage aus Zusammendrucken: jeweils 1.100.000 Einzelmarken; Freistilschwimmen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 6100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0907.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freistilschwimmen",
+          "beschriftung": "Freistilschwimmen",
+          "haupt": true,
+          "artikel": "Freistilschwimmen",
+          "wikidata": "Q31987"
+        },
+        {
+          "titel": "Schwimmeuropameisterschaften 1962",
+          "beschriftung": "X. Schwimm-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Schwimmeuropameisterschaften 1962",
+          "wikidata": "Q556580"
+        },
+        {
+          "titel": "Sportforum Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Sportforum Leipzig",
+          "wikidata": "Q1504947"
+        }
+      ]
+    },
+    {
+      "mi_nr": "908",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "X. Schwimm-Europameisterschaften in Leipzig",
+      "bild_beschreibung": "Rückenschwimmen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 7100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0908.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rückenschwimmen",
+          "beschriftung": "Rückenschwimmen",
+          "haupt": true,
+          "artikel": "Rückenschwimmen",
+          "wikidata": "Q275115"
+        },
+        {
+          "titel": "Schwimmeuropameisterschaften 1962",
+          "beschriftung": "X. Schwimm-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Schwimmeuropameisterschaften 1962",
+          "wikidata": "Q556580"
+        },
+        {
+          "titel": "Sportforum Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Sportforum Leipzig",
+          "wikidata": "Q1504947"
+        }
+      ]
+    },
+    {
+      "mi_nr": "909",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-07",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "X. Schwimm-Europameisterschaften in Leipzig",
+      "bild_beschreibung": "Wasserspringen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0909.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserspringen",
+          "beschriftung": "Wasserspringen",
+          "haupt": true,
+          "artikel": "Wasserspringen",
+          "wikidata": "Q7735"
+        },
+        {
+          "titel": "Schwimmeuropameisterschaften 1962",
+          "beschriftung": "X. Schwimm-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Schwimmeuropameisterschaften 1962",
+          "wikidata": "Q556580"
+        },
+        {
+          "titel": "Sportforum Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Sportforum Leipzig",
+          "wikidata": "Q1504947"
+        }
+      ]
+    },
+    {
+      "mi_nr": "910",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "X. Schwimm-Europameisterschaften in Leipzig",
+      "bild_beschreibung": "Delphinschwimmen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 4100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0910.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Delphinschwimmen",
+          "beschriftung": "Delphinschwimmen",
+          "haupt": true,
+          "artikel": "Schmetterlingsschwimmen",
+          "wikidata": "Q245249"
+        },
+        {
+          "titel": "Schwimmeuropameisterschaften 1962",
+          "beschriftung": "X. Schwimm-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Schwimmeuropameisterschaften 1962",
+          "wikidata": "Q556580"
+        },
+        {
+          "titel": "Sportforum Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Sportforum Leipzig",
+          "wikidata": "Q1504947"
+        }
+      ]
+    },
+    {
+      "mi_nr": "911",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "X. Schwimm-Europameisterschaften in Leipzig",
+      "bild_beschreibung": "Brustschwimmen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 2200000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0911.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brustschwimmen",
+          "beschriftung": "Brustschwimmen",
+          "haupt": true,
+          "artikel": "Brustschwimmen",
+          "wikidata": "Q326163"
+        },
+        {
+          "titel": "Schwimmeuropameisterschaften 1962",
+          "beschriftung": "X. Schwimm-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Schwimmeuropameisterschaften 1962",
+          "wikidata": "Q556580"
+        },
+        {
+          "titel": "Sportforum Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Sportforum Leipzig",
+          "wikidata": "Q1504947"
+        }
+      ]
+    },
+    {
+      "mi_nr": "912",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-07",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "X. Schwimm-Europameisterschaften in Leipzig",
+      "bild_beschreibung": "Wasserball",
+      "entwerfer": "Harry Prieß",
+      "auflage": 4100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0912.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserball",
+          "beschriftung": "Wasserball",
+          "haupt": true,
+          "artikel": "Wasserball",
+          "wikidata": "Q7707"
+        },
+        {
+          "titel": "Schwimmeuropameisterschaften 1962",
+          "beschriftung": "X. Schwimm-Europameisterschaften",
+          "haupt": false,
+          "artikel": "Schwimmeuropameisterschaften 1962",
+          "wikidata": "Q556580"
+        },
+        {
+          "titel": "Sportforum Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Sportforum Leipzig",
+          "wikidata": "Q1504947"
+        }
+      ]
+    },
+    {
+      "mi_nr": "913",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Leipziger Herbstmesse 1962",
+      "bild_beschreibung": "Städtisches Kaufhaus, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0913.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Städtisches Kaufhaus",
+          "beschriftung": "Städtisches Kaufhaus",
+          "haupt": true,
+          "artikel": "Städtisches Kaufhaus Leipzig",
+          "wikidata": "Q1795768"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "914",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Leipziger Herbstmesse 1962",
+      "bild_beschreibung": "Eingang zur Mädlerpassage, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0914.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mädlerpassage",
+          "beschriftung": "Mädlerpassage",
+          "haupt": true,
+          "artikel": "Mädlerpassage",
+          "wikidata": "Q1491479"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "915",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Leipziger Herbstmesse 1962",
+      "bild_beschreibung": "Vorderteil eines Flugzeugs, Flughafen Leipzig-Mockau, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0915.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Leipzig-Mockau",
+          "beschriftung": "Flughafen Leipzig-Mockau",
+          "haupt": true,
+          "artikel": "Flughafen Leipzig-Mockau",
+          "wikidata": "Q1431855"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "916",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "10 Jahre Hochschule für Verkehrswesen „Friedrich List“, Dresden",
+      "bild_beschreibung": "Flugzeug, Diesellokomotive, Schiff, Sendemast",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hochschule für Verkehrswesen",
+          "beschriftung": "Hochschule für Verkehrswesen",
+          "haupt": true,
+          "artikel": "Hochschule für Verkehrswesen",
+          "wikidata": "Q1622225"
+        },
+        {
+          "titel": "Friedrich List",
+          "beschriftung": "Friedrich List",
+          "haupt": false,
+          "artikel": "Friedrich List",
+          "wikidata": "Q159917"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Diesellokomotive",
+          "beschriftung": "Diesellokomotive",
+          "haupt": false,
+          "artikel": "Diesellokomotive",
+          "wikidata": "Q34336"
+        },
+        {
+          "titel": "Sendemast",
+          "beschriftung": "Sendemast",
+          "haupt": false,
+          "artikel": "Sendemast",
+          "wikidata": "Q1068623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "917",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-13",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erster Gruppenflug der Raumschiffe Wostok 3 und Wostok 4",
+      "bild_beschreibung": "Diese Marke wurde als geschnittener Briefmarkenblock ausgegeben:; Pawel Romanowitsch Popowitsch und Andrijan Grigorjewitsch Nikolajew, Flugbahnen der Raumschiffe",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0917.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Raumschiff",
+          "beschriftung": "Raumschiff",
+          "haupt": true,
+          "artikel": "Raumschiff",
+          "wikidata": "Q40218"
+        },
+        {
+          "titel": "Wostok 3",
+          "beschriftung": "Wostok 3",
+          "haupt": false,
+          "artikel": "Wostok 3",
+          "wikidata": "Q637048"
+        },
+        {
+          "titel": "Wostok 4",
+          "beschriftung": "Wostok 4",
+          "haupt": false,
+          "artikel": "Wostok 4",
+          "wikidata": "Q568419"
+        },
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": false,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Pawel Romanowitsch Popowitsch",
+          "beschriftung": "Pawel Romanowitsch Popowitsch",
+          "haupt": false,
+          "artikel": "Pawel Romanowitsch Popowitsch",
+          "wikidata": "Q118490"
+        },
+        {
+          "titel": "Andrijan Grigorjewitsch Nikolajew",
+          "beschriftung": "Andrijan Grigorjewitsch Nikolajew",
+          "haupt": false,
+          "artikel": "Andrijan Grigorjewitsch Nikolajew",
+          "wikidata": "Q312474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "918",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-04",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (II)",
+      "bild_beschreibung": "René Blieck (1910–1945), belgischer Schriftsteller, Partisan",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KZ Neuengamme",
+          "beschriftung": "René Blieck",
+          "haupt": true,
+          "artikel": "KZ Neuengamme",
+          "wikidata": "Q312478"
+        },
+        {
+          "titel": "Belgien",
+          "beschriftung": "belgischer",
+          "haupt": false,
+          "artikel": "Belgien",
+          "wikidata": "Q31"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "919",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (II)",
+      "bild_beschreibung": "Alfred Klahr (1904–1944), österreichischer Nationalökonom, Widerstandskämpfer",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alfred Klahr",
+          "beschriftung": "Alfred Klahr",
+          "haupt": true,
+          "artikel": "Alfred Klahr",
+          "wikidata": "Q2645274"
+        },
+        {
+          "titel": "österreich",
+          "beschriftung": "österreich",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Wirtschaftswissenschaftler",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Wirtschaftswissenschaftler",
+          "wikidata": "Q188094"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "920",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-04",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (II)",
+      "bild_beschreibung": "José Diaz (1920–1945), spanischer Gewerkschaftsführer",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "José Díaz (Gewerkschafter)",
+          "beschriftung": "José Diaz",
+          "haupt": true,
+          "artikel": "José Díaz (Gewerkschafter)",
+          "wikidata": null
+        },
+        {
+          "titel": "Spanien",
+          "beschriftung": "spanischer",
+          "haupt": false,
+          "artikel": "Spanien",
+          "wikidata": "Q29"
+        },
+        {
+          "titel": "Gewerkschaft",
+          "beschriftung": "Gewerkschaft",
+          "haupt": false,
+          "artikel": "Gewerkschaft",
+          "wikidata": "Q178790"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "921",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (II)",
+      "bild_beschreibung": "Julius Alpari (1882–1944), ungarischer Redakteur und Parteiführer",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0921.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gyula Alpári",
+          "beschriftung": "Julius Alpari",
+          "haupt": true,
+          "artikel": "Gyula Alpári",
+          "wikidata": "Q319103"
+        },
+        {
+          "titel": "Ungarn",
+          "beschriftung": "ungarischer",
+          "haupt": false,
+          "artikel": "Ungarn",
+          "wikidata": "Q28"
+        },
+        {
+          "titel": "Redakteur",
+          "beschriftung": "Redakteur",
+          "haupt": false,
+          "artikel": "Redakteur",
+          "wikidata": "Q876864"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "922",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-04",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "Erhaltung der Nationalen Mahn- und Gedenkstätten: Antifaschisten, KZ-Opfer (II)",
+      "bild_beschreibung": "Brüder Cervi († 1943), Italienische Brüder und Partisanen: Ovidio (* 1918), Agostino (* 1916), Antenore (* 1904), Aldo (* 1909), Gelindo (* 1901), Fernando (* 1911), Ettore (* 1921)",
+      "entwerfer": "Deutsche Wertpapierdruckerei",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0922.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brüder Cervi",
+          "beschriftung": "Brüder Cervi",
+          "haupt": true,
+          "artikel": "Brüder Cervi",
+          "wikidata": null
+        },
+        {
+          "titel": "Italien",
+          "beschriftung": "Italien",
+          "haupt": false,
+          "artikel": "Italien",
+          "wikidata": "Q38"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Antifaschist",
+          "beschriftung": "Antifaschist",
+          "haupt": false,
+          "artikel": "Antifaschismus",
+          "wikidata": "Q210189"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "923",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "10 Jahre Deutscher Fernsehfunk und Tag der Briefmarke",
+      "bild_beschreibung": "Bildschirm mit Sendezeichen des DDR-Fernsehfunks, Sendemast und Empfangsantenne",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bildschirm",
+          "beschriftung": "Bildschirm",
+          "haupt": true,
+          "artikel": "Bildschirm",
+          "wikidata": "Q6021804"
+        },
+        {
+          "titel": "Empfangsantenne",
+          "beschriftung": "Empfangsantenne",
+          "haupt": false,
+          "artikel": "Antenne",
+          "wikidata": "Q131214"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutscher Fernsehfunk",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "924",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "10 Jahre Deutscher Fernsehfunk und Tag der Briefmarke",
+      "bild_beschreibung": "Junge Philatelisten vor Erdkarte",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Philatelist",
+          "beschriftung": "Philatelist",
+          "haupt": true,
+          "artikel": "Philatelist",
+          "wikidata": "Q1475726"
+        },
+        {
+          "titel": "Stumme Karte",
+          "beschriftung": "Erdkarte",
+          "haupt": false,
+          "artikel": "Stumme Karte",
+          "wikidata": "Q1362775"
+        },
+        {
+          "titel": "Deutscher Fernsehfunk",
+          "beschriftung": "Deutscher Fernsehfunk",
+          "haupt": false,
+          "artikel": "Deutscher Fernsehfunk",
+          "wikidata": "Q115076"
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "925",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-11-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "100. Geburtstag von Gerhart Hauptmann",
+      "bild_beschreibung": "Porträt des Dichters, Dramatikers und Schriftstellers Gerhart Hauptmann Literatur-Nobelpreisträgers (1862–1946)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0925.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": true,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Liste der Nobelpreisträger für Literatur",
+          "beschriftung": "Nobelpreisträgers",
+          "haupt": false,
+          "artikel": "Liste der Nobelpreisträger für Literatur",
+          "wikidata": "Q6461210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "926",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Diese und die folgenden sieben Marken wurden zusammen als Kleinbogen ausgegeben:; Zur Erde zurückgekehrte Weltraumhunde Belka und Strelka",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0926.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Laika",
+          "beschriftung": "Weltraumhunde",
+          "haupt": false,
+          "artikel": "Laika",
+          "wikidata": "Q53662"
+        },
+        {
+          "titel": "Belka und Strelka",
+          "beschriftung": "Belka und Strelka",
+          "haupt": false,
+          "artikel": "Belka und Strelka",
+          "wikidata": "Q2415309"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "927",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Wostok 1 über Erdkugel (Nordafrika und Europa) und Kosmonaut J. Gagarin",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0927.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wostok 1",
+          "beschriftung": "Wostok 1",
+          "haupt": true,
+          "artikel": "Wostok 1",
+          "wikidata": "Q182524"
+        },
+        {
+          "titel": "Juri Alexejewitsch Gagarin",
+          "beschriftung": "J. Gagarin",
+          "haupt": false,
+          "artikel": "Juri Alexejewitsch Gagarin",
+          "wikidata": "Q7327"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "928",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Sputnik 1 und 2 über Erdkugel (Westafrika und Madagaskar)",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0928.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sputnik 1",
+          "beschriftung": "Sputnik 1",
+          "haupt": true,
+          "artikel": "Sputnik 1",
+          "wikidata": "Q80811"
+        },
+        {
+          "titel": "Sputnik 2",
+          "beschriftung": "2",
+          "haupt": false,
+          "artikel": "Sputnik 2",
+          "wikidata": "Q190555"
+        },
+        {
+          "titel": "Madagaskar",
+          "beschriftung": "Madagaskar",
+          "haupt": false,
+          "artikel": "Madagaskar",
+          "wikidata": "Q1019"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "929",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Wostok 2 über Erdkugel (Europa, Arabien und Mittelasien) und Kosmonaut G. Titow",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0929.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wostok 2",
+          "beschriftung": "Wostok 2",
+          "haupt": true,
+          "artikel": "Wostok 2",
+          "wikidata": "Q221678"
+        },
+        {
+          "titel": "German Stepanowitsch Titow",
+          "beschriftung": "G. Titow",
+          "haupt": false,
+          "artikel": "German Stepanowitsch Titow",
+          "wikidata": "Q152298"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "930",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Lunik 1 und 2 vor Mondoberfläche",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0930.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lunik 1",
+          "beschriftung": "Lunik 1",
+          "haupt": true,
+          "artikel": "Luna 1",
+          "wikidata": "Q1159913"
+        },
+        {
+          "titel": "Lunik 2",
+          "beschriftung": "2",
+          "haupt": false,
+          "artikel": "Luna 2",
+          "wikidata": "Q1159927"
+        },
+        {
+          "titel": "Mond",
+          "beschriftung": "Mond",
+          "haupt": false,
+          "artikel": "Mond",
+          "wikidata": "Q405"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "931",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Wostok 3 und 4 über Erdkugel (Südostasien), Kosmonauten A. Nikolajew und P. Popowitsch",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0931.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wostok 3",
+          "beschriftung": "Wostok 3",
+          "haupt": true,
+          "artikel": "Wostok 3",
+          "wikidata": "Q637048"
+        },
+        {
+          "titel": "Wostok 4",
+          "beschriftung": "4",
+          "haupt": false,
+          "artikel": "Wostok 4",
+          "wikidata": "Q568419"
+        },
+        {
+          "titel": "Andrijan Grigorjewitsch Nikolajew",
+          "beschriftung": "A. Nikolajew",
+          "haupt": false,
+          "artikel": "Andrijan Grigorjewitsch Nikolajew",
+          "wikidata": "Q312474"
+        },
+        {
+          "titel": "Pawel Romanowitsch Popowitsch",
+          "beschriftung": "P. Popowitsch",
+          "haupt": false,
+          "artikel": "Pawel Romanowitsch Popowitsch",
+          "wikidata": "Q118490"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "932",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Flugbahnen und erste interplanetare Station",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0932.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flugbahn",
+          "beschriftung": "Flugbahn",
+          "haupt": true,
+          "artikel": "Trajektorie (Physik)",
+          "wikidata": "Q193139"
+        },
+        {
+          "titel": "Venera-Mission",
+          "beschriftung": "interplanetare Station",
+          "haupt": false,
+          "artikel": "Venera-Programm",
+          "wikidata": "Q192144"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "933",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-28",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-03-31",
+      "anlass": "5 Jahre sowjetische Weltraumflüge",
+      "bild_beschreibung": "Mond und Mondsonde Lunik 3",
+      "entwerfer": "Hans Georg Urbschat",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1962, MiNr 0933.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mondsonde",
+          "beschriftung": "Mondsonde",
+          "haupt": true,
+          "artikel": "Mondsonde",
+          "wikidata": "Q1944346"
+        },
+        {
+          "titel": "Lunik 3",
+          "beschriftung": "Lunik 3",
+          "haupt": false,
+          "artikel": "Luna 3",
+          "wikidata": "Q942814"
+        },
+        {
+          "titel": "Sowjetische Raumfahrt",
+          "beschriftung": "sowjetische Weltraumflüge",
+          "haupt": false,
+          "artikel": "Sowjetische Raumfahrt",
+          "wikidata": "Q849730"
+        }
+      ]
+    }
+  ]
+}

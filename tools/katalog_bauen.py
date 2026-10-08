@@ -28,6 +28,15 @@ CREATE TABLE info (
   wert TEXT
 );
 
+CREATE TABLE gebiet (
+  schluessel TEXT PRIMARY KEY,   -- 'bund', 'reich' (Ordner in daten/)
+  name TEXT NOT NULL UNIQUE,     -- 'Bund', 'Reich' (marke.gebiet)
+  anzeige TEXT NOT NULL,         -- 'Deutsches Reich'
+  dateiname TEXT NOT NULL,       -- Kuerzel fuer eigene Bilder: Reich-529.jpg
+  von INTEGER, bis INTEGER,
+  reihe INTEGER                  -- Reihenfolge in der Auswahl
+);
+
 CREATE TABLE quelle (
   gebiet TEXT NOT NULL,
   jahr INTEGER NOT NULL,
@@ -138,6 +147,9 @@ def bauen(ziel):
         themen_ids[schluessel] = cur.lastrowid
         return cur.lastrowid
 
+    gebiete = {k: v for k, v in json.loads((DATEN / "gebiete.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
+    for reihe, (k, g) in enumerate(gebiete.items()):
+        db.execute("INSERT INTO gebiet VALUES (?,?,?,?,?,?,?)", (k, g["name"], g.get("anzeige", g["name"]), g.get("dateiname", g["name"]), g.get("von"), g.get("bis"), reihe))
     dateien = sorted(p for p in DATEN.glob("*/*.json") if not p.name.endswith((".hand.json", ".commons.json")))
     if not dateien:
         sys.exit("Keine JSON-Dateien in daten/ gefunden")

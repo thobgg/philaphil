@@ -1,0 +1,1110 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1943,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1943 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1943_der_Deutschen_Reichspost",
+    "revision": 269173441,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 828,
+    "mi_nr_bis": 863,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 36,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "828",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-01-10",
+      "wert": "6+24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Alte Postkutsche",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "829",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-01-26",
+      "wert": "54+96",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10. Jahrestag der Machtergreifung von Adolf Hitler (1889–1945)",
+      "bild_beschreibung": "Brandenburger Tor mit Reichsadler",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 829 Brandenburger Tor.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Machtergreifung",
+          "beschriftung": "Machtergreifung",
+          "haupt": true,
+          "artikel": "Machtergreifung",
+          "wikidata": "Q328271"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "830",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-01-26",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sonderstempel",
+      "bild_beschreibung": "Wertziffer im Kreis, getragen vom Reichsadler",
+      "entwerfer": "Gerhard Marggraff",
+      "auflage": null,
+      "commons_datei": "DR 1943 830 Sonderstempel.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sonderstempel",
+          "beschriftung": "Sonderstempel",
+          "haupt": true,
+          "artikel": "Sonderstempel",
+          "wikidata": "Q359591"
+        }
+      ]
+    },
+    {
+      "mi_nr": "831",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "U-Boot vom Typ VII A",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "U-Boot-Klasse VII",
+          "beschriftung": "U-Boot vom Typ VII A",
+          "haupt": true,
+          "artikel": "U-Boot-Klasse VII",
+          "wikidata": "Q167991"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "832",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "MG-Schützen",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maschinengewehr",
+          "beschriftung": "MG",
+          "haupt": true,
+          "artikel": "Maschinengewehr",
+          "wikidata": "Q12800"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "833",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "5+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Kradfahrer",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Kradfahrer",
+          "haupt": true,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "834",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "6+9",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Nachrichtentruppe",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nachrichtentruppe von Wehrmacht und Waffen-SS",
+          "beschriftung": "Nachrichtentruppe",
+          "haupt": true,
+          "artikel": "Nachrichtentruppe von Wehrmacht und Waffen-SS",
+          "wikidata": "Q1962530"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "835",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "8+7",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Pioniere",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionier (Militär)",
+          "beschriftung": "Pioniere",
+          "haupt": true,
+          "artikel": "Pionier (Militär)",
+          "wikidata": "Q13393921"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "836",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "stürmende Infanterie",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Infanterie",
+          "beschriftung": "Infanterie",
+          "haupt": true,
+          "artikel": "Infanterie",
+          "wikidata": "Q29171"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "837",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Artillerie",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Artillerie",
+          "beschriftung": "Artillerie",
+          "haupt": true,
+          "artikel": "Artillerie",
+          "wikidata": "Q64418"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "838",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "20+14",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "leichte Flak",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flugabwehrkanone",
+          "beschriftung": "Flak",
+          "haupt": true,
+          "artikel": "Flugabwehrkanone",
+          "wikidata": "Q7325635"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "839",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Stuka Junkers Ju 87",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sturzkampfflugzeug",
+          "beschriftung": "Stuka",
+          "haupt": true,
+          "artikel": "Sturzkampfflugzeug",
+          "wikidata": "Q678321"
+        },
+        {
+          "titel": "Junkers Ju 87",
+          "beschriftung": "Junkers Ju 87",
+          "haupt": false,
+          "artikel": "Junkers Ju 87",
+          "wikidata": "Q26795"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "840",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "30+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Fallschirmjäger",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fallschirmjäger (Wehrmacht)",
+          "beschriftung": "Fallschirmjäger",
+          "haupt": true,
+          "artikel": "Fallschirmjäger (Wehrmacht)",
+          "wikidata": "Q13479665"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "841",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "40+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Sturmgeschütz",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sturmgeschütz",
+          "beschriftung": "Sturmgeschütz",
+          "haupt": true,
+          "artikel": "Sturmgeschütz",
+          "wikidata": "Q745798"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "842",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-21",
+      "wert": "50+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Wehrmacht und Heldengedenktag",
+      "bild_beschreibung": "Schnellboot S 14-17",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schnellboot",
+          "beschriftung": "Schnellboot",
+          "haupt": true,
+          "artikel": "Schnellboot",
+          "wikidata": "Q719226"
+        },
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": false,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "843",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-03-26",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Verpflichtung der Jugend",
+      "bild_beschreibung": "Junge und Mädchen vor der Flagge der Hitlerjugend",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Flagge",
+          "beschriftung": "Flagge",
+          "haupt": true,
+          "artikel": "Flagge",
+          "wikidata": "Q14660"
+        },
+        {
+          "titel": "Hitlerjugend",
+          "beschriftung": "Hitlerjugend",
+          "haupt": false,
+          "artikel": "Hitlerjugend",
+          "wikidata": "Q38791"
+        }
+      ]
+    },
+    {
+      "mi_nr": "844",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-04-13",
+      "wert": "3+7",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "54. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 844 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "845",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-04-13",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "54. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 845 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "846",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-04-13",
+      "wert": "8+22",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "54. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 846 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "847",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-04-13",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "54. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 847 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "848",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-04-13",
+      "wert": "24+76",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "54. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 848 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "849",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-04-13",
+      "wert": "40+160",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "54. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": "DR 1943 849 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "850",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-06-26",
+      "wert": "3+7",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "8 Jahre Arbeitsdienst",
+      "bild_beschreibung": "Mann im Arbeitsdienst mit Spaten",
+      "entwerfer": "Klaus Müller-Rabe",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spaten",
+          "beschriftung": "Spaten",
+          "haupt": true,
+          "artikel": "Spaten",
+          "wikidata": "Q216642"
+        },
+        {
+          "titel": "Reichsarbeitsdienst",
+          "beschriftung": "Arbeitsdienst",
+          "haupt": false,
+          "artikel": "Reichsarbeitsdienst",
+          "wikidata": "Q318359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "851",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-06-26",
+      "wert": "5+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "8 Jahre Arbeitsdienst",
+      "bild_beschreibung": "Mann im Arbeitsdienst mit Sense",
+      "entwerfer": "Klaus Müller-Rabe",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sense (Werkzeug)",
+          "beschriftung": "Sense",
+          "haupt": true,
+          "artikel": "Sense (Werkzeug)",
+          "wikidata": "Q130912"
+        },
+        {
+          "titel": "Reichsarbeitsdienst",
+          "beschriftung": "Arbeitsdienst",
+          "haupt": false,
+          "artikel": "Reichsarbeitsdienst",
+          "wikidata": "Q318359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "852",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-06-26",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "8 Jahre Arbeitsdienst",
+      "bild_beschreibung": "Mann im Arbeitsdienst mit Hammer",
+      "entwerfer": "Klaus Müller-Rabe",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hammer",
+          "beschriftung": "Hammer",
+          "haupt": true,
+          "artikel": "Hammer",
+          "wikidata": "Q25294"
+        },
+        {
+          "titel": "Reichsarbeitsdienst",
+          "beschriftung": "Arbeitsdienst",
+          "haupt": false,
+          "artikel": "Reichsarbeitsdienst",
+          "wikidata": "Q318359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "853",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-06-26",
+      "wert": "12+18",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "8 Jahre Arbeitsdienst",
+      "bild_beschreibung": "Mann im Arbeitsdienst mit Pickel",
+      "entwerfer": "Klaus Müller-Rabe",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pickel (Werkzeug)",
+          "beschriftung": "Pickel",
+          "haupt": true,
+          "artikel": "Pickel (Werkzeug)",
+          "wikidata": "Q232254"
+        },
+        {
+          "titel": "Reichsarbeitsdienst",
+          "beschriftung": "Arbeitsdienst",
+          "haupt": false,
+          "artikel": "Reichsarbeitsdienst",
+          "wikidata": "Q318359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "854",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-07-27",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "Jagdreiter mit Waldhorn",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "das Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        },
+        {
+          "titel": "Reiten",
+          "beschriftung": "Jagdreiter",
+          "haupt": false,
+          "artikel": "Reiten",
+          "wikidata": "Q179226"
+        },
+        {
+          "titel": "Waldhorn",
+          "beschriftung": "Waldhorn",
+          "haupt": false,
+          "artikel": "Horn (Blechblasinstrument)",
+          "wikidata": "Q163759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "855",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-07-27",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Peter Rosegger (1843–1918)",
+      "bild_beschreibung": "Das Geburtshaus von Peter Rosegger in Alpl in der Steiermark",
+      "entwerfer": "Brunlechner",
+      "auflage": null,
+      "commons_datei": "DR 1943 855 Peter Rosegger.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krieglach",
+          "beschriftung": "Alpl",
+          "haupt": true,
+          "artikel": "Krieglach",
+          "wikidata": "Q671402"
+        },
+        {
+          "titel": "Steiermark",
+          "beschriftung": "Steiermark",
+          "haupt": false,
+          "artikel": "Steiermark",
+          "wikidata": "Q41358"
+        }
+      ]
+    },
+    {
+      "mi_nr": "856",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-07-27",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Peter Rosegger (1843–1918)",
+      "bild_beschreibung": "Peter Rosegger, Österreichischer Schriftsteller",
+      "entwerfer": "Brunlechner",
+      "auflage": null,
+      "commons_datei": "DR 1943 856 Peter Rosegger.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Peter Rosegger",
+          "beschriftung": "Peter Rosegger",
+          "haupt": true,
+          "artikel": "Peter Rosegger",
+          "wikidata": "Q93841"
+        },
+        {
+          "titel": "Österreich",
+          "beschriftung": "Österreich",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "857",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-08-14",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rennen um den Großen Preis von Wien 1943",
+      "bild_beschreibung": "Rennpferd",
+      "entwerfer": "Hans Ranzoni",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pferdesport",
+          "beschriftung": "Rennpferd",
+          "haupt": true,
+          "artikel": "Pferdesport",
+          "wikidata": "Q902378"
+        },
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": false,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "858",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-08-14",
+      "wert": "12+88",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rennen um den Großen Preis von Wien 1943",
+      "bild_beschreibung": "Rennpferd",
+      "entwerfer": "Hans Ranzoni",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": true,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "859",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-09-01",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Winterhilfswerk",
+      "bild_beschreibung": "Mutter mit vier Kindern",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": true,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "860",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-10-01",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Gesellschaft für Goldschmiedekunst",
+      "bild_beschreibung": "Ritter St. Georg",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ritter",
+          "beschriftung": "Ritter",
+          "haupt": true,
+          "artikel": "Ritter",
+          "wikidata": "Q102083"
+        },
+        {
+          "titel": "Georg (Heiliger)",
+          "beschriftung": "St. Georg",
+          "haupt": false,
+          "artikel": "Georg (Heiliger)",
+          "wikidata": "Q48438"
+        },
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Goldschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-10-01",
+      "wert": "12+88",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Gesellschaft für Goldschmiedekunst",
+      "bild_beschreibung": "Ritter St. Georg",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Goldschmiedekunst",
+          "haupt": true,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-10-24",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Lübeck",
+      "bild_beschreibung": "Stadtansicht des alten Lübecks",
+      "entwerfer": "A. Mahlau",
+      "auflage": null,
+      "commons_datei": "DR 1943 862 Lübeck.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lübeck",
+          "beschriftung": "Lübeck",
+          "haupt": true,
+          "artikel": "Lübeck",
+          "wikidata": "Q2843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "863",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1943-11-05",
+      "wert": "24+26",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag des Hitlerputsches",
+      "bild_beschreibung": "Fahnenträger",
+      "entwerfer": "Franz Roubal",
+      "auflage": null,
+      "commons_datei": "DR 1943 863 Hitlerputsch.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hitlerputsch",
+          "beschriftung": "Hitlerputsch",
+          "haupt": true,
+          "artikel": "Hitlerputsch",
+          "wikidata": "Q36749"
+        }
+      ]
+    }
+  ]
+}

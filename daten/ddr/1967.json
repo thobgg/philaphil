@@ -1,0 +1,3196 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1967,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1967 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1967_der_Deutschen_Post_der_DDR",
+    "revision": 265990852,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1245,
+    "mi_nr_bis": 1334,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 89,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1245",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-01-24",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (I)",
+      "bild_beschreibung": "Schloss Wörlitz (erbaut 1769–1773)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Wörlitz",
+          "beschriftung": "Schloss Wörlitz",
+          "haupt": true,
+          "artikel": "Schloss Wörlitz",
+          "wikidata": "Q21293161"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1246",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-01-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (I)",
+      "bild_beschreibung": "Rathaus Stralsund, Nordfassade am Markt (erbaut um 1500)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rathaus Stralsund",
+          "beschriftung": "Rathaus Stralsund",
+          "haupt": true,
+          "artikel": "Stralsunder Rathaus",
+          "wikidata": "Q315605"
+        },
+        {
+          "titel": "Alter Markt (Stralsund)",
+          "beschriftung": "Markt",
+          "haupt": false,
+          "artikel": "Alter Markt (Stralsund)",
+          "wikidata": "Q438095"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1247",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-01-24",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (I)",
+      "bild_beschreibung": "Kloster Chorin, Westfassade (erbaut um 1300)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kloster Chorin",
+          "beschriftung": "Kloster Chorin",
+          "haupt": true,
+          "artikel": "Kloster Chorin",
+          "wikidata": "Q314084"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1248",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-01-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (I)",
+      "bild_beschreibung": "Ribbeckhaus in Berlin, Fassade (erbaut 1624)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ribbeck-Haus",
+          "beschriftung": "Ribbeckhaus",
+          "haupt": true,
+          "artikel": "Ribbeck-Haus",
+          "wikidata": "Q936335"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1249",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-01-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (I)",
+      "bild_beschreibung": "Schloss Moritzburg, Zeitz (erbaut 1657–1667)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Moritzburg (Zeitz)",
+          "beschriftung": "Schloss Moritzburg",
+          "haupt": true,
+          "artikel": "Schloss Moritzburg (Zeitz)",
+          "wikidata": "Q959142"
+        },
+        {
+          "titel": "Zeitz",
+          "beschriftung": "Zeitz",
+          "haupt": false,
+          "artikel": "Zeitz",
+          "wikidata": "Q16087"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1250",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-01-24",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Bauwerke (I)",
+      "bild_beschreibung": "Ehemaliges Altes Rathaus Potsdam (erbaut 1753)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Potsdam)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Potsdam)",
+          "wikidata": "Q322512"
+        },
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Bedeutende Bauwerke",
+          "beschriftung": "Bedeutende Bauwerke",
+          "haupt": false,
+          "artikel": "Bedeutende Bauwerke",
+          "wikidata": "Q813843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1251",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-02-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Biathlon-Weltmeisterschaften, Altenberg",
+      "bild_beschreibung": "Liegend-Schießen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biathlon-Weltmeisterschaften 1967",
+          "beschriftung": "Biathlon-Weltmeisterschaften",
+          "haupt": true,
+          "artikel": "Biathlon-Weltmeisterschaften 1967",
+          "wikidata": "Q703068"
+        },
+        {
+          "titel": "Altenberg (Erzgebirge)",
+          "beschriftung": "Altenberg",
+          "haupt": false,
+          "artikel": "Altenberg (Erzgebirge)",
+          "wikidata": "Q436724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1252",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-02-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Biathlon-Weltmeisterschaften, Altenberg",
+      "bild_beschreibung": "Stehend-Schießen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biathlon-Weltmeisterschaften 1967",
+          "beschriftung": "Biathlon-Weltmeisterschaften",
+          "haupt": true,
+          "artikel": "Biathlon-Weltmeisterschaften 1967",
+          "wikidata": "Q703068"
+        },
+        {
+          "titel": "Altenberg (Erzgebirge)",
+          "beschriftung": "Altenberg",
+          "haupt": false,
+          "artikel": "Altenberg (Erzgebirge)",
+          "wikidata": "Q436724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1253",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-02-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Biathlon-Weltmeisterschaften, Altenberg",
+      "bild_beschreibung": "Staffellauf, Wechsel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biathlon-Weltmeisterschaften 1967",
+          "beschriftung": "Biathlon-Weltmeisterschaften",
+          "haupt": true,
+          "artikel": "Biathlon-Weltmeisterschaften 1967",
+          "wikidata": "Q703068"
+        },
+        {
+          "titel": "Altenberg (Erzgebirge)",
+          "beschriftung": "Altenberg",
+          "haupt": false,
+          "artikel": "Altenberg (Erzgebirge)",
+          "wikidata": "Q436724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1254",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Rundstrickmaschine „Multilock“, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "strickmaschine",
+          "beschriftung": "strickmaschine",
+          "haupt": true,
+          "artikel": "Strickmaschine",
+          "wikidata": "Q1094365"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1255",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-02",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "2-Meter-Universalspiegelteleskop, Milchstraße, Firmenzeichen des VEB Carl Zeiss Jena, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "spiegelteleskop",
+          "beschriftung": "spiegelteleskop",
+          "haupt": true,
+          "artikel": "Spiegelteleskop",
+          "wikidata": "Q35221"
+        },
+        {
+          "titel": "Milchstraße",
+          "beschriftung": "Milchstraße",
+          "haupt": false,
+          "artikel": "Milchstraße",
+          "wikidata": "Q321"
+        },
+        {
+          "titel": "Carl Zeiss (Unternehmen)",
+          "beschriftung": "Carl Zeiss Jena",
+          "haupt": false,
+          "artikel": "Carl Zeiss AG",
+          "wikidata": "Q282186"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1256",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Demokratischer Frauenbund Deutschlands (DFD)",
+      "bild_beschreibung": "Frau mit Kind (Familie)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Demokratischer Frauenbund Deutschlands",
+          "beschriftung": "Demokratischer Frauenbund Deutschlands",
+          "haupt": true,
+          "artikel": "Demokratischer Frauenbund Deutschlands",
+          "wikidata": "Q558343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1257",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Demokratischer Frauenbund Deutschlands (DFD)",
+      "bild_beschreibung": "Frau am Schaltpult (Beruf)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Demokratischer Frauenbund Deutschlands",
+          "beschriftung": "Demokratischer Frauenbund Deutschlands",
+          "haupt": true,
+          "artikel": "Demokratischer Frauenbund Deutschlands",
+          "wikidata": "Q558343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1258",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (I)",
+      "bild_beschreibung": "Regelpult einer Chemieanlage, Kopfbilder von Karl Marx, Engels und Lenin",
+      "entwerfer": "Karl Sauer",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1259",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (I)",
+      "bild_beschreibung": "Walter Ulbricht im Kreis von Werktätigen, Kopfbilder von Marx, Engels und Lenin",
+      "entwerfer": "Karl Sauer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Ulbricht",
+          "beschriftung": "Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Walter Ulbricht",
+          "wikidata": "Q2628"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1260",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-22",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (I)",
+      "bild_beschreibung": "Soldaten der Nationalen Volksarmee vor einer Industrieanlage, Kopfbilder von Marx, Engels und Lenin",
+      "entwerfer": "Karl Sauer",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nationale Volksarmee",
+          "beschriftung": "Nationalen Volksarmee",
+          "haupt": true,
+          "artikel": "Nationale Volksarmee",
+          "wikidata": "Q155740"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1261",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (I)",
+      "bild_beschreibung": "Mähdrescherbrigade, Kopfbilder von Marx, Engels und Lenin",
+      "entwerfer": "Karl Sauer",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mähdrescher",
+          "beschriftung": "Mähdrescher",
+          "haupt": true,
+          "artikel": "Mähdrescher",
+          "wikidata": "Q26886"
+        },
+        {
+          "titel": "Parteitag der SED",
+          "beschriftung": "Parteitag der Sozialistischen Einheitspartei Deutschlands",
+          "haupt": false,
+          "artikel": "Parteitag der SED",
+          "wikidata": "Q2054352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1262",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen, Dresden; Galerie Neue Meister",
+      "bild_beschreibung": "„Bildnis Madame de R.“ von Ferdinand Hodler (1853–1918)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1262.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ferdinand Hodler",
+          "beschriftung": "Ferdinand Hodler",
+          "haupt": true,
+          "artikel": "Ferdinand Hodler",
+          "wikidata": "Q214564"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen, Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1263",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen, Dresden; Galerie Neue Meister",
+      "bild_beschreibung": "„Peter im Tierpark“ von Harald Hakenbeck (* 1926)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harald Hakenbeck",
+          "beschriftung": "Harald Hakenbeck",
+          "haupt": true,
+          "artikel": "Harald Hakenbeck",
+          "wikidata": "Q1584523"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen, Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1264",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-29",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen, Dresden; Galerie Neue Meister",
+      "bild_beschreibung": "„Venezianische Episode“ von Rudolf Bergander (1909–1970)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Venedig",
+          "beschriftung": "Venezianische",
+          "haupt": true,
+          "artikel": "Venedig",
+          "wikidata": "Q641"
+        },
+        {
+          "titel": "Rudolf Bergander",
+          "beschriftung": "Rudolf Bergander",
+          "haupt": false,
+          "artikel": "Rudolf Bergander",
+          "wikidata": "Q104218"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen, Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1265",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-29",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen, Dresden; Galerie Neue Meister",
+      "bild_beschreibung": "„Zwei Frauen aus Tahiti“ von Paul Gauguin (1848–1903)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1265.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tahiti",
+          "beschriftung": "Tahiti",
+          "haupt": true,
+          "artikel": "Tahiti",
+          "wikidata": "Q42000"
+        },
+        {
+          "titel": "Paul Gauguin",
+          "beschriftung": "Paul Gauguin",
+          "haupt": false,
+          "artikel": "Paul Gauguin",
+          "wikidata": "Q37693"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen, Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1266",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-29",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen, Dresden; Galerie Neue Meister",
+      "bild_beschreibung": "„Großmutter und Enkelin“ von Julius Scholtz (1825–1893)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1266.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Julius Scholtz",
+          "beschriftung": "Julius Scholtz",
+          "haupt": true,
+          "artikel": "Julius Scholtz",
+          "wikidata": "Q1606397"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen, Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1267",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-03-29",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Kunstsammlungen, Dresden; Galerie Neue Meister",
+      "bild_beschreibung": "„Hünengrab im Schnee“ von Caspar David Friedrich (1774–1840)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1267.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großsteingrab",
+          "beschriftung": "Hünengrab",
+          "haupt": true,
+          "artikel": "Großsteingrab",
+          "wikidata": "Q10521078"
+        },
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": false,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Staatliche Kunstsammlungen, Dresden",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        },
+        {
+          "titel": "Galerie Neue Meister",
+          "beschriftung": "Galerie Neue Meister",
+          "haupt": false,
+          "artikel": "Galerie Neue Meister",
+          "wikidata": "Q472706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1268",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-05",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (II)",
+      "bild_beschreibung": "Traktorfahrer, landwirtschaftliche Maschinen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": true,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1269",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (II)",
+      "bild_beschreibung": "Lehrer mit Schülern, Industrieanlage",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1270",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-05",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (II)",
+      "bild_beschreibung": "Familie, Wohnhäuser mit Baukran",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baukran",
+          "beschriftung": "Baukran",
+          "haupt": true,
+          "artikel": "Turmkran",
+          "wikidata": "Q1536423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1271",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "VII. Parteitag der Sozialistischen Einheitspartei Deutschlands (SED) (II)",
+      "bild_beschreibung": "Soldaten verschiedener Waffengattungen vor Staatswappen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waffengattung",
+          "beschriftung": "Waffengattung",
+          "haupt": true,
+          "artikel": "Truppengattung",
+          "wikidata": "Q690109"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1272",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte Vogelarten",
+      "bild_beschreibung": "Schleiereule (Tyto alba)",
+      "entwerfer": "Erik Mailick",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schleiereule",
+          "beschriftung": "Schleiereule",
+          "haupt": true,
+          "artikel": "Schleiereule",
+          "wikidata": "Q25317"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogelarten",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1273",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte Vogelarten",
+      "bild_beschreibung": "Kranich (Grus grus)",
+      "entwerfer": "Erik Mailick",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kranich",
+          "beschriftung": "Kranich",
+          "haupt": true,
+          "artikel": "Kranich",
+          "wikidata": "Q4764"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogelarten",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1274",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte Vogelarten",
+      "bild_beschreibung": "Wanderfalke (Falco peregrinus)",
+      "entwerfer": "Erik Mailick",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wanderfalke",
+          "beschriftung": "Wanderfalke",
+          "haupt": true,
+          "artikel": "Wanderfalke",
+          "wikidata": "Q30535"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogelarten",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1275",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte Vogelarten",
+      "bild_beschreibung": "Gimpel (Pyrrhula pyrrhula)",
+      "entwerfer": "Erik Mailick",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gimpel (Art)",
+          "beschriftung": "Gimpel",
+          "haupt": true,
+          "artikel": "Gimpel (Art)",
+          "wikidata": "Q25382"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogelarten",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1276",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte Vogelarten",
+      "bild_beschreibung": "Eisvogel (Alcedo atthis)",
+      "entwerfer": "Erik Mailick",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisvogel",
+          "beschriftung": "Eisvogel",
+          "haupt": true,
+          "artikel": "Eisvogel",
+          "wikidata": "Q79915"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogelarten",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1277",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte Vogelarten",
+      "bild_beschreibung": "Blauracke (Coracias garrulus)",
+      "entwerfer": "Erik Mailick",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blauracke",
+          "beschriftung": "Blauracke",
+          "haupt": true,
+          "artikel": "Blauracke",
+          "wikidata": "Q179367"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogelarten",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1278",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-05-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XX. Internationale Radfernfahrt für den Frieden Warschau-Berlin-Prag 1967",
+      "bild_beschreibung": "Stadtwappen von Warschau, Berlin und Prag vor drei Rädern, stilisierte Tauben",
+      "entwerfer": "Annemarie Wegner, Marja Baumann",
+      "auflage": 14000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1278.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": true,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Tauben",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1967",
+          "beschriftung": "Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1967",
+          "wikidata": "Q1667196"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1279",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-05-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "XX. Internationale Radfernfahrt für den Frieden Warschau-Berlin-Prag 1967",
+      "bild_beschreibung": "Radrennfahrer, stilisierte Tauben",
+      "entwerfer": "Annemarie Wegner, Marja Baumann",
+      "auflage": 1500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1279.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radrennfahrer",
+          "beschriftung": "Radrennfahrer",
+          "haupt": true,
+          "artikel": "Radrennfahrer",
+          "wikidata": "Q2309784"
+        },
+        {
+          "titel": "Internationale Friedensfahrt 1967",
+          "beschriftung": "Internationale Radfernfahrt für den Frieden",
+          "haupt": false,
+          "artikel": "Internationale Friedensfahrt 1967",
+          "wikidata": "Q1667196"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1280",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinderzeichnungen zum Internationalen Kindertag",
+      "bild_beschreibung": "Kater",
+      "entwerfer": "Günter Schütz",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hauskatze",
+          "beschriftung": "Kater",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Internationalen Kindertag",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1281",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinderzeichnungen zum Internationalen Kindertag",
+      "bild_beschreibung": "Schneewittchen",
+      "entwerfer": "Günter Schütz",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Schneewittchen",
+          "haupt": true,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Internationalen Kindertag",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1282",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinderzeichnungen zum Internationalen Kindertag",
+      "bild_beschreibung": "Feuerwehr",
+      "entwerfer": "Günter Schütz",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuerwehrfahrzeug",
+          "beschriftung": "Feuerwehr",
+          "haupt": true,
+          "artikel": "Feuerwehrfahrzeug",
+          "wikidata": "Q208281"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Internationalen Kindertag",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1283",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinderzeichnungen zum Internationalen Kindertag",
+      "bild_beschreibung": "Hahn",
+      "entwerfer": "Günter Schütz",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haushuhn",
+          "beschriftung": "Hahn",
+          "haupt": true,
+          "artikel": "Haushuhn",
+          "wikidata": "Q780"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Internationalen Kindertag",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1284",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinderzeichnungen zum Internationalen Kindertag",
+      "bild_beschreibung": "Blumenstrauß",
+      "entwerfer": "Günter Schütz",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blume",
+          "beschriftung": "Blume",
+          "haupt": true,
+          "artikel": "Blume",
+          "wikidata": "Q886167"
+        },
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Internationalen Kindertag",
+          "haupt": false,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1285",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinderzeichnungen zum Internationalen Kindertag",
+      "bild_beschreibung": "Spielende Kinder",
+      "entwerfer": "Günter Schütz",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kindertag",
+          "beschriftung": "Internationalen Kindertag",
+          "haupt": true,
+          "artikel": "Kindertag",
+          "wikidata": "Q37081"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1286",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-07",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vermisste Gemälde",
+      "bild_beschreibung": "„Drei Reiter“ von Peter Paul Rubens",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1286.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Peter Paul Rubens",
+          "beschriftung": "Peter Paul Rubens",
+          "haupt": true,
+          "artikel": "Peter Paul Rubens",
+          "wikidata": "Q5599"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1287",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vermisste Gemälde",
+      "bild_beschreibung": "„Traubenpflückendes Mädchen“ von Gerard Dou",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 16000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1287.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerard Dou",
+          "beschriftung": "Gerard Dou",
+          "haupt": true,
+          "artikel": "Gerard Dou",
+          "wikidata": "Q335927"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vermisste Gemälde",
+      "bild_beschreibung": "„Frühlingsidyll“ von Hans Thoma",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 11100000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1288.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Thoma",
+          "beschriftung": "Hans Thoma",
+          "haupt": true,
+          "artikel": "Hans Thoma",
+          "wikidata": "Q678094"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vermisste Gemälde",
+      "bild_beschreibung": "„Bildnis der Hofopernsängerin Wilhelmine Schroeder-Devrient“ von Karl Begas",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1289.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "opernsängerin",
+          "beschriftung": "opernsängerin",
+          "haupt": true,
+          "artikel": "Oper",
+          "wikidata": "Q1344"
+        },
+        {
+          "titel": "Wilhelmine Schroeder-Devrient",
+          "beschriftung": "Wilhelmine Schroeder-Devrient",
+          "haupt": false,
+          "artikel": "Wilhelmine Schröder-Devrient",
+          "wikidata": "Q63238"
+        },
+        {
+          "titel": "Karl Begas",
+          "beschriftung": "Karl Begas",
+          "haupt": false,
+          "artikel": "Karl Begas",
+          "wikidata": "Q876061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vermisste Gemälde",
+      "bild_beschreibung": "„Junges Mädchen mit Strohhut“ von Salomon de Bray",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1290.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Salomon de Bray",
+          "beschriftung": "Salomon de Bray",
+          "haupt": true,
+          "artikel": "Salomon de Bray",
+          "wikidata": "Q541736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-07",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vermisste Gemälde",
+      "bild_beschreibung": "„Die vier Evangelisten“ von Jacob Jordaens",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 1500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1291.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Evangelist (Neues Testament)",
+          "beschriftung": "Evangelisten",
+          "haupt": true,
+          "artikel": "Evangelist (Neues Testament)",
+          "wikidata": "Q472773"
+        },
+        {
+          "titel": "Jacob Jordaens",
+          "beschriftung": "Jacob Jordaens",
+          "haupt": false,
+          "artikel": "Jacob Jordaens",
+          "wikidata": "Q270658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Landwirtschaftsausstellung, Markkleeberg (Agra vom 18. Juni–16. Juli 1967 Leipzig)",
+      "bild_beschreibung": "Agra-Symbol, Stumme Karte der DDR",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Markkleeberg",
+          "beschriftung": "Markkleeberg",
+          "haupt": true,
+          "artikel": "Markkleeberg",
+          "wikidata": "Q10782"
+        },
+        {
+          "titel": "agra (Landwirtschaftsausstellung)",
+          "beschriftung": "Agra",
+          "haupt": false,
+          "artikel": "Agra (Landwirtschaftsausstellung)",
+          "wikidata": "Q395859"
+        },
+        {
+          "titel": "Stumme Karte",
+          "beschriftung": "Stumme Karte",
+          "haupt": false,
+          "artikel": "Stumme Karte",
+          "wikidata": "Q1362775"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (I)",
+      "bild_beschreibung": "Georg Herwegh (1817–1875), Dichter",
+      "entwerfer": "Margot Bitzer",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Herwegh",
+          "beschriftung": "Georg Herwegh",
+          "haupt": true,
+          "artikel": "Georg Herwegh",
+          "wikidata": "Q57945"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (I)",
+      "bild_beschreibung": "Marie Curie (1867–1934), Chemikerin",
+      "entwerfer": "Margot Bitzer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marie Curie",
+          "beschriftung": "Marie Curie",
+          "haupt": true,
+          "artikel": "Marie Curie",
+          "wikidata": "Q7186"
+        },
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": false,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (I)",
+      "bild_beschreibung": "Käthe Kollwitz (1867–1945), Grafikerin und Malerin",
+      "entwerfer": "Margot Bitzer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": true,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Grafiker",
+          "beschriftung": "Grafiker",
+          "haupt": false,
+          "artikel": "Grafiker",
+          "wikidata": "Q1925963"
+        },
+        {
+          "titel": "Maler",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (I)",
+      "bild_beschreibung": "Johann Joachim Winckelmann (1717–1768), Archäologe und Historiker",
+      "entwerfer": "Margot Bitzer",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Joachim Winckelmann",
+          "beschriftung": "Johann Joachim Winckelmann",
+          "haupt": true,
+          "artikel": "Johann Joachim Winckelmann",
+          "wikidata": "Q57280"
+        },
+        {
+          "titel": "Archäologe",
+          "beschriftung": "Archäologe",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (I)",
+      "bild_beschreibung": "Theodor Storm (1817–1888), Dichter und Schriftsteller",
+      "entwerfer": "Margot Bitzer",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Storm",
+          "beschriftung": "Theodor Storm",
+          "haupt": true,
+          "artikel": "Theodor Storm",
+          "wikidata": "Q26993"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Spielkarten",
+      "bild_beschreibung": "Schellenunter / Karobube",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schellen (Farbe)",
+          "beschriftung": "Schellen",
+          "haupt": true,
+          "artikel": "Schellen (Farbe)",
+          "wikidata": "Q2233012"
+        },
+        {
+          "titel": "unter",
+          "beschriftung": "unter",
+          "haupt": false,
+          "artikel": "Unter",
+          "wikidata": "Q2497014"
+        },
+        {
+          "titel": "Karo (Farbe)",
+          "beschriftung": "Karo",
+          "haupt": false,
+          "artikel": "Karo (Farbe)",
+          "wikidata": "Q513847"
+        },
+        {
+          "titel": "Bube (Spielkarte)",
+          "beschriftung": "bube",
+          "haupt": false,
+          "artikel": "Bube (Spielkarte)",
+          "wikidata": "Q510474"
+        },
+        {
+          "titel": "Spielkarte",
+          "beschriftung": "Spielkarte",
+          "haupt": false,
+          "artikel": "Spielkarte",
+          "wikidata": "Q47883"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Spielkarten",
+      "bild_beschreibung": "Herzunter / Herzbube",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herz (Farbe)",
+          "beschriftung": "Herzunter",
+          "haupt": true,
+          "artikel": "Herz (Farbe)",
+          "wikidata": "Q3419242"
+        },
+        {
+          "titel": "Spielkarte",
+          "beschriftung": "Spielkarte",
+          "haupt": false,
+          "artikel": "Spielkarte",
+          "wikidata": "Q47883"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Spielkarten",
+      "bild_beschreibung": "Grünunter / Pikbube",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Laub (Farbe)",
+          "beschriftung": "Grünunter",
+          "haupt": true,
+          "artikel": "Laub (Farbe)",
+          "wikidata": "Q1807128"
+        },
+        {
+          "titel": "Pik",
+          "beschriftung": "Pik",
+          "haupt": false,
+          "artikel": "Pik",
+          "wikidata": "Q2094951"
+        },
+        {
+          "titel": "Spielkarte",
+          "beschriftung": "Spielkarte",
+          "haupt": false,
+          "artikel": "Spielkarte",
+          "wikidata": "Q47883"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Spielkarten",
+      "bild_beschreibung": "Eichelunter / Kreuzbube",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eichel (Farbe)",
+          "beschriftung": "Eichelunter",
+          "haupt": true,
+          "artikel": "Eichel (Farbe)",
+          "wikidata": "Q1301333"
+        },
+        {
+          "titel": "Kreuz (Farbe)",
+          "beschriftung": "Kreuzbube",
+          "haupt": false,
+          "artikel": "Kreuz (Farbe)",
+          "wikidata": "Q1788166"
+        },
+        {
+          "titel": "Spielkarte",
+          "beschriftung": "Spielkarte",
+          "haupt": false,
+          "artikel": "Spielkarte",
+          "wikidata": "Q47883"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1302",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-08-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vollblutmeeting der sozialistischen Länder, Hoppegarten",
+      "bild_beschreibung": "Mutterstute mit Fohlen",
+      "entwerfer": "Klaus Hennig, Gerhard Bläser",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "stute",
+          "beschriftung": "stute",
+          "haupt": true,
+          "artikel": "Stute",
+          "wikidata": "Q1104034"
+        },
+        {
+          "titel": "Fohlen",
+          "beschriftung": "Fohlen",
+          "haupt": false,
+          "artikel": "Fohlen",
+          "wikidata": "Q45614"
+        },
+        {
+          "titel": "Vollblüter",
+          "beschriftung": "Vollblutmeeting",
+          "haupt": false,
+          "artikel": "Vollblüter",
+          "wikidata": "Q1609437"
+        },
+        {
+          "titel": "Galopprennbahn Hoppegarten",
+          "beschriftung": "Hoppegarten",
+          "haupt": false,
+          "artikel": "Galopprennbahn Hoppegarten",
+          "wikidata": "Q1492695"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1303",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-08-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vollblutmeeting der sozialistischen Länder, Hoppegarten",
+      "bild_beschreibung": "Zuchthengst",
+      "entwerfer": "Klaus Hennig, Gerhard Bläser",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "hengst",
+          "beschriftung": "hengst",
+          "haupt": true,
+          "artikel": "Hengst",
+          "wikidata": "Q757833"
+        },
+        {
+          "titel": "Vollblüter",
+          "beschriftung": "Vollblutmeeting",
+          "haupt": false,
+          "artikel": "Vollblüter",
+          "wikidata": "Q1609437"
+        },
+        {
+          "titel": "Galopprennbahn Hoppegarten",
+          "beschriftung": "Hoppegarten",
+          "haupt": false,
+          "artikel": "Galopprennbahn Hoppegarten",
+          "wikidata": "Q1492695"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1304",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-08-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vollblutmeeting der sozialistischen Länder, Hoppegarten",
+      "bild_beschreibung": "Galopprennen",
+      "entwerfer": "Klaus Hennig, Gerhard Bläser",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Galopprennen",
+          "beschriftung": "Galopprennen",
+          "haupt": true,
+          "artikel": "Galopprennsport",
+          "wikidata": "Q3214425"
+        },
+        {
+          "titel": "Vollblüter",
+          "beschriftung": "Vollblutmeeting",
+          "haupt": false,
+          "artikel": "Vollblüter",
+          "wikidata": "Q1609437"
+        },
+        {
+          "titel": "Galopprennbahn Hoppegarten",
+          "beschriftung": "Hoppegarten",
+          "haupt": false,
+          "artikel": "Galopprennbahn Hoppegarten",
+          "wikidata": "Q1492695"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1305",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-08-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Vollblutmeeting der sozialistischen Länder, Hoppegarten",
+      "bild_beschreibung": "Spielende Jährlingshengste",
+      "entwerfer": "Klaus Hennig, Gerhard Bläser",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste von Bezeichnungen für Haus- und Wildtiere",
+          "beschriftung": "Jährlingshengste",
+          "haupt": true,
+          "artikel": "Liste von Bezeichnungen für Haus- und Wildtiere",
+          "wikidata": "Q1834161"
+        },
+        {
+          "titel": "Vollblüter",
+          "beschriftung": "Vollblutmeeting",
+          "haupt": false,
+          "artikel": "Vollblüter",
+          "wikidata": "Q1609437"
+        },
+        {
+          "titel": "Galopprennbahn Hoppegarten",
+          "beschriftung": "Hoppegarten",
+          "haupt": false,
+          "artikel": "Galopprennbahn Hoppegarten",
+          "wikidata": "Q1492695"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1306",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-08-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Küchenmaschine, elektrische Kaffeemühle und Handrührgerät",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Küchenmaschine",
+          "beschriftung": "Küchenmaschine",
+          "haupt": true,
+          "artikel": "Küchenmaschine",
+          "wikidata": "Q1126251"
+        },
+        {
+          "titel": "Kaffeemühle",
+          "beschriftung": "Kaffeemühle",
+          "haupt": false,
+          "artikel": "Kaffeemühle",
+          "wikidata": "Q1139048"
+        },
+        {
+          "titel": "Handrührgerät",
+          "beschriftung": "Handrührgerät",
+          "haupt": false,
+          "artikel": "Handrührgerät",
+          "wikidata": "Q954087"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1307",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-08-30",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Pelzmantel, Firmenzeichen des Außenhandelsunternehmen „Interpelz“",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pelzmantel",
+          "beschriftung": "Pelzmantel",
+          "haupt": true,
+          "artikel": "Pelzmantel",
+          "wikidata": "Q25397898"
+        },
+        {
+          "titel": "Interpelz",
+          "beschriftung": "Interpelz",
+          "haupt": false,
+          "artikel": "Brühlpelz",
+          "wikidata": "Q28924693"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der revolutionären Matrosenbewegung",
+      "bild_beschreibung": "Max Reichpietsch, Großlinienschiff Friedrich der Große",
+      "entwerfer": "Harro Schneider",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Reichpietsch",
+          "beschriftung": "Max Reichpietsch",
+          "haupt": true,
+          "artikel": "Max Reichpietsch",
+          "wikidata": "Q118947"
+        },
+        {
+          "titel": "linienschiff",
+          "beschriftung": "linienschiff",
+          "haupt": false,
+          "artikel": "Linienschiff",
+          "wikidata": "Q207452"
+        },
+        {
+          "titel": "Friedrich der Große (Schiff, 1912)",
+          "beschriftung": "Friedrich der Große",
+          "haupt": false,
+          "artikel": "Friedrich der Große (Schiff, 1912)",
+          "wikidata": "Q176507"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-05",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der revolutionären Matrosenbewegung",
+      "bild_beschreibung": "Albin Köbis, Großlinienschiff Prinzregent Luitpold",
+      "entwerfer": "Harro Schneider",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albin Köbis",
+          "beschriftung": "Albin Köbis",
+          "haupt": true,
+          "artikel": "Albin Köbis",
+          "wikidata": "Q109519"
+        },
+        {
+          "titel": "Prinzregent Luitpold (Schiff, 1913)",
+          "beschriftung": "Prinzregent Luitpold",
+          "haupt": false,
+          "artikel": "Prinzregent Luitpold (Schiff, 1913)",
+          "wikidata": "Q551918"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der revolutionären Matrosenbewegung",
+      "bild_beschreibung": "Demonstration, Schlachtkreuzer der Seydlitz-Klasse",
+      "entwerfer": "Harro Schneider",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlachtkreuzer",
+          "beschriftung": "Schlachtkreuzer",
+          "haupt": true,
+          "artikel": "Schlachtkreuzer",
+          "wikidata": "Q214190"
+        },
+        {
+          "titel": "Seydlitz (Schiff, 1913)",
+          "beschriftung": "''Seydlitz''-Klasse",
+          "haupt": false,
+          "artikel": "Seydlitz (Schiff, 1913)",
+          "wikidata": "Q666900"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-09-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten (Kragujevac) (IV)",
+      "bild_beschreibung": "Figuren des Mahnmals Kragujevac",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1311.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Kragujevac",
+          "beschriftung": "Kragujevac",
+          "haupt": false,
+          "artikel": "Kragujevac",
+          "wikidata": "Q167394"
+        },
+        {
+          "titel": "Massaker von Kraljevo und Kragujevac",
+          "beschriftung": "Mahnmals Kragujevac",
+          "haupt": false,
+          "artikel": "Massaker von Kraljevo und Kragujevac",
+          "wikidata": "Q685201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1312 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-06",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Großen Sozialistischen Oktoberrevolution",
+      "bild_beschreibung": "Arbeiter mit roter Fahne, Titel der Zeitung Roten Fahne",
+      "entwerfer": "Manfred Gottschall, Joachim Rieß, Hans Detlefsen",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "roter Fahne",
+          "haupt": true,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        },
+        {
+          "titel": "Die Rote Fahne",
+          "beschriftung": "Roten Fahne",
+          "haupt": false,
+          "artikel": "Die Rote Fahne",
+          "wikidata": "Q309119"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Großen Sozialistischen Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1313 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Großen Sozialistischen Oktoberrevolution",
+      "bild_beschreibung": "Elektriker, Staudamm, Hochspannungsleitung",
+      "entwerfer": "Manfred Gottschall, Joachim Rieß, Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staudamm",
+          "beschriftung": "Staudamm",
+          "haupt": true,
+          "artikel": "Staudamm",
+          "wikidata": "Q1244922"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Großen Sozialistischen Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1314 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-06",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Großen Sozialistischen Oktoberrevolution",
+      "bild_beschreibung": "Skulptur des sowjetischen Ehrenmals in Berlin-Treptow, zerbrochener Adler",
+      "entwerfer": "Manfred Gottschall, Joachim Rieß, Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sowjetisches Ehrenmal im Treptower Park",
+          "beschriftung": "sowjetischen Ehrenmals",
+          "haupt": true,
+          "artikel": "Sowjetisches Ehrenmal im Treptower Park",
+          "wikidata": "Q48441"
+        },
+        {
+          "titel": "Berlin-Alt-Treptow",
+          "beschriftung": "Berlin-Treptow",
+          "haupt": false,
+          "artikel": "Berlin-Alt-Treptow",
+          "wikidata": "Q702517"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Großen Sozialistischen Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1315 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Großen Sozialistischen Oktoberrevolution",
+      "bild_beschreibung": "Diese und die folgende Marke wurden auch gemeinsam als geschnittener Briefmarkenblock mit aufgedruckter Zähnung ausgegeben (Mi.-Nr. 1315 B und 1316 B):; Soldaten der Sowjetarmee und der NVA",
+      "entwerfer": "Manfred Gottschall, Joachim Rieß, Hans Detlefsen",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Sowjetarmee",
+          "haupt": false,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Großen Sozialistischen Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1316 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag der Großen Sozialistischen Oktoberrevolution",
+      "bild_beschreibung": "Lenin, Kreuzer Aurora",
+      "entwerfer": "Manfred Gottschall, Joachim Rieß, Hans Detlefsen",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aurora (Schiff, 1903)",
+          "beschriftung": "Aurora",
+          "haupt": true,
+          "artikel": "Aurora (Schiff, 1903)",
+          "wikidata": "Q168713"
+        },
+        {
+          "titel": "Oktoberrevolution",
+          "beschriftung": "Großen Sozialistischen Oktoberrevolution",
+          "haupt": false,
+          "artikel": "Oktoberrevolution",
+          "wikidata": "Q42976"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Thesenanschlags an der Schlosskirche zu Wittenberg durch Martin Luther",
+      "bild_beschreibung": "„Martin Luther mit Doktorhut“ (Kupferstich von Lucas Cranach d. Ä.)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": true,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        },
+        {
+          "titel": "Doktorhut",
+          "beschriftung": "Doktorhut",
+          "haupt": false,
+          "artikel": "Doktorhut",
+          "wikidata": "Q3353782"
+        },
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": false,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Lucas Cranach der Ältere",
+          "beschriftung": "Lucas Cranach d.&nbsp;Ä.",
+          "haupt": false,
+          "artikel": "Lucas Cranach der Ältere",
+          "wikidata": "Q191748"
+        },
+        {
+          "titel": "95 Thesen",
+          "beschriftung": "Thesenanschlags",
+          "haupt": false,
+          "artikel": "95 Thesen",
+          "wikidata": "Q157506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Thesenanschlags an der Schlosskirche zu Wittenberg durch Martin Luther",
+      "bild_beschreibung": "Lutherhaus, Wittenberg",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1318.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Augusteum und Lutherhaus Wittenberg",
+          "beschriftung": "Lutherhaus",
+          "haupt": true,
+          "artikel": "Augusteum und Lutherhaus Wittenberg",
+          "wikidata": "Q459493"
+        },
+        {
+          "titel": "Wittenberg",
+          "beschriftung": "Wittenberg",
+          "haupt": false,
+          "artikel": "Lutherstadt Wittenberg",
+          "wikidata": "Q6837"
+        },
+        {
+          "titel": "95 Thesen",
+          "beschriftung": "Thesenanschlags",
+          "haupt": false,
+          "artikel": "95 Thesen",
+          "wikidata": "Q157506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450. Jahrestag des Thesenanschlags an der Schlosskirche zu Wittenberg durch Martin Luther",
+      "bild_beschreibung": "„Schlosskirche zu Wittenberg“ (Kupferstich von Lucas Cranach d. Ä.)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1500000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1319.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Wittenberg",
+          "beschriftung": "Schlosskirche zu Wittenberg",
+          "haupt": true,
+          "artikel": "Schloss Wittenberg",
+          "wikidata": "Q18027732"
+        },
+        {
+          "titel": "95 Thesen",
+          "beschriftung": "Thesenanschlags",
+          "haupt": false,
+          "artikel": "95 Thesen",
+          "wikidata": "Q157506"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Messe der Meister von Morgen (MMM), Leipzig",
+      "bild_beschreibung": "Diese und die folgenden beiden Marken wurden als Zusammendruck ausgegeben:; Beratung junger Neuerer, Emblem der MMM",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neuerer",
+          "beschriftung": "Neuerer",
+          "haupt": true,
+          "artikel": "Neuererwesen",
+          "wikidata": "Q1980284"
+        },
+        {
+          "titel": "Messe der Meister von Morgen",
+          "beschriftung": "Messe der Meister von Morgen",
+          "haupt": false,
+          "artikel": "Messe der Meister von Morgen",
+          "wikidata": "Q1264541"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Messe der Meister von Morgen (MMM), Leipzig",
+      "bild_beschreibung": "Jungarbeiter, Abzeichen der FDJ",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freie Deutsche Jugend",
+          "beschriftung": "FDJ",
+          "haupt": true,
+          "artikel": "Freie Deutsche Jugend",
+          "wikidata": "Q76845"
+        },
+        {
+          "titel": "Messe der Meister von Morgen",
+          "beschriftung": "Messe der Meister von Morgen",
+          "haupt": false,
+          "artikel": "Messe der Meister von Morgen",
+          "wikidata": "Q1264541"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1322",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Messe der Meister von Morgen (MMM), Leipzig",
+      "bild_beschreibung": "Auszeichnung, Medaille der MMM",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Medaille",
+          "beschriftung": "Medaille",
+          "haupt": true,
+          "artikel": "Medaille",
+          "wikidata": "Q131647"
+        },
+        {
+          "titel": "Messe der Meister von Morgen",
+          "beschriftung": "Messe der Meister von Morgen",
+          "haupt": false,
+          "artikel": "Messe der Meister von Morgen",
+          "wikidata": "Q1264541"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1323",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (II): König Drosselbart (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "König Drosselbart",
+          "beschriftung": "König Drosselbart",
+          "haupt": false,
+          "artikel": "König Drosselbart",
+          "wikidata": "Q11856"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1324",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (II): König Drosselbart (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "König Drosselbart",
+          "beschriftung": "König Drosselbart",
+          "haupt": false,
+          "artikel": "König Drosselbart",
+          "wikidata": "Q11856"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (II): König Drosselbart (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "König Drosselbart",
+          "beschriftung": "König Drosselbart",
+          "haupt": false,
+          "artikel": "König Drosselbart",
+          "wikidata": "Q11856"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (II): König Drosselbart (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "König Drosselbart",
+          "beschriftung": "König Drosselbart",
+          "haupt": false,
+          "artikel": "König Drosselbart",
+          "wikidata": "Q11856"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (II): König Drosselbart (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "König Drosselbart",
+          "beschriftung": "König Drosselbart",
+          "haupt": false,
+          "artikel": "König Drosselbart",
+          "wikidata": "Q11856"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (II): König Drosselbart (Märchen der Gebrüder Grimm)",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "König Drosselbart",
+          "beschriftung": "König Drosselbart",
+          "haupt": false,
+          "artikel": "König Drosselbart",
+          "wikidata": "Q11856"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Gebrüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stätten des klassischen deutschen Humanismus",
+      "bild_beschreibung": "Goethehaus in Weimar",
+      "entwerfer": "Dietrich Dorfstecher, Karl-Heinz Bobbe",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goethes Wohnhaus",
+          "beschriftung": "Goethehaus",
+          "haupt": true,
+          "artikel": "Goethes Wohnhaus",
+          "wikidata": "Q882721"
+        },
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": false,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        },
+        {
+          "titel": "Weimarer Klassik",
+          "beschriftung": "klassischen",
+          "haupt": false,
+          "artikel": "Weimarer Klassik",
+          "wikidata": "Q694408"
+        },
+        {
+          "titel": "Humanismus",
+          "beschriftung": "Humanismus",
+          "haupt": false,
+          "artikel": "Humanismus",
+          "wikidata": "Q46158"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Stätten des klassischen deutschen Humanismus",
+      "bild_beschreibung": "Schillerhaus in Weimar",
+      "entwerfer": "Dietrich Dorfstecher, Karl-Heinz Bobbe",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schillerhaus Weimar",
+          "beschriftung": "Schillerhaus",
+          "haupt": true,
+          "artikel": "Schillers Wohnhaus",
+          "wikidata": "Q1325723"
+        },
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": false,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        },
+        {
+          "titel": "Weimarer Klassik",
+          "beschriftung": "klassischen",
+          "haupt": false,
+          "artikel": "Weimarer Klassik",
+          "wikidata": "Q694408"
+        },
+        {
+          "titel": "Humanismus",
+          "beschriftung": "Humanismus",
+          "haupt": false,
+          "artikel": "Humanismus",
+          "wikidata": "Q46158"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-12-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "15 Jahre Landwirtschaftliche Produktionsgenossenschaften (LPG)",
+      "bild_beschreibung": "LPG-Bäuerin und -Bauern vor einer modernen Stallanlage mit Futtersilos",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Landwirtschaftliche Produktionsgenossenschaft",
+          "beschriftung": "Landwirtschaftliche Produktionsgenossenschaft",
+          "haupt": true,
+          "artikel": "Landwirtschaftliche Produktionsgenossenschaft",
+          "wikidata": "Q13574663"
+        },
+        {
+          "titel": "Stall",
+          "beschriftung": "Stall",
+          "haupt": false,
+          "artikel": "Stall",
+          "wikidata": "Q214252"
+        },
+        {
+          "titel": "Futtersilo",
+          "beschriftung": "Futtersilo",
+          "haupt": false,
+          "artikel": "Silo",
+          "wikidata": "Q213643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-12-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkskunst aus dem Erzgebirge",
+      "bild_beschreibung": "Nussknacker, zwei Räuchermännchen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nussknacker",
+          "beschriftung": "Nussknacker",
+          "haupt": true,
+          "artikel": "Nussknacker",
+          "wikidata": "Q14880"
+        },
+        {
+          "titel": "Räuchermännchen",
+          "beschriftung": "Räuchermännchen",
+          "haupt": false,
+          "artikel": "Räuchermann",
+          "wikidata": "Q454781"
+        },
+        {
+          "titel": "Erzgebirgische Volkskunst",
+          "beschriftung": "Volkskunst aus dem Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirgische Volkskunst",
+          "wikidata": "Q1366143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-12-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkskunst aus dem Erzgebirge",
+      "bild_beschreibung": "Lichterengel, Bergmann",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bergmannsfigur",
+          "beschriftung": "Lichterengel",
+          "haupt": true,
+          "artikel": "Bergmannsfigur",
+          "wikidata": "Q820014"
+        },
+        {
+          "titel": "Erzgebirgische Volkskunst",
+          "beschriftung": "Volkskunst aus dem Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirgische Volkskunst",
+          "wikidata": "Q1366143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1331",
+      "block": null,
+      "art": "Daudermarken",
+      "ausgabetag": "1967-12-06",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "VEB Deutsche Wertpapierdruckerei",
+      "auflage": 50480000,
+      "commons_datei": "Stamps of Germany (DDR) 1967, MiNr 1331.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    }
+  ]
+}

@@ -22,7 +22,7 @@ gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und w
 
 <img src="docs/bilder/desktop-tablet.png" width="720" alt="Tablet und Desktop: Liste links, Marke und Themenkarte rechts">
 
-Stand: Bund komplett, 1949 bis 2026 (3850 Marken) mit Themenkarten (Kurztext aus der Wikipedia, „Wusstest du?“, Marken zum Thema), Suche, Blättern durch die Jahrgänge, eigener Bestand mit Erhaltung und Notiz, eigene Bilder aus einem Sammlungsordner.
+Stand: Bund 1949 bis 2026, Berlin 1948 bis 1990, DDR 1949 bis 1990 und Deutsches Reich 1872 bis 1945, zusammen 8936 Marken und 6877 Themen. Themenkarten mit Kurztext aus der Wikipedia, Suche über alle Gebiete, eigener Bestand und eigene Bilder.
 
 ```
 daten/     JSON pro Gebiet und Jahrgang (CC BY-SA 4.0), später eigenes Repo briefmarken-daten
@@ -35,7 +35,8 @@ desktop/   Linux/Windows-Hülle
 ## Daten erzeugen
 
 ```
-tools/wikipedia_import.py --gebiet bund --jahr $(seq -s" " 1949 2026)   # -> daten/bund/<jahr>.json
+tools/wikipedia_import.py --gebiet bund --alle       # -> daten/bund/<jahr>.json (Gebiete: daten/gebiete.json)
+tools/commons_abgleich.py --gebiet bund --alle       # weitere Commons-Bilder, die die Listen nicht verlinken
 tools/themen_laden.py                                  # Kurztexte der Themen -> daten/themen.json
 tools/katalog_bauen.py                                 # -> shared/.../composeResources/files/katalog.db
 ```

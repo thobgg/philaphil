@@ -1,0 +1,812 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1979,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1979 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1979_der_Deutschen_Bundespost_Berlin",
+    "revision": 258067069,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 591,
+    "mi_nr_bis": 613,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 22,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "591",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neubau des Internationalen Congress-Centrums Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationales Congress Centrum Berlin",
+          "beschriftung": "Internationalen Congress-Centrums",
+          "haupt": true,
+          "artikel": "Internationales Congress Centrum Berlin",
+          "wikidata": "Q820164"
+        }
+      ]
+    },
+    {
+      "mi_nr": "592",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1979: Luftfahrt",
+      "bild_beschreibung": "Segelflugzeug: Vampyr (1921)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3109000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelflugzeug",
+          "beschriftung": "Segelflugzeug",
+          "haupt": true,
+          "artikel": "Segelflugzeug",
+          "wikidata": "Q180173"
+        },
+        {
+          "titel": "HAWA Vampyr",
+          "beschriftung": "Vampyr",
+          "haupt": false,
+          "artikel": "HAWA Vampyr",
+          "wikidata": "Q1562771"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "593",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1979: Luftfahrt",
+      "bild_beschreibung": "Verkehrsflugzeug: Junkers Ju 52/3m (1932)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3106000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsflugzeug",
+          "beschriftung": "Verkehrsflugzeug",
+          "haupt": true,
+          "artikel": "Verkehrsflugzeug",
+          "wikidata": "Q210932"
+        },
+        {
+          "titel": "Junkers Ju 52/3m",
+          "beschriftung": "Junkers Ju 52/3m",
+          "haupt": false,
+          "artikel": "Junkers Ju 52/3m",
+          "wikidata": "Q15410360"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "594",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1979: Luftfahrt",
+      "bild_beschreibung": "Sportflugzeug: Messerschmitt Bf 108, „Taifun“ (1934)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3103000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sportflugzeug",
+          "beschriftung": "Sportflugzeug",
+          "haupt": true,
+          "artikel": "Sportflugzeug",
+          "wikidata": "Q2312440"
+        },
+        {
+          "titel": "Messerschmitt Bf 108",
+          "beschriftung": "Messerschmitt Bf 108, „Taifun“",
+          "haupt": false,
+          "artikel": "Messerschmitt Bf 108",
+          "wikidata": "Q39942"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "595",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1979: Luftfahrt",
+      "bild_beschreibung": "Verkehrsflugzeug: Douglas DC-3 (1935)",
+      "entwerfer": "Fritz Haase",
+      "auflage": 3082000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Douglas DC-3",
+          "beschriftung": "Douglas DC-3",
+          "haupt": true,
+          "artikel": "Douglas DC-3",
+          "wikidata": "Q190211"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "596",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1979",
+      "bild_beschreibung": "Staffellauf",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2844000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staffellauf",
+          "beschriftung": "Staffellauf",
+          "haupt": true,
+          "artikel": "Staffellauf",
+          "wikidata": "Q327742"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "597",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-04-05",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1979",
+      "bild_beschreibung": "Bogenschießen",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2887000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bogenschießen",
+          "beschriftung": "Bogenschießen",
+          "haupt": true,
+          "artikel": "Bogenschießen",
+          "wikidata": "Q108429"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "598",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Bundesdruckerei Berlin",
+      "bild_beschreibung": "Reichsadler und Bundesadler",
+      "entwerfer": "Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1979, MiNr 598.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesdruckerei",
+          "beschriftung": "Bundesdruckerei",
+          "haupt": true,
+          "artikel": "Bundesdruckerei",
+          "wikidata": "Q317215"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        },
+        {
+          "titel": "Bundesadler (Bundesrepublik Deutschland)",
+          "beschriftung": "Bundesadler",
+          "haupt": false,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        }
+      ]
+    },
+    {
+      "mi_nr": "599",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Bogenschießen",
+      "bild_beschreibung": "Zielscheibe und Pfeile",
+      "entwerfer": "Ernst Finke",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bogenschießen",
+          "beschriftung": "Bogenschießen",
+          "haupt": true,
+          "artikel": "Bogenschießen",
+          "wikidata": "Q108429"
+        },
+        {
+          "titel": "Schießscheibe",
+          "beschriftung": "Zielscheibe",
+          "haupt": false,
+          "artikel": "Schießscheibe",
+          "wikidata": "Q1047579"
+        },
+        {
+          "titel": "Pfeil (Geschoss)",
+          "beschriftung": "Pfeile",
+          "haupt": false,
+          "artikel": "Pfeil (Geschoss)",
+          "wikidata": "Q45922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "600",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung (IFA)",
+      "bild_beschreibung": "Fernsehschirm, Ausstellungsemblem",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 6500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1979, MiNr 600.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung",
+          "beschriftung": "Internationale Funkausstellung",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "601",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Moses Mendelssohn",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1979, MiNr 601.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Moses Mendelssohn",
+          "beschriftung": "Moses Mendelssohn",
+          "haupt": true,
+          "artikel": "Moses Mendelssohn",
+          "wikidata": "Q76997"
+        }
+      ]
+    },
+    {
+      "mi_nr": "602",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Botanischer Garten Berlin",
+      "bild_beschreibung": "Venusschuh Paphiopedilum insigne, Großes Tropenhaus",
+      "entwerfer": "Manuela Pusch",
+      "auflage": 6500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1979, MiNr 602.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Botanischer Garten Berlin",
+          "beschriftung": "Botanischer Garten Berlin",
+          "haupt": true,
+          "artikel": "Botanischer Garten und Botanisches Museum Berlin",
+          "wikidata": "Q163255"
+        },
+        {
+          "titel": "Paphiopedilum",
+          "beschriftung": "Venusschuh",
+          "haupt": false,
+          "artikel": "Paphiopedilum",
+          "wikidata": "Q131523"
+        }
+      ]
+    },
+    {
+      "mi_nr": "603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Straßenbeleuchtung in Berlin: Historische Straßenlaternen",
+      "bild_beschreibung": "Gasbetriebene Modell-Leuchte",
+      "entwerfer": "Ernst Finke",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gasbeleuchtung",
+          "beschriftung": "Gasbetriebene",
+          "haupt": true,
+          "artikel": "Gasbeleuchtung",
+          "wikidata": "Q856548"
+        },
+        {
+          "titel": "Straßenbeleuchtung",
+          "beschriftung": "Straßenbeleuchtung",
+          "haupt": false,
+          "artikel": "Straßenbeleuchtung",
+          "wikidata": "Q503958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Straßenbeleuchtung in Berlin: Historische Straßenlaternen",
+      "bild_beschreibung": "Elektrische Kohlebogenleuchte",
+      "entwerfer": "Ernst Finke",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kohlebogenlampe",
+          "beschriftung": "Kohlebogenleuchte",
+          "haupt": true,
+          "artikel": "Kohlebogenlampe",
+          "wikidata": "Q841282"
+        },
+        {
+          "titel": "Straßenbeleuchtung",
+          "beschriftung": "Straßenbeleuchtung",
+          "haupt": false,
+          "artikel": "Straßenbeleuchtung",
+          "wikidata": "Q503958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Straßenbeleuchtung in Berlin: Historische Straßenlaternen",
+      "bild_beschreibung": "Gas-Hängeleuchte",
+      "entwerfer": "Ernst Finke",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Straßenbeleuchtung",
+          "beschriftung": "Straßenbeleuchtung",
+          "haupt": true,
+          "artikel": "Straßenbeleuchtung",
+          "wikidata": "Q503958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-08-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Straßenbeleuchtung in Berlin: Historische Straßenlaternen",
+      "bild_beschreibung": "Fünfarmiger Kandelaber",
+      "entwerfer": "Ernst Finke",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Armleuchter",
+          "beschriftung": "Kandelaber",
+          "haupt": true,
+          "artikel": "Armleuchter",
+          "wikidata": "Q548275"
+        },
+        {
+          "titel": "Straßenbeleuchtung",
+          "beschriftung": "Straßenbeleuchtung",
+          "haupt": false,
+          "artikel": "Straßenbeleuchtung",
+          "wikidata": "Q503958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1979: Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Lärche Larix decidua",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäische Lärche",
+          "beschriftung": "Lärche",
+          "haupt": true,
+          "artikel": "Europäische Lärche",
+          "wikidata": "Q146048"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1979: Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Haselnuss Corylus avellana",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemeine Hasel",
+          "beschriftung": "Haselnuss",
+          "haupt": true,
+          "artikel": "Gemeine Hasel",
+          "wikidata": "Q124969"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1979: Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Roßkastanie Aesculus hippocastanum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 10200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewöhnliche Rosskastanie",
+          "beschriftung": "Roßkastanie",
+          "haupt": true,
+          "artikel": "Gewöhnliche Rosskastanie",
+          "wikidata": "Q26899"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-10-11",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1979: Blüten und Früchte des Waldes",
+      "bild_beschreibung": "Schlehe Prunus spinosa",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlehdorn",
+          "beschriftung": "Schlehe",
+          "haupt": true,
+          "artikel": "Schlehdorn",
+          "wikidata": "Q129018"
+        },
+        {
+          "titel": "Blüte",
+          "beschriftung": "Blüte",
+          "haupt": false,
+          "artikel": "Blüte",
+          "wikidata": "Q506"
+        },
+        {
+          "titel": "Frucht",
+          "beschriftung": "Früchte",
+          "haupt": false,
+          "artikel": "Frucht",
+          "wikidata": "Q1364"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Litfaßsäulen",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Litfaßsäule",
+          "beschriftung": "Litfaßsäule",
+          "haupt": true,
+          "artikel": "Litfaßsäule",
+          "wikidata": "Q13964"
+        }
+      ]
+    },
+    {
+      "mi_nr": "613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1979",
+      "bild_beschreibung": "Geburt Christi, Detail der Initiale „H“, Handschrift der Zisterzienserabtei Altenberg",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6400000,
+      "commons_datei": "Stamps of Germany (Berlin) 1979, MiNr 613.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Weihnachten",
+          "beschriftung": "Geburt Christi",
+          "haupt": false,
+          "artikel": "Weihnachten",
+          "wikidata": "Q19809"
+        },
+        {
+          "titel": "Initiale",
+          "beschriftung": "Initiale",
+          "haupt": false,
+          "artikel": "Initiale",
+          "wikidata": "Q378408"
+        },
+        {
+          "titel": "Manuskript",
+          "beschriftung": "Handschrift",
+          "haupt": false,
+          "artikel": "Handschrift (Paläographie)",
+          "wikidata": "Q87167"
+        },
+        {
+          "titel": "Abtei Altenberg",
+          "beschriftung": "Zisterzienserabtei Altenberg",
+          "haupt": false,
+          "artikel": "Abtei Altenberg",
+          "wikidata": "Q125125"
+        }
+      ]
+    },
+    {
+      "mi_nr": "611",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-11-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Rheydt",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": true,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        },
+        {
+          "titel": "Schloss Rheydt",
+          "beschriftung": "Schloss Rheydt",
+          "haupt": false,
+          "artikel": "Schloss Rheydt",
+          "wikidata": "Q883459"
+        }
+      ]
+    }
+  ]
+}

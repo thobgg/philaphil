@@ -1,0 +1,1409 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1949,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1949 der Deutschen Post Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1949_der_Deutschen_Post_Berlin",
+    "revision": 265868005,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 21,
+    "mi_nr_bis": 70,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 13,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "35",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 2950000,
+      "commons_datei": "DBPB 1949 35 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "36",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 2000000,
+      "commons_datei": "DBPB 1949 36 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "37",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 4950000,
+      "commons_datei": "DBPB 1949 37 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "38",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 750000,
+      "commons_datei": "DBPB 1949 38 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "39",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 700000,
+      "commons_datei": "DBPB 1949 39 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "40",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 370000,
+      "commons_datei": "DBPB 1949 40 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "41",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-04-09",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Heinrich von Stephan, Mitbegründer des Weltpostvereins",
+      "entwerfer": "unbekannt",
+      "auflage": 340000,
+      "commons_datei": "DBPB 1949 41 Heinrich von Stephan.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "61",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-09-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Iphigenie auf Tauris; Gemälde von Georg Oswald May (1738–1816)",
+      "entwerfer": "Erich Müller",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1949 61 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Iphigenie auf Tauris",
+          "beschriftung": "Iphigenie auf Tauris",
+          "haupt": true,
+          "artikel": "Iphigenie auf Tauris",
+          "wikidata": "Q475063"
+        },
+        {
+          "titel": "Georg Oswald May",
+          "beschriftung": "Georg Oswald May",
+          "haupt": false,
+          "artikel": "Georg Oswald May",
+          "wikidata": "Q1505537"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "62",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-09-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Reineke Fuchs; Kreidezeichnung von Johann Heinrich Lips (1758–1817)",
+      "entwerfer": "Erich Müller",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1949 62 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reineke Fuchs",
+          "beschriftung": "Reineke Fuchs",
+          "haupt": true,
+          "artikel": "Reineke Fuchs",
+          "wikidata": "Q25400539"
+        },
+        {
+          "titel": "Johann Heinrich Lips",
+          "beschriftung": "Johann Heinrich Lips",
+          "haupt": false,
+          "artikel": "Johann Heinrich Lips",
+          "wikidata": "Q1384162"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "63",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-09-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Faust; Gemälde von Joseph Karl Stieler (1781–1858)",
+      "entwerfer": "Erich Müller",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1949 63 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goethes Faust",
+          "beschriftung": "Faust",
+          "haupt": true,
+          "artikel": "Goethes Faust",
+          "wikidata": "Q29478"
+        },
+        {
+          "titel": "Joseph Karl Stieler",
+          "beschriftung": "Joseph Karl Stieler",
+          "haupt": false,
+          "artikel": "Joseph Karl Stieler",
+          "wikidata": "Q467658"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "68",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Zuschläge für die Berliner Währungsgeschädigten",
+      "bild_beschreibung": "Opferschale vor dem Berliner Bären; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 159795,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opferschale",
+          "beschriftung": "Opferschale",
+          "haupt": true,
+          "artikel": "Schale (Gefäß)",
+          "wikidata": "Q3579073"
+        },
+        {
+          "titel": "Berliner Bär",
+          "beschriftung": "Berliner Bär",
+          "haupt": false,
+          "artikel": "Berliner Bär",
+          "wikidata": "Q884928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "69",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-01",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Zuschläge für die Berliner Währungsgeschädigten",
+      "bild_beschreibung": "Opferschale vor dem Berliner Bären; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 98083,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "70",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-12-01",
+      "wert": "30+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Zuschläge für die Berliner Währungsgeschädigten",
+      "bild_beschreibung": "Opferschale vor dem Berliner Bären; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 164105,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "21",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Pflanzer; Originalausgabe 1. März 1947, MiNr. 943",
+      "entwerfer": "Brand",
+      "auflage": 4600000,
+      "commons_datei": "DBPB 1949 21 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "22",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Pflanzer; Originalausgabe 1. März 1947, MiNr. 944",
+      "entwerfer": "Brand",
+      "auflage": 5600000,
+      "commons_datei": "DBPB 1949 22 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "23",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Sämann; Originalausgabe 1. März 1947, MiNr. 945",
+      "entwerfer": "Luckenbach",
+      "auflage": 4000000,
+      "commons_datei": "DBPB 1949 23 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "24",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-01-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Sämann; Originalausgabe 1. Februar 1948, MiNr. 946",
+      "entwerfer": "Luckenbach",
+      "auflage": 6900000,
+      "commons_datei": "DBPB 1949 24 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "25",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-01-20",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Pflanzer; Originalausgabe 1. Februar 1948, MiNr. 948",
+      "entwerfer": "Brand",
+      "auflage": 3400000,
+      "commons_datei": "DBPB 1949 25 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "26",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-01-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Sämann; Originalausgabe 1. März 1947, MiNr. 950",
+      "entwerfer": "Luckenbach",
+      "auflage": 6900000,
+      "commons_datei": "DBPB 1949 26 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "27",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Pflanzer; Originalausgabe 1. März 1947, MiNr. 952",
+      "entwerfer": "Brand",
+      "auflage": 2400000,
+      "commons_datei": "DBPB 1949 27 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "28",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Arbeiter; Originalausgabe 1. Februar 1948, MiNr. 953",
+      "entwerfer": "Rogmann",
+      "auflage": 1900000,
+      "commons_datei": "DBPB 1949 28 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "29",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Sämann; Originalausgabe 1. März 1947, MiNr. 954",
+      "entwerfer": "Luckenbach",
+      "auflage": 2000000,
+      "commons_datei": "DBPB 1949 29 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "30",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Maurer und Bäuerin; Originalausgabe 1. Februar 1948, MiNr. 955",
+      "entwerfer": "Banach",
+      "auflage": 1900000,
+      "commons_datei": "DBPB 1949 30 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "31",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-01-20",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Arbeiter; Originalausgabe 1. März 1947, MiNr. 956",
+      "entwerfer": "Rogmann",
+      "auflage": 5900000,
+      "commons_datei": "DBPB 1949 31 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "32",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Arbeiter; Originalausgabe 1. März 1947, MiNr. 957",
+      "entwerfer": "Rogmann",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1949 32 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "33",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "1 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Hände und Friedenstaube; Originalausgabe 1. Mai 1947, MiNr. 959",
+      "entwerfer": "Höpner",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1949 33 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "34",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Freimarken der Kontrollratsausgabe 943–962 mit Rotaufdruck",
+      "bild_beschreibung": "Hände und Friedenstaube; Originalausgabe 1. Mai 1947, MiNr. 960",
+      "entwerfer": "Höpner",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1949 34 Freimarke Rotaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgabe",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "42",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-03-21",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 100990000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "43",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Rathaus Schöneberg",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 120620000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": true,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "44",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Schloss Tegel",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 69940000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": true,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "45",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Reichstagsgebäude",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 20680000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": true,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "46",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Rathaus Schöneberg",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 42190000,
+      "commons_datei": "DBPB 1949 46 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": true,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "47",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Kleistpark",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 475635000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich-von-Kleist-Park",
+          "beschriftung": "Kleistpark",
+          "haupt": true,
+          "artikel": "Heinrich-von-Kleist-Park",
+          "wikidata": "Q873246"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "48",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-30",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Flughafen Tempelhof und kreisende Douglas DC-4",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 30030000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Tempelhof",
+          "beschriftung": "Flughafen Tempelhof",
+          "haupt": true,
+          "artikel": "Flughafen Berlin-Tempelhof",
+          "wikidata": "Q9686"
+        },
+        {
+          "titel": "Douglas DC-4",
+          "beschriftung": "Douglas DC-4",
+          "haupt": false,
+          "artikel": "Douglas DC-4",
+          "wikidata": "Q622673"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "49",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-06-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Technische Hochschule",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 108360000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Universität Berlin",
+          "beschriftung": "Technische Hochschule",
+          "haupt": true,
+          "artikel": "Technische Universität Berlin",
+          "wikidata": "Q51985"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "50",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Schloss Tegel",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 32360000,
+      "commons_datei": "DBPB 1949 50 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": true,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "51",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Kleistpark",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 24130000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich-von-Kleist-Park",
+          "beschriftung": "Kleistpark",
+          "haupt": true,
+          "artikel": "Heinrich-von-Kleist-Park",
+          "wikidata": "Q873246"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "52",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Rathaus Schöneberg",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 15340000,
+      "commons_datei": "DBPB 1949 52 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": true,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "53",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-07-02",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Reichstag",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 24780000,
+      "commons_datei": "DBPB 1949 53 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstag",
+          "haupt": true,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "54",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Alte Nationalgalerie",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 32460000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Nationalgalerie",
+          "beschriftung": "Alte Nationalgalerie",
+          "haupt": true,
+          "artikel": "Alte Nationalgalerie",
+          "wikidata": "Q162111"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "55",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Technische Hochschule",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 18470000,
+      "commons_datei": "DBPB 1949 55 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Universität Berlin",
+          "beschriftung": "Technische Hochschule",
+          "haupt": true,
+          "artikel": "Technische Universität Berlin",
+          "wikidata": "Q51985"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "56",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-05-07",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Technische Hochschule",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 8270000,
+      "commons_datei": "DBPB 1949 56 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Technische Universität Berlin",
+          "beschriftung": "Technische Hochschule",
+          "haupt": true,
+          "artikel": "Technische Universität Berlin",
+          "wikidata": "Q51985"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "57",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-06-17",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Flughafen Tempelhof und kreisende Douglas DC-4",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 14380000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Tempelhof",
+          "beschriftung": "Flughafen Tempelhof",
+          "haupt": true,
+          "artikel": "Flughafen Berlin-Tempelhof",
+          "wikidata": "Q9686"
+        },
+        {
+          "titel": "Douglas DC-4",
+          "beschriftung": "Douglas DC-4",
+          "haupt": false,
+          "artikel": "Douglas DC-4",
+          "wikidata": "Q622673"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "58",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-07-22",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Gendarmenmarkt",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 4025000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gendarmenmarkt",
+          "beschriftung": "Gendarmenmarkt",
+          "haupt": true,
+          "artikel": "Gendarmenmarkt",
+          "wikidata": "Q170103"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "59",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-10-25",
+      "wert": "3 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 1975000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "60",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-10-25",
+      "wert": "5 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Berliner Bauten",
+      "bild_beschreibung": "Schloss Tegel",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 1780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": true,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "64",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-08-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Freimarken der Kontrollratsausgaben 931, 951, 957 und 961 mit Grünaufdruck",
+      "bild_beschreibung": "Ziffernserie; Originalausgabe 45 Pfennig, 20. April 1946, MiNr. 931",
+      "entwerfer": "unbekannt",
+      "auflage": 11150000,
+      "commons_datei": "DBPB 1949 64 Freimarke Grünaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgaben",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "65",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-08-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Freimarken der Kontrollratsausgaben 931, 951, 957 und 961 mit Grünaufdruck",
+      "bild_beschreibung": "Maurer und Bäuerin; Originalausgabe 24 Pfennig, 1. März 1947, MiNr. 951",
+      "entwerfer": "Banach",
+      "auflage": 13860000,
+      "commons_datei": "DBPB 1949 65 Freimarke Grünaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgaben",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "66",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-08-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Freimarken der Kontrollratsausgaben 931, 951, 957 und 961 mit Grünaufdruck",
+      "bild_beschreibung": "Arbeiter; Originalausgabe 80 Pfennig, 1. März 1947, MiNr. 957",
+      "entwerfer": "Rogmann",
+      "auflage": 2980000,
+      "commons_datei": "DBPB 1949 66 Freimarke Grünaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgaben",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "67",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1949-08-01",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Freimarken der Kontrollratsausgaben 931, 951, 957 und 961 mit Grünaufdruck",
+      "bild_beschreibung": "Hände und Friedenstaube; Originalausgabe 3 DM, 1. Mai 1947, MiNr. 961",
+      "entwerfer": "Höpner",
+      "auflage": 4900000,
+      "commons_datei": "DBPB 1949 67 Freimarke Grünaufdruck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsausgaben",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        }
+      ]
+    }
+  ]
+}
