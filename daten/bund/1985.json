@@ -1,0 +1,1057 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1985,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1985 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1985_der_Deutschen_Bundespost",
+    "revision": 259734417,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1234,
+    "mi_nr_bis": 1267,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 34,
+    "sondermarken_laut_einleitung": 34
+  },
+  "marken": [
+    {
+      "mi_nr": "1234",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Augsburg",
+      "bild_beschreibung": "Bronzebüste des Kaisers Augustus, Stadtwappen und Bauwerke der Stadt",
+      "entwerfer": "Hans Joachim Volbracht",
+      "auflage": 34400000,
+      "commons_datei": "DBP 1985 1234 Augsburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Augsburg",
+          "beschriftung": "Augsburg",
+          "haupt": true,
+          "artikel": "Augsburg",
+          "wikidata": "Q2749"
+        },
+        {
+          "titel": "büste",
+          "beschriftung": "büste",
+          "haupt": false,
+          "artikel": "Büste",
+          "wikidata": "Q241045"
+        },
+        {
+          "titel": "Augustus",
+          "beschriftung": "Augustus",
+          "haupt": false,
+          "artikel": "Augustus",
+          "wikidata": "Q1405"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1235",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350. Geburtstag von Philipp Jacob Spener (1635–1705)",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Jacki",
+      "auflage": 31500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Philipp Jacob Spener",
+          "beschriftung": "Philipp Jacob Spener",
+          "haupt": true,
+          "artikel": "Philipp Jacob Spener",
+          "wikidata": "Q311231"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1236",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag der Brüder Grimm",
+      "bild_beschreibung": "Wilhelm Grimm (1786–1859) und Jacob Grimm (1785–1863)",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 30600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": true,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Wilhelm Grimm",
+          "beschriftung": "Wilhelm Grimm",
+          "haupt": false,
+          "artikel": "Wilhelm Grimm",
+          "wikidata": "Q6714"
+        },
+        {
+          "titel": "Jacob Grimm",
+          "beschriftung": "Jacob Grimm",
+          "haupt": false,
+          "artikel": "Jacob Grimm",
+          "wikidata": "Q6701"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1237",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-01-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Romano Guardini (1885–1968)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 30600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Romano Guardini",
+          "beschriftung": "Romano Guardini",
+          "haupt": true,
+          "artikel": "Romano Guardini",
+          "wikidata": "Q44872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1238",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport, verschiedene Anlässe",
+      "bild_beschreibung": "Kegeln, 100 Jahre Deutscher Keglerbund",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 5525000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kegeln",
+          "beschriftung": "Kegeln",
+          "haupt": true,
+          "artikel": "Kegeln",
+          "wikidata": "Q706199"
+        },
+        {
+          "titel": "Deutscher Kegler- und Bowlingbund",
+          "beschriftung": "Deutscher Keglerbund",
+          "haupt": false,
+          "artikel": "Deutscher Kegler- und Bowlingbund",
+          "wikidata": "Q1204999"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1239",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport, verschiedene Anlässe",
+      "bild_beschreibung": "Kajak, Weltmeisterschaften im Wildwasserrennsport, Garmisch-Partenkirchen und Kanuslalom, Augsburg",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 4470000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kajak",
+          "beschriftung": "Kajak",
+          "haupt": true,
+          "artikel": "Kajak",
+          "wikidata": "Q179246"
+        },
+        {
+          "titel": "Wildwasserrennsport",
+          "beschriftung": "Wildwasserrennsport",
+          "haupt": false,
+          "artikel": "Wildwasserrennsport",
+          "wikidata": "Q1897833"
+        },
+        {
+          "titel": "Garmisch-Partenkirchen",
+          "beschriftung": "Garmisch-Partenkirchen",
+          "haupt": false,
+          "artikel": "Garmisch-Partenkirchen",
+          "wikidata": "Q127043"
+        },
+        {
+          "titel": "Kanuslalom",
+          "beschriftung": "Kanuslalom",
+          "haupt": false,
+          "artikel": "Kanuslalom",
+          "wikidata": "Q31874"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1240",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Markt- und Münzrecht Verden (Aller)",
+      "bild_beschreibung": "Stadtansicht von Verden",
+      "entwerfer": "Peter Steiner",
+      "auflage": 25800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Marktrecht",
+          "beschriftung": "Markt",
+          "haupt": true,
+          "artikel": "Marktrecht",
+          "wikidata": "Q10577578"
+        },
+        {
+          "titel": "Münzregal",
+          "beschriftung": "Münzrecht",
+          "haupt": false,
+          "artikel": "Münzregal",
+          "wikidata": "Q356851"
+        },
+        {
+          "titel": "Verden (Aller)",
+          "beschriftung": "Verden (Aller)",
+          "haupt": false,
+          "artikel": "Verden (Aller)",
+          "wikidata": "Q486551"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1241",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-02-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre Bonn-Kopenhagener Erklärungen",
+      "bild_beschreibung": "Landkarte des Grenzgebietes zwischen Deutschland und Dänemark mit den jeweiligen Nationalflaggen;; Gemeinschaftsausgabe mit Dänemark",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 26650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bonn-Kopenhagener Erklärungen",
+          "beschriftung": "Bonn-Kopenhagener Erklärungen",
+          "haupt": true,
+          "artikel": "Bonn-Kopenhagener Erklärungen",
+          "wikidata": "Q315943"
+        },
+        {
+          "titel": "Dänemark",
+          "beschriftung": "Dänemark",
+          "haupt": false,
+          "artikel": "Dänemark",
+          "wikidata": "Q35"
+        },
+        {
+          "titel": "Nationalflagge",
+          "beschriftung": "Nationalflagge",
+          "haupt": false,
+          "artikel": "Nationalflagge",
+          "wikidata": "Q186516"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1242",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Fahrräder",
+      "bild_beschreibung": "Draisine oder Laufmaschine, 1817",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4160000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Draisine (Laufmaschine)",
+          "beschriftung": "Draisine oder Laufmaschine",
+          "haupt": true,
+          "artikel": "Draisine (Laufmaschine)",
+          "wikidata": "Q1255515"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1243",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Fahrräder",
+      "bild_beschreibung": "NSU Germania Hochrad, 1886",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4110000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "NSU Motorenwerke",
+          "beschriftung": "NSU Germania Hochrad",
+          "haupt": true,
+          "artikel": "NSU Motorenwerke",
+          "wikidata": "Q39898"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1244",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Fahrräder",
+      "bild_beschreibung": "Kreuzrahmen-Niederrad, 1887",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kreuzrahmen",
+          "beschriftung": "Kreuzrahmen-Niederrad",
+          "haupt": true,
+          "artikel": "Kreuzrahmen",
+          "wikidata": "Q136356500"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1245",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Fahrräder",
+      "bild_beschreibung": "Adler-Dreirad, 1887",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adlerwerke",
+          "beschriftung": "Adler-Dreirad",
+          "haupt": true,
+          "artikel": "Adlerwerke",
+          "wikidata": "Q53098"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrräder",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1246",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "225. Geburtstag von Johann Peter Hebel (1760–1826)",
+      "bild_beschreibung": "Hebel mit einer Markgräflerin. Nach dem Aquarell \"Hebel und Vreneli\" von Karl Agricola (1779–1852) aus dem Jahre 1814.",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 29100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Peter Hebel",
+          "beschriftung": "Johann Peter Hebel",
+          "haupt": true,
+          "artikel": "Johann Peter Hebel",
+          "wikidata": "Q62512"
+        },
+        {
+          "titel": "Markgräflerland",
+          "beschriftung": "Markgräflerin",
+          "haupt": false,
+          "artikel": "Markgräflerland",
+          "wikidata": "Q566224"
+        },
+        {
+          "titel": "Karl Agricola",
+          "beschriftung": "Karl Agricola",
+          "haupt": false,
+          "artikel": "Karl Agricola",
+          "wikidata": "Q1371095"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1247",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-04-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Egon Erwin Kisch (1885–1948)",
+      "bild_beschreibung": "",
+      "entwerfer": "Albrecht Ade",
+      "auflage": 27600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Egon Erwin Kisch",
+          "beschriftung": "Egon Erwin Kisch",
+          "haupt": true,
+          "artikel": "Egon Erwin Kisch",
+          "wikidata": "Q78791"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1248",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Europäisches Jahr der Musik",
+      "bild_beschreibung": "300. Geburtstag von Georg Friedrich Händel, (1685–1759)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 66100000,
+      "commons_datei": "DBP 1985 1248 Georg Friedrich Händel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": true,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Jahr",
+          "haupt": false,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1249",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Europäisches Jahr der Musik",
+      "bild_beschreibung": "300. Geburtstag von Johann Sebastian Bach, (1685–1750)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 107450000,
+      "commons_datei": "DBP 1985 1249 Johann Sebastian Bach.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": true,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Jahr",
+          "haupt": false,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1250",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Limburger Dom",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 28800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Limburger Dom",
+          "beschriftung": "Limburger Dom",
+          "haupt": true,
+          "artikel": "Limburger Dom",
+          "wikidata": "Q564957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1251",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Dominikus Zimmermann (1685–1766)",
+      "bild_beschreibung": "Säulenkapitell aus dem Presbyterium der Wieskirche",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dominikus Zimmermann",
+          "beschriftung": "Dominikus Zimmermann",
+          "haupt": true,
+          "artikel": "Dominikus Zimmermann",
+          "wikidata": "Q77383"
+        },
+        {
+          "titel": "Kapitell",
+          "beschriftung": "Säulenkapitell",
+          "haupt": false,
+          "artikel": "Kapitell",
+          "wikidata": "Q193893"
+        },
+        {
+          "titel": "Chor (Architektur)",
+          "beschriftung": "Presbyterium",
+          "haupt": false,
+          "artikel": "Chor (Architektur)",
+          "wikidata": "Q207707"
+        },
+        {
+          "titel": "Wieskirche",
+          "beschriftung": "Wieskirche",
+          "haupt": false,
+          "artikel": "Wieskirche",
+          "wikidata": "Q156675"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1252",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-05-07",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Josef Kentenich (1885–1968)",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 27500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Josef Kentenich",
+          "beschriftung": "Josef Kentenich",
+          "haupt": true,
+          "artikel": "Josef Kentenich",
+          "wikidata": "Q65855"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1253",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kampagne „Rettet den Wald“",
+      "bild_beschreibung": "Uhr vor einem Waldgebiet",
+      "entwerfer": "Klemens Ganzenmüller",
+      "auflage": 25600000,
+      "commons_datei": "DBP 1985 1253 Rettet den Wald.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Waldsterben",
+          "beschriftung": "Kampagne „Rettet den Wald“",
+          "haupt": true,
+          "artikel": "Waldsterben",
+          "wikidata": "Q1361577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1254",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-07-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltpfadfinderkonferenz",
+      "bild_beschreibung": "Lilien-Emblem und junge Pfadfinder",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 26600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pfadfinder",
+          "beschriftung": "Weltpfadfinderkonferenz",
+          "haupt": true,
+          "artikel": "Pfadfinder",
+          "wikidata": "Q872181"
+        },
+        {
+          "titel": "Lilie (Pfadfinder)",
+          "beschriftung": "Lilien-Emblem",
+          "haupt": false,
+          "artikel": "Lilie (Pfadfinder)",
+          "wikidata": "Q834113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1255",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-13",
+      "wert": "60+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Briefmarkenausstellung MOPHILA in Hamburg",
+      "bild_beschreibung": "Diese beiden Marken wurden als Zusammendruck ausgegeben; Postillon und Zugpferde",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Zusammendruck",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Postillon",
+          "beschriftung": "Postillon",
+          "haupt": false,
+          "artikel": "Postillon",
+          "wikidata": "Q596033"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1256",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-13",
+      "wert": "80+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Briefmarkenausstellung MOPHILA in Hamburg",
+      "bild_beschreibung": "Postkutsche",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": true,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1257",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Frankfurter Börse",
+      "bild_beschreibung": "Gebäude vor gekacheltem Hintergrund mit dem Emblem",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 29100000,
+      "commons_datei": "DBP 1985 1257 Frankfurter Börse.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frankfurter Wertpapierbörse",
+          "beschriftung": "Frankfurter Börse",
+          "haupt": true,
+          "artikel": "Deutsche Börse Frankfurt",
+          "wikidata": "Q151139"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1258",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-08-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Carl Spitzweg (1808–1885)",
+      "bild_beschreibung": "Sonntagsspaziergang",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 27950000,
+      "commons_datei": "DBP 1985 1258 Carl Spitzweg - Sonntagsspaziergang.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Spitzweg",
+          "beschriftung": "Carl Spitzweg",
+          "haupt": true,
+          "artikel": "Carl Spitzweg",
+          "wikidata": "Q164979"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1259",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Miniaturen nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "bild_beschreibung": "Blumen, Erdbeere und Schmetterling",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 14750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1260",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Miniaturen nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "bild_beschreibung": "Blumen, Schmetterlinge und Vogel",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 9730000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1261",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Miniaturen nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "bild_beschreibung": "Blumen, Beeren und Schnecke",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 19410000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1262",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Miniaturen nach Motiven aus den Bordüren eines mittelalterlichen Gebetbuches",
+      "bild_beschreibung": "Blumen, Schnecke und Schmetterling",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 6130000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1263",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-10-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag von Fritz Reuter (1810–1874)",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 25822000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fritz Reuter",
+          "beschriftung": "Fritz Reuter",
+          "haupt": true,
+          "artikel": "Fritz Reuter",
+          "wikidata": "Q76492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1264",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre deutsche Eisenbahn und 200. Geburtstag von Johannes Scharrer (1785–1844)",
+      "bild_beschreibung": "Die erste Fahrt des Adlers auf der Ludwigseisenbahn",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "150 Jahre Deutsche Eisenbahnen",
+          "beschriftung": "150 Jahre deutsche Eisenbahn",
+          "haupt": true,
+          "artikel": "150 Jahre Deutsche Eisenbahnen",
+          "wikidata": "Q109774141"
+        },
+        {
+          "titel": "Johannes Scharrer",
+          "beschriftung": "Johannes Scharrer",
+          "haupt": false,
+          "artikel": "Johannes Scharrer",
+          "wikidata": "Q1698313"
+        },
+        {
+          "titel": "LEG – Adler und Pfeil",
+          "beschriftung": "Adlers",
+          "haupt": false,
+          "artikel": "LEG – Adler und Pfeil",
+          "wikidata": "Q358107"
+        },
+        {
+          "titel": "Ludwigseisenbahn",
+          "beschriftung": "Ludwigseisenbahn",
+          "haupt": false,
+          "artikel": "Ludwigseisenbahn",
+          "wikidata": "Q812251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1265",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Eingliederung heimatvertriebener Deutscher",
+      "bild_beschreibung": "",
+      "entwerfer": "Konrad Przewieslik",
+      "auflage": 29472000,
+      "commons_datei": "DBP 1985 1265 Eingliederung heimatvertriebener Deutscher.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1266",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grundgedanken der Demokratie, Bundeswehr",
+      "bild_beschreibung": "Schwarz-Rot-Gold mit dem Hoheitszeichen der Bundeswehr",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 28872000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Demokratie",
+          "beschriftung": "Demokratie",
+          "haupt": true,
+          "artikel": "Demokratie",
+          "wikidata": "Q7174"
+        },
+        {
+          "titel": "Bundeswehr",
+          "beschriftung": "Bundeswehr",
+          "haupt": false,
+          "artikel": "Bundeswehr",
+          "wikidata": "Q56010"
+        },
+        {
+          "titel": "Schwarz-Rot-Gold",
+          "beschriftung": "Schwarz-Rot-Gold",
+          "haupt": false,
+          "artikel": "Schwarz-Rot-Gold",
+          "wikidata": "Q29839581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1267",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1985-11-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Geburt Christi, Gemälde aus dem Hochaltar des Freiburger Münsters von Hans Baldung",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 11060000,
+      "commons_datei": "DBP 1985 1267 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hochaltar",
+          "beschriftung": "Hochaltar",
+          "haupt": true,
+          "artikel": "Hochaltar",
+          "wikidata": "Q1621649"
+        },
+        {
+          "titel": "Freiburger Münster",
+          "beschriftung": "Freiburger Münster",
+          "haupt": false,
+          "artikel": "Freiburger Münster",
+          "wikidata": "Q250212"
+        },
+        {
+          "titel": "Hans Baldung",
+          "beschriftung": "Hans Baldung",
+          "haupt": false,
+          "artikel": "Hans Baldung",
+          "wikidata": "Q164696"
+        }
+      ]
+    }
+  ]
+}

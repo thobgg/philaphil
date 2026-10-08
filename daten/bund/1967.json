@@ -1,0 +1,633 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1967,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1967 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1967_der_Deutschen_Bundespost",
+    "revision": 263758158,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 529,
+    "mi_nr_bis": 545,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 17,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "529",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend, Pelztiere",
+      "bild_beschreibung": "Wildkaninchen, Oryctolagus cuniculus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6440000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wildkaninchen",
+          "beschriftung": "Wildkaninchen",
+          "haupt": true,
+          "artikel": "Wildkaninchen",
+          "wikidata": "Q25851"
+        },
+        {
+          "titel": "Pelzarten",
+          "beschriftung": "Pelztiere",
+          "haupt": false,
+          "artikel": "Pelzarten",
+          "wikidata": "Q4384836"
+        }
+      ]
+    },
+    {
+      "mi_nr": "530",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend, Pelztiere",
+      "bild_beschreibung": "Hermelin, Mustela erminea",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 15222000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hermelin",
+          "beschriftung": "Hermelin",
+          "haupt": true,
+          "artikel": "Hermelin",
+          "wikidata": "Q25345"
+        },
+        {
+          "titel": "Pelzarten",
+          "beschriftung": "Pelztiere",
+          "haupt": false,
+          "artikel": "Pelzarten",
+          "wikidata": "Q4384836"
+        }
+      ]
+    },
+    {
+      "mi_nr": "531",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-04",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend, Pelztiere",
+      "bild_beschreibung": "Feldhamster, Cricetus cricetus",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6456000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldhamster",
+          "beschriftung": "Feldhamster",
+          "haupt": true,
+          "artikel": "Feldhamster",
+          "wikidata": "Q208077"
+        },
+        {
+          "titel": "Pelzarten",
+          "beschriftung": "Pelztiere",
+          "haupt": false,
+          "artikel": "Pelzarten",
+          "wikidata": "Q4384836"
+        }
+      ]
+    },
+    {
+      "mi_nr": "532",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-04-04",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Für die Jugend, Pelztiere",
+      "bild_beschreibung": "Rotfuchs, Vulpes vulpes",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 5934000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotfuchs",
+          "beschriftung": "Rotfuchs",
+          "haupt": true,
+          "artikel": "Rotfuchs",
+          "wikidata": "Q8332"
+        },
+        {
+          "titel": "Pelzarten",
+          "beschriftung": "Pelztiere",
+          "haupt": false,
+          "artikel": "Pelzarten",
+          "wikidata": "Q4384836"
+        }
+      ]
+    },
+    {
+      "mi_nr": "533",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-05-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Zahnräder mit CEPT",
+      "entwerfer": "Bonnevalle",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1967 533 Europa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zahnrad",
+          "beschriftung": "Zahnräder",
+          "haupt": true,
+          "artikel": "Zahnrad",
+          "wikidata": "Q143873"
+        },
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "CEPT",
+          "haupt": false,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "534",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-05-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Zahnräder mit CEPT",
+      "entwerfer": "Bonnevalle",
+      "auflage": 85000000,
+      "commons_datei": "DBP 1967 534 Europa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "535",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "450. Todestag von Franz von Taxis (1459–1517)",
+      "bild_beschreibung": "Begründer des europäischen Postwesens",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz von Taxis",
+          "beschriftung": "Franz von Taxis",
+          "haupt": true,
+          "artikel": "Franz von Taxis",
+          "wikidata": "Q926465"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "536",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-06-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "Deutscher Evangelischer Kirchentag in Hannover",
+      "bild_beschreibung": "Jerusalemkreuz und neutestamentliche Darstellungen",
+      "entwerfer": "Eduard Ege",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        },
+        {
+          "titel": "Hannover",
+          "beschriftung": "Hannover",
+          "haupt": false,
+          "artikel": "Hannover",
+          "wikidata": "Q1715"
+        },
+        {
+          "titel": "Jerusalemkreuz",
+          "beschriftung": "Jerusalemkreuz",
+          "haupt": false,
+          "artikel": "Jerusalemkreuz",
+          "wikidata": "Q387268"
+        }
+      ]
+    },
+    {
+      "mi_nr": "537",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-07-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1968-12-31",
+      "anlass": "100 Jahre Krankenanstalten Bethel",
+      "bild_beschreibung": "Porträt von Friedrich von Bodelschwingh dem Jüngeren (1877–1946)",
+      "entwerfer": "Hans Michel",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1967 537 Friedrich von Bodelschwingh der Jüngere.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Von Bodelschwinghsche Anstalten Bethel",
+          "beschriftung": "Bethel",
+          "haupt": true,
+          "artikel": "V. Bodelschwinghsche Stiftungen Bethel",
+          "wikidata": "Q547995"
+        },
+        {
+          "titel": "Friedrich von Bodelschwingh der Jüngere",
+          "beschriftung": "Friedrich von Bodelschwingh dem Jüngeren",
+          "haupt": false,
+          "artikel": "Friedrich von Bodelschwingh der Jüngere",
+          "wikidata": "Q95902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "538",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-03",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wohlfahrtsmarken: Märchen der Brüder Grimm – Frau Holle",
+      "bild_beschreibung": "Die fleißige Stieftochter spinnt am Spinnrad",
+      "entwerfer": "Stefula",
+      "auflage": 13203000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spinnrad",
+          "beschriftung": "Spinnrad",
+          "haupt": true,
+          "artikel": "Spinnrad",
+          "wikidata": "Q58966"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Frau Holle",
+          "beschriftung": "Frau Holle",
+          "haupt": false,
+          "artikel": "Frau Holle",
+          "wikidata": "Q11853"
+        }
+      ]
+    },
+    {
+      "mi_nr": "539",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-03",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wohlfahrtsmarken: Märchen der Brüder Grimm – Frau Holle",
+      "bild_beschreibung": "Frau Holle schüttelt die Betten aus, es schneit",
+      "entwerfer": "Stefula",
+      "auflage": 25521000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bettware",
+          "beschriftung": "Betten",
+          "haupt": true,
+          "artikel": "Bettware",
+          "wikidata": "Q1762457"
+        },
+        {
+          "titel": "Schnee",
+          "beschriftung": "schneit",
+          "haupt": false,
+          "artikel": "Schnee",
+          "wikidata": "Q7561"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Frau Holle",
+          "beschriftung": "Frau Holle",
+          "haupt": false,
+          "artikel": "Frau Holle",
+          "wikidata": "Q11853"
+        }
+      ]
+    },
+    {
+      "mi_nr": "540",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-03",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wohlfahrtsmarken: Märchen der Brüder Grimm – Frau Holle",
+      "bild_beschreibung": "Die fleißige Stieftochter wird zum Lohn mit Gold überschüttet",
+      "entwerfer": "Stefula",
+      "auflage": 14909000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gold",
+          "beschriftung": "Gold",
+          "haupt": true,
+          "artikel": "Gold",
+          "wikidata": "Q897"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Frau Holle",
+          "beschriftung": "Frau Holle",
+          "haupt": false,
+          "artikel": "Frau Holle",
+          "wikidata": "Q11853"
+        }
+      ]
+    },
+    {
+      "mi_nr": "541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-03",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wohlfahrtsmarken: Märchen der Brüder Grimm – Frau Holle",
+      "bild_beschreibung": "Die arbeitsscheue Tochter wird „zum Lohn“ mit Pech überschüttet",
+      "entwerfer": "Stefula",
+      "auflage": 7803000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pech (Stoff)",
+          "beschriftung": "Pech",
+          "haupt": true,
+          "artikel": "Pech (Stoff)",
+          "wikidata": "Q840692"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Frau Holle",
+          "beschriftung": "Frau Holle",
+          "haupt": false,
+          "artikel": "Frau Holle",
+          "wikidata": "Q11853"
+        }
+      ]
+    },
+    {
+      "mi_nr": "542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wiederwahl des Bundespräsidenten Heinrich Lübke",
+      "bild_beschreibung": "Heinrich Lübke (1894–1972)",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 50550000,
+      "commons_datei": "DBP 1967 542 Heinrich Lübke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": false,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "543",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wiederwahl des Bundespräsidenten Heinrich Lübke",
+      "bild_beschreibung": "Heinrich Lübke (1894–1972)",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 50950000,
+      "commons_datei": "DBP 1967 543 Heinrich Lübke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": false,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-10-31",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "450. Jahrestag des Thesenanschlags durch Martin Luther an die Tür der Schloßkirche Wittenberg",
+      "bild_beschreibung": "Die Wartburg bei Eisenach",
+      "entwerfer": "Eduard Ege",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "95 Thesen",
+          "beschriftung": "Thesenanschlags",
+          "haupt": true,
+          "artikel": "95 Thesen",
+          "wikidata": "Q157506"
+        },
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": false,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        },
+        {
+          "titel": "Wittenberg",
+          "beschriftung": "Wittenberg",
+          "haupt": false,
+          "artikel": "Lutherstadt Wittenberg",
+          "wikidata": "Q6837"
+        },
+        {
+          "titel": "Wartburg",
+          "beschriftung": "Wartburg",
+          "haupt": false,
+          "artikel": "Wartburg",
+          "wikidata": "Q151545"
+        },
+        {
+          "titel": "Eisenach",
+          "beschriftung": "Eisenach",
+          "haupt": false,
+          "artikel": "Eisenach",
+          "wikidata": "Q7070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "545",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1967-11-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Katholische Hilfsaktion für die Kirche in Lateinamerika, Adveniat",
+      "bild_beschreibung": "Weltkugel mit Ausrichtung auf Süd- und Mittelamerika, davor ein christliches Kreuz",
+      "entwerfer": "Hanswerner Klein",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1967 545 Adveniat.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adveniat",
+          "beschriftung": "Adveniat",
+          "haupt": true,
+          "artikel": "Bischöfliche Aktion Adveniat",
+          "wikidata": "Q866234"
+        }
+      ]
+    }
+  ]
+}

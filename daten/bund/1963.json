@@ -1,0 +1,662 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1963,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1963 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1963_der_Deutschen_Bundespost",
+    "revision": 243644407,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 390,
+    "mi_nr_bis": 411,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 22,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "390",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Hilfeleistungen der Organisationen CRALOG und CARE",
+      "bild_beschreibung": "Übergabe eines Geschenkpaketes",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1963 390 Cralog und Care.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "CRALOG",
+          "beschriftung": "CRALOG",
+          "haupt": true,
+          "artikel": "Council of Relief Agencies Licensed to Operate in Germany",
+          "wikidata": "Q5176488"
+        },
+        {
+          "titel": "CARE",
+          "beschriftung": "CARE",
+          "haupt": false,
+          "artikel": "CARE International",
+          "wikidata": "Q699385"
+        }
+      ]
+    },
+    {
+      "mi_nr": "391",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-02-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Misereor",
+      "bild_beschreibung": "Stilisierte Kornähren, Samenkörner, Kreuz und Inschrift vor Weltkugel",
+      "entwerfer": "Bert Jäger",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Misereor",
+          "beschriftung": "Misereor",
+          "haupt": true,
+          "artikel": "Bischöfliches Hilfswerk Misereor",
+          "wikidata": "Q866247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "392",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-04-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Briefmarkenausstellung Flora und Philatelie und IGA 63 in Hamburg",
+      "bild_beschreibung": "Schachbrettblume (Fritillaria meleagris - Liliaceae)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schachbrettblume",
+          "beschriftung": "Schachbrettblume",
+          "haupt": true,
+          "artikel": "Schachblume",
+          "wikidata": "Q157339"
+        },
+        {
+          "titel": "Internationale Gartenschau",
+          "beschriftung": "IGA 63",
+          "haupt": false,
+          "artikel": "Internationale Gartenbauausstellung",
+          "wikidata": "Q154012"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "393",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-04-26",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Briefmarkenausstellung Flora und Philatelie und IGA 63 in Hamburg",
+      "bild_beschreibung": "Gelber Frauenschuh (Cypripedium calceolosus - Orchidaceae)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gelber Frauenschuh",
+          "beschriftung": "Gelber Frauenschuh",
+          "haupt": true,
+          "artikel": "Gelber Frauenschuh",
+          "wikidata": "Q156124"
+        },
+        {
+          "titel": "Internationale Gartenschau",
+          "beschriftung": "IGA 63",
+          "haupt": false,
+          "artikel": "Internationale Gartenbauausstellung",
+          "wikidata": "Q154012"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "394",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-04-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Briefmarkenausstellung Flora und Philatelie und IGA 63 in Hamburg",
+      "bild_beschreibung": "Gemeine Akelei (Aquilegia vulgaris - Ranunculaceae)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemeine Akelei",
+          "beschriftung": "Gemeine Akelei",
+          "haupt": true,
+          "artikel": "Gemeine Akelei",
+          "wikidata": "Q148929"
+        },
+        {
+          "titel": "Internationale Gartenschau",
+          "beschriftung": "IGA 63",
+          "haupt": false,
+          "artikel": "Internationale Gartenbauausstellung",
+          "wikidata": "Q154012"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "395",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-04-26",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Briefmarkenausstellung Flora und Philatelie und IGA 63 in Hamburg",
+      "bild_beschreibung": "Stranddistel (Eryngium maritimum - Umbelliferae)",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stranddistel",
+          "beschriftung": "Stranddistel",
+          "haupt": true,
+          "artikel": "Stranddistel",
+          "wikidata": "Q21110"
+        },
+        {
+          "titel": "Internationale Gartenschau",
+          "beschriftung": "IGA 63",
+          "haupt": false,
+          "artikel": "Internationale Gartenbauausstellung",
+          "wikidata": "Q154012"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "396",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "400 Jahre Heidelberger Katechismus",
+      "bild_beschreibung": "Inschrift auf Ornament-Hintergrund",
+      "entwerfer": "Müller",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1963 396 400J Heidelberger Katechismus.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heidelberger Katechismus",
+          "beschriftung": "Heidelberger Katechismus",
+          "haupt": true,
+          "artikel": "Heidelberger Katechismus",
+          "wikidata": "Q327152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "397",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Gedenkstätte Regina Martyrum",
+      "bild_beschreibung": "Kreuz von Golgota mit verdunkeltem Himmelsgestirn",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karmel Regina Martyrum",
+          "beschriftung": "Regina Martyrum",
+          "haupt": true,
+          "artikel": "Karmel Regina Martyrum",
+          "wikidata": "Q1640792"
+        },
+        {
+          "titel": "Golgota",
+          "beschriftung": "Golgota",
+          "haupt": false,
+          "artikel": "Golgota",
+          "wikidata": "Q170516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "398",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "100. Jahrestag der 1. Internationalen Postkonferenz Paris 1863",
+      "bild_beschreibung": "Vereinfachte Wappen der an der Konferenz beteiligten Länder (v. l. n. r.): 1. Reihe: Österreich, Belgien, Costa Rica, Dänemark. 2. Reihe: Ecuador, Spanien, Vereinigte Staaten, Frankreich, Großbritannien. 3. Reihe: Italien, Niederlande, Portugal, Preußen, Schweiz. 4. Reihe: Hawaii, Bremen, Hamburg, Lübeck.",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1963 398 100J Internationale Postkonferenz Paris.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paris",
+          "beschriftung": "Paris",
+          "haupt": true,
+          "artikel": "Paris",
+          "wikidata": "Q90"
+        }
+      ]
+    },
+    {
+      "mi_nr": "399",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Einweihung der Vogelfluglinie - die kürzeste Verbindung zwischen Deutschland und Kopenhagen",
+      "bild_beschreibung": "Stilisierte Vogeldarstellung, Landkarte mit eingezeichneter Vogelfluglinie, Flaggen von Dänemark und Deutschland;; Gemeinschaftsausgabe mit Dänemark",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vogelfluglinie",
+          "beschriftung": "Vogelfluglinie",
+          "haupt": true,
+          "artikel": "Vogelfluglinie",
+          "wikidata": "Q559660"
+        },
+        {
+          "titel": "Dänemark",
+          "beschriftung": "Dänemark",
+          "haupt": false,
+          "artikel": "Dänemark",
+          "wikidata": "Q35"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "400",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "100 Jahre Internationales Rotes Kreuz",
+      "bild_beschreibung": "Rotes Kreuz mit Inschrift im Strahlenkranz",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1963 400 100J Internationales Rotes Kreuz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "beschriftung": "Internationales Rotes Kreuz",
+          "haupt": true,
+          "artikel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "wikidata": "Q7178"
+        }
+      ]
+    },
+    {
+      "mi_nr": "401",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-12",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Für die Jugend: Heimische Vogelwelt",
+      "bild_beschreibung": "Wiedehopf (Upupa epops - Upupidae)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiedehopf",
+          "beschriftung": "Wiedehopf",
+          "haupt": true,
+          "artikel": "Wiedehopf",
+          "wikidata": "Q25247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "402",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-12",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Für die Jugend: Heimische Vogelwelt",
+      "bild_beschreibung": "Pirol (Oriolus oriolus - Oriolidae)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pirol",
+          "beschriftung": "Pirol",
+          "haupt": true,
+          "artikel": "Pirol",
+          "wikidata": "Q25388"
+        }
+      ]
+    },
+    {
+      "mi_nr": "403",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-12",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Für die Jugend: Heimische Vogelwelt",
+      "bild_beschreibung": "Gimpel (Pyrrhula pyrrhula - Fringillidae)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gimpel (Art)",
+          "beschriftung": "Gimpel",
+          "haupt": true,
+          "artikel": "Gimpel (Art)",
+          "wikidata": "Q25382"
+        }
+      ]
+    },
+    {
+      "mi_nr": "404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-06-12",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Für die Jugend: Heimische Vogelwelt",
+      "bild_beschreibung": "Eisvogel (Alcedo atthis - Alcedinidae)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5440000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisvogel",
+          "beschriftung": "Eisvogel",
+          "haupt": true,
+          "artikel": "Eisvogel",
+          "wikidata": "Q79915"
+        }
+      ]
+    },
+    {
+      "mi_nr": "405",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "11. Deutscher Evangelischer Kirchentag",
+      "bild_beschreibung": "Jerusalemkreuz in einer aus Stacheldraht gewundenen Dornenkrone",
+      "entwerfer": "Rau",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1963 405 Evangelischer Kirchentag.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        },
+        {
+          "titel": "Jerusalemkreuz",
+          "beschriftung": "Jerusalemkreuz",
+          "haupt": false,
+          "artikel": "Jerusalemkreuz",
+          "wikidata": "Q387268"
+        }
+      ]
+    },
+    {
+      "mi_nr": "406",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-14",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Buchstaben CEPT im Ornament",
+      "entwerfer": "Holm",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1963 406 Europa 15Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "CEPT",
+          "beschriftung": "CEPT",
+          "haupt": true,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "407",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Buchstaben CEPT im Ornament",
+      "entwerfer": "Holm",
+      "auflage": 110000000,
+      "commons_datei": "DBP 1963 407 Europa 20Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "408",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-23",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Wohlfahrtsmarken: Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Märchen der Brüder Grimm; Die Mutter verlässt das Haus",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 13934000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": false,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    },
+    {
+      "mi_nr": "409",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-23",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Wohlfahrtsmarken: Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Der Wolf will ins Haus",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 14861000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": true,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    },
+    {
+      "mi_nr": "410",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-23",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Wohlfahrtsmarken: Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Der Wolf frisst 6 der Geißlein, eines versteckt sich in der Standuhr",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 16614000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": true,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    },
+    {
+      "mi_nr": "411",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-23",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Wohlfahrtsmarken: Der Wolf und die sieben jungen Geißlein",
+      "bild_beschreibung": "Die Geißlein werden gerettet, der Wolf stürzt in den Brunnen",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 8191000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der Wolf und die sieben jungen Geißlein",
+          "beschriftung": "Der Wolf und die sieben jungen Geißlein",
+          "haupt": true,
+          "artikel": "Der Wolf und die sieben jungen Geißlein",
+          "wikidata": "Q11848"
+        }
+      ]
+    }
+  ]
+}

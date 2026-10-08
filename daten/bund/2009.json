@@ -1,0 +1,1598 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2009,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2009 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2009_der_Bundesrepublik_Deutschland",
+    "revision": 270787143,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2707,
+    "mi_nr_bis": 2767,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 59,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2707",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Himmelserscheinungen",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; „Regenbogen“",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4173000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Regenbogen",
+          "beschriftung": "Regenbogen",
+          "haupt": true,
+          "artikel": "Regenbogen",
+          "wikidata": "Q1052"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2708",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Himmelserscheinungen",
+      "bild_beschreibung": "„Sonnenuntergang“",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 2217000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sonnenuntergang",
+          "beschriftung": "Sonnenuntergang",
+          "haupt": true,
+          "artikel": "Sonnenuntergang",
+          "wikidata": "Q166564"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2709",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Himmelserscheinungen",
+      "bild_beschreibung": "„Polarlicht“",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 2154000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Polarlicht",
+          "beschriftung": "Polarlicht",
+          "haupt": true,
+          "artikel": "Polarlicht",
+          "wikidata": "Q40609"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2710",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Himmelserscheinungen",
+      "bild_beschreibung": "„Blitz“",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4532000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blitz",
+          "beschriftung": "Blitz",
+          "haupt": true,
+          "artikel": "Blitz",
+          "wikidata": "Q33741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2711",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Dienst am Nächsten",
+      "bild_beschreibung": "50 Jahre Misereor/Brot für die Welt",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 7600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bischöfliches Hilfswerk Misereor",
+          "beschriftung": "Misereor",
+          "haupt": true,
+          "artikel": "Bischöfliches Hilfswerk Misereor",
+          "wikidata": "Q866247"
+        },
+        {
+          "titel": "Brot für die Welt",
+          "beschriftung": "Brot für die Welt",
+          "haupt": false,
+          "artikel": "Brot für die Welt",
+          "wikidata": "Q990731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2712",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Burg Tangermünde",
+      "bild_beschreibung": "",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 6700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Burg Tangermünde",
+          "beschriftung": "Burg Tangermünde",
+          "haupt": true,
+          "artikel": "Burg Tangermünde",
+          "wikidata": "Q1014203"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2713",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Rathaus Frankenberg an der Eder",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 9380000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rathaus (Frankenberg an der Eder)",
+          "beschriftung": "Rathaus Frankenberg an der Eder",
+          "haupt": true,
+          "artikel": "Rathaus (Frankenberg an der Eder)",
+          "wikidata": "Q2132437"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2714",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag Theodor Heuss",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 7800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": true,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2717",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege",
+      "bild_beschreibung": "„Sonnenuntergang“; selbstklebend aus Markenheftchen",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 10259000,
+      "commons_datei": "2717 Markenheft 5x2 Sonnenuntergang Innenseite.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2718",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Rathaus Frankenberg (Eder)",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 101300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2719",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-02-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "225. Geburtstag Leo von Klenze",
+      "bild_beschreibung": "Motiv: Propyläen am Königsplatz (München)",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 9300000,
+      "commons_datei": "DPAG 2009 Leo von Klenze, Propylaeen in München.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leo von Klenze",
+          "beschriftung": "Leo von Klenze",
+          "haupt": true,
+          "artikel": "Leo von Klenze",
+          "wikidata": "Q60163"
+        },
+        {
+          "titel": "Königsplatz (München)",
+          "beschriftung": "Königsplatz (München)",
+          "haupt": false,
+          "artikel": "Königsplatz (München)",
+          "wikidata": "Q561084"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2720",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-02-12",
+      "wert": "65",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Felix Mendelssohn Bartholdy",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 6200000,
+      "commons_datei": "DPAG 2009 Felix Mendelssohn Bartholdy.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Felix Mendelssohn Bartholdy",
+          "beschriftung": "Felix Mendelssohn Bartholdy",
+          "haupt": true,
+          "artikel": "Felix Mendelssohn Bartholdy",
+          "wikidata": "Q46096"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2721",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-02-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Heinz Erhardt",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Ahrens",
+      "auflage": 8872600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinz Erhardt",
+          "beschriftung": "Heinz Erhardt",
+          "haupt": true,
+          "artikel": "Heinz Erhardt",
+          "wikidata": "Q66370"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2722",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-02-12",
+      "wert": "165",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag HAP Grieshaber",
+      "bild_beschreibung": "Motiv: Der Feuervogel",
+      "entwerfer": "Thomas Serres",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "HAP Grieshaber",
+          "beschriftung": "HAP Grieshaber",
+          "haupt": true,
+          "artikel": "HAP Grieshaber",
+          "wikidata": "Q897247"
+        },
+        {
+          "titel": "Der Feuervogel",
+          "beschriftung": "Der Feuervogel",
+          "haupt": false,
+          "artikel": "Der Feuervogel",
+          "wikidata": "Q844790"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2723",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-03-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Post universal",
+      "bild_beschreibung": "„Absender“",
+      "entwerfer": "Nina Clausing",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2724",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-03-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Post universal",
+      "bild_beschreibung": "„Post-Filiale“",
+      "entwerfer": "Nina Clausing",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2725",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-03-12",
+      "wert": "170",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag Gottlieb Daimler",
+      "bild_beschreibung": "",
+      "entwerfer": "Rudolf Grüttner",
+      "auflage": 12397300,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gottlieb Daimler",
+          "beschriftung": "Gottlieb Daimler",
+          "haupt": true,
+          "artikel": "Gottlieb Daimler",
+          "wikidata": "Q57098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2726",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-03-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Golo Mann",
+      "bild_beschreibung": "",
+      "entwerfer": "Gülsah Edis, Victor Malsy, Thomas Meyer",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Golo Mann",
+          "beschriftung": "Golo Mann",
+          "haupt": true,
+          "artikel": "Golo Mann",
+          "wikidata": "Q77109"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2727",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-04-09",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung Deutsche Sporthilfe:; Leichtathletik-Weltmeisterschaften in Berlin; Hindernislauf",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2229000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Leichtathletik-Weltmeisterschaften 2009",
+          "beschriftung": "Leichtathletik-Weltmeisterschaften in Berlin",
+          "haupt": false,
+          "artikel": "Leichtathletik-Weltmeisterschaften 2009",
+          "wikidata": "Q152772"
+        },
+        {
+          "titel": "Hindernislauf",
+          "beschriftung": "Hindernislauf",
+          "haupt": false,
+          "artikel": "Hindernislauf",
+          "wikidata": "Q223836"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2728",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-04-09",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Kurzstreckenlauf",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1328000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sprint",
+          "beschriftung": "Kurzstreckenlauf",
+          "haupt": true,
+          "artikel": "Sprint",
+          "wikidata": "Q624482"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2729",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-04-09",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Stabhochsprung",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2228000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stabhochsprung",
+          "beschriftung": "Stabhochsprung",
+          "haupt": true,
+          "artikel": "Stabhochsprung",
+          "wikidata": "Q185027"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2730",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-04-09",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Diskuswerfen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1312000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diskuswurf",
+          "beschriftung": "Diskuswerfen",
+          "haupt": true,
+          "artikel": "Diskuswurf",
+          "wikidata": "Q182570"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2731",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-04-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Bernhard Grzimek",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 8800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bernhard Grzimek",
+          "beschriftung": "Bernhard Grzimek",
+          "haupt": true,
+          "artikel": "Bernhard Grzimek",
+          "wikidata": "Q65906"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2732",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-05-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Astronomie: 400 Jahre Keplersche Gesetze",
+      "entwerfer": "Nina Clausing",
+      "auflage": 8800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Keplersche Gesetze",
+          "beschriftung": "Keplersche Gesetze",
+          "haupt": false,
+          "artikel": "Keplersche Gesetze",
+          "wikidata": "Q83219"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2733",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-05-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Post universal",
+      "bild_beschreibung": "„Transport“",
+      "entwerfer": "Nina Clausing",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2734",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-05-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Post universal",
+      "bild_beschreibung": "„Zustellung“",
+      "entwerfer": "Nina Clausing",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2735",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-05-07",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung für Philatelie- und Postgeschichte; Schätze der Philatelie – Eichstätt-Brief",
+      "entwerfer": "Ursula Lautenschläger",
+      "auflage": 2553000,
+      "commons_datei": "DPAG 2009 Eichstaett Brief.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Eichstätt-Brief",
+          "beschriftung": "Eichstätt-Brief",
+          "haupt": false,
+          "artikel": "Eichstätt-Brief",
+          "wikidata": "Q11680561"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2736",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-05-07",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Luthergedenkstätten in Eisleben und Wittenberg; Gemeinschaftsausgabe mit den Vereinten Nationen",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 6200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Luthergedenkstätten in Sachsen-Anhalt",
+          "beschriftung": "Luthergedenkstätten in Eisleben und Wittenberg",
+          "haupt": false,
+          "artikel": "Luthergedenkstätten in Eisleben und Wittenberg",
+          "wikidata": "Q2250035"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinten Nationen",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2737",
+      "block": "Block 74",
+      "art": "Sondermarke",
+      "ausgabetag": "2009-06-04",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Deutsche National- und Naturparke",
+      "bild_beschreibung": "Nationalpark Eifel",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 3100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": true,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Nationalpark Eifel",
+          "beschriftung": "Nationalpark Eifel",
+          "haupt": false,
+          "artikel": "Nationalpark Eifel",
+          "wikidata": "Q705097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2738",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-06-04",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Varusschlacht",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 7700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Varusschlacht",
+          "beschriftung": "Varusschlacht",
+          "haupt": true,
+          "artikel": "Varusschlacht",
+          "wikidata": "Q87779"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-06-04",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Heinrich Hoffmann",
+      "bild_beschreibung": "",
+      "entwerfer": "Arne Sänger",
+      "auflage": 23700000,
+      "commons_datei": "DPAG 2009 Heinrich Hoffmann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Hoffmann",
+          "beschriftung": "Heinrich Hoffmann",
+          "haupt": true,
+          "artikel": "Heinrich Hoffmann",
+          "wikidata": "Q215724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2740",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-06-04",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Internationale Luft- und Raumfahrtausstellung (ILA)",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 8800000,
+      "commons_datei": "DPAG 2009 ILA Luft und Raumfahrtausstellung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Luft- und Raumfahrtausstellung",
+          "beschriftung": "Internationale Luft- und Raumfahrtausstellung",
+          "haupt": true,
+          "artikel": "Internationale Luft- und Raumfahrtausstellung Berlin",
+          "wikidata": "Q785990"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2741",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-06-04",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Varusschlacht",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Thomas Serres",
+      "auflage": 108271000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2742",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-07-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Norderney",
+      "entwerfer": "Johannes Graf",
+      "auflage": 12360000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Norderney",
+          "beschriftung": "Leuchtturm Norderney",
+          "haupt": true,
+          "artikel": "Leuchtturm Norderney",
+          "wikidata": "Q1821446"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2743",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-07-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Dornbusch",
+      "entwerfer": "Johannes Graf",
+      "auflage": 10960000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Dornbusch",
+          "beschriftung": "Leuchtturm Dornbusch",
+          "haupt": true,
+          "artikel": "Leuchtturm Dornbusch",
+          "wikidata": "Q1821420"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2744",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-07-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag Johannes Calvin",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes Calvin",
+          "beschriftung": "Johannes Calvin",
+          "haupt": true,
+          "artikel": "Johannes Calvin",
+          "wikidata": "Q37577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-07-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "600 Jahre Universität Leipzig",
+      "bild_beschreibung": "",
+      "entwerfer": "Nadine Nill",
+      "auflage": 9050000,
+      "commons_datei": "DPAG 2009 Universität Leipzig.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Universität Leipzig",
+          "beschriftung": "Universität Leipzig",
+          "haupt": true,
+          "artikel": "Universität Leipzig",
+          "wikidata": "Q154804"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2746",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-07-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Eisenbahnfährverkehr Sassnitz-Trelleborg (Königslinie)",
+      "bild_beschreibung": "",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Königslinie",
+          "beschriftung": "Königslinie",
+          "haupt": true,
+          "artikel": "Königslinie",
+          "wikidata": "Q955270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-07-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "600 Jahre Universität Leipzig",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Nadine Nill",
+      "auflage": 903161200,
+      "commons_datei": "DPAG 2009 Universität Leipzig.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – 50 Jahre Sandmännchen",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Stiftung Deutsche Jugendmarke e. V.:; Ostseestrand",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 1274000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Unser Sandmännchen",
+          "beschriftung": "Sandmännchen",
+          "haupt": false,
+          "artikel": "Unser Sandmännchen",
+          "wikidata": "Q615195"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – 50 Jahre Sandmännchen",
+      "bild_beschreibung": "Fliegender Koffer",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 1329000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unser Sandmännchen",
+          "beschriftung": "Sandmännchen",
+          "haupt": true,
+          "artikel": "Unser Sandmännchen",
+          "wikidata": "Q615195"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – 50 Jahre Sandmännchen",
+      "bild_beschreibung": "Kleinbahn Harz",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 1402000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unser Sandmännchen",
+          "beschriftung": "Sandmännchen",
+          "haupt": true,
+          "artikel": "Unser Sandmännchen",
+          "wikidata": "Q615195"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – 50 Jahre Sandmännchen",
+      "bild_beschreibung": "Planet Gugel",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 1140000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unser Sandmännchen",
+          "beschriftung": "Sandmännchen",
+          "haupt": true,
+          "artikel": "Unser Sandmännchen",
+          "wikidata": "Q615195"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2752",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Weihe des Mainzer Doms",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 5720000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mainzer Dom",
+          "beschriftung": "Mainzer Dom",
+          "haupt": true,
+          "artikel": "Mainzer Dom",
+          "wikidata": "Q666960"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Jugendherbergen",
+      "bild_beschreibung": "",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 8700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jugendherberge",
+          "beschriftung": "Jugendherberge",
+          "haupt": true,
+          "artikel": "Jugendherberge",
+          "wikidata": "Q1589077"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2754",
+      "block": "Block 75",
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Historischer Motorsport",
+      "bild_beschreibung": "",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 3150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Motorsport",
+          "beschriftung": "Motorsport",
+          "haupt": true,
+          "artikel": "Motorsport",
+          "wikidata": "Q5367"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2755",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-08-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Internationale Luft- und Raumfahrtausstellung (ILA)",
+      "bild_beschreibung": "selbstklebend aus Rolle",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 305280000,
+      "commons_datei": "DPAG 2009 ILA Luft und Raumfahrtausstellung.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2756",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-09-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Cowboy und Indianer",
+      "entwerfer": "Aisha Franz",
+      "auflage": 8800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2757",
+      "block": "Block 76",
+      "art": "Sondermarke",
+      "ausgabetag": "2009-09-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutscher Bundestag und Bundesrat",
+      "bild_beschreibung": "Deutscher Bundestag",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Bundestag",
+          "beschriftung": "Deutscher Bundestag",
+          "haupt": true,
+          "artikel": "Deutscher Bundestag",
+          "wikidata": "Q154797"
+        },
+        {
+          "titel": "Bundesrat (Deutschland)",
+          "beschriftung": "Bundesrat",
+          "haupt": false,
+          "artikel": "Bundesrat (Deutschland)",
+          "wikidata": "Q146138"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-09-03",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutscher Bundestag und Bundesrat",
+      "bild_beschreibung": "Bundesrat",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutscher Bundestag",
+          "beschriftung": "Deutscher Bundestag",
+          "haupt": true,
+          "artikel": "Deutscher Bundestag",
+          "wikidata": "Q154797"
+        },
+        {
+          "titel": "Bundesrat (Deutschland)",
+          "beschriftung": "Bundesrat",
+          "haupt": false,
+          "artikel": "Bundesrat (Deutschland)",
+          "wikidata": "Q146138"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-09-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Grenzöffnung Ungarn-Österreich",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Ungarn und Österreich",
+      "entwerfer": "Imre Benedek",
+      "auflage": 6150000,
+      "commons_datei": "DPAG 2009 Grenzöffnung Ungarn-Österreich.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ungarn",
+          "beschriftung": "Ungarn",
+          "haupt": true,
+          "artikel": "Ungarn",
+          "wikidata": "Q28"
+        },
+        {
+          "titel": "Österreich",
+          "beschriftung": "Österreich",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-09-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aktuelles",
+      "bild_beschreibung": "Deutschland",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 8570000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aktuelles",
+          "beschriftung": "Aktuelles",
+          "haupt": true,
+          "artikel": "Aktuelles",
+          "wikidata": "Q423610"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-10-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei",
+      "bild_beschreibung": "Georg Flegel: Stillleben mit Käse und Kirschen",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 6400000,
+      "commons_datei": "DPAG 2009 Georg Flegel.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Malerei",
+          "beschriftung": "Deutsche Malerei",
+          "haupt": true,
+          "artikel": "Deutsche Malerei",
+          "wikidata": "Q1203446"
+        },
+        {
+          "titel": "Georg Flegel",
+          "beschriftung": "Georg Flegel",
+          "haupt": false,
+          "artikel": "Georg Flegel",
+          "wikidata": "Q472394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-10-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Friedliche Revolution",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 6900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wende und friedliche Revolution in der Deutschen Demokratischen Republik",
+          "beschriftung": "20 Jahre Friedliche Revolution",
+          "haupt": true,
+          "artikel": "Wende und friedliche Revolution in der DDR",
+          "wikidata": "Q682258"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-11-12",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Kirchenschätze – Initialen aus dem Hoya-Missale",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 2246000,
+      "commons_datei": "DPAG 2009 Weihnachten 45.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-11-12",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Kirchenschätze – Initialen aus dem Hoya-Missale",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 4151000,
+      "commons_datei": "DPAG 2009 Weihnachten 55.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-11-12",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag Friedrich von Schiller",
+      "bild_beschreibung": "",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 6130000,
+      "commons_datei": "DPAG 2009 Friedrich von Schiller.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich von Schiller",
+          "beschriftung": "Friedrich von Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2766",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-11-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Marion Gräfin Dönhoff",
+      "bild_beschreibung": "",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 6980000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Marion Gräfin Dönhoff",
+          "beschriftung": "Marion Gräfin Dönhoff",
+          "haupt": true,
+          "artikel": "Marion Gräfin Dönhoff",
+          "wikidata": "Q62443"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2009-11-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aktuelles",
+      "bild_beschreibung": "Tier des Jahres 2010, Dachs",
+      "entwerfer": "Johannes Graf",
+      "auflage": 22870200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dachs",
+          "beschriftung": "Dachs",
+          "haupt": true,
+          "artikel": "Europäischer Dachs",
+          "wikidata": "Q27066"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2715",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "65",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Blumen",
+      "bild_beschreibung": "Sonnenhut; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtender Sonnenhut",
+          "beschriftung": "Sonnenhut",
+          "haupt": true,
+          "artikel": "Gewöhnlicher Sonnenhut",
+          "wikidata": "Q450250"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2716",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2009-01-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Blumen",
+      "bild_beschreibung": "Kartäusernelke; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kartäuser-Nelke",
+          "beschriftung": "Kartäusernelke",
+          "haupt": true,
+          "artikel": "Kartäusernelke",
+          "wikidata": "Q159735"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

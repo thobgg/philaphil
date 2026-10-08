@@ -1,0 +1,1311 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1972,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1972 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1972_der_Deutschen_Bundespost",
+    "revision": 259739061,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 710,
+    "mi_nr_bis": 752,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 37,
+    "sondermarken_laut_einleitung": 37
+  },
+  "marken": [
+    {
+      "mi_nr": "710",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-01-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Wilhelm Löhe (1808–1872)",
+      "bild_beschreibung": "Diakonissenschwestern; Wilhelm Löhe, Gründer der Diakonie Neuendettelsau",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Löhe",
+          "beschriftung": "Wilhelm Löhe",
+          "haupt": true,
+          "artikel": "Wilhelm Löhe",
+          "wikidata": "Q72865"
+        },
+        {
+          "titel": "Diakonisches Werk",
+          "beschriftung": "Diakonissenschwestern",
+          "haupt": false,
+          "artikel": "Diakonie Deutschland",
+          "wikidata": "Q126501"
+        },
+        {
+          "titel": "Diakonie Neuendettelsau",
+          "beschriftung": "Diakonie Neuendettelsau",
+          "haupt": false,
+          "artikel": "Diakonie Neuendettelsau",
+          "wikidata": "Q1208266"
+        }
+      ]
+    },
+    {
+      "mi_nr": "711",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Tierschutz",
+      "bild_beschreibung": "Ein Junge schützt eine Entenfamilie auf der Straße",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 5463000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Entenvögel",
+          "beschriftung": "Entenfamilie",
+          "haupt": true,
+          "artikel": "Entenvögel",
+          "wikidata": "Q7556"
+        }
+      ]
+    },
+    {
+      "mi_nr": "712",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Tierschutz",
+      "bild_beschreibung": "Ein Unruhe stiftender Junge im Wald",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 5561000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": true,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "713",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Tierschutz",
+      "bild_beschreibung": "Ein Mädchen schützt einen Vogel vor einer Katze",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 5952000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vogel",
+          "haupt": true,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        },
+        {
+          "titel": "Hauskatze",
+          "beschriftung": "Katze",
+          "haupt": false,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "714",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-02-04",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Tierschutz",
+      "bild_beschreibung": "Ein Junge ärgert Schwäne am See",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 5225000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwäne",
+          "beschriftung": "Schwäne",
+          "haupt": true,
+          "artikel": "Schwäne",
+          "wikidata": "Q29564928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "715",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-04-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Flachdruckverfahren",
+      "bild_beschreibung": "Steindruckpresse von Alois Senefelder",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1972, MiNr 715.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lithografie",
+          "beschriftung": "Steindruckpresse",
+          "haupt": true,
+          "artikel": "Lithografie",
+          "wikidata": "Q133036"
+        },
+        {
+          "titel": "Alois Senefelder",
+          "beschriftung": "Alois Senefelder",
+          "haupt": false,
+          "artikel": "Alois Senefelder",
+          "wikidata": "Q161048"
+        }
+      ]
+    },
+    {
+      "mi_nr": "716",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-05-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "tanzende Farbpunkte",
+      "entwerfer": "Huovinen",
+      "auflage": 50000000,
+      "commons_datei": "DBP 1972 716 Europa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "717",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-05-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "tanzende Farbpunkte",
+      "entwerfer": "Huovinen",
+      "auflage": 51200000,
+      "commons_datei": "DBP 1972 717 Europa.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "718",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-05-18",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Lucas Cranach dem Älteren",
+      "bild_beschreibung": "Zeichnung von Albrecht Dürer",
+      "entwerfer": "Ewald Sauer",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1972 718 Lucas Cranach d.Ä.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lucas Cranach der Ältere",
+          "beschriftung": "Lucas Cranach dem Älteren",
+          "haupt": true,
+          "artikel": "Lucas Cranach der Ältere",
+          "wikidata": "Q191748"
+        },
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": false,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        }
+      ]
+    },
+    {
+      "mi_nr": "719",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-06-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Ringen",
+      "entwerfer": "Gerta Haller",
+      "auflage": 7108000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ringen",
+          "beschriftung": "Ringen",
+          "haupt": true,
+          "artikel": "Ringen",
+          "wikidata": "Q42486"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "720",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-06-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Segeln",
+      "entwerfer": "Gerta Haller",
+      "auflage": 6923000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segeln",
+          "beschriftung": "Segeln",
+          "haupt": true,
+          "artikel": "Segeln",
+          "wikidata": "Q192520"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "721",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-06-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Bodenturnen",
+      "entwerfer": "Gerta Haller",
+      "auflage": 7296000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenturnen",
+          "beschriftung": "Bodenturnen",
+          "haupt": true,
+          "artikel": "Bodenturnen",
+          "wikidata": "Q828144"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "722",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-06-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Schwimmen",
+      "entwerfer": "Gerta Haller",
+      "auflage": 6438000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwimmsport",
+          "beschriftung": "Schwimmen",
+          "haupt": true,
+          "artikel": "Schwimmsport",
+          "wikidata": "Q31920"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "723",
+      "block": "Block 7",
+      "art": "Sondermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Velodrom im Münchner Olympiapark",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 7865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radrennbahn",
+          "beschriftung": "Velodrom",
+          "haupt": true,
+          "artikel": "Radrennbahn",
+          "wikidata": "Q830528"
+        },
+        {
+          "titel": "Olympiapark (München)",
+          "beschriftung": "Münchner Olympiapark",
+          "haupt": false,
+          "artikel": "Olympiapark (München)",
+          "wikidata": "Q383296"
+        }
+      ]
+    },
+    {
+      "mi_nr": "724",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Olympiastadion München",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 7865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympiastadion München",
+          "beschriftung": "Olympiastadion München",
+          "haupt": true,
+          "artikel": "Olympiastadion München",
+          "wikidata": "Q131610"
+        }
+      ]
+    },
+    {
+      "mi_nr": "725",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Mehrzweckhalle und Schwimmstadion",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 7865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "726",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Olympiaturm",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 7865000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympiaturm",
+          "beschriftung": "Olympiaturm",
+          "haupt": true,
+          "artikel": "Olympiaturm",
+          "wikidata": "Q599148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "733",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-07-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltspiele der Gelähmten in Heidelberg",
+      "bild_beschreibung": "Bogenschütze im Rollstuhl",
+      "entwerfer": "Schwarz",
+      "auflage": 32500000,
+      "commons_datei": "DBP 1972 733 Weltspiele der Gelähmten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Weltspiele der Gelähmten",
+          "haupt": true,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        },
+        {
+          "titel": "Heidelberg",
+          "beschriftung": "Heidelberg",
+          "haupt": false,
+          "artikel": "Heidelberg",
+          "wikidata": "Q2966"
+        },
+        {
+          "titel": "Bogenschießen",
+          "beschriftung": "Bogenschütze",
+          "haupt": false,
+          "artikel": "Bogenschießen",
+          "wikidata": "Q108429"
+        },
+        {
+          "titel": "Rollstuhl",
+          "beschriftung": "Rollstuhl",
+          "haupt": false,
+          "artikel": "Rollstuhl",
+          "wikidata": "Q191931"
+        }
+      ]
+    },
+    {
+      "mi_nr": "734",
+      "block": "Block 8",
+      "art": "Sondermarke",
+      "ausgabetag": "1972-08-18",
+      "wert": "25+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock und Markenheftausgabe – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Weitsprung",
+      "entwerfer": "Gerta Haller",
+      "auflage": 8986000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weitsprung",
+          "beschriftung": "Weitsprung",
+          "haupt": true,
+          "artikel": "Weitsprung",
+          "wikidata": "Q170737"
+        }
+      ]
+    },
+    {
+      "mi_nr": "735",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-08-18",
+      "wert": "30+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock und Markenheftausgabe – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Basketball",
+      "entwerfer": "Gerta Haller",
+      "auflage": 8986000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Basketball",
+          "beschriftung": "Basketball",
+          "haupt": true,
+          "artikel": "Basketball",
+          "wikidata": "Q5372"
+        }
+      ]
+    },
+    {
+      "mi_nr": "736",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-08-18",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock und Markenheftausgabe – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Diskuswurf",
+      "entwerfer": "Gerta Haller",
+      "auflage": 8986000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diskuswurf",
+          "beschriftung": "Diskuswurf",
+          "haupt": true,
+          "artikel": "Diskuswurf",
+          "wikidata": "Q182570"
+        }
+      ]
+    },
+    {
+      "mi_nr": "737",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-08-18",
+      "wert": "70+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock und Markenheftausgabe – Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Kanuslalom",
+      "entwerfer": "Gerta Haller",
+      "auflage": 8986000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kanuslalom",
+          "beschriftung": "Kanuslalom",
+          "haupt": true,
+          "artikel": "Kanuslalom",
+          "wikidata": "Q31874"
+        }
+      ]
+    },
+    {
+      "mi_nr": "738",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-08-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Todestag von Kurt Schumacher (1895–1952)",
+      "bild_beschreibung": "Parteivorsitzender der SPD von 1946 bis 1952",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 39670000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kurt Schumacher",
+          "beschriftung": "Kurt Schumacher",
+          "haupt": true,
+          "artikel": "Kurt Schumacher",
+          "wikidata": "Q57465"
+        },
+        {
+          "titel": "Sozialdemokratische Partei Deutschlands",
+          "beschriftung": "SPD",
+          "haupt": false,
+          "artikel": "Sozialdemokratische Partei Deutschlands",
+          "wikidata": "Q49768"
+        }
+      ]
+    },
+    {
+      "mi_nr": "739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-08-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Postmuseum Frankfurt am Main",
+      "bild_beschreibung": "Posthorn der Reichspost auf einem Detail der Gründungsverfügung von Heinrich von Stephan",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1972 739 Postmuseum Frankfurt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Postmuseum",
+          "beschriftung": "Postmuseum",
+          "haupt": true,
+          "artikel": "Postmuseum",
+          "wikidata": "Q2106220"
+        },
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt am Main",
+          "haupt": false,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        },
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": false,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        },
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": false,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "740",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-09-11",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationales Jahr des Buches",
+      "bild_beschreibung": "Aufgeschlagenes Buch",
+      "entwerfer": "Beat Knoblauch",
+      "auflage": 30575000,
+      "commons_datei": "DBP 1972 740 Jahr des Buches.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "741",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-09-29",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Todestag von Heinrich Schütz (1585–1672)",
+      "bild_beschreibung": "Konzertnoten von Heinrich Schütz Verleih uns Frieden gnädiglich",
+      "entwerfer": "König",
+      "auflage": 33330000,
+      "commons_datei": "DBP 1972 741 Heinrich Schütz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Schütz",
+          "beschriftung": "Heinrich Schütz",
+          "haupt": true,
+          "artikel": "Heinrich Schütz",
+          "wikidata": "Q153643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "742",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Schachfiguren",
+      "bild_beschreibung": "Schachfiguren aus der Fayencemanufaktur in Gien in Frankreich, es handelt sich um den sogenannten St.-Georgs-Figurensatz aus dem 19. Jahrhundert; Springer",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9993000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fayence",
+          "beschriftung": "Fayence",
+          "haupt": true,
+          "artikel": "Fayence",
+          "wikidata": "Q209671"
+        },
+        {
+          "titel": "Gien",
+          "beschriftung": "Gien",
+          "haupt": false,
+          "artikel": "Gien",
+          "wikidata": "Q475599"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        },
+        {
+          "titel": "Springer (Schach)",
+          "beschriftung": "Springer",
+          "haupt": false,
+          "artikel": "Springer (Schach)",
+          "wikidata": "Q136"
+        },
+        {
+          "titel": "Schach",
+          "beschriftung": "Schach",
+          "haupt": false,
+          "artikel": "Schach",
+          "wikidata": "Q718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "743",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Schachfiguren",
+      "bild_beschreibung": "Turm",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 11920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turm (Schach)",
+          "beschriftung": "Turm",
+          "haupt": true,
+          "artikel": "Turm (Schach)",
+          "wikidata": "Q137"
+        },
+        {
+          "titel": "Schach",
+          "beschriftung": "Schach",
+          "haupt": false,
+          "artikel": "Schach",
+          "wikidata": "Q718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "744",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Schachfiguren",
+      "bild_beschreibung": "Dame",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 14485000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dame (Schach)",
+          "beschriftung": "Dame",
+          "haupt": true,
+          "artikel": "Dame (Schach)",
+          "wikidata": "Q139"
+        },
+        {
+          "titel": "Schach",
+          "beschriftung": "Schach",
+          "haupt": false,
+          "artikel": "Schach",
+          "wikidata": "Q718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-05",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Schachfiguren",
+      "bild_beschreibung": "König",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6639000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "König (Schach)",
+          "beschriftung": "König",
+          "haupt": true,
+          "artikel": "König (Schach)",
+          "wikidata": "Q138"
+        },
+        {
+          "titel": "Schach",
+          "beschriftung": "Schach",
+          "haupt": false,
+          "artikel": "Schach",
+          "wikidata": "Q718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "746",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-20",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Helgoland",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 32280000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helgoland",
+          "beschriftung": "Helgoland",
+          "haupt": true,
+          "artikel": "Helgoland",
+          "wikidata": "Q3038"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-10-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Heidelberg mit Karl-Theodor- oder Alte Brücke und Schloss",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29090000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heidelberg",
+          "beschriftung": "Heidelberg",
+          "haupt": true,
+          "artikel": "Heidelberg",
+          "wikidata": "Q2966"
+        },
+        {
+          "titel": "Alte Brücke (Heidelberg)",
+          "beschriftung": "Karl-Theodor- oder Alte Brücke",
+          "haupt": false,
+          "artikel": "Alte Brücke (Heidelberg)",
+          "wikidata": "Q435416"
+        },
+        {
+          "titel": "Heidelberger Schloss",
+          "beschriftung": "Schloss",
+          "haupt": false,
+          "artikel": "Heidelberger Schloss",
+          "wikidata": "Q327265"
+        },
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": false,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        }
+      ]
+    },
+    {
+      "mi_nr": "748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-11-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Kölner Karneval",
+      "bild_beschreibung": "Karnevalsfiguren",
+      "entwerfer": "Erna de Vries",
+      "auflage": 29390000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kölner Karneval",
+          "beschriftung": "Kölner Karneval",
+          "haupt": true,
+          "artikel": "Kölner Karneval",
+          "wikidata": "Q262577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-11-10",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Die heiligen Drei Könige überbringen Gold, Weihrauch und Myrrhe",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 9064000,
+      "commons_datei": "Stamps of Germany (BRD) 1972, MiNr 749.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heilige Drei Könige",
+          "beschriftung": "heiligen Drei Könige",
+          "haupt": true,
+          "artikel": "Heilige Drei Könige",
+          "wikidata": "Q51671"
+        },
+        {
+          "titel": "Gold",
+          "beschriftung": "Gold",
+          "haupt": false,
+          "artikel": "Gold",
+          "wikidata": "Q897"
+        },
+        {
+          "titel": "Weihrauch",
+          "beschriftung": "Weihrauch",
+          "haupt": false,
+          "artikel": "Weihrauch",
+          "wikidata": "Q173486"
+        },
+        {
+          "titel": "Myrrhe",
+          "beschriftung": "Myrrhe",
+          "haupt": false,
+          "artikel": "Myrrhe",
+          "wikidata": "Q203635"
+        }
+      ]
+    },
+    {
+      "mi_nr": "750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-12-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag von Heinrich Heine (1797–1856)",
+      "bild_beschreibung": "Dichter und Journalist",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 28450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Journalist",
+          "beschriftung": "Journalist",
+          "haupt": false,
+          "artikel": "Journalist",
+          "wikidata": "Q1930187"
+        }
+      ]
+    },
+    {
+      "mi_nr": "751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-12-13",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Brot für die Welt",
+      "bild_beschreibung": "mit Inschrift Den Frieden entwickeln",
+      "entwerfer": "Diakonisches Werk und die Kunstwerkstätten der Bundesdruckerei",
+      "auflage": 9850000,
+      "commons_datei": "DBP 1972 751 Brot für die Welt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brot für die Welt",
+          "beschriftung": "Brot für die Welt",
+          "haupt": true,
+          "artikel": "Brot für die Welt",
+          "wikidata": "Q990731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "752",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1972-12-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Synode der katholischen Bistümer, Würzburg",
+      "bild_beschreibung": "Stadtsiegel Würzburgs von 1237 bis 1560 mit dem Würzburger Dom",
+      "entwerfer": "Christine Ackermann",
+      "auflage": 31350000,
+      "commons_datei": "DBP 1972 752 Synode Würzburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Würzburger Synode",
+          "beschriftung": "Synode der katholischen Bistümer, Würzburg",
+          "haupt": true,
+          "artikel": "Würzburger Synode",
+          "wikidata": "Q2596989"
+        },
+        {
+          "titel": "Würzburger Dom",
+          "beschriftung": "Würzburger Dom",
+          "haupt": false,
+          "artikel": "Würzburger Dom",
+          "wikidata": "Q252166"
+        }
+      ]
+    },
+    {
+      "mi_nr": "727",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 33476000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "728",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-06-20",
+      "wert": "130",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 21995000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "729",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 19486000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "730",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-07-05",
+      "wert": "150",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 67705000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "731",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1972-09-11",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 35738000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "732",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1973-01-16",
+      "wert": "190",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 32726000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1962,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1962 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1962_der_Deutschen_Bundespost",
+    "revision": 258290915,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 375,
+    "mi_nr_bis": 389,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 15,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "375",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "2000 Jahr Feier Mainz",
+      "bild_beschreibung": "Drususstein, Ausschnitt aus dem Stadtbild von Mainz",
+      "entwerfer": "Eduard Ege",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1962 375 2000 Jahre Mainz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mainz",
+          "beschriftung": "2000 Jahr Feier Mainz",
+          "haupt": true,
+          "artikel": "Mainz",
+          "wikidata": "Q1720"
+        },
+        {
+          "titel": "Drususstein",
+          "beschriftung": "Drususstein",
+          "haupt": false,
+          "artikel": "Drususstein",
+          "wikidata": "Q565736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-25",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Für die Jugend, Schmetterlinge",
+      "bild_beschreibung": "Roter Apollo (Parnassius apollo – Papilionidae)",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 7350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roter Apollo",
+          "beschriftung": "Roter Apollo",
+          "haupt": true,
+          "artikel": "Roter Apollo",
+          "wikidata": "Q41633"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-25",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Für die Jugend, Schmetterlinge",
+      "bild_beschreibung": "Trauermantel (Nymphalis antiopia – Nymphalidae)",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 7750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trauermantel",
+          "beschriftung": "Trauermantel",
+          "haupt": true,
+          "artikel": "Trauermantel",
+          "wikidata": "Q503989"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-25",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Für die Jugend, Schmetterlinge",
+      "bild_beschreibung": "Kleiner Fuchs (Aglais urticae – Nymphalidae)",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kleiner Fuchs",
+          "beschriftung": "Kleiner Fuchs",
+          "haupt": true,
+          "artikel": "Kleiner Fuchs",
+          "wikidata": "Q157609"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-05-25",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Für die Jugend, Schmetterlinge",
+      "bild_beschreibung": "Segelfalter (Iphiclides podalirius – Papilionidae)",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 5900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelfalter",
+          "beschriftung": "Segelfalter",
+          "haupt": true,
+          "artikel": "Segelfalter",
+          "wikidata": "Q31080"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Lied und Chor",
+      "bild_beschreibung": "Stimmgabel vor Notentext \"In dulci jubilo\" aus \"Musae Sioniae\"",
+      "entwerfer": "Walter Breker",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1962, MiNr 380.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stimmgabel",
+          "beschriftung": "Stimmgabel",
+          "haupt": true,
+          "artikel": "Stimmgabel",
+          "wikidata": "Q201898"
+        },
+        {
+          "titel": "In dulci jubilo",
+          "beschriftung": "In dulci jubilo",
+          "haupt": false,
+          "artikel": "In dulci jubilo",
+          "wikidata": "Q1660736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-08-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "79. Deutscher Katholikentag 1962",
+      "bild_beschreibung": "Sinnbildliche Darstellung von \"Glauben, Danken, Dienen\"",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1962 381 79. Deutscher Katholikentag.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "150 Jahre Württembergische Bibelanstalt",
+      "bild_beschreibung": "Aufgeschlagene Bibel mit Christusmonogramm und Kelch",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Württembergische Bibelgesellschaft",
+          "beschriftung": "Württembergische Bibelanstalt",
+          "haupt": true,
+          "artikel": "Württembergische Bibelgesellschaft",
+          "wikidata": "Q2596809"
+        },
+        {
+          "titel": "Bibel",
+          "beschriftung": "Bibel",
+          "haupt": false,
+          "artikel": "Bibel",
+          "wikidata": "Q1845"
+        },
+        {
+          "titel": "Christusmonogramm",
+          "beschriftung": "Christusmonogramm",
+          "haupt": false,
+          "artikel": "Christusmonogramm",
+          "wikidata": "Q151970"
+        },
+        {
+          "titel": "Ziborium (Gefäß)",
+          "beschriftung": "Kelch",
+          "haupt": false,
+          "artikel": "Ziborium (Gefäß)",
+          "wikidata": "Q198373"
+        }
+      ]
+    },
+    {
+      "mi_nr": "383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Stilisierter Baum mit 19 Blättern",
+      "entwerfer": "Lex Weyer",
+      "auflage": 85000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baum",
+          "beschriftung": "Baum",
+          "haupt": true,
+          "artikel": "Baum",
+          "wikidata": "Q10884"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Stilisierter Baum mit 19 Blättern",
+      "entwerfer": "Lex Weyer",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-10",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Wohlfahrtsmarken, Schneewittchen",
+      "bild_beschreibung": "Märchen der Brüder Grimm; Die Stiefmutter vor dem Spiegel",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 12150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Schneewittchen",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "386",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-10",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Wohlfahrtsmarken, Schneewittchen",
+      "bild_beschreibung": "Schneewittchen und die 7 Zwerge",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 16900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwerg (Mythologie)",
+          "beschriftung": "Zwerg",
+          "haupt": true,
+          "artikel": "Zwerg (Mythologie)",
+          "wikidata": "Q214045"
+        },
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Schneewittchen",
+          "haupt": false,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "387",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-10",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Wohlfahrtsmarken, Schneewittchen",
+      "bild_beschreibung": "Schneewittchen wird vergiftet",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 14000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Schneewittchen",
+          "haupt": true,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "388",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-10-10",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Wohlfahrtsmarken, Schneewittchen",
+      "bild_beschreibung": "Schneewittchen im Glassarg",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 8050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneewittchen",
+          "beschriftung": "Schneewittchen",
+          "haupt": true,
+          "artikel": "Schneewittchen",
+          "wikidata": "Q11831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "389",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-11-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Brot für die Welt",
+      "bild_beschreibung": "Inschrift",
+      "entwerfer": "Herbert Kern",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1962 389 Brot für die Welt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brot für die Welt",
+          "beschriftung": "Brot für die Welt",
+          "haupt": true,
+          "artikel": "Brot für die Welt",
+          "wikidata": "Q990731"
+        }
+      ]
+    }
+  ]
+}

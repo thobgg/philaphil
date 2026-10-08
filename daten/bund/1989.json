@@ -1,0 +1,1443 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1989,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1989 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1989_der_Deutschen_Bundespost",
+    "revision": 263741529,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1397,
+    "mi_nr_bis": 1443,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 35,
+    "sondermarken_laut_einleitung": 35
+  },
+  "marken": [
+    {
+      "mi_nr": "1402",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Bonn",
+      "bild_beschreibung": "Bonner Wappen, Schiff und bedeutende Bauwerke der Stadt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": true,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        },
+        {
+          "titel": "Bonner Wappen",
+          "beschriftung": "Bonner Wappen",
+          "haupt": false,
+          "artikel": "Bonner Wappen",
+          "wikidata": "Q892765"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1403",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Willi Baumeister (1889–1955)",
+      "bild_beschreibung": "Gemälde Bluxao I",
+      "entwerfer": "Heribert Burkert",
+      "auflage": 33875000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Willi Baumeister",
+          "beschriftung": "Willi Baumeister",
+          "haupt": true,
+          "artikel": "Willi Baumeister",
+          "wikidata": "Q707911"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "30 Jahre Misereor und Brot für die Welt",
+      "bild_beschreibung": "trockene, aufgeplatzte Erde",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Misereor",
+          "beschriftung": "Misereor",
+          "haupt": true,
+          "artikel": "Bischöfliches Hilfswerk Misereor",
+          "wikidata": "Q866247"
+        },
+        {
+          "titel": "Brot für die Welt",
+          "beschriftung": "Brot für die Welt",
+          "haupt": false,
+          "artikel": "Brot für die Welt",
+          "wikidata": "Q990731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1408",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-02-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Tischtennis, anlässlich der Tischtennisweltmeisterschaft 1989 in Dortmund",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 4116000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tischtennis",
+          "beschriftung": "Tischtennis",
+          "haupt": true,
+          "artikel": "Tischtennis",
+          "wikidata": "Q3930"
+        },
+        {
+          "titel": "Tischtennisweltmeisterschaft 1989",
+          "beschriftung": "Tischtennisweltmeisterschaft 1989",
+          "haupt": false,
+          "artikel": "Tischtennisweltmeisterschaft 1989",
+          "wikidata": "Q253722"
+        },
+        {
+          "titel": "Dortmund",
+          "beschriftung": "Dortmund",
+          "haupt": false,
+          "artikel": "Dortmund",
+          "wikidata": "Q1295"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1409",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-02-09",
+      "wert": "140+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene Anlässe",
+      "bild_beschreibung": "Kunstturnen, anlässlich der Turn-Weltmeisterschaften 1989 in Stuttgart",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 3613000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerätturnen",
+          "beschriftung": "Kunstturnen",
+          "haupt": true,
+          "artikel": "Gerätturnen",
+          "wikidata": "Q326827"
+        },
+        {
+          "titel": "Turn-Weltmeisterschaften 1989",
+          "beschriftung": "Turn-Weltmeisterschaften 1989",
+          "haupt": false,
+          "artikel": "Turn-Weltmeisterschaften 1989",
+          "wikidata": "Q554350"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1410",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-02-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Gerhard Marcks (1889–1981)",
+      "bild_beschreibung": "Holzschnitt „Katzen im Dachboden“",
+      "entwerfer": "Günter Jacki",
+      "auflage": 31600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gerhard Marcks",
+          "beschriftung": "Gerhard Marcks",
+          "haupt": true,
+          "artikel": "Gerhard Marcks",
+          "wikidata": "Q61507"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1411",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-04-20",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Zirkus",
+      "bild_beschreibung": "Elefantengruppe",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 3657000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elefanten",
+          "beschriftung": "Elefanten",
+          "haupt": true,
+          "artikel": "Elefanten",
+          "wikidata": "Q2372824"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1412",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-04-20",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Zirkus",
+      "bild_beschreibung": "Ballerina auf einem Pferd",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 3546000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ballerina",
+          "beschriftung": "Ballerina",
+          "haupt": true,
+          "artikel": "Ballerina",
+          "wikidata": "Q805221"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1413",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-04-20",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Zirkus",
+      "bild_beschreibung": "Clown",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 3527000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clown",
+          "beschriftung": "Clown",
+          "haupt": true,
+          "artikel": "Clown",
+          "wikidata": "Q7358"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1414",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-04-20",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Zirkus",
+      "bild_beschreibung": "Zirkuszelt",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 3690000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zirkuszelt",
+          "beschriftung": "Zirkuszelt",
+          "haupt": true,
+          "artikel": "Zirkuszelt",
+          "wikidata": "Q31244"
+        },
+        {
+          "titel": "Zirkus",
+          "beschriftung": "Zirkus",
+          "haupt": false,
+          "artikel": "Zirkus",
+          "wikidata": "Q47928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1415",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-04-20",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltausstellung für philatelistische Literatur IPHLA in Frankfurt am Main",
+      "bild_beschreibung": "vereinfachte Buchdarstellung mit alten Briefmarken und der Alten Oper Frankfurt als Titel, daneben ein Posthorn",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 3780000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt am Main",
+          "haupt": true,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        },
+        {
+          "titel": "Alte Oper",
+          "beschriftung": "Alten Oper",
+          "haupt": false,
+          "artikel": "Alte Oper",
+          "wikidata": "Q436079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1416",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-04-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die dritten Direktwahlen zum Europäischen Parlament",
+      "bild_beschreibung": "Europafahne und die Staatsflaggen der Mitglieder der EG",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 32800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europäisches Parlament",
+          "beschriftung": "Europäischen Parlament",
+          "haupt": true,
+          "artikel": "Europäisches Parlament",
+          "wikidata": "Q8889"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1417",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Kinderspiele",
+      "bild_beschreibung": "Drachensteigen",
+      "entwerfer": "Erna de Vries",
+      "auflage": 76270000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Drachen",
+          "beschriftung": "Drachen",
+          "haupt": true,
+          "artikel": "Drachen",
+          "wikidata": "Q42861"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1418",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Kinderspiele",
+      "bild_beschreibung": "Puppentheater",
+      "entwerfer": "Erna de Vries",
+      "auflage": 79280000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppentheater",
+          "beschriftung": "Puppentheater",
+          "haupt": true,
+          "artikel": "Puppentheater",
+          "wikidata": "Q588750"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1419",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Hamburger Hafen",
+      "bild_beschreibung": "",
+      "entwerfer": "H. P. Seiter",
+      "auflage": 35000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hamburger Hafen",
+          "beschriftung": "Hamburger Hafen",
+          "haupt": true,
+          "artikel": "Hamburger Hafen",
+          "wikidata": "Q3964"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1420",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Todestag von Cosmas Damian Asam (1686–1739)",
+      "bild_beschreibung": "Detail aus dem Kuppelfresko im Kloster Weltenburg von Egid Quirin Asam",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 31100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Cosmas Damian Asam",
+          "beschriftung": "Cosmas Damian Asam",
+          "haupt": true,
+          "artikel": "Cosmas Damian Asam",
+          "wikidata": "Q715693"
+        },
+        {
+          "titel": "Egid Quirin Asam",
+          "beschriftung": "Egid Quirin Asam",
+          "haupt": false,
+          "artikel": "Egid Quirin Asam",
+          "wikidata": "Q639579"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1421",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Bundesrepublik Deutschland",
+      "bild_beschreibung": "Bundesadler, Schwarz-Rot-Gold und die Unterschriften der bisherigen Bundespräsidenten",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 40600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesrepublik Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        },
+        {
+          "titel": "Bundeswappen Deutschlands",
+          "beschriftung": "Bundesadler",
+          "haupt": false,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        },
+        {
+          "titel": "Schwarz-Rot-Gold",
+          "beschriftung": "Schwarz-Rot-Gold",
+          "haupt": false,
+          "artikel": "Schwarz-Rot-Gold",
+          "wikidata": "Q29839581"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1422",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Europarat",
+      "bild_beschreibung": "",
+      "entwerfer": "Margit Zauner",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europarat",
+          "beschriftung": "Europarat",
+          "haupt": true,
+          "artikel": "Europarat",
+          "wikidata": "Q8908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Franz Xaver Gabelsberger (1789–1849)",
+      "bild_beschreibung": "",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Xaver Gabelsberger",
+          "beschriftung": "Franz Xaver Gabelsberger",
+          "haupt": true,
+          "artikel": "Franz Xaver Gabelsberger",
+          "wikidata": "Q62137"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-06-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1300 Jahre Mission und Martyrium der Frankenapostel Kilian, Kolonat und Totnan",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Irland",
+      "entwerfer": "Paul Effert",
+      "auflage": 30200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kilian (Heiliger)",
+          "beschriftung": "Kilian",
+          "haupt": true,
+          "artikel": "Kilian (Heiliger)",
+          "wikidata": "Q181738"
+        },
+        {
+          "titel": "Kolonat (Heiliger)",
+          "beschriftung": "Kolonat",
+          "haupt": false,
+          "artikel": "Kolonat (Heiliger)",
+          "wikidata": "Q2697141"
+        },
+        {
+          "titel": "Totnan",
+          "beschriftung": "Totnan",
+          "haupt": false,
+          "artikel": "Totnan",
+          "wikidata": "Q885035"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Irland",
+          "beschriftung": "Irland",
+          "haupt": false,
+          "artikel": "Irland",
+          "wikidata": "Q27"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-06-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Friedrich Silcher (1789–1860)",
+      "bild_beschreibung": "",
+      "entwerfer": "Rolf Meyn",
+      "auflage": 19500000,
+      "commons_datei": "DBP 1989 1425 Friedrich Silcher.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Silcher",
+          "beschriftung": "Friedrich Silcher",
+          "haupt": true,
+          "artikel": "Friedrich Silcher",
+          "wikidata": "Q700090"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-06-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Gesetzliche Rentenversicherung",
+      "bild_beschreibung": "",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1989 1426 Gesetzliche Rentenversicherung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gesetzliche Rentenversicherung",
+          "beschriftung": "Gesetzliche Rentenversicherung",
+          "haupt": true,
+          "artikel": "Gesetzliche Rentenversicherung",
+          "wikidata": "Q1519134"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-07-13",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Friedrich List (1789–1846)",
+      "bild_beschreibung": "Porträt von List vor einem Eisenbahnzug",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1989 1429 Friedrich List.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich List",
+          "beschriftung": "Friedrich List",
+          "haupt": true,
+          "artikel": "Friedrich List",
+          "wikidata": "Q159917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1430",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-07-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Künstlerdorf Worpswede",
+      "bild_beschreibung": "Heinrich Vogeler, Gemälde Der Sommerabend",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1989 1430 Künstlerdorf Worpswede.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Künstlerkolonie Worpswede",
+          "beschriftung": "Künstlerdorf Worpswede",
+          "haupt": true,
+          "artikel": "Künstlerkolonie Worpswede",
+          "wikidata": "Q479361"
+        },
+        {
+          "titel": "Heinrich Vogeler",
+          "beschriftung": "Heinrich Vogeler",
+          "haupt": false,
+          "artikel": "Heinrich Vogeler",
+          "wikidata": "Q213734"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1431",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-07-13",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Paul Schneider (1897–1939)",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Jacki",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1989 1431 Paul Schneider.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Schneider (Pfarrer)",
+          "beschriftung": "Paul Schneider",
+          "haupt": true,
+          "artikel": "Paul Schneider (Pfarrer)",
+          "wikidata": "Q64520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1434",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-08-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Frankfurter Dom",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 32320000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frankfurter Dom",
+          "beschriftung": "Frankfurter Dom",
+          "haupt": true,
+          "artikel": "Kaiserdom St. Bartholomäus",
+          "wikidata": "Q57341"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1435",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-08-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder gehören dazu",
+      "bild_beschreibung": "Kinder, die ein Haus bauen",
+      "entwerfer": "Lilo Fromm",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1436",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-08-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre IG Bergbau und Energie",
+      "bild_beschreibung": "Ammonit und Bergbau-Symbol",
+      "entwerfer": "Ernst Poell",
+      "auflage": 34900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "IG Bergbau und Energie",
+          "beschriftung": "IG Bergbau und Energie",
+          "haupt": true,
+          "artikel": "IG Bergbau und Energie",
+          "wikidata": "Q1653621"
+        },
+        {
+          "titel": "Ammoniten",
+          "beschriftung": "Ammonit",
+          "haupt": false,
+          "artikel": "Ammoniten",
+          "wikidata": "Q228002"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1437",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-10-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1989: Postbeförderung im Laufe der Jahrhunderte",
+      "bild_beschreibung": "Thurn und Taxis, Postreiter 18. Jahrhundert",
+      "entwerfer": "Peter Steiner",
+      "auflage": 13984100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thurn und Taxis",
+          "beschriftung": "Thurn und Taxis",
+          "haupt": true,
+          "artikel": "Thurn und Taxis",
+          "wikidata": "Q2116135"
+        },
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": false,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1438",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-10-12",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1989: Postbeförderung im Laufe der Jahrhunderte",
+      "bild_beschreibung": "Hamburgische Fußpost, Bote um 1808",
+      "entwerfer": "Peter Steiner",
+      "auflage": 8415300,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postgeschichte und Briefmarken Hamburgs",
+          "beschriftung": "Hamburgische Fußpost",
+          "haupt": true,
+          "artikel": "Postgeschichte und Briefmarken Hamburgs",
+          "wikidata": "Q877077"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1439",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-10-12",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1989: Postbeförderung im Laufe der Jahrhunderte",
+      "bild_beschreibung": "Bayern, Postbus um 1900",
+      "entwerfer": "Peter Steiner",
+      "auflage": 19155100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bayern",
+          "beschriftung": "Bayern",
+          "haupt": true,
+          "artikel": "Bayern",
+          "wikidata": "Q980"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postbus",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1440",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-10-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Reinhold Maier (1889–1971)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reinhold Maier",
+          "beschriftung": "Reinhold Maier",
+          "haupt": true,
+          "artikel": "Reinhold Maier",
+          "wikidata": "Q213976"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1441",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-11-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Arp-Schnitger-Orgel St. Jacobi in Hamburg",
+      "bild_beschreibung": "Orgel in der Kirche St. Jacobi in Hamburg",
+      "entwerfer": "Peter Steiner",
+      "auflage": 35800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Orgel der Hauptkirche Sankt Jacobi (Hamburg)",
+          "beschriftung": "Arp-Schnitger-Orgel St. Jacobi in Hamburg",
+          "haupt": true,
+          "artikel": "Orgel der Hauptkirche Sankt Jacobi (Hamburg)",
+          "wikidata": "Q878694"
+        },
+        {
+          "titel": "Hauptkirche Sankt Jacobi (Hamburg)",
+          "beschriftung": "St. Jacobi",
+          "haupt": false,
+          "artikel": "Hauptkirche Sankt Jacobi",
+          "wikidata": "Q564532"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1442",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-11-16",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1989, Details aus dem Englischen Gruß in der St.-Lorenz-Kirche, Nürnberg, von Veit Stoß",
+      "bild_beschreibung": "Engel",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 7233800,
+      "commons_datei": "DBP 1989 1442 Weihnachten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Engel",
+          "beschriftung": "Engel",
+          "haupt": true,
+          "artikel": "Engel",
+          "wikidata": "Q235113"
+        },
+        {
+          "titel": "Englischer Gruß",
+          "beschriftung": "Englischen Gruß",
+          "haupt": false,
+          "artikel": "Englischer Gruß",
+          "wikidata": "Q20820250"
+        },
+        {
+          "titel": "St. Lorenz (Nürnberg)",
+          "beschriftung": "St.-Lorenz-Kirche",
+          "haupt": false,
+          "artikel": "St. Lorenz (Nürnberg)",
+          "wikidata": "Q707357"
+        },
+        {
+          "titel": "Veit Stoß",
+          "beschriftung": "Veit Stoß",
+          "haupt": false,
+          "artikel": "Veit Stoß",
+          "wikidata": "Q163800"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1443",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1989-11-16",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1989, Details aus dem Englischen Gruß in der St.-Lorenz-Kirche, Nürnberg, von Veit Stoß",
+      "bild_beschreibung": "Geburt Christi",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 9236300,
+      "commons_datei": "DBP 1989 1443 Weihnachten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Englischer Gruß",
+          "beschriftung": "Englischen Gruß",
+          "haupt": true,
+          "artikel": "Englischer Gruß",
+          "wikidata": "Q20820250"
+        },
+        {
+          "titel": "St. Lorenz (Nürnberg)",
+          "beschriftung": "St.-Lorenz-Kirche",
+          "haupt": false,
+          "artikel": "St. Lorenz (Nürnberg)",
+          "wikidata": "Q707357"
+        },
+        {
+          "titel": "Veit Stoß",
+          "beschriftung": "Veit Stoß",
+          "haupt": false,
+          "artikel": "Veit Stoß",
+          "wikidata": "Q163800"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1398",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Büste der Nofretete",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 686905000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Büste der Nofretete",
+          "beschriftung": "Büste der Nofretete",
+          "haupt": true,
+          "artikel": "Büste der Nofretete",
+          "wikidata": "Q582172"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1399",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "33",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Schleswiger Dom",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 621700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schleswiger Dom",
+          "beschriftung": "Schleswiger Dom",
+          "haupt": true,
+          "artikel": "Schleswiger Dom",
+          "wikidata": "Q523691"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1400",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bremer Roland",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 151700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremer Roland",
+          "beschriftung": "Bremer Roland",
+          "haupt": true,
+          "artikel": "Bremer Roland",
+          "wikidata": "Q19665"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1401",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bronzekanne Fürstinnengrab Reinheim",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 210400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Kulturpark Bliesbruck-Reinheim",
+          "beschriftung": "Bronzekanne Fürstinnengrab Reinheim",
+          "haupt": true,
+          "artikel": "Europäischer Kulturpark Bliesbruck-Reinheim",
+          "wikidata": "Q1377888"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1406",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-02-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Gnadenkapelle (Altötting)",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 3870329000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gnadenkapelle (Altötting)",
+          "beschriftung": "Gnadenkapelle (Altötting)",
+          "haupt": true,
+          "artikel": "Gnadenkapelle (Altötting)",
+          "wikidata": "Q322678"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1407",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-02-09",
+      "wert": "350",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Externsteine Horn-Bad Meinberg",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 255740000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Externsteine",
+          "beschriftung": "Externsteine",
+          "haupt": true,
+          "artikel": "Externsteine",
+          "wikidata": "Q319172"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1397",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-01-12",
+      "wert": "500",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Alice Salomon",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 105970000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alice Salomon",
+          "beschriftung": "Alice Salomon",
+          "haupt": true,
+          "artikel": "Alice Salomon",
+          "wikidata": "Q106209"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1405",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-05-05",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Emma Ihrer",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 214170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Emma Ihrer",
+          "beschriftung": "Emma Ihrer",
+          "haupt": true,
+          "artikel": "Emma Ihrer",
+          "wikidata": "Q108635"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1427",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-07-13",
+      "wert": "180",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Lotte Lehmann",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 72054000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lotte Lehmann",
+          "beschriftung": "Lotte Lehmann",
+          "haupt": true,
+          "artikel": "Lotte Lehmann",
+          "wikidata": "Q60303"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1428",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-07-13",
+      "wert": "250",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Luise von Mecklenburg-Strelitz",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 49154000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luise von Mecklenburg-Strelitz",
+          "beschriftung": "Luise von Mecklenburg-Strelitz",
+          "haupt": true,
+          "artikel": "Luise von Mecklenburg-Strelitz",
+          "wikidata": "Q156723"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1432",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-08-10",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Cécile Vogt",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 87760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cécile Vogt",
+          "beschriftung": "Cécile Vogt",
+          "haupt": true,
+          "artikel": "Cécile Vogt",
+          "wikidata": "Q272973"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1433",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1989-08-10",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Fanny Hensel",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 742190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fanny Hensel",
+          "beschriftung": "Fanny Hensel",
+          "haupt": true,
+          "artikel": "Fanny Hensel",
+          "wikidata": "Q57286"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1959,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1959 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1959_der_Deutschen_Bundespost",
+    "revision": 262856637,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 302,
+    "mi_nr_bis": 325,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 19,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "307",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-03-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "500. Geburtstag von Jakob Fugger (1459–1525)",
+      "bild_beschreibung": "auch genannt Jakob Fugger der Reiche, war seinerzeit Europas reichster und bedeutendster Kaufmann und Bankier.; Die Briefmarke existiert auch als Fehldruck mit deutlicher Passerverschiebung in Fuggers Gesicht und wird unter dem Namen „Teufelsfratze“ mit deutlicher Wertsteigerung gehandelt.",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1959 307 Jakob Fugger.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jakob Fugger",
+          "beschriftung": "Jakob Fugger",
+          "haupt": true,
+          "artikel": "Jakob Fugger",
+          "wikidata": "Q65103"
+        },
+        {
+          "titel": "Kaufmann",
+          "beschriftung": "Kaufmann",
+          "haupt": false,
+          "artikel": "Kaufmann",
+          "wikidata": "Q215536"
+        },
+        {
+          "titel": "Bankier",
+          "beschriftung": "Bankier",
+          "haupt": false,
+          "artikel": "Privatbankier",
+          "wikidata": "Q806798"
+        }
+      ]
+    },
+    {
+      "mi_nr": "308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-03-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "400. Todestag von Adam Ries (1492–1559)",
+      "bild_beschreibung": "deutscher Rechenmeister",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1959 308 Adam Riese.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adam Ries",
+          "beschriftung": "Adam Ries",
+          "haupt": true,
+          "artikel": "Adam Ries",
+          "wikidata": "Q61740"
+        },
+        {
+          "titel": "Rechenmeister",
+          "beschriftung": "Rechenmeister",
+          "haupt": false,
+          "artikel": "Rechenmeister",
+          "wikidata": "Q1585575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "100. Todestag von Alexander von Humboldt (1769–1859)",
+      "bild_beschreibung": "deutscher Naturforscher und Mitbegründer der Geographie als empirischer Wissenschaft",
+      "entwerfer": "Herbert Kern",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1959 309 Alexander von Humboldt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alexander von Humboldt",
+          "beschriftung": "Alexander von Humboldt",
+          "haupt": true,
+          "artikel": "Alexander von Humboldt",
+          "wikidata": "Q6694"
+        },
+        {
+          "titel": "Geographie",
+          "beschriftung": "Geographie",
+          "haupt": false,
+          "artikel": "Geographie",
+          "wikidata": "Q1071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-22",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Internationale Postwertzeichenausstellung INTERPOSTA in Hamburg",
+      "bild_beschreibung": "Darstellung einer Hamburger 1 Schilling Briefmarke von 1859; Zuschlagmarke",
+      "entwerfer": "Arthur Schraml",
+      "auflage": 3050000,
+      "commons_datei": "DBP Postwertzeichenausstellung 10 Pfennig 1959.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postgeschichte und Briefmarken Hamburgs",
+          "beschriftung": "Hamburger 1 Schilling Briefmarke von 1859",
+          "haupt": true,
+          "artikel": "Postgeschichte und Briefmarken Hamburgs",
+          "wikidata": "Q877077"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-22",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Internationale Postwertzeichenausstellung INTERPOSTA in Hamburg",
+      "bild_beschreibung": "Darstellung einer Lübecker 2 Schilling Briefmarke von 1859; Zuschlagmarke",
+      "entwerfer": "Arthur Schraml",
+      "auflage": 3050000,
+      "commons_datei": "DBP Postwertzeichenausstellung 20 Pfennig 1959.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postgeschichte und Briefmarken Lübecks",
+          "beschriftung": "Lübecker 2 Schilling Briefmarke von 1859",
+          "haupt": true,
+          "artikel": "Postgeschichte und Briefmarken Lübecks",
+          "wikidata": "Q884546"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "312",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "1000 Jahre Buxtehude",
+      "bild_beschreibung": "",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Buxtehude",
+          "beschriftung": "Buxtehude",
+          "haupt": true,
+          "artikel": "Buxtehude",
+          "wikidata": "Q14868"
+        }
+      ]
+    },
+    {
+      "mi_nr": "313",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Ausstellung des Heiligen Rocks in Trier",
+      "bild_beschreibung": "Der Heilige Rock ist eine Reliquie, die im Trierer Dom aufbewahrt wird, sie soll Fragmente der Tunika Jesu Christi enthalten",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1959 313 Heiliger Rock.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heiliger Rock",
+          "beschriftung": "Heiligen Rocks",
+          "haupt": true,
+          "artikel": "Heiliger Rock",
+          "wikidata": "Q706670"
+        },
+        {
+          "titel": "Trier",
+          "beschriftung": "Trier",
+          "haupt": false,
+          "artikel": "Trier",
+          "wikidata": "Q3138"
+        },
+        {
+          "titel": "Reliquie",
+          "beschriftung": "Reliquie",
+          "haupt": false,
+          "artikel": "Reliquie",
+          "wikidata": "Q187616"
+        },
+        {
+          "titel": "Trierer Dom",
+          "beschriftung": "Trierer Dom",
+          "haupt": false,
+          "artikel": "Trierer Dom",
+          "wikidata": "Q5920"
+        },
+        {
+          "titel": "Jesus von Nazaret",
+          "beschriftung": "Jesu Christi",
+          "haupt": false,
+          "artikel": "Jesus von Nazaret",
+          "wikidata": "Q51666"
+        }
+      ]
+    },
+    {
+      "mi_nr": "314",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "9. Deutscher Evangelischer Kirchentag in München",
+      "bild_beschreibung": "Motto „Ihr sollt mein Volk sein“",
+      "entwerfer": "Hermann Bentele",
+      "auflage": 20000000,
+      "commons_datei": "Stamps of Germany (BRD) 1959, MiNr 314.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "315",
+      "block": "Block 2",
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Briefmarkenblock – Einweihung der Beethovenhalle in Bonn",
+      "bild_beschreibung": "Georg Friedrich Händel (1685–1759)",
+      "entwerfer": "Herbert Kern",
+      "auflage": 4771000,
+      "commons_datei": "DBP 1959 315 Georg Friedrich Händel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": true,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        },
+        {
+          "titel": "Beethovenhalle",
+          "beschriftung": "Beethovenhalle",
+          "haupt": false,
+          "artikel": "Beethovenhalle",
+          "wikidata": "Q317912"
+        },
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": false,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-08",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Briefmarkenblock – Einweihung der Beethovenhalle in Bonn",
+      "bild_beschreibung": "Louis Spohr (1784–1859)",
+      "entwerfer": "Herbert Kern",
+      "auflage": 4771000,
+      "commons_datei": "DBP 1959 316 Louis Spohr.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Louis Spohr",
+          "beschriftung": "Louis Spohr",
+          "haupt": true,
+          "artikel": "Louis Spohr",
+          "wikidata": "Q57226"
+        },
+        {
+          "titel": "Beethovenhalle",
+          "beschriftung": "Beethovenhalle",
+          "haupt": false,
+          "artikel": "Beethovenhalle",
+          "wikidata": "Q317912"
+        },
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": false,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Briefmarkenblock – Einweihung der Beethovenhalle in Bonn",
+      "bild_beschreibung": "Ludwig van Beethoven (1770–1827)",
+      "entwerfer": "Herbert Kern",
+      "auflage": 4771000,
+      "commons_datei": "DBP 1959 317 Ludwig van Beethoven.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Beethovenhalle",
+          "beschriftung": "Beethovenhalle",
+          "haupt": false,
+          "artikel": "Beethovenhalle",
+          "wikidata": "Q317912"
+        },
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": false,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "318",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-08",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Briefmarkenblock – Einweihung der Beethovenhalle in Bonn",
+      "bild_beschreibung": "Joseph Haydn (1732–1809)",
+      "entwerfer": "Herbert Kern",
+      "auflage": 4771000,
+      "commons_datei": "DBP 1959 318 Joseph Haydn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Joseph Haydn",
+          "beschriftung": "Joseph Haydn",
+          "haupt": true,
+          "artikel": "Joseph Haydn",
+          "wikidata": "Q7349"
+        },
+        {
+          "titel": "Beethovenhalle",
+          "beschriftung": "Beethovenhalle",
+          "haupt": false,
+          "artikel": "Beethovenhalle",
+          "wikidata": "Q317912"
+        },
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": false,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-08",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Briefmarkenblock – Einweihung der Beethovenhalle in Bonn",
+      "bild_beschreibung": "Felix Mendelssohn Bartholdy (1809–1847)",
+      "entwerfer": "Herbert Kern",
+      "auflage": 4771000,
+      "commons_datei": "DBP 1959 319 Felix Mendelssohn Bartholdy.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Felix Mendelssohn Bartholdy",
+          "beschriftung": "Felix Mendelssohn Bartholdy",
+          "haupt": true,
+          "artikel": "Felix Mendelssohn Bartholdy",
+          "wikidata": "Q46096"
+        },
+        {
+          "titel": "Beethovenhalle",
+          "beschriftung": "Beethovenhalle",
+          "haupt": false,
+          "artikel": "Beethovenhalle",
+          "wikidata": "Q317912"
+        },
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": false,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Sechsgliedrige geschlossene Kette",
+      "entwerfer": "Walter Brudi",
+      "auflage": 90000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "Sechsgliedrige geschlossene Kette",
+      "entwerfer": "Walter Brudi",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "322",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-01",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Wohlfahrtsmarken",
+      "bild_beschreibung": "Märchen der Brüder Grimm, „Die Sterntaler“",
+      "entwerfer": "Eugen Sporer",
+      "auflage": 6950000,
+      "commons_datei": "DBP 1959 322 Wohlfahrt Sterntaler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Die Sterntaler",
+          "beschriftung": "Die Sterntaler",
+          "haupt": false,
+          "artikel": "Die Sterntaler",
+          "wikidata": "Q11846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "323",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Wohlfahrtsmarken",
+      "bild_beschreibung": "Märchen der Brüder Grimm, „Die Sterntaler“",
+      "entwerfer": "Eugen Sporer",
+      "auflage": 10200000,
+      "commons_datei": "DBP 1959 323 Wohlfahrt Sterntaler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "324",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Wohlfahrtsmarken",
+      "bild_beschreibung": "Märchen der Brüder Grimm, „Die Sterntaler“",
+      "entwerfer": "Eugen Sporer",
+      "auflage": 8400000,
+      "commons_datei": "DBP 1959 324 Wohlfahrt Sterntaler.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-01",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "Wohlfahrtsmarken",
+      "bild_beschreibung": "Die Brüder Jacob (1785–1863) und Wilhelm Grimm (1786–1859)",
+      "entwerfer": "Bert Jäger",
+      "auflage": 3900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jacob Grimm",
+          "beschriftung": "Jacob",
+          "haupt": true,
+          "artikel": "Jacob Grimm",
+          "wikidata": "Q6701"
+        },
+        {
+          "titel": "Wilhelm Grimm",
+          "beschriftung": "Wilhelm Grimm",
+          "haupt": false,
+          "artikel": "Wilhelm Grimm",
+          "wikidata": "Q6714"
+        }
+      ]
+    },
+    {
+      "mi_nr": "302",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-04-10",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 1388300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heuss Medaillon (Briefmarkenserie)",
+          "beschriftung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Heuss Medaillon",
+          "wikidata": "Q1616555"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "303",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-01-31",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 3805000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heuss Medaillon (Briefmarkenserie)",
+          "beschriftung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Heuss Medaillon",
+          "wikidata": "Q1616555"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "304",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-01-31",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 2185200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heuss Medaillon (Briefmarkenserie)",
+          "beschriftung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Heuss Medaillon",
+          "wikidata": "Q1616555"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "305",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-05-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 111100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heuss Medaillon (Briefmarkenserie)",
+          "beschriftung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Heuss Medaillon",
+          "wikidata": "Q1616555"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "306",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-05-22",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 167000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heuss Medaillon (Briefmarkenserie)",
+          "beschriftung": "Briefmarkenserie (III) Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Heuss Medaillon",
+          "wikidata": "Q1616555"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    }
+  ]
+}

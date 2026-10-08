@@ -37,6 +37,7 @@ CREATE TABLE marke (
   druckart TEXT,
   commons_datei TEXT,
   block TEXT,
+  gueltig_bis TEXT,
   UNIQUE (gebiet, mi_nr)
 );
 CREATE INDEX marke_jahr ON marke (gebiet, jahr, sortier_nr);

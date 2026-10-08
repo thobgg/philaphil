@@ -1,0 +1,547 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1952,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1952 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1952_der_Deutschen_Bundespost",
+    "revision": 259828324,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 148,
+    "mi_nr_bis": 161,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 14,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "148",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-04-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "500. Geburtstag von Leonardo da Vinci",
+      "bild_beschreibung": "Mona Lisa, Gemälde von Leonardo da Vinci",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 11726000,
+      "commons_datei": "DBP 1952 148 Mona Lisa.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leonardo da Vinci",
+          "beschriftung": "Leonardo da Vinci",
+          "haupt": true,
+          "artikel": "Leonardo da Vinci",
+          "wikidata": "Q762"
+        },
+        {
+          "titel": "Mona Lisa",
+          "beschriftung": "Mona Lisa",
+          "haupt": false,
+          "artikel": "Mona Lisa",
+          "wikidata": "Q12418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "149",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-07-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Tagung des Lutherischen Weltbundes",
+      "bild_beschreibung": "Martin Luther (1483–1546), nach einem Holzschnitt von Lucas Cranach d. Ä.",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1952 149 Luther.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lutherischer Weltbund",
+          "beschriftung": "Lutherischen Weltbundes",
+          "haupt": true,
+          "artikel": "Lutherischer Weltbund",
+          "wikidata": "Q942284"
+        },
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": false,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        },
+        {
+          "titel": "Lucas Cranach der Ältere",
+          "beschriftung": "Lucas Cranach d. Ä.",
+          "haupt": false,
+          "artikel": "Lucas Cranach der Ältere",
+          "wikidata": "Q191748"
+        }
+      ]
+    },
+    {
+      "mi_nr": "150",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-07-25",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "75 Jahre Ottomotor",
+      "bild_beschreibung": "Nicolaus Otto (1832–1891), Miterfinder des Viertaktprinzips, nach dem seit 1940 der Ottomotor benannt ist.",
+      "entwerfer": "Leon Schnell",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1952 150 Otto.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ottomotor",
+          "beschriftung": "Ottomotor",
+          "haupt": true,
+          "artikel": "Ottomotor",
+          "wikidata": "Q3507866"
+        },
+        {
+          "titel": "Nicolaus Otto",
+          "beschriftung": "Nicolaus Otto",
+          "haupt": false,
+          "artikel": "Nicolaus Otto",
+          "wikidata": "Q75782"
+        }
+      ]
+    },
+    {
+      "mi_nr": "151",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-08-09",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "100 Jahre Germanisches Nationalmuseum",
+      "bild_beschreibung": "Nürnberger Madonna, Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 1500000,
+      "commons_datei": "DBP 1952 151 Germ Museum.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Germanisches Nationalmuseum",
+          "beschriftung": "Germanisches Nationalmuseum",
+          "haupt": true,
+          "artikel": "Germanisches Nationalmuseum",
+          "wikidata": "Q478695"
+        },
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": false,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        },
+        {
+          "titel": "Marienbildnis",
+          "beschriftung": "Madonna",
+          "haupt": false,
+          "artikel": "Marienbildnis",
+          "wikidata": "Q926743"
+        }
+      ]
+    },
+    {
+      "mi_nr": "152",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-09-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Rückgabe der Insel Helgoland",
+      "bild_beschreibung": "Ein Hochsee-Fischdampfer vor der Insel Helgoland",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1952 152 Helgoland.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Helgoland",
+          "beschriftung": "Helgoland",
+          "haupt": true,
+          "artikel": "Helgoland",
+          "wikidata": "Q3038"
+        },
+        {
+          "titel": "Trawler",
+          "beschriftung": "Hochsee-Fischdampfer",
+          "haupt": false,
+          "artikel": "Trawler",
+          "wikidata": "Q326561"
+        }
+      ]
+    },
+    {
+      "mi_nr": "153",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-09-17",
+      "wert": "10+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Zweiter Bundesjugendplan",
+      "bild_beschreibung": "Wandernde Jungen, Zuschlagmarke",
+      "entwerfer": "Max Bittrof",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wandern",
+          "beschriftung": "Wandern",
+          "haupt": true,
+          "artikel": "Wandern",
+          "wikidata": "Q12014035"
+        },
+        {
+          "titel": "Kinder- und Jugendplan des Bundes",
+          "beschriftung": "Bundesjugendplan",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendplan des Bundes",
+          "wikidata": "Q1741733"
+        }
+      ]
+    },
+    {
+      "mi_nr": "154",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-09-17",
+      "wert": "20+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Zweiter Bundesjugendplan",
+      "bild_beschreibung": "Wandernde Mädchen, Zuschlagmarke",
+      "entwerfer": "Max Bittrof",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kinder- und Jugendplan des Bundes",
+          "beschriftung": "Bundesjugendplan",
+          "haupt": true,
+          "artikel": "Kinder- und Jugendplan des Bundes",
+          "wikidata": "Q1741733"
+        }
+      ]
+    },
+    {
+      "mi_nr": "155",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-09-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "100. Jahrestag der Ankunft von Carl Schurz in Amerika",
+      "bild_beschreibung": "Carl Schurz (1829–1906), Revolutionär der Märzrevolution und später US-amerikanischer General und Staatsmann",
+      "entwerfer": "Bagel",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1952 155 Schurz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Schurz",
+          "beschriftung": "Carl Schurz",
+          "haupt": true,
+          "artikel": "Carl Schurz",
+          "wikidata": "Q127437"
+        },
+        {
+          "titel": "Deutsche Revolution 1848/49",
+          "beschriftung": "Märzrevolution",
+          "haupt": false,
+          "artikel": "Deutsche Revolution 1848/1849",
+          "wikidata": "Q3699"
+        },
+        {
+          "titel": "Vereinigte Staaten",
+          "beschriftung": "US",
+          "haupt": false,
+          "artikel": "Vereinigte Staaten",
+          "wikidata": "Q30"
+        },
+        {
+          "titel": "General",
+          "beschriftung": "General",
+          "haupt": false,
+          "artikel": "General",
+          "wikidata": "Q83460"
+        },
+        {
+          "titel": "Staatsmann",
+          "beschriftung": "Staatsmann",
+          "haupt": false,
+          "artikel": "Staatsmann",
+          "wikidata": "Q372436"
+        }
+      ]
+    },
+    {
+      "mi_nr": "156",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-01",
+      "wert": "4+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Elizabeth Fry (1780–1845), britische Reformerin des Gefängniswesens, bekannt als „Engel der Gefängnisse“",
+      "entwerfer": "Leon Schnell",
+      "auflage": 2500000,
+      "commons_datei": "DBP 1952 156 Fry.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elizabeth Fry",
+          "beschriftung": "Elizabeth Fry",
+          "haupt": true,
+          "artikel": "Elizabeth Fry",
+          "wikidata": "Q271477"
+        },
+        {
+          "titel": "Reform",
+          "beschriftung": "Reform",
+          "haupt": false,
+          "artikel": "Reform",
+          "wikidata": "Q900406"
+        },
+        {
+          "titel": "Gefängnis",
+          "beschriftung": "Gefängnis",
+          "haupt": false,
+          "artikel": "Gefängnis",
+          "wikidata": "Q40357"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "157",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Carl Sonnenschein (1876–1929), katholischer Priester, „Zigeuner der Wohltätigkeit“",
+      "entwerfer": "Leon Schnell",
+      "auflage": 3500000,
+      "commons_datei": "DBP 1952 157 Sonnenschein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Sonnenschein",
+          "beschriftung": "Carl Sonnenschein",
+          "haupt": true,
+          "artikel": "Carl Sonnenschein",
+          "wikidata": "Q107712"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "158",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Theodor Fliedner (1800–1864), evangelischer Pfarrer, er gilt als Erneuerer des apostolischen Diakonissenamtes",
+      "entwerfer": "Jan Piwczyk",
+      "auflage": 3000000,
+      "commons_datei": "DBP 1952 158 Fliedner.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Fliedner",
+          "beschriftung": "Theodor Fliedner",
+          "haupt": true,
+          "artikel": "Theodor Fliedner",
+          "wikidata": "Q77814"
+        },
+        {
+          "titel": "Pfarrer",
+          "beschriftung": "Pfarrer",
+          "haupt": false,
+          "artikel": "Pfarrer",
+          "wikidata": "Q955464"
+        },
+        {
+          "titel": "Diakonisse",
+          "beschriftung": "Diakonisse",
+          "haupt": false,
+          "artikel": "Diakonisse",
+          "wikidata": "Q2298145"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "159",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-01",
+      "wert": "30+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Henry Dunant (1828–1910), Humanist christlicher Prägung, erhielt 1901 den Friedensnobelpreis",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1300000,
+      "commons_datei": "DBP 1952 159 Dunant.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Henry Dunant",
+          "beschriftung": "Henry Dunant",
+          "haupt": true,
+          "artikel": "Henry Dunant",
+          "wikidata": "Q12091"
+        },
+        {
+          "titel": "Humanist",
+          "beschriftung": "Humanist",
+          "haupt": false,
+          "artikel": "Humanismus",
+          "wikidata": "Q46158"
+        },
+        {
+          "titel": "Friedensnobelpreis",
+          "beschriftung": "Friedensnobelpreis",
+          "haupt": false,
+          "artikel": "Friedensnobelpreis",
+          "wikidata": "Q35637"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "160",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "100. Jahrestag der Erstausgabe der Briefmarken von Thurn und Taxis",
+      "bild_beschreibung": "Einachsiges Fuhrwerk, Karriol",
+      "entwerfer": "Bagel",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1952 160 Thurn und Taxis.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Thurn-und-Taxis-Post",
+          "beschriftung": "Thurn und Taxis",
+          "haupt": true,
+          "artikel": "Thurn-und-Taxis-Post",
+          "wikidata": "Q829760"
+        },
+        {
+          "titel": "Karriol",
+          "beschriftung": "Karriol",
+          "haupt": false,
+          "artikel": "Karriol",
+          "wikidata": "Q1734414"
+        }
+      ]
+    },
+    {
+      "mi_nr": "161",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1952-10-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "75 Jahre Telefon in Deutschland",
+      "bild_beschreibung": "Philipp Reis (1834–1874), Physiker und Erfinder",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1952 161 Philipp Reis.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Telefon",
+          "beschriftung": "Telefon",
+          "haupt": true,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Philipp Reis",
+          "beschriftung": "Philipp Reis",
+          "haupt": false,
+          "artikel": "Philipp Reis",
+          "wikidata": "Q77124"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Erfinder",
+          "beschriftung": "Erfinder",
+          "haupt": false,
+          "artikel": "Erfinder",
+          "wikidata": "Q205375"
+        }
+      ]
+    }
+  ]
+}

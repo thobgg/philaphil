@@ -1,0 +1,1854 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2003,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2003 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2003_der_Bundesrepublik_Deutschland",
+    "revision": 265763826,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2305,
+    "mi_nr_bis": 2373,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 61,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2308",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Kulturstiftung der Länder",
+      "bild_beschreibung": "Proun 30t von El Lissitzky",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "beschriftung": "Kulturstiftung der Länder",
+          "haupt": true,
+          "artikel": "Kulturstiftung der Länder (Briefmarkenserie)",
+          "wikidata": "Q1538086"
+        },
+        {
+          "titel": "El Lissitzky",
+          "beschriftung": "El Lissitzky",
+          "haupt": false,
+          "artikel": "El Lissitzky",
+          "wikidata": "Q152233"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2309",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Kronach",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 100001560,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kronach",
+          "beschriftung": "Kronach",
+          "haupt": true,
+          "artikel": "Kronach",
+          "wikidata": "Q494537"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2310",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Georg Elser",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georg Elser",
+          "beschriftung": "Georg Elser",
+          "haupt": true,
+          "artikel": "Georg Elser",
+          "wikidata": "Q77269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2311",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Vertrag über die deutsch-französische Zusammenarbeit",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Frankreich",
+      "entwerfer": "Tomi Ungerer",
+      "auflage": 50183900,
+      "commons_datei": "Stamp Germany 2003 MiNr2311 Vertrag über die deutsch-französische Zusammenarbeit.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Élysée-Vertrag",
+          "beschriftung": "Vertrag über die deutsch-französische Zusammenarbeit",
+          "haupt": true,
+          "artikel": "Élysée-Vertrag",
+          "wikidata": "Q274811"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2312",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Jahr der Bibel",
+      "bild_beschreibung": "",
+      "entwerfer": "Marie-Helen Geißelbrecht",
+      "auflage": 100000000,
+      "commons_datei": "Stamp Germany 2003 MiNr2312 Jahr der Bibel.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jahr der Bibel",
+          "beschriftung": "Jahr der Bibel",
+          "haupt": true,
+          "artikel": "Jahr der Bibel",
+          "wikidata": "Q1678598"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2315",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Junger Argentinier von Max Beckmann",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Beckmann",
+          "beschriftung": "Max Beckmann",
+          "haupt": true,
+          "artikel": "Max Beckmann",
+          "wikidata": "Q164683"
+        },
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": false,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2316",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Komposition von Adolf Hölzel",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 40000000,
+      "commons_datei": "Stamp Ah1.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Hölzel",
+          "beschriftung": "Adolf Hölzel",
+          "haupt": true,
+          "artikel": "Adolf Hölzel",
+          "wikidata": "Q362498"
+        },
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": false,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2317",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "Rosengruß",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post!",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2318",
+      "block": "Block 61",
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Berühmte Knabenchöre",
+      "bild_beschreibung": "Thomanerchor Leipzig",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 6030000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thomanerchor",
+          "beschriftung": "Thomanerchor Leipzig",
+          "haupt": true,
+          "artikel": "Thomanerchor",
+          "wikidata": "Q699313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2319",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Berühmte Knabenchöre",
+      "bild_beschreibung": "Dresdner Kreuzchor",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 6030000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dresdner Kreuzchor",
+          "beschriftung": "Dresdner Kreuzchor",
+          "haupt": true,
+          "artikel": "Dresdner Kreuzchor",
+          "wikidata": "Q564918"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2320",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Berühmte Knabenchöre",
+      "bild_beschreibung": "Regensburger Domspatzen",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 6030000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Regensburger Domspatzen",
+          "beschriftung": "Regensburger Domspatzen",
+          "haupt": true,
+          "artikel": "Regensburger Domspatzen",
+          "wikidata": "Q677141"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2321",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "Rosengruß; selbstklebend aus Markenheftchen",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 927919540,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2324",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fußball-Weltmeisterschaft 2006 in Deutschland",
+      "bild_beschreibung": "Torschuss",
+      "entwerfer": "Lutz Menze",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "beschriftung": "Fußball-Weltmeisterschaft 2006 in Deutschland",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "wikidata": "Q1477842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2325",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fußball-Weltmeisterschaft 2006 in Deutschland",
+      "bild_beschreibung": "Jubel",
+      "entwerfer": "Lutz Menze",
+      "auflage": 2110000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "beschriftung": "Fußball-Weltmeisterschaft 2006 in Deutschland",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "wikidata": "Q1477842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2326",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fußball-Weltmeisterschaft 2006 in Deutschland",
+      "bild_beschreibung": "Jugendfußball",
+      "entwerfer": "Lutz Menze",
+      "auflage": 2080000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "beschriftung": "Fußball-Weltmeisterschaft 2006 in Deutschland",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "wikidata": "Q1477842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2327",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fußball-Weltmeisterschaft 2006 in Deutschland",
+      "bild_beschreibung": "Kopfball",
+      "entwerfer": "Lutz Menze",
+      "auflage": 2090000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "beschriftung": "Fußball-Weltmeisterschaft 2006 in Deutschland",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "wikidata": "Q1477842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2328",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Fußball-Weltmeisterschaft 2006 in Deutschland",
+      "bild_beschreibung": "Jung und Alt",
+      "entwerfer": "Lutz Menze",
+      "auflage": 2080000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "beschriftung": "Fußball-Weltmeisterschaft 2006 in Deutschland",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "wikidata": "Q1477842"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2329",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Kölner Dom",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 50100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kölner Dom",
+          "beschriftung": "Kölner Dom",
+          "haupt": true,
+          "artikel": "Kölner Dom",
+          "wikidata": "Q4176"
+        },
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": false,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2330",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Kölner Dom; Selbstklebend aus Rollen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 263860700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2331",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-04-10",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Briefmarke",
+      "bild_beschreibung": "75. Jahrestag des ersten Nordatlantikflugs in Ost-West-Richtung",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 1810000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Für die Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2332",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-04-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsches Museum, München",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Museum",
+          "beschriftung": "Deutsches Museum, München",
+          "haupt": true,
+          "artikel": "Deutsches Museum",
+          "wikidata": "Q131617"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2333",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-04-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutscher Kinderschutzbund",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 39900000,
+      "commons_datei": "Stamp Germany 2003 MiNr2333 Deutscher Kinderschutzbund.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Kinderschutzbund",
+          "beschriftung": "Deutscher Kinderschutzbund",
+          "haupt": true,
+          "artikel": "Der Kinderschutzbund",
+          "wikidata": "Q1205011"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2334",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-04-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsche Welle",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrea Acker",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Welle",
+          "beschriftung": "Deutsche Welle",
+          "haupt": true,
+          "artikel": "Deutsche Welle",
+          "wikidata": "Q153770"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2335",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-04-10",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Internationale Gartenbauausstellung IGA '03, Rostock",
+      "bild_beschreibung": "",
+      "entwerfer": "Karin Blume-Zander, André Zander",
+      "auflage": 40000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Gartenbauausstellung 2003",
+          "beschriftung": "Internationale Gartenbauausstellung IGA '03",
+          "haupt": true,
+          "artikel": "Internationale Gartenbauausstellung 2003",
+          "wikidata": "Q1319822"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2336",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-05-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Plakatkunst",
+      "entwerfer": "Christof Gassner",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Plakat",
+          "beschriftung": "Plakat",
+          "haupt": false,
+          "artikel": "Plakat",
+          "wikidata": "Q429785"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2337",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-05-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Justus von Liebig",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 30000000,
+      "commons_datei": "Briefmarke deutschland 55cent justus liebig 1803 2003.png",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Justus von Liebig",
+          "beschriftung": "Justus von Liebig",
+          "haupt": true,
+          "artikel": "Justus von Liebig",
+          "wikidata": "Q16571"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2338",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-05-08",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Hans Jonas",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Jonas",
+          "beschriftung": "Hans Jonas",
+          "haupt": true,
+          "artikel": "Hans Jonas",
+          "wikidata": "Q57255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2339",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-05-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Reinhold Schneider",
+      "bild_beschreibung": "",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 23000000,
+      "commons_datei": "Reinhold-Schneider-Briefmark.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reinhold Schneider",
+          "beschriftung": "Reinhold Schneider",
+          "haupt": true,
+          "artikel": "Reinhold Schneider",
+          "wikidata": "Q77876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2340",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-05-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre ADAC",
+      "bild_beschreibung": "",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 30000000,
+      "commons_datei": "Stamp Germany 2003 MiNr2340 ADAC.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "ADAC",
+          "beschriftung": "ADAC",
+          "haupt": true,
+          "artikel": "ADAC",
+          "wikidata": "Q289953"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2341",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-05-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Erster Ökumenischer Kirchentag Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 25000000,
+      "commons_datei": "Stamp Germany 2003 MiNr2340 Ökumenischer Kirchentag Berlin.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ökumenischer Kirchentag 2003",
+          "beschriftung": "Erster Ökumenischer Kirchentag Berlin",
+          "haupt": true,
+          "artikel": "Ökumenischer Kirchentag 2003",
+          "wikidata": "Q296561"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2342",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag des Volksaufstandes in der DDR am 17. Juni 1953",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 3720000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufstand des 17. Juni",
+          "beschriftung": "Volksaufstandes in der DDR am 17. Juni 1953",
+          "haupt": true,
+          "artikel": "Aufstand vom 17. Juni 1953",
+          "wikidata": "Q157682"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2343",
+      "block": "Block 62",
+      "art": "Sondermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Nationalpark Unteres Odertal",
+      "bild_beschreibung": "",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nationalpark Unteres Odertal",
+          "beschriftung": "Nationalpark Unteres Odertal",
+          "haupt": true,
+          "artikel": "Nationalpark Unteres Odertal",
+          "wikidata": "Q701525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "10 Jahre fünfstellige Postleitzahlen",
+      "entwerfer": "Eckhard Jung und Florian Pfeffer",
+      "auflage": 35000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postleitzahl (Deutschland)",
+          "beschriftung": "Postleitzahlen",
+          "haupt": true,
+          "artikel": "Postleitzahl (Deutschland)",
+          "wikidata": "Q660464"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post!",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Salzachbrücke",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Österreich",
+      "entwerfer": "Hannes Margreiter",
+      "auflage": 30000000,
+      "commons_datei": "Postwertzeichen Deutschland \"100 Jahre Salzachbrücke Laufen–Oberndorf\".jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Österreich",
+          "beschriftung": "Österreich",
+          "haupt": true,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Salzachbrücke (Laufen–Oberndorf)",
+          "beschriftung": "Salzachbrücke",
+          "haupt": false,
+          "artikel": "Salzachbrücke (Laufen–Oberndorf)",
+          "wikidata": "Q1493768"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutscher Musikrat",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner und Regina Steiner",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Musikrat",
+          "beschriftung": "Deutscher Musikrat",
+          "haupt": true,
+          "artikel": "Deutscher Musikrat",
+          "wikidata": "Q1205137"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Salzachbrücke",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Hannes Margreiter",
+      "auflage": 298322700,
+      "commons_datei": "Postwertzeichen Deutschland \"100 Jahre Salzachbrücke Laufen–Oberndorf\".jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2349",
+      "block": "Block 63",
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "„Vater und Sohn“ von e.o.plauen; Entdeckung einer Schlitterbahn",
+      "entwerfer": "Christof Gassner",
+      "auflage": 1920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "e.o.plauen",
+          "beschriftung": "e.o.plauen",
+          "haupt": true,
+          "artikel": "Erich Ohser",
+          "wikidata": "Q67009"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 1920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 1920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 1920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 1920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aufrechte Demokraten",
+      "bild_beschreibung": "125. Geburtstag Andreas Hermes",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufrechte Demokraten",
+          "beschriftung": "Aufrechte Demokraten",
+          "haupt": true,
+          "artikel": "Aufrechte Demokraten",
+          "wikidata": "Q759871"
+        },
+        {
+          "titel": "Andreas Hermes",
+          "beschriftung": "Andreas Hermes",
+          "haupt": false,
+          "artikel": "Andreas Hermes",
+          "wikidata": "Q66634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-07-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Industrielandschaft Ruhrgebiet",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 29000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": true,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        },
+        {
+          "titel": "Ruhrgebiet",
+          "beschriftung": "Ruhrgebiet",
+          "haupt": false,
+          "artikel": "Ruhrgebiet",
+          "wikidata": "Q151993"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-08-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus deutschen Städten",
+      "bild_beschreibung": "Viktualienmarkt",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Viktualienmarkt",
+          "beschriftung": "Viktualienmarkt",
+          "haupt": true,
+          "artikel": "Viktualienmarkt",
+          "wikidata": "Q686629"
+        },
+        {
+          "titel": "Bilder aus deutschen Städten",
+          "beschriftung": "Bilder aus deutschen Städten",
+          "haupt": false,
+          "artikel": "Bilder aus deutschen Städten",
+          "wikidata": "Q860660"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-08-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus deutschen Städten",
+      "bild_beschreibung": "Altstadt von Görlitz",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 37000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Historische Altstadt (Görlitz)",
+          "beschriftung": "Altstadt",
+          "haupt": true,
+          "artikel": "Historische Altstadt (Görlitz)",
+          "wikidata": "Q2718694"
+        },
+        {
+          "titel": "Görlitz",
+          "beschriftung": "Görlitz",
+          "haupt": false,
+          "artikel": "Görlitz",
+          "wikidata": "Q4077"
+        },
+        {
+          "titel": "Bilder aus deutschen Städten",
+          "beschriftung": "Bilder aus deutschen Städten",
+          "haupt": false,
+          "artikel": "Bilder aus deutschen Städten",
+          "wikidata": "Q860660"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-08-07",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Naturdenkmäler in Deutschland",
+      "bild_beschreibung": "Versteinerter Wald von Chemnitz",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 29000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Versteinerter Wald (Chemnitz)",
+          "beschriftung": "Versteinerter Wald von Chemnitz",
+          "haupt": true,
+          "artikel": "Versteinerter Wald (Chemnitz)",
+          "wikidata": "Q2518363"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2359",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-09-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Brücken",
+      "bild_beschreibung": "150 Jahre Enzviadukt, Bietigheim",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 23000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bietigheimer Eisenbahnviadukt",
+          "beschriftung": "Enzviadukt, Bietigheim",
+          "haupt": true,
+          "artikel": "Bietigheimer Eisenbahnviadukt",
+          "wikidata": "Q314940"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2360",
+      "block": "Block 64",
+      "art": "Sondermarke",
+      "ausgabetag": "2003-09-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Ringelreihen der Tiere",
+      "entwerfer": "Nina Clausing",
+      "auflage": 5800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2361",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-09-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Theodor W. Adorno",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 14100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Theodor W. Adorno",
+          "beschriftung": "Theodor W. Adorno",
+          "haupt": true,
+          "artikel": "Theodor W. Adorno",
+          "wikidata": "Q152388"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2362",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Wartburg 311 Coupé",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 4300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburg 311",
+          "beschriftung": "Wartburg 311 Coupé",
+          "haupt": true,
+          "artikel": "Wartburg 311",
+          "wikidata": "Q2603908"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Opel Olympia Rekord P1",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 7750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opel Rekord P1",
+          "beschriftung": "Opel Olympia Rekord P1",
+          "haupt": true,
+          "artikel": "Opel Rekord P1",
+          "wikidata": "Q2025260"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Porsche 356 B Coupé",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 8600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porsche 356",
+          "beschriftung": "Porsche 356 B Coupé",
+          "haupt": true,
+          "artikel": "Porsche 356",
+          "wikidata": "Q596504"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2365",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Ford Taunus 17 M P3",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 7590000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ford P3",
+          "beschriftung": "Ford Taunus 17 M P3",
+          "haupt": true,
+          "artikel": "Ford P3",
+          "wikidata": "Q2736658"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2366",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Oldtimer-Automobile",
+      "bild_beschreibung": "Auto Union 1000 S",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 6310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Auto Union 1000",
+          "beschriftung": "Auto Union 1000 S",
+          "haupt": true,
+          "artikel": "Auto Union 1000",
+          "wikidata": "Q784967"
+        },
+        {
+          "titel": "Für die Wohlfahrt",
+          "beschriftung": "Für die Wohlfahrt",
+          "haupt": false,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2367",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Lebens-Rettungs-Gesellschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 21000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Lebens-Rettungs-Gesellschaft",
+          "beschriftung": "Deutsche Lebens-Rettungs-Gesellschaft",
+          "haupt": true,
+          "artikel": "Deutsche Lebens-Rettungs-Gesellschaft",
+          "wikidata": "Q871679"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-10-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post! – Ländlicher Hausbriefkasten",
+      "bild_beschreibung": "",
+      "entwerfer": "Erna de Vries",
+      "auflage": 29000000,
+      "commons_datei": "Keinbild.gif",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Serie: Post!",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2369",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-11-13",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Anbetung der Hirten",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 3110000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-11-13",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Heilige Familie",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 5750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-11-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Gottfried Semper",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 25500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gottfried Semper",
+          "beschriftung": "Gottfried Semper",
+          "haupt": true,
+          "artikel": "Gottfried Semper",
+          "wikidata": "Q61342"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-11-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Katholischer Deutscher Frauenbund",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 14100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholischer Deutscher Frauenbund",
+          "beschriftung": "Katholischer Deutscher Frauenbund",
+          "haupt": true,
+          "artikel": "Katholischer Deutscher Frauenbund",
+          "wikidata": "Q1736422"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2003-11-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Vertrag von Maastricht (Europäische Union)",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrea Acker",
+      "auflage": 18000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vertrag von Maastricht",
+          "beschriftung": "Vertrag von Maastricht (Europäische Union)",
+          "haupt": true,
+          "artikel": "Vertrag von Maastricht",
+          "wikidata": "Q11146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2306",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "1,44 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Beethoven-Haus Bonn",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 237150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Beethoven-Haus",
+          "beschriftung": "Beethoven-Haus Bonn",
+          "haupt": true,
+          "artikel": "Beethoven-Haus",
+          "wikidata": "Q318084"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2348",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-06-12",
+      "wert": "1,44 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Beethoven-Haus Bonn; Selbstklebend aus Business-Bogen",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 96550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2313",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "1,80 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Staatsgalerie Stuttgart",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 44800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsgalerie Stuttgart",
+          "beschriftung": "Staatsgalerie Stuttgart",
+          "haupt": true,
+          "artikel": "Staatsgalerie Stuttgart",
+          "wikidata": "Q14917275"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2314",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-02-13",
+      "wert": "2,00 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bamberger Reiter",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 100265000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bamberger Reiter",
+          "beschriftung": "Bamberger Reiter",
+          "haupt": true,
+          "artikel": "Bamberger Reiter",
+          "wikidata": "Q680156"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2307",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "2,20 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Fontane-Denkmal Neuruppin",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 114860000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neuruppin",
+          "beschriftung": "Fontane-Denkmal Neuruppin",
+          "haupt": true,
+          "artikel": "Neuruppin",
+          "wikidata": "Q16085"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2322",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "2,60 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Seute Deern Schifffahrtsmuseum Bremerhaven",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 51670000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seute Deern (Schiff, 1919)",
+          "beschriftung": "Seute Deern",
+          "haupt": true,
+          "artikel": "Seute Deern (Schiff, 1919)",
+          "wikidata": "Q885056"
+        },
+        {
+          "titel": "Deutsches Schifffahrtsmuseum",
+          "beschriftung": "Schifffahrtsmuseum Bremerhaven",
+          "haupt": false,
+          "artikel": "Deutsches Schifffahrtsmuseum",
+          "wikidata": "Q455354"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2323",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-03-06",
+      "wert": "4,10 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Giebelhäuser Wismar",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 68659000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wismar",
+          "beschriftung": "Wismar",
+          "haupt": true,
+          "artikel": "Wismar",
+          "wikidata": "Q7030"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2305",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2003-01-16",
+      "wert": "1,00 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Marie Juchacz",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 198300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": true,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        },
+        {
+          "titel": "Marie Juchacz",
+          "beschriftung": "Marie Juchacz",
+          "haupt": false,
+          "artikel": "Marie Juchacz",
+          "wikidata": "Q85820"
+        }
+      ]
+    }
+  ]
+}

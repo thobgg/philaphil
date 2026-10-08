@@ -1,0 +1,1022 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1968,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1968 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1968_der_Deutschen_Bundespost",
+    "revision": 260383249,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 546,
+    "mi_nr_bis": 575,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 30,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Fortschritt in Technik und Wissenschaft",
+      "bild_beschreibung": "150 Jahre Druckmaschinen:; Erste Buchdruck-Zylinder-Schnellpresse von Friedrich Koenig",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 95000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Schnellpresse",
+          "beschriftung": "Schnellpresse",
+          "haupt": false,
+          "artikel": "Schnellpresse",
+          "wikidata": "Q2247866"
+        },
+        {
+          "titel": "Friedrich Koenig",
+          "beschriftung": "Friedrich Koenig",
+          "haupt": false,
+          "artikel": "Friedrich Koenig",
+          "wikidata": "Q72363"
+        },
+        {
+          "titel": "Fortschritt in Technik und Wissenschaft",
+          "beschriftung": "Fortschritt in Technik und Wissenschaft",
+          "haupt": false,
+          "artikel": "Fortschritt in Technik und Wissenschaft",
+          "wikidata": "Q1439026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Fortschritt in Technik und Wissenschaft",
+      "bild_beschreibung": "1000 Jahre Harzer Bergbau:; Idealkristalle der Erzmineralien: Oben Bleiglanz, unten Zinkblende",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 95000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rammelsberg",
+          "beschriftung": "Harzer Bergbau",
+          "haupt": true,
+          "artikel": "Rammelsberg",
+          "wikidata": "Q155999"
+        },
+        {
+          "titel": "Kristall",
+          "beschriftung": "Idealkristalle",
+          "haupt": false,
+          "artikel": "Kristall",
+          "wikidata": "Q43533"
+        },
+        {
+          "titel": "Erz",
+          "beschriftung": "Erz",
+          "haupt": false,
+          "artikel": "Erz",
+          "wikidata": "Q102798"
+        },
+        {
+          "titel": "Galenit",
+          "beschriftung": "Bleiglanz",
+          "haupt": false,
+          "artikel": "Galenit",
+          "wikidata": "Q37559"
+        },
+        {
+          "titel": "Sphalerit",
+          "beschriftung": "Zinkblende",
+          "haupt": false,
+          "artikel": "Sphalerit",
+          "wikidata": "Q105006"
+        },
+        {
+          "titel": "Fortschritt in Technik und Wissenschaft",
+          "beschriftung": "Fortschritt in Technik und Wissenschaft",
+          "haupt": false,
+          "artikel": "Fortschritt in Technik und Wissenschaft",
+          "wikidata": "Q1439026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-01-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Fortschritt in Technik und Wissenschaft",
+      "bild_beschreibung": "100 Jahre wissenschaftlicher Mikroskopbau:; Strahlenführung durch modernes Mikroskop",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mikroskop",
+          "beschriftung": "Mikroskop",
+          "haupt": true,
+          "artikel": "Mikroskop",
+          "wikidata": "Q196538"
+        },
+        {
+          "titel": "Fortschritt in Technik und Wissenschaft",
+          "beschriftung": "Fortschritt in Technik und Wissenschaft",
+          "haupt": false,
+          "artikel": "Fortschritt in Technik und Wissenschaft",
+          "wikidata": "Q1439026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Für die Jugend: Bedrohte Tiere",
+      "bild_beschreibung": "Wildkatze Felis silvestris",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6022000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wildkatze",
+          "beschriftung": "Wildkatze",
+          "haupt": true,
+          "artikel": "Wildkatze",
+          "wikidata": "Q43576"
+        },
+        {
+          "titel": "Aussterben",
+          "beschriftung": "Bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Aussterben",
+          "wikidata": "Q123509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Für die Jugend: Bedrohte Tiere",
+      "bild_beschreibung": "Fischotter Lutra lutra",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 16693000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischotter",
+          "beschriftung": "Fischotter",
+          "haupt": true,
+          "artikel": "Fischotter",
+          "wikidata": "Q29995"
+        },
+        {
+          "titel": "Aussterben",
+          "beschriftung": "Bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Aussterben",
+          "wikidata": "Q123509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Für die Jugend: Bedrohte Tiere",
+      "bild_beschreibung": "Dachs Meles meles",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 5942000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dachs",
+          "beschriftung": "Dachs",
+          "haupt": true,
+          "artikel": "Europäischer Dachs",
+          "wikidata": "Q27066"
+        },
+        {
+          "titel": "Aussterben",
+          "beschriftung": "Bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Aussterben",
+          "wikidata": "Q123509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-02-02",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Für die Jugend: Bedrohte Tiere",
+      "bild_beschreibung": "Europäischer Biber Castor fiber",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 5455000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Biber",
+          "beschriftung": "Europäischer Biber",
+          "haupt": true,
+          "artikel": "Europäischer Biber",
+          "wikidata": "Q181191"
+        },
+        {
+          "titel": "Aussterben",
+          "beschriftung": "Bedrohte Tiere",
+          "haupt": false,
+          "artikel": "Aussterben",
+          "wikidata": "Q123509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-03-08",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Handwerk",
+      "bild_beschreibung": "Verschiedene Handwerks-Symbole",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 553.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": true,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "554",
+      "block": "Block 4",
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Briefmarkenblock – Erster Todestag von Konrad Adenauer",
+      "bild_beschreibung": "Winston Churchill, britischer Staatsmann",
+      "entwerfer": "Herbert Kern",
+      "auflage": 12102000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 554.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Winston Churchill",
+          "beschriftung": "Winston Churchill",
+          "haupt": true,
+          "artikel": "Winston Churchill",
+          "wikidata": "Q8016"
+        },
+        {
+          "titel": "Vereinigtes Königreich",
+          "beschriftung": "britischer",
+          "haupt": false,
+          "artikel": "Vereinigtes Königreich",
+          "wikidata": "Q145"
+        },
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": false,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Briefmarkenblock – Erster Todestag von Konrad Adenauer",
+      "bild_beschreibung": "Alcide De Gasperi, italienischer Staatsmann",
+      "entwerfer": "Herbert Kern",
+      "auflage": 12102000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 555.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alcide De Gasperi",
+          "beschriftung": "Alcide De Gasperi",
+          "haupt": true,
+          "artikel": "Alcide De Gasperi",
+          "wikidata": "Q153832"
+        },
+        {
+          "titel": "italien",
+          "beschriftung": "italien",
+          "haupt": false,
+          "artikel": "Italien",
+          "wikidata": "Q38"
+        },
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": false,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "556",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Briefmarkenblock – Erster Todestag von Konrad Adenauer",
+      "bild_beschreibung": "Robert Schuman, französischer Politiker",
+      "entwerfer": "Herbert Kern",
+      "auflage": 12102000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 556.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Robert Schuman",
+          "beschriftung": "Robert Schuman",
+          "haupt": true,
+          "artikel": "Robert Schuman",
+          "wikidata": "Q15981"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "französischer",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        },
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": false,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-19",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Briefmarkenblock – Erster Todestag von Konrad Adenauer",
+      "bild_beschreibung": "Konrad Adenauer, erster deutscher Bundeskanzler",
+      "entwerfer": "Herbert Kern",
+      "auflage": 12102000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 557.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundeskanzler (Deutschland)",
+          "beschriftung": "Bundeskanzler",
+          "haupt": true,
+          "artikel": "Bundeskanzler (Deutschland)",
+          "wikidata": "Q4970706"
+        },
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": false,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-29",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "150. Geburtstag von Karl Marx",
+      "bild_beschreibung": "",
+      "entwerfer": "Herbert Kern",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 558.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "559",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Kreuzbartschlüssel mit CEPT-Emblem im Schlüsselgriff",
+      "entwerfer": "Schwarzenbach",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kreuzbartschlüssel",
+          "beschriftung": "Kreuzbartschlüssel",
+          "haupt": true,
+          "artikel": "Kreuzbartschlüssel",
+          "wikidata": "Q1788184"
+        },
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "CEPT",
+          "haupt": false,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "560",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-04-29",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Kreuzbartschlüssel mit CEPT-Emblem im Schlüsselgriff",
+      "entwerfer": "Schwarzenbach",
+      "auflage": 70000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "561",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968 in Mexiko",
+      "bild_beschreibung": "Carl-Friedrich von Langen, Turnierreiter",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl-Friedrich von Langen",
+          "beschriftung": "Carl-Friedrich von Langen",
+          "haupt": true,
+          "artikel": "Carl-Friedrich von Langen",
+          "wikidata": "Q536568"
+        },
+        {
+          "titel": "Pferdesport",
+          "beschriftung": "Turnierreiter",
+          "haupt": false,
+          "artikel": "Pferdesport",
+          "wikidata": "Q902378"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "562",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968 in Mexiko",
+      "bild_beschreibung": "Rudolf Harbig, Mittelstreckenläufer",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 6758000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudolf Harbig",
+          "beschriftung": "Rudolf Harbig",
+          "haupt": true,
+          "artikel": "Rudolf Harbig",
+          "wikidata": "Q712535"
+        },
+        {
+          "titel": "Mittelstreckenlauf",
+          "beschriftung": "Mittelstreckenläufer",
+          "haupt": false,
+          "artikel": "Mittelstreckenlauf",
+          "wikidata": "Q1163256"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "563",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968 in Mexiko",
+      "bild_beschreibung": "Baron Pierre de Coubertin, Gründer der Olympischen Spiele der Neuzeit",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 113500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pierre de Coubertin",
+          "beschriftung": "Baron Pierre de Coubertin",
+          "haupt": true,
+          "artikel": "Pierre de Coubertin",
+          "wikidata": "Q82984"
+        },
+        {
+          "titel": "Olympische Spiele",
+          "beschriftung": "Olympischen Spiele der Neuzeit",
+          "haupt": false,
+          "artikel": "Olympische Spiele",
+          "wikidata": "Q5389"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "564",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968 in Mexiko",
+      "bild_beschreibung": "Helene Mayer, Fechterin",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 6678000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helene Mayer",
+          "beschriftung": "Helene Mayer",
+          "haupt": true,
+          "artikel": "Helene Mayer",
+          "wikidata": "Q61006"
+        },
+        {
+          "titel": "Fechten",
+          "beschriftung": "Fechterin",
+          "haupt": false,
+          "artikel": "Fechten",
+          "wikidata": "Q12100"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "565",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1968 in Mexiko",
+      "bild_beschreibung": "Carl Diem, Sportpädagoge und -organisator",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 6418000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Diem",
+          "beschriftung": "Carl Diem",
+          "haupt": true,
+          "artikel": "Carl Diem",
+          "wikidata": "Q71850"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1968",
+          "beschriftung": "Olympische Sommerspiele 1968",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1968",
+          "wikidata": "Q8429"
+        },
+        {
+          "titel": "Mexiko-Stadt",
+          "beschriftung": "Mexiko",
+          "haupt": false,
+          "artikel": "Mexiko-Stadt",
+          "wikidata": "Q1489"
+        }
+      ]
+    },
+    {
+      "mi_nr": "566",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-06-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "100. Jahrestag der Uraufführung der Meistersinger von Nürnberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Herbert Kern",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 566.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Uraufführung",
+          "beschriftung": "Uraufführung",
+          "haupt": true,
+          "artikel": "Uraufführung",
+          "wikidata": "Q2500107"
+        },
+        {
+          "titel": "Die Meistersänger von Nürnberg",
+          "beschriftung": "Meistersinger von Nürnberg",
+          "haupt": false,
+          "artikel": "Die Meistersinger von Nürnberg",
+          "wikidata": "Q465540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "567",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Erster Todestag von Konrad Adenauer",
+      "bild_beschreibung": "Zweite Ausgabe 1968",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konrad Adenauer",
+          "beschriftung": "Konrad Adenauer",
+          "haupt": true,
+          "artikel": "Konrad Adenauer",
+          "wikidata": "Q2492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "568",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-07-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "82. Deutscher Katholikentag in Essen",
+      "bild_beschreibung": "",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 568.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "82. Deutscher Katholikentag",
+          "beschriftung": "82. Deutscher Katholikentag",
+          "haupt": true,
+          "artikel": "82. Deutscher Katholikentag",
+          "wikidata": "Q271688"
+        },
+        {
+          "titel": "Essen",
+          "beschriftung": "Essen",
+          "haupt": false,
+          "artikel": "Essen",
+          "wikidata": "Q2066"
+        }
+      ]
+    },
+    {
+      "mi_nr": "569",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-05",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "100. Jahrestag der Gründung des Norddeutschen Postbezirks",
+      "bild_beschreibung": "",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 569.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Norddeutscher Postbezirk",
+          "beschriftung": "Norddeutschen Postbezirks",
+          "haupt": true,
+          "artikel": "Norddeutscher Postbezirk",
+          "wikidata": "Q324072"
+        }
+      ]
+    },
+    {
+      "mi_nr": "570",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-09-26",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "100 Jahre Gewerkschaften in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "acon-Köln",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 570.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gewerkschaft",
+          "beschriftung": "Gewerkschaft",
+          "haupt": true,
+          "artikel": "Gewerkschaft",
+          "wikidata": "Q178790"
+        },
+        {
+          "titel": "Deutschland",
+          "beschriftung": "Deutschland",
+          "haupt": false,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "571",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken: Puppen",
+      "bild_beschreibung": "Puppe um 1878",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 13979000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "572",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken: Puppen",
+      "bild_beschreibung": "Puppe um 1850",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 23795000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "573",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken: Puppen",
+      "bild_beschreibung": "Puppe um 1870",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 15864000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "574",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-10-03",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Wohlfahrtsmarken: Puppen",
+      "bild_beschreibung": "Puppe um 1885",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8446000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puppe",
+          "beschriftung": "Puppe",
+          "haupt": true,
+          "artikel": "Puppe",
+          "wikidata": "Q168658"
+        }
+      ]
+    },
+    {
+      "mi_nr": "575",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1968-12-10",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Internationales Jahr der Menschenrechte",
+      "bild_beschreibung": "Lorbeerkranz mit Flamme",
+      "entwerfer": null,
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1968, MiNr 575.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Menschenrechte",
+          "beschriftung": "Menschenrechte",
+          "haupt": true,
+          "artikel": "Menschenrechte",
+          "wikidata": "Q8458"
+        },
+        {
+          "titel": "Lorbeerkranz",
+          "beschriftung": "Lorbeerkranz",
+          "haupt": false,
+          "artikel": "Lorbeerkranz",
+          "wikidata": "Q734844"
+        }
+      ]
+    }
+  ]
+}

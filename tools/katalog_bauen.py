@@ -13,6 +13,7 @@ liegt NICHT hier, sondern in einer zweiten Datenbank der App.
 """
 import argparse
 import json
+import re
 import sqlite3
 import sys
 from datetime import date
@@ -58,6 +59,7 @@ CREATE TABLE marke (
   druckart TEXT,                 -- später von Hand ergänzt
   commons_datei TEXT,
   block TEXT,                    -- 'Block 16', wenn nur im Block erschienen
+  gueltig_bis TEXT,              -- bis 1968 hatten Marken ein Ablaufdatum
   UNIQUE (gebiet, mi_nr)
 );
 CREATE INDEX marke_jahr ON marke (gebiet, jahr, sortier_nr);
@@ -140,6 +142,7 @@ def bauen(ziel):
     if not dateien:
         sys.exit("Keine JSON-Dateien in daten/ gefunden")
     anzahl = 0
+    gesehen = {}        # (gebiet, mi_nr) -> jahr der ersten Nennung
     for datei in dateien:
         jahrgang = json.loads(datei.read_text(encoding="utf-8"))
         hand_datei = datei.with_name(datei.stem + ".hand.json")
@@ -148,18 +151,38 @@ def bauen(ziel):
         db.execute("INSERT INTO quelle VALUES (?,?,?,?,?,?,?,?)", (
             jahrgang["gebiet"], jahrgang["jahr"], q["titel"], q["url"], q.get("revision"),
             q.get("abgerufen"), q.get("lizenz"), q.get("lizenz_url")))
+        doppelt = []
         for mk in jahrgang["marken"]:
             if mk["mi_nr"] in hand:
                 hand_anwenden(mk, hand[mk["mi_nr"]])
-            ziffern = "".join(ch for ch in mk["mi_nr"] if ch.isdigit())
+            schluessel = (jahrgang["gebiet"], mk["mi_nr"])
+            if schluessel in gesehen:
+                if gesehen[schluessel] == jahrgang["jahr"]:
+                    # Gleiche Nummer im selben Jahrgang (z. B. "3…" fuer noch unbekannte Nummern): durchzaehlen
+                    n = 2
+                    while (jahrgang["gebiet"], f"{mk['mi_nr']} ({n})") in gesehen:
+                        n += 1
+                    mk["mi_nr"] = f"{mk['mi_nr']} ({n})"
+                else:
+                    # Dauermarken stehen oft in zwei Jahrgangslisten: die erste Nennung gilt
+                    doppelt.append(f"{mk['mi_nr']} (schon {gesehen[schluessel]})")
+                    continue
+            gesehen[(jahrgang["gebiet"], mk["mi_nr"])] = jahrgang["jahr"]
+            if "ATM" in mk["mi_nr"] and mk.get("art") is None:
+                mk["art"] = "Automatenmarke"
+            # Sortierung: erste Nummer der Zelle ("2204, 2205" -> 2204); Automatenmarken ans Ende des Jahrgangs
+            erste = re.search(r"\d+", mk["mi_nr"])
+            ziffern = erste.group() if erste else ""
+            if mk["mi_nr"].startswith("ATM"):
+                ziffern = str(900000 + int(ziffern))
             cur = db.execute("""INSERT INTO marke (gebiet, mi_nr, sortier_nr, jahr, art, ausgabetag, wert, waehrung,
-                anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei, block)
-                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
+                anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei, block, gueltig_bis)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
                 jahrgang["gebiet"], mk["mi_nr"], int(ziffern) if ziffern else None, jahrgang["jahr"],
                 mk.get("art"), mk.get("ausgabetag"), mk.get("wert"), mk.get("waehrung"),
                 mk.get("anlass"), 1 if mk.get("satz") else 0, mk.get("bild_beschreibung"),
                 mk.get("entwerfer"), mk.get("auflage"), mk.get("zaehnung"), mk.get("druckart"),
-                mk.get("commons_datei"), mk.get("block")))
+                mk.get("commons_datei"), mk.get("block"), mk.get("gueltig_bis")))
             marke_id = cur.lastrowid
             for reihe, t in enumerate(mk.get("themen", [])):
                 db.execute("INSERT OR IGNORE INTO marke_thema VALUES (?,?,?,?)",
@@ -171,7 +194,8 @@ def bauen(ziel):
         unbekannt = [k for k in hand if not k.startswith("_") and k not in {m["mi_nr"] for m in jahrgang["marken"]}]
         if unbekannt:
             print(f"  Hinweis: Handkorrekturen ohne Marke in {hand_datei.name}: {unbekannt}", file=sys.stderr)
-        print(f"  {datei.relative_to(DATEN)}: {len(jahrgang['marken'])} Marken", file=sys.stderr)
+        if doppelt:
+            print(f"  {datei.relative_to(DATEN)}: übersprungen, weil schon in anderem Jahrgang: {', '.join(doppelt)}", file=sys.stderr)
 
     db.execute("INSERT INTO info VALUES ('schema_version', '1')")
     db.execute("INSERT INTO info VALUES ('gebaut_am', ?)", (date.today().isoformat(),))

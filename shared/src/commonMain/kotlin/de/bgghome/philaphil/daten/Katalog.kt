@@ -78,10 +78,13 @@ class Katalog private constructor(private val db: KatalogDb) {
 fun datumLesbar(iso: String?): String {
     if (iso == null) return ""
     val teile = iso.split("-")
-    if (teile.size != 3) return iso
     val monate = listOf("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember")
-    val monat = teile[1].toIntOrNull()?.let { monate.getOrNull(it - 1) } ?: return iso
-    return "${teile[2].trimStart('0')}. $monat ${teile[0]}"
+    val monat = teile.getOrNull(1)?.toIntOrNull()?.let { monate.getOrNull(it - 1) } ?: return iso
+    return when (teile.size) {
+        3 -> "${teile[2].trimStart('0')}. $monat ${teile[0]}"
+        2 -> "$monat ${teile[0]}"          // nur Monat bekannt (Dauermarken der 1950er)
+        else -> iso
+    }
 }
 
 /** 31900000 -> "31.900.000" */

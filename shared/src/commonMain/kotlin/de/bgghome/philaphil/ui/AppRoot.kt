@@ -23,6 +23,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
+import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.CircularProgressIndicator
@@ -40,6 +41,9 @@ import androidx.compose.material3.VerticalDivider
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.backhandler.BackHandler
@@ -60,6 +64,7 @@ import de.bgghome.philaphil.res.fehler_laden
 import de.bgghome.philaphil.res.jahrgang_titel
 import de.bgghome.philaphil.res.jahrgang_untertitel
 import de.bgghome.philaphil.res.jahrgang_vor
+import de.bgghome.philaphil.res.jahrgang_waehlen
 import de.bgghome.philaphil.res.jahrgang_zurueck
 import de.bgghome.philaphil.res.keine_treffer
 import de.bgghome.philaphil.res.suche_hinweis
@@ -119,11 +124,19 @@ fun AppRoot(viewModel: AppViewModel) {
 @Composable
 private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
     val fokus = LocalFocusManager.current
+    var auswahlOffen by remember { mutableStateOf(false) }
+    if (auswahlOffen) {
+        Jahresauswahl(zustand.jahrgaenge, zustand.aktuellerJahrgang, onWahl = viewModel::jahrgangWaehlen, onClose = { auswahlOffen = false })
+    }
     Column(Modifier.background(MaterialTheme.colorScheme.surface)) {
         TopAppBar(
             title = {
-                Column {
-                    Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
+                // Tipp auf den Jahrgang oeffnet die Auswahl aller Jahrgaenge
+                Column(Modifier.clickable { auswahlOffen = true }) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
+                        Icon(Icons.Default.ArrowDropDown, contentDescription = stringResource(Res.string.jahrgang_waehlen))
+                    }
                     if (breit) Text(stringResource(Res.string.app_titel), style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
                 }

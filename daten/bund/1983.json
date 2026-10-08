@@ -1,0 +1,1177 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1983,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1983 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1983_der_Deutschen_Bundespost",
+    "revision": 265569045,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1162,
+    "mi_nr_bis": 1196,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 35,
+    "sondermarken_laut_einleitung": 35
+  },
+  "marken": [
+    {
+      "mi_nr": "1162",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-01-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Edith Stein (1891–1942)",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 32750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Edith Stein",
+          "beschriftung": "Edith Stein",
+          "haupt": true,
+          "artikel": "Edith Stein",
+          "wikidata": "Q76749"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1163",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-01-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Verfolgung und Widerstand",
+      "bild_beschreibung": "Weiße Rose vor Stacheldraht",
+      "entwerfer": "Herbert Kern",
+      "auflage": 31280000,
+      "commons_datei": "DBP 1983 1163 Verfolgung und Widerstand.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weiße Rose",
+          "beschriftung": "Weiße Rose",
+          "haupt": true,
+          "artikel": "Weiße Rose",
+          "wikidata": "Q153364"
+        },
+        {
+          "titel": "Stacheldraht",
+          "beschriftung": "Stacheldraht",
+          "haupt": false,
+          "artikel": "Stacheldraht",
+          "wikidata": "Q192065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1164",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-02-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bauhaus, zum 100. Geburtstag von Walter Gropius (1883–1969)",
+      "bild_beschreibung": "Licht-Raum-Modulator, 1930. Kinetische Plastik von László Moholy-Nagy",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 29975000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plastik (Kunst)",
+          "beschriftung": "Plastik",
+          "haupt": true,
+          "artikel": "Plastik (Kunst)",
+          "wikidata": "Q1078913"
+        },
+        {
+          "titel": "László Moholy-Nagy",
+          "beschriftung": "László Moholy-Nagy",
+          "haupt": false,
+          "artikel": "László Moholy-Nagy",
+          "wikidata": "Q160448"
+        },
+        {
+          "titel": "Bauhaus",
+          "beschriftung": "Bauhaus",
+          "haupt": false,
+          "artikel": "Bauhaus",
+          "wikidata": "Q124354"
+        },
+        {
+          "titel": "Walter Gropius",
+          "beschriftung": "Walter Gropius",
+          "haupt": false,
+          "artikel": "Walter Gropius",
+          "wikidata": "Q61071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1165",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-02-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bauhaus, zum 100. Geburtstag von Walter Gropius (1883–1969)",
+      "bild_beschreibung": "Scantuary, 1942. Zink-Lithografie von Josef Albers",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 20850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lithografie",
+          "beschriftung": "Zink-Lithografie",
+          "haupt": true,
+          "artikel": "Lithografie",
+          "wikidata": "Q133036"
+        },
+        {
+          "titel": "Josef Albers",
+          "beschriftung": "Josef Albers",
+          "haupt": false,
+          "artikel": "Josef Albers",
+          "wikidata": "Q170071"
+        },
+        {
+          "titel": "Bauhaus",
+          "beschriftung": "Bauhaus",
+          "haupt": false,
+          "artikel": "Bauhaus",
+          "wikidata": "Q124354"
+        },
+        {
+          "titel": "Walter Gropius",
+          "beschriftung": "Walter Gropius",
+          "haupt": false,
+          "artikel": "Walter Gropius",
+          "wikidata": "Q61071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1166",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-02-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bauhaus, zum 100. Geburtstag von Walter Gropius (1883–1969)",
+      "bild_beschreibung": "Oberlichtfenster des Bauhaus-Archivs, 1979. Nach einem Entwurf von Walter Gropius",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 31300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauhaus-Archiv",
+          "beschriftung": "Bauhaus-Archiv",
+          "haupt": true,
+          "artikel": "Bauhaus-Archiv",
+          "wikidata": "Q811389"
+        },
+        {
+          "titel": "Bauhaus",
+          "beschriftung": "Bauhaus",
+          "haupt": false,
+          "artikel": "Bauhaus",
+          "wikidata": "Q124354"
+        },
+        {
+          "titel": "Walter Gropius",
+          "beschriftung": "Walter Gropius",
+          "haupt": false,
+          "artikel": "Walter Gropius",
+          "wikidata": "Q61071"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1167",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-02-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schwäbisch-alemannische Fastnacht",
+      "bild_beschreibung": "Narrensprung in Rottweil, der Federahannes",
+      "entwerfer": "Peter Steiner",
+      "auflage": 32650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schwäbisch-alemannische Fastnacht",
+          "beschriftung": "Schwäbisch-alemannische Fastnacht",
+          "haupt": true,
+          "artikel": "Schwäbisch-alemannische Fastnacht",
+          "wikidata": "Q537225"
+        },
+        {
+          "titel": "Narrensprung",
+          "beschriftung": "Narrensprung",
+          "haupt": false,
+          "artikel": "Narrensprung",
+          "wikidata": "Q1965377"
+        },
+        {
+          "titel": "Rottweil",
+          "beschriftung": "Rottweil",
+          "haupt": false,
+          "artikel": "Rottweil",
+          "wikidata": "Q82960"
+        },
+        {
+          "titel": "Narrenzunft Rottweil",
+          "beschriftung": "Federahannes",
+          "haupt": false,
+          "artikel": "Narrenzunft Rottweil",
+          "wikidata": "Q1965395"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1168",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, historische Motorräder",
+      "bild_beschreibung": "Reitwagen von Gottlieb Daimler und Wilhelm Maybach, 1885",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4853000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reitwagen",
+          "beschriftung": "Reitwagen",
+          "haupt": true,
+          "artikel": "Daimler-Reitwagen",
+          "wikidata": "Q474502"
+        },
+        {
+          "titel": "Gottlieb Daimler",
+          "beschriftung": "Gottlieb Daimler",
+          "haupt": false,
+          "artikel": "Gottlieb Daimler",
+          "wikidata": "Q57098"
+        },
+        {
+          "titel": "Wilhelm Maybach",
+          "beschriftung": "Wilhelm Maybach",
+          "haupt": false,
+          "artikel": "Wilhelm Maybach",
+          "wikidata": "Q77125"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1169",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, historische Motorräder",
+      "bild_beschreibung": "NSU, 1901",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4888000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "NSU Motorenwerke",
+          "beschriftung": "NSU",
+          "haupt": true,
+          "artikel": "NSU Motorenwerke",
+          "wikidata": "Q39898"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1170",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, historische Motorräder",
+      "bild_beschreibung": "Megola Sport, 1922",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4977000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Megola",
+          "beschriftung": "Megola Sport",
+          "haupt": true,
+          "artikel": "Megola",
+          "wikidata": "Q991368"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1171",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, historische Motorräder",
+      "bild_beschreibung": "BMW Weltrekordmaschine, 1936",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4767000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "BMW",
+          "beschriftung": "BMW",
+          "haupt": true,
+          "artikel": "BMW",
+          "wikidata": "Q26678"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1172",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport",
+      "bild_beschreibung": "Deutsches Turnfest, Frankfurt am Main",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 4779000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turnfest",
+          "haupt": true,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt am Main",
+          "haupt": false,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1173",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport",
+      "bild_beschreibung": "Weltmeisterschaft 1983 im Modernen Fünfkampf, Warendorf",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 4686000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltmeisterschaft 1983",
+          "beschriftung": "Weltmeisterschaft 1983",
+          "haupt": true,
+          "artikel": "Weltmeisterschaften 1983",
+          "wikidata": "Q1642061"
+        },
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": false,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        },
+        {
+          "titel": "Warendorf",
+          "beschriftung": "Warendorf",
+          "haupt": false,
+          "artikel": "Warendorf",
+          "wikidata": "Q2769"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1174",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Gartenbauausstellung München",
+      "bild_beschreibung": "stilisierte Blume",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 30050000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Westpark (München)",
+          "beschriftung": "Internationale Gartenbauausstellung München",
+          "haupt": true,
+          "artikel": "Westpark (München)",
+          "wikidata": "Q994667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1175",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken Große Werke des menschlichen Geistes",
+      "bild_beschreibung": "Moderne Buchdruck-Schrifttype „A“, Erfindung des Buchdrucks durch Johannes Gutenberg",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 80151000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Letter",
+          "beschriftung": "Schrifttype",
+          "haupt": false,
+          "artikel": "Letter",
+          "wikidata": "Q8250483"
+        },
+        {
+          "titel": "Johannes Gutenberg",
+          "beschriftung": "Johannes Gutenberg",
+          "haupt": false,
+          "artikel": "Johannes Gutenberg",
+          "wikidata": "Q8958"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1176",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken Große Werke des menschlichen Geistes",
+      "bild_beschreibung": "Hertzscher Dipol (Schwingungskreis), Entdeckung der elektromagnetischen Wellen durch Heinrich Hertz",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 110351000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hertzscher Dipol",
+          "beschriftung": "Hertzscher Dipol",
+          "haupt": true,
+          "artikel": "Hertzscher Dipol",
+          "wikidata": "Q2717602"
+        },
+        {
+          "titel": "Elektromagnetische Welle",
+          "beschriftung": "elektromagnetischen Wellen",
+          "haupt": false,
+          "artikel": "Elektromagnetische Welle",
+          "wikidata": "Q11386"
+        },
+        {
+          "titel": "Heinrich Hertz",
+          "beschriftung": "Heinrich Hertz",
+          "haupt": false,
+          "artikel": "Heinrich Hertz",
+          "wikidata": "Q41257"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1177",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Johannes Brahms (1833–1897)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes Brahms",
+          "beschriftung": "Johannes Brahms",
+          "haupt": true,
+          "artikel": "Johannes Brahms",
+          "wikidata": "Q7294"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1178",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Franz Kafka (1883–1924)",
+      "bild_beschreibung": "Teynkirche in Prag und der Schriftzug „Kafka“",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 32400000,
+      "commons_datei": "DBP 1983 1178 Franz Kafka.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Kafka",
+          "beschriftung": "Franz Kafka",
+          "haupt": true,
+          "artikel": "Franz Kafka",
+          "wikidata": "Q905"
+        },
+        {
+          "titel": "Altstädter Ring",
+          "beschriftung": "Teynkirche",
+          "haupt": false,
+          "artikel": "Altstädter Ring",
+          "wikidata": "Q421678"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1179",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Über 450 Jahre Reinheitsgebot für Bier",
+      "bild_beschreibung": "Das Titelbild zum ältesten Kommentar zum „Bierbraurecht“, Quedlinburg, um 1677",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reinheitsgebot",
+          "beschriftung": "Reinheitsgebot",
+          "haupt": true,
+          "artikel": "Reinheitsgebot",
+          "wikidata": "Q167255"
+        },
+        {
+          "titel": "Bier",
+          "beschriftung": "Bier",
+          "haupt": false,
+          "artikel": "Bier",
+          "wikidata": "Q44"
+        },
+        {
+          "titel": "Quedlinburg",
+          "beschriftung": "Quedlinburg",
+          "haupt": false,
+          "artikel": "Quedlinburg",
+          "wikidata": "Q40623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1180",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Einwanderung der ersten Deutschen nach Amerika",
+      "bild_beschreibung": "Segelschiff Concord der ersten Einwanderer;; Gemeinschaftsausgabe mit den Vereinigten Staaten",
+      "entwerfer": "Richard Schlecht",
+      "auflage": 53250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Segelschiff",
+          "beschriftung": "Segelschiff",
+          "haupt": true,
+          "artikel": "Segelschiff",
+          "wikidata": "Q170483"
+        },
+        {
+          "titel": "Concord (Schiff, 17. Jahrhundert)",
+          "beschriftung": "Concord",
+          "haupt": false,
+          "artikel": "Concord (Schiff, 17. Jahrhundert)",
+          "wikidata": "Q1124038"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Vereinigte Staaten",
+          "beschriftung": "Vereinigten Staaten",
+          "haupt": false,
+          "artikel": "Vereinigte Staaten",
+          "wikidata": "Q30"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1181",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-07-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kind und Straßenverkehr",
+      "bild_beschreibung": "Polizist und Schulkinder",
+      "entwerfer": "Lilo Fromm",
+      "auflage": 31350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Straßenverkehr",
+          "beschriftung": "Straßenverkehr",
+          "haupt": true,
+          "artikel": "Straßenverkehr",
+          "wikidata": "Q516739"
+        },
+        {
+          "titel": "Polizist",
+          "beschriftung": "Polizist",
+          "haupt": false,
+          "artikel": "Polizist",
+          "wikidata": "Q384593"
+        },
+        {
+          "titel": "Schüler",
+          "beschriftung": "Schulkinder",
+          "haupt": false,
+          "artikel": "Schüler",
+          "wikidata": "Q48942"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1182",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-07-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Automobil-Ausstellung (IAA) in Frankfurt am Main",
+      "bild_beschreibung": "",
+      "entwerfer": "Erik Nitsche",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Automobil-Ausstellung",
+          "beschriftung": "Internationale Automobil-Ausstellung",
+          "haupt": true,
+          "artikel": "Internationale Automobil-Ausstellung",
+          "wikidata": "Q57583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1183",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-08-11",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Christoph Martin Wieland (1733–1813)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Christoph Martin Wieland",
+          "beschriftung": "Christoph Martin Wieland",
+          "haupt": true,
+          "artikel": "Christoph Martin Wieland",
+          "wikidata": "Q154010"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1184",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-08-11",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Otto Warburg (1883–1970)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto Warburg (Biochemiker)",
+          "beschriftung": "Otto Warburg",
+          "haupt": true,
+          "artikel": "Otto Warburg (Biochemiker)",
+          "wikidata": "Q76464"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1185",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-08-11",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Mitglied der Bundesrepublik Deutschland in der UNO",
+      "bild_beschreibung": "Rosette in Schwarz-Rot-Gold",
+      "entwerfer": "Jürgen Spohn",
+      "auflage": 31000000,
+      "commons_datei": "DBP 1983 1185 Mitglied der UNO.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        },
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "UNO",
+          "haupt": false,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "Schwarz-Rot-Gold",
+          "beschriftung": "Schwarz-Rot-Gold",
+          "haupt": false,
+          "artikel": "Schwarz-Rot-Gold",
+          "wikidata": "Q29839581"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1186",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-08-11",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Das Rauhe Haus",
+      "bild_beschreibung": "",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 39850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rauhes Haus",
+          "beschriftung": "Das Rauhe Haus",
+          "haupt": true,
+          "artikel": "Das Rauhe Haus",
+          "wikidata": "Q1755505"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1187",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-08-11",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Generalversammlung der Internationalen Union für Geodäsie und Geophysik",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 19450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Union für Geodäsie und Geophysik",
+          "beschriftung": "Internationalen Union für Geodäsie und Geophysik",
+          "haupt": true,
+          "artikel": "Internationale Union für Geodäsie und Geophysik",
+          "wikidata": "Q1192969"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1188",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Schweizer Mannsschild Androsace helvetica",
+      "entwerfer": "Karin Blume",
+      "auflage": 12070000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schweizer Mannsschild",
+          "beschriftung": "Schweizer Mannsschild",
+          "haupt": true,
+          "artikel": "Schweizer Mannsschild",
+          "wikidata": "Q160678"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1189",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Krainer Greiskraut Senecio carniolicus",
+      "entwerfer": "Karin Blume",
+      "auflage": 10750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krainer Greiskraut",
+          "beschriftung": "Krainer Greiskraut",
+          "haupt": true,
+          "artikel": "Krainer Greiskraut",
+          "wikidata": "Q1316978"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1190",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Fleischers Weidenröschen Epilobium fleischeri",
+      "entwerfer": "Karin Blume",
+      "auflage": 18110000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fleischers Weidenröschen",
+          "beschriftung": "Fleischers Weidenröschen",
+          "haupt": true,
+          "artikel": "Fleischers Weidenröschen",
+          "wikidata": "Q957705"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1191",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Alpen-Milchlattich Cicerbita alpina",
+      "entwerfer": "Karin Blume",
+      "auflage": 6340000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpen-Milchlattich",
+          "beschriftung": "Alpen-Milchlattich",
+          "haupt": true,
+          "artikel": "Alpen-Milchlattich",
+          "wikidata": "Q1477580"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1192",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Postreiter",
+      "entwerfer": "Peter Steiner",
+      "auflage": 32700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": false,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1193",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Martin Luther (1483–1546)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 29850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": true,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1194",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grundgedanken der Demokratie - Länder und Gemeinden",
+      "bild_beschreibung": "Flechtwerk in Schwarz-Rot-Gold",
+      "entwerfer": "Klemens Ganzenmüller",
+      "auflage": 31500000,
+      "commons_datei": "DBP 1983 1194 Grundgedanken der Demokratie.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Land (Deutschland)",
+          "beschriftung": "Länder",
+          "haupt": true,
+          "artikel": "Land (Deutschland)",
+          "wikidata": "Q1221156"
+        },
+        {
+          "titel": "Gemeinde",
+          "beschriftung": "Gemeinde",
+          "haupt": false,
+          "artikel": "Gemeinde",
+          "wikidata": "Q15284"
+        },
+        {
+          "titel": "Flechten (Tätigkeit)",
+          "beschriftung": "Flechtwerk",
+          "haupt": false,
+          "artikel": "Flechten (Technik)",
+          "wikidata": "Q320809"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1195",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-11-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutscher Zollverein",
+      "bild_beschreibung": "Zollstempel",
+      "entwerfer": "Ulrike Hoffmann",
+      "auflage": 29300000,
+      "commons_datei": "DBP 1983 1195 Deutscher Zollverein.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Zollverein",
+          "beschriftung": "Deutscher Zollverein",
+          "haupt": true,
+          "artikel": "Deutscher Zollverein",
+          "wikidata": "Q155707"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1196",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-11-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Sternsinger",
+      "entwerfer": "Peter Steiner",
+      "auflage": 11900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sternsinger",
+          "beschriftung": "Sternsinger",
+          "haupt": true,
+          "artikel": "Sternsinger",
+          "wikidata": "Q2346047"
+        }
+      ]
+    }
+  ]
+}

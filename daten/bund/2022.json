@@ -1,0 +1,2016 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2022,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2022 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2022_der_Bundesrepublik_Deutschland",
+    "revision": 262658136,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3655,
+    "mi_nr_bis": 3731,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 55,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3658",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "225. Geburtstag Annette von Droste-Hülshoff",
+      "bild_beschreibung": "",
+      "entwerfer": "Eckhard Jung",
+      "auflage": 7377500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Annette von Droste-Hülshoff",
+          "beschriftung": "Annette von Droste-Hülshoff",
+          "haupt": true,
+          "artikel": "Annette von Droste-Hülshoff",
+          "wikidata": "Q57307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3659",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Heinrich Schliemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 2724600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Schliemann",
+          "beschriftung": "Heinrich Schliemann",
+          "haupt": true,
+          "artikel": "Heinrich Schliemann",
+          "wikidata": "Q57106"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3660",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Otto Braun",
+      "bild_beschreibung": "",
+      "entwerfer": "Florian Pfeffer",
+      "auflage": 3329800,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto Braun",
+          "beschriftung": "Otto Braun",
+          "haupt": true,
+          "artikel": "Otto Braun",
+          "wikidata": "Q58667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3661",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75. Geburtstag David Bowie",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3216100,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "David Bowie",
+          "beschriftung": "David Bowie",
+          "haupt": true,
+          "artikel": "David Bowie",
+          "wikidata": "Q5383"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3664",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-02-03",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Rumpelstilzchen",
+      "bild_beschreibung": "zur Unterstützung der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Die Mühsal",
+      "entwerfer": "Michael Kunter",
+      "auflage": 2111800,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Rumpelstilzchen",
+          "beschriftung": "Rumpelstilzchen",
+          "haupt": false,
+          "artikel": "Rumpelstilzchen",
+          "wikidata": "Q322188"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3665",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-02-03",
+      "wert": "100+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Rumpelstilzchen",
+      "bild_beschreibung": "Der Wahnsinn",
+      "entwerfer": "Michael Kunter",
+      "auflage": 3426800,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Rumpelstilzchen",
+          "beschriftung": "Rumpelstilzchen",
+          "haupt": false,
+          "artikel": "Rumpelstilzchen",
+          "wikidata": "Q322188"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3666",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-02-03",
+      "wert": "160+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Rumpelstilzchen",
+      "bild_beschreibung": "Die Rettung",
+      "entwerfer": "Michael Kunter",
+      "auflage": 4464800,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Rumpelstilzchen",
+          "beschriftung": "Rumpelstilzchen",
+          "haupt": false,
+          "artikel": "Rumpelstilzchen",
+          "wikidata": "Q322188"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3667",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-02-03",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Street Art",
+      "bild_beschreibung": "JEROO – Pfau und Kranich",
+      "entwerfer": "Bettina Walter",
+      "auflage": 3293300,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3669",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-02-03",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Rumpelstilzchen",
+      "bild_beschreibung": "Die Mühsal; selbstklebend aus Folienblatt und Rolle",
+      "entwerfer": "Michael Kunter",
+      "auflage": 12794100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3674",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "275",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: U-Bahn-Stationen",
+      "bild_beschreibung": "Heidelberger Platz, Berlin",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3107500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bahnhof Berlin Heidelberger Platz",
+          "beschriftung": "Heidelberger Platz, Berlin",
+          "haupt": true,
+          "artikel": "Bahnhof Berlin Heidelberger Platz",
+          "wikidata": "Q302810"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3675",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag Sepp Herberger",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3202900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sepp Herberger",
+          "beschriftung": "Sepp Herberger",
+          "haupt": true,
+          "artikel": "Sepp Herberger",
+          "wikidata": "Q157820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3676",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsches Kinderhilfswerk",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 3525400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Kinderhilfswerk",
+          "beschriftung": "Deutsches Kinderhilfswerk",
+          "haupt": true,
+          "artikel": "Deutsches Kinderhilfswerk",
+          "wikidata": "Q1205766"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3677",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Benjamin Blümchen",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3183900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Benjamin Blümchen",
+          "beschriftung": "Benjamin Blümchen",
+          "haupt": true,
+          "artikel": "Benjamin Blümchen",
+          "wikidata": "Q28836292"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3679",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Benjamin Blümchen",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 52380500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3680",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-04-07",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Himmelsereignisse",
+      "bild_beschreibung": "Polarlicht",
+      "entwerfer": "Bettina Walter",
+      "auflage": 3400500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Polarlicht",
+          "beschriftung": "Polarlicht",
+          "haupt": true,
+          "artikel": "Polarlicht",
+          "wikidata": "Q40609"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3681",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-04-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Junge Wildtiere",
+      "bild_beschreibung": "Dachs",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3077200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Dachs",
+          "beschriftung": "Dachs",
+          "haupt": true,
+          "artikel": "Europäischer Dachs",
+          "wikidata": "Q27066"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3682",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-04-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Junge Wildtiere",
+      "bild_beschreibung": "Luchs",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3077200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luchse",
+          "beschriftung": "Luchs",
+          "haupt": true,
+          "artikel": "Luchse",
+          "wikidata": "Q677014"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3683",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-04-07",
+      "wert": "195",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "450 Jahre Herzog August Bibliothek, Wolfenbüttel",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 2831700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Herzog August Bibliothek",
+          "beschriftung": "Herzog August Bibliothek",
+          "haupt": true,
+          "artikel": "Herzog August Bibliothek",
+          "wikidata": "Q663820"
+        },
+        {
+          "titel": "Wolfenbüttel",
+          "beschriftung": "Wolfenbüttel",
+          "haupt": false,
+          "artikel": "Wolfenbüttel",
+          "wikidata": "Q4122"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3684",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-05-05",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Nicht Olympische Sportarten",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Fallschirmspringen",
+      "entwerfer": "Armin Lindauer",
+      "auflage": 1685400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Fallschirmspringen",
+          "beschriftung": "Fallschirmspringen",
+          "haupt": false,
+          "artikel": "Fallschirmspringen",
+          "wikidata": "Q193210"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3685",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-05-05",
+      "wert": "100+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Nicht Olympische Sportarten",
+      "bild_beschreibung": "Wakeboarden",
+      "entwerfer": "Armin Lindauer",
+      "auflage": 1899800,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wakeboard",
+          "beschriftung": "Wakeboard",
+          "haupt": true,
+          "artikel": "Wakeboard",
+          "wikidata": "Q376040"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3686",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-05-05",
+      "wert": "160+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Nicht Olympische Sportarten",
+      "bild_beschreibung": "Faustball",
+      "entwerfer": "Armin Lindauer",
+      "auflage": 1848100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Faustball",
+          "beschriftung": "Faustball",
+          "haupt": true,
+          "artikel": "Faustball",
+          "wikidata": "Q1050588"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3687",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-05-05",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Märchen, Mythen und Sagen",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 3107200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Mythos",
+          "beschriftung": "Mythen",
+          "haupt": false,
+          "artikel": "Mythos",
+          "wikidata": "Q12827256"
+        },
+        {
+          "titel": "Sage",
+          "beschriftung": "Sage",
+          "haupt": false,
+          "artikel": "Sage",
+          "wikidata": "Q46783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3688",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-05-05",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Otl Aicher",
+      "bild_beschreibung": "",
+      "entwerfer": "Frank Philippin",
+      "auflage": 3219700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otl Aicher",
+          "beschriftung": "Otl Aicher",
+          "haupt": true,
+          "artikel": "Otl Aicher",
+          "wikidata": "Q61191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3689",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-06-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Umweltschutz",
+      "bild_beschreibung": "Antarktis – Gemeinsam Einzigartiges schützen",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 1789600,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        },
+        {
+          "titel": "Antarktis",
+          "beschriftung": "Antarktis",
+          "haupt": false,
+          "artikel": "Antarktis",
+          "wikidata": "Q1555938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3690",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-06-02",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschland von oben",
+      "bild_beschreibung": "Sylvensteinsee",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2076550,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sylvensteinspeicher",
+          "beschriftung": "Sylvensteinsee",
+          "haupt": true,
+          "artikel": "Sylvensteinspeicher",
+          "wikidata": "Q896990"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3691",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-06-02",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschland von oben",
+      "bild_beschreibung": "Sylvensteinsee",
+      "entwerfer": "Bettina Walter",
+      "auflage": 2076550,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3692",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-06-02",
+      "wert": "370",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Weltumweltkonferenz von Stockholm",
+      "bild_beschreibung": "",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 2910400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konferenz der Vereinten Nationen über die Umwelt des Menschen",
+          "beschriftung": "Weltumweltkonferenz",
+          "haupt": true,
+          "artikel": "Konferenz der Vereinten Nationen über die Umwelt des Menschen",
+          "wikidata": "Q1781365"
+        },
+        {
+          "titel": "Stockholm",
+          "beschriftung": "Stockholm",
+          "haupt": false,
+          "artikel": "Stockholm",
+          "wikidata": "Q1754"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3693",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-06-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Organspende",
+      "bild_beschreibung": "",
+      "entwerfer": "Jens Müller",
+      "auflage": 3178000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Organspende",
+          "beschriftung": "Organspende",
+          "haupt": true,
+          "artikel": "Organspende",
+          "wikidata": "Q849032"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3694",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-06-23",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "G7-Präsidentschaft Deutschland 2022",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 2986400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "G7",
+          "beschriftung": "G7",
+          "haupt": true,
+          "artikel": "G7",
+          "wikidata": "Q1764511"
+        },
+        {
+          "titel": "G7-Gipfel auf Schloss Elmau 2022",
+          "beschriftung": "Präsidentschaft Deutschland 2022",
+          "haupt": false,
+          "artikel": "G7-Gipfel auf Schloss Elmau 2022",
+          "wikidata": "Q110372624"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3696",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Friedrichsort",
+      "entwerfer": "Hanno Schabacker",
+      "auflage": 3226400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": true,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        },
+        {
+          "titel": "Leuchtturm Friedrichsort",
+          "beschriftung": "Leuchtturm Friedrichsort",
+          "haupt": false,
+          "artikel": "Leuchtturm Friedrichsort",
+          "wikidata": "Q1821426"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3697",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Superhelden",
+      "bild_beschreibung": "Spider-Man",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3084200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spider-Man",
+          "beschriftung": "Spider-Man",
+          "haupt": true,
+          "artikel": "Spider-Man",
+          "wikidata": "Q79037"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3698",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Stendal",
+      "bild_beschreibung": "",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 3175200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stendal",
+          "beschriftung": "Stendal",
+          "haupt": true,
+          "artikel": "Stendal",
+          "wikidata": "Q7082"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3699",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Gregor Mendel",
+      "bild_beschreibung": "",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 2972700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gregor Mendel",
+          "beschriftung": "Gregor Mendel",
+          "haupt": true,
+          "artikel": "Gregor Mendel",
+          "wikidata": "Q37970"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3700",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Hans-Jürgen Wischnewski",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Haufe und Detlef Fiedler",
+      "auflage": 3360000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans-Jürgen Wischnewski",
+          "beschriftung": "Hans-Jürgen Wischnewski",
+          "haupt": true,
+          "artikel": "Hans-Jürgen Wischnewski",
+          "wikidata": "Q67517"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3701",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Kinder malen eine Briefmarke",
+      "bild_beschreibung": "",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 3601200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3706",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Amphibien",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Bergmolch",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 1701400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Bergmolch",
+          "beschriftung": "Bergmolch",
+          "haupt": false,
+          "artikel": "Bergmolch",
+          "wikidata": "Q282715"
+        },
+        {
+          "titel": "Amphibien",
+          "beschriftung": "Amphibien",
+          "haupt": false,
+          "artikel": "Amphibien",
+          "wikidata": "Q10908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3707",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "100+45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Amphibien",
+      "bild_beschreibung": "Laubfrosch",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 1942300,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Laubfrosch",
+          "beschriftung": "Laubfrosch",
+          "haupt": true,
+          "artikel": "Europäischer Laubfrosch",
+          "wikidata": "Q2142057"
+        },
+        {
+          "titel": "Amphibien",
+          "beschriftung": "Amphibien",
+          "haupt": false,
+          "artikel": "Amphibien",
+          "wikidata": "Q10908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3708",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "160+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Amphibien",
+      "bild_beschreibung": "Feuersalamander",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 1850600,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feuersalamander",
+          "beschriftung": "Feuersalamander",
+          "haupt": true,
+          "artikel": "Feuersalamander",
+          "wikidata": "Q26395"
+        },
+        {
+          "titel": "Amphibien",
+          "beschriftung": "Amphibien",
+          "haupt": false,
+          "artikel": "Amphibien",
+          "wikidata": "Q10908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3709",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: U-Bahn Stationen",
+      "bild_beschreibung": "Heumarkt Köln",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3089200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "U-Bahnhof Heumarkt",
+          "beschriftung": "Heumarkt Köln",
+          "haupt": true,
+          "artikel": "U-Bahnhof Heumarkt",
+          "wikidata": "Q15851859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3710",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Vollversammlung des Ökumenischen Rates der Kirchen in Karlsruhe",
+      "bild_beschreibung": "",
+      "entwerfer": "Luzia Hein",
+      "auflage": 3800700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Plenum",
+          "beschriftung": "Vollversammlung",
+          "haupt": true,
+          "artikel": "Plenum",
+          "wikidata": "Q13147896"
+        },
+        {
+          "titel": "ÖRK-Vollversammlung Karlsruhe 2022",
+          "beschriftung": "Ökumenischen Rates der Kirchen",
+          "haupt": false,
+          "artikel": "ÖRK-Vollversammlung Karlsruhe 2022",
+          "wikidata": "Q113505469"
+        },
+        {
+          "titel": "Karlsruhe",
+          "beschriftung": "Karlsruhe",
+          "haupt": false,
+          "artikel": "Karlsruhe",
+          "wikidata": "Q1040"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3716",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-09-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Sehenswürdigkeiten",
+      "bild_beschreibung": "Schloss Neuschwanstein",
+      "entwerfer": "Jan-Niklas Kröger",
+      "auflage": 3164700,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schloss Neuschwanstein",
+          "beschriftung": "Schloss Neuschwanstein",
+          "haupt": true,
+          "artikel": "Schloss Neuschwanstein",
+          "wikidata": "Q4152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3717",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-09-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Helden der Kindheit",
+      "bild_beschreibung": "Pumuckl",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3179200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meister Eder und sein Pumuckl",
+          "beschriftung": "Pumuckl",
+          "haupt": true,
+          "artikel": "Meister Eder und sein Pumuckl",
+          "wikidata": "Q61989501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3718",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-09-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Helden der Kindheit",
+      "bild_beschreibung": "Die Schlümpfe",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 3087200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die Schlümpfe",
+          "beschriftung": "Die Schlümpfe",
+          "haupt": true,
+          "artikel": "Die Schlümpfe",
+          "wikidata": "Q11221"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3719",
+      "block": "Block 90",
+      "art": "Sondermarke",
+      "ausgabetag": "2022-10-06",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Baden Fehldruck; Ausgabe auch als Briefmarkenblock",
+      "entwerfer": "Ruven Wiegert",
+      "auflage": 2828500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Baden-Fehldruck 9 Kreuzer",
+          "beschriftung": "Baden Fehldruck",
+          "haupt": false,
+          "artikel": "Baden-Fehldruck 9 Kreuzer",
+          "wikidata": "Q461084"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3720",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-10-06",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Superhelden",
+      "bild_beschreibung": "Black Panther",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3199000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Black Panther (Film)",
+          "beschriftung": "Black Panther",
+          "haupt": true,
+          "artikel": "Black Panther (Film)",
+          "wikidata": "Q23780734"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3721",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-10-06",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Zeitreise Deutschland",
+      "bild_beschreibung": "Köln",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 2981000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Köln",
+          "beschriftung": "Köln",
+          "haupt": true,
+          "artikel": "Köln",
+          "wikidata": "Q365"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3722",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-10-06",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Postcrossing",
+      "bild_beschreibung": "",
+      "entwerfer": "Greta Gröttrup",
+      "auflage": 2885000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Postcrossing",
+          "beschriftung": "Postcrossing",
+          "haupt": true,
+          "artikel": "Postcrossing",
+          "wikidata": "Q643420"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3724",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Botschaft des Engels: „Ich verkündige euch eine große Freude“",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 2414500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3725",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "160",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Fernsehlegenden",
+      "bild_beschreibung": "Rockpalast",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3441000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Fernsehlegenden",
+          "beschriftung": "Deutsche Fernsehlegenden",
+          "haupt": true,
+          "artikel": "Deutsche Fernsehlegenden",
+          "wikidata": "Q75045420"
+        },
+        {
+          "titel": "Rockpalast",
+          "beschriftung": "Rockpalast",
+          "haupt": false,
+          "artikel": "Rockpalast",
+          "wikidata": "Q314451"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3726",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Deutscher Caritasverband",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 3054000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Caritasverband",
+          "beschriftung": "Deutscher Caritasverband",
+          "haupt": true,
+          "artikel": "Deutscher Caritasverband",
+          "wikidata": "Q29508174"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3727",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Diversität – Vielfalt in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Bettina Walter",
+      "auflage": 3097000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Diversität (Soziologie)",
+          "beschriftung": "Diversität",
+          "haupt": true,
+          "artikel": "Diversität (Soziologie)",
+          "wikidata": "Q1230584"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3728",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Friedvolle Weihnachten!",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3373000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3729",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Botschaft des Engels: „Ich verkündige euch eine große Freude“; selbstklebend aus Folienblatt",
+      "entwerfer": "Annette Le Fort und André Heers",
+      "auflage": 5145000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3730",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Friedvolle Weihnachten!",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 55687000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3731",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2022-12-01",
+      "wert": "195",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "225. Geburtstag Heinrich Heine",
+      "bild_beschreibung": "",
+      "entwerfer": "Frank Philippin",
+      "auflage": 2604000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3655",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "32",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Schneeglöckchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schneeglöckchen",
+          "beschriftung": "Schneeglöckchen",
+          "haupt": true,
+          "artikel": "Schneeglöckchen",
+          "wikidata": "Q105415"
+        },
+        {
+          "titel": "Blumen (Deutsche Post)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3656",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "37",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Rotklee",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotklee",
+          "beschriftung": "Rotklee",
+          "haupt": true,
+          "artikel": "Wiesenklee",
+          "wikidata": "Q156635"
+        },
+        {
+          "titel": "Blumen (Deutsche Post)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3662",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "32",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Schneeglöckchen; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Deutsche Post)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3663",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "37",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Rotklee; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Deutsche Post)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3657",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-01-03",
+      "wert": "275",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Leuchtfederstift",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3668",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-02-03",
+      "wert": "275",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Leuchtfederstift; selbstklebend aus Folienblatt",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3670",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Brief auf Umlaufbahn",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3671",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "110",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Luftpost",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": false,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3672",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "195",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Mond und Briefe",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3673",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "225",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefsonde im Weltall",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3678",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Brief auf Umlaufbahn; selbstklebend aus Folienblatt und Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3695",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-07-07",
+      "wert": "170",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Abendlicht",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3702",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "32",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefperle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3703",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "37",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefmühle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3704",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefbaum",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3705",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Ballonpost",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3711",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "32",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefperle; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3712",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "37",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefmühle; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3713",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-08-04",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Briefbaum; selbstklebend aus Rolle",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3714",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-09-01",
+      "wert": "50",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Schmetterlingsbrief",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3715",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-09-01",
+      "wert": "370",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Leuchtmarke",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": true,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3723",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2022-11-02",
+      "wert": "10",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Welt der Briefe",
+      "bild_beschreibung": "Flaschenpost",
+      "entwerfer": "Bettina Walter",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flaschenpost",
+          "beschriftung": "Flaschenpost",
+          "haupt": true,
+          "artikel": "Flaschenpost",
+          "wikidata": "Q23529"
+        },
+        {
+          "titel": "Welt der Briefe",
+          "beschriftung": "Welt der Briefe",
+          "haupt": false,
+          "artikel": "Welt der Briefe",
+          "wikidata": "Q109947276"
+        }
+      ]
+    }
+  ]
+}

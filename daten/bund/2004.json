@@ -1,0 +1,1619 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2004,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2004 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2004_der_Bundesrepublik_Deutschland",
+    "revision": 265763836,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2374,
+    "mi_nr_bis": 2433,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 57,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Landshut",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Landshut",
+          "beschriftung": "Landshut",
+          "haupt": true,
+          "artikel": "Landshut",
+          "wikidata": "Q3974"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Schleswig",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 36000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schleswig",
+          "beschriftung": "Schleswig",
+          "haupt": true,
+          "artikel": "Schleswig",
+          "wikidata": "Q501661"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Umweltschutz",
+      "bild_beschreibung": "Erneuerbare Energien im Aufwind",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 1790000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        },
+        {
+          "titel": "Erneuerbare Energie",
+          "beschriftung": "Erneuerbare Energie",
+          "haupt": false,
+          "artikel": "Erneuerbare Energien",
+          "wikidata": "Q12705"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus deutschen Städten",
+      "bild_beschreibung": "Viktualienmarkt München; selbstklebend aus Markenheftchen",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 216000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Viktualienmarkt (München)",
+          "beschriftung": "Viktualienmarkt München",
+          "haupt": true,
+          "artikel": "Viktualienmarkt",
+          "wikidata": "Q686629"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutscher Musikrat",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Peter Steiner und Regina Steiner",
+      "auflage": 333664200,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Musikrat",
+          "beschriftung": "Deutscher Musikrat",
+          "haupt": true,
+          "artikel": "Deutscher Musikrat",
+          "wikidata": "Q1205137"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Fußball-Europameisterschaft 2004",
+      "entwerfer": "Andrea Acker",
+      "auflage": 2490000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball-Europameisterschaft 2004",
+          "beschriftung": "Fußball-Europameisterschaft 2004",
+          "haupt": true,
+          "artikel": "Fußball-Europameisterschaft 2004",
+          "wikidata": "Q102920"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Olympische Sommerspiele in Athen",
+      "entwerfer": "Andrea Acker",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Sommerspiele 2004",
+          "beschriftung": "Olympische Sommerspiele in Athen",
+          "haupt": true,
+          "artikel": "Olympische Sommerspiele 2004",
+          "wikidata": "Q8558"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Sommer-Paralympics 2004",
+      "entwerfer": "Andrea Acker",
+      "auflage": 1610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sommer-Paralympics 2004",
+          "beschriftung": "Sommer-Paralympics 2004",
+          "haupt": true,
+          "artikel": "Sommer-Paralympics 2004",
+          "wikidata": "Q840654"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "50 Jahre Wunder von Bern",
+      "entwerfer": "Andrea Acker",
+      "auflage": 2460000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wunder von Bern",
+          "beschriftung": "50 Jahre Wunder von Bern",
+          "haupt": true,
+          "artikel": "Wunder von Bern",
+          "wikidata": "Q665946"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2386",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "100 Jahre FIFA",
+      "entwerfer": "Andrea Acker",
+      "auflage": 2040000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "FIFA",
+          "beschriftung": "100 Jahre FIFA",
+          "haupt": true,
+          "artikel": "FIFA",
+          "wikidata": "Q253414"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2387",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post! – Grußmarke",
+      "bild_beschreibung": "",
+      "entwerfer": "Rolf Lederbogen",
+      "auflage": 27000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post!",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2388",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1300 Jahre Arnstadt",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 26000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": true,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2389",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-03-11",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstage von Paul Ehrlich und Emil von Behring",
+      "bild_beschreibung": "",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 29500000,
+      "commons_datei": "Dpag-2004-behring-ehrlich.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Ehrlich",
+          "beschriftung": "Paul Ehrlich",
+          "haupt": true,
+          "artikel": "Paul Ehrlich",
+          "wikidata": "Q57089"
+        },
+        {
+          "titel": "Emil von Behring",
+          "beschriftung": "Emil von Behring",
+          "haupt": false,
+          "artikel": "Emil von Behring",
+          "wikidata": "Q76425"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2390",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-03-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Joseph Schmidt",
+      "bild_beschreibung": "",
+      "entwerfer": "Jennifer Rothkopf",
+      "auflage": 11690000,
+      "commons_datei": "Joseph Schmidt (timbre allemand).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Joseph Schmidt (Sänger)",
+          "beschriftung": "Joseph Schmidt",
+          "haupt": true,
+          "artikel": "Joseph Schmidt (Sänger)",
+          "wikidata": "Q94513"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2391",
+      "block": "Block 65",
+      "art": "Sondermarke",
+      "ausgabetag": "2004-03-11",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Klassisches Theater",
+      "bild_beschreibung": "Szene aus Wilhelm Tell",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 5200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Tell (Schiller)",
+          "beschriftung": "Wilhelm Tell",
+          "haupt": true,
+          "artikel": "Wilhelm Tell (Schiller)",
+          "wikidata": "Q937281"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2392",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-03-11",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Klassisches Theater",
+      "bild_beschreibung": "Szene aus Faust II",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 5200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Faust. Der Tragödie zweiter Teil",
+          "beschriftung": "Faust II",
+          "haupt": true,
+          "artikel": "Faust. Der Tragödie zweiter Teil",
+          "wikidata": "Q267510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2393",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-04-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bedrohte Tierarten",
+      "bild_beschreibung": "Weißstörche",
+      "entwerfer": "Peter Steiner und Regina Steiner",
+      "auflage": 26500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bedrohte Tierarten",
+          "beschriftung": "Bedrohte Tierarten",
+          "haupt": true,
+          "artikel": "Bedrohte Tierarten",
+          "wikidata": "Q813944"
+        },
+        {
+          "titel": "Weißstorch",
+          "beschriftung": "Weißstörche",
+          "haupt": false,
+          "artikel": "Weißstorch",
+          "wikidata": "Q25352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2394",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-04-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Kultur- und Naturerbe der Menschheit",
+      "bild_beschreibung": "Bauhausstätten in Weimar und Dessau",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 18000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "UNESCO-Welterbe",
+          "beschriftung": "Kultur- und Naturerbe der Menschheit",
+          "haupt": true,
+          "artikel": "UNESCO-Welterbe",
+          "wikidata": "Q9259"
+        },
+        {
+          "titel": "Bauhaus",
+          "beschriftung": "Bauhaus",
+          "haupt": false,
+          "artikel": "Bauhaus",
+          "wikidata": "Q124354"
+        },
+        {
+          "titel": "Bauhaus Dessau",
+          "beschriftung": "Dessau",
+          "haupt": false,
+          "artikel": "Bauhausgebäude Dessau",
+          "wikidata": "Q516770"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2395",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-04-07",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre elektrische Glühlampe von Heinrich Göbel",
+      "bild_beschreibung": "",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Glühlampe",
+          "beschriftung": "elektrische Glühlampe",
+          "haupt": true,
+          "artikel": "Glühlampe",
+          "wikidata": "Q47616"
+        },
+        {
+          "titel": "Heinrich Göbel",
+          "beschriftung": "Heinrich Göbel",
+          "haupt": false,
+          "artikel": "Heinrich Göbel",
+          "wikidata": "Q61149"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2396",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-04-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Kurt Georg Kiesinger",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz, Oliver Aretz",
+      "auflage": 14500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kurt Georg Kiesinger",
+          "beschriftung": "Kurt Georg Kiesinger",
+          "haupt": true,
+          "artikel": "Kurt Georg Kiesinger",
+          "wikidata": "Q2512"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2397",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-05-06",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Ferien",
+      "entwerfer": "Christiane Hemmerich",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2398",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-05-06",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Schloss Ludwigsburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Vera Braesecke-Kaul, Hilmar Kaul",
+      "auflage": 33000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Residenzschloss Ludwigsburg",
+          "beschriftung": "Schloss Ludwigsburg",
+          "haupt": true,
+          "artikel": "Residenzschloss Ludwigsburg",
+          "wikidata": "Q704831"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2399",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Reinhard Schwarz-Schilling",
+      "bild_beschreibung": "",
+      "entwerfer": "Birgit Hogrefe",
+      "auflage": 14000000,
+      "commons_datei": "Reinhard Schwarz-Schilling (timbre allemand).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reinhard Schwarz-Schilling",
+          "beschriftung": "Reinhard Schwarz-Schilling",
+          "haupt": true,
+          "artikel": "Reinhard Schwarz-Schilling",
+          "wikidata": "Q318034"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2400",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Erweiterung der Europäischen Union",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 22000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "EU-Erweiterung 2004",
+          "beschriftung": "Erweiterung der Europäischen Union",
+          "haupt": true,
+          "artikel": "EU-Erweiterung 2004",
+          "wikidata": "Q1230874"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2401",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1250. Todestag des Heiligen Bonifatius",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bonifatius",
+          "beschriftung": "Heiligen Bonifatius",
+          "haupt": true,
+          "artikel": "Bonifatius",
+          "wikidata": "Q160445"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2402",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Katzen",
+      "bild_beschreibung": "Katzenkinder mit Wollknäuel",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 1810000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katze",
+          "beschriftung": "Katze",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2403",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Katzen",
+      "bild_beschreibung": "Katzenkinder mit Ball",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 1720000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katze",
+          "beschriftung": "Katze",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Katzen",
+      "bild_beschreibung": "Katzenmutter mit Kind",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 1730000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katze",
+          "beschriftung": "Katze",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2405",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Katzen",
+      "bild_beschreibung": "Sich putzende Katze",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 1730000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katze",
+          "beschriftung": "Katze",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2406",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Katzen",
+      "bild_beschreibung": "Schlafende Katzen",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 1610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katze",
+          "beschriftung": "Katze",
+          "haupt": true,
+          "artikel": "Hauskatze",
+          "wikidata": "Q146"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2407",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche National- und Naturparke",
+      "bild_beschreibung": "Wattenmeer",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 28500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": true,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Wattenmeer (Nordsee)",
+          "beschriftung": "Wattenmeer",
+          "haupt": false,
+          "artikel": "Wattenmeer (Nordsee)",
+          "wikidata": "Q26080"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2408",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-06-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Deutsch-russische Jugendbegegnungen im 21. Jahrhundert",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Russland",
+      "entwerfer": "Alexander Osolin",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": true,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Russland",
+          "beschriftung": "Russland",
+          "haupt": false,
+          "artikel": "Russland",
+          "wikidata": "Q159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2409",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-07-08",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Greifswalder Oie",
+      "entwerfer": "Johannes Graf",
+      "auflage": 24800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Greifswalder Oie",
+          "beschriftung": "Greifswalder Oie",
+          "haupt": true,
+          "artikel": "Leuchtturm Greifswalder Oie",
+          "wikidata": "Q28376045"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2410",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-07-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Roter Sand",
+      "entwerfer": "Johannes Graf",
+      "auflage": 26500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roter Sand",
+          "beschriftung": "Roter Sand",
+          "haupt": true,
+          "artikel": "Roter Sand",
+          "wikidata": "Q220034"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2411",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-07-08",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Ludwig Feuerbach",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 21000000,
+      "commons_datei": "Postwertzeichen DPAG - 200. Geburtstag Ludwig Feuerbach 2004.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Feuerbach",
+          "beschriftung": "Ludwig Feuerbach",
+          "haupt": true,
+          "artikel": "Ludwig Feuerbach",
+          "wikidata": "Q76422"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2412",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-07-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75. Jahrestag des Gewinns des „Blauen Bandes“ durch das Passagierschiff Bremen",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 21000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Blaues Band",
+          "beschriftung": "Blauen Bandes",
+          "haupt": true,
+          "artikel": "Blaues Band",
+          "wikidata": "Q815532"
+        },
+        {
+          "titel": "Bremen (Schiff, 1929)",
+          "beschriftung": "Bremen",
+          "haupt": false,
+          "artikel": "Bremen (Schiff, 1929)",
+          "wikidata": "Q700339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2413",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-07-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Roter Sand; selbstklebend aus Rolle",
+      "entwerfer": "Johannes Graf",
+      "auflage": 509543700,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2414",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-08-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "Kameliengruß",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 37000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post!",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2415",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-08-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Gedächtniskirche Speyer",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 14500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gedächtniskirche der Protestation (Speyer)",
+          "beschriftung": "Gedächtniskirche Speyer",
+          "haupt": true,
+          "artikel": "Gedächtniskirche der Protestation (Speyer)",
+          "wikidata": "Q463991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2416",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-08-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "Kameliengruß; selbstklebend aus Markenheftchen",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 410000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2417",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-08-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75. Jahrestag des Gewinns des „Blauen Bandes“ durch das Passagierschiff „Bremen“",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 625606800,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2418",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Buntes Gesicht aus Hand- und Fußabdrücken",
+      "entwerfer": "Roman Terpitz",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2419",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Eduard Mörike",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 22000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eduard Mörike",
+          "beschriftung": "Eduard Mörike",
+          "haupt": true,
+          "artikel": "Eduard Mörike",
+          "wikidata": "Q63699"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2420",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-09-09",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Engelbert Humperdinck",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger, Lorli Jünger",
+      "auflage": 25000000,
+      "commons_datei": "Stamp Germany 2004 MiNr2420 Engelbert Humperdinck.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Engelbert Humperdinck",
+          "beschriftung": "Engelbert Humperdinck",
+          "haupt": true,
+          "artikel": "Engelbert Humperdinck",
+          "wikidata": "Q55010"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2421",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-09-09",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Egon Eiermann",
+      "bild_beschreibung": "",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 17000000,
+      "commons_datei": "Stamp Germany 2004 MiNr2421 Egon Eiermann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Egon Eiermann",
+          "beschriftung": "Egon Eiermann",
+          "haupt": true,
+          "artikel": "Egon Eiermann",
+          "wikidata": "Q65803"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2422",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-09-09",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bundessozialgericht",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundessozialgericht",
+          "beschriftung": "Bundessozialgericht",
+          "haupt": true,
+          "artikel": "Bundessozialgericht",
+          "wikidata": "Q674868"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-10-07",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wunderbare Welten: Klimazonen",
+      "bild_beschreibung": "Polare Zone",
+      "entwerfer": "Christof Gassner",
+      "auflage": 3810000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Polargebiet",
+          "beschriftung": "Polare Zone",
+          "haupt": true,
+          "artikel": "Polargebiet",
+          "wikidata": "Q60670"
+        },
+        {
+          "titel": "Klimazone",
+          "beschriftung": "Klimazone",
+          "haupt": false,
+          "artikel": "Klimazone",
+          "wikidata": "Q1639168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-10-07",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wunderbare Welten: Klimazonen",
+      "bild_beschreibung": "Alpine Zone",
+      "entwerfer": "Christof Gassner",
+      "auflage": 8180000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Klimazone",
+          "beschriftung": "Klimazone",
+          "haupt": true,
+          "artikel": "Klimazone",
+          "wikidata": "Q1639168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-10-07",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wunderbare Welten: Klimazonen",
+      "bild_beschreibung": "Gemäßigte Breiten",
+      "entwerfer": "Christof Gassner",
+      "auflage": 7810000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemäßigte Breiten",
+          "beschriftung": "Gemäßigte Breiten",
+          "haupt": true,
+          "artikel": "Gemäßigte Klimazone",
+          "wikidata": "Q167466"
+        },
+        {
+          "titel": "Klimazone",
+          "beschriftung": "Klimazone",
+          "haupt": false,
+          "artikel": "Klimazone",
+          "wikidata": "Q1639168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-10-07",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wunderbare Welten: Klimazonen",
+      "bild_beschreibung": "Wüste",
+      "entwerfer": "Christof Gassner",
+      "auflage": 8480000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wüste",
+          "beschriftung": "Wüste",
+          "haupt": true,
+          "artikel": "Wüste",
+          "wikidata": "Q8514"
+        },
+        {
+          "titel": "Klimazone",
+          "beschriftung": "Klimazone",
+          "haupt": false,
+          "artikel": "Klimazone",
+          "wikidata": "Q1639168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2427",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-10-07",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Wunderbare Welten: Klimazonen",
+      "bild_beschreibung": "Tropen",
+      "entwerfer": "Christof Gassner",
+      "auflage": 6460000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tropen",
+          "beschriftung": "Tropen",
+          "haupt": true,
+          "artikel": "Tropen",
+          "wikidata": "Q42530"
+        },
+        {
+          "titel": "Klimazone",
+          "beschriftung": "Klimazone",
+          "haupt": false,
+          "artikel": "Klimazone",
+          "wikidata": "Q1639168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2428",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-10-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Flugboot Do X",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Dornier Do X",
+          "beschriftung": "Flugboot Do X",
+          "haupt": false,
+          "artikel": "Dornier Do X",
+          "wikidata": "Q1245922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-11-04",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Flucht nach Ägypten – Gemälde von Peter Paul Rubens",
+      "entwerfer": "Ernst Jünger, Lorli Jünger",
+      "auflage": 2840000,
+      "commons_datei": "DPAG-2004-Weihnachten-FluchtnachAegypten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Peter Paul Rubens",
+          "beschriftung": "Peter Paul Rubens",
+          "haupt": true,
+          "artikel": "Peter Paul Rubens",
+          "wikidata": "Q5599"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2430",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-11-04",
+      "wert": "55+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Anbetung der Könige – Gemälde von Peter Paul Rubens; Gemeinschaftsausgabe mit Belgien",
+      "entwerfer": "Ernst Jünger, Lorli Jünger",
+      "auflage": 5450000,
+      "commons_datei": "DPAG-2004-Weihnachten-DieAnbetungderKoenige.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Belgien",
+          "beschriftung": "Belgien",
+          "haupt": true,
+          "artikel": "Belgien",
+          "wikidata": "Q31"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2431",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-11-04",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post!",
+      "bild_beschreibung": "Winterstimmung",
+      "entwerfer": "Johannes Graf",
+      "auflage": 12500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2432",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-11-04",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Das Geheimnis von Felix Nussbaum",
+      "entwerfer": "Ernst Jünger, Lorli Jünger",
+      "auflage": 11500000,
+      "commons_datei": "Briefmarke Deutsche Post - Deutsche Malerei 2004- Felix Nussbaum mit \"Das Geheimnis\".jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Malerei des 20. Jahrhunderts",
+          "beschriftung": "Deutsche Malerei des 20. Jahrhunderts",
+          "haupt": true,
+          "artikel": "Deutsche Malerei des 20. Jahrhunderts",
+          "wikidata": "Q1203445"
+        },
+        {
+          "titel": "Felix Nussbaum",
+          "beschriftung": "Felix Nussbaum",
+          "haupt": false,
+          "artikel": "Felix Nussbaum",
+          "wikidata": "Q215572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2433",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2004-11-04",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Internationale Raumstation ISS",
+      "bild_beschreibung": "",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 15000000,
+      "commons_datei": "PWz DPAG 2004 - Internationale Raumstation.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Raumstation",
+          "beschriftung": "Internationale Raumstation ISS",
+          "haupt": true,
+          "artikel": "Internationale Raumstation",
+          "wikidata": "Q25271"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2381",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2004-02-05",
+      "wert": "0,05 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Erfurter Dom",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 46030000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erfurter Dom",
+          "beschriftung": "Erfurter Dom",
+          "haupt": true,
+          "artikel": "Erfurter Dom",
+          "wikidata": "Q701567"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2374",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "0,25 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Residenzschloss Arolsen",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 140972000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Arolsen",
+          "beschriftung": "Residenzschloss Arolsen",
+          "haupt": true,
+          "artikel": "Residenzschloss Arolsen",
+          "wikidata": "Q877026"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2375",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2004-01-08",
+      "wert": "0,40 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bach-Denkmal Leipzig",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 34524000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Bach-Denkmal in Leipzig",
+          "beschriftung": "Bach-Denkmal Leipzig",
+          "haupt": true,
+          "artikel": "Neues Bach-Denkmal in Leipzig",
+          "wikidata": "Q1980313"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    }
+  ]
+}

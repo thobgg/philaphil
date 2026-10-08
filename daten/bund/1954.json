@@ -1,0 +1,810 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1954,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1954 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1954_der_Deutschen_Bundespost",
+    "revision": 265962871,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 177,
+    "mi_nr_bis": 203,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 7,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "197",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-03-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "100. Geburtstag von Paul Ehrlich (1854–1915) und Emil von Behring (1854–1917)",
+      "bild_beschreibung": "Ehrlich erhielt 1908 den Nobelpreis für Medizin, Behring erhielt ihn 1901, beide waren Serologen",
+      "entwerfer": "Johannes Boehland",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1954 197 Paul Ehrlich und Emil Behring.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Ehrlich",
+          "beschriftung": "Paul Ehrlich",
+          "haupt": true,
+          "artikel": "Paul Ehrlich",
+          "wikidata": "Q57089"
+        },
+        {
+          "titel": "Emil von Behring",
+          "beschriftung": "Emil von Behring",
+          "haupt": false,
+          "artikel": "Emil von Behring",
+          "wikidata": "Q76425"
+        },
+        {
+          "titel": "Nobelpreis für Physiologie oder Medizin",
+          "beschriftung": "Nobelpreis für Medizin",
+          "haupt": false,
+          "artikel": "Nobelpreis für Physiologie oder Medizin",
+          "wikidata": "Q80061"
+        },
+        {
+          "titel": "Serologie",
+          "beschriftung": "Serologen",
+          "haupt": false,
+          "artikel": "Serologie",
+          "wikidata": "Q502159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "198",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-05-05",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "500 Jahre Gutenberg-Bibel",
+      "bild_beschreibung": "Ein Drucker an der Handpresse von Johannes Gutenberg (um 1400–1468)",
+      "entwerfer": "Walter Brudi",
+      "auflage": 21200000,
+      "commons_datei": "DBP 1954 198 Gutenberg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gutenberg-Bibel",
+          "beschriftung": "Gutenberg-Bibel",
+          "haupt": true,
+          "artikel": "Gutenberg-Bibel",
+          "wikidata": "Q158075"
+        },
+        {
+          "titel": "Johannes Gutenberg",
+          "beschriftung": "Johannes Gutenberg",
+          "haupt": false,
+          "artikel": "Johannes Gutenberg",
+          "wikidata": "Q8958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "199",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-06-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "1200. Todestag des Bonifatius (ca. 672/675–754/755)",
+      "bild_beschreibung": "Missionar und Kirchenreformer, er wird auch als „Apostel der Deutschen“ bezeichnet",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1954 199 Bonifatius.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bonifatius",
+          "beschriftung": "Bonifatius",
+          "haupt": true,
+          "artikel": "Bonifatius",
+          "wikidata": "Q160445"
+        },
+        {
+          "titel": "Missionar",
+          "beschriftung": "Missionar",
+          "haupt": false,
+          "artikel": "Missionar",
+          "wikidata": "Q219477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "200",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-12-28",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Käthe Kollwitz (1867–1945); Künstlerin, sie fertigte Lithografien, Radierungen, Kupferstiche und Holzschnitte",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 3100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": true,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Künstler",
+          "beschriftung": "Künstler",
+          "haupt": false,
+          "artikel": "Künstler",
+          "wikidata": "Q483501"
+        },
+        {
+          "titel": "Lithografie",
+          "beschriftung": "Lithografie",
+          "haupt": false,
+          "artikel": "Lithografie",
+          "wikidata": "Q133036"
+        },
+        {
+          "titel": "Radierung",
+          "beschriftung": "Radierung",
+          "haupt": false,
+          "artikel": "Radierung",
+          "wikidata": "Q186986"
+        },
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": false,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "201",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-12-28",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Lorenz Werthmann (1858–1921); katholischer Priester und Sozialpolitiker, er war Gründer und erster Präsident des Deutschen Caritasverbandes",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 5300000,
+      "commons_datei": "DBP 1954 201 Werthmann.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lorenz Werthmann",
+          "beschriftung": "Lorenz Werthmann",
+          "haupt": true,
+          "artikel": "Lorenz Werthmann",
+          "wikidata": "Q1749106"
+        },
+        {
+          "titel": "Deutscher Caritasverband",
+          "beschriftung": "Deutschen Caritasverbandes",
+          "haupt": false,
+          "artikel": "Deutscher Caritasverband",
+          "wikidata": "Q29508174"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "202",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-12-28",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Johann Friedrich Oberlin (1740–1826); Pfarrer aus dem Elsass",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 3700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Friedrich Oberlin",
+          "beschriftung": "Johann Friedrich Oberlin",
+          "haupt": true,
+          "artikel": "Johann Friedrich Oberlin",
+          "wikidata": "Q1233467"
+        },
+        {
+          "titel": "Pfarrer",
+          "beschriftung": "Pfarrer",
+          "haupt": false,
+          "artikel": "Pfarrer",
+          "wikidata": "Q955464"
+        },
+        {
+          "titel": "Elsass",
+          "beschriftung": "Elsass",
+          "haupt": false,
+          "artikel": "Elsass",
+          "wikidata": "Q1142"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "203",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-12-28",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Bertha Pappenheim (1859–1936); Frauenrechtlerin, jüdische Sozialpionierin und Gründerin des Jüdischen Frauenbundes",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 1550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bertha Pappenheim",
+          "beschriftung": "Bertha Pappenheim",
+          "haupt": true,
+          "artikel": "Bertha Pappenheim",
+          "wikidata": "Q61178"
+        },
+        {
+          "titel": "Frauenbewegung",
+          "beschriftung": "Frauenrechtlerin",
+          "haupt": false,
+          "artikel": "Frauenbewegung",
+          "wikidata": "Q15580856"
+        },
+        {
+          "titel": "Judentum",
+          "beschriftung": "jüdische",
+          "haupt": false,
+          "artikel": "Judentum",
+          "wikidata": "Q9268"
+        },
+        {
+          "titel": "Jüdischer Frauenbund",
+          "beschriftung": "Jüdischen Frauenbundes",
+          "haupt": false,
+          "artikel": "Jüdischer Frauenbund",
+          "wikidata": "Q1668167"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "177",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 120430000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "178",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-01-31",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 1931515000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "179",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 356560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "180",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 146730000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "181",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-07-28",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 146730000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "182",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 93660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "183",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-01-31",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 3510250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "184",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 180610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "185",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 2571370000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "186",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 99000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "187",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-01-31",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 203300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "188",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 185350000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "189",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 106000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "190",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 231800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "191",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 34100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "192",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 74170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "193",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 59650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "194",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-04-01",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 34100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "195",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 74170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "196",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-06-15",
+      "wert": "3 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarkenserie: Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "kleines Format, Buchdruck, Werte von 2 bis 25 Pfennig; mittleres Format, Stichtiefdruck, Werte von 30 bis 90 Pfennig; großes Format, Stichtiefdruck, Werte von 1 bis 3 DM",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": 59650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss",
+          "haupt": true,
+          "artikel": "Bundespräsident Theodor Heuss (Briefmarkenserie)",
+          "wikidata": "Q1006519"
+        }
+      ]
+    }
+  ]
+}

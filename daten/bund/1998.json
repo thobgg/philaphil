@@ -1,0 +1,1619 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1998,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1998 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1998_der_Bundesrepublik_Deutschland",
+    "revision": 268057613,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1965,
+    "mi_nr_bis": 2026,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1965",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-01-22",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1100 Jahre Nördlingen",
+      "bild_beschreibung": "auch als Markenheftchen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nördlingen",
+          "beschriftung": "Nördlingen",
+          "haupt": true,
+          "artikel": "Nördlingen",
+          "wikidata": "Q489902"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1966",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-01-22",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Kloster Maulbronn",
+      "entwerfer": "Rolf Lederbogen",
+      "auflage": 20000000,
+      "commons_datei": "DPAG1998-Unesco-KlosterMaulbronn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kloster Maulbronn",
+          "beschriftung": "Kloster Maulbronn",
+          "haupt": true,
+          "artikel": "Kloster Maulbronn",
+          "wikidata": "Q157886"
+        },
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": false,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1967",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-01-22",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Brücken",
+      "bild_beschreibung": "Glienicker Brücke",
+      "entwerfer": "Rainer Blumenstein",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Glienicker Brücke",
+          "beschriftung": "Glienicker Brücke",
+          "haupt": true,
+          "artikel": "Glienicker Brücke",
+          "wikidata": "Q694708"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1968",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-02-05",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport 1998",
+      "bild_beschreibung": "Fußball-Weltmeisterschaft Frankreich",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 2800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball-Weltmeisterschaft 1998",
+          "beschriftung": "Fußball-Weltmeisterschaft Frankreich",
+          "haupt": true,
+          "artikel": "Fußball-Weltmeisterschaft 1998",
+          "wikidata": "Q101730"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1969",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-02-05",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport 1998",
+      "bild_beschreibung": "Olympische Winterspiele Nagano",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 2740000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 1998",
+          "beschriftung": "Olympische Winterspiele Nagano",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 1998",
+          "wikidata": "Q9664"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1970",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-02-05",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport 1998",
+      "bild_beschreibung": "Ruder-Weltmeisterschaften Köln-Fühlingen",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 2740000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ruder-Weltmeisterschaften 1998",
+          "beschriftung": "Ruder-Weltmeisterschaften Köln-Fühlingen",
+          "haupt": true,
+          "artikel": "Ruder-Weltmeisterschaften 1998",
+          "wikidata": "Q671242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1971",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-02-05",
+      "wert": "300+100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport 1998",
+      "bild_beschreibung": "Paralympics Nagano",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 2580000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Winter-Paralympics 1998",
+          "beschriftung": "Paralympics Nagano",
+          "haupt": true,
+          "artikel": "Winter-Paralympics 1998",
+          "wikidata": "Q1053466"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1972",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-02-05",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Bertolt Brecht",
+      "bild_beschreibung": "",
+      "entwerfer": "Jan Lenica",
+      "auflage": 58000000,
+      "commons_datei": "Brecht1.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bertolt Brecht",
+          "beschriftung": "Bertolt Brecht",
+          "haupt": true,
+          "artikel": "Bertolt Brecht",
+          "wikidata": "Q38757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1973",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-02-05",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Max-Planck-Gesellschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max-Planck-Gesellschaft",
+          "beschriftung": "Max-Planck-Gesellschaft",
+          "haupt": true,
+          "artikel": "Max-Planck-Gesellschaft",
+          "wikidata": "Q158085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1974",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-03-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Landtag von Baden-Württemberg, Stuttgart",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landtag von Baden-Württemberg",
+          "beschriftung": "Landtag von Baden-Württemberg",
+          "haupt": true,
+          "artikel": "Landtag von Baden-Württemberg",
+          "wikidata": "Q455697"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        },
+        {
+          "titel": "Landesparlamente in Deutschland",
+          "beschriftung": "Landesparlamente in Deutschland",
+          "haupt": false,
+          "artikel": "Landesparlamente in Deutschland",
+          "wikidata": "Q1802397"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1975",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-03-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Bayerischer Landtag, München",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bayerischer Landtag",
+          "beschriftung": "Bayerischer Landtag",
+          "haupt": true,
+          "artikel": "Bayerischer Landtag",
+          "wikidata": "Q641439"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Landesparlamente in Deutschland",
+          "beschriftung": "Landesparlamente in Deutschland",
+          "haupt": false,
+          "artikel": "Landesparlamente in Deutschland",
+          "wikidata": "Q1802397"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1976",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-03-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Abgeordnetenhaus von Berlin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Abgeordnetenhaus von Berlin",
+          "beschriftung": "Abgeordnetenhaus von Berlin",
+          "haupt": true,
+          "artikel": "Abgeordnetenhaus von Berlin",
+          "wikidata": "Q640859"
+        },
+        {
+          "titel": "Landesparlamente in Deutschland",
+          "beschriftung": "Landesparlamente in Deutschland",
+          "haupt": false,
+          "artikel": "Landesparlamente in Deutschland",
+          "wikidata": "Q1802397"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1977",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-03-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Landesparlamente in Deutschland",
+      "bild_beschreibung": "Landtag Brandenburg, Potsdam",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landtag Brandenburg",
+          "beschriftung": "Landtag Brandenburg",
+          "haupt": true,
+          "artikel": "Landtag Brandenburg",
+          "wikidata": "Q521764"
+        },
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Landesparlamente in Deutschland",
+          "beschriftung": "Landesparlamente in Deutschland",
+          "haupt": false,
+          "artikel": "Landesparlamente in Deutschland",
+          "wikidata": "Q1802397"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1978",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-03-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Bad Frankenhausen",
+      "bild_beschreibung": "",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bad Frankenhausen",
+          "beschriftung": "Bad Frankenhausen",
+          "haupt": true,
+          "artikel": "Bad Frankenhausen/Kyffhäuser",
+          "wikidata": "Q151876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1979",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-03-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Westfälischer Friede",
+      "bild_beschreibung": "",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Westfälischer Friede",
+          "beschriftung": "Westfälischer Friede",
+          "haupt": true,
+          "artikel": "Westfälischer Friede",
+          "wikidata": "Q150995"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1980",
+      "block": "Block 42",
+      "art": "Sondermarke",
+      "ausgabetag": "1998-04-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Für uns Kinder",
+      "bild_beschreibung": "Meerestiere",
+      "entwerfer": "Verena Schmidmaier",
+      "auflage": 16000000,
+      "commons_datei": "DPAG1998-04-16-FuerUnsKinder.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1981",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-04-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "900. Geburtstag Hildegard von Bingen",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 25000000,
+      "commons_datei": "DPAG1998-04-16-HildegardvonBingen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hildegard von Bingen",
+          "beschriftung": "Hildegard von Bingen",
+          "haupt": true,
+          "artikel": "Hildegard von Bingen",
+          "wikidata": "Q70991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1982",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-04-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Zisterzienserinnen-Abtei Sankt Marienstern",
+      "bild_beschreibung": "",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 50000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kloster St. Marienstern",
+          "beschriftung": "Zisterzienserinnen-Abtei Sankt Marienstern",
+          "haupt": true,
+          "artikel": "Kloster St. Marienstern",
+          "wikidata": "Q160713"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1983",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-04-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Markgräfliches Opernhaus Bayreuth",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 35000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Markgräfliches Opernhaus",
+          "beschriftung": "Markgräfliches Opernhaus",
+          "haupt": true,
+          "artikel": "Markgräfliches Opernhaus",
+          "wikidata": "Q278908"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1984",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-04-22",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tod von Ernst Jünger",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 26600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Jünger",
+          "beschriftung": "Ernst Jünger",
+          "haupt": true,
+          "artikel": "Ernst Jünger",
+          "wikidata": "Q76727"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1985",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-05-07",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa – Feste und Feiertage",
+      "bild_beschreibung": "Tag der Deutschen Einheit",
+      "entwerfer": "Jan Lenica",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Tag der Deutschen Einheit",
+          "beschriftung": "Tag der Deutschen Einheit",
+          "haupt": false,
+          "artikel": "Tag der Deutschen Einheit",
+          "wikidata": "Q157582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1986",
+      "block": "Block 43",
+      "art": "Sondermarke",
+      "ausgabetag": "1998-05-07",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock",
+      "bild_beschreibung": "50 Jahre Parlamentarischer Rat",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 8000000,
+      "commons_datei": "Stamp Germany 1998 MiNr1986 Parlamentarischer Rat.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Parlamentarischer Rat",
+          "beschriftung": "Parlamentarischer Rat",
+          "haupt": true,
+          "artikel": "Parlamentarischer Rat",
+          "wikidata": "Q566326"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1987",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-05-07",
+      "wert": "220",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock",
+      "bild_beschreibung": "150 Jahre Paulskirchenverfassung",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 8000000,
+      "commons_datei": "Stamp Germany 1998 MiNr1987 Paulskirchenverfassung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paulskirchenverfassung",
+          "beschriftung": "Paulskirchenverfassung",
+          "haupt": true,
+          "artikel": "Paulskirchenverfassung",
+          "wikidata": "Q695379"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1988",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-05-07",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutscher Landfrauenverband",
+      "bild_beschreibung": "",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 25100000,
+      "commons_datei": "Stamp Germany 1998 MiNr1988 Deutscher Landfrauenverband.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Landfrauenverband",
+          "beschriftung": "Deutscher Landfrauenverband",
+          "haupt": true,
+          "artikel": "Deutscher Landfrauenverband",
+          "wikidata": "Q1205059"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1989",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-05-07",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Umweltschutz",
+      "bild_beschreibung": "Schützt die Küsten und Meere",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2710000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1990",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Trickfilmfiguren",
+      "bild_beschreibung": "Die Sendung mit der Maus",
+      "entwerfer": "Erna de Vries",
+      "auflage": 3800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die Sendung mit der Maus",
+          "beschriftung": "Die Sendung mit der Maus",
+          "haupt": true,
+          "artikel": "Die Sendung mit der Maus",
+          "wikidata": "Q151788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1991",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Trickfilmfiguren",
+      "bild_beschreibung": "Unser Sandmännchen",
+      "entwerfer": "Erna de Vries",
+      "auflage": 3470000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unser Sandmännchen",
+          "beschriftung": "Unser Sandmännchen",
+          "haupt": true,
+          "artikel": "Unser Sandmännchen",
+          "wikidata": "Q615195"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1992",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-10",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Trickfilmfiguren",
+      "bild_beschreibung": "Die Biene Maja",
+      "entwerfer": "Erna de Vries",
+      "auflage": 3120000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biene Maja",
+          "beschriftung": "Biene Maja",
+          "haupt": true,
+          "artikel": "Biene Maja",
+          "wikidata": "Q752027"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1993",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-10",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Trickfilmfiguren",
+      "bild_beschreibung": "Käpt’n Blaubär",
+      "entwerfer": "Erna de Vries",
+      "auflage": 3300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käpt’n Blaubär",
+          "beschriftung": "Käpt’n Blaubär",
+          "haupt": true,
+          "artikel": "Käpt’n Blaubär",
+          "wikidata": "Q605591"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1994",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-10",
+      "wert": "220+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Trickfilmfiguren",
+      "bild_beschreibung": "Pumuckl",
+      "entwerfer": "Erna de Vries",
+      "auflage": 2900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pumuckl",
+          "beschriftung": "Pumuckl",
+          "haupt": true,
+          "artikel": "Meister Eder und sein Pumuckl",
+          "wikidata": "Q61989501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1995",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutsche Katholikentage",
+      "bild_beschreibung": "",
+      "entwerfer": "Lou Romboy",
+      "auflage": 25700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Deutsche Katholikentage",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1996",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-06-19",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsche Mark",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 25000000,
+      "commons_datei": "Stamp Germany 1998 MiNr1996 Deutsche Mark.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "1997",
+      "block": "Block 44",
+      "art": "Sondermarke",
+      "ausgabetag": "1998-07-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Deutsche National- und Naturparke – Nationalpark Sächsische Schweiz",
+      "bild_beschreibung": "Landschaft im Elbsandsteingebirge",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elbsandsteingebirge",
+          "beschriftung": "Elbsandsteingebirge",
+          "haupt": true,
+          "artikel": "Elbsandsteingebirge",
+          "wikidata": "Q315298"
+        },
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": false,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Nationalpark Sächsische Schweiz",
+          "beschriftung": "Nationalpark Sächsische Schweiz",
+          "haupt": false,
+          "artikel": "Nationalpark Sächsische Schweiz",
+          "wikidata": "Q702566"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1998",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-07-16",
+      "wert": "220",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Deutsche National- und Naturparke – Nationalpark Sächsische Schweiz",
+      "bild_beschreibung": "Landschaft im Elbsandsteingebirge",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elbsandsteingebirge",
+          "beschriftung": "Elbsandsteingebirge",
+          "haupt": true,
+          "artikel": "Elbsandsteingebirge",
+          "wikidata": "Q315298"
+        },
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": false,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Nationalpark Sächsische Schweiz",
+          "beschriftung": "Nationalpark Sächsische Schweiz",
+          "haupt": false,
+          "artikel": "Nationalpark Sächsische Schweiz",
+          "wikidata": "Q702566"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1999",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-07-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Über 1100 Jahre Hopfenanbau in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Echter Hopfen",
+          "beschriftung": "Hopfenanbau",
+          "haupt": true,
+          "artikel": "Echter Hopfen",
+          "wikidata": "Q104212"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2000",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-07-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Gründung der Europäischen Zentralbank in Frankfurt am Main",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europäische Zentralbank",
+          "beschriftung": "Europäischen Zentralbank",
+          "haupt": true,
+          "artikel": "Europäische Zentralbank",
+          "wikidata": "Q8901"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2001",
+      "block": "Block 45",
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Gläsersatz von Peter Behrens",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Peter Behrens",
+          "beschriftung": "Peter Behrens",
+          "haupt": true,
+          "artikel": "Peter Behrens",
+          "wikidata": "Q76726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2002",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Tee-Extrakt-Kännchen von Marianne Brandt",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marianne Brandt (Künstlerin)",
+          "beschriftung": "Marianne Brandt",
+          "haupt": true,
+          "artikel": "Marianne Brandt (Künstlerin)",
+          "wikidata": "Q456521"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2003",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Tischleuchte von Wilhelm Wagenfeld",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Wagenfeld",
+          "beschriftung": "Wilhelm Wagenfeld",
+          "haupt": true,
+          "artikel": "Wilhelm Wagenfeld",
+          "wikidata": "Q77378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2004",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Design in Deutschland",
+      "bild_beschreibung": "Wassily-Stuhl von Marcel Breuer",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marcel Breuer",
+          "beschriftung": "Marcel Breuer",
+          "haupt": true,
+          "artikel": "Marcel Breuer",
+          "wikidata": "Q57588"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2005",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Mathematiker-Kongress 1998 Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Norbert Höchtlen",
+      "auflage": 21000000,
+      "commons_datei": "Stamp Germany 1998 MiNr2005 Internationaler Mathematiker-Kongress.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationaler Mathematikerkongress",
+          "beschriftung": "Internationaler Mathematiker-Kongress",
+          "haupt": true,
+          "artikel": "Internationaler Mathematikerkongress",
+          "wikidata": "Q860611"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2006",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltnaturerbe der UNESCO",
+      "bild_beschreibung": "Grube Messel",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Grube Messel",
+          "beschriftung": "Grube Messel",
+          "haupt": true,
+          "artikel": "Grube Messel",
+          "wikidata": "Q639217"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2007",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Würzburger Residenz",
+      "entwerfer": "Xiao Yutian",
+      "auflage": 21000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Würzburger Residenz",
+          "beschriftung": "Würzburger Residenz",
+          "haupt": true,
+          "artikel": "Würzburger Residenz",
+          "wikidata": "Q156316"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2008",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-08-20",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Puning-Tempel in Chengde; Gemeinschaftsausgabe mit China",
+      "entwerfer": "Xiao Yutian",
+      "auflage": 21000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Puning-Tempel",
+          "beschriftung": "Puning-Tempel",
+          "haupt": true,
+          "artikel": "Puning-Tempel",
+          "wikidata": "Q188404"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Volksrepublik China",
+          "beschriftung": "China",
+          "haupt": false,
+          "artikel": "Volksrepublik China",
+          "wikidata": "Q148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2010",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-09-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutscher Fußballmeister 1998",
+      "bild_beschreibung": "1. FC Kaiserslautern",
+      "entwerfer": "Lutz Menze",
+      "auflage": 30600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "beschriftung": "Deutscher Fußballmeister",
+          "haupt": true,
+          "artikel": "Deutscher Fußballmeister (Briefmarkenserie)",
+          "wikidata": "Q1204881"
+        },
+        {
+          "titel": "1. FC Kaiserslautern",
+          "beschriftung": "1. FC Kaiserslautern",
+          "haupt": false,
+          "artikel": "1. FC Kaiserslautern",
+          "wikidata": "Q8466"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2011",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-09-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Franckesche Stiftungen zu Halle",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franckesche Stiftungen",
+          "beschriftung": "Franckesche Stiftungen",
+          "haupt": true,
+          "artikel": "Franckesche Stiftungen",
+          "wikidata": "Q276846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2012",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-09-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Manfred Hausmann",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 21000000,
+      "commons_datei": "Stamp Germany 1998 MiNr2012 Manfred Hausmann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Manfred Hausmann",
+          "beschriftung": "Manfred Hausmann",
+          "haupt": true,
+          "artikel": "Manfred Hausmann",
+          "wikidata": "Q106610"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2013",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-09-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Keine Gewalt gegen Kinder",
+      "bild_beschreibung": "",
+      "entwerfer": "Tobias Ottenfelt jr.",
+      "auflage": 20000000,
+      "commons_datei": "Stamp Germany 1998 MiNr2013 Keine Gewalt gegen Kinder.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2015",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bedrohte Vogelarten",
+      "bild_beschreibung": "Kornweihe",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 13270000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kornweihe",
+          "beschriftung": "Kornweihe",
+          "haupt": true,
+          "artikel": "Kornweihe",
+          "wikidata": "Q25572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2016",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bedrohte Vogelarten",
+      "bild_beschreibung": "Großtrappe",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 9900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großtrappe",
+          "beschriftung": "Großtrappe",
+          "haupt": true,
+          "artikel": "Großtrappe",
+          "wikidata": "Q171655"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2017",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bedrohte Vogelarten",
+      "bild_beschreibung": "Moorente",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 10040000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moorente",
+          "beschriftung": "Moorente",
+          "haupt": true,
+          "artikel": "Moorente",
+          "wikidata": "Q191723"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2018",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bedrohte Vogelarten",
+      "bild_beschreibung": "Seggenrohrsänger",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 10150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seggenrohrsänger",
+          "beschriftung": "Seggenrohrsänger",
+          "haupt": true,
+          "artikel": "Seggenrohrsänger",
+          "wikidata": "Q242599"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2019",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "220+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt – Bedrohte Vogelarten",
+      "bild_beschreibung": "Rotkopfwürger",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 5480000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotkopfwürger",
+          "beschriftung": "Rotkopfwürger",
+          "haupt": true,
+          "artikel": "Rotkopfwürger",
+          "wikidata": "Q235052"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2020",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Günther Ramin",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 50000000,
+      "commons_datei": "Stamp Germany 1998 MiNr2020 Günther Ramin.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Günther Ramin",
+          "beschriftung": "Günther Ramin",
+          "haupt": true,
+          "artikel": "Günther Ramin",
+          "wikidata": "Q518002"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2021",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Telefonseelsorge",
+      "bild_beschreibung": "",
+      "entwerfer": "Susanne Oesterlee",
+      "auflage": 20000000,
+      "commons_datei": "Stamp Germany 1998 MiNr2021 Telefonseelsorge.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2022",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Postjacht Hiorten",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Hiorten",
+          "beschriftung": "Hiorten",
+          "haupt": false,
+          "artikel": "Hiorten",
+          "wikidata": "Q1619906"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2023",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-11-12",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Besuch der Hirten",
+      "entwerfer": "Jan Lenica",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2024",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-11-12",
+      "wert": "110+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Geburt Christi",
+      "entwerfer": "Jan Lenica",
+      "auflage": 8280000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2025",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-11-12",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450 Jahre Sächsische Staatskapelle Dresden",
+      "bild_beschreibung": "",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 53300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sächsische Staatskapelle",
+          "beschriftung": "Sächsische Staatskapelle",
+          "haupt": true,
+          "artikel": "Sächsische Staatskapelle Dresden",
+          "wikidata": "Q584017"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2026",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1998-11-12",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Jahrestag Allgemeine Erklärung der Menschenrechte",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 19700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Allgemeine Erklärung der Menschenrechte",
+          "beschriftung": "Allgemeine Erklärung der Menschenrechte",
+          "haupt": true,
+          "artikel": "Allgemeine Erklärung der Menschenrechte",
+          "wikidata": "Q7813"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2009",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1998-09-10",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Expo 2000 Hannover",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 802329000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": true,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        },
+        {
+          "titel": "Expo 2000",
+          "beschriftung": "Expo 2000",
+          "haupt": false,
+          "artikel": "Expo 2000",
+          "wikidata": "Q734463"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2014",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1998-10-08",
+      "wert": "440",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Gret Palucca",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": true,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        },
+        {
+          "titel": "Gret Palucca",
+          "beschriftung": "Gret Palucca",
+          "haupt": false,
+          "artikel": "Gret Palucca",
+          "wikidata": "Q441984"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1744 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1975,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1975 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1975_der_Deutschen_Bundespost",
+    "revision": 259733852,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 826,
+    "mi_nr_bis": 874,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 35,
+    "sondermarken_laut_einleitung": 35
+  },
+  "marken": [
+    {
+      "mi_nr": "826",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Annette Kolb (1870–1967), Schriftstellerin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Annette Kolb",
+          "beschriftung": "Annette Kolb",
+          "haupt": true,
+          "artikel": "Annette Kolb",
+          "wikidata": "Q71112"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "827",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Ricarda Huch (1864–1947), Dichterin, Philosophin und Historikerin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ricarda Huch",
+          "beschriftung": "Ricarda Huch",
+          "haupt": true,
+          "artikel": "Ricarda Huch",
+          "wikidata": "Q60785"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "828",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Else Lasker-Schüler (1869–1945), Dichterin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Else Lasker-Schüler",
+          "beschriftung": "Else Lasker-Schüler",
+          "haupt": true,
+          "artikel": "Else Lasker-Schüler",
+          "wikidata": "Q58033"
+        }
+      ]
+    },
+    {
+      "mi_nr": "829",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende deutsche Frauen",
+      "bild_beschreibung": "Gertrud von Le Fort (1876–1971), Schriftstellerin",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 22200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gertrud von Le Fort",
+          "beschriftung": "Gertrud von Le Fort",
+          "haupt": true,
+          "artikel": "Gertrud von le Fort",
+          "wikidata": "Q62798"
+        }
+      ]
+    },
+    {
+      "mi_nr": "830",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Albert Schweitzer (1875–1965)",
+      "bild_beschreibung": "Theologe, Orgelkünstler, Musikforscher, Philosoph und Arzt",
+      "entwerfer": "Fritz Busse",
+      "auflage": 22250000,
+      "commons_datei": "DBP 1975 830 Albert Schweitzer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albert Schweitzer",
+          "beschriftung": "Albert Schweitzer",
+          "haupt": true,
+          "artikel": "Albert Schweitzer",
+          "wikidata": "Q49325"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Orgel",
+          "beschriftung": "Orgel",
+          "haupt": false,
+          "artikel": "Orgel",
+          "wikidata": "Q281460"
+        },
+        {
+          "titel": "Musik",
+          "beschriftung": "Musik",
+          "haupt": false,
+          "artikel": "Musik",
+          "wikidata": "Q638"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        }
+      ]
+    },
+    {
+      "mi_nr": "831",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-01-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Müttergenesungswerk",
+      "bild_beschreibung": "Zwei Mütter mit Kind und stilisierter Blume, dem Emblem des Müttergenesungswerks",
+      "entwerfer": "Heide Hölzing",
+      "auflage": 30900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Müttergenesungswerk",
+          "beschriftung": "Müttergenesungswerk",
+          "haupt": true,
+          "artikel": "Müttergenesungswerk",
+          "wikidata": "Q1959360"
+        }
+      ]
+    },
+    {
+      "mi_nr": "832",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Hans Böckler (1875–1951)",
+      "bild_beschreibung": "Politiker und Gewerkschaftsfunktionär",
+      "entwerfer": "Fritz Busse",
+      "auflage": 32450000,
+      "commons_datei": "DBP 1975 832 Hans Böckler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Böckler",
+          "beschriftung": "Hans Böckler",
+          "haupt": true,
+          "artikel": "Hans Böckler",
+          "wikidata": "Q105130"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Gewerkschaft",
+          "beschriftung": "Gewerkschaft",
+          "haupt": false,
+          "artikel": "Gewerkschaft",
+          "wikidata": "Q178790"
+        }
+      ]
+    },
+    {
+      "mi_nr": "833",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Michelangelo (1475–1564)",
+      "bild_beschreibung": "Maler, Bildhauer, Architekt und Dichter",
+      "entwerfer": "Fritz Fischer",
+      "auflage": 8300000,
+      "commons_datei": "DBP 1975 833 Michelangelo.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Michelangelo",
+          "beschriftung": "Michelangelo",
+          "haupt": true,
+          "artikel": "Michelangelo",
+          "wikidata": "Q5592"
+        },
+        {
+          "titel": "Maler",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Bildhauer",
+          "beschriftung": "Bildhauer",
+          "haupt": false,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        },
+        {
+          "titel": "Architekt",
+          "beschriftung": "Architekt",
+          "haupt": false,
+          "artikel": "Architekt",
+          "wikidata": "Q42973"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        }
+      ]
+    },
+    {
+      "mi_nr": "834",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heiliges Jahr",
+      "bild_beschreibung": "Grundriss des Petersdoms in Rom",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jubeljahr",
+          "beschriftung": "Heiliges Jahr",
+          "haupt": true,
+          "artikel": "Jubeljahr",
+          "wikidata": "Q838794"
+        },
+        {
+          "titel": "Grundriss",
+          "beschriftung": "Grundriss",
+          "haupt": false,
+          "artikel": "Grundriss",
+          "wikidata": "Q18965"
+        },
+        {
+          "titel": "Petersdom",
+          "beschriftung": "Petersdom",
+          "haupt": false,
+          "artikel": "Petersdom",
+          "wikidata": "Q12512"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        }
+      ]
+    },
+    {
+      "mi_nr": "835",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-02-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eishockey-Weltmeisterschaft 1975",
+      "bild_beschreibung": "Ausgetragen in München und Düsseldorf",
+      "entwerfer": "Erwin Poell",
+      "auflage": 31000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eishockey-Weltmeisterschaft 1975",
+          "beschriftung": "Eishockey-Weltmeisterschaft 1975",
+          "haupt": true,
+          "artikel": "Eishockey-Weltmeisterschaft 1975",
+          "wikidata": "Q663556"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Düsseldorf",
+          "beschriftung": "Düsseldorf",
+          "haupt": false,
+          "artikel": "Düsseldorf",
+          "wikidata": "Q1718"
+        }
+      ]
+    },
+    {
+      "mi_nr": "836",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Lokomotiven",
+      "bild_beschreibung": "Diesellokomotive DB-Baureihe 218",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5634000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diesellokomotive",
+          "beschriftung": "Diesellokomotive",
+          "haupt": true,
+          "artikel": "Diesellokomotive",
+          "wikidata": "Q34336"
+        },
+        {
+          "titel": "DB-Baureihe 218",
+          "beschriftung": "DB-Baureihe 218",
+          "haupt": false,
+          "artikel": "DB-Baureihe 218",
+          "wikidata": "Q564855"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "837",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Lokomotiven",
+      "bild_beschreibung": "Elektrolokomotive DB-Baureihe 103",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5685000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elektrolokomotive",
+          "beschriftung": "Elektrolokomotive",
+          "haupt": true,
+          "artikel": "Elektrolokomotive",
+          "wikidata": "Q625151"
+        },
+        {
+          "titel": "DB-Baureihe 103",
+          "beschriftung": "DB-Baureihe 103",
+          "haupt": false,
+          "artikel": "DB-Baureihe 103",
+          "wikidata": "Q388564"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "838",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Lokomotiven",
+      "bild_beschreibung": "Triebwagen DB-Baureihe 403",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5755000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Triebwagen",
+          "beschriftung": "Triebwagen",
+          "haupt": true,
+          "artikel": "Triebwagen",
+          "wikidata": "Q3959904"
+        },
+        {
+          "titel": "DB-Baureihe 403 (1973)",
+          "beschriftung": "DB-Baureihe 403",
+          "haupt": false,
+          "artikel": "DB-Baureihe 403 (1973)",
+          "wikidata": "Q458933"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "839",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Lokomotiven",
+      "bild_beschreibung": "Magnetschwebebahn Transrapid",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5483000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magnetschwebebahn",
+          "beschriftung": "Magnetschwebebahn",
+          "haupt": true,
+          "artikel": "Magnetschwebebahn",
+          "wikidata": "Q160047"
+        },
+        {
+          "titel": "Transrapid",
+          "beschriftung": "Transrapid",
+          "haupt": false,
+          "artikel": "Transrapid",
+          "wikidata": "Q157018"
+        },
+        {
+          "titel": "Lokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Lokomotive",
+          "wikidata": "Q93301"
+        }
+      ]
+    },
+    {
+      "mi_nr": "840",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Gemälde",
+      "bild_beschreibung": "Oskar Schlemmer, Konzentrische Gruppe",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 50000000,
+      "commons_datei": "DBP 1975 840 Europa Gemälde.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Oskar Schlemmer",
+          "beschriftung": "Oskar Schlemmer",
+          "haupt": true,
+          "artikel": "Oskar Schlemmer",
+          "wikidata": "Q458816"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "841",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-04-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Gemälde",
+      "bild_beschreibung": "Oskar Schlemmer, Bauhaustreppe",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 68900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bauhaustreppe",
+          "beschriftung": "Bauhaustreppe",
+          "haupt": true,
+          "artikel": "Bauhaustreppe",
+          "wikidata": "Q19884184"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "842",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Eduard Mörike (1804–1875)",
+      "bild_beschreibung": "Lyriker, Erzähler, Übersetzer und evangelischer Pfarrer",
+      "entwerfer": "Günter Jacki",
+      "auflage": 30,
+      "commons_datei": "DBP 1975 842 Eduard Mörike.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eduard Mörike",
+          "beschriftung": "Eduard Mörike",
+          "haupt": true,
+          "artikel": "Eduard Mörike",
+          "wikidata": "Q63699"
+        },
+        {
+          "titel": "Lyrik",
+          "beschriftung": "Lyrik",
+          "haupt": false,
+          "artikel": "Lyrik",
+          "wikidata": "Q182357"
+        },
+        {
+          "titel": "Erzähler",
+          "beschriftung": "Erzähler",
+          "haupt": false,
+          "artikel": "Erzähler",
+          "wikidata": "Q755070"
+        },
+        {
+          "titel": "Übersetzer",
+          "beschriftung": "Übersetzer",
+          "haupt": false,
+          "artikel": "Übersetzer",
+          "wikidata": "Q333634"
+        },
+        {
+          "titel": "Pfarrer",
+          "beschriftung": "Pfarrer",
+          "haupt": false,
+          "artikel": "Pfarrer",
+          "wikidata": "Q955464"
+        }
+      ]
+    },
+    {
+      "mi_nr": "843",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Jahrestag der Belagerung von Neuss durch Karl den Kühnen",
+      "bild_beschreibung": "Holzschnitt von 1477 der Belagerung von „Nuis“",
+      "entwerfer": "Carl Keidel",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1975 843 Belagerung von Neuss.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Neuss",
+          "beschriftung": "Neuss",
+          "haupt": true,
+          "artikel": "Neuss",
+          "wikidata": "Q2948"
+        },
+        {
+          "titel": "Karl der Kühne",
+          "beschriftung": "Karl den Kühnen",
+          "haupt": false,
+          "artikel": "Karl der Kühne",
+          "wikidata": "Q151120"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "844",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Landshuter Hochzeit von 1475",
+      "bild_beschreibung": "Ritter beim Lanzenstechen",
+      "entwerfer": "Beat Knoblauch",
+      "auflage": 32700000,
+      "commons_datei": "DBP 1975 844 Landshuter Hochzeit.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Landshuter Hochzeit",
+          "beschriftung": "Landshuter Hochzeit",
+          "haupt": true,
+          "artikel": "Landshuter Hochzeit",
+          "wikidata": "Q677406"
+        },
+        {
+          "titel": "Ritter",
+          "beschriftung": "Ritter",
+          "haupt": false,
+          "artikel": "Ritter",
+          "wikidata": "Q102083"
+        },
+        {
+          "titel": "Tjost",
+          "beschriftung": "Lanzenstechen",
+          "haupt": false,
+          "artikel": "Tjost",
+          "wikidata": "Q1413053"
+        }
+      ]
+    },
+    {
+      "mi_nr": "845",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Mainzer Dom",
+      "bild_beschreibung": "",
+      "entwerfer": "Otto Rohse",
+      "auflage": 31350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mainzer Dom",
+          "beschriftung": "Mainzer Dom",
+          "haupt": true,
+          "artikel": "Mainzer Dom",
+          "wikidata": "Q666960"
+        }
+      ]
+    },
+    {
+      "mi_nr": "860",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Denkmalschutzjahr",
+      "bild_beschreibung": "Alsfeld, Hauptmarkt und Rathaus",
+      "entwerfer": "Otto Rohse",
+      "auflage": 19600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alsfeld",
+          "beschriftung": "Alsfeld",
+          "haupt": true,
+          "artikel": "Alsfeld",
+          "wikidata": "Q488314"
+        },
+        {
+          "titel": "Rathaus Alsfeld",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Rathaus Alsfeld",
+          "wikidata": "Q1426164"
+        },
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Denkmalschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Denkmalschutzjahr",
+      "bild_beschreibung": "Rothenburg ob der Tauber, Siebersturm, Plönlein und Kobolzeller Tor",
+      "entwerfer": "Otto Rohse",
+      "auflage": 21150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rothenburg ob der Tauber",
+          "beschriftung": "Rothenburg ob der Tauber",
+          "haupt": true,
+          "artikel": "Rothenburg ob der Tauber",
+          "wikidata": "Q153494"
+        },
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Denkmalschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Denkmalschutzjahr",
+      "bild_beschreibung": "Trier, Steipe",
+      "entwerfer": "Otto Rohse",
+      "auflage": 18800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trier",
+          "beschriftung": "Trier",
+          "haupt": true,
+          "artikel": "Trier",
+          "wikidata": "Q3138"
+        },
+        {
+          "titel": "Steipe",
+          "beschriftung": "Steipe",
+          "haupt": false,
+          "artikel": "Steipe",
+          "wikidata": "Q997070"
+        },
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Denkmalschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "863",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Denkmalschutzjahr",
+      "bild_beschreibung": "Xanten, Stadtansicht",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Xanten",
+          "beschriftung": "Xanten",
+          "haupt": true,
+          "artikel": "Xanten",
+          "wikidata": "Q162890"
+        },
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Denkmalschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        }
+      ]
+    },
+    {
+      "mi_nr": "864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kampf dem Drogenmissbrauch",
+      "bild_beschreibung": "3 Stufen der Abhängigkeitssteigerung",
+      "entwerfer": "Klaus-Peter Spreen",
+      "auflage": 31700000,
+      "commons_datei": "DBP 1975 864 Drogenmissbrauch.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Abhängigkeitssyndrom",
+          "beschriftung": "Drogenmissbrauch",
+          "haupt": true,
+          "artikel": "Abhängigkeit von psychoaktiven Substanzen",
+          "wikidata": "Q3378593"
+        }
+      ]
+    },
+    {
+      "mi_nr": "865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Matthias Erzberger (1875–1921)",
+      "bild_beschreibung": "Schriftsteller und Politiker",
+      "entwerfer": "Fritz Busse",
+      "auflage": 31700000,
+      "commons_datei": "DBP 1975 865 Matthias Erzberger.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Matthias Erzberger",
+          "beschriftung": "Matthias Erzberger",
+          "haupt": true,
+          "artikel": "Matthias Erzberger",
+          "wikidata": "Q57755"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Posthausschild Königlich Preußische Posthalterei von 1776",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 31486000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußische",
+          "haupt": false,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "Posthalter",
+          "beschriftung": "Posthalter",
+          "haupt": false,
+          "artikel": "Posthalter",
+          "wikidata": "Q2106113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Alpenblumen",
+      "bild_beschreibung": "Edelweiß, Leontopodium alpinum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9449000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpen-Edelweiß",
+          "beschriftung": "Edelweiß",
+          "haupt": true,
+          "artikel": "Alpen-Edelweiß",
+          "wikidata": "Q178265"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Alpenblumen",
+      "bild_beschreibung": "Trollblume, Trollius europaeus",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 10987000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trollblume",
+          "beschriftung": "Trollblume",
+          "haupt": true,
+          "artikel": "Trollblume",
+          "wikidata": "Q161636"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Alpenblumen",
+      "bild_beschreibung": "Rostblättrige Alpenrose, Rhododendron ferrugineum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 14927000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rostblättrige Alpenrose",
+          "beschriftung": "Rostblättrige Alpenrose",
+          "haupt": true,
+          "artikel": "Rostblättrige Alpenrose",
+          "wikidata": "Q1341190"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Alpenblumen",
+      "bild_beschreibung": "Gewöhnliche Kuhschelle, Pulsatilla vulgaris",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6964000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewöhnliche Kuhschelle",
+          "beschriftung": "Gewöhnliche Kuhschelle",
+          "haupt": true,
+          "artikel": "Gewöhnliche Kuhschelle",
+          "wikidata": "Q148623"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "871",
+      "block": "Block 11",
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Friedensnobelpreisträger",
+      "bild_beschreibung": "Gustav Stresemann, (1878–1929)",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 12330000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gustav Stresemann",
+          "beschriftung": "Gustav Stresemann",
+          "haupt": true,
+          "artikel": "Gustav Stresemann",
+          "wikidata": "Q103955"
+        },
+        {
+          "titel": "Liste der Friedensnobelpreisträger",
+          "beschriftung": "Friedensnobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der Friedensnobelpreisträger",
+          "wikidata": "Q643610"
+        }
+      ]
+    },
+    {
+      "mi_nr": "872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Friedensnobelpreisträger",
+      "bild_beschreibung": "Ludwig Quidde, (1858–1941)",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 12330000,
+      "commons_datei": "DBP - Nobelpreisträger, Ludwig Quidde - 50 Pfennig - 1975.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig Quidde",
+          "beschriftung": "Ludwig Quidde",
+          "haupt": true,
+          "artikel": "Ludwig Quidde",
+          "wikidata": "Q76696"
+        },
+        {
+          "titel": "Liste der Friedensnobelpreisträger",
+          "beschriftung": "Friedensnobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der Friedensnobelpreisträger",
+          "wikidata": "Q643610"
+        }
+      ]
+    },
+    {
+      "mi_nr": "873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Deutsche Friedensnobelpreisträger",
+      "bild_beschreibung": "Carl von Ossietzky, (1889–1938)",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 12330000,
+      "commons_datei": "DBP - Nobelpreisträger, Carl von Ossietzky - 50 Pfennig - 1975.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl von Ossietzky",
+          "beschriftung": "Carl von Ossietzky",
+          "haupt": true,
+          "artikel": "Carl von Ossietzky",
+          "wikidata": "Q76358"
+        },
+        {
+          "titel": "Liste der Friedensnobelpreisträger",
+          "beschriftung": "Friedensnobelpreisträger",
+          "haupt": false,
+          "artikel": "Liste der Friedensnobelpreisträger",
+          "wikidata": "Q643610"
+        }
+      ]
+    },
+    {
+      "mi_nr": "874",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Schnee- oder Christrose, Helleborus niger",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8304000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schneerose",
+          "beschriftung": "Schnee- oder Christrose",
+          "haupt": true,
+          "artikel": "Schneerose",
+          "wikidata": "Q147834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "846",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Nachrichtensatellit (Symphonie)",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 57600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kommunikationssatellit",
+          "beschriftung": "Nachrichtensatellit",
+          "haupt": true,
+          "artikel": "Kommunikationssatellit",
+          "wikidata": "Q149918"
+        },
+        {
+          "titel": "Symphonie (Satellit)",
+          "beschriftung": "Symphonie",
+          "haupt": false,
+          "artikel": "Symphonie (Satellit)",
+          "wikidata": "Q291270"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "847",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Nahverkehrstriebzug ET 420/421",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 2170000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DB-Baureihe 420",
+          "beschriftung": "Nahverkehrstriebzug ET 420/421",
+          "haupt": true,
+          "artikel": "DB-Baureihe 420",
+          "wikidata": "Q834170"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "848",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1976-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Leuchtturm Alte Weser",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 903000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm",
+          "beschriftung": "Leuchtturm",
+          "haupt": true,
+          "artikel": "Leuchtturm",
+          "wikidata": "Q39715"
+        },
+        {
+          "titel": "Alte Weser",
+          "beschriftung": "Alte Weser",
+          "haupt": false,
+          "artikel": "Alte Weser",
+          "wikidata": "Q436392"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "849",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Rettungshubschrauber (Bölkow Bo 105)",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 1055000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rettungshubschrauber",
+          "beschriftung": "Rettungshubschrauber",
+          "haupt": true,
+          "artikel": "Rettungshubschrauber",
+          "wikidata": "Q2146417"
+        },
+        {
+          "titel": "Bölkow Bo 105",
+          "beschriftung": "Bölkow Bo 105",
+          "haupt": false,
+          "artikel": "Bölkow Bo 105",
+          "wikidata": "Q835768"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "850",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Weltraumlabor Spacelab im Space Shuttle",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 2132000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spacelab",
+          "beschriftung": "Weltraumlabor Spacelab",
+          "haupt": true,
+          "artikel": "Spacelab",
+          "wikidata": "Q166008"
+        },
+        {
+          "titel": "Space Shuttle",
+          "beschriftung": "Space Shuttle",
+          "haupt": false,
+          "artikel": "Space Shuttle",
+          "wikidata": "Q48806"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "851",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Erdfunkstelle Raisting",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 4315000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erdfunkstelle Raisting",
+          "beschriftung": "Erdfunkstelle Raisting",
+          "haupt": true,
+          "artikel": "Erdfunkstelle Raisting",
+          "wikidata": "Q324125"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "852",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-08-14",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Schiffbau",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 505000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiffbau",
+          "beschriftung": "Schiffbau",
+          "haupt": true,
+          "artikel": "Schiffbau",
+          "wikidata": "Q474200"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "853",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Traktor (Massey Ferguson MF 1200)",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 3190000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": true,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "Massey Ferguson",
+          "beschriftung": "Massey Ferguson",
+          "haupt": false,
+          "artikel": "Massey Ferguson",
+          "wikidata": "Q579509"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "854",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-05-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Braunkohlebagger",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 1070000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schaufelradbagger",
+          "beschriftung": "Braunkohlebagger",
+          "haupt": true,
+          "artikel": "Schaufelradbagger",
+          "wikidata": "Q278222"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "855",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Anlage zur Styrolherstellung",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 117000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Styrol",
+          "beschriftung": "Anlage zur Styrolherstellung",
+          "haupt": true,
+          "artikel": "Styrol",
+          "wikidata": "Q28917"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "856",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Heizkraftwerk Berlin-Lichterfelde",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 196000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heizkraftwerk",
+          "beschriftung": "Heizkraftwerk",
+          "haupt": true,
+          "artikel": "Heizkraftwerk",
+          "wikidata": "Q1601458"
+        },
+        {
+          "titel": "Kraftwerk Berlin-Lichterfelde",
+          "beschriftung": "Berlin-Lichterfelde",
+          "haupt": false,
+          "artikel": "Heizkraftwerk Lichterfelde",
+          "wikidata": "Q1786061"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "857",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-10-15",
+      "wert": "160",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Hochofen Rheinhausen",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 70000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochofen",
+          "beschriftung": "Hochofen",
+          "haupt": true,
+          "artikel": "Hochofen",
+          "wikidata": "Q181485"
+        },
+        {
+          "titel": "Hütten- und Bergwerke Rheinhausen",
+          "beschriftung": "Rheinhausen",
+          "haupt": false,
+          "artikel": "Hütten- und Bergwerke Rheinhausen",
+          "wikidata": "Q1652555"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "858",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1975-11-14",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Bohrinsel",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 374000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bohrplattform",
+          "beschriftung": "Bohrinsel",
+          "haupt": true,
+          "artikel": "Bohrinsel",
+          "wikidata": "Q689880"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "859",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1976-02-17",
+      "wert": "500",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Radioteleskop Effelsberg",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 143000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radioteleskop Effelsberg",
+          "beschriftung": "Radioteleskop Effelsberg",
+          "haupt": true,
+          "artikel": "Radioteleskop Effelsberg",
+          "wikidata": "Q705139"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    }
+  ]
+}

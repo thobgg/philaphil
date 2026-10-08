@@ -1,0 +1,2062 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1993,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1993 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1993_der_Deutschen_Bundespost",
+    "revision": 259740215,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1645,
+    "mi_nr_bis": 1708,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 60,
+    "sondermarken_laut_einleitung": 60
+  },
+  "marken": [
+    {
+      "mi_nr": "1645",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-01-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Münster",
+      "bild_beschreibung": "St.-Paulus-Dom, Überwasserkirche und weitere Gebäude aus Münster",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 24840000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Münster",
+          "beschriftung": "Münster",
+          "haupt": true,
+          "artikel": "Münster",
+          "wikidata": "Q2742"
+        },
+        {
+          "titel": "St.-Paulus-Dom",
+          "beschriftung": "St.-Paulus-Dom",
+          "haupt": false,
+          "artikel": "St.-Paulus-Dom (Münster)",
+          "wikidata": "Q708532"
+        },
+        {
+          "titel": "Überwasserkirche",
+          "beschriftung": "Überwasserkirche",
+          "haupt": false,
+          "artikel": "Überwasserkirche",
+          "wikidata": "Q334442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1646",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-01-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350. Geburtstag von Isaac Newton (1643–1727)",
+      "bild_beschreibung": "Porträt vor seiner Skizze zur Untersuchung der Lichtbrechung, zweites Newtonsches Axiom",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 22350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Isaac Newton",
+          "beschriftung": "Isaac Newton",
+          "haupt": true,
+          "artikel": "Isaac Newton",
+          "wikidata": "Q935"
+        },
+        {
+          "titel": "Brechung (Physik)",
+          "beschriftung": "Lichtbrechung",
+          "haupt": false,
+          "artikel": "Brechung (Physik)",
+          "wikidata": "Q72277"
+        },
+        {
+          "titel": "Newtonsche Axiome",
+          "beschriftung": "zweites Newtonsches Axiom",
+          "haupt": false,
+          "artikel": "Newtonsche Gesetze",
+          "wikidata": "Q38433"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1647",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-01-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Norddeutsche Seewarte, Hamburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Helmut Langer und Marina Langer-Rosa",
+      "auflage": 25401000,
+      "commons_datei": "DBP 1993 1647 Norddeutsche Seewarte, Hamburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Seewarte",
+          "beschriftung": "Norddeutsche Seewarte",
+          "haupt": true,
+          "artikel": "Deutsche Seewarte",
+          "wikidata": "Q1204135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1648",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-01-14",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Verband deutscher Elektrotechniker",
+      "bild_beschreibung": "Hausumriss mit Stromkabel und Steckdose",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 17860000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Verband der Elektrotechnik, Elektronik und Informationstechnik",
+          "beschriftung": "Verband deutscher Elektrotechniker",
+          "haupt": true,
+          "artikel": "VDE Verband der Elektrotechnik Elektronik Informationstechnik",
+          "wikidata": "Q370439"
+        },
+        {
+          "titel": "PEN-Leiter",
+          "beschriftung": "Stromkabel",
+          "haupt": false,
+          "artikel": "PEN-Leiter",
+          "wikidata": "Q1541785"
+        },
+        {
+          "titel": "Steckdose",
+          "beschriftung": "Steckdose",
+          "haupt": false,
+          "artikel": "Steckdose",
+          "wikidata": "Q215292"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1649",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-01-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Jahr Sicherheit und Gesundheitsschutz am Arbeitsplatz",
+      "bild_beschreibung": "Emblem, sowie links und rechts schwarz-gelbes Sicherheitsband",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 22110000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europäisches Jahr",
+          "beschriftung": "Europäisches Jahr",
+          "haupt": true,
+          "artikel": "Europäisches Jahr",
+          "wikidata": "Q25036877"
+        },
+        {
+          "titel": "Europäische Agentur für Sicherheit und Gesundheitsschutz am Arbeitsplatz",
+          "beschriftung": "Sicherheit und Gesundheitsschutz am Arbeitsplatz",
+          "haupt": false,
+          "artikel": "Europäische Agentur für Sicherheit und Gesundheitsschutz am Arbeitsplatz",
+          "wikidata": "Q571118"
+        },
+        {
+          "titel": "Absperrband",
+          "beschriftung": "Sicherheitsband",
+          "haupt": false,
+          "artikel": "Absperrband",
+          "wikidata": "Q332910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1650",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-02-11",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sportstätten in Deutschland",
+      "bild_beschreibung": "Olympiaschanze in Garmisch-Partenkirchen",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3320000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Große Olympiaschanze",
+          "beschriftung": "Olympiaschanze",
+          "haupt": true,
+          "artikel": "Große Olympiaschanze",
+          "wikidata": "Q669932"
+        },
+        {
+          "titel": "Garmisch-Partenkirchen",
+          "beschriftung": "Garmisch-Partenkirchen",
+          "haupt": false,
+          "artikel": "Garmisch-Partenkirchen",
+          "wikidata": "Q127043"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1651",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-02-11",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sportstätten in Deutschland",
+      "bild_beschreibung": "Olympiapark in München",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3407000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympiapark (München)",
+          "beschriftung": "Olympiapark",
+          "haupt": true,
+          "artikel": "Olympiapark (München)",
+          "wikidata": "Q383296"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1652",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-02-11",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sportstätten in Deutschland",
+      "bild_beschreibung": "Olympiastadion Berlin",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3570000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympiastadion Berlin",
+          "beschriftung": "Olympiastadion Berlin",
+          "haupt": true,
+          "artikel": "Olympiastadion Berlin",
+          "wikidata": "Q151374"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1653",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-02-11",
+      "wert": "170+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sportstätten in Deutschland",
+      "bild_beschreibung": "Olympiahafen Kiel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3270000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kiel",
+          "beschriftung": "Kiel",
+          "haupt": true,
+          "artikel": "Kiel",
+          "wikidata": "Q1707"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1654",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-02-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Gewandhausorchester Leipzig",
+      "bild_beschreibung": "stilisierte Tonschwingung",
+      "entwerfer": "Wunderlich",
+      "auflage": 24975000,
+      "commons_datei": "DBP 1993 1654 Gewandhausorchester Leipzig.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gewandhausorchester",
+          "beschriftung": "Gewandhausorchester",
+          "haupt": true,
+          "artikel": "Gewandhausorchester",
+          "wikidata": "Q156515"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1655",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-03-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "600. Todestag von Johannes Nepomuk (um 1350–1393)",
+      "bild_beschreibung": "Statue von 1693 auf der Karlsbrücke in Prag;; Gemeinschaftsausgabe mit Tschechien und der Slowakei",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 24980000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes Nepomuk",
+          "beschriftung": "Johannes Nepomuk",
+          "haupt": true,
+          "artikel": "Johannes Nepomuk",
+          "wikidata": "Q221522"
+        },
+        {
+          "titel": "Karlsbrücke",
+          "beschriftung": "Karlsbrücke",
+          "haupt": false,
+          "artikel": "Karlsbrücke",
+          "wikidata": "Q204871"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Tschechien",
+          "beschriftung": "Tschechien",
+          "haupt": false,
+          "artikel": "Tschechien",
+          "wikidata": "Q213"
+        },
+        {
+          "titel": "Slowakei",
+          "beschriftung": "Slowakei",
+          "haupt": false,
+          "artikel": "Slowakei",
+          "wikidata": "Q214"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1656",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-03-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "George Grosz, Café",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 24150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "George Grosz",
+          "beschriftung": "George Grosz",
+          "haupt": true,
+          "artikel": "George Grosz",
+          "wikidata": "Q107194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1657",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-03-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "Otto Pankok, Meer und Sonne",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 23980000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Pankok",
+          "beschriftung": "Otto Pankok",
+          "haupt": true,
+          "artikel": "Otto Pankok",
+          "wikidata": "Q564128"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1658",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-03-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Malerei des 20. Jahrhunderts",
+      "bild_beschreibung": "A. Paul Weber, Publikum",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 24100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "A. Paul Weber",
+          "beschriftung": "A. Paul Weber",
+          "haupt": true,
+          "artikel": "A. Paul Weber",
+          "wikidata": "Q18230"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1659",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-03-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Neue Postleitzahlen",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 35800000,
+      "commons_datei": "DBP 1993 1659 Neue Postleitzahlen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Postleitzahl (Deutschland)",
+          "beschriftung": "Postleitzahlen",
+          "haupt": true,
+          "artikel": "Postleitzahl (Deutschland)",
+          "wikidata": "Q660464"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1660",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-03-11",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Landeswappen Hessen",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 24350000,
+      "commons_datei": "DBP 1993 1660 Wappen Hessen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen Hessen",
+          "beschriftung": "Landeswappen Hessen",
+          "haupt": true,
+          "artikel": "Landeswappen Hessens",
+          "wikidata": "Q329186"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1661",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-06-17",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Mecklenburg-Vorpommerns",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 8100000,
+      "commons_datei": "DBP 1993 1661 Wappen Mecklenburg-Vorpommern.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Mecklenburg-Vorpommerns",
+          "beschriftung": "Wappen Mecklenburg-Vorpommerns",
+          "haupt": true,
+          "artikel": "Wappen Mecklenburg-Vorpommerns",
+          "wikidata": "Q470580"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1662",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-07-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Niedersachsens",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 23235000,
+      "commons_datei": "DBP 1993 1662 Wappen Niedersachsen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sachsenross",
+          "beschriftung": "Wappen Niedersachsens",
+          "haupt": true,
+          "artikel": "Sachsenross",
+          "wikidata": "Q572331"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1663",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-08-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wappen Nordrhein-Westfalens",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 23800000,
+      "commons_datei": "DBP 1993 1663 Wappen Nordrhein-Westfalen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Nordrhein-Westfalens",
+          "beschriftung": "Wappen Nordrhein-Westfalens",
+          "haupt": true,
+          "artikel": "Wappen Nordrhein-Westfalens",
+          "wikidata": "Q470555"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1664",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-09-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wappen der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Landeswappen von Rheinland-Pfalz",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 24730000,
+      "commons_datei": "DBP 1993 1664 Wappen Rheinland-Pfalz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen von Rheinland-Pfalz",
+          "beschriftung": "Landeswappen von Rheinland-Pfalz",
+          "haupt": true,
+          "artikel": "Landeswappen von Rheinland-Pfalz",
+          "wikidata": "Q555025"
+        },
+        {
+          "titel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Wappen der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Wappen der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1646211"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1666",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Käfer",
+      "bild_beschreibung": "Alpenbock Rosalia alpina",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3120000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpenbock",
+          "beschriftung": "Alpenbock",
+          "haupt": true,
+          "artikel": "Alpenbock",
+          "wikidata": "Q839571"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1667",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Käfer",
+      "bild_beschreibung": "Goldglänzender Rosenkäfer Cetonia aurata",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3116000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldglänzender Rosenkäfer",
+          "beschriftung": "Goldglänzender Rosenkäfer",
+          "haupt": true,
+          "artikel": "Goldglänzender Rosenkäfer",
+          "wikidata": "Q731970"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1668",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Käfer",
+      "bild_beschreibung": "Hirschkäfer Lucanus cervus",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3144000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hirschkäfer",
+          "beschriftung": "Hirschkäfer",
+          "haupt": true,
+          "artikel": "Hirschkäfer",
+          "wikidata": "Q190491"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1669",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Käfer",
+      "bild_beschreibung": "Feld-Sandlaufkäfer Cicindela campestris",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3141000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feld-Sandlaufkäfer",
+          "beschriftung": "Feld-Sandlaufkäfer",
+          "haupt": true,
+          "artikel": "Feld-Sandlaufkäfer",
+          "wikidata": "Q717055"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1670",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "200+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Käfer",
+      "bild_beschreibung": "Feldmaikäfer Melolontha melolontha",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 3090000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldmaikäfer",
+          "beschriftung": "Feldmaikäfer",
+          "haupt": true,
+          "artikel": "Feldmaikäfer",
+          "wikidata": "Q28175"
+        },
+        {
+          "titel": "Käfer",
+          "beschriftung": "Käfer",
+          "haupt": false,
+          "artikel": "Käfer",
+          "wikidata": "Q22671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1671",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "900 Jahre Benediktinerabteien Maria Laach und Bursfelde",
+      "bild_beschreibung": "",
+      "entwerfer": "Otto Rohse",
+      "auflage": 25622000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Abtei Maria Laach",
+          "beschriftung": "Maria Laach",
+          "haupt": true,
+          "artikel": "Abtei Maria Laach",
+          "wikidata": "Q334032"
+        },
+        {
+          "titel": "Kloster Bursfelde",
+          "beschriftung": "Bursfelde",
+          "haupt": false,
+          "artikel": "Kloster Bursfelde",
+          "wikidata": "Q1775099"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1672",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Gartenbauausstellung in Stuttgart",
+      "bild_beschreibung": "",
+      "entwerfer": "Silvia Runge",
+      "auflage": 23960000,
+      "commons_datei": "DBP 1993 1672 IGA 93 Stuttgart.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Gartenschau",
+          "beschriftung": "Internationale Gartenbauausstellung",
+          "haupt": true,
+          "artikel": "Internationale Gartenbauausstellung",
+          "wikidata": "Q154012"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1673",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Zeitgenössische Kunst",
+      "bild_beschreibung": "Joseph Beuys, Lagerplatz: Vitrine",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 59700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Joseph Beuys",
+          "beschriftung": "Joseph Beuys",
+          "haupt": true,
+          "artikel": "Joseph Beuys",
+          "wikidata": "Q153965"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Zeitgenössische Kunst",
+          "beschriftung": "Zeitgenössische Kunst",
+          "haupt": false,
+          "artikel": "Zeitgenössische Kunst",
+          "wikidata": "Q186030"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1674",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Zeitgenössische Kunst",
+      "bild_beschreibung": "Josef Albers, Ehrung des Quadrats",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 50400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Josef Albers",
+          "beschriftung": "Josef Albers",
+          "haupt": true,
+          "artikel": "Josef Albers",
+          "wikidata": "Q170071"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Zeitgenössische Kunst",
+          "beschriftung": "Zeitgenössische Kunst",
+          "haupt": false,
+          "artikel": "Zeitgenössische Kunst",
+          "wikidata": "Q186030"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1675",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "450 Jahre Landesschule Pforta",
+      "bild_beschreibung": "Kirche des ehemaligen Zisterzienserklosters St. Marien",
+      "entwerfer": "Karin Blume-Zander und André Zander",
+      "auflage": 24175000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Landesschule Pforta",
+          "beschriftung": "Landesschule Pforta",
+          "haupt": true,
+          "artikel": "Landesschule Pforta",
+          "wikidata": "Q162494"
+        },
+        {
+          "titel": "Zisterzienserabtei Pforta",
+          "beschriftung": "Zisterzienserklosters St. Marien",
+          "haupt": false,
+          "artikel": "Kloster Pforte",
+          "wikidata": "Q206083"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1676",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Coburger Convent",
+      "bild_beschreibung": "Veste Coburg, Stadthaus, Studenten und das farbige Band des Convents",
+      "entwerfer": "Paul Effert",
+      "auflage": 21790000,
+      "commons_datei": "DBP 1993 1676 Coburger Convent.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Coburger Convent",
+          "beschriftung": "Coburger Convent",
+          "haupt": true,
+          "artikel": "Coburger Convent",
+          "wikidata": "Q1104813"
+        },
+        {
+          "titel": "Veste Coburg",
+          "beschriftung": "Veste Coburg",
+          "haupt": false,
+          "artikel": "Veste Coburg",
+          "wikidata": "Q561923"
+        },
+        {
+          "titel": "Stadthaus (Coburg)",
+          "beschriftung": "Stadthaus",
+          "haupt": false,
+          "artikel": "Stadthaus (Coburg)",
+          "wikidata": "Q2327276"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1677",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Galopprennbahn Hoppegarten",
+      "bild_beschreibung": "Galopprennen und Zuschauer",
+      "entwerfer": "Detlef Glinski",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Galopprennbahn Hoppegarten",
+          "beschriftung": "Galopprennbahn Hoppegarten",
+          "haupt": true,
+          "artikel": "Galopprennbahn Hoppegarten",
+          "wikidata": "Q1492695"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1678",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-05-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Euregio Bodensee",
+      "bild_beschreibung": "Schaufelraddampfer Hohentwiel und die Flaggen von Deutschland, Österreich und der Schweiz;; Gemeinschaftsausgabe mit Österreich und der Schweiz",
+      "entwerfer": "Arnold Wittmer",
+      "auflage": 26860000,
+      "commons_datei": "DBP 1993 1678 Euregio Bodensee.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Euregio Bodensee",
+          "beschriftung": "Euregio Bodensee",
+          "haupt": true,
+          "artikel": "Euregio Bodensee",
+          "wikidata": "Q1374324"
+        },
+        {
+          "titel": "Raddampfer",
+          "beschriftung": "Schaufelraddampfer",
+          "haupt": false,
+          "artikel": "Raddampfer",
+          "wikidata": "Q1121471"
+        },
+        {
+          "titel": "Hohentwiel (Schiff)",
+          "beschriftung": "Hohentwiel",
+          "haupt": false,
+          "artikel": "Hohentwiel (Schiff)",
+          "wikidata": "Q1494526"
+        },
+        {
+          "titel": "Österreich",
+          "beschriftung": "Österreich",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Schweiz",
+          "beschriftung": "Schweiz",
+          "haupt": false,
+          "artikel": "Schweiz",
+          "wikidata": "Q39"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1680",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-06-17",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Potsdam",
+      "bild_beschreibung": "Gemälde von Ferdinand von Arnim, St. Nikolai und Alter Markt",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 24320000,
+      "commons_datei": "DBP 1993 1680 Potsdam.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": true,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Ferdinand von Arnim (Architekt)",
+          "beschriftung": "Ferdinand von Arnim",
+          "haupt": false,
+          "artikel": "Ferdinand von Arnim (Architekt)",
+          "wikidata": "Q66481"
+        },
+        {
+          "titel": "St. Nikolai (Potsdam)",
+          "beschriftung": "St. Nikolai",
+          "haupt": false,
+          "artikel": "St. Nikolai (Potsdam)",
+          "wikidata": "Q573737"
+        },
+        {
+          "titel": "Alter Markt (Potsdam)",
+          "beschriftung": "Alter Markt",
+          "haupt": false,
+          "artikel": "Alter Markt (Potsdam)",
+          "wikidata": "Q438091"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1681",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-06-17",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Friedrich Hölderlin (1770–1843)",
+      "bild_beschreibung": "",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 21440000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Hölderlin",
+          "beschriftung": "Friedrich Hölderlin",
+          "haupt": true,
+          "artikel": "Friedrich Hölderlin",
+          "wikidata": "Q75889"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1682",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-06-17",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Deutsches Komitee für UNICEF",
+      "bild_beschreibung": "Zwei Kinder und Inschrift; Wenn Menschen bis auf den Mond fliegen können, warum können sie dann nichts dagegen tun, daß so viele Kinder auf der Welt sterben müssen?",
+      "entwerfer": "Vera Braesecke-Kaul",
+      "auflage": 27580000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "UNICEF",
+          "beschriftung": "UNICEF",
+          "haupt": true,
+          "artikel": "UNICEF",
+          "wikidata": "Q740308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1683",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-07-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Hans Fallada (1893–1947)",
+      "bild_beschreibung": "Porträtzeichnung von e.o.plauen",
+      "entwerfer": "Peter Nitzsche",
+      "auflage": 25000000,
+      "commons_datei": "DBP 1993 1683 Hans Fallada.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Fallada",
+          "beschriftung": "Hans Fallada",
+          "haupt": true,
+          "artikel": "Hans Fallada",
+          "wikidata": "Q76539"
+        },
+        {
+          "titel": "e.o.plauen",
+          "beschriftung": "e.o.plauen",
+          "haupt": false,
+          "artikel": "Erich Ohser",
+          "wikidata": "Q67009"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1684",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-07-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Kap Arkona Rügen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 25750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kap Arkona",
+          "beschriftung": "Kap Arkona",
+          "haupt": true,
+          "artikel": "Kap Arkona",
+          "wikidata": "Q4110"
+        },
+        {
+          "titel": "Rügen",
+          "beschriftung": "Rügen",
+          "haupt": false,
+          "artikel": "Rügen",
+          "wikidata": "Q3237"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1685",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-07-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Goslar",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 26300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goslar",
+          "beschriftung": "Goslar",
+          "haupt": true,
+          "artikel": "Goslar",
+          "wikidata": "Q3896"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1686",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-07-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Bilder aus Deutschland",
+      "bild_beschreibung": "Wasserkuppe, Hohe Rhön",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 22660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserkuppe",
+          "beschriftung": "Wasserkuppe",
+          "haupt": true,
+          "artikel": "Wasserkuppe",
+          "wikidata": "Q247726"
+        },
+        {
+          "titel": "Rhön",
+          "beschriftung": "Hohe Rhön",
+          "haupt": false,
+          "artikel": "Rhön",
+          "wikidata": "Q148988"
+        },
+        {
+          "titel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "beschriftung": "Bilder aus Deutschland",
+          "haupt": false,
+          "artikel": "Bilder aus Deutschland (Briefmarkenserie)",
+          "wikidata": "Q860656"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1688",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-08-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Todestag von Matthias Klotz (1653–1743)",
+      "bild_beschreibung": "Die Entstehungsphasen der Schnecke einer Matthias-Klotz-Geige",
+      "entwerfer": "Harry Scheuner",
+      "auflage": 25245000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Matthias Klotz (Geigenbauer)",
+          "beschriftung": "Matthias Klotz",
+          "haupt": true,
+          "artikel": "Matthias Klotz (Geigenbauer)",
+          "wikidata": "Q1424779"
+        },
+        {
+          "titel": "Schnecke (Musik)",
+          "beschriftung": "Schnecke",
+          "haupt": false,
+          "artikel": "Schnecke (Streichinstrument)",
+          "wikidata": "Q1116074"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1689",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-08-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Heinrich George (1893–1946)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 21440000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich George",
+          "beschriftung": "Heinrich George",
+          "haupt": true,
+          "artikel": "Heinrich George",
+          "wikidata": "Q63816"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1690",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-08-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin",
+      "bild_beschreibung": "digitalisiertes Auge und Ohr",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 23835000,
+      "commons_datei": "DBP 1993 1690 Internationale Funkausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Auge",
+          "beschriftung": "Auge",
+          "haupt": false,
+          "artikel": "Auge",
+          "wikidata": "Q7364"
+        },
+        {
+          "titel": "Ohr",
+          "beschriftung": "Ohr",
+          "haupt": false,
+          "artikel": "Ohr",
+          "wikidata": "Q7362"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1692",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-09-16",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Postbote bei der Briefzustellung im 19. Jahrhundert",
+      "entwerfer": "Ralf Peter",
+      "auflage": 3574000,
+      "commons_datei": "DBP 1993 1692 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Postbote",
+          "haupt": false,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1693",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-09-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Birger Forell (1893–1958)",
+      "bild_beschreibung": "Christliche Kreuze in den schwedischen Nationalfarben",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 25660000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Birger Forell",
+          "beschriftung": "Birger Forell",
+          "haupt": true,
+          "artikel": "Birger Forell",
+          "wikidata": "Q865160"
+        },
+        {
+          "titel": "Kreuz (Christentum)",
+          "beschriftung": "Kreuze",
+          "haupt": false,
+          "artikel": "Kreuz (Christentum)",
+          "wikidata": "Q392371"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1694",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-09-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Hans Leip (1893–1983)",
+      "bild_beschreibung": "Holzschnitt Leips Die Brücke Tuledu",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 24451000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Leip",
+          "beschriftung": "Hans Leip",
+          "haupt": true,
+          "artikel": "Hans Leip",
+          "wikidata": "Q64493"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1695",
+      "block": "Block 27",
+      "art": "Sondermarke",
+      "ausgabetag": "1993-09-16",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für uns Kinder",
+      "bild_beschreibung": "Musikclown",
+      "entwerfer": "Thomas Müller",
+      "auflage": 11800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1696",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1993: Deutsche Trachten",
+      "bild_beschreibung": "Tracht der Insel Rügen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 5568000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rügen",
+          "beschriftung": "Rügen",
+          "haupt": true,
+          "artikel": "Rügen",
+          "wikidata": "Q3237"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1697",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1993: Deutsche Trachten",
+      "bild_beschreibung": "Tracht der Insel Föhr",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 6045000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Föhr",
+          "beschriftung": "Föhr",
+          "haupt": true,
+          "artikel": "Föhr",
+          "wikidata": "Q3127"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1698",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1993: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Schwalm in Hessen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 17840000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwalm (Kultur)",
+          "beschriftung": "Schwalm",
+          "haupt": true,
+          "artikel": "Schwalm (Kultur)",
+          "wikidata": "Q1484440"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1699",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1993: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Oberndorf in Bayern",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 18210000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": true,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1700",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "200+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1993: Deutsche Trachten",
+      "bild_beschreibung": "Tracht aus Ernstroda in Thüringen",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 7780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernstroda",
+          "beschriftung": "Ernstroda",
+          "haupt": true,
+          "artikel": "Ernstroda",
+          "wikidata": "Q695956"
+        },
+        {
+          "titel": "Tracht (Kleidung)",
+          "beschriftung": "Deutsche Trachten",
+          "haupt": false,
+          "artikel": "Tracht (Kleidung)",
+          "wikidata": "Q18752255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1701",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750. Todestag von Hedwig von Andechs (1174–1243)",
+      "bild_beschreibung": "Miniatur aus dem Schlackenwerther Codex um 1350, hl. Hedwig mit Ordensschwestern;; Gemeinschaftsausgabe mit Polen",
+      "entwerfer": "Andrzej Heidrich",
+      "auflage": 28795000,
+      "commons_datei": "DBP 1993 1701 Hedwig von Andechs.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hedwig von Andechs",
+          "beschriftung": "Hedwig von Andechs",
+          "haupt": true,
+          "artikel": "Hedwig von Andechs",
+          "wikidata": "Q57520"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "Polen",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1702",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Pjotr Iljitsch Tschaikowski (1840–1893)",
+      "bild_beschreibung": "Szene aus dem Ballett Schwanensee",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 27050000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pjotr Iljitsch Tschaikowski",
+          "beschriftung": "Pjotr Iljitsch Tschaikowski",
+          "haupt": true,
+          "artikel": "Pjotr Iljitsch Tschaikowski",
+          "wikidata": "Q7315"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1703",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-10-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Max Reinhardt (1873–1943)",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 24300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max Reinhardt",
+          "beschriftung": "Max Reinhardt",
+          "haupt": true,
+          "artikel": "Max Reinhardt",
+          "wikidata": "Q78639"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1704",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-11-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Paracelsus (1493–1541)",
+      "bild_beschreibung": "Stich von Augustin Hirschvogel",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 24380000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paracelsus",
+          "beschriftung": "Paracelsus",
+          "haupt": true,
+          "artikel": "Paracelsus",
+          "wikidata": "Q83428"
+        },
+        {
+          "titel": "Augustin Hirschvogel",
+          "beschriftung": "Augustin Hirschvogel",
+          "haupt": false,
+          "artikel": "Augustin Hirschvogel",
+          "wikidata": "Q707101"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1705",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-11-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350. Todestag von Claudio Monteverdi (1567–1643)",
+      "bild_beschreibung": "Porträt vor den Titelseiten seiner Madrigale und des L’Orfeo",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 24540000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Claudio Monteverdi",
+          "beschriftung": "Claudio Monteverdi",
+          "haupt": true,
+          "artikel": "Claudio Monteverdi",
+          "wikidata": "Q53068"
+        },
+        {
+          "titel": "Madrigal (Musik)",
+          "beschriftung": "Madrigale",
+          "haupt": false,
+          "artikel": "Madrigal (Musik)",
+          "wikidata": "Q193217"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1706",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-11-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "80. Geburtstag von Willy Brandt (1913–1992)",
+      "bild_beschreibung": "",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 27990000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Willy Brandt",
+          "beschriftung": "Willy Brandt",
+          "haupt": true,
+          "artikel": "Willy Brandt",
+          "wikidata": "Q2514"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1707",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-11-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1993, Reliefs aus dem Flügelaltar der Klosterkirche, Blaubeuren von Michael und Gregor Erhart",
+      "bild_beschreibung": "Anbetung der Könige",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 5950000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": true,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Kloster Blaubeuren",
+          "beschriftung": "Klosterkirche",
+          "haupt": false,
+          "artikel": "Kloster Blaubeuren",
+          "wikidata": "Q14524097"
+        },
+        {
+          "titel": "Blaubeuren",
+          "beschriftung": "Blaubeuren",
+          "haupt": false,
+          "artikel": "Blaubeuren",
+          "wikidata": "Q505955"
+        },
+        {
+          "titel": "Michael Erhart",
+          "beschriftung": "Michael",
+          "haupt": false,
+          "artikel": "Michel Erhart",
+          "wikidata": "Q473508"
+        },
+        {
+          "titel": "Gregor Erhart",
+          "beschriftung": "Gregor Erhart",
+          "haupt": false,
+          "artikel": "Gregor Erhart",
+          "wikidata": "Q675137"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1708",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1993-11-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1993, Reliefs aus dem Flügelaltar der Klosterkirche, Blaubeuren von Michael und Gregor Erhart",
+      "bild_beschreibung": "Christi Geburt",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 11504000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kloster Blaubeuren",
+          "beschriftung": "Klosterkirche",
+          "haupt": true,
+          "artikel": "Kloster Blaubeuren",
+          "wikidata": "Q14524097"
+        },
+        {
+          "titel": "Blaubeuren",
+          "beschriftung": "Blaubeuren",
+          "haupt": false,
+          "artikel": "Blaubeuren",
+          "wikidata": "Q505955"
+        },
+        {
+          "titel": "Michael Erhart",
+          "beschriftung": "Michael",
+          "haupt": false,
+          "artikel": "Michel Erhart",
+          "wikidata": "Q473508"
+        },
+        {
+          "titel": "Gregor Erhart",
+          "beschriftung": "Gregor Erhart",
+          "haupt": false,
+          "artikel": "Gregor Erhart",
+          "wikidata": "Q675137"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1665",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1993-04-15",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Magdeburger Dom",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 197648000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magdeburger Dom",
+          "beschriftung": "Magdeburger Dom",
+          "haupt": true,
+          "artikel": "Magdeburger Dom",
+          "wikidata": "Q668341"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1679",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1993-06-17",
+      "wert": "500",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Staatstheater Cottbus",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 154179000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatstheater Cottbus",
+          "beschriftung": "Staatstheater Cottbus",
+          "haupt": true,
+          "artikel": "Staatstheater Cottbus",
+          "wikidata": "Q1804142"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1687",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1993-08-12",
+      "wert": "41",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Russisch-Orthodoxe Kirche, Wiesbaden",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 126800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Russisch-Orthodoxe Kirche (Wiesbaden)",
+          "beschriftung": "Russisch-Orthodoxe Kirche",
+          "haupt": true,
+          "artikel": "Russisch-Orthodoxe Kirche (Wiesbaden)",
+          "wikidata": "Q125229"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1691",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1993-09-16",
+      "wert": "700",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Deutsches Theater Berlin",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 50425000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Theater Berlin",
+          "beschriftung": "Deutsches Theater Berlin",
+          "haupt": true,
+          "artikel": "Deutsches Theater Berlin",
+          "wikidata": "Q703955"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    }
+  ]
+}

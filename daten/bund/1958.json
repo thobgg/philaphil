@@ -1,0 +1,771 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1958,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1958 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1958_der_Deutschen_Bundespost",
+    "revision": 260413734,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 281,
+    "mi_nr_bis": 301,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 21,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "281",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-01-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "50. Todestag von Wilhelm Busch (1832–1908)",
+      "bild_beschreibung": "Max und Moritz, die wohl bekanntesten Figuren, die Wilhelm Busch geschaffen hat",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 50. Todestag Wilhelm Busch 10 Pfennig 1958.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        },
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": false,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "282",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-01-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "50. Todestag von Wilhelm Busch (1832–1908)",
+      "bild_beschreibung": "Selbstporträt von Wilhelm Busch (1832–1908), Dichter und Zeichner",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 20000000,
+      "commons_datei": "DBP 50. Todestag Wilhelm Busch 20 Pfennig 1958.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstporträt",
+          "haupt": true,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichner",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        },
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": false,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "283",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-03-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "Waldbrandverhütung",
+      "bild_beschreibung": "Verkohlte Baumstümpfe nach einem Waldbrand",
+      "entwerfer": "Herbert Kern",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 283 Waldbrandverhütung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Baumstumpf",
+          "beschriftung": "Baumstümpfe",
+          "haupt": true,
+          "artikel": "Baumstumpf",
+          "wikidata": "Q811646"
+        },
+        {
+          "titel": "Waldbrand",
+          "beschriftung": "Waldbrand",
+          "haupt": false,
+          "artikel": "Waldbrand",
+          "wikidata": "Q107434304"
+        }
+      ]
+    },
+    {
+      "mi_nr": "284",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-03-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "100. Geburtstag von Rudolf Diesel (1858–1913)",
+      "bild_beschreibung": "Ingenieur und der Erfinder des Dieselmotors",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 284 Rudolf Diesel.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rudolf Diesel",
+          "beschriftung": "Rudolf Diesel",
+          "haupt": true,
+          "artikel": "Rudolf Diesel",
+          "wikidata": "Q12674"
+        },
+        {
+          "titel": "Ingenieur",
+          "beschriftung": "Ingenieur",
+          "haupt": false,
+          "artikel": "Ingenieur",
+          "wikidata": "Q81096"
+        },
+        {
+          "titel": "Dieselmotor",
+          "beschriftung": "Dieselmotor",
+          "haupt": false,
+          "artikel": "Dieselmotor",
+          "wikidata": "Q174174"
+        }
+      ]
+    },
+    {
+      "mi_nr": "286",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-04-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "Jugendmarken mit Zuschlag, Kinderlieder",
+      "bild_beschreibung": "Fuchs, du hast die Gans gestohlen",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1958 286 Fuchs du hast die Gans gestohlen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fuchs, du hast die Gans gestohlen",
+          "beschriftung": "Fuchs, du hast die Gans gestohlen",
+          "haupt": true,
+          "artikel": "Fuchs, du hast die Gans gestohlen",
+          "wikidata": "Q1439324"
+        },
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Jugendmarken",
+          "haupt": false,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        }
+      ]
+    },
+    {
+      "mi_nr": "287",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-04-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "Jugendmarken mit Zuschlag, Kinderlieder",
+      "bild_beschreibung": "Ein Jäger aus Kurpfalz",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1958 287 Ein Jäger aus Kurpfalz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ein Jäger aus Kurpfalz",
+          "beschriftung": "Ein Jäger aus Kurpfalz",
+          "haupt": true,
+          "artikel": "Ein Jäger aus Kurpfalz",
+          "wikidata": "Q1304700"
+        },
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Jugendmarken",
+          "haupt": false,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        }
+      ]
+    },
+    {
+      "mi_nr": "288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-05-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "100 Jahre Zoologischer Garten Frankfurt",
+      "bild_beschreibung": "Giraffe und Löwe im Zoo",
+      "entwerfer": "A. und G. Haller",
+      "auflage": 5300000,
+      "commons_datei": "DBP 1958 288 Zoo Frankfurt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Zoologischer Garten Frankfurt",
+          "beschriftung": "Zoologischer Garten Frankfurt",
+          "haupt": true,
+          "artikel": "Zoo Frankfurt",
+          "wikidata": "Q220036"
+        },
+        {
+          "titel": "Giraffe",
+          "beschriftung": "Giraffe",
+          "haupt": false,
+          "artikel": "Giraffen",
+          "wikidata": "Q862089"
+        },
+        {
+          "titel": "Löwe",
+          "beschriftung": "Löwe",
+          "haupt": false,
+          "artikel": "Löwe",
+          "wikidata": "Q140"
+        }
+      ]
+    },
+    {
+      "mi_nr": "289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-05-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "800 Jahre München",
+      "bild_beschreibung": "Ausschnitt aus einer alten Stadtansicht der Bayerischen Hauptstadt",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 289 München.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": true,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-06-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "1000 Jahre Hauptmarkt von Trier",
+      "bild_beschreibung": "Marktplatz in alter Stadtansicht",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Trier",
+          "beschriftung": "Trier",
+          "haupt": true,
+          "artikel": "Trier",
+          "wikidata": "Q3138"
+        },
+        {
+          "titel": "Marktplatz (Städtebau)",
+          "beschriftung": "Marktplatz",
+          "haupt": false,
+          "artikel": "Marktplatz (Städtebau)",
+          "wikidata": "Q13033698"
+        }
+      ]
+    },
+    {
+      "mi_nr": "291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-06-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "10 Jahre Deutsche Mark",
+      "bild_beschreibung": "Revers (hier: Bundeswappen) des 1951 und von 1956 bis 1974 geprägten 5-Mark-Stücks in Silber",
+      "entwerfer": "Kühlborn",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 291 Deutsche  Mark.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Revers (Numismatik)",
+          "beschriftung": "Revers",
+          "haupt": true,
+          "artikel": "Revers (Numismatik)",
+          "wikidata": "Q1542661"
+        },
+        {
+          "titel": "Bundeswappen Deutschlands",
+          "beschriftung": "Bundeswappen",
+          "haupt": false,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        },
+        {
+          "titel": "Silber",
+          "beschriftung": "Silber",
+          "haupt": false,
+          "artikel": "Silber",
+          "wikidata": "Q1090"
+        }
+      ]
+    },
+    {
+      "mi_nr": "292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-07-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "150 Jahre Deutsche Turnerbewegung",
+      "bild_beschreibung": "Eichenblatt mit Turnerkreuz",
+      "entwerfer": "Ernst Göhlert",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 292 Turnerbewegung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turnerbewegung",
+          "haupt": true,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Eichenlaub",
+          "beschriftung": "Eichenblatt",
+          "haupt": false,
+          "artikel": "Eichenlaub",
+          "wikidata": "Q571544"
+        },
+        {
+          "titel": "Turnerkreuz",
+          "beschriftung": "Turnerkreuz",
+          "haupt": false,
+          "artikel": "Turnerkreuz",
+          "wikidata": "Q2461374"
+        }
+      ]
+    },
+    {
+      "mi_nr": "293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-08-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "150. Geburtstag von Hermann Schulze-Delitzsch (1808–1883)",
+      "bild_beschreibung": "Begründer des deutschen Genossenschaftswesens und Politiker",
+      "entwerfer": "Hermann Eidenbenz",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 293 Hermann Schulze-Delitzsch.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hermann Schulze-Delitzsch",
+          "beschriftung": "Hermann Schulze-Delitzsch",
+          "haupt": true,
+          "artikel": "Hermann Schulze-Delitzsch",
+          "wikidata": "Q215961"
+        },
+        {
+          "titel": "Genossenschaft",
+          "beschriftung": "Genossenschaft",
+          "haupt": false,
+          "artikel": "Genossenschaft",
+          "wikidata": "Q4539"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        }
+      ]
+    },
+    {
+      "mi_nr": "294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-12-31",
+      "anlass": "Europamarke Serie 1957",
+      "bild_beschreibung": "1957 war die Serie ohne Wasserzeichen ausgegeben worden. Einige Bogen wurden aus Versehen jedoch auf Wasserzeichenpapier gedruckt, woraufhin die Deutsche Bundespost zur Unterbindung einer spekulativen Entwicklung noch einmal 10 Millionen mit Wasserzeichen nachdrucken ließ.",
+      "entwerfer": "Richard Blank",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Wasserzeichen (Briefmarkenpapier)",
+          "beschriftung": "Wasserzeichen",
+          "haupt": false,
+          "artikel": "Wasserzeichen (Briefmarkenpapier)",
+          "wikidata": "Q18632671"
+        }
+      ]
+    },
+    {
+      "mi_nr": "295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-09-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Europamarken 1958",
+      "bild_beschreibung": "Ein großes „E“ und darauf sitzend eine Taube, in Grün",
+      "entwerfer": "André van der Vossen",
+      "auflage": 100000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-09-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Europamarken 1958",
+      "bild_beschreibung": "Ein großes „E“ und darauf sitzend eine Taube, in Blau",
+      "entwerfer": "André van der Vossen",
+      "auflage": 27000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-10-01",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Helfer der Menschheit, Landwirtschaft",
+      "bild_beschreibung": "Friedrich Wilhelm Raiffeisen (1818–1888); Sozialreformer und Kommunalbeamter, er gehört zu den Gründern der genossenschaftlichen Bewegung in Deutschland",
+      "entwerfer": "Erich Meerwald",
+      "auflage": 6650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Wilhelm Raiffeisen",
+          "beschriftung": "Friedrich Wilhelm Raiffeisen",
+          "haupt": true,
+          "artikel": "Friedrich Wilhelm Raiffeisen",
+          "wikidata": "Q45141"
+        },
+        {
+          "titel": "Sozialreform",
+          "beschriftung": "Sozialreform",
+          "haupt": false,
+          "artikel": "Sozialreform",
+          "wikidata": "Q2305941"
+        },
+        {
+          "titel": "Genossenschaft",
+          "beschriftung": "genossenschaftlichen",
+          "haupt": false,
+          "artikel": "Genossenschaft",
+          "wikidata": "Q4539"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Landwirtschaft",
+          "beschriftung": "Landwirtschaft",
+          "haupt": false,
+          "artikel": "Landwirtschaft",
+          "wikidata": "Q11451"
+        }
+      ]
+    },
+    {
+      "mi_nr": "298",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-10-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Helfer der Menschheit, Landwirtschaft",
+      "bild_beschreibung": "Sennerin am Butterfass",
+      "entwerfer": "Erich Meerwald",
+      "auflage": 9100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sennerin",
+          "beschriftung": "Sennerin",
+          "haupt": true,
+          "artikel": "Senn",
+          "wikidata": "Q1411978"
+        },
+        {
+          "titel": "Butterfass",
+          "beschriftung": "Butterfass",
+          "haupt": false,
+          "artikel": "Butterfass",
+          "wikidata": "Q1018079"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Landwirtschaft",
+          "beschriftung": "Landwirtschaft",
+          "haupt": false,
+          "artikel": "Landwirtschaft",
+          "wikidata": "Q11451"
+        }
+      ]
+    },
+    {
+      "mi_nr": "299",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-10-01",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Helfer der Menschheit, Landwirtschaft",
+      "bild_beschreibung": "Winzerin mit Weinrebe",
+      "entwerfer": "Erich Meerwald",
+      "auflage": 7400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Winzer",
+          "beschriftung": "Winzer",
+          "haupt": true,
+          "artikel": "Winzer",
+          "wikidata": "Q897317"
+        },
+        {
+          "titel": "Weinrebe",
+          "beschriftung": "Weinrebe",
+          "haupt": false,
+          "artikel": "Weinrebe",
+          "wikidata": "Q30046"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Landwirtschaft",
+          "beschriftung": "Landwirtschaft",
+          "haupt": false,
+          "artikel": "Landwirtschaft",
+          "wikidata": "Q11451"
+        }
+      ]
+    },
+    {
+      "mi_nr": "300",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-10-01",
+      "wert": "40+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Helfer der Menschheit, Landwirtschaft",
+      "bild_beschreibung": "Bauer mit Heugabel",
+      "entwerfer": "Erich Meerwald",
+      "auflage": 3150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirt",
+          "beschriftung": "Bauer",
+          "haupt": true,
+          "artikel": "Landwirt",
+          "wikidata": "Q131512"
+        },
+        {
+          "titel": "Heugabel",
+          "beschriftung": "Heugabel",
+          "haupt": false,
+          "artikel": "Heugabel",
+          "wikidata": "Q352536"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        },
+        {
+          "titel": "Landwirtschaft",
+          "beschriftung": "Landwirtschaft",
+          "haupt": false,
+          "artikel": "Landwirtschaft",
+          "wikidata": "Q11451"
+        }
+      ]
+    },
+    {
+      "mi_nr": "301",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-12-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "500 Jahre Cusanusstift",
+      "bild_beschreibung": "Das St. Nikolaus-Hospital (Cusanusstift) in Bernkastel-Kues ist eine spätgotische Stiftung des Nikolaus von Kues",
+      "entwerfer": "Herbert Kern",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1958 301 Cusanusstift.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "St. Nikolaus-Hospital",
+          "beschriftung": "Cusanusstift",
+          "haupt": true,
+          "artikel": "St. Nikolaus-Hospital",
+          "wikidata": "Q2321933"
+        },
+        {
+          "titel": "Bernkastel-Kues",
+          "beschriftung": "Bernkastel-Kues",
+          "haupt": false,
+          "artikel": "Bernkastel-Kues",
+          "wikidata": "Q155622"
+        },
+        {
+          "titel": "Nikolaus von Kues",
+          "beschriftung": "Nikolaus von Kues",
+          "haupt": false,
+          "artikel": "Nikolaus von Kues",
+          "wikidata": "Q154751"
+        }
+      ]
+    },
+    {
+      "mi_nr": "285",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-03-26",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "einzelne Dauermarke",
+      "bild_beschreibung": "motivgleich mit MiNr. 226 von 1955, jedoch geändertes Wasserzeichen",
+      "entwerfer": "Arthur Schraml",
+      "auflage": 3410000,
+      "commons_datei": "DBP 1955 226 Einer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1955 der Deutschen Bundespost",
+          "beschriftung": "1955",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1955 der Deutschen Bundespost",
+          "wikidata": "Q914412"
+        },
+        {
+          "titel": "Wasserzeichen (Briefmarkenpapier)",
+          "beschriftung": "Wasserzeichen",
+          "haupt": false,
+          "artikel": "Wasserzeichen (Briefmarkenpapier)",
+          "wikidata": "Q18632671"
+        }
+      ]
+    }
+  ]
+}

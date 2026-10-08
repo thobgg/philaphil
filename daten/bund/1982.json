@@ -1,0 +1,1372 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1982,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1982 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1982_der_Deutschen_Bundespost",
+    "revision": 259735026,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1118,
+    "mi_nr_bis": 1161,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 34,
+    "sondermarken_laut_einleitung": 34
+  },
+  "marken": [
+    {
+      "mi_nr": "1118",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-01-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Johann Friedrich Böttger (1682–1719)",
+      "bild_beschreibung": "Porzellantopf um 1715",
+      "entwerfer": "Günter Jacki",
+      "auflage": 30650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Friedrich Böttger",
+          "beschriftung": "Johann Friedrich Böttger",
+          "haupt": true,
+          "artikel": "Johann Friedrich Böttger",
+          "wikidata": "Q61311"
+        },
+        {
+          "titel": "Porzellan",
+          "beschriftung": "Porzellan",
+          "haupt": false,
+          "artikel": "Porzellan",
+          "wikidata": "Q130693"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1119",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-01-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Energiesparen",
+      "bild_beschreibung": "stilisierte, isolierte Wand",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 32650000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Energieeinsparung",
+          "beschriftung": "Energiesparen",
+          "haupt": true,
+          "artikel": "Energieeinsparung",
+          "wikidata": "Q380170"
+        },
+        {
+          "titel": "Wärmedämmung",
+          "beschriftung": "isolierte Wand",
+          "haupt": false,
+          "artikel": "Wärmedämmung",
+          "wikidata": "Q918306"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1120",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-01-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Die Bremer Stadtmusikanten",
+      "bild_beschreibung": "Scherenschnitt von Dora Brandenburg-Polster",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Die Bremer Stadtmusikanten",
+          "beschriftung": "Die Bremer Stadtmusikanten",
+          "haupt": true,
+          "artikel": "Die Bremer Stadtmusikanten",
+          "wikidata": "Q112015"
+        },
+        {
+          "titel": "Scherenschnitt",
+          "beschriftung": "Scherenschnitt",
+          "haupt": false,
+          "artikel": "Scherenschnitt",
+          "wikidata": "Q12969198"
+        },
+        {
+          "titel": "Dora Brandenburg-Polster",
+          "beschriftung": "Dora Brandenburg-Polster",
+          "haupt": false,
+          "artikel": "Dora Brandenburg-Polster",
+          "wikidata": "Q1243593"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1121",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-02-18",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Todestag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Goethe, Gemälde von Georg Melchior Kraus",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        },
+        {
+          "titel": "Georg Melchior Kraus",
+          "beschriftung": "Georg Melchior Kraus",
+          "haupt": false,
+          "artikel": "Georg Melchior Kraus",
+          "wikidata": "Q871199"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1122",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-02-18",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Entdeckung des Tuberkulose-Erregers",
+      "bild_beschreibung": "Robert Koch, Entdecker des Erregers Mycobacterium tuberculosis",
+      "entwerfer": "Marina Langer-Rosa und Helmut Langer",
+      "auflage": 32000000,
+      "commons_datei": "DBP 1982 1122 Entdeckung des Tuberkulose-Erregers.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tuberkulose",
+          "beschriftung": "Tuberkulose-Erregers",
+          "haupt": true,
+          "artikel": "Tuberkulose",
+          "wikidata": "Q12204"
+        },
+        {
+          "titel": "Robert Koch",
+          "beschriftung": "Robert Koch",
+          "haupt": false,
+          "artikel": "Robert Koch",
+          "wikidata": "Q37193"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1123",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Benz Patent-Motorwagen Nummer 1, 1886",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6242000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Benz Patent-Motorwagen Nummer 1",
+          "beschriftung": "Benz Patent-Motorwagen Nummer 1",
+          "haupt": true,
+          "artikel": "Benz Patent-Motorwagen Nummer 1",
+          "wikidata": "Q326248"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1124",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Mercedes-Tourenwagen, 1924",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6043000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mercedes 15/70/100 PS",
+          "beschriftung": "Mercedes-Tourenwagen",
+          "haupt": true,
+          "artikel": "Mercedes 15/70/100 PS",
+          "wikidata": "Q1120173"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1125",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Hanomag 2/10 PS, genannt Kommissbrot, 1925",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hanomag 2/10 PS",
+          "beschriftung": "Hanomag 2/10 PS",
+          "haupt": true,
+          "artikel": "Hanomag 2/10 PS",
+          "wikidata": "Q1576666"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1126",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-10",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Opel Olympia, 1937",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5976000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opel Olympia",
+          "beschriftung": "Opel Olympia",
+          "haupt": true,
+          "artikel": "Opel Olympia",
+          "wikidata": "Q1758742"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1127",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport",
+      "bild_beschreibung": "Dauerlauf",
+      "entwerfer": "Hans Buschfeld",
+      "auflage": 5920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Laufsport",
+          "beschriftung": "Dauerlauf",
+          "haupt": true,
+          "artikel": "Laufsport",
+          "wikidata": "Q10572883"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1128",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport",
+      "bild_beschreibung": "Bogenschießen",
+      "entwerfer": "Hans Buschfeld",
+      "auflage": 5580000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bogenschießen",
+          "beschriftung": "Bogenschießen",
+          "haupt": true,
+          "artikel": "Bogenschießen",
+          "wikidata": "Q108429"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1129",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Wilhelm Busch (1832–1908)",
+      "bild_beschreibung": "Die fromme Helene",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 33450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": true,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        },
+        {
+          "titel": "Die fromme Helene",
+          "beschriftung": "Die fromme Helene",
+          "haupt": false,
+          "artikel": "Die fromme Helene",
+          "wikidata": "Q1212779"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1130",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken Historische Ereignisse",
+      "bild_beschreibung": "150 Jahre Hambacher Fest",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 102126000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hambacher Fest",
+          "beschriftung": "Hambacher Fest",
+          "haupt": true,
+          "artikel": "Hambacher Fest",
+          "wikidata": "Q551416"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1131",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken Historische Ereignisse",
+      "bild_beschreibung": "25 Jahre Römische Verträge",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 144436000,
+      "commons_datei": "DBP 1982 1131 Römische Verträge.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Römische Verträge",
+          "beschriftung": "Römische Verträge",
+          "haupt": true,
+          "artikel": "Römische Verträge",
+          "wikidata": "Q2307326"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1132",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Kieler Woche",
+      "bild_beschreibung": "stilisierte Segelregatta",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 30250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kieler Woche",
+          "beschriftung": "Kieler Woche",
+          "haupt": true,
+          "artikel": "Kieler Woche",
+          "wikidata": "Q153606"
+        },
+        {
+          "titel": "Regattasegeln",
+          "beschriftung": "Segelregatta",
+          "haupt": false,
+          "artikel": "Regattasegeln",
+          "wikidata": "Q14085739"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1133",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Christlicher Verein Junger Menschen, kurz CVJM",
+      "bild_beschreibung": "Junges Paar",
+      "entwerfer": "Peter Steiner",
+      "auflage": 32950000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Christlicher Verein Junger Menschen",
+          "beschriftung": "Christlicher Verein Junger Menschen",
+          "haupt": true,
+          "artikel": "Christlicher Verein Junger Menschen",
+          "wikidata": "Q157169"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1144",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Verhütung der Verschmutzung des Meeres",
+      "bild_beschreibung": "Markierter Schmutzfleck auf dem Meer",
+      "entwerfer": "Elke Göttner",
+      "auflage": 21950000,
+      "commons_datei": "DBP 1982 1144 Verschmutzung des Meeres.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gewässerverschmutzung",
+          "beschriftung": "Verschmutzung des Meeres",
+          "haupt": true,
+          "artikel": "Gewässerverschmutzung",
+          "wikidata": "Q183129"
+        },
+        {
+          "titel": "Meer",
+          "beschriftung": "Meer",
+          "haupt": false,
+          "artikel": "Meer",
+          "wikidata": "Q165"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1145",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kein Alkohol im Straßenverkehr",
+      "bild_beschreibung": "Verbeultes Kraftfahrzeugkennzeichen",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 31550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Promille",
+          "beschriftung": "Alkohol im Straßenverkehr",
+          "haupt": true,
+          "artikel": "Promille",
+          "wikidata": "Q181011"
+        },
+        {
+          "titel": "Kraftfahrzeugkennzeichen",
+          "beschriftung": "Kraftfahrzeugkennzeichen",
+          "haupt": false,
+          "artikel": "Kraftfahrzeugkennzeichen",
+          "wikidata": "Q22706"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1146",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsches Aussätzigen-Hilfswerk",
+      "bild_beschreibung": "Arzt mit einem Leprakranken",
+      "entwerfer": "Fritz Haase",
+      "auflage": 33850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Lepra- und Tuberkulosehilfe",
+          "beschriftung": "Deutsches Aussätzigen-Hilfswerk",
+          "haupt": true,
+          "artikel": "DAHW Deutsche Lepra- und Tuberkulosehilfe",
+          "wikidata": "Q1203409"
+        },
+        {
+          "titel": "Lepra",
+          "beschriftung": "Lepra",
+          "haupt": false,
+          "artikel": "Lepra",
+          "wikidata": "Q36956"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1147",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-08-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von James Franck (1882–1964) und Max Born (1882–1970)",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 32400000,
+      "commons_datei": "DBP 1982 1147 James Franck und Max Born.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "James Franck",
+          "beschriftung": "James Franck",
+          "haupt": true,
+          "artikel": "James Franck",
+          "wikidata": "Q57066"
+        },
+        {
+          "titel": "Max Born",
+          "beschriftung": "Max Born",
+          "haupt": false,
+          "artikel": "Max Born",
+          "wikidata": "Q58978"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1148",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-08-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Friedrich Wöhler (1800–1882)",
+      "bild_beschreibung": "Harnstoffmolekül und Formel der Harnstoffsynthese",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 31750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Wöhler",
+          "beschriftung": "Friedrich Wöhler",
+          "haupt": true,
+          "artikel": "Friedrich Wöhler",
+          "wikidata": "Q58575"
+        },
+        {
+          "titel": "Harnstoff",
+          "beschriftung": "Harnstoff",
+          "haupt": false,
+          "artikel": "Harnstoff",
+          "wikidata": "Q48318"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1149",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-08-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800. Geburtstag von Franz von Assisi (um 1182–1226)",
+      "bild_beschreibung": "Vogelpredigt",
+      "entwerfer": "Peter Steiner",
+      "auflage": 34900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz von Assisi",
+          "beschriftung": "Franz von Assisi",
+          "haupt": true,
+          "artikel": "Franz von Assisi",
+          "wikidata": "Q676555"
+        },
+        {
+          "titel": "Vogelpredigt",
+          "beschriftung": "Vogelpredigt",
+          "haupt": false,
+          "artikel": "Vogelpredigt",
+          "wikidata": "Q15853070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1150",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenrosen",
+      "bild_beschreibung": "Teehybride",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 18556000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Teehybride",
+          "beschriftung": "Teehybride",
+          "haupt": true,
+          "artikel": "Teehybride",
+          "wikidata": "Q279919"
+        },
+        {
+          "titel": "Rosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1151",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenrosen",
+      "bild_beschreibung": "Floribundarose",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 18325000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Floribundarose",
+          "beschriftung": "Floribundarose",
+          "haupt": true,
+          "artikel": "Floribundarose",
+          "wikidata": "Q1423152"
+        },
+        {
+          "titel": "Rosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1152",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenrosen",
+      "bild_beschreibung": "Bourbon-Rose",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 17719000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bourbon-Rose",
+          "beschriftung": "Bourbon-Rose",
+          "haupt": true,
+          "artikel": "Bourbon-Rose",
+          "wikidata": "Q895185"
+        },
+        {
+          "titel": "Rosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1153",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Gartenrosen",
+      "bild_beschreibung": "Polyantha-Hybride",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7143000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Polyantha-Rose",
+          "beschriftung": "Polyantha-Hybride",
+          "haupt": true,
+          "artikel": "Polyantha-Rose",
+          "wikidata": "Q2102731"
+        },
+        {
+          "titel": "Rosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1154",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Schreibtisch und Schreibutensilien",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Schreibtisch",
+          "beschriftung": "Schreibtisch",
+          "haupt": false,
+          "artikel": "Schreibtisch",
+          "wikidata": "Q1064858"
+        },
+        {
+          "titel": "Büromaterial",
+          "beschriftung": "Schreibutensilien",
+          "haupt": false,
+          "artikel": "Büromaterial",
+          "wikidata": "Q2383811"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1155",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400 Jahre Gregorianischer Kalender",
+      "bild_beschreibung": "Zeitgenössische Darstellung durch Johann Rasch",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 31750000,
+      "commons_datei": "DBP 1982 1155 400 Jahre Gregorianischer Kalender.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gregorianischer Kalender",
+          "beschriftung": "Gregorianischer Kalender",
+          "haupt": true,
+          "artikel": "Gregorianischer Kalender",
+          "wikidata": "Q12138"
+        },
+        {
+          "titel": "Johann Rasch",
+          "beschriftung": "Johann Rasch",
+          "haupt": false,
+          "artikel": "Johann Rasch",
+          "wikidata": "Q1695950"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1156",
+      "block": "Block 18",
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie: Bundespräsidenten",
+      "bild_beschreibung": "Theodor Heuss (1884–1963), Bundespräsident von (1949–1959)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 15388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": true,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1157",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie: Bundespräsidenten",
+      "bild_beschreibung": "Heinrich Lübke (1894–1972), Bundespräsident von (1959–1969)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 15388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": true,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1158",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie: Bundespräsidenten",
+      "bild_beschreibung": "Gustav Heinemann (1899–1976), Bundespräsident von (1969–1974)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 15388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gustav Heinemann",
+          "beschriftung": "Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Gustav Heinemann",
+          "wikidata": "Q2573"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1159",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie: Bundespräsidenten",
+      "bild_beschreibung": "Walter Scheel (1919–2016), Bundespräsident von (1974–1979)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 15388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Scheel",
+          "beschriftung": "Walter Scheel",
+          "haupt": true,
+          "artikel": "Walter Scheel",
+          "wikidata": "Q2571"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1160",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Grundgedanken der Demokratie: Bundespräsidenten",
+      "bild_beschreibung": "Karl Carstens (1914–1992), Bundespräsident von (1979–1984)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 15388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Carstens",
+          "beschriftung": "Karl Carstens",
+          "haupt": true,
+          "artikel": "Karl Carstens",
+          "wikidata": "Q2569"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1161",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Die Geburt Christi, Holztafel von Meister Bertram von Minden",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 11166000,
+      "commons_datei": "DBP 1982 1161 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Meister Bertram",
+          "beschriftung": "Meister Bertram von Minden",
+          "haupt": true,
+          "artikel": "Meister Bertram",
+          "wikidata": "Q670632"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1134",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Farbfernsehkamera",
+      "entwerfer": "Reinhold Gerstetter (Idee: Beat Knoblauch)",
+      "auflage": 123000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elektronische Kamera",
+          "beschriftung": "Farbfernsehkamera",
+          "haupt": true,
+          "artikel": "Elektronische Kamera",
+          "wikidata": "Q313625"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1135",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "130",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Brauanlage",
+      "entwerfer": "Hans Joachim Fuchs (Idee: Beat Knoblauch)",
+      "auflage": 510000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brauerei",
+          "beschriftung": "Brauanlage",
+          "haupt": true,
+          "artikel": "Brauerei",
+          "wikidata": "Q131734"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1136",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "190",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Löffelbagger",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 198000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löffelbagger",
+          "beschriftung": "Löffelbagger",
+          "haupt": true,
+          "artikel": "Bagger",
+          "wikidata": "Q182661"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1137",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "250",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Flughafen Frankfurt Main",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 185000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Frankfurt Main",
+          "beschriftung": "Flughafen Frankfurt Main",
+          "haupt": true,
+          "artikel": "Flughafen Frankfurt Main",
+          "wikidata": "Q46033"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1138",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Magnetschwebebahn",
+      "entwerfer": "Egon Falz (Idee: Beat Knoblauch)",
+      "auflage": 233000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magnetschwebebahn",
+          "beschriftung": "Magnetschwebebahn",
+          "haupt": true,
+          "artikel": "Magnetschwebebahn",
+          "wikidata": "Q160047"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1139",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Lichtenstein",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Lichtenstein (Württemberg)",
+          "beschriftung": "Schloss Lichtenstein",
+          "haupt": true,
+          "artikel": "Schloss Lichtenstein (Württemberg)",
+          "wikidata": "Q155693"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1140",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Wilhelmsthal",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Wilhelmsthal (Calden)",
+          "beschriftung": "Schloss Wilhelmsthal",
+          "haupt": true,
+          "artikel": "Schloss Wilhelmsthal (Calden)",
+          "wikidata": "Q2244179"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1141",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Charlottenburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schloss Charlottenburg",
+          "haupt": true,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1142",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "280",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Ahrensburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Ahrensburg",
+          "beschriftung": "Schloss Ahrensburg",
+          "haupt": true,
+          "artikel": "Schloss Ahrensburg",
+          "wikidata": "Q315682"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1143",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Herrenhausen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 60000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Herrenhausen",
+          "beschriftung": "Schloss Herrenhausen",
+          "haupt": true,
+          "artikel": "Schloss Herrenhausen",
+          "wikidata": "Q48966707"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}

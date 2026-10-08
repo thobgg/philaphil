@@ -1,0 +1,2834 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1991,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1991 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1991_der_Deutschen_Bundespost",
+    "revision": 269178924,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1488,
+    "mi_nr_bis": 1581,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 84,
+    "sondermarken_laut_einleitung": 84
+  },
+  "marken": [
+    {
+      "mi_nr": "1490",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Beruf des Apothekers",
+      "bild_beschreibung": "Miniatur aus einem französischen Kodex aus dem 13. Jahrhundert",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1991 1490-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Apotheker",
+          "beschriftung": "Apotheker",
+          "haupt": true,
+          "artikel": "Apotheker",
+          "wikidata": "Q105186"
+        },
+        {
+          "titel": "Kodex",
+          "beschriftung": "Kodex",
+          "haupt": false,
+          "artikel": "Kodex",
+          "wikidata": "Q213924"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1491",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Hannover",
+      "bild_beschreibung": "stilisierte Stadtansicht",
+      "entwerfer": "Peter Steiner",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hannover",
+          "beschriftung": "Hannover",
+          "haupt": true,
+          "artikel": "Hannover",
+          "wikidata": "Q1715"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1492",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Brandenburger Tor",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1493",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Erich Buchholz (1891–1972)",
+      "bild_beschreibung": "Holzreliefplatte Drei Goldkreise mit Vollkreis blau",
+      "entwerfer": "Sigrid Denkhaus",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1991 1493-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erich Buchholz (Maler)",
+          "beschriftung": "Erich Buchholz",
+          "haupt": true,
+          "artikel": "Erich Buchholz (Maler)",
+          "wikidata": "Q1352028"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1494",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Walter Eucken (1891–1950)",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Walter Eucken",
+          "beschriftung": "Walter Eucken",
+          "haupt": true,
+          "artikel": "Walter Eucken",
+          "wikidata": "Q38654"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1495",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Tourismus-Börse Berlin (ITB)",
+      "bild_beschreibung": "",
+      "entwerfer": "Bernd Görs",
+      "auflage": 32275000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Tourismus-Börse Berlin",
+          "beschriftung": "Internationale Tourismus-Börse Berlin",
+          "haupt": true,
+          "artikel": "Internationale Tourismus-Börse Berlin",
+          "wikidata": "Q387339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1496",
+      "block": "Block 23",
+      "art": "Sondermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weltmeisterschaften im Bobsport",
+      "bild_beschreibung": "Zweierbob",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 14452000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bob-Weltmeisterschaft 1991",
+          "beschriftung": "Weltmeisterschaften im Bobsport",
+          "haupt": true,
+          "artikel": "Bob-Weltmeisterschaft 1991",
+          "wikidata": "Q699549"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1499",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Weltmeisterschaften im Gewichtheben, Donaueschingen",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 3832000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltmeisterschaften im Gewichtheben 1991",
+          "beschriftung": "Weltmeisterschaften im Gewichtheben",
+          "haupt": true,
+          "artikel": "Weltmeisterschaften im Gewichtheben 1991",
+          "wikidata": "Q4587222"
+        },
+        {
+          "titel": "Donaueschingen",
+          "beschriftung": "Donaueschingen",
+          "haupt": false,
+          "artikel": "Donaueschingen",
+          "wikidata": "Q83062"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1500",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Bahn- und Straßen-Radweltmeisterschaften, Stuttgart",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 3975000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "UCI-Bahn-Weltmeisterschaften 1991",
+          "beschriftung": "Bahn",
+          "haupt": true,
+          "artikel": "Bahnradsport-Weltmeisterschaften 1991",
+          "wikidata": "Q326579"
+        },
+        {
+          "titel": "UCI-Straßen-Weltmeisterschaften 1991",
+          "beschriftung": "Straßen-Radweltmeisterschaften",
+          "haupt": false,
+          "artikel": "Straßenradsport-Weltmeisterschaften 1991",
+          "wikidata": "Q574029"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1501",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "140+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "100 Jahre Basketball",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 3767000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Basketball",
+          "beschriftung": "Basketball",
+          "haupt": true,
+          "artikel": "Basketball",
+          "wikidata": "Q5372"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1502",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "170+80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport verschiedene sportliche Anlässe",
+      "bild_beschreibung": "Europameisterschaften im Freistilringen, Stuttgart",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 3781000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ringer-Europameisterschaften 1991",
+          "beschriftung": "Europameisterschaften",
+          "haupt": true,
+          "artikel": "Ringer-Europameisterschaften 1991",
+          "wikidata": "Q2153719"
+        },
+        {
+          "titel": "Freistilringen",
+          "beschriftung": "Freistilringen",
+          "haupt": false,
+          "artikel": "Freistilringen",
+          "wikidata": "Q327223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1503",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400. Geburtstag von Friedrich Spee von Langenfeld (1591–1635)",
+      "bild_beschreibung": "Porträt vor dem Titel seiner Schrift Cautio criminalis und Noten seiner Liederschrift Trutz-Nachtigall",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 32895000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Spee",
+          "beschriftung": "Friedrich Spee von Langenfeld",
+          "haupt": true,
+          "artikel": "Friedrich Spee",
+          "wikidata": "Q77283"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1504",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400. Geburtstag von Jan von Werth (1591–1652)",
+      "bild_beschreibung": "Reitergeneral auf seinem Pferd",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 32600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann von Werth",
+          "beschriftung": "Jan von Werth",
+          "haupt": true,
+          "artikel": "Johann von Werth",
+          "wikidata": "Q63850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1505",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Natur- und Umweltschutz, Rennsteiggarten Oberhof",
+      "bild_beschreibung": "Schweizer Mannsschild Androsace helvetica",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 29140000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schweizer Mannsschild",
+          "beschriftung": "Schweizer Mannsschild",
+          "haupt": true,
+          "artikel": "Schweizer Mannsschild",
+          "wikidata": "Q160678"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1506",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Natur- und Umweltschutz, Rennsteiggarten Oberhof",
+      "bild_beschreibung": "Wulfens Primel Primula wulfeniana",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 29310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wulfens Primel",
+          "beschriftung": "Wulfens Primel",
+          "haupt": true,
+          "artikel": "Wulfens Primel",
+          "wikidata": "Q2594861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1507",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Natur- und Umweltschutz, Rennsteiggarten Oberhof",
+      "bild_beschreibung": "Sommerenzian Gentiana acaulis",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kochscher Enzian",
+          "beschriftung": "Sommerenzian",
+          "haupt": true,
+          "artikel": "Kochscher Enzian",
+          "wikidata": "Q163785"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1508",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Natur- und Umweltschutz, Rennsteiggarten Oberhof",
+      "bild_beschreibung": "Preiselbeere Vaccinium vitis-idaea",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 31840000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Preiselbeere",
+          "beschriftung": "Preiselbeere",
+          "haupt": true,
+          "artikel": "Preiselbeere",
+          "wikidata": "Q93235"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1509",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "350",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Natur- und Umweltschutz, Rennsteiggarten Oberhof",
+      "bild_beschreibung": "Alpen-Edelweiß Leontopodium alpinum",
+      "entwerfer": "Hannelore Heise",
+      "auflage": 19570000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpen-Edelweiß",
+          "beschriftung": "Alpen-Edelweiß",
+          "haupt": true,
+          "artikel": "Alpen-Edelweiß",
+          "wikidata": "Q178265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1510",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-03-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Ludwig Windthorst (1812–1891)",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 32600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Windthorst",
+          "beschriftung": "Ludwig Windthorst",
+          "haupt": true,
+          "artikel": "Ludwig Windthorst",
+          "wikidata": "Q533645"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1511",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750. Jahrestag der Schlacht bei Liegnitz",
+      "bild_beschreibung": "Aufeinandertreffen der deutsch-polnischen und mongolischen Heere, Miniatur aus dem Schlackenwerther Codex;; Gemeinschaftsausgabe mit Polen",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 31250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schlacht bei Liegnitz (1241)",
+          "beschriftung": "Schlacht bei Liegnitz",
+          "haupt": true,
+          "artikel": "Schlacht bei Liegnitz (1241)",
+          "wikidata": "Q159512"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "Polen",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1512",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Alpen-Gelbling Colias phicomone",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3873000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpen-Gelbling",
+          "beschriftung": "Alpen-Gelbling",
+          "haupt": true,
+          "artikel": "Alpen-Gelbling",
+          "wikidata": "Q368742"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1513",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Großer Eisvogel Limenitis populi",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3791000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großer Eisvogel",
+          "beschriftung": "Großer Eisvogel",
+          "haupt": true,
+          "artikel": "Großer Eisvogel",
+          "wikidata": "Q531946"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1514",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Großer Schillerfalter Apatura iris",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3889000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großer Schillerfalter",
+          "beschriftung": "Großer Schillerfalter",
+          "haupt": true,
+          "artikel": "Großer Schillerfalter",
+          "wikidata": "Q30982"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1515",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Blauschillernder Feuerfalter Lycaena helle",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3805000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blauschillernder Feuerfalter",
+          "beschriftung": "Blauschillernder Feuerfalter",
+          "haupt": true,
+          "artikel": "Blauschillernder Feuerfalter",
+          "wikidata": "Q883053"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1516",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Schwalbenschwanz (Schmetterling) Papilio machaon",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3803000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwalbenschwanz (Schmetterling)",
+          "beschriftung": "Schwalbenschwanz (Schmetterling)",
+          "haupt": true,
+          "artikel": "Schwalbenschwanz (Schmetterling)",
+          "wikidata": "Q179530"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1517",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Roter Apollo Parnassius apollo",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3745000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roter Apollo",
+          "beschriftung": "Roter Apollo",
+          "haupt": true,
+          "artikel": "Roter Apollo",
+          "wikidata": "Q41633"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1518",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Hochmoorgelbling Colias palaeno",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3919000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochmoorgelbling",
+          "beschriftung": "Hochmoorgelbling",
+          "haupt": true,
+          "artikel": "Hochmoorgelbling",
+          "wikidata": "Q851578"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1519",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "140+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, gefährdete Schmetterlinge",
+      "bild_beschreibung": "Großer Feuerfalter Lycaena dispar",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3744000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großer Feuerfalter",
+          "beschriftung": "Großer Feuerfalter",
+          "haupt": true,
+          "artikel": "Großer Feuerfalter",
+          "wikidata": "Q378360"
+        },
+        {
+          "titel": "Schmetterlinge",
+          "beschriftung": "Schmetterlinge",
+          "haupt": false,
+          "artikel": "Schmetterlinge",
+          "wikidata": "Q28319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1520",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Sing-Akademie zu Berlin",
+      "bild_beschreibung": "Gebäude der Sing-Akademie, um 1830",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 31250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Sing-Akademie zu Berlin",
+          "beschriftung": "Sing-Akademie zu Berlin",
+          "haupt": true,
+          "artikel": "Sing-Akademie zu Berlin",
+          "wikidata": "Q521789"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1521",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Lette-Verein",
+      "bild_beschreibung": "Setzerinnenschule des Vereins",
+      "entwerfer": "Bernd Görs",
+      "auflage": 31250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lette-Verein",
+          "beschriftung": "Lette-Verein",
+          "haupt": true,
+          "artikel": "Lette-Verein",
+          "wikidata": "Q1821142"
+        },
+        {
+          "titel": "Schriftsetzer",
+          "beschriftung": "Setzerinnenschule",
+          "haupt": false,
+          "artikel": "Schriftsetzer",
+          "wikidata": "Q4108101"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1522",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "historische Luftpostbeförderung",
+      "bild_beschreibung": "Junkers F 13, 1930",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 31390000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Junkers F 13",
+          "beschriftung": "Junkers F 13",
+          "haupt": true,
+          "artikel": "Junkers F 13",
+          "wikidata": "Q26172"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1523",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "historische Luftpostbeförderung",
+      "bild_beschreibung": "Grade II Eindecker von Hans Grade, 1909",
+      "entwerfer": "Jochen Berthold",
+      "auflage": 30145000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grade II",
+          "beschriftung": "Grade II",
+          "haupt": true,
+          "artikel": "Grade II",
+          "wikidata": "Q1416360"
+        },
+        {
+          "titel": "Hans Grade",
+          "beschriftung": "Hans Grade",
+          "haupt": false,
+          "artikel": "Hans Grade",
+          "wikidata": "Q84916"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1524",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "historische Luftpostbeförderung",
+      "bild_beschreibung": "Fokker F.III, 1922",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fokker F.III",
+          "beschriftung": "Fokker F.III",
+          "haupt": true,
+          "artikel": "Fokker F.III",
+          "wikidata": "Q1435254"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1525",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-04-09",
+      "wert": "165",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "historische Luftpostbeförderung",
+      "bild_beschreibung": "Luftschiff LZ 127, 1928",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 20310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftschiff",
+          "beschriftung": "Luftschiff",
+          "haupt": true,
+          "artikel": "Luftschiff",
+          "wikidata": "Q133585"
+        },
+        {
+          "titel": "LZ 127",
+          "beschriftung": "LZ 127",
+          "haupt": false,
+          "artikel": "LZ 127",
+          "wikidata": "Q721226"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1526",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-05-02",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Europäische Weltraumfahrt",
+      "bild_beschreibung": "Europäischer Erdbeobachtungssatellit ERS-1",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "European Remote Sensing Satellite",
+          "beschriftung": "ERS-1",
+          "haupt": true,
+          "artikel": "European Remote Sensing Satellite",
+          "wikidata": "Q63347"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Europäische Weltraumorganisation",
+          "beschriftung": "Europäische",
+          "haupt": false,
+          "artikel": "Europäische Weltraumorganisation",
+          "wikidata": "Q42262"
+        },
+        {
+          "titel": "Raumfahrt",
+          "beschriftung": "Weltraumfahrt",
+          "haupt": false,
+          "artikel": "Raumfahrt",
+          "wikidata": "Q5916"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1527",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-05-02",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, Europäische Weltraumfahrt",
+      "bild_beschreibung": "Deutscher Fernmeldesatellit Kopernikus",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DFS-Kopernikus",
+          "beschriftung": "Kopernikus",
+          "haupt": true,
+          "artikel": "DFS-Kopernikus",
+          "wikidata": "Q1153337"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Europäische Weltraumorganisation",
+          "beschriftung": "Europäische",
+          "haupt": false,
+          "artikel": "Europäische Weltraumorganisation",
+          "wikidata": "Q42262"
+        },
+        {
+          "titel": "Raumfahrt",
+          "beschriftung": "Weltraumfahrt",
+          "haupt": false,
+          "artikel": "Raumfahrt",
+          "wikidata": "Q5916"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1528",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-05-02",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "700 Jahre Stadtrechte",
+      "bild_beschreibung": "Wappen der Städte Mayen, Welschbillig, Bernkastel, Montabaur, Wittlich und Saarburg",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 30025000,
+      "commons_datei": "DBP 1991 1528-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stadtrecht",
+          "beschriftung": "Stadtrecht",
+          "haupt": true,
+          "artikel": "Stadtrecht",
+          "wikidata": "Q28942"
+        },
+        {
+          "titel": "Mayen",
+          "beschriftung": "Mayen",
+          "haupt": false,
+          "artikel": "Mayen",
+          "wikidata": "Q516611"
+        },
+        {
+          "titel": "Welschbillig",
+          "beschriftung": "Welschbillig",
+          "haupt": false,
+          "artikel": "Welschbillig",
+          "wikidata": "Q553409"
+        },
+        {
+          "titel": "Bernkastel-Kues",
+          "beschriftung": "Bernkastel",
+          "haupt": false,
+          "artikel": "Bernkastel-Kues",
+          "wikidata": "Q155622"
+        },
+        {
+          "titel": "Montabaur",
+          "beschriftung": "Montabaur",
+          "haupt": false,
+          "artikel": "Montabaur",
+          "wikidata": "Q632991"
+        },
+        {
+          "titel": "Wittlich",
+          "beschriftung": "Wittlich",
+          "haupt": false,
+          "artikel": "Wittlich",
+          "wikidata": "Q559514"
+        },
+        {
+          "titel": "Saarburg",
+          "beschriftung": "Saarburg",
+          "haupt": false,
+          "artikel": "Saarburg",
+          "wikidata": "Q543639"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1529",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-05-02",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Todestag Max Reger (1873–1916)",
+      "bild_beschreibung": "Porträt Regers vor Orgelpfeifen",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 30978000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max Reger",
+          "beschriftung": "Max Reger",
+          "haupt": true,
+          "artikel": "Max Reger",
+          "wikidata": "Q57139"
+        },
+        {
+          "titel": "Orgelpfeife",
+          "beschriftung": "Orgelpfeife",
+          "haupt": false,
+          "artikel": "Orgelpfeife",
+          "wikidata": "Q1510738"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1530",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-05-02",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Start des Hochgeschwindigkeitsverkehrs der Deutschen Bundesbahn",
+      "bild_beschreibung": "ICE",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Bundesbahn",
+          "beschriftung": "Deutschen Bundesbahn",
+          "haupt": true,
+          "artikel": "Deutsche Bundesbahn",
+          "wikidata": "Q687175"
+        },
+        {
+          "titel": "Intercity-Express",
+          "beschriftung": "ICE",
+          "haupt": false,
+          "artikel": "Intercity-Express",
+          "wikidata": "Q129172"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1536",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Paul Wallot (1841–1912)",
+      "bild_beschreibung": "Porträt des Architekten vor einem seiner Bauwerke, dem Reichstagsgebäude",
+      "entwerfer": "Bernd Görs",
+      "auflage": 31360000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Wallot",
+          "beschriftung": "Paul Wallot",
+          "haupt": true,
+          "artikel": "Paul Wallot",
+          "wikidata": "Q77357"
+        },
+        {
+          "titel": "Architekt",
+          "beschriftung": "Architekt",
+          "haupt": false,
+          "artikel": "Architekt",
+          "wikidata": "Q42973"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1537",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltgaskongress in Berlin",
+      "bild_beschreibung": "Wilhelm August Lampadius (1772–1842)",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 29780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm August Lampadius",
+          "beschriftung": "Wilhelm August Lampadius",
+          "haupt": true,
+          "artikel": "Wilhelm August Lampadius",
+          "wikidata": "Q89183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1538",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltgaskongress in Berlin",
+      "bild_beschreibung": "Gaskandelaber in Berlin von Karl Friedrich Schinkel",
+      "entwerfer": "Detlef Glinski",
+      "auflage": 29780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Armleuchter",
+          "beschriftung": "Gaskandelaber",
+          "haupt": true,
+          "artikel": "Armleuchter",
+          "wikidata": "Q548275"
+        },
+        {
+          "titel": "Karl Friedrich Schinkel",
+          "beschriftung": "Karl Friedrich Schinkel",
+          "haupt": false,
+          "artikel": "Karl Friedrich Schinkel",
+          "wikidata": "Q151759"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1539",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierschutz, bedrohte Seevögel",
+      "bild_beschreibung": "Kampfläufer Philomachus pugnax",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kampfläufer",
+          "beschriftung": "Kampfläufer",
+          "haupt": true,
+          "artikel": "Kampfläufer",
+          "wikidata": "Q28122714"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        },
+        {
+          "titel": "Meeresvogel",
+          "beschriftung": "Seevögel",
+          "haupt": false,
+          "artikel": "Meeresvogel",
+          "wikidata": "Q55808"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1540",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierschutz, bedrohte Seevögel",
+      "bild_beschreibung": "Zwergseeschwalbe Sterna albifrons",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 25135000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwergseeschwalbe",
+          "beschriftung": "Zwergseeschwalbe",
+          "haupt": true,
+          "artikel": "Zwergseeschwalbe",
+          "wikidata": "Q12267692"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        },
+        {
+          "titel": "Meeresvogel",
+          "beschriftung": "Seevögel",
+          "haupt": false,
+          "artikel": "Meeresvogel",
+          "wikidata": "Q55808"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierschutz, bedrohte Seevögel",
+      "bild_beschreibung": "Ringelgans Branta bernicla",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 31310000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ringelgans",
+          "beschriftung": "Ringelgans",
+          "haupt": true,
+          "artikel": "Ringelgans",
+          "wikidata": "Q27050"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        },
+        {
+          "titel": "Meeresvogel",
+          "beschriftung": "Seevögel",
+          "haupt": false,
+          "artikel": "Meeresvogel",
+          "wikidata": "Q55808"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "140",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierschutz, bedrohte Seevögel",
+      "bild_beschreibung": "Seeadler Haliaeetus albicilla",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 21660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seeadler (Art)",
+          "beschriftung": "Seeadler",
+          "haupt": true,
+          "artikel": "Seeadler (Art)",
+          "wikidata": "Q25438"
+        },
+        {
+          "titel": "Tierschutz",
+          "beschriftung": "Tierschutz",
+          "haupt": false,
+          "artikel": "Tierschutz",
+          "wikidata": "Q11857638"
+        },
+        {
+          "titel": "Meeresvogel",
+          "beschriftung": "Seevögel",
+          "haupt": false,
+          "artikel": "Meeresvogel",
+          "wikidata": "Q55808"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1543",
+      "block": "Block 24",
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Europäische Luftpostausstellung Lilienthal '92 in Dresden",
+      "bild_beschreibung": "Otto Lilienthal (1848–1896)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4928000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Otto Lilienthal",
+          "haupt": false,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Genfer Flüchtlingskonvention",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 31100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Abkommen über die Rechtsstellung der Flüchtlinge",
+          "beschriftung": "Genfer Flüchtlingskonvention",
+          "haupt": true,
+          "artikel": "Abkommen über die Rechtsstellung der Flüchtlinge",
+          "wikidata": "Q60433"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1545",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Plattbauch Libellula depressa",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plattbauch",
+          "beschriftung": "Plattbauch",
+          "haupt": true,
+          "artikel": "Plattbauch",
+          "wikidata": "Q302485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Plattbauch Libellula depressa",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 29920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Blutrote Heidelibelle Sympetrum sanguineum",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 29920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blutrote Heidelibelle",
+          "beschriftung": "Blutrote Heidelibelle",
+          "haupt": true,
+          "artikel": "Blutrote Heidelibelle",
+          "wikidata": "Q201023"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Zweigestreifte Quelljungfer Cordulegaster boltonii",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 29920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweigestreifte Quelljungfer",
+          "beschriftung": "Zweigestreifte Quelljungfer",
+          "haupt": true,
+          "artikel": "Zweigestreifte Quelljungfer",
+          "wikidata": "Q232843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Grüne Mosaikjungfer Aeshna viridis",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 29920000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grüne Mosaikjungfer",
+          "beschriftung": "Grüne Mosaikjungfer",
+          "haupt": true,
+          "artikel": "Grüne Mosaikjungfer",
+          "wikidata": "Q1316290"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Blutrote Heidelibelle Sympetrum sanguineum",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 21210000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Zweigestreifte Quelljungfer Cordulegaster boltonii",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Libellen",
+      "bild_beschreibung": "Grüne Mosaikjungfer Aeshna viridis",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 31041000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin (IFA)",
+      "bild_beschreibung": "Symbole aus Rundfunk und Fernsehen",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 31080000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Rundfunk",
+          "beschriftung": "Rundfunk",
+          "haupt": false,
+          "artikel": "Rundfunk",
+          "wikidata": "Q15078788"
+        },
+        {
+          "titel": "Fernsehen",
+          "beschriftung": "Fernsehen",
+          "haupt": false,
+          "artikel": "Fernsehen",
+          "wikidata": "Q289"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1554",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-07-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Verkehrssicherheit",
+      "bild_beschreibung": "Szene aus dem Straßenverkehr",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 30930000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Verkehrssicherheit",
+          "beschriftung": "Verkehrssicherheit",
+          "haupt": true,
+          "artikel": "Verkehrssicherheit",
+          "wikidata": "Q2399986"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-08-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Deutschlandlied",
+      "bild_beschreibung": "August Heinrich Hoffmann von Fallersleben schrieb den Text dazu, hier vor der 3. Strophe",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 30960000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutschlandlied",
+          "beschriftung": "Deutschlandlied",
+          "haupt": true,
+          "artikel": "Das Lied der Deutschen",
+          "wikidata": "Q44042"
+        },
+        {
+          "titel": "August Heinrich Hoffmann von Fallersleben",
+          "beschriftung": "August Heinrich Hoffmann von Fallersleben",
+          "haupt": false,
+          "artikel": "August Heinrich Hoffmann von Fallersleben",
+          "wikidata": "Q76938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1556",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-08-08",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Reinold von Thadden-Trieglaff",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 31120000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reinold von Thadden",
+          "beschriftung": "Reinold von Thadden-Trieglaff",
+          "haupt": true,
+          "artikel": "Reinold von Thadden",
+          "wikidata": "Q1502260"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-08-08",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Energieübertragung durch Drehstrom",
+      "bild_beschreibung": "Wechselstromübertragung vom Neckarkraftwerk in Lauffen am Neckar nach Frankfurt am Main",
+      "entwerfer": "Paul Effert",
+      "auflage": 30890000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Drehstromübertragung Lauffen–Frankfurt",
+          "beschriftung": "Energieübertragung",
+          "haupt": true,
+          "artikel": "Drehstromübertragung Lauffen–Frankfurt",
+          "wikidata": "Q14552486"
+        },
+        {
+          "titel": "Dreiphasenwechselstrom",
+          "beschriftung": "Drehstrom",
+          "haupt": false,
+          "artikel": "Dreiphasenwechselstrom",
+          "wikidata": "Q471846"
+        },
+        {
+          "titel": "Lauffen am Neckar",
+          "beschriftung": "Lauffen am Neckar",
+          "haupt": false,
+          "artikel": "Lauffen am Neckar",
+          "wikidata": "Q525720"
+        },
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt am Main",
+          "haupt": false,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-09-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "275 Jahre Rhein-Ruhr-Hafen, heute Duisburg-Ruhrorter Häfen",
+      "bild_beschreibung": "Hafen und stilisierte Schiffe",
+      "entwerfer": "Heike Ullmann",
+      "auflage": 31220000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Duisburg-Ruhrorter Häfen",
+          "beschriftung": "Duisburg-Ruhrorter Häfen",
+          "haupt": true,
+          "artikel": "Duisburg-Ruhrorter Häfen",
+          "wikidata": "Q1264245"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1559",
+      "block": "Block 25",
+      "art": "Sondermarke",
+      "ausgabetag": "1991-09-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 200. Geburtstag von Theodor Körner (1791–1813)",
+      "bild_beschreibung": "Feder, Schwertgriff, Eichenblatt",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 18085000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feder",
+          "beschriftung": "Feder",
+          "haupt": true,
+          "artikel": "Feder",
+          "wikidata": "Q81025"
+        },
+        {
+          "titel": "Schwert",
+          "beschriftung": "Schwert",
+          "haupt": false,
+          "artikel": "Schwert",
+          "wikidata": "Q12791"
+        },
+        {
+          "titel": "Eichen",
+          "beschriftung": "Eichen",
+          "haupt": false,
+          "artikel": "Eichen",
+          "wikidata": "Q12004"
+        },
+        {
+          "titel": "Theodor Körner (Schriftsteller)",
+          "beschriftung": "Theodor Körner",
+          "haupt": false,
+          "artikel": "Theodor Körner (Schriftsteller)",
+          "wikidata": "Q62344"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1560",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-09-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 200. Geburtstag von Theodor Körner (1791–1813)",
+      "bild_beschreibung": "Porträt Körners",
+      "entwerfer": "Ralf-Jürgen Lehmann",
+      "auflage": 18085000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Körner (Schriftsteller)",
+          "beschriftung": "Theodor Körner",
+          "haupt": true,
+          "artikel": "Theodor Körner (Schriftsteller)",
+          "wikidata": "Q62344"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1561",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-09-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Hans Albers (1891–1960)",
+      "bild_beschreibung": "Porträt aus dem Film Der Sieger",
+      "entwerfer": "Ursula Maria Kahrl",
+      "auflage": 31270000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hans Albers",
+          "beschriftung": "Hans Albers",
+          "haupt": true,
+          "artikel": "Hans Albers",
+          "wikidata": "Q561231"
+        },
+        {
+          "titel": "Der Sieger (1932)",
+          "beschriftung": "Der Sieger",
+          "haupt": false,
+          "artikel": "Der Sieger (1932)",
+          "wikidata": "Q13423832"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1563",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1991: Historische Posthäuser in Deutschland",
+      "bild_beschreibung": "Postamt Bethel",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 6988000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postamt Bethel",
+          "beschriftung": "Postamt Bethel",
+          "haupt": true,
+          "artikel": "Postamt Bethel",
+          "wikidata": "Q107124522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1564",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1991: Historische Posthäuser in Deutschland",
+      "bild_beschreibung": "Poststation Büdingen",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 17314000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Büdingen",
+          "beschriftung": "Büdingen",
+          "haupt": true,
+          "artikel": "Büdingen",
+          "wikidata": "Q382481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1565",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1991: Historische Posthäuser in Deutschland",
+      "bild_beschreibung": "Postamt Stralsund",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 9485000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neuer Markt 3/4 (Stralsund)",
+          "beschriftung": "Postamt Stralsund",
+          "haupt": true,
+          "artikel": "Neuer Markt 3/4 (Stralsund)",
+          "wikidata": "Q14913922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1566",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1991: Historische Posthäuser in Deutschland",
+      "bild_beschreibung": "Postamt Lauscha",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 10356000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lauscha",
+          "beschriftung": "Lauscha",
+          "haupt": true,
+          "artikel": "Lauscha",
+          "wikidata": "Q518383"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1567",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1991: Historische Posthäuser in Deutschland",
+      "bild_beschreibung": "Postamt Bonn",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 24550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hauptpost (Bonn)",
+          "beschriftung": "Postamt Bonn",
+          "haupt": true,
+          "artikel": "Hauptpost (Bonn)",
+          "wikidata": "Q15621176"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1568",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "140+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1991: Historische Posthäuser in Deutschland",
+      "bild_beschreibung": "Postamt Weilburg",
+      "entwerfer": "Karin Blume-Zander",
+      "auflage": 6331000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weilburg",
+          "beschriftung": "Weilburg",
+          "haupt": true,
+          "artikel": "Weilburg",
+          "wikidata": "Q573599"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1569",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Max Ernst (1891–1976)",
+      "bild_beschreibung": "Gemälde Vogeldenkmal von Ernst;; Gemeinschaftsausgabe mit Frankreich",
+      "entwerfer": "Jean-Paul Veret-Lemarinier",
+      "auflage": 32025000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max Ernst",
+          "beschriftung": "Max Ernst",
+          "haupt": true,
+          "artikel": "Max Ernst",
+          "wikidata": "Q154842"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1570",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Briefträger mit Kahn im Spreewald",
+      "entwerfer": "Dorothea Fischer-Nosbisch",
+      "auflage": 30980000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Postkahn",
+          "beschriftung": "Briefträger mit Kahn",
+          "haupt": false,
+          "artikel": "Postkahn",
+          "wikidata": "Q2106139"
+        },
+        {
+          "titel": "Spreewald",
+          "beschriftung": "Spreewald",
+          "haupt": false,
+          "artikel": "Spreewald",
+          "wikidata": "Q148859"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1571",
+      "block": "Block 26",
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 200. Todestag von Wolfgang Amadeus Mozart (1756–1791)",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 14573500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wolfgang Amadeus Mozart",
+          "beschriftung": "Wolfgang Amadeus Mozart",
+          "haupt": true,
+          "artikel": "Wolfgang Amadeus Mozart",
+          "wikidata": "Q254"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1572",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Otto Dix (1891–1969)",
+      "bild_beschreibung": "Bild der Tänzerin Anita Berber",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 26032500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anita Berber",
+          "beschriftung": "Anita Berber",
+          "haupt": true,
+          "artikel": "Anita Berber",
+          "wikidata": "Q70764"
+        },
+        {
+          "titel": "Otto Dix",
+          "beschriftung": "Otto Dix",
+          "haupt": false,
+          "artikel": "Otto Dix",
+          "wikidata": "Q153104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1573",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Otto Dix (1891–1969)",
+      "bild_beschreibung": "Selbstbildnis im Profil nach rechts, 1922",
+      "entwerfer": "Lutz Lüders",
+      "auflage": 32000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": true,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        },
+        {
+          "titel": "Otto Dix",
+          "beschriftung": "Otto Dix",
+          "haupt": false,
+          "artikel": "Otto Dix",
+          "wikidata": "Q153104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1574",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Julius Leber (1891–1945)",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 32075000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Julius Leber",
+          "beschriftung": "Julius Leber",
+          "haupt": true,
+          "artikel": "Julius Leber",
+          "wikidata": "Q215630"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1575",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Nelly Sachs (1891–1970)",
+      "bild_beschreibung": "",
+      "entwerfer": "Günter Jacki",
+      "auflage": 31035000,
+      "commons_datei": "DBP 1991 1575-R.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nelly Sachs",
+          "beschriftung": "Nelly Sachs",
+          "haupt": true,
+          "artikel": "Nelly Sachs",
+          "wikidata": "Q57074"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1576",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sorbische Sagen",
+      "bild_beschreibung": "„Geiger und Wassermann“",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 27572500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wassermann (Mythologie)",
+          "beschriftung": "Wassermann",
+          "haupt": true,
+          "artikel": "Wassermann (Mythologie)",
+          "wikidata": "Q4995044"
+        },
+        {
+          "titel": "Sorben",
+          "beschriftung": "Sorbische",
+          "haupt": false,
+          "artikel": "Sorben",
+          "wikidata": "Q146521"
+        },
+        {
+          "titel": "Sage",
+          "beschriftung": "Sage",
+          "haupt": false,
+          "artikel": "Sage",
+          "wikidata": "Q46783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1577",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sorbische Sagen",
+      "bild_beschreibung": "„Mittagsfrau und Nochtenerin“",
+      "entwerfer": "Ursula Abramowski-Lautenschläger",
+      "auflage": 32720000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mittagsfrau",
+          "beschriftung": "Mittagsfrau",
+          "haupt": true,
+          "artikel": "Mittagsfrau",
+          "wikidata": "Q160010"
+        },
+        {
+          "titel": "Nochten",
+          "beschriftung": "Nochten",
+          "haupt": false,
+          "artikel": "Nochten",
+          "wikidata": "Q162561"
+        },
+        {
+          "titel": "Sorben",
+          "beschriftung": "Sorbische",
+          "haupt": false,
+          "artikel": "Sorben",
+          "wikidata": "Q146521"
+        },
+        {
+          "titel": "Sage",
+          "beschriftung": "Sage",
+          "haupt": false,
+          "artikel": "Sage",
+          "wikidata": "Q46783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1991, 500. Todestag von Martin Schongauer (1450–1491)",
+      "bild_beschreibung": "Tafelbilder von Schongauer; Engel der Verkündigung",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 8051000,
+      "commons_datei": "DBP 1991 1578-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Engel",
+          "beschriftung": "Engel",
+          "haupt": true,
+          "artikel": "Engel",
+          "wikidata": "Q235113"
+        },
+        {
+          "titel": "Martin Schongauer",
+          "beschriftung": "Martin Schongauer",
+          "haupt": false,
+          "artikel": "Martin Schongauer",
+          "wikidata": "Q155575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1579",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1991, 500. Todestag von Martin Schongauer (1450–1491)",
+      "bild_beschreibung": "Maria",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 5681000,
+      "commons_datei": "DBP 1991 1579-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maria (Mutter Jesu)",
+          "beschriftung": "Maria",
+          "haupt": true,
+          "artikel": "Maria (Mutter Jesu)",
+          "wikidata": "Q345"
+        },
+        {
+          "titel": "Martin Schongauer",
+          "beschriftung": "Martin Schongauer",
+          "haupt": false,
+          "artikel": "Martin Schongauer",
+          "wikidata": "Q155575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1580",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1991, 500. Todestag von Martin Schongauer (1450–1491)",
+      "bild_beschreibung": "Maria im Rosenhag, Detail",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 5539000,
+      "commons_datei": "DBP 1991 1580-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin Schongauer",
+          "beschriftung": "Martin Schongauer",
+          "haupt": true,
+          "artikel": "Martin Schongauer",
+          "wikidata": "Q155575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1581",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1991-11-05",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1991, 500. Todestag von Martin Schongauer (1450–1491)",
+      "bild_beschreibung": "Geburt Christi",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 9681000,
+      "commons_datei": "DBP 1991 1581-R.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin Schongauer",
+          "beschriftung": "Martin Schongauer",
+          "haupt": true,
+          "artikel": "Martin Schongauer",
+          "wikidata": "Q155575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1488",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Käthe Kollwitz",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 290436000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": true,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1489",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-01-08",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Elisabet Boehm",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 150436000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabet Boehm",
+          "beschriftung": "Elisabet Boehm",
+          "haupt": true,
+          "artikel": "Elisabet Boehm",
+          "wikidata": "Q99339"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1497",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "150",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Sophie Scholl",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 35436000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sophie Scholl",
+          "beschriftung": "Sophie Scholl",
+          "haupt": true,
+          "artikel": "Sophie Scholl",
+          "wikidata": "Q76972"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1498",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-02-14",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Bertha von Suttner",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 438220000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bertha von Suttner",
+          "beschriftung": "Bertha von Suttner",
+          "haupt": true,
+          "artikel": "Bertha von Suttner",
+          "wikidata": "Q18456"
+        },
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": false,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1531",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Flughafen Frankfurt Main im Markenheftchen MH 27, selbstklebend",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 60000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Frankfurt Main",
+          "beschriftung": "Flughafen Frankfurt Main",
+          "haupt": true,
+          "artikel": "Flughafen Frankfurt Main",
+          "wikidata": "Q46033"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1532",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bavaria, München im Markenheftchen MH 27, selbstklebend",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 60000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bavaria (Statue)",
+          "beschriftung": "Bavaria",
+          "haupt": true,
+          "artikel": "Bavaria (Statue)",
+          "wikidata": "Q707669"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1533",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Hauptportal der Zeche Zollern II Dortmund im Markenheftchen MH 27, selbstklebend",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 60000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeche Zollern",
+          "beschriftung": "Zeche Zollern",
+          "haupt": true,
+          "artikel": "Zeche Zollern",
+          "wikidata": "Q2603300"
+        },
+        {
+          "titel": "Dortmund",
+          "beschriftung": "Dortmund",
+          "haupt": false,
+          "artikel": "Dortmund",
+          "wikidata": "Q1295"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1534",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Gnadenkapelle (Altötting) im Markenheftchen MH 27, selbstklebend",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 60000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gnadenkapelle (Altötting)",
+          "beschriftung": "Gnadenkapelle (Altötting)",
+          "haupt": true,
+          "artikel": "Gnadenkapelle (Altötting)",
+          "wikidata": "Q322678"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1535",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-06-04",
+      "wert": "170",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Russische Kirche Wiesbaden",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 158460000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Russisch-Orthodoxe Kirche (Wiesbaden)",
+          "beschriftung": "Russische Kirche Wiesbaden",
+          "haupt": true,
+          "artikel": "Russisch-Orthodoxe Kirche (Wiesbaden)",
+          "wikidata": "Q125229"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1562",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1991-10-10",
+      "wert": "400",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Semperoper, Dresden",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 239430000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Semperoper",
+          "beschriftung": "Semperoper",
+          "haupt": true,
+          "artikel": "Semperoper",
+          "wikidata": "Q127097"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    }
+  ]
+}

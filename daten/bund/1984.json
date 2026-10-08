@@ -1,0 +1,1204 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1984,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1984 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1984_der_Deutschen_Bundespost",
+    "revision": 259739542,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1197,
+    "mi_nr_bis": 1233,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 37,
+    "sondermarken_laut_einleitung": 37
+  },
+  "marken": [
+    {
+      "mi_nr": "1197",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Stadt Trier",
+      "bild_beschreibung": "Porta Nigra",
+      "entwerfer": "Otto Rohse",
+      "auflage": 28300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Trier",
+          "beschriftung": "Trier",
+          "haupt": true,
+          "artikel": "Trier",
+          "wikidata": "Q3138"
+        },
+        {
+          "titel": "Porta Nigra",
+          "beschriftung": "Porta Nigra",
+          "haupt": false,
+          "artikel": "Porta Nigra",
+          "wikidata": "Q152339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1198",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Philipp Reis (1834–1874)",
+      "bild_beschreibung": "Philipp Reis mit einigen von ihm erfundenen Apparaten",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 28800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Philipp Reis",
+          "beschriftung": "Philipp Reis",
+          "haupt": true,
+          "artikel": "Philipp Reis",
+          "wikidata": "Q77124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1199",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-01-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Gregor Mendel (1822–1884)",
+      "bild_beschreibung": "Die erste der Mendelsche Regeln",
+      "entwerfer": "Ernst Jünger",
+      "auflage": 26400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gregor Mendel",
+          "beschriftung": "Gregor Mendel",
+          "haupt": true,
+          "artikel": "Gregor Mendel",
+          "wikidata": "Q37970"
+        },
+        {
+          "titel": "Mendelsche Regeln",
+          "beschriftung": "Mendelsche Regeln",
+          "haupt": false,
+          "artikel": "Mendelsche Regeln",
+          "wikidata": "Q185055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1200",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Rathaus Michelstadt",
+      "bild_beschreibung": "",
+      "entwerfer": "Heribert Burkert",
+      "auflage": 28700000,
+      "commons_datei": "DBP 1984 1200 Rathaus Michelstadt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Michelstadt)",
+          "beschriftung": "Rathaus Michelstadt",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Michelstadt)",
+          "wikidata": "Q21036629"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1201",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-02-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Oberammergauer Passionsspiele",
+      "bild_beschreibung": "symbolische Darstellung der Kreuzigung",
+      "entwerfer": "Günter Jacki",
+      "auflage": 31300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Oberammergauer Passionsspiele",
+          "beschriftung": "Oberammergauer Passionsspiele",
+          "haupt": true,
+          "artikel": "Oberammergauer Passionsspiele",
+          "wikidata": "Q2008913"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1202",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, bestäubende Insekten",
+      "bild_beschreibung": "Bienenwolf Trichodes apiarius auf Kriechendem Hahnenfuß Ranunculus repens",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 4481000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemeiner Bienenkäfer",
+          "beschriftung": "Bienenwolf",
+          "haupt": true,
+          "artikel": "Gemeiner Bienenkäfer",
+          "wikidata": "Q579701"
+        },
+        {
+          "titel": "Kriechender Hahnenfuß",
+          "beschriftung": "Kriechendem Hahnenfuß",
+          "haupt": false,
+          "artikel": "Kriechender Hahnenfuß",
+          "wikidata": "Q213356"
+        },
+        {
+          "titel": "Insekten",
+          "beschriftung": "Insekten",
+          "haupt": false,
+          "artikel": "Insekten",
+          "wikidata": "Q1390"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1203",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, bestäubende Insekten",
+      "bild_beschreibung": "Admiral Vanessa atalanta auf einer Kohldistel Cirsium oleraceum",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 4546000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Admiral (Schmetterling)",
+          "beschriftung": "Admiral",
+          "haupt": true,
+          "artikel": "Admiral (Schmetterling)",
+          "wikidata": "Q156454"
+        },
+        {
+          "titel": "Kohl-Kratzdistel",
+          "beschriftung": "Kohldistel",
+          "haupt": false,
+          "artikel": "Kohldistel",
+          "wikidata": "Q1430370"
+        },
+        {
+          "titel": "Insekten",
+          "beschriftung": "Insekten",
+          "haupt": false,
+          "artikel": "Insekten",
+          "wikidata": "Q1390"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1204",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, bestäubende Insekten",
+      "bild_beschreibung": "Honigbiene Apis mellifera auf Wiesensalbei Salvia pratensis",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 4627000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Westliche Honigbiene",
+          "beschriftung": "Honigbiene",
+          "haupt": true,
+          "artikel": "Westliche Honigbiene",
+          "wikidata": "Q30034"
+        },
+        {
+          "titel": "Wiesensalbei",
+          "beschriftung": "Wiesensalbei",
+          "haupt": false,
+          "artikel": "Wiesensalbei",
+          "wikidata": "Q161772"
+        },
+        {
+          "titel": "Insekten",
+          "beschriftung": "Insekten",
+          "haupt": false,
+          "artikel": "Insekten",
+          "wikidata": "Q1390"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1205",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend, bestäubende Insekten",
+      "bild_beschreibung": "Schwebfliege Chrysotoxum festivum auf einer Gemeinen Wegwarte Cichorium intybus",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 4388000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwebfliegen",
+          "beschriftung": "Schwebfliege",
+          "haupt": true,
+          "artikel": "Schwebfliegen",
+          "wikidata": "Q217905"
+        },
+        {
+          "titel": "Gemeine Wegwarte",
+          "beschriftung": "Gemeinen Wegwarte",
+          "haupt": false,
+          "artikel": "Gemeine Wegwarte",
+          "wikidata": "Q2544599"
+        },
+        {
+          "titel": "Insekten",
+          "beschriftung": "Insekten",
+          "haupt": false,
+          "artikel": "Insekten",
+          "wikidata": "Q1390"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1206",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1984 in Los Angeles und Paralympische Spiele",
+      "bild_beschreibung": "Diskuswurf",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 4387000,
+      "commons_datei": "DBP 1984 1206 Olympia Diskuswurf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diskuswurf",
+          "beschriftung": "Diskuswurf",
+          "haupt": true,
+          "artikel": "Diskuswurf",
+          "wikidata": "Q182570"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1984",
+          "beschriftung": "Olympische Sommerspiele 1984",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1984",
+          "wikidata": "Q8456"
+        },
+        {
+          "titel": "Los Angeles",
+          "beschriftung": "Los Angeles",
+          "haupt": false,
+          "artikel": "Los Angeles",
+          "wikidata": "Q65"
+        },
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Paralympische Spiele",
+          "haupt": false,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1207",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1984 in Los Angeles und Paralympische Spiele",
+      "bild_beschreibung": "Rhythmische Sportgymnastik",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 4432000,
+      "commons_datei": "DBP 1984 1207 Olympia Rhythmische Sportgymnastik.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rhythmische Sportgymnastik",
+          "beschriftung": "Rhythmische Sportgymnastik",
+          "haupt": true,
+          "artikel": "Rhythmische Sportgymnastik",
+          "wikidata": "Q61465"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1984",
+          "beschriftung": "Olympische Sommerspiele 1984",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1984",
+          "wikidata": "Q8456"
+        },
+        {
+          "titel": "Los Angeles",
+          "beschriftung": "Los Angeles",
+          "haupt": false,
+          "artikel": "Los Angeles",
+          "wikidata": "Q65"
+        },
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Paralympische Spiele",
+          "haupt": false,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1208",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für den Sport Olympische Sommerspiele 1984 in Los Angeles und Paralympische Spiele",
+      "bild_beschreibung": "Windsurfen",
+      "entwerfer": "Friedrich Kefer und Peter Münch",
+      "auflage": 4332000,
+      "commons_datei": "DBP 1984 1208 Olympia Windsurfen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Windsurfen",
+          "beschriftung": "Windsurfen",
+          "haupt": true,
+          "artikel": "Windsurfen",
+          "wikidata": "Q191051"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1984",
+          "beschriftung": "Olympische Sommerspiele 1984",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1984",
+          "wikidata": "Q8456"
+        },
+        {
+          "titel": "Los Angeles",
+          "beschriftung": "Los Angeles",
+          "haupt": false,
+          "artikel": "Los Angeles",
+          "wikidata": "Q65"
+        },
+        {
+          "titel": "Paralympische Spiele",
+          "beschriftung": "Paralympische Spiele",
+          "haupt": false,
+          "artikel": "Paralympische Spiele",
+          "wikidata": "Q73633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1209",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-04-12",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zweite Direktwahlen zum Europäischen Parlament",
+      "bild_beschreibung": "Symbol des Europäischen Parlaments",
+      "entwerfer": "Erwin Poell",
+      "auflage": 29300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europawahl 1984",
+          "beschriftung": "Zweite Direktwahlen zum Europäischen Parlament",
+          "haupt": true,
+          "artikel": "Europawahl 1984",
+          "wikidata": "Q1376075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1210",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, 25 Jahre Europäische Konferenz der Verwaltungen für das Post- und Fernmeldewesen (CEPT)",
+      "bild_beschreibung": "Brücke",
+      "entwerfer": "J. Larrivière",
+      "auflage": 81960000,
+      "commons_datei": "DBP 1984 1210 Brücke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": true,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "Europäische Konferenz der Verwaltungen für das Post- und Fernmeldewesen (CEPT)",
+          "haupt": false,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1211",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken, 25 Jahre Europäische Konferenz der Verwaltungen für das Post- und Fernmeldewesen (CEPT)",
+      "bild_beschreibung": "Brücke",
+      "entwerfer": "J. Larrivière",
+      "auflage": 105260000,
+      "commons_datei": "DBP 1984 1211 Brücke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "Europäische Konferenz der Verwaltungen für das Post- und Fernmeldewesen (CEPT)",
+          "haupt": false,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1212",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "850. Todestag von Norbert von Xanten (um 1080–1134)",
+      "bild_beschreibung": "Norbert von Xanten, eine der Heiligenfiguren im Chorgestühl der Kirche St. Verena (Rot an der Rot)",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 30850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Norbert von Xanten",
+          "beschriftung": "Norbert von Xanten",
+          "haupt": true,
+          "artikel": "Norbert von Xanten",
+          "wikidata": "Q160374"
+        },
+        {
+          "titel": "St. Verena (Rot an der Rot)",
+          "beschriftung": "St. Verena (Rot an der Rot)",
+          "haupt": false,
+          "artikel": "St. Verena (Rot an der Rot)",
+          "wikidata": "Q1699158"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1213",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Ludwig Richter (1803–1884)",
+      "bild_beschreibung": "Ghasel, eine Buchillustration von Ludwig Richter",
+      "entwerfer": "Langer-Rosa und Langer",
+      "auflage": 31500000,
+      "commons_datei": "DBP 1984 1213 Ludwig Richter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig Richter",
+          "beschriftung": "Ludwig Richter",
+          "haupt": true,
+          "artikel": "Ludwig Richter",
+          "wikidata": "Q551896"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1214",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-05-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Barmer Theologische Erklärung",
+      "bild_beschreibung": "",
+      "entwerfer": "Hans Günter Schmitz",
+      "auflage": 29450000,
+      "commons_datei": "DBP 1984 1214 Barmer Theologische Erklärung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Barmer Theologische Erklärung",
+          "beschriftung": "Barmer Theologische Erklärung",
+          "haupt": true,
+          "artikel": "Barmer Theologische Erklärung",
+          "wikidata": "Q706957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1215",
+      "block": "Block 19",
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weltpostkongress in Hamburg",
+      "bild_beschreibung": "Briefsortierung im Hauptpostamt Berlin um 1880",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 12050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1216",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weltpostkongress in Hamburg",
+      "bild_beschreibung": "Abtastobjektiv einer Briefverteilanlage",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 12050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1217",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weltpostkongress in Hamburg",
+      "bild_beschreibung": "Heinrich von Stephan",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 12050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1218",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2000 Jahre Neuss",
+      "bild_beschreibung": "Detail aus einer in Neuss gefundenen Grabstele des Oclatius aus dem 1. Jahrhundert, Rossknecht mit Pferd",
+      "entwerfer": "Rolf Lederbogen",
+      "auflage": 30200000,
+      "commons_datei": "DBP 1984 1218 Neuss.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Neuss",
+          "beschriftung": "Neuss",
+          "haupt": true,
+          "artikel": "Neuss",
+          "wikidata": "Q2948"
+        },
+        {
+          "titel": "Novaesium",
+          "beschriftung": "Oclatius",
+          "haupt": false,
+          "artikel": "Novaesium",
+          "wikidata": "Q318196"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1219",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Friedrich Wilhelm Bessel (1784–1846)",
+      "bild_beschreibung": "",
+      "entwerfer": "Hermann Schwahn",
+      "auflage": 31450000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Wilhelm Bessel",
+          "beschriftung": "Friedrich Wilhelm Bessel",
+          "haupt": true,
+          "artikel": "Friedrich Wilhelm Bessel",
+          "wikidata": "Q75845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1220",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-06-19",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "88. Deutscher Katholikentag 1984 in München",
+      "bild_beschreibung": "Eugenio Pacelli, Papst Pius XII. (1876–1958)",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 30050000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "88. Deutscher Katholikentag",
+          "beschriftung": "88. Deutscher Katholikentag 1984",
+          "haupt": true,
+          "artikel": "88. Deutscher Katholikentag",
+          "wikidata": "Q274101"
+        },
+        {
+          "titel": "Pius XII.",
+          "beschriftung": "Eugenio Pacelli, Papst Pius XII.",
+          "haupt": false,
+          "artikel": "Pius XII.",
+          "wikidata": "Q2604"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1221",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsches Elektronen-Synchrotron (DESY)",
+      "bild_beschreibung": "Das Forschungszentrum des DESY in Hamburg",
+      "entwerfer": "Peter Nitsche",
+      "auflage": 28200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Elektronen-Synchrotron",
+          "beschriftung": "Deutsches Elektronen-Synchrotron",
+          "haupt": true,
+          "artikel": "Deutsches Elektronen-Synchrotron",
+          "wikidata": "Q311801"
+        },
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": false,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1222",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Rathaus Duderstadt",
+      "bild_beschreibung": "",
+      "entwerfer": "Isolde Monson-Baumgart",
+      "auflage": 30550000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rathaus (Duderstadt)",
+          "beschriftung": "Rathaus Duderstadt",
+          "haupt": true,
+          "artikel": "Rathaus (Duderstadt)",
+          "wikidata": "Q2132417"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1223",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Eider-Kanal in Schleswig-Holstein",
+      "bild_beschreibung": "Schleuse und Herrenhaus Knoop",
+      "entwerfer": "W. P. Seiter",
+      "auflage": 31500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eider-Kanal",
+          "beschriftung": "Eider-Kanal",
+          "haupt": true,
+          "artikel": "Eider-Kanal",
+          "wikidata": "Q895858"
+        },
+        {
+          "titel": "Schleswig-Holstein",
+          "beschriftung": "Schleswig-Holstein",
+          "haupt": false,
+          "artikel": "Schleswig-Holstein",
+          "wikidata": "Q1194"
+        },
+        {
+          "titel": "Gut Knoop",
+          "beschriftung": "Schleuse und Herrenhaus Knoop",
+          "haupt": false,
+          "artikel": "Gut Knoop",
+          "wikidata": "Q881935"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1224",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-08-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Archivkongress, Bonn",
+      "bild_beschreibung": "Urkunde aus dem Mittelalter und Datensichtgerät",
+      "entwerfer": "Elisabeth von Janota-Bzowski",
+      "auflage": 19350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Urkunde",
+          "beschriftung": "Urkunde",
+          "haupt": true,
+          "artikel": "Urkunde",
+          "wikidata": "Q705914"
+        },
+        {
+          "titel": "Mittelalter",
+          "beschriftung": "Mittelalter",
+          "haupt": false,
+          "artikel": "Mittelalter",
+          "wikidata": "Q12554"
+        },
+        {
+          "titel": "Terminal (Computer)",
+          "beschriftung": "Datensichtgerät",
+          "haupt": false,
+          "artikel": "Terminal (Gerät)",
+          "wikidata": "Q216640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1225",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Orchideen",
+      "bild_beschreibung": "Ohnhorn Aceras anthropophorum",
+      "entwerfer": "Günter Jacki",
+      "auflage": 13302000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ohnhorn",
+          "beschriftung": "Ohnhorn",
+          "haupt": true,
+          "artikel": "Ohnhorn",
+          "wikidata": "Q13387669"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1226",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Orchideen",
+      "bild_beschreibung": "Brand-Knabenkraut Orchis ustulata",
+      "entwerfer": "Günter Jacki",
+      "auflage": 10433000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brand-Knabenkraut",
+          "beschriftung": "Brand-Knabenkraut",
+          "haupt": true,
+          "artikel": "Brand-Knabenkraut",
+          "wikidata": "Q158117"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1227",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Orchideen",
+      "bild_beschreibung": "Violetter Dingel Limodorum abortivum",
+      "entwerfer": "Günter Jacki",
+      "auflage": 18619000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Violetter Dingel",
+          "beschriftung": "Violetter Dingel",
+          "haupt": true,
+          "artikel": "Violetter Dingel",
+          "wikidata": "Q163539"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1228",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Orchideen",
+      "bild_beschreibung": "Holunder-Knabenkraut Dactylorhiza sambucina",
+      "entwerfer": "Günter Jacki",
+      "auflage": 6095000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holunder-Knabenkraut",
+          "beschriftung": "Holunder-Knabenkraut",
+          "haupt": true,
+          "artikel": "Holunder-Knabenkraut",
+          "wikidata": "Q1314837"
+        },
+        {
+          "titel": "Orchideen",
+          "beschriftung": "Orchideen",
+          "haupt": false,
+          "artikel": "Orchideen",
+          "wikidata": "Q25308"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1229",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-10-18",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Posthaus der Kaiserlich Taxis’schen Post in Augsburg",
+      "entwerfer": "Dorothea Fischer-Nosbisch",
+      "auflage": 29350000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Kaiserliche Reichspost",
+          "beschriftung": "Kaiserlich Taxis’schen Post",
+          "haupt": false,
+          "artikel": "Kaiserliche Reichspost",
+          "wikidata": "Q17353952"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1230",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Grundgedanken der Demokratie",
+      "bild_beschreibung": "Paragraph und Gender-Symbole für Mann und Frau",
+      "entwerfer": "Heinz Tröger",
+      "auflage": 31200000,
+      "commons_datei": "DBP 1984 1230 Gleichberechtigung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Demokratie",
+          "beschriftung": "Demokratie",
+          "haupt": true,
+          "artikel": "Demokratie",
+          "wikidata": "Q7174"
+        },
+        {
+          "titel": "Paragraph",
+          "beschriftung": "Paragraph",
+          "haupt": false,
+          "artikel": "Paragraf",
+          "wikidata": "Q1931107"
+        },
+        {
+          "titel": "Gender-Symbol",
+          "beschriftung": "Gender-Symbol",
+          "haupt": false,
+          "artikel": "Gender-Symbol",
+          "wikidata": "Q1479193"
+        },
+        {
+          "titel": "Mann",
+          "beschriftung": "Mann",
+          "haupt": false,
+          "artikel": "Mann",
+          "wikidata": "Q8441"
+        },
+        {
+          "titel": "Frau",
+          "beschriftung": "Frau",
+          "haupt": false,
+          "artikel": "Frau",
+          "wikidata": "Q467"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1231",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für Frieden und Verständigung",
+      "bild_beschreibung": "Stimmzettel",
+      "entwerfer": "Corinna Ludwig",
+      "auflage": 30700000,
+      "commons_datei": "DBP 1984 1231 Frieden und Verständigung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stimmzettel",
+          "beschriftung": "Stimmzettel",
+          "haupt": true,
+          "artikel": "Stimmzettel",
+          "wikidata": "Q905151"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1232",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-08",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Anti-Raucher-Kampagne",
+      "bild_beschreibung": "abbrennendes Streichholz",
+      "entwerfer": "Norbert Vogel",
+      "auflage": 37027000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tabakrauchen",
+          "beschriftung": "Anti-Raucher-Kampagne",
+          "haupt": true,
+          "artikel": "Tabakrauchen",
+          "wikidata": "Q7212330"
+        },
+        {
+          "titel": "Streichholz",
+          "beschriftung": "Streichholz",
+          "haupt": false,
+          "artikel": "Streichholz",
+          "wikidata": "Q37507"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1233",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1984-11-08",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Hl. Martin auf dem Pferd",
+      "entwerfer": "Peter Steiner",
+      "auflage": 11643000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin von Tours",
+          "beschriftung": "Hl. Martin",
+          "haupt": true,
+          "artikel": "Martin von Tours",
+          "wikidata": "Q133704"
+        }
+      ]
+    }
+  ]
+}

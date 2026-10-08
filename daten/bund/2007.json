@@ -1,0 +1,1571 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2007,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2007 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2007_der_Bundesrepublik_Deutschland",
+    "revision": 263187648,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2578,
+    "mi_nr_bis": 2636,
+    "luecken": [],
+    "ausreisser": [
+      2480
+    ],
+    "sondermarken_gezaehlt": 61,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung Deutsche Sporthilfe; Handball-Weltmeisterschaft der Männer 2007",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1540000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Handball-Weltmeisterschaft der Männer 2007",
+          "beschriftung": "Handball-Weltmeisterschaft der Männer 2007",
+          "haupt": false,
+          "artikel": "Handball-Weltmeisterschaft der Männer 2007",
+          "wikidata": "Q155610"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2579",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Bistum Bamberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bistum Bamberg",
+          "beschriftung": "Bistum Bamberg",
+          "haupt": true,
+          "artikel": "Erzbistum Bamberg",
+          "wikidata": "Q251337"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2580",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Fürth",
+      "bild_beschreibung": "",
+      "entwerfer": "Susanne Oesterlee",
+      "auflage": 10500000,
+      "commons_datei": "DPAG 2007 2580 1000 Jahre Fürth.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fürth",
+          "beschriftung": "Fürth",
+          "haupt": true,
+          "artikel": "Fürth",
+          "wikidata": "Q3075"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2581",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bundesland Saarland",
+      "bild_beschreibung": "",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saarland",
+          "beschriftung": "Saarland",
+          "haupt": true,
+          "artikel": "Saarland",
+          "wikidata": "Q1201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2582",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Wankelmotor",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 8500000,
+      "commons_datei": "Stamp 50 Jahre Wankelmotor.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wankelmotor",
+          "beschriftung": "Wankelmotor",
+          "haupt": true,
+          "artikel": "Wankelmotor",
+          "wikidata": "Q182883"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2583",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "EU-Ratspräsidentschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 7400000,
+      "commons_datei": "DPAG 2007 2583 Deutsche EU-Ratspräsidentschaft.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche EU-Ratspräsidentschaft 2007",
+          "beschriftung": "EU-Ratspräsidentschaft",
+          "haupt": true,
+          "artikel": "Deutsche EU-Ratspräsidentschaft 2007",
+          "wikidata": "Q870983"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2584",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Fürth",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Susanne Oesterlee",
+      "auflage": 167792000,
+      "commons_datei": "DPAG 2007 2580 1000 Jahre Fürth.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2585",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-02-08",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung Deutsche Sporthilfe; Kanurennsport-WM",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1260000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kanurennsport-Weltmeisterschaften 2007",
+          "beschriftung": "Kanurennsport-WM",
+          "haupt": true,
+          "artikel": "Kanurennsport-Weltmeisterschaften 2007",
+          "wikidata": "Q373589"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2586",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-02-08",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Turn-WM",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1260000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turn-Weltmeisterschaften 2007",
+          "beschriftung": "Turn-WM",
+          "haupt": true,
+          "artikel": "Turn-Weltmeisterschaften 2007",
+          "wikidata": "Q372880"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2587",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-02-08",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "WM im Modernen Fünfkampf",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": true,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2588",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-02-08",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag Johann Christian Senckenberg",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 7000000,
+      "commons_datei": "DPAG 2007 2588 Johann Christian Senckenberg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johann Christian Senckenberg",
+          "beschriftung": "Johann Christian Senckenberg",
+          "haupt": true,
+          "artikel": "Johann Christian Senckenberg",
+          "wikidata": "Q98077"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2589",
+      "block": "Block 69",
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "170+70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Tag der Briefmarke",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung für Philatelie und Postgeschichte; Historischer Luftschiffverkehr nach Südamerika",
+      "entwerfer": "Günter Gamroth",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2590",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aufrechte Demokraten",
+      "bild_beschreibung": "100. Geburtstag von Claus Schenk Graf von Stauffenberg und Helmuth James Graf von Moltke",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 6600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufrechte Demokraten",
+          "beschriftung": "Aufrechte Demokraten",
+          "haupt": true,
+          "artikel": "Aufrechte Demokraten",
+          "wikidata": "Q759871"
+        },
+        {
+          "titel": "Claus Schenk Graf von Stauffenberg",
+          "beschriftung": "Claus Schenk Graf von Stauffenberg",
+          "haupt": false,
+          "artikel": "Claus Schenk Graf von Stauffenberg",
+          "wikidata": "Q21209"
+        },
+        {
+          "titel": "Helmuth James Graf von Moltke",
+          "beschriftung": "Helmuth James Graf von Moltke",
+          "haupt": false,
+          "artikel": "Helmuth James Graf von Moltke",
+          "wikidata": "Q61613"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2591",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: \"Deutsche Malerei\"",
+      "bild_beschreibung": "Adam Elsheimer, Die Ausgrabung der Kreuze",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 6500000,
+      "commons_datei": "Briefmarke Die Ausgrabung der Kreuze.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Malerei",
+          "beschriftung": "Deutsche Malerei",
+          "haupt": true,
+          "artikel": "Deutsche Malerei",
+          "wikidata": "Q1203446"
+        },
+        {
+          "titel": "Adam Elsheimer",
+          "beschriftung": "Adam Elsheimer",
+          "haupt": false,
+          "artikel": "Adam Elsheimer",
+          "wikidata": "Q310285"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2592",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "400. Geburtstag Paul Gerhardt",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Gerhardt",
+          "beschriftung": "Paul Gerhardt",
+          "haupt": true,
+          "artikel": "Paul Gerhardt",
+          "wikidata": "Q76331"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2593",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Römische Verträge",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 8300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Römische Verträge",
+          "beschriftung": "Römische Verträge",
+          "haupt": true,
+          "artikel": "Römische Verträge",
+          "wikidata": "Q2307326"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2594",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Jüdisches Zentrum München",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 6500000,
+      "commons_datei": "Juedisches Zentrum Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jüdisches Zentrum München",
+          "beschriftung": "Jüdisches Zentrum München",
+          "haupt": true,
+          "artikel": "Jüdisches Zentrum München",
+          "wikidata": "Q161751"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2595",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bundesland Saarland",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 308510500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2596",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-04-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "Bildergeschichte I. (Absender)",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2597",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-04-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "Bildergeschichte I. (Briefkasten)",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2598",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-04-12",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre Weltkarte von Martin Waldseemüller",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 6600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Martin Waldseemüller",
+          "beschriftung": "Martin Waldseemüller",
+          "haupt": true,
+          "artikel": "Martin Waldseemüller",
+          "wikidata": "Q57197"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2599",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-04-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "80. Geburtstag Papst Benedikt XVI.",
+      "bild_beschreibung": "",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 14400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Benedikt XVI.",
+          "beschriftung": "Benedikt XVI.",
+          "haupt": true,
+          "artikel": "Benedikt XVI.",
+          "wikidata": "Q2494"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2600",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Pfadfinder",
+      "entwerfer": "Susanne Oesterlee",
+      "auflage": 11000000,
+      "commons_datei": "DPAG 2007 2600 Pfadfinder.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Pfadfinder",
+          "beschriftung": "Pfadfinder",
+          "haupt": false,
+          "artikel": "Pfadfinder",
+          "wikidata": "Q872181"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2601",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Schloss Bellevue – Amtssitz des Bundespräsidenten",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 8300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Bellevue",
+          "beschriftung": "Schloss Bellevue",
+          "haupt": true,
+          "artikel": "Schloss Bellevue",
+          "wikidata": "Q317091"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2602",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "700 Jahre Schloss Moyland",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 18000000,
+      "commons_datei": "Château de Moyland (timbre allemand).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schloss Moyland",
+          "beschriftung": "Schloss Moyland",
+          "haupt": true,
+          "artikel": "Schloss Moyland",
+          "wikidata": "Q531028"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Hambacher Fest",
+      "bild_beschreibung": "",
+      "entwerfer": "Johannes Graf",
+      "auflage": 7700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hambacher Fest",
+          "beschriftung": "Hambacher Fest",
+          "haupt": true,
+          "artikel": "Hambacher Fest",
+          "wikidata": "Q551416"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Schloss Bellevue – Amtssitz des Bundespräsidenten",
+      "bild_beschreibung": "selbstklebend aus Rolle",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 312446000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Hambacher Fest",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Johannes Graf",
+      "auflage": 368731000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "Bl. 70",
+      "block": "Block 70",
+      "art": "Sondermarke",
+      "ausgabetag": "2007-05-03",
+      "wert": "300+125",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für den Sport",
+      "bild_beschreibung": "40 Jahre Stiftung Deutsche Sporthilfe",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1310000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "Bl. 71",
+      "block": "Block 71",
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "300+125",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Stiftung Deutsche Jugendmarke e. V.; 175. Geburtstag Wilhelm Busch; Hans Huckebein, der Unglücksrabe:; Kurzgeschichte",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 1660000,
+      "commons_datei": "Hans Huckebein-Sonderbriefmarken.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Busch",
+          "beschriftung": "Wilhelm Busch",
+          "haupt": true,
+          "artikel": "Wilhelm Busch",
+          "wikidata": "Q109540"
+        },
+        {
+          "titel": "Hans Huckebein, der Unglücksrabe",
+          "beschriftung": "Hans Huckebein, der Unglücksrabe",
+          "haupt": false,
+          "artikel": "Hans Huckebein, der Unglücksrabe",
+          "wikidata": "Q1580343"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "„Nichts Schön'res gab's für Tante Lotte. Als schwarze Heidelbeerkompotte“",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 1660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "„Doch Huckebein verschleudert nur die schöne Gabe der Natur“",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 1660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "„Die Tante nah't voll Zorn und Schrecken: Hans Huckebein verläßt das Becken.“",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 1660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Für die Jugend",
+      "bild_beschreibung": "„Und schnell betritt er, angstbeflügelt. Die Wäsche, welche frisch gebügelt.“",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 1660000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag Karl Valentin",
+      "bild_beschreibung": "",
+      "entwerfer": "Michael Kunter und Henning Wagenbreth",
+      "auflage": 8200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Valentin",
+          "beschriftung": "Karl Valentin",
+          "haupt": true,
+          "artikel": "Karl Valentin",
+          "wikidata": "Q45255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2611",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-06-14",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Paul Klinger",
+      "bild_beschreibung": "Ausschnitt aus dem Filmplakat zu \"Hengst Maestoso Austria\" (Österreich 1956, mit Filmpartnerin Nadia Gray)",
+      "entwerfer": "Elisabeth Hau",
+      "auflage": 10000000,
+      "commons_datei": "Paul Klinger (timbre allemand).jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Paul Klinger",
+          "beschriftung": "Paul Klinger",
+          "haupt": true,
+          "artikel": "Paul Klinger",
+          "wikidata": "Q89509"
+        },
+        {
+          "titel": "Hengst Maestoso Austria",
+          "beschriftung": "Hengst Maestoso Austria",
+          "haupt": false,
+          "artikel": "Hengst Maestoso Austria",
+          "wikidata": "Q1241894"
+        },
+        {
+          "titel": "Nadia Gray",
+          "beschriftung": "Nadia Gray",
+          "haupt": false,
+          "artikel": "Nadia Gray",
+          "wikidata": "Q79065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-07-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Bremerhaven",
+      "entwerfer": "Johannes Graf Motiv: Reinhard Scheiblich",
+      "auflage": 10050000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Bremerhaven",
+          "beschriftung": "Bremerhaven",
+          "haupt": true,
+          "artikel": "Leuchtturm Bremerhaven",
+          "wikidata": "Q304471"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-07-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Hörnum",
+      "entwerfer": "Johannes Graf Motiv: Reinhard Scheiblich",
+      "auflage": 8320000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Hörnum",
+          "beschriftung": "Hörnum",
+          "haupt": true,
+          "artikel": "Leuchtturm Hörnum",
+          "wikidata": "Q1821434"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2614",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-07-12",
+      "wert": "65",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Riga, Stralsund und Wismar",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2615",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-07-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Riga, Stralsund und Wismar; Gemeinschaftsausgabe mit Lettland",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": true,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Lettland",
+          "beschriftung": "Lettland",
+          "haupt": false,
+          "artikel": "Lettland",
+          "wikidata": "Q211"
+        },
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": false,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-08-09",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: \"Brücken\"",
+      "bild_beschreibung": "100 Jahre Kaiser-Wilhelm-Brücke Wilhelmshaven",
+      "entwerfer": "Lutz Menze",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Brücke (Wilhelmshaven)",
+          "beschriftung": "Kaiser-Wilhelm-Brücke Wilhelmshaven",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Brücke (Wilhelmshaven)",
+          "wikidata": "Q1721549"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-08-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Saaletalsperre Bleiloch",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 6900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bleilochtalsperre",
+          "beschriftung": "Saaletalsperre Bleiloch",
+          "haupt": true,
+          "artikel": "Bleilochtalsperre",
+          "wikidata": "Q883654"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-08-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Deutsche Bundesbank",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 9800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Bundesbank",
+          "beschriftung": "Deutsche Bundesbank",
+          "haupt": true,
+          "artikel": "Deutsche Bundesbank",
+          "wikidata": "Q162222"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-09-20",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: \"Für uns Kinder\"",
+      "bild_beschreibung": "Igel im Herbstlaub",
+      "entwerfer": "Regina und Olaf Jäger",
+      "auflage": 7400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-09-20",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "Bildergeschichte II. (Postbote)",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 8151000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-09-20",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "Bildergeschichte II. (Empfänger)",
+      "entwerfer": "Peter und Regina Steiner",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-09-20",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Wissenschaftsrat",
+      "bild_beschreibung": "",
+      "entwerfer": "Nina Clausing",
+      "auflage": 6400000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wissenschaftsrat (Deutschland)",
+          "beschriftung": "Wissenschaftsrat",
+          "haupt": true,
+          "artikel": "Wissenschaftsrat (Deutschland)",
+          "wikidata": "Q896642"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2623",
+      "block": "Block 72",
+      "art": "Sondermarke",
+      "ausgabetag": "2007-10-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "Limes",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 2968000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": true,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        },
+        {
+          "titel": "Obergermanisch-Raetischer Limes",
+          "beschriftung": "Limes",
+          "haupt": false,
+          "artikel": "Obergermanisch-Raetischer Limes",
+          "wikidata": "Q17374397"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2624",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-10-11",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag Heinrich Friedrich Karl Freiherr vom und zum Stein",
+      "bild_beschreibung": "",
+      "entwerfer": "Lutz Menze",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Heinrich Friedrich Karl vom und zum Stein",
+          "beschriftung": "Heinrich Friedrich Karl Freiherr vom und zum Stein",
+          "haupt": true,
+          "artikel": "Heinrich Friedrich Karl vom und zum Stein",
+          "wikidata": "Q213542"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2625",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-10-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutscher Werkbund",
+      "bild_beschreibung": "Plakat zur Werkbundausstellung »Die Form« 1924 von Richard Herre",
+      "entwerfer": "Ingo Wulff",
+      "auflage": 7250000,
+      "commons_datei": "100 Jahre Deutscher Werkbund - Postwertzeichen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Werkbund",
+          "beschriftung": "Deutscher Werkbund",
+          "haupt": true,
+          "artikel": "Deutscher Werkbund",
+          "wikidata": "Q160438"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2626",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-11-08",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Motive aus dem Lukas-Evangelium; Anbetung der Heiligen Drei Könige",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 2650000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lukas-Evangelium",
+          "beschriftung": "Lukas-Evangelium",
+          "haupt": true,
+          "artikel": "Evangelium nach Lukas",
+          "wikidata": "Q39939"
+        },
+        {
+          "titel": "Heilige Drei Könige",
+          "beschriftung": "Heiligen Drei Könige",
+          "haupt": false,
+          "artikel": "Heilige Drei Könige",
+          "wikidata": "Q51671"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2627",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-11-08",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Geburt Christi",
+      "entwerfer": "Ernst und Lorli Jünger",
+      "auflage": 4930000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2628",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-11-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "800. Geburtstag Hl. Elisabeth von Thüringen",
+      "bild_beschreibung": "",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 10150000,
+      "commons_datei": "DPAG 2007 2628 Elisabeth von Thüringen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "Elisabeth von Thüringen",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2629",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-11-08",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Astrid Lindgren",
+      "bild_beschreibung": "Porträt von Astrid Lindgren mit einer ihrer Kinderbuchfiguren (Michel aus Lönneberga);; Gemeinschaftsausgabe mit Schweden",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Astrid Lindgren",
+          "beschriftung": "Astrid Lindgren",
+          "haupt": true,
+          "artikel": "Astrid Lindgren",
+          "wikidata": "Q55767"
+        },
+        {
+          "titel": "Michel aus Lönneberga",
+          "beschriftung": "Michel aus Lönneberga",
+          "haupt": false,
+          "artikel": "Michel aus Lönneberga",
+          "wikidata": "Q783843"
+        },
+        {
+          "titel": "Schweden",
+          "beschriftung": "Schweden",
+          "haupt": false,
+          "artikel": "Schweden",
+          "wikidata": "Q34"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2630",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Haustiere",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Hausmeerschweinchen",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3160000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hausmeerschweinchen",
+          "beschriftung": "Hausmeerschweinchen",
+          "haupt": true,
+          "artikel": "Hausmeerschweinchen",
+          "wikidata": "Q79803"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2631",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Haustiere",
+      "bild_beschreibung": "Pferde, Haflinger",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 2150000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haflinger",
+          "beschriftung": "Haflinger",
+          "haupt": true,
+          "artikel": "Haflinger",
+          "wikidata": "Q609630"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2632",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Haustiere",
+      "bild_beschreibung": "Hunde, Labrador Retriever",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 2300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hund",
+          "beschriftung": "Hund",
+          "haupt": true,
+          "artikel": "Haushund",
+          "wikidata": "Q144"
+        },
+        {
+          "titel": "Labrador Retriever",
+          "beschriftung": "Labrador Retriever",
+          "haupt": false,
+          "artikel": "Labrador Retriever",
+          "wikidata": "Q38726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2633",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege – Haustiere",
+      "bild_beschreibung": "Chinchillakaninchen",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3330000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chinchillakaninchen",
+          "beschriftung": "Chinchillakaninchen",
+          "haupt": true,
+          "artikel": "Chinchillakaninchen",
+          "wikidata": "Q656299"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2634",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "275. Geburtstag Carl Gotthard Langhans",
+      "bild_beschreibung": "Brandenburger Tor Berlin, Radierung nach einer Zeichnung von Peter Ludwig Lütke d. J., 1798",
+      "entwerfer": "Paul Effert",
+      "auflage": 8500000,
+      "commons_datei": "Ph071201 max.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Peter Ludwig Lütke",
+          "beschriftung": "Peter Ludwig Lütke d. J",
+          "haupt": false,
+          "artikel": "Peter Ludwig Lütke",
+          "wikidata": "Q1465308"
+        },
+        {
+          "titel": "Carl Gotthard Langhans",
+          "beschriftung": "Carl Gotthard Langhans",
+          "haupt": false,
+          "artikel": "Carl Gotthard Langhans",
+          "wikidata": "Q313181"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2635",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: \"Für die Wohlfahrtspflege\"",
+      "bild_beschreibung": "Pferde, Haflinger; selbstklebend aus Markenheftchen",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 10330000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2636",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2007-12-27",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "275. Geburtstag Carl Gotthard Langhans",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Paul Effert",
+      "auflage": 254630000,
+      "commons_datei": "Ph071201 max.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2480",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2007-03-01",
+      "wert": "4×0,05 € + 4×0,10 € + 2×0,20 € = 1,00 €",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Blumen",
+      "bild_beschreibung": "Am 1. März 2007 erschien ein Zusammendruck mit vier Werten zu 5 Cent, vier Werten zu 10 Cent und zwei Werten zu 20 Cent. Der Zusammendruck hat die Form eines Markenheftchenblatts, wurde aber einzeln ohne Schutzkarton ausgegeben. Da die Umrandung des Blatts ungezähnt ist, ergeben sich für die aufgeführten Marken neue Zähnungsvarianten: Alle Marken sind oben oder unten ungezähnt, je nachdem, ob sie aus der oberen oder aus der unteren Reihe stammen, ferner sind die Marken zu 20 Cent rechts ungezähnt und die beiden 5-Cent-Marken vom linken Rand sind links ungezähnt. Eine vergleichbare Ausgabe hat es bei der Deutschen Post noch nicht gegeben.",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

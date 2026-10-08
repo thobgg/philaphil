@@ -1,0 +1,1311 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1969,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1969 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1969_der_Deutschen_Bundespost",
+    "revision": 259739039,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 576,
+    "mi_nr_bis": 611,
+    "luecken": [],
+    "ausreisser": [
+      502
+    ],
+    "sondermarken_gezaehlt": 36,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "576",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre deutscher Luftpostverkehr",
+      "bild_beschreibung": "Junkers JU 52",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Junkers Ju 52/3m",
+          "beschriftung": "Junkers JU 52",
+          "haupt": true,
+          "artikel": "Junkers Ju 52/3m",
+          "wikidata": "Q15410360"
+        },
+        {
+          "titel": "Flugpost",
+          "beschriftung": "Luftpostverkehr",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "577",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre deutscher Luftpostverkehr",
+      "bild_beschreibung": "Boeing 707",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 577.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Boeing 707",
+          "beschriftung": "Boeing 707",
+          "haupt": true,
+          "artikel": "Boeing 707",
+          "wikidata": "Q6394"
+        },
+        {
+          "titel": "Flugpost",
+          "beschriftung": "Luftpostverkehr",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Pferde",
+      "bild_beschreibung": "Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig; Pony",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 7977000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": true,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Pony (Pferd)",
+          "beschriftung": "Pony",
+          "haupt": false,
+          "artikel": "Pony (Pferd)",
+          "wikidata": "Q188828"
+        },
+        {
+          "titel": "Hauspferd",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Hauspferd",
+          "wikidata": "Q726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "579",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Pferde",
+      "bild_beschreibung": "Kaltblut",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 12416000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaltblüter (Pferd)",
+          "beschriftung": "Kaltblut",
+          "haupt": true,
+          "artikel": "Kaltblüter (Pferd)",
+          "wikidata": "Q1513036"
+        },
+        {
+          "titel": "Hauspferd",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Hauspferd",
+          "wikidata": "Q726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "580",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Pferde",
+      "bild_beschreibung": "Warmblut",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 6610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Warmblüter (Pferd)",
+          "beschriftung": "Warmblut",
+          "haupt": true,
+          "artikel": "Warmblüter (Pferd)",
+          "wikidata": "Q2300748"
+        },
+        {
+          "titel": "Hauspferd",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Hauspferd",
+          "wikidata": "Q726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "581",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-02-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend: Pferde",
+      "bild_beschreibung": "Vollblut",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 6188000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vollblüter",
+          "beschriftung": "Vollblut",
+          "haupt": true,
+          "artikel": "Vollblüter",
+          "wikidata": "Q1609437"
+        },
+        {
+          "titel": "Hauspferd",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Hauspferd",
+          "wikidata": "Q726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "582",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-04-28",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Internationale Arbeitsorganisation (IAO)",
+      "bild_beschreibung": "Stern in den Farben der fünf Erdteile",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Arbeitsorganisation",
+          "beschriftung": "Internationale Arbeitsorganisation",
+          "haupt": true,
+          "artikel": "Internationale Arbeitsorganisation",
+          "wikidata": "Q54129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "583",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-04-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Namenszug Europa und CEPT in Tempelform",
+      "entwerfer": "Gasbarra, Belli",
+      "auflage": 50000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 583.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "CEPT",
+          "haupt": true,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "584",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-04-28",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europamarken",
+      "bild_beschreibung": "Namenszug Europa und CEPT in Tempelform",
+      "entwerfer": "Gasbarra, Belli",
+      "auflage": 71500000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 584.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "585",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-05-23",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Bundesrepublik Deutschland",
+      "bild_beschreibung": "Bundes- und Reichsadler",
+      "entwerfer": "Herbert Stelzer",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 585.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutschland",
+          "beschriftung": "Bundesrepublik Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        },
+        {
+          "titel": "Bundesadler (Bundesrepublik Deutschland)",
+          "beschriftung": "Bundes-",
+          "haupt": false,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "586",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Volksbund Deutsche Kriegsgräberfürsorge",
+      "bild_beschreibung": "Grabkreuze als Symbol des Volksbundes",
+      "entwerfer": "Ewald Sauer",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 586.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "beschriftung": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "haupt": true,
+          "artikel": "Volksbund Deutsche Kriegsgräberfürsorge",
+          "wikidata": "Q708567"
+        }
+      ]
+    },
+    {
+      "mi_nr": "587",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Leichtathletik",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 7666000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leichtathletik",
+          "beschriftung": "Leichtathletik",
+          "haupt": true,
+          "artikel": "Leichtathletik",
+          "wikidata": "Q542"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "588",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Hockey",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 7966000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hockey",
+          "beschriftung": "Hockey",
+          "haupt": true,
+          "artikel": "Hockey",
+          "wikidata": "Q1455"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "589",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Bogenschießen",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 7401000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bogenschießen",
+          "beschriftung": "Bogenschießen",
+          "haupt": true,
+          "artikel": "Bogenschießen",
+          "wikidata": "Q108429"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "590",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Olympische Sommerspiele 1972 in München",
+      "bild_beschreibung": "Segeln",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 7130000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segeln",
+          "beschriftung": "Segeln",
+          "haupt": true,
+          "artikel": "Segeln",
+          "wikidata": "Q192520"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1972",
+          "beschriftung": "Olympische Sommerspiele 1972",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1972",
+          "wikidata": "Q8438"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "591",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Naturschutzjahr 1970",
+      "bild_beschreibung": "Seeniederung",
+      "entwerfer": "Otto Rohse",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "See",
+          "beschriftung": "See",
+          "haupt": true,
+          "artikel": "See",
+          "wikidata": "Q23397"
+        },
+        {
+          "titel": "Europäisches Naturschutzjahr",
+          "beschriftung": "Europäisches Naturschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Naturschutzjahr",
+          "wikidata": "Q20181631"
+        },
+        {
+          "titel": "1970",
+          "beschriftung": "1970",
+          "haupt": false,
+          "artikel": "1970",
+          "wikidata": "Q2474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "592",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Naturschutzjahr 1970",
+      "bild_beschreibung": "Mittelgebirge",
+      "entwerfer": "Otto Rohse",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mittelgebirge",
+          "beschriftung": "Mittelgebirge",
+          "haupt": true,
+          "artikel": "Mittelgebirge",
+          "wikidata": "Q674541"
+        },
+        {
+          "titel": "Europäisches Naturschutzjahr",
+          "beschriftung": "Europäisches Naturschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Naturschutzjahr",
+          "wikidata": "Q20181631"
+        },
+        {
+          "titel": "1970",
+          "beschriftung": "1970",
+          "haupt": false,
+          "artikel": "1970",
+          "wikidata": "Q2474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "593",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Naturschutzjahr 1970",
+      "bild_beschreibung": "Hochgebirge",
+      "entwerfer": "Otto Rohse",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochgebirge",
+          "beschriftung": "Hochgebirge",
+          "haupt": true,
+          "artikel": "Hochgebirge",
+          "wikidata": "Q15766"
+        },
+        {
+          "titel": "Europäisches Naturschutzjahr",
+          "beschriftung": "Europäisches Naturschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Naturschutzjahr",
+          "wikidata": "Q20181631"
+        },
+        {
+          "titel": "1970",
+          "beschriftung": "1970",
+          "haupt": false,
+          "artikel": "1970",
+          "wikidata": "Q2474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "594",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-06-04",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäisches Naturschutzjahr 1970",
+      "bild_beschreibung": "Flußlandschaft",
+      "entwerfer": "Otto Rohse",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fluss",
+          "beschriftung": "Flußlandschaft",
+          "haupt": true,
+          "artikel": "Fluss",
+          "wikidata": "Q4022"
+        },
+        {
+          "titel": "Europäisches Naturschutzjahr",
+          "beschriftung": "Europäisches Naturschutzjahr",
+          "haupt": false,
+          "artikel": "Europäisches Naturschutzjahr",
+          "wikidata": "Q20181631"
+        },
+        {
+          "titel": "1970",
+          "beschriftung": "1970",
+          "haupt": false,
+          "artikel": "1970",
+          "wikidata": "Q2474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "595",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-07-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "14. Deutscher Evangelischer Kirchentag in Stuttgart",
+      "bild_beschreibung": "Motto: Hungern nach Gerechtigkeit",
+      "entwerfer": "Rau",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 595.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        },
+        {
+          "titel": "Wahlspruch",
+          "beschriftung": "Motto",
+          "haupt": false,
+          "artikel": "Wahlspruch",
+          "wikidata": "Q42470"
+        },
+        {
+          "titel": "Liste der Deutschen Evangelischen Kirchentage und beteiligter Personen",
+          "beschriftung": "''Hungern nach Gerechtigkeit''",
+          "haupt": false,
+          "artikel": "Liste der Deutschen Evangelischen Kirchentage und beteiligter Personen",
+          "wikidata": "Q1838191"
+        }
+      ]
+    },
+    {
+      "mi_nr": "596",
+      "block": "Block 5",
+      "art": "Sondermarke",
+      "ausgabetag": "1969-08-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Frauenwahlrecht in Deutschland",
+      "bild_beschreibung": "Marie Juchacz (1879–1956)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 596.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marie Juchacz",
+          "beschriftung": "Marie Juchacz",
+          "haupt": true,
+          "artikel": "Marie Juchacz",
+          "wikidata": "Q85820"
+        },
+        {
+          "titel": "Frauenwahlrecht",
+          "beschriftung": "Frauenwahlrecht",
+          "haupt": false,
+          "artikel": "Frauenwahlrecht",
+          "wikidata": "Q205204"
+        },
+        {
+          "titel": "Deutschland",
+          "beschriftung": "Deutschland",
+          "haupt": false,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "597",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-08-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Frauenwahlrecht in Deutschland",
+      "bild_beschreibung": "Marie-Elisabeth Lüders (1878–1966)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 597.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marie-Elisabeth Lüders",
+          "beschriftung": "Marie-Elisabeth Lüders",
+          "haupt": true,
+          "artikel": "Marie-Elisabeth Lüders",
+          "wikidata": "Q70950"
+        },
+        {
+          "titel": "Frauenwahlrecht",
+          "beschriftung": "Frauenwahlrecht",
+          "haupt": false,
+          "artikel": "Frauenwahlrecht",
+          "wikidata": "Q205204"
+        },
+        {
+          "titel": "Deutschland",
+          "beschriftung": "Deutschland",
+          "haupt": false,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "598",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-08-11",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre Frauenwahlrecht in Deutschland",
+      "bild_beschreibung": "Helene Weber (1881–1962)",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 598.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helene Weber",
+          "beschriftung": "Helene Weber",
+          "haupt": true,
+          "artikel": "Helene Weber",
+          "wikidata": "Q95851"
+        },
+        {
+          "titel": "Frauenwahlrecht",
+          "beschriftung": "Frauenwahlrecht",
+          "haupt": false,
+          "artikel": "Frauenwahlrecht",
+          "wikidata": "Q205204"
+        },
+        {
+          "titel": "Deutschland",
+          "beschriftung": "Deutschland",
+          "haupt": false,
+          "artikel": "Deutschland",
+          "wikidata": "Q183"
+        }
+      ]
+    },
+    {
+      "mi_nr": "599",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-08-11",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Nationale Funkausstellung in Stuttgart",
+      "bild_beschreibung": "Elektromagnetische Welle im Koordinatenkreuz",
+      "entwerfer": "Hugo Günter Magnus",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung",
+          "beschriftung": "Funkausstellung",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": false,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        },
+        {
+          "titel": "Elektromagnetische Welle",
+          "beschriftung": "Elektromagnetische Welle",
+          "haupt": false,
+          "artikel": "Elektromagnetische Welle",
+          "wikidata": "Q11386"
+        },
+        {
+          "titel": "Koordinatensystem",
+          "beschriftung": "Koordinatenkreuz",
+          "haupt": false,
+          "artikel": "Koordinatensystem",
+          "wikidata": "Q11210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "600",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-08-11",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Malteser Hilfsdienst",
+      "bild_beschreibung": "Malteserkreuz",
+      "entwerfer": "Peters",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 600.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Malteser Hilfsdienst",
+          "beschriftung": "Malteser Hilfsdienst",
+          "haupt": true,
+          "artikel": "Malteser Hilfsdienst",
+          "wikidata": "Q1318397"
+        },
+        {
+          "titel": "Malteserkreuz",
+          "beschriftung": "Malteserkreuz",
+          "haupt": false,
+          "artikel": "Malteserkreuz",
+          "wikidata": "Q225937"
+        }
+      ]
+    },
+    {
+      "mi_nr": "601",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-09-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutscher Philatelistentag in Garmisch-Partenkirchen",
+      "bild_beschreibung": "Motiv entspricht einem Prägedruck von 1876",
+      "entwerfer": "Erwin Poell",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 601.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Philatelistentag",
+          "beschriftung": "Deutscher Philatelistentag",
+          "haupt": true,
+          "artikel": "Deutscher Philatelistentag",
+          "wikidata": "Q1205182"
+        },
+        {
+          "titel": "Garmisch-Partenkirchen",
+          "beschriftung": "Garmisch-Partenkirchen",
+          "haupt": false,
+          "artikel": "Garmisch-Partenkirchen",
+          "wikidata": "Q127043"
+        },
+        {
+          "titel": "Prägedruck",
+          "beschriftung": "Prägedruck",
+          "haupt": false,
+          "artikel": "Prägedruck",
+          "wikidata": "Q1146140"
+        }
+      ]
+    },
+    {
+      "mi_nr": "602",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-09-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "350 Jahre Soleleitung",
+      "bild_beschreibung": "Bad Reichenhall-Traunstein",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 602.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Soleleitung (Bad Reichenhall)",
+          "beschriftung": "Soleleitung",
+          "haupt": true,
+          "artikel": "Soleleitung (Bad Reichenhall)",
+          "wikidata": "Q56453244"
+        },
+        {
+          "titel": "Bad Reichenhall",
+          "beschriftung": "Bad Reichenhall",
+          "haupt": false,
+          "artikel": "Bad Reichenhall",
+          "wikidata": "Q487971"
+        },
+        {
+          "titel": "Traunstein",
+          "beschriftung": "Traunstein",
+          "haupt": false,
+          "artikel": "Traunstein",
+          "wikidata": "Q253119"
+        }
+      ]
+    },
+    {
+      "mi_nr": "603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-09-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fremdenverkehr",
+      "bild_beschreibung": "Rothenburg ob der Tauber",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fremdenverkehr (Briefmarkenserie)",
+          "beschriftung": "Fremdenverkehr",
+          "haupt": true,
+          "artikel": "Fremdenverkehr (Briefmarkenserie)",
+          "wikidata": "Q1455088"
+        },
+        {
+          "titel": "Rothenburg ob der Tauber",
+          "beschriftung": "Rothenburg ob der Tauber",
+          "haupt": false,
+          "artikel": "Rothenburg ob der Tauber",
+          "wikidata": "Q153494"
+        }
+      ]
+    },
+    {
+      "mi_nr": "604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Zinnfiguren",
+      "bild_beschreibung": "Eisenbahn (um 1835)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 14294000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Eisenbahn",
+          "haupt": true,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Zinnfiguren",
+      "bild_beschreibung": "Gärtner (um 1780)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 20110000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gärtner",
+          "beschriftung": "Gärtner",
+          "haupt": true,
+          "artikel": "Gärtner",
+          "wikidata": "Q758780"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Zinnfiguren",
+      "bild_beschreibung": "Vogelhändler (um 1850)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 16420000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vogelhändler",
+          "beschriftung": "Vogelhändler",
+          "haupt": true,
+          "artikel": "Der Vogelhändler",
+          "wikidata": "Q1197853"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken: Zinnfiguren",
+      "bild_beschreibung": "Reiter (um 1840)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7763000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reiten",
+          "beschriftung": "Reiter",
+          "haupt": true,
+          "artikel": "Reiten",
+          "wikidata": "Q179226"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Gandhi",
+      "bild_beschreibung": "Führer der indischen Unabhängigkeitsbewegung",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 608.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mohandas Karamchand Gandhi",
+          "beschriftung": "Gandhi",
+          "haupt": true,
+          "artikel": "Mohandas Karamchand Gandhi",
+          "wikidata": "Q1001"
+        }
+      ]
+    },
+    {
+      "mi_nr": "609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-10-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Papst Johannes XXIII.",
+      "bild_beschreibung": "Pontifikat 1958–1963",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 609.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Papst",
+          "beschriftung": "Papst",
+          "haupt": true,
+          "artikel": "Papst",
+          "wikidata": "Q19546"
+        },
+        {
+          "titel": "Johannes XXIII.",
+          "beschriftung": "Johannes XXIII.",
+          "haupt": false,
+          "artikel": "Johannes XXIII.",
+          "wikidata": "Q23873"
+        },
+        {
+          "titel": "Pontifikat",
+          "beschriftung": "Pontifikat",
+          "haupt": false,
+          "artikel": "Pontifikat",
+          "wikidata": "Q12799209"
+        }
+      ]
+    },
+    {
+      "mi_nr": "610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-11-13",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke",
+      "bild_beschreibung": "Christi Geburt, Zinnfigur um 1850",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 13110000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost",
+          "wikidata": "Q1769659"
+        },
+        {
+          "titel": "Weihnachten",
+          "beschriftung": "Christi Geburt",
+          "haupt": false,
+          "artikel": "Weihnachten",
+          "wikidata": "Q19809"
+        },
+        {
+          "titel": "Zinnfigur",
+          "beschriftung": "Zinnfigur",
+          "haupt": false,
+          "artikel": "Zinnfigur",
+          "wikidata": "Q79938"
+        }
+      ]
+    },
+    {
+      "mi_nr": "611",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1969-11-13",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Ernst Moritz Arndt",
+      "bild_beschreibung": "Dichter und politischer Schriftsteller",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1969, MiNr 611.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Moritz Arndt",
+          "beschriftung": "Ernst Moritz Arndt",
+          "haupt": true,
+          "artikel": "Ernst Moritz Arndt",
+          "wikidata": "Q57351"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "502",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1969-03-26",
+      "wert": "1,30 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Ausgabe Berlin war bis zum 31. Dezember 1991 frankaturgültig; Schloss Tegel in Berlin",
+      "entwerfer": "Otto Rohse",
+      "auflage": 39000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": true,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        },
+        {
+          "titel": "frankatur",
+          "beschriftung": "frankatur",
+          "haupt": false,
+          "artikel": "Frankatur",
+          "wikidata": "Q1444571"
+        },
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": false,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    }
+  ]
+}

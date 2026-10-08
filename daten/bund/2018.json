@@ -1,0 +1,2058 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2018,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2018 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2018_der_Bundesrepublik_Deutschland",
+    "revision": 265763868,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 3351,
+    "mi_nr_bis": 3432,
+    "luecken": [
+      3379,
+      3389,
+      3406
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 70,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "3352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-01-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Reh",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 3673000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reh",
+          "beschriftung": "Reh",
+          "haupt": true,
+          "artikel": "Reh",
+          "wikidata": "Q122069"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-01-02",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Seehund",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 3673000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seehund",
+          "beschriftung": "Seehund",
+          "haupt": true,
+          "artikel": "Seehund",
+          "wikidata": "Q26913"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-01-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Falkenlust zu Brühl",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 5748000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlösser Augustusburg und Falkenlust",
+          "beschriftung": "Schloss Falkenlust",
+          "haupt": true,
+          "artikel": "Schlösser Augustusburg und Falkenlust",
+          "wikidata": "Q156292"
+        },
+        {
+          "titel": "Brühl (Rheinland)",
+          "beschriftung": "Brühl",
+          "haupt": false,
+          "artikel": "Brühl (Rheinland)",
+          "wikidata": "Q7036"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-01-02",
+      "wert": "260",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Brotkultur",
+      "bild_beschreibung": "",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 3083000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-01-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Astrophysik",
+      "bild_beschreibung": "Gravitationswellen; selbstklebend aus Folienblatt",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 360190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gravitationswellen",
+          "beschriftung": "Gravitationswellen",
+          "haupt": true,
+          "artikel": "Gravitationswelle",
+          "wikidata": "Q190035"
+        },
+        {
+          "titel": "Astrophysik",
+          "beschriftung": "Astrophysik",
+          "haupt": false,
+          "artikel": "Astrophysik",
+          "wikidata": "Q37547"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Froschkönig",
+      "bild_beschreibung": "zur Unterstützung der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.; Goldene Kugel",
+      "entwerfer": "Johannes Graf",
+      "auflage": 2653000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Froschkönig",
+      "bild_beschreibung": "Goldenes Besteck",
+      "entwerfer": "Johannes Graf",
+      "auflage": 3554000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3359",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Froschkönig",
+      "bild_beschreibung": "Nach dem Mahl",
+      "entwerfer": "Johannes Graf",
+      "auflage": 5104000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für die Wohlfahrtspflege",
+          "beschriftung": "Für die Wohlfahrtspflege",
+          "haupt": true,
+          "artikel": "Wohlfahrtsmarke",
+          "wikidata": "Q2587794"
+        },
+        {
+          "titel": "Grimms Märchen",
+          "beschriftung": "Grimms Märchen",
+          "haupt": false,
+          "artikel": "Grimms Märchen",
+          "wikidata": "Q163027"
+        },
+        {
+          "titel": "Der Froschkönig oder der eiserne Heinrich",
+          "beschriftung": "Der Froschkönig",
+          "haupt": false,
+          "artikel": "Der Froschkönig oder der eiserne Heinrich",
+          "wikidata": "Q11850"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3360",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Rheinische Friedrich-Wilhelms-Universität Bonn",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Hoch",
+      "auflage": 5783000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+          "beschriftung": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+          "haupt": true,
+          "artikel": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+          "wikidata": "Q152171"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3361",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Tafeln in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Susann Stefanizen",
+      "auflage": 5705000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tafel (Organisation)",
+          "beschriftung": "Tafeln",
+          "haupt": true,
+          "artikel": "Tafel (Organisation)",
+          "wikidata": "Q113603"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3362",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Vitamin C; selbstklebend aus Rolle",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 7030500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vitamin C",
+          "beschriftung": "Vitamin C",
+          "haupt": true,
+          "artikel": "Ascorbinsäure",
+          "wikidata": "Q193598"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Design aus Deutschland",
+      "bild_beschreibung": "Lindinger Straßenbahn Stuttgart; selbstklebend aus Rolle",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 6289500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SSB DT 8",
+          "beschriftung": "Lindinger Straßenbahn Stuttgart",
+          "haupt": true,
+          "artikel": "SSB DT 8",
+          "wikidata": "Q1686776"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-02-01",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Wohlfahrtspflege – Grimms Märchen – Der Froschkönig",
+      "bild_beschreibung": "Goldene Kugel; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Johannes Graf",
+      "auflage": 13001400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3366",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Friedenstein Gotha",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 4255000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Friedenstein",
+          "beschriftung": "Schloss Friedenstein",
+          "haupt": true,
+          "artikel": "Schloss Friedenstein",
+          "wikidata": "Q875568"
+        },
+        {
+          "titel": "Gotha",
+          "beschriftung": "Gotha",
+          "haupt": false,
+          "artikel": "Gotha",
+          "wikidata": "Q6986"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3367",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Automobil-Klassiker (1950er bis 1980er Jahre)",
+      "bild_beschreibung": "Audi Quattro",
+      "entwerfer": "Thomas Serres",
+      "auflage": 3293000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Audi Quattro",
+          "beschriftung": "Audi Quattro",
+          "haupt": true,
+          "artikel": "Audi quattro",
+          "wikidata": "Q679103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Automobil-Klassiker (1950er bis 1980er Jahre)",
+      "bild_beschreibung": "Wartburg 1.3",
+      "entwerfer": "Thomas Serres",
+      "auflage": 3293000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburg 1.3",
+          "beschriftung": "Wartburg 1.3",
+          "haupt": true,
+          "artikel": "Wartburg 1.3",
+          "wikidata": "Q3559613"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3369",
+      "block": "Block 82",
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Peanuts",
+      "bild_beschreibung": "Post für Snoopy",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 5805000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die Peanuts",
+          "beschriftung": "Peanuts",
+          "haupt": true,
+          "artikel": "Die Peanuts",
+          "wikidata": "Q7115636"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Peanuts",
+      "bild_beschreibung": "Die Peanuts-Rasselbande",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 4290000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die Peanuts",
+          "beschriftung": "Peanuts",
+          "haupt": true,
+          "artikel": "Die Peanuts",
+          "wikidata": "Q7115636"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Post für Snoopy",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 62380000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Die Peanuts-Rasselbande",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 11590000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-04-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Peter Behrens",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela Haufe und Detlef Fiedler",
+      "auflage": 4773000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Peter Behrens",
+          "beschriftung": "Peter Behrens",
+          "haupt": true,
+          "artikel": "Peter Behrens",
+          "wikidata": "Q76726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3374",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-04-12",
+      "wert": "150",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Technische Universität München",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 3173000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Technische Universität München",
+          "beschriftung": "Technische Universität München",
+          "haupt": true,
+          "artikel": "Technische Universität München",
+          "wikidata": "Q157808"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3375",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-04-12",
+      "wert": "370",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Elisabeth Mann Borgese",
+      "bild_beschreibung": "",
+      "entwerfer": "Nicole Elsenbach",
+      "auflage": 6643000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Elisabeth Mann Borgese",
+          "beschriftung": "Elisabeth Mann Borgese",
+          "haupt": true,
+          "artikel": "Elisabeth Mann Borgese",
+          "wikidata": "Q71819"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-04-12",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tierkinder",
+      "bild_beschreibung": "Reh; selbstklebend aus Folienblatt",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 90410000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-04-12",
+      "wert": "je 145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Automobil-Klassiker",
+      "bild_beschreibung": "Audi Quattro; Wartburg 1.3; selbstklebend aus Folienblatt",
+      "entwerfer": "Thomas Serres",
+      "auflage": 68510000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Sportlegenden – Legendäre Fußballspiele",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe; Finale 1954",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 1757000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Sportlegenden – Legendäre Fußballspiele",
+      "bild_beschreibung": "Finale 1974",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 1751000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Sport – Sportlegenden – Legendäre Fußballspiele",
+      "bild_beschreibung": "Finale 1990",
+      "entwerfer": "Astrid Grahl und Lutz Menze",
+      "auflage": 1751000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Brücken",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 3809000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": false,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Karl Marx",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Mayfried",
+      "auflage": 3771000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Tag der Musik – 275 Jahre Gewandhausorchester",
+      "bild_beschreibung": "",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 4261000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Gewandhausorchester",
+          "beschriftung": "Gewandhausorchester",
+          "haupt": true,
+          "artikel": "Gewandhausorchester",
+          "wikidata": "Q156515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3386 MH 111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schreibanlässe",
+      "bild_beschreibung": "Danke",
+      "entwerfer": "Regina Kehn",
+      "auflage": 3522000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3387 MH 111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schreibanlässe",
+      "bild_beschreibung": "Viel Glück",
+      "entwerfer": "Regina Kehn",
+      "auflage": 3522000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3388",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "je 70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Falkenlust; Schloss Friedenstein; selbstklebend aus Folienblatt",
+      "entwerfer": "Nicole Elsenbach und Frank Fienbork",
+      "auflage": 26345000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3390",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-05-03",
+      "wert": "260",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Deutsche Brotkultur",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Carsten Wolff",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3391",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Leuchtturm Darßer Ort",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4313000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Darßer Ort",
+          "beschriftung": "Leuchtturm Darßer Ort",
+          "haupt": true,
+          "artikel": "Leuchtturm Darßer Ort",
+          "wikidata": "Q1720366"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3392",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Neuer Leuchtturm Wangerooge",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4263000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neuer Leuchtturm Wangerooge",
+          "beschriftung": "Neuer Leuchtturm Wangerooge",
+          "haupt": true,
+          "artikel": "Neuer Leuchtturm Wangerooge",
+          "wikidata": "Q19832618"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3393",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Goethe in der Campagna (Johann Heinrich Wilhelm Tischbein)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 5203000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goethe in der Campagna",
+          "beschriftung": "Goethe in der Campagna",
+          "haupt": true,
+          "artikel": "Goethe in der Campagna",
+          "wikidata": "Q481447"
+        },
+        {
+          "titel": "Johann Heinrich Wilhelm Tischbein",
+          "beschriftung": "Johann Heinrich Wilhelm Tischbein",
+          "haupt": false,
+          "artikel": "Johann Heinrich Wilhelm Tischbein",
+          "wikidata": "Q213973"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3394",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Weihe Wormser Dom St. Peter",
+      "bild_beschreibung": "",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 3283000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wormser Dom",
+          "beschriftung": "Wormser Dom",
+          "haupt": true,
+          "artikel": "Wormser Dom",
+          "wikidata": "Q701996"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3395",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Hansestadt Rostock",
+      "bild_beschreibung": "",
+      "entwerfer": "Matthias Wittig",
+      "auflage": 4827000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hansestadt",
+          "beschriftung": "Hansestadt",
+          "haupt": true,
+          "artikel": "Hansestadt",
+          "wikidata": "Q707813"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3396",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Neuer Leuchtturm Wangerooge; selbstklebend aus Rolle",
+      "entwerfer": "Johannes Graf",
+      "auflage": 375265000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3397",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Goethe in der Campagna (Johann Heinrich Wilhelm Tischbein); selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 88431400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3398",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-06-07",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1000 Jahre Weihe Wormser Dom St. Peter",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 40400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3400",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "345",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Design aus Deutschland",
+      "bild_beschreibung": "Weltempfänger von Dieter Rams",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 2084000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltempfänger",
+          "beschriftung": "Weltempfänger",
+          "haupt": true,
+          "artikel": "Weltempfänger",
+          "wikidata": "Q2558173"
+        },
+        {
+          "titel": "Dieter Rams",
+          "beschriftung": "Dieter Rams",
+          "haupt": false,
+          "artikel": "Dieter Rams",
+          "wikidata": "Q76427"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3401",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Gartenreich Dessau-Wörlitz Motiv 1",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2617000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gartenreich Dessau-Wörlitz",
+          "beschriftung": "Gartenreich Dessau-Wörlitz",
+          "haupt": true,
+          "artikel": "Dessau-Wörlitzer Gartenreich",
+          "wikidata": "Q157543"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3402",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Gartenreich Dessau-Wörlitz Motiv 2",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 2617000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3403",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag Magnus Hirschfeld",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 4218000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Magnus Hirschfeld",
+          "beschriftung": "Magnus Hirschfeld",
+          "haupt": true,
+          "artikel": "Magnus Hirschfeld",
+          "wikidata": "Q57592"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Nelson Mandela",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Südafrika",
+      "entwerfer": "Annette le Fort und André Heers",
+      "auflage": 4304000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nelson Mandela",
+          "beschriftung": "Nelson Mandela",
+          "haupt": true,
+          "artikel": "Nelson Mandela",
+          "wikidata": "Q8023"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Südafrika",
+          "beschriftung": "Südafrika",
+          "haupt": false,
+          "artikel": "Südafrika",
+          "wikidata": "Q258"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3405",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "je 45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutschlands schönste Panoramen",
+      "bild_beschreibung": "Gartenreich Dessau-Wörlitz Motiv 1; Gartenreich Dessau-Wörlitz Motiv 2; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 21867500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3407",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-08-09",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive Pilze",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Echter Pfifferling",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 1697900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Echter Pfifferling",
+          "beschriftung": "Echter Pfifferling",
+          "haupt": false,
+          "artikel": "Echter Pfifferling",
+          "wikidata": "Q188749"
+        },
+        {
+          "titel": "Pilze",
+          "beschriftung": "Pilze",
+          "haupt": false,
+          "artikel": "Pilze",
+          "wikidata": "Q764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3408",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-08-09",
+      "wert": "85+40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive Pilze",
+      "bild_beschreibung": "Echter Steinpilz",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 1691900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steinpilz",
+          "beschriftung": "Steinpilz",
+          "haupt": true,
+          "artikel": "Gemeiner Steinpilz",
+          "wikidata": "Q19740"
+        },
+        {
+          "titel": "Pilze",
+          "beschriftung": "Pilze",
+          "haupt": false,
+          "artikel": "Pilze",
+          "wikidata": "Q764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3409",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-08-09",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für die Jugend – Motive Pilze",
+      "bild_beschreibung": "Maronen-Röhrling",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 1691900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maronen-Röhrling",
+          "beschriftung": "Maronen-Röhrling",
+          "haupt": true,
+          "artikel": "Maronen-Röhrling",
+          "wikidata": "Q752497"
+        },
+        {
+          "titel": "Pilze",
+          "beschriftung": "Pilze",
+          "haupt": false,
+          "artikel": "Pilze",
+          "wikidata": "Q764"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3410",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-08-09",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Harz – Bergfichtenurwald",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 4223400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harz (Mittelgebirge)",
+          "beschriftung": "Harz",
+          "haupt": true,
+          "artikel": "Harz (Mittelgebirge)",
+          "wikidata": "Q4186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3411",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-09-13",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Für den Umweltschutz",
+      "bild_beschreibung": "zur Unterstützung von Projekten für den Umwelt- und Naturschutz; Biologische Vielfalt",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1693900,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        },
+        {
+          "titel": "Biodiversität",
+          "beschriftung": "Biologische Vielfalt",
+          "haupt": false,
+          "artikel": "Biodiversität",
+          "wikidata": "Q47041"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3412",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-09-13",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Tag der Briefmarke",
+      "bild_beschreibung": "150 Jahre Norddeutscher Postbezirk",
+      "entwerfer": "Ursula Lautenschläger",
+      "auflage": 4587400,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Norddeutscher Postbezirk",
+          "beschriftung": "Norddeutscher Postbezirk",
+          "haupt": false,
+          "artikel": "Norddeutscher Postbezirk",
+          "wikidata": "Q324072"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3413",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-09-13",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Kohlenstofffaser",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3149400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kohlenstofffaser",
+          "beschriftung": "Kohlenstofffaser",
+          "haupt": true,
+          "artikel": "Kohlenstofffaser",
+          "wikidata": "Q5860"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3415",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-10-11",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Fernsehlegenden",
+      "bild_beschreibung": "Dinner for one",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 4709500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Fernsehlegenden",
+          "beschriftung": "Deutsche Fernsehlegenden",
+          "haupt": true,
+          "artikel": "Deutsche Fernsehlegenden",
+          "wikidata": "Q75045420"
+        },
+        {
+          "titel": "Dinner for one",
+          "beschriftung": "Dinner for one",
+          "haupt": false,
+          "artikel": "Dinner for One",
+          "wikidata": "Q1226593"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3416",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-10-11",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Schätze aus deutschen Museen",
+      "bild_beschreibung": "Johann Gottfried Schadow – Die Prinzessinnengruppe",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 3216500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Gottfried Schadow",
+          "beschriftung": "Johann Gottfried Schadow",
+          "haupt": true,
+          "artikel": "Johann Gottfried Schadow",
+          "wikidata": "Q51989"
+        },
+        {
+          "titel": "Prinzessinnengruppe",
+          "beschriftung": "Prinzessinnengruppe",
+          "haupt": false,
+          "artikel": "Prinzessinnengruppe",
+          "wikidata": "Q2110740"
+        },
+        {
+          "titel": "Schätze aus deutschen Museen",
+          "beschriftung": "Schätze aus deutschen Museen",
+          "haupt": false,
+          "artikel": "Schätze aus deutschen Museen",
+          "wikidata": "Q42291269"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3417",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-10-11",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Lübecker Märtyrer",
+      "bild_beschreibung": "",
+      "entwerfer": "Christopher Jung",
+      "auflage": 4216500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lübecker Märtyrer",
+          "beschriftung": "Lübecker Märtyrer",
+          "haupt": true,
+          "artikel": "Lübecker Märtyrer",
+          "wikidata": "Q454787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3418",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-11-02",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Kirchenfenster „Jungfrau Maria mit dem Jesuskind“ aus Pfarrkirche St. Stephan zu; Mainz",
+      "entwerfer": "Designbüro Behr",
+      "auflage": 2259000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "St. Stephan (Mainz)",
+          "beschriftung": "Pfarrkirche St. Stephan zu; Mainz",
+          "haupt": true,
+          "artikel": "St. Stephan (Mainz)",
+          "wikidata": "Q661125"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3419",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag Friedrich Schleiermacher",
+      "bild_beschreibung": "",
+      "entwerfer": "Armin Lindauer",
+      "auflage": 4233500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Schleiermacher",
+          "beschriftung": "Friedrich Schleiermacher",
+          "haupt": true,
+          "artikel": "Friedrich Schleiermacher",
+          "wikidata": "Q76576"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3420",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Ernst Otto Fischer",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Meyer",
+      "auflage": 4704500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Otto Fischer",
+          "beschriftung": "Ernst Otto Fischer",
+          "haupt": true,
+          "artikel": "Ernst Otto Fischer",
+          "wikidata": "Q44594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3421",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsschlitten",
+      "bild_beschreibung": "",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 6727000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3422",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-11-02",
+      "wert": "70+30",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Kirchenfenster; selbstklebend aus Markenheftchen",
+      "entwerfer": "Designbüro Behr",
+      "auflage": 3741000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-11-02",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsschlitten",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jennifer Dengler",
+      "auflage": 63029500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "3425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Astrophysik",
+      "bild_beschreibung": "ALMA-Observatorium",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3226500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Atacama Large Millimeter/submillimeter Array",
+          "beschriftung": "ALMA-Observatorium",
+          "haupt": true,
+          "artikel": "Atacama Large Millimeter/submillimeter Array",
+          "wikidata": "Q725364"
+        },
+        {
+          "titel": "Astrophysik",
+          "beschriftung": "Astrophysik",
+          "haupt": false,
+          "artikel": "Astrophysik",
+          "wikidata": "Q37547"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Astrophysik",
+      "bild_beschreibung": "Illustris-Simulation",
+      "entwerfer": "Thomas Steinacker",
+      "auflage": 3196500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Illustris-Projekt",
+          "beschriftung": "Illustris-Simulation",
+          "haupt": true,
+          "artikel": "Illustris-Projekt",
+          "wikidata": "Q18193875"
+        },
+        {
+          "titel": "Astrophysik",
+          "beschriftung": "Astrophysik",
+          "haupt": false,
+          "artikel": "Astrophysik",
+          "wikidata": "Q37547"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3427",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Mikrowelten",
+      "bild_beschreibung": "Flüssigkristallanzeige (LCD)",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 3664500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flüssigkristallanzeige",
+          "beschriftung": "Flüssigkristallanzeige",
+          "haupt": true,
+          "artikel": "Flüssigkristallanzeige",
+          "wikidata": "Q83341"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3428",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Wildes Deutschland",
+      "bild_beschreibung": "Schwarzwald – Hornisgrinde",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 3204500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzwald",
+          "beschriftung": "Schwarzwald",
+          "haupt": true,
+          "artikel": "Schwarzwald",
+          "wikidata": "Q4204"
+        },
+        {
+          "titel": "Hornisgrinde",
+          "beschriftung": "Hornisgrinde",
+          "haupt": false,
+          "artikel": "Hornisgrinde",
+          "wikidata": "Q650402"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Helmut Schmidt",
+      "bild_beschreibung": "",
+      "entwerfer": "Frank Fienbork",
+      "auflage": 3748500,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Helmut Schmidt",
+          "beschriftung": "Helmut Schmidt",
+          "haupt": true,
+          "artikel": "Helmut Schmidt",
+          "wikidata": "Q2516"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3351",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Jungfer im Grünen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 81089000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jungfer im Grünen",
+          "beschriftung": "Jungfer im Grünen",
+          "haupt": true,
+          "artikel": "Jungfer im Grünen",
+          "wikidata": "Q158338"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3365",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-03-01",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Alpenveilchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alpenveilchen",
+          "beschriftung": "Alpenveilchen",
+          "haupt": true,
+          "artikel": "Alpenveilchen",
+          "wikidata": "Q147295"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3376",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-04-12",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Seerose; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seerosen",
+          "beschriftung": "Seerose",
+          "haupt": true,
+          "artikel": "Seerosen",
+          "wikidata": "Q146628"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3399",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-07-12",
+      "wert": "379",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Kokardenblume",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 1896400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kokardenblume",
+          "beschriftung": "Kokardenblume",
+          "haupt": true,
+          "artikel": "Kokardenblumen",
+          "wikidata": "Q732510"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3414",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-10-11",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Hauswurz",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4444400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hauswurzen",
+          "beschriftung": "Hauswurz",
+          "haupt": true,
+          "artikel": "Hauswurz (Gattung)",
+          "wikidata": "Q161695"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3424",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "15",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Wiesenschaumkraut",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 8375900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiesen-Schaumkraut",
+          "beschriftung": "Wiesenschaumkraut",
+          "haupt": true,
+          "artikel": "Wiesen-Schaumkraut",
+          "wikidata": "Q27490"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3430",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "10",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Winterling; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Winterling",
+          "beschriftung": "Winterling",
+          "haupt": true,
+          "artikel": "Winterling",
+          "wikidata": "Q161553"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3431",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "15",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Wiesenschaumkraut; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3432",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2018-12-18",
+      "wert": "20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Hasenglöckchen; selbstklebend aus Folienblatt",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hasenglöckchen",
+          "beschriftung": "Hasenglöckchen",
+          "haupt": true,
+          "artikel": "Hasenglöckchen",
+          "wikidata": "Q159311"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

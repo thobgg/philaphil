@@ -1,0 +1,1110 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1961,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1961 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1961_der_Deutschen_Bundespost",
+    "revision": 260644093,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 346,
+    "mi_nr_bis": 374,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 13,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-04-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "50 Jahre Pfadfinder in Deutschland",
+      "bild_beschreibung": "Schutzpatron der Pfadfinder, der heilige Georg (Drachentöter)",
+      "entwerfer": "Eduard Ege",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1961 346 50 Jahre Pfadfinder.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pfadfinder",
+          "beschriftung": "Pfadfinder",
+          "haupt": true,
+          "artikel": "Pfadfinder",
+          "wikidata": "Q872181"
+        },
+        {
+          "titel": "Georg (Heiliger)",
+          "beschriftung": "heilige Georg",
+          "haupt": false,
+          "artikel": "Georg (Heiliger)",
+          "wikidata": "Q48438"
+        }
+      ]
+    },
+    {
+      "mi_nr": "363",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "75 Jahre Motorisierung des Verkehrs",
+      "bild_beschreibung": "Erster Motorwagen von Gottlieb Daimler",
+      "entwerfer": "Siegmund",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1961 363 75 Jahre Motorisierung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gottlieb Daimler",
+          "beschriftung": "Gottlieb Daimler",
+          "haupt": true,
+          "artikel": "Gottlieb Daimler",
+          "wikidata": "Q57098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "364",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-07-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "75 Jahre Motorisierung des Verkehrs",
+      "bild_beschreibung": "Erster Motorwagen von Carl Benz",
+      "entwerfer": "Siegmund",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1961 364 75 Jahre Motorisierung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Benz",
+          "beschriftung": "Carl Benz",
+          "haupt": true,
+          "artikel": "Carl Benz",
+          "wikidata": "Q40224"
+        }
+      ]
+    },
+    {
+      "mi_nr": "365",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-08-31",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Der Brief im Wandel von fünf Jahrhunderten",
+      "bild_beschreibung": "Nürnberger Bote um 1700",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1961 365 Brief im Wandel.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": true,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        },
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": false,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        }
+      ]
+    },
+    {
+      "mi_nr": "366",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "900 Jahre Kaiserdom Speyer",
+      "bild_beschreibung": "",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1961 366 900 Jahre Kaiserdom Speyer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Speyerer Dom",
+          "beschriftung": "Kaiserdom",
+          "haupt": true,
+          "artikel": "Speyerer Dom",
+          "wikidata": "Q22720"
+        },
+        {
+          "titel": "Speyer",
+          "beschriftung": "Speyer",
+          "haupt": false,
+          "artikel": "Speyer",
+          "wikidata": "Q6829"
+        }
+      ]
+    },
+    {
+      "mi_nr": "367",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "19 Tauben in Anordnung einer großen Taube",
+      "entwerfer": "Kurpershoek",
+      "auflage": 99090500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tauben",
+          "beschriftung": "Tauben",
+          "haupt": true,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "368",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-09-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Europamarke",
+      "bild_beschreibung": "19 Tauben in Anordnung einer großen Taube",
+      "entwerfer": "Kurpershoek",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tauben",
+          "beschriftung": "Tauben",
+          "haupt": true,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "369",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-02",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Wohlfahrtsmarken, Hänsel und Gretel",
+      "bild_beschreibung": "Märchen der Brüder Grimm; Hänsel wirft Brotkrumen auf den Weg",
+      "entwerfer": "Bert Jäger",
+      "auflage": 9750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Hänsel und Gretel",
+          "beschriftung": "Hänsel und Gretel",
+          "haupt": false,
+          "artikel": "Hänsel und Gretel",
+          "wikidata": "Q11829"
+        }
+      ]
+    },
+    {
+      "mi_nr": "370",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Wohlfahrtsmarken, Hänsel und Gretel",
+      "bild_beschreibung": "Hänsel und Gretel kommen ans Haus der Hexe",
+      "entwerfer": "Bert Jäger",
+      "auflage": 15250000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hexe",
+          "beschriftung": "Hexe",
+          "haupt": true,
+          "artikel": "Hexe",
+          "wikidata": "Q1616828"
+        },
+        {
+          "titel": "Hänsel und Gretel",
+          "beschriftung": "Hänsel und Gretel",
+          "haupt": false,
+          "artikel": "Hänsel und Gretel",
+          "wikidata": "Q11829"
+        }
+      ]
+    },
+    {
+      "mi_nr": "371",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-02",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Wohlfahrtsmarken, Hänsel und Gretel",
+      "bild_beschreibung": "Die Hexe versucht Hänsel zu mästen",
+      "entwerfer": "Bert Jäger",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hänsel und Gretel",
+          "beschriftung": "Hänsel und Gretel",
+          "haupt": true,
+          "artikel": "Hänsel und Gretel",
+          "wikidata": "Q11829"
+        }
+      ]
+    },
+    {
+      "mi_nr": "372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-02",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "Wohlfahrtsmarken, Hänsel und Gretel",
+      "bild_beschreibung": "Der Vater freut sich mit seinen Kindern über deren Heimkehr",
+      "entwerfer": "Bert Jäger",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hänsel und Gretel",
+          "beschriftung": "Hänsel und Gretel",
+          "haupt": true,
+          "artikel": "Hänsel und Gretel",
+          "wikidata": "Q11829"
+        }
+      ]
+    },
+    {
+      "mi_nr": "373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-10-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "100 Jahre Telefon von Philipp Reis",
+      "bild_beschreibung": "Das Telefon von Philipp Reis um 1861",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Telefon",
+          "beschriftung": "Telefon",
+          "haupt": true,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Philipp Reis",
+          "beschriftung": "Philipp Reis",
+          "haupt": false,
+          "artikel": "Philipp Reis",
+          "wikidata": "Q77124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "374",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-12-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "150. Geburtstag von Wilhelm Emmanuel von Ketteler (1811–1877)",
+      "bild_beschreibung": "katholischer Bischof und Abgeordneter",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Emmanuel von Ketteler",
+          "beschriftung": "Wilhelm Emmanuel von Ketteler",
+          "haupt": true,
+          "artikel": "Wilhelm Emmanuel von Ketteler",
+          "wikidata": "Q626805"
+        }
+      ]
+    },
+    {
+      "mi_nr": "347",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-09-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Albertus Magnus (um 1200–1280), 1622 selig und 1931 heiliggesprochen",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 855950000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albertus Magnus",
+          "beschriftung": "Albertus Magnus",
+          "haupt": true,
+          "artikel": "Albertus Magnus",
+          "wikidata": "Q60059"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "348",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-08-03",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Landgräfin Elisabeth von Thüringen (1207–1231), auch Elisabeth von Ungarn",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 1028500000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elisabeth von Thüringen",
+          "beschriftung": "Elisabeth von Thüringen",
+          "haupt": true,
+          "artikel": "Elisabeth von Thüringen",
+          "wikidata": "Q159862"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "349",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-08-03",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Johannes Gensfleisch, genannt Gutenberg (um 1400–1468), gilt als Erfinder des Buchdrucks mit beweglichen Metall-Lettern",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 51500000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johannes Gutenberg",
+          "beschriftung": "Johannes Gensfleisch, genannt Gutenberg",
+          "haupt": true,
+          "artikel": "Johannes Gutenberg",
+          "wikidata": "Q8958"
+        },
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": false,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "350",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-06-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Albrecht Dürer (1471–1528), Maler, Grafiker, Mathematiker und Kunsttheoretiker",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 4494100000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": true,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Malerei",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Grafiker",
+          "beschriftung": "Grafiker",
+          "haupt": false,
+          "artikel": "Grafiker",
+          "wikidata": "Q1925963"
+        },
+        {
+          "titel": "Mathematiker",
+          "beschriftung": "Mathematiker",
+          "haupt": false,
+          "artikel": "Mathematiker",
+          "wikidata": "Q170790"
+        },
+        {
+          "titel": "Theorie der Kunst",
+          "beschriftung": "Kunsttheoretiker",
+          "haupt": false,
+          "artikel": "Theorie der Kunst",
+          "wikidata": "Q1414089"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "351",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-09-18",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Martin Luther (1483–1546), theologischer Urheber und Lehrer der Reformation",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 2496600000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin Luther",
+          "beschriftung": "Martin Luther",
+          "haupt": true,
+          "artikel": "Martin Luther",
+          "wikidata": "Q9554"
+        },
+        {
+          "titel": "Reformation",
+          "beschriftung": "Reformation",
+          "haupt": false,
+          "artikel": "Reformation",
+          "wikidata": "Q12562"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "352",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-06-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Johann Sebastian Bach (1685–1750), Komponist des Barock",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 4444600000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": true,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Barockmusik",
+          "beschriftung": "Barock",
+          "haupt": false,
+          "artikel": "Barockmusik",
+          "wikidata": "Q8361"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "353",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-10-07",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Johann Balthasar Neumann (1687–1753), Baumeister des Barock und des Rokoko",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 243600000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Balthasar Neumann",
+          "beschriftung": "Johann Balthasar Neumann",
+          "haupt": true,
+          "artikel": "Balthasar Neumann",
+          "wikidata": "Q61349"
+        },
+        {
+          "titel": "Baumeister",
+          "beschriftung": "Baumeister",
+          "haupt": false,
+          "artikel": "Baumeister",
+          "wikidata": "Q1340643"
+        },
+        {
+          "titel": "Barock",
+          "beschriftung": "Barock",
+          "haupt": false,
+          "artikel": "Barock",
+          "wikidata": "Q37853"
+        },
+        {
+          "titel": "Rokoko",
+          "beschriftung": "Rokoko",
+          "haupt": false,
+          "artikel": "Rokoko",
+          "wikidata": "Q122960"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "354",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-10-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Immanuel Kant (1724–1804), bedeutender Philosoph",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 100200000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Immanuel Kant",
+          "beschriftung": "Immanuel Kant",
+          "haupt": true,
+          "artikel": "Immanuel Kant",
+          "wikidata": "Q9312"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "355",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-06-28",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Gotthold Ephraim Lessing (1729–1781), einer der wichtigsten Dichter der Aufklärung",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 516600000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gotthold Ephraim Lessing",
+          "beschriftung": "Gotthold Ephraim Lessing",
+          "haupt": true,
+          "artikel": "Gotthold Ephraim Lessing",
+          "wikidata": "Q34628"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Zeitalter der Aufklärung",
+          "beschriftung": "Aufklärung",
+          "haupt": false,
+          "artikel": "Aufklärung",
+          "wikidata": "Q12539"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "356",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-12-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Johann Wolfgang von Goethe (1749–1832), Dichter, Dramatiker, Theaterleiter, Naturwissenschaftler, Kunsttheoretiker und Staatsmann",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 141000000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Dramatiker",
+          "beschriftung": "Dramatiker",
+          "haupt": false,
+          "artikel": "Dramatiker",
+          "wikidata": "Q214917"
+        },
+        {
+          "titel": "Theaterleiter",
+          "beschriftung": "Theaterleiter",
+          "haupt": false,
+          "artikel": "Theaterleiter",
+          "wikidata": "Q1776724"
+        },
+        {
+          "titel": "Naturwissenschaftler",
+          "beschriftung": "Naturwissenschaftler",
+          "haupt": false,
+          "artikel": "Naturwissenschaft",
+          "wikidata": "Q7991"
+        },
+        {
+          "titel": "Staatsmann",
+          "beschriftung": "Staatsmann",
+          "haupt": false,
+          "artikel": "Staatsmann",
+          "wikidata": "Q372436"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "357",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1962-04-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Friedrich Schiller (1759–1805), Dichter, Dramatiker, Philosoph sowie Historiker",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 106000000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "358",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-12-01",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Ludwig van Beethoven (1770–1827), Komponist der Wiener Klassik",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 282500000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Wiener Klassik",
+          "beschriftung": "Wiener Klassik",
+          "haupt": false,
+          "artikel": "Wiener Klassik",
+          "wikidata": "Q702207"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "359",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-12-01",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Heinrich von Kleist (1777–1811), Dramatiker, Erzähler, Lyriker, Publizist und Patriot",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 155000000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Kleist",
+          "beschriftung": "Heinrich von Kleist",
+          "haupt": true,
+          "artikel": "Heinrich von Kleist",
+          "wikidata": "Q28494"
+        },
+        {
+          "titel": "Erzähler",
+          "beschriftung": "Erzähler",
+          "haupt": false,
+          "artikel": "Erzähler",
+          "wikidata": "Q755070"
+        },
+        {
+          "titel": "Lyrik",
+          "beschriftung": "Lyrik",
+          "haupt": false,
+          "artikel": "Lyrik",
+          "wikidata": "Q182357"
+        },
+        {
+          "titel": "Publizist",
+          "beschriftung": "Publizist",
+          "haupt": false,
+          "artikel": "Publizist",
+          "wikidata": "Q6051619"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patriot",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "360",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-08-03",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Franz Oppenheimer (1864–1943), Arzt, Soziologe, Nationalökonom und Zionist",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 40000000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Oppenheimer",
+          "beschriftung": "Franz Oppenheimer",
+          "haupt": true,
+          "artikel": "Franz Oppenheimer",
+          "wikidata": "Q57940"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Soziologe",
+          "beschriftung": "Soziologe",
+          "haupt": false,
+          "artikel": "Soziologe",
+          "wikidata": "Q2306091"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        },
+        {
+          "titel": "Zionismus",
+          "beschriftung": "Zionist",
+          "haupt": false,
+          "artikel": "Zionismus",
+          "wikidata": "Q42388"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "361",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1961-09-18",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Annette von Droste-Hülshoff (1797–1848), gilt als eine der bedeutendsten deutschen Dichterinnen",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 177000000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Annette von Droste-Hülshoff",
+          "beschriftung": "Annette von Droste-Hülshoff",
+          "haupt": true,
+          "artikel": "Annette von Droste-Hülshoff",
+          "wikidata": "Q57307"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "362",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1962-04-12",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarkenserie: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Gerhart Hauptmann (1862–1946), deutscher Schriftsteller, 1912 Nobelpreis für Literatur",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 72000000,
+      "commons_datei": "DBP 1961 351 Martin Luther.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": true,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Nobelpreis für Literatur",
+          "beschriftung": "Nobelpreis für Literatur",
+          "haupt": false,
+          "artikel": "Nobelpreis für Literatur",
+          "wikidata": "Q37922"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    }
+  ]
+}

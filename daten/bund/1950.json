@@ -1,0 +1,77 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1950,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1950 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1950_der_Deutschen_Bundespost",
+    "revision": 205670173,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 121,
+    "mi_nr_bis": 122,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 2,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "121",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1950-07-28",
+      "wert": "10+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-01-31",
+      "anlass": "200. Todestag von Johann Sebastian Bach",
+      "bild_beschreibung": "Siegel von Johann Sebastian Bach; Zuschlagmarke",
+      "entwerfer": "Georg Trump",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1950 121 Bachsiegel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Siegel",
+          "beschriftung": "Siegel",
+          "haupt": true,
+          "artikel": "Siegel",
+          "wikidata": "Q162919"
+        },
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": false,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "122",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1950-07-28",
+      "wert": "20+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-01-31",
+      "anlass": "200. Todestag von Johann Sebastian Bach",
+      "bild_beschreibung": "Siegel von Johann Sebastian Bach; Zuschlagmarke",
+      "entwerfer": "Georg Trump",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1950 122 Bachsiegel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": true,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1857 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1964,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1964 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1964_der_Deutschen_Bundespost",
+    "revision": 270725901,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 412,
+    "mi_nr_bis": 461,
+    "luecken": [],
+    "ausreisser": [
+      360
+    ],
+    "sondermarken_gezaehlt": 42,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "412",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-10",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Für die Jugend, Fische",
+      "bild_beschreibung": "Hering Clupea harengus",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 6600000,
+      "commons_datei": "DBP 1964 412 Jugend Hering.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Atlantischer Hering",
+          "beschriftung": "Hering",
+          "haupt": true,
+          "artikel": "Atlantischer Hering",
+          "wikidata": "Q2396858"
+        },
+        {
+          "titel": "Fische",
+          "beschriftung": "Fische",
+          "haupt": false,
+          "artikel": "Fische",
+          "wikidata": "Q152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "413",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-10",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Für die Jugend, Fische",
+      "bild_beschreibung": "Rotbarsch Sebastes marinus",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 6900000,
+      "commons_datei": "DBP 1964 413 Jugend Rotbarsch.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotbarsch",
+          "beschriftung": "Rotbarsch",
+          "haupt": true,
+          "artikel": "Rotbarsch",
+          "wikidata": "Q14718979"
+        },
+        {
+          "titel": "Fische",
+          "beschriftung": "Fische",
+          "haupt": false,
+          "artikel": "Fische",
+          "wikidata": "Q152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "414",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-10",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Für die Jugend, Fische",
+      "bild_beschreibung": "Karpfen Cyprinus carpio",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 6600000,
+      "commons_datei": "DBP 1964 414 Jugend Karpfen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karpfen",
+          "beschriftung": "Karpfen",
+          "haupt": true,
+          "artikel": "Karpfen",
+          "wikidata": "Q81110"
+        },
+        {
+          "titel": "Fische",
+          "beschriftung": "Fische",
+          "haupt": false,
+          "artikel": "Fische",
+          "wikidata": "Q152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "415",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-10",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "Für die Jugend, Fische",
+      "bild_beschreibung": "Kabeljau Gadus morhua",
+      "entwerfer": "Reinhart Heinsdorff",
+      "auflage": 5800000,
+      "commons_datei": "DBP 1964 415 Jugend Kabeljau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kabeljau",
+          "beschriftung": "Kabeljau",
+          "haupt": true,
+          "artikel": "Atlantischer Kabeljau",
+          "wikidata": "Q199788"
+        },
+        {
+          "titel": "Fische",
+          "beschriftung": "Fische",
+          "haupt": false,
+          "artikel": "Fische",
+          "wikidata": "Q152"
+        }
+      ]
+    },
+    {
+      "mi_nr": "416",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-04-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Hannover, Altes Rathaus",
+      "entwerfer": "Heinz Schillinger und Hella Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hannover",
+          "beschriftung": "Hannover",
+          "haupt": true,
+          "artikel": "Hannover",
+          "wikidata": "Q1715"
+        },
+        {
+          "titel": "Altes Rathaus (Hannover)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": false,
+          "artikel": "Altes Rathaus (Hannover)",
+          "wikidata": "Q439391"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "417",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Hamburg, Hafen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        },
+        {
+          "titel": "Hamburger Hafen",
+          "beschriftung": "Hafen",
+          "haupt": false,
+          "artikel": "Hamburger Hafen",
+          "wikidata": "Q3964"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "418",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Kiel, Fährhafen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kiel",
+          "beschriftung": "Kiel",
+          "haupt": true,
+          "artikel": "Kiel",
+          "wikidata": "Q1707"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "419",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "München, Nationaltheater",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": true,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Nationaltheater München",
+          "beschriftung": "Nationaltheater",
+          "haupt": false,
+          "artikel": "Nationaltheater (München)",
+          "wikidata": "Q707679"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "420",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Wiesbaden, Kurhaus",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiesbaden",
+          "beschriftung": "Wiesbaden",
+          "haupt": true,
+          "artikel": "Wiesbaden",
+          "wikidata": "Q1721"
+        },
+        {
+          "titel": "Kurhaus Wiesbaden",
+          "beschriftung": "Kurhaus",
+          "haupt": false,
+          "artikel": "Kurhaus Wiesbaden",
+          "wikidata": "Q885336"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "421",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Berlin, Reichstag",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstag",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "422",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Mainz, Gutenberg-Museum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mainz",
+          "beschriftung": "Mainz",
+          "haupt": true,
+          "artikel": "Mainz",
+          "wikidata": "Q1720"
+        },
+        {
+          "titel": "Gutenberg-Museum",
+          "beschriftung": "Gutenberg-Museum",
+          "haupt": false,
+          "artikel": "Gutenberg-Museum",
+          "wikidata": "Q474841"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "423",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Düsseldorf, Jan-Wellem-Denkmal",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Düsseldorf",
+          "beschriftung": "Düsseldorf",
+          "haupt": true,
+          "artikel": "Düsseldorf",
+          "wikidata": "Q1718"
+        },
+        {
+          "titel": "Johann Wilhelm (Pfalz)",
+          "beschriftung": "Jan-Wellem-Denkmal",
+          "haupt": false,
+          "artikel": "Johann Wilhelm (Pfalz)",
+          "wikidata": "Q64266"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "424",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Bonn, Rathaus",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bonn",
+          "beschriftung": "Bonn",
+          "haupt": true,
+          "artikel": "Bonn",
+          "wikidata": "Q586"
+        },
+        {
+          "titel": "Altes Rathaus (Bonn)",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Altes Rathaus (Bonn)",
+          "wikidata": "Q439336"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "425",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Bremen, Rathaus",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremen",
+          "beschriftung": "Bremen",
+          "haupt": true,
+          "artikel": "Bremen",
+          "wikidata": "Q24879"
+        },
+        {
+          "titel": "Bremer Rathaus",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Bremer Rathaus",
+          "wikidata": "Q19479"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "426",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Stuttgart, Stadtansicht",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stuttgart",
+          "beschriftung": "Stuttgart",
+          "haupt": true,
+          "artikel": "Stuttgart",
+          "wikidata": "Q1022"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "427",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+      "bild_beschreibung": "Saarbrücken, Ludwigskirche",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saarbrücken",
+          "beschriftung": "Saarbrücken",
+          "haupt": true,
+          "artikel": "Saarbrücken",
+          "wikidata": "Q1724"
+        },
+        {
+          "titel": "Ludwigskirche (Saarbrücken)",
+          "beschriftung": "Ludwigskirche",
+          "haupt": false,
+          "artikel": "Ludwigskirche (Saarbrücken)",
+          "wikidata": "Q539324"
+        },
+        {
+          "titel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "beschriftung": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "haupt": false,
+          "artikel": "Hauptstädte der Länder der Bundesrepublik Deutschland",
+          "wikidata": "Q1589757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "428",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-05-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1965-12-31",
+      "anlass": "1200 Jahrfeier der Benediktinerabtei Ottobeuren",
+      "bild_beschreibung": "Benediktiner-Kloster in der Vogelperspektive",
+      "entwerfer": "Eduard Ege",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1964 428 1200 Jahre Abtei Ottobeuren.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kloster Ottobeuren",
+          "beschriftung": "Benediktinerabtei Ottobeuren",
+          "haupt": true,
+          "artikel": "Kloster Ottobeuren",
+          "wikidata": "Q702001"
+        },
+        {
+          "titel": "Benediktiner",
+          "beschriftung": "Benediktiner",
+          "haupt": false,
+          "artikel": "Benediktiner",
+          "wikidata": "Q131132"
+        },
+        {
+          "titel": "Kloster",
+          "beschriftung": "Kloster",
+          "haupt": false,
+          "artikel": "Kloster",
+          "wikidata": "Q44613"
+        },
+        {
+          "titel": "Vogelperspektive",
+          "beschriftung": "Vogelperspektive",
+          "haupt": false,
+          "artikel": "Vogelperspektive",
+          "wikidata": "Q1153655"
+        }
+      ]
+    },
+    {
+      "mi_nr": "429",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wiederwahl des Bundespräsidenten Heinrich Lübke (1894–1972)",
+      "bild_beschreibung": "Amtszeit als Bundespräsident von 1959 bis 1969",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 77700000,
+      "commons_datei": "DBP 1964 429 Wiederwahl Bundespraesident Luebke 20Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": false,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "430",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1969-12-31",
+      "anlass": "Wiederwahl des Bundespräsidenten Heinrich Lübke (1894–1972)",
+      "bild_beschreibung": "Amtszeit als Bundespräsident von 1959 bis 1969",
+      "entwerfer": "Hermann Schardt",
+      "auflage": 41100000,
+      "commons_datei": "DBP 1964 430 Wiederwahl Bundespraesident Luebke 40Pf.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Heinrich Lübke",
+          "beschriftung": "Heinrich Lübke",
+          "haupt": false,
+          "artikel": "Heinrich Lübke",
+          "wikidata": "Q2582"
+        }
+      ]
+    },
+    {
+      "mi_nr": "431",
+      "block": "Block 3",
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Sophie Scholl (1921–1943)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sophie Scholl",
+          "beschriftung": "Sophie Scholl",
+          "haupt": true,
+          "artikel": "Sophie Scholl",
+          "wikidata": "Q76972"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "432",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Ludwig Beck (1880–1944)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig Beck (General)",
+          "beschriftung": "Ludwig Beck",
+          "haupt": true,
+          "artikel": "Ludwig Beck (General)",
+          "wikidata": "Q57170"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "433",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Dietrich Bonhoeffer (1906–1945)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dietrich Bonhoeffer",
+          "beschriftung": "Dietrich Bonhoeffer",
+          "haupt": true,
+          "artikel": "Dietrich Bonhoeffer",
+          "wikidata": "Q76326"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "434",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Alfred Delp (1907–1945)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alfred Delp",
+          "beschriftung": "Alfred Delp",
+          "haupt": true,
+          "artikel": "Alfred Delp",
+          "wikidata": "Q61305"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "435",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Karl Friedrich Goerdeler (1884–1945)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Friedrich Goerdeler",
+          "beschriftung": "Karl Friedrich Goerdeler",
+          "haupt": true,
+          "artikel": "Carl Friedrich Goerdeler",
+          "wikidata": "Q57430"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "436",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Wilhelm Leuschner (1890–1944)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Leuschner",
+          "beschriftung": "Wilhelm Leuschner",
+          "haupt": true,
+          "artikel": "Wilhelm Leuschner",
+          "wikidata": "Q213868"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "437",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Helmuth James Graf von Moltke (1907–1945)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helmuth James Graf von Moltke",
+          "beschriftung": "Helmuth James Graf von Moltke",
+          "haupt": true,
+          "artikel": "Helmuth James Graf von Moltke",
+          "wikidata": "Q61613"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "438",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Briefmarkenblock – 20. Jahrestag des Attentats auf Adolf Hitler vom 20. Juli 1944",
+      "bild_beschreibung": "Claus Schenk Graf von Stauffenberg (1907–1944)",
+      "entwerfer": "Erika und Gerd Aretz",
+      "auflage": 6941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Claus Schenk Graf von Stauffenberg",
+          "beschriftung": "Claus Schenk Graf von Stauffenberg",
+          "haupt": true,
+          "artikel": "Claus Schenk Graf von Stauffenberg",
+          "wikidata": "Q21209"
+        },
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats",
+          "haupt": false,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": false,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "439",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-08-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Tagung des Reformierten Weltbundes in Frankfurt am Main",
+      "bild_beschreibung": "Johannes Calvin (1509–1564)",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reformierter Weltbund",
+          "beschriftung": "Reformierten Weltbundes",
+          "haupt": true,
+          "artikel": "Reformierter Weltbund",
+          "wikidata": "Q613594"
+        },
+        {
+          "titel": "Johannes Calvin",
+          "beschriftung": "Johannes Calvin",
+          "haupt": false,
+          "artikel": "Johannes Calvin",
+          "wikidata": "Q37577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "440",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-08-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Fortschritt in Technik und Wissenschaft",
+      "bild_beschreibung": "Benzolformel von Friedrich August Kekulé von Stradonitz",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 70000000,
+      "commons_datei": "Stamps of Germany (BRD) 1964, MiNr 440.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Benzol",
+          "beschriftung": "Benzol",
+          "haupt": true,
+          "artikel": "Benzol",
+          "wikidata": "Q2270"
+        },
+        {
+          "titel": "Friedrich August Kekulé von Stradonitz",
+          "beschriftung": "Friedrich August Kekulé von Stradonitz",
+          "haupt": false,
+          "artikel": "August Kekulé",
+          "wikidata": "Q76784"
+        }
+      ]
+    },
+    {
+      "mi_nr": "441",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-08-14",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Fortschritt in Technik und Wissenschaft",
+      "bild_beschreibung": "Kernreaktor nach Otto Hahn",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 70000000,
+      "commons_datei": "Stamps of Germany (BRD) 1964, MiNr 441.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kernreaktor",
+          "beschriftung": "Kernreaktor",
+          "haupt": true,
+          "artikel": "Kernreaktor",
+          "wikidata": "Q80877"
+        },
+        {
+          "titel": "Otto Hahn",
+          "beschriftung": "Otto Hahn",
+          "haupt": false,
+          "artikel": "Otto Hahn",
+          "wikidata": "Q57065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "442",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-08-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Fortschritt in Technik und Wissenschaft",
+      "bild_beschreibung": "Gasmotor nach Nikolaus Otto",
+      "entwerfer": "Karl Oskar Blase",
+      "auflage": 70000000,
+      "commons_datei": "Stamps of Germany (BRD) 1964, MiNr 442.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gasmotor",
+          "beschriftung": "Gasmotor",
+          "haupt": true,
+          "artikel": "Gasmotor",
+          "wikidata": "Q114704"
+        },
+        {
+          "titel": "Nikolaus Otto",
+          "beschriftung": "Nikolaus Otto",
+          "haupt": false,
+          "artikel": "Nicolaus Otto",
+          "wikidata": "Q75782"
+        }
+      ]
+    },
+    {
+      "mi_nr": "443",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-08-31",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "100. Todestag von Ferdinand Lassalle",
+      "bild_beschreibung": "Ferdinand Lassalle (1825–1864), Mitbegründer der Sozialdemokratischen Partei Deutschlands",
+      "entwerfer": "Rischka",
+      "auflage": 30000000,
+      "commons_datei": "Stamps of Germany (BRD) 1964, MiNr 443.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ferdinand Lassalle",
+          "beschriftung": "Ferdinand Lassalle",
+          "haupt": true,
+          "artikel": "Ferdinand Lassalle",
+          "wikidata": "Q75784"
+        },
+        {
+          "titel": "Sozialdemokratische Partei Deutschlands",
+          "beschriftung": "Sozialdemokratischen Partei Deutschlands",
+          "haupt": false,
+          "artikel": "Sozialdemokratische Partei Deutschlands",
+          "wikidata": "Q49768"
+        }
+      ]
+    },
+    {
+      "mi_nr": "444",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Deutscher Katholikentag in Stuttgart",
+      "bild_beschreibung": "stilisierte Sonne in quadratischem Rahmen aus Inschrift wandelt euch durch ein neues denken",
+      "entwerfer": "Wilhelm Neufeld",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        }
+      ]
+    },
+    {
+      "mi_nr": "445",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-14",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "stilisierte Blume mit CEPT",
+      "entwerfer": "Georges Bétemps (F)",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blume",
+          "beschriftung": "Blume",
+          "haupt": true,
+          "artikel": "Blume",
+          "wikidata": "Q886167"
+        },
+        {
+          "titel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "beschriftung": "CEPT",
+          "haupt": false,
+          "artikel": "Conférence Européenne des Administrations des Postes et des Télécommunications",
+          "wikidata": "Q221779"
+        },
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": false,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "446",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-09-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Europamarken",
+      "bild_beschreibung": "stilisierte Blume mit CEPT",
+      "entwerfer": "Georges Bétemps (F)",
+      "auflage": 70000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europamarke",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "447",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken, Dornröschen",
+      "bild_beschreibung": "Märchen der Brüder Grimm; Die böse Fee verflucht Dornröschen als Baby",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 45496000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchen",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchen",
+          "wikidata": "Q699"
+        },
+        {
+          "titel": "Brüder Grimm",
+          "beschriftung": "Brüder Grimm",
+          "haupt": false,
+          "artikel": "Brüder Grimm",
+          "wikidata": "Q2793"
+        },
+        {
+          "titel": "Fee",
+          "beschriftung": "Fee",
+          "haupt": false,
+          "artikel": "Fee",
+          "wikidata": "Q8028"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "448",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken, Dornröschen",
+      "bild_beschreibung": "Am 16. Geburtstag sticht sich Dornröschen an der vergifteten Spindel der bösen Fee",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 14739000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Handspindel",
+          "beschriftung": "Spindel",
+          "haupt": true,
+          "artikel": "Handspindel",
+          "wikidata": "Q213761"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "449",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken, Dornröschen",
+      "bild_beschreibung": "Nach 100 Jahren findet ein Prinz Dornröschen, nachdem er sich durch eine Dornenhecke um das Schloss geschlagen hat",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 16678000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Prinz",
+          "beschriftung": "Prinz",
+          "haupt": true,
+          "artikel": "Prinz",
+          "wikidata": "Q2747456"
+        },
+        {
+          "titel": "Schloss (Architektur)",
+          "beschriftung": "Schloss",
+          "haupt": false,
+          "artikel": "Schloss (Architektur)",
+          "wikidata": "Q751876"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "450",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Wohlfahrtsmarken, Dornröschen",
+      "bild_beschreibung": "Im Schloss wachen alle wieder auf und der Koch gibt dem Küchenjungen eine Ohrfeige",
+      "entwerfer": "Holger Börnsen",
+      "auflage": 8106000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Koch",
+          "beschriftung": "Koch",
+          "haupt": true,
+          "artikel": "Koch",
+          "wikidata": "Q156839"
+        },
+        {
+          "titel": "Ohrfeige",
+          "beschriftung": "Ohrfeige",
+          "haupt": false,
+          "artikel": "Ohrfeige",
+          "wikidata": "Q1416244"
+        },
+        {
+          "titel": "Dornröschen",
+          "beschriftung": "Dornröschen",
+          "haupt": false,
+          "artikel": "Dornröschen",
+          "wikidata": "Q11824"
+        }
+      ]
+    },
+    {
+      "mi_nr": "451",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Olympische Sommerspiele in Tokio",
+      "bild_beschreibung": "Judo, wurde neben Volleyball erstmals olympische Disziplin",
+      "entwerfer": "Heinz und Hella Schillinger",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Olympische Sommerspiele 1964",
+          "beschriftung": "Olympische Sommerspiele",
+          "haupt": true,
+          "artikel": "Olympische Sommerspiele 1964",
+          "wikidata": "Q8420"
+        },
+        {
+          "titel": "Tokio",
+          "beschriftung": "Tokio",
+          "haupt": false,
+          "artikel": "Tokio",
+          "wikidata": "Q7473516"
+        },
+        {
+          "titel": "Judo",
+          "beschriftung": "Judo",
+          "haupt": false,
+          "artikel": "Judo",
+          "wikidata": "Q11420"
+        },
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": false,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        }
+      ]
+    },
+    {
+      "mi_nr": "452",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-10-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "250 Jahre Rechnungshof in Deutschland",
+      "bild_beschreibung": "Preußischer Adler",
+      "entwerfer": "Herbert Kern",
+      "auflage": 30000000,
+      "commons_datei": "DBP 1964 452 250 Jahre Rechnungshof.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundesrechnungshof",
+          "beschriftung": "Rechnungshof",
+          "haupt": true,
+          "artikel": "Bundesrechnungshof",
+          "wikidata": "Q56033"
+        },
+        {
+          "titel": "Adler (Wappentier)",
+          "beschriftung": "Preußischer Adler",
+          "haupt": false,
+          "artikel": "Adler (Wappentier)",
+          "wikidata": "Q358148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "453",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1964-11-21",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Erster Todestag von John F. Kennedy",
+      "bild_beschreibung": "John F. Kennedy, Präsident der Vereinigten Staaten",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 20000000,
+      "commons_datei": "DBP 1964 453 John F. Kennedy.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "John F. Kennedy",
+          "beschriftung": "John F. Kennedy",
+          "haupt": true,
+          "artikel": "John F. Kennedy",
+          "wikidata": "Q9696"
+        },
+        {
+          "titel": "Präsident der Vereinigten Staaten",
+          "beschriftung": "Präsident der Vereinigten Staaten",
+          "haupt": false,
+          "artikel": "Präsident der Vereinigten Staaten",
+          "wikidata": "Q11696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "360",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-08-03",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarken: Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Franz Oppenheimer (1864–1943), Arzt, Soziologe, Nationalökonom und Zionist",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 40000000,
+      "commons_datei": "DBP 1961 360 Franz Oppenheimer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": true,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        },
+        {
+          "titel": "Franz Oppenheimer",
+          "beschriftung": "Franz Oppenheimer",
+          "haupt": false,
+          "artikel": "Franz Oppenheimer",
+          "wikidata": "Q57940"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Soziologe",
+          "beschriftung": "Soziologe",
+          "haupt": false,
+          "artikel": "Soziologe",
+          "wikidata": "Q2306091"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        },
+        {
+          "titel": "Zionismus",
+          "beschriftung": "Zionist",
+          "haupt": false,
+          "artikel": "Zionismus",
+          "wikidata": "Q42388"
+        }
+      ]
+    },
+    {
+      "mi_nr": "454",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Wallpavillon des Zwinger in Dresden",
+      "entwerfer": "Otto Rohse",
+      "auflage": 1210000000,
+      "commons_datei": "DBP 1964 454 Bauwerke Dresdner Zwinger.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wallpavillon",
+          "beschriftung": "Wallpavillon",
+          "haupt": true,
+          "artikel": "Wallpavillon",
+          "wikidata": "Q1496790"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Zwinger",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "455",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Schloss Tegel in Berlin",
+      "entwerfer": "Otto Rohse",
+      "auflage": 1200000000,
+      "commons_datei": "DBP 1964 455 Bauwerke Schloss Tegel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Tegel",
+          "beschriftung": "Schloss Tegel",
+          "haupt": true,
+          "artikel": "Schloss Tegel",
+          "wikidata": "Q651833"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "456",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Torhalle in Lorsch",
+      "entwerfer": "Otto Rohse",
+      "auflage": 2500000000,
+      "commons_datei": "DBP 1964 456 Bauwerke Torhalle Lorsch.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Torhalle Lorsch",
+          "beschriftung": "Torhalle",
+          "haupt": true,
+          "artikel": "Torhalle Lorsch",
+          "wikidata": "Q1131741"
+        },
+        {
+          "titel": "Lorsch",
+          "beschriftung": "Lorsch",
+          "haupt": false,
+          "artikel": "Lorsch",
+          "wikidata": "Q524939"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "457",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-03-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Burg Trifels",
+      "entwerfer": "Otto Rohse",
+      "auflage": 130000000,
+      "commons_datei": "DBP 1964 457 Bauwerke Burg Trifels.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsburg Trifels",
+          "beschriftung": "Burg Trifels",
+          "haupt": true,
+          "artikel": "Reichsburg Trifels",
+          "wikidata": "Q559202"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "458",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Schlosstor von Ellwangen",
+      "entwerfer": "Otto Rohse",
+      "auflage": 250000000,
+      "commons_datei": "DBP 1964 458 Bauwerke Schlosstor Ellwangen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss ob Ellwangen",
+          "beschriftung": "Ellwangen",
+          "haupt": true,
+          "artikel": "Schloss ob Ellwangen",
+          "wikidata": "Q2244356"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "459",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Treptower Tor in Neubrandenburg",
+      "entwerfer": "Otto Rohse",
+      "auflage": 34000000,
+      "commons_datei": "DBP 1964 459 Bauwerke Treptower Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Treptower Tor",
+          "beschriftung": "Treptower Tor",
+          "haupt": true,
+          "artikel": "Treptower Tor",
+          "wikidata": "Q2451781"
+        },
+        {
+          "titel": "Neubrandenburg",
+          "beschriftung": "Neubrandenburg",
+          "haupt": false,
+          "artikel": "Neubrandenburg",
+          "wikidata": "Q3958"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "460",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-05-29",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Osthofentor in Soest",
+      "entwerfer": "Otto Rohse",
+      "auflage": 60000000,
+      "commons_datei": "DBP 1964 460 Bauwerke Osthofentor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Osthofentor",
+          "beschriftung": "Osthofentor",
+          "haupt": true,
+          "artikel": "Osthofentor",
+          "wikidata": "Q2035602"
+        },
+        {
+          "titel": "Soest",
+          "beschriftung": "Soest",
+          "haupt": false,
+          "artikel": "Soest",
+          "wikidata": "Q6149"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    },
+    {
+      "mi_nr": "461",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1964-12-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "2002-06-30",
+      "anlass": "Dauermarken: Deutsche Bauwerke aus zwölf Jahrhunderten",
+      "bild_beschreibung": "Ellinger Tor in Weißenburg in Bayern",
+      "entwerfer": "Otto Rohse",
+      "auflage": 135000000,
+      "commons_datei": "DBP 1964 461 Bauwerke Ellinger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ellinger Tor",
+          "beschriftung": "Ellinger Tor",
+          "haupt": true,
+          "artikel": "Ellinger Tor",
+          "wikidata": "Q49597"
+        },
+        {
+          "titel": "Weißenburg in Bayern",
+          "beschriftung": "Weißenburg in Bayern",
+          "haupt": false,
+          "artikel": "Weißenburg in Bayern",
+          "wikidata": "Q44500"
+        },
+        {
+          "titel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "beschriftung": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "haupt": false,
+          "artikel": "Deutsche Bauwerke aus zwölf Jahrhunderten",
+          "wikidata": "Q1202201"
+        }
+      ]
+    }
+  ]
+}

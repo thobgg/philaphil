@@ -1,0 +1,501 @@
+{
+  "gebiet": "Bund",
+  "jahr": 1953,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1953 der Deutschen Bundespost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1953_der_Deutschen_Bundespost",
+    "revision": 265017212,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 162,
+    "mi_nr_bis": 176,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 15,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "162",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-03-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Verkehrsunfallverhütung",
+      "bild_beschreibung": "Verkehrszeichen und eine Mutter mit verletztem Jungen",
+      "entwerfer": "Weinert",
+      "auflage": 10000000,
+      "commons_datei": "DBP 1953 162 Verkehrsunfall.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Verkehrszeichen",
+          "beschriftung": "Verkehrszeichen",
+          "haupt": true,
+          "artikel": "Verkehrszeichen",
+          "wikidata": "Q170285"
+        }
+      ]
+    },
+    {
+      "mi_nr": "163",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-07",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "50 Jahre Deutsches Museum in München",
+      "bild_beschreibung": "Eule auf einem halben Zahnrad, Zuschlagmarke",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 1500000,
+      "commons_datei": "DBP 1953 163 Deutsches Museum München.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Museum",
+          "beschriftung": "Deutsches Museum",
+          "haupt": true,
+          "artikel": "Deutsches Museum",
+          "wikidata": "Q131617"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Eulen",
+          "beschriftung": "Eule",
+          "haupt": false,
+          "artikel": "Eulen",
+          "wikidata": "Q25222"
+        },
+        {
+          "titel": "Zahnrad",
+          "beschriftung": "Zahnrad",
+          "haupt": false,
+          "artikel": "Zahnrad",
+          "wikidata": "Q143873"
+        }
+      ]
+    },
+    {
+      "mi_nr": "164",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "125. Geburtstag von Henry Dunant",
+      "bild_beschreibung": "Rotes Kreuz auf Windrose",
+      "entwerfer": "Walter Baum",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1953 164 Dunant.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Henry Dunant",
+          "beschriftung": "Henry Dunant",
+          "haupt": true,
+          "artikel": "Henry Dunant",
+          "wikidata": "Q12091"
+        },
+        {
+          "titel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "beschriftung": "Rotes Kreuz",
+          "haupt": false,
+          "artikel": "Internationale Rotkreuz- und Rothalbmond-Bewegung",
+          "wikidata": "Q7178"
+        },
+        {
+          "titel": "Windrose",
+          "beschriftung": "Windrose",
+          "haupt": false,
+          "artikel": "Windrose",
+          "wikidata": "Q640047"
+        }
+      ]
+    },
+    {
+      "mi_nr": "165",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Deutsche Kriegsgefangene",
+      "bild_beschreibung": "Kriegsgefangener hinter Stacheldraht",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 101200000,
+      "commons_datei": "DBP 1953 165 Kriegsgefangene.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kriegsgefangener",
+          "beschriftung": "Kriegsgefangene",
+          "haupt": true,
+          "artikel": "Kriegsgefangener",
+          "wikidata": "Q179637"
+        },
+        {
+          "titel": "Stacheldraht",
+          "beschriftung": "Stacheldraht",
+          "haupt": false,
+          "artikel": "Stacheldraht",
+          "wikidata": "Q192065"
+        }
+      ]
+    },
+    {
+      "mi_nr": "166",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-12",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "150. Geburtstag von Justus von Liebig",
+      "bild_beschreibung": "Porträt von Justus von Liebig (1803–1873); Chemiker und Naturforscher",
+      "entwerfer": "Leon Schnell",
+      "auflage": 5000000,
+      "commons_datei": "DBP 1953 166 Liebig.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Justus von Liebig",
+          "beschriftung": "Justus von Liebig",
+          "haupt": true,
+          "artikel": "Justus von Liebig",
+          "wikidata": "Q16571"
+        },
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": false,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Naturgeschichte",
+          "beschriftung": "Naturforscher",
+          "haupt": false,
+          "artikel": "Naturgeschichte",
+          "wikidata": "Q484591"
+        }
+      ]
+    },
+    {
+      "mi_nr": "167",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-06-20",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Deutsche Verkehrsausstellung München",
+      "bild_beschreibung": "stilisierte Bahn",
+      "entwerfer": "Max Bittrof",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenbahn",
+          "beschriftung": "Bahn",
+          "haupt": true,
+          "artikel": "Eisenbahn",
+          "wikidata": "Q22667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "168",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-06-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Deutsche Verkehrsausstellung München",
+      "bild_beschreibung": "stilisierte Luftpost",
+      "entwerfer": "Max Bittrof",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "169",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-06-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Deutsche Verkehrsausstellung München",
+      "bild_beschreibung": "stilisierte Straße",
+      "entwerfer": "Max Bittrof",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Straße",
+          "beschriftung": "Straße",
+          "haupt": true,
+          "artikel": "Straße",
+          "wikidata": "Q34442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "170",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-06-20",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-06-30",
+      "anlass": "Deutsche Verkehrsausstellung München",
+      "bild_beschreibung": "stilisierte Wasserstraße",
+      "entwerfer": "Max Bittrof",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserstraße",
+          "beschriftung": "Wasserstraße",
+          "haupt": true,
+          "artikel": "Wasserstraße",
+          "wikidata": "Q1267889"
+        }
+      ]
+    },
+    {
+      "mi_nr": "171",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-29",
+      "wert": "10+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Internationale Briefmarkenausstellung IFRABA, Frankfurt",
+      "bild_beschreibung": "Portal des Palais Thurn und Taxis, Zuschlagmarke",
+      "entwerfer": "Walter Brudi",
+      "auflage": 1380000,
+      "commons_datei": "DBP_1953_171_IFRABA.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Palais Thurn und Taxis",
+          "beschriftung": "Palais Thurn und Taxis",
+          "haupt": true,
+          "artikel": "Palais Thurn und Taxis",
+          "wikidata": "Q282656"
+        },
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt",
+          "haupt": false,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "172",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-29",
+      "wert": "20+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Internationale Briefmarkenausstellung IFRABA, Frankfurt",
+      "bild_beschreibung": "Telekommunikationsgebäude in Frankfurt, Zuschlagmarke",
+      "entwerfer": "Walter Brudi",
+      "auflage": 1380000,
+      "commons_datei": "DBP_1953_172_IFRABA.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frankfurt am Main",
+          "beschriftung": "Frankfurt",
+          "haupt": true,
+          "artikel": "Frankfurt am Main",
+          "wikidata": "Q1794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "173",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-02",
+      "wert": "4+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "August Hermann Francke (1663–1727), Theologe",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 2900000,
+      "commons_datei": "DBP 1953 173 Francke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "August Hermann Francke",
+          "beschriftung": "August Hermann Francke",
+          "haupt": true,
+          "artikel": "August Hermann Francke",
+          "wikidata": "Q58753"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "174",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-02",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Sebastian Kneipp (1821–1897), Theologe",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 4000000,
+      "commons_datei": "DBP 1953 174 Kneipp.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sebastian Kneipp",
+          "beschriftung": "Sebastian Kneipp",
+          "haupt": true,
+          "artikel": "Sebastian Kneipp",
+          "wikidata": "Q45075"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "175",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-02",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Johann Christian Senckenberg (1707–1772), Arzt",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 3150000,
+      "commons_datei": "DBP 1953 175 Senckenberg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Christian Senckenberg",
+          "beschriftung": "Johann Christian Senckenberg",
+          "haupt": true,
+          "artikel": "Johann Christian Senckenberg",
+          "wikidata": "Q98077"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    },
+    {
+      "mi_nr": "176",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-02",
+      "wert": "30+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-12-31",
+      "anlass": "Helfer der Menschheit",
+      "bild_beschreibung": "Fridtjof Nansen (1861–1930), Polarforscher, Zoologe, Nobelpreis 1922",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 1350000,
+      "commons_datei": "DBP 1953 176 Nansen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fridtjof Nansen",
+          "beschriftung": "Fridtjof Nansen",
+          "haupt": true,
+          "artikel": "Fridtjof Nansen",
+          "wikidata": "Q72292"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Helfer der Menschheit",
+          "beschriftung": "Helfer der Menschheit",
+          "haupt": false,
+          "artikel": "Helfer der Menschheit",
+          "wikidata": "Q1602103"
+        }
+      ]
+    }
+  ]
+}

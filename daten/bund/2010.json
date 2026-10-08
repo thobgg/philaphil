@@ -1,0 +1,1819 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2010,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2010 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2010_der_Bundesrepublik_Deutschland",
+    "revision": 258339649,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2768,
+    "mi_nr_bis": 2834,
+    "luecken": [],
+    "ausreisser": [
+      2675
+    ],
+    "sondermarken_gezaehlt": 64,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege Obst",
+      "bild_beschreibung": "mit Zuschlägen zugunsten der Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege e. V.:; Apfel; (Duftstoffe: u. a. Benzylalkohol und Linalool)",
+      "entwerfer": "Karen Scholz",
+      "auflage": 4563000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kulturapfel",
+          "beschriftung": "Apfel",
+          "haupt": true,
+          "artikel": "Kulturapfel",
+          "wikidata": "Q18674606"
+        },
+        {
+          "titel": "Benzylalkohol",
+          "beschriftung": "Benzylalkohol",
+          "haupt": false,
+          "artikel": "Benzylalkohol",
+          "wikidata": "Q52353"
+        },
+        {
+          "titel": "Linalool",
+          "beschriftung": "Linalool",
+          "haupt": false,
+          "artikel": "Linalool",
+          "wikidata": "Q410932"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2770",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege Obst",
+      "bild_beschreibung": "Erdbeere; (Duftstoff: u. a. d-Limonen)",
+      "entwerfer": "Karen Scholz",
+      "auflage": 2174000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gartenerdbeere",
+          "beschriftung": "Erdbeere",
+          "haupt": true,
+          "artikel": "Gartenerdbeere",
+          "wikidata": "Q13158"
+        },
+        {
+          "titel": "Limonen",
+          "beschriftung": "Limonen",
+          "haupt": false,
+          "artikel": "Limonen",
+          "wikidata": "Q278809"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2771",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege Obst",
+      "bild_beschreibung": "Zitrone; (Duftstoffe: u. a. d-Limonen und Citral)",
+      "entwerfer": "Karen Scholz",
+      "auflage": 2201000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zitrone",
+          "beschriftung": "Zitrone",
+          "haupt": true,
+          "artikel": "Zitrone",
+          "wikidata": "Q500"
+        },
+        {
+          "titel": "Citral",
+          "beschriftung": "Citral",
+          "haupt": false,
+          "artikel": "Citral",
+          "wikidata": "Q60176530"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2772",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege Obst",
+      "bild_beschreibung": "Heidelbeere; (Duftstoffe: u. a. d-Limonen und Linalool)",
+      "entwerfer": "Karen Scholz",
+      "auflage": 5044000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heidelbeere",
+          "beschriftung": "Heidelbeere",
+          "haupt": true,
+          "artikel": "Heidelbeere",
+          "wikidata": "Q5413585"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2773",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1100 Jahre Limburg an der Lahn",
+      "bild_beschreibung": "Verwendet wurde das 1862 von George Clarkson Stanfield geschaffene Ölgemälde Limburg von Westen her gesehen",
+      "entwerfer": "Susanne Oesterlee",
+      "auflage": 5410000,
+      "commons_datei": "DPAG 2010 03 1100 Jahre Limburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "George Clarkson Stanfield",
+          "beschriftung": "George Clarkson Stanfield",
+          "haupt": true,
+          "artikel": "George Clarkson Stanfield",
+          "wikidata": "Q264069"
+        },
+        {
+          "titel": "Limburg an der Lahn",
+          "beschriftung": "Limburg an der Lahn",
+          "haupt": false,
+          "artikel": "Limburg an der Lahn",
+          "wikidata": "Q16026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "1000 Jahre St. Michaelis Hildesheim",
+      "entwerfer": "Bianca Becker und Peter Kohl",
+      "auflage": 4750000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "St. Michael (Hildesheim)",
+          "beschriftung": "St. Michaelis Hildesheim",
+          "haupt": true,
+          "artikel": "Michaeliskirche (Hildesheim)",
+          "wikidata": "Q158324"
+        },
+        {
+          "titel": "Weltkulturerbe der UNESCO",
+          "beschriftung": "Weltkulturerbe der UNESCO",
+          "haupt": false,
+          "artikel": "Weltkulturerbe der UNESCO",
+          "wikidata": "Q2558287"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Museum für Naturkunde Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Jünger + Michel",
+      "auflage": 12000000,
+      "commons_datei": "DPAG 2010 01 Naturkundemuseum Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Museum für Naturkunde (Berlin)",
+          "beschriftung": "Museum für Naturkunde Berlin",
+          "haupt": true,
+          "artikel": "Museum für Naturkunde (Berlin)",
+          "wikidata": "Q233098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2776",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Kulturhauptstadt 2010 Ruhr",
+      "bild_beschreibung": "Der Schriftzug RUHR.2010 setzt sich aus Buchstaben und Ziffern aus der Region zusammen: „R“: Neonreklame, Essen; „U“: Dortmunder U, „h“: Schulhof-Graffiti, Essen; „r“: Zeche Zollverein; „2“: Stahlwerk, Landschaftspark Duisburg-Nord; „0“: Zinkfabrik Altenburg; „1“: Straßenschild B1 in Dortmund; „0“: Plastik Josef-Albers-Museum",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 7120000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "RUHR.2010 – Kulturhauptstadt Europas",
+          "beschriftung": "RUHR.2010",
+          "haupt": true,
+          "artikel": "RUHR.2010 – Kulturhauptstadt Europas",
+          "wikidata": "Q324137"
+        },
+        {
+          "titel": "Dortmunder U",
+          "beschriftung": "Dortmunder U",
+          "haupt": false,
+          "artikel": "Dortmunder U",
+          "wikidata": "Q762922"
+        },
+        {
+          "titel": "Zeche Zollverein",
+          "beschriftung": "Zeche Zollverein",
+          "haupt": false,
+          "artikel": "Zeche Zollverein",
+          "wikidata": "Q122026"
+        },
+        {
+          "titel": "Landschaftspark Duisburg-Nord",
+          "beschriftung": "Landschaftspark Duisburg-Nord",
+          "haupt": false,
+          "artikel": "Landschaftspark Duisburg-Nord",
+          "wikidata": "Q523126"
+        },
+        {
+          "titel": "LVR-Industriemuseum Oberhausen",
+          "beschriftung": "Zinkfabrik Altenburg",
+          "haupt": false,
+          "artikel": "LVR-Industriemuseum Oberhausen",
+          "wikidata": "Q1412878"
+        },
+        {
+          "titel": "Bundesstraße 1",
+          "beschriftung": "B1",
+          "haupt": false,
+          "artikel": "Bundesstraße 1",
+          "wikidata": "Q34438"
+        },
+        {
+          "titel": "Josef-Albers-Museum",
+          "beschriftung": "Josef-Albers-Museum",
+          "haupt": false,
+          "artikel": "Quadrat Bottrop",
+          "wikidata": "Q896624"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrtspflege",
+      "bild_beschreibung": "Erdbeere; selbstklebend aus Markenheftchen und Rolle",
+      "entwerfer": "Karen Scholz",
+      "auflage": 11807000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1100 Jahre Limburg an der Lahn",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Susanne Oesterlee",
+      "auflage": 191947200,
+      "commons_datei": "DPAG 2010 03 1100 Jahre Limburg.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Weltkulturerbe der UNESCO",
+      "bild_beschreibung": "1000 Jahre St. Michaelis Hildesheim; selbstklebend aus Markenheftchen",
+      "entwerfer": "Bianca Becker und Peter Kohl",
+      "auflage": 32700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Museum für Naturkunde Berlin",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Jünger + Michel",
+      "auflage": 192107200,
+      "commons_datei": "DPAG 2010 01 Naturkundemuseum Berlin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2781",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-02-11",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Weltweite Sportereignisse",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe:; Winter-Paralympics 2010",
+      "entwerfer": "Lutz Menze",
+      "auflage": 998000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Winter-Paralympics 2010",
+          "beschriftung": "Winter-Paralympics 2010",
+          "haupt": false,
+          "artikel": "Winter-Paralympics 2010",
+          "wikidata": "Q641965"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2782",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-02-11",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Weltweite Sportereignisse",
+      "bild_beschreibung": "Olympische Winterspiele 2010",
+      "entwerfer": "Lutz Menze",
+      "auflage": 1019000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympische Winterspiele 2010",
+          "beschriftung": "Olympische Winterspiele 2010",
+          "haupt": true,
+          "artikel": "Olympische Winterspiele 2010",
+          "wikidata": "Q9674"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2783",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-02-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Mensch ärgere Dich nicht",
+      "bild_beschreibung": "",
+      "entwerfer": "Henning Wagenbreth",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mensch ärgere Dich nicht",
+          "beschriftung": "Mensch ärgere Dich nicht",
+          "haupt": true,
+          "artikel": "Mensch ärgere Dich nicht",
+          "wikidata": "Q545129"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2784",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-02-11",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Jüdischer Hochzeitsring",
+      "bild_beschreibung": "Teil des Jüdischen Schatzes von Erfurt",
+      "entwerfer": "Corinna Rogger",
+      "auflage": 4310000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Jüdischer Hochzeitsring (Erfurt)",
+          "beschriftung": "Jüdischer Hochzeitsring",
+          "haupt": true,
+          "artikel": "Jüdischer Hochzeitsring (Erfurt)",
+          "wikidata": "Q48756615"
+        },
+        {
+          "titel": "Jüdischer Schatz von Erfurt",
+          "beschriftung": "Jüdischen Schatzes von Erfurt",
+          "haupt": false,
+          "artikel": "Jüdischer Schatz von Erfurt",
+          "wikidata": "Q1234783"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2785",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-03-11",
+      "wert": "260",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: „Deutsche Malerei“",
+      "bild_beschreibung": "Angelika Kauffmann – Die verlassene Ariadne",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 4520000,
+      "commons_datei": "DPAG 2010 16 Angelika Kauffmann - Die verlassene Ariadne.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Malerei",
+          "beschriftung": "Deutsche Malerei",
+          "haupt": true,
+          "artikel": "Deutsche Malerei",
+          "wikidata": "Q1203446"
+        },
+        {
+          "titel": "Angelika Kauffmann",
+          "beschriftung": "Angelika Kauffmann",
+          "haupt": false,
+          "artikel": "Angelika Kauffmann",
+          "wikidata": "Q123098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2786",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-03-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Mit guten Wünschen",
+      "bild_beschreibung": "Regenbogen",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4360000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2787",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-03-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Mit guten Wünschen",
+      "bild_beschreibung": "Schiff",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4420000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2788",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-04-08",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Weltweite Sportereignisse",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Sporthilfe:; Fußball-Weltmeisterschaft (motivgleich mit Mi.-Nr. 3095)",
+      "entwerfer": "Lutz Menze",
+      "auflage": 1154000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2789",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-04-08",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport – Weltweite Sportereignisse",
+      "bild_beschreibung": "Eishockey-Weltmeisterschaft",
+      "entwerfer": "Lutz Menze",
+      "auflage": 940000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2790",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-04-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: „Post“ – Mit guten Wünschen",
+      "bild_beschreibung": "Taube",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4370000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2791",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-04-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: „Post“ – Mit guten Wünschen",
+      "bild_beschreibung": "Engel",
+      "entwerfer": "Johannes Graf",
+      "auflage": 4370000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2792",
+      "block": "Block 77",
+      "art": "Sondermarke",
+      "ausgabetag": "2010-04-08",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 100 Jahre Vogelwarte Helgoland",
+      "bild_beschreibung": "",
+      "entwerfer": "Elsenbach & Fienbork",
+      "auflage": 2600000,
+      "commons_datei": "DPAG 2010 21 100 Jahre Vogelwarte Helgoland cropped.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vogelwarte Helgoland",
+          "beschriftung": "Vogelwarte Helgoland",
+          "haupt": true,
+          "artikel": "Institut für Vogelforschung „Vogelwarte Helgoland“",
+          "wikidata": "Q879943"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2793",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-04-08",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Vogelwarte Helgoland",
+      "bild_beschreibung": "selbstklebend aus Rolle",
+      "entwerfer": "Elsenbach & Fienbork",
+      "auflage": 235018200,
+      "commons_datei": "DPAG 2010 21 100 Jahre Vogelwarte Helgoland cropped.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2795",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-05-06",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Umweltschutz",
+      "bild_beschreibung": "zur Unterstützung des Umweltschutzes; Meeresschutz – Robben",
+      "entwerfer": "Thomas Serres",
+      "auflage": 1107000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für den Umweltschutz",
+          "beschriftung": "Für den Umweltschutz",
+          "haupt": true,
+          "artikel": "Für den Umweltschutz",
+          "wikidata": "Q1482423"
+        },
+        {
+          "titel": "Robben",
+          "beschriftung": "Robben",
+          "haupt": false,
+          "artikel": "Robben",
+          "wikidata": "Q30263"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2796",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: „Europa“ – Kinderbücher",
+      "bild_beschreibung": "Lesender Teddybär",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 5900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Teddybär",
+          "beschriftung": "Teddybär",
+          "haupt": false,
+          "artikel": "Teddybär",
+          "wikidata": "Q213477"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2797",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Robert Schumann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karen Scholz",
+      "auflage": 6600000,
+      "commons_datei": "DPAG 2010 25 Robert Schumann.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Robert Schumann",
+          "beschriftung": "Robert Schumann",
+          "haupt": true,
+          "artikel": "Robert Schumann",
+          "wikidata": "Q7351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2798",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Bienen",
+      "bild_beschreibung": "",
+      "entwerfer": "Thomas Serres",
+      "auflage": 5800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bienen",
+          "beschriftung": "Bienen",
+          "haupt": true,
+          "artikel": "Bienen",
+          "wikidata": "Q7391"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2799",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-05-06",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Bienen",
+      "bild_beschreibung": "selbstklebend aus Rolle und Markenheftchen",
+      "entwerfer": "Thomas Serres",
+      "auflage": 378610000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2800",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-06-10",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Neuwerk",
+      "entwerfer": "Johannes Graf",
+      "auflage": 10500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Neuwerk",
+          "beschriftung": "Neuwerk",
+          "haupt": true,
+          "artikel": "Leuchtturm Neuwerk",
+          "wikidata": "Q1821443"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2801",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-06-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Falshöft",
+      "entwerfer": "Johannes Graf",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Falshöft",
+          "beschriftung": "Falshöft",
+          "haupt": true,
+          "artikel": "Leuchtturm Falshöft",
+          "wikidata": "Q1821421"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2802",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-06-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Konrad Zuse",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein, Olaf Neumann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konrad Zuse",
+          "beschriftung": "Konrad Zuse",
+          "haupt": true,
+          "artikel": "Konrad Zuse",
+          "wikidata": "Q60093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2803",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-07-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aktuelles – „Udo Lindenberg – Grußmarken“",
+      "bild_beschreibung": "Andrea Doria",
+      "entwerfer": "Udo Lindenberg und Victor Malsy",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Andrea Doria (Schiff, 1953)",
+          "beschriftung": "Andrea Doria",
+          "haupt": true,
+          "artikel": "Andrea Doria (Schiff, 1953)",
+          "wikidata": "Q493798"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2804",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-07-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aktuelles – „Udo Lindenberg – Grußmarken“",
+      "bild_beschreibung": "„Sonderzug nach Pankow“",
+      "entwerfer": "Udo Lindenberg und Victor Malsy",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sonderzug nach Pankow",
+          "beschriftung": "Sonderzug nach Pankow",
+          "haupt": true,
+          "artikel": "Sonderzug nach Pankow",
+          "wikidata": "Q2301234"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2805",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-07-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Porzellanherstellung in Deutschland (Meißener Porzellan)",
+      "bild_beschreibung": "",
+      "entwerfer": "Nadine Nill",
+      "auflage": 6600000,
+      "commons_datei": "DPAG 2010 32 Porzellanherstellung in Deutschland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porzellan",
+          "beschriftung": "Porzellan",
+          "haupt": true,
+          "artikel": "Porzellan",
+          "wikidata": "Q130693"
+        },
+        {
+          "titel": "Meißener Porzellan",
+          "beschriftung": "Meißener Porzellan",
+          "haupt": false,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2806",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-07-01",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Historische Postkutsche",
+      "bild_beschreibung": "",
+      "entwerfer": "Nina Clausing",
+      "auflage": 10134600,
+      "commons_datei": "DPAG 2010 33 Postkutsche.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": true,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2807",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-07-01",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aktuelles – „Udo Lindenberg – Grußmarken“",
+      "bild_beschreibung": "„Andrea Doria“",
+      "entwerfer": "Udo Lindenberg und Victor Malsy",
+      "auflage": 23400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2808",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-07-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Aktuelles – „Udo Lindenberg – Grußmarken“",
+      "bild_beschreibung": "„Sonderzug nach Pankow“; selbstklebend aus Folienblatt",
+      "entwerfer": "Udo Lindenberg und Victor Malsy",
+      "auflage": 68500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2809",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Historische Dampfschiffe",
+      "bild_beschreibung": "zur Unterstützung der Stiftung Deutsche Jugendmarke e. V.; Schnelldampfer Deutschland",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1001000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutschland (Schiff, 1900)",
+          "beschriftung": "Deutschland",
+          "haupt": true,
+          "artikel": "Deutschland (Schiff, 1900)",
+          "wikidata": "Q564462"
+        },
+        {
+          "titel": "Jugendmarke",
+          "beschriftung": "Für die Jugend",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2810",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Historische Dampfschiffe",
+      "bild_beschreibung": "Schnelldampfer Imperator",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Imperator (Schiff, 1913)",
+          "beschriftung": "Imperator",
+          "haupt": true,
+          "artikel": "Imperator (Schiff, 1913)",
+          "wikidata": "Q647205"
+        },
+        {
+          "titel": "Jugendmarke",
+          "beschriftung": "Für die Jugend",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2811",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Historische Dampfschiffe",
+      "bild_beschreibung": "Schnelldampfer Aller",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 1001000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jugendmarke",
+          "beschriftung": "Für die Jugend",
+          "haupt": true,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2812",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Historische Dampfschiffe",
+      "bild_beschreibung": "Schnelldampfer Columbus",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 965000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Columbus (Schiff, 1924)",
+          "beschriftung": "Columbus",
+          "haupt": true,
+          "artikel": "Columbus (Schiff, 1924)",
+          "wikidata": "Q320192"
+        },
+        {
+          "titel": "Jugendmarke",
+          "beschriftung": "Für die Jugend",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2813",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "70",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Mutter Teresa",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 4800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mutter Teresa",
+          "beschriftung": "Mutter Teresa",
+          "haupt": true,
+          "artikel": "Mutter Teresa",
+          "wikidata": "Q30547"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2814",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Rekordflug Elly Beinhorn",
+      "bild_beschreibung": "",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 4750000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Elly Beinhorn",
+          "beschriftung": "Elly Beinhorn",
+          "haupt": true,
+          "artikel": "Elly Beinhorn",
+          "wikidata": "Q63643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2815",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "170",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Frankfurter Buchmesse – Ehrengast Argentinien",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Argentinien",
+      "entwerfer": "Dario Martin Cánovas",
+      "auflage": 6700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frankfurter Buchmesse",
+          "beschriftung": "Frankfurter Buchmesse",
+          "haupt": true,
+          "artikel": "Frankfurter Buchmesse",
+          "wikidata": "Q57293"
+        },
+        {
+          "titel": "Argentinische Literatur",
+          "beschriftung": "Ehrengast Argentinien",
+          "haupt": false,
+          "artikel": "Argentinische Literatur",
+          "wikidata": "Q645973"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Argentinien",
+          "beschriftung": "Argentinien",
+          "haupt": false,
+          "artikel": "Argentinien",
+          "wikidata": "Q414"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2816",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-08-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "300 Jahre Porzellanherstellung in Deutschland (Meißener Porzellan)",
+      "bild_beschreibung": "selbstklebend aus Folienblatt",
+      "entwerfer": "Nadine Nill",
+      "auflage": 236667400,
+      "commons_datei": "DPAG 2010 32 Porzellanherstellung in Deutschland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meissener Porzellan",
+          "beschriftung": "Meißener Porzellan",
+          "haupt": true,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2817",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-09-09",
+      "wert": "90",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Dienst am Nächsten",
+      "bild_beschreibung": "150 Jahre Stiftung Behindertenwerk St. Johannes",
+      "entwerfer": "Annegret Ehmke",
+      "auflage": 5250000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stiftung Sankt Johannes",
+          "beschriftung": "Stiftung Behindertenwerk St. Johannes",
+          "haupt": true,
+          "artikel": "Stiftung Sankt Johannes",
+          "wikidata": "Q48754655"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2818",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Teddybär mit schlafendem Kind",
+      "entwerfer": "Isabel Seliger",
+      "auflage": 7860000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2819",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "Schätze der Philatelie – Postplakat",
+      "entwerfer": "Johannes Graf",
+      "auflage": 6400000,
+      "commons_datei": "DPAG 2010 43 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2820",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Münchner Oktoberfest",
+      "bild_beschreibung": "",
+      "entwerfer": "Michael Kunter",
+      "auflage": 7100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Oktoberfest",
+          "beschriftung": "Oktoberfest",
+          "haupt": true,
+          "artikel": "Oktoberfest",
+          "wikidata": "Q102400"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2821",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Deutsche Einheit",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 7950000,
+      "commons_datei": "Briefmarke_20_Jahre_Deutsche_Einheit.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Einheit",
+          "beschriftung": "Deutsche Einheit",
+          "haupt": true,
+          "artikel": "Deutsche Einheit",
+          "wikidata": "Q17321185"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2822",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-09-09",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Deutsche Einheit",
+      "bild_beschreibung": "selbstklebend aus Rolle",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 154880000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2823",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-10-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fachwerkbauten in Deutschland",
+      "bild_beschreibung": "Oberdeutscher Fachwerkbau von 1582 in Eppingen",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 5900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baumannsches Haus (Eppingen)",
+          "beschriftung": "Oberdeutscher Fachwerkbau von 1582",
+          "haupt": true,
+          "artikel": "Baumannsches Haus (Eppingen)",
+          "wikidata": "Q811507"
+        },
+        {
+          "titel": "Eppingen",
+          "beschriftung": "Eppingen",
+          "haupt": false,
+          "artikel": "Eppingen",
+          "wikidata": "Q506450"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2824",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-10-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Fachwerkbauten in Deutschland",
+      "bild_beschreibung": "Niederdeutscher Fachwerkbau von 1734 in Trebel-Dünsche",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 5800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trebel (Wendland)",
+          "beschriftung": "Trebel-Dünsche",
+          "haupt": true,
+          "artikel": "Trebel (Wendland)",
+          "wikidata": "Q631158"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2825",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-10-07",
+      "wert": "85",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Friedrich-Loeffler-Institut",
+      "bild_beschreibung": "",
+      "entwerfer": "Kym Erdmann",
+      "auflage": 5850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich-Loeffler-Institut",
+          "beschriftung": "Friedrich-Loeffler-Institut",
+          "haupt": true,
+          "artikel": "Friedrich-Loeffler-Institut",
+          "wikidata": "Q1457808"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2826",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-10-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Erntedank",
+      "bild_beschreibung": "",
+      "entwerfer": "Nicole Elsenbach, Frank Fienbork",
+      "auflage": 6850000,
+      "commons_datei": "DPAG 2010 49 Erntedank.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erntedank",
+          "beschriftung": "Erntedank",
+          "haupt": true,
+          "artikel": "Erntedankfest",
+          "wikidata": "Q2304773"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2827+2828",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-02",
+      "wert": "je 55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "„Engel“; „Taube“; selbstklebend aus Folienblatt",
+      "entwerfer": "Johannes Graf",
+      "auflage": 79900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2829",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-11",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Maria mit Jesuskind",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 2173000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maria (Mutter Jesu)",
+          "beschriftung": "Maria",
+          "haupt": true,
+          "artikel": "Maria (Mutter Jesu)",
+          "wikidata": "Q345"
+        },
+        {
+          "titel": "Jesuskind",
+          "beschriftung": "Jesuskind",
+          "haupt": false,
+          "artikel": "Jesuskind",
+          "wikidata": "Q942467"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2830",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-11",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Die Anbetung der Könige",
+      "entwerfer": "Julia Warbanow",
+      "auflage": 4203000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": true,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": false,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2831",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-11",
+      "wert": "145",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Knappschaft",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 4150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Knappschaft",
+          "beschriftung": "Knappschaft",
+          "haupt": true,
+          "artikel": "Knappschaft",
+          "wikidata": "Q1727097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2832",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-11",
+      "wert": "100",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Fritz Reuter",
+      "bild_beschreibung": "",
+      "entwerfer": "Jens Müller und Karen Weiland",
+      "auflage": 7000000,
+      "commons_datei": "DPAG 2010 53 Fritz Reuter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fritz Reuter",
+          "beschriftung": "Fritz Reuter",
+          "haupt": true,
+          "artikel": "Fritz Reuter",
+          "wikidata": "Q76492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2833",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "175 Jahre Eisenbahnen in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Iris Utikal und Michael Gais",
+      "auflage": 7580000,
+      "commons_datei": "DPAG 2010 54 Eisenbahn.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Geschichte der Eisenbahn in Deutschland",
+          "beschriftung": "175 Jahre Eisenbahnen in Deutschland",
+          "haupt": true,
+          "artikel": "Geschichte der Eisenbahn in Deutschland",
+          "wikidata": "Q458361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2834",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2010-11-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Alpine Skiweltmeisterschaften 2011",
+      "bild_beschreibung": "",
+      "entwerfer": "Heribert Birnbach",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alpine Skiweltmeisterschaften 2011",
+          "beschriftung": "Alpine Skiweltmeisterschaften 2011",
+          "haupt": true,
+          "artikel": "Alpine Skiweltmeisterschaften 2011",
+          "wikidata": "Q159672"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2768",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2010-01-02",
+      "wert": "410",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Frauenschuh",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gelber Frauenschuh",
+          "beschriftung": "Frauenschuh",
+          "haupt": true,
+          "artikel": "Gelber Frauenschuh",
+          "wikidata": "Q156124"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2675",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2010-03-01",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Gartenrose; selbstklebend aus Folienblatt mit nach Rosen duftenden Marken (Duftstoffe: d-Limonen und Geraniol)",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosen",
+          "beschriftung": "Gartenrose",
+          "haupt": true,
+          "artikel": "Rosen",
+          "wikidata": "Q34687"
+        },
+        {
+          "titel": "Geraniol",
+          "beschriftung": "Geraniol",
+          "haupt": false,
+          "artikel": "Geraniol",
+          "wikidata": "Q410836"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2794",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2010-05-06",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Maiglöckchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maiglöckchen",
+          "beschriftung": "Maiglöckchen",
+          "haupt": true,
+          "artikel": "Maiglöckchen",
+          "wikidata": "Q101711"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1960 @@
+{
+  "gebiet": "Bund",
+  "jahr": 2005,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 2005 der Bundesrepublik Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_2005_der_Bundesrepublik_Deutschland",
+    "revision": 263712949,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 2434,
+    "mi_nr_bis": 2504,
+    "luecken": [
+      2479
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 59,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "2436",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-01-03",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Archäologie in Deutschland",
+      "bild_beschreibung": "Keltenfürst vom Glauberg",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 17500000,
+      "commons_datei": "Briefmarke Keltenfürst Glauberg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Archäologie in Deutschland",
+          "beschriftung": "Archäologie in Deutschland",
+          "haupt": true,
+          "artikel": "Archäologie in Deutschland",
+          "wikidata": "Q636535"
+        },
+        {
+          "titel": "Keltenfürst vom Glauberg",
+          "beschriftung": "Keltenfürst vom Glauberg",
+          "haupt": false,
+          "artikel": "Glauberg",
+          "wikidata": "Q564771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2437",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-01-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche Malerei",
+      "bild_beschreibung": "Kölner Gemälde um 1350",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 10500000,
+      "commons_datei": "DPAG-2005-KoelnerGemaelde1350.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Malerei",
+          "beschriftung": "Deutsche Malerei",
+          "haupt": true,
+          "artikel": "Deutsche Malerei",
+          "wikidata": "Q1203446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2438",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-01-03",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Forchheim",
+      "bild_beschreibung": "",
+      "entwerfer": "Grit Fiedler",
+      "auflage": 10500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Forchheim",
+          "beschriftung": "Forchheim",
+          "haupt": true,
+          "artikel": "Forchheim",
+          "wikidata": "Q16116"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2439",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung Deutsche Sporthilfe; FIFA Fussball-WM Deutschland 2006 – Goleo; siehe auch Fußball-Weltmeisterschaft 2006/Philatelie",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 2670000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Sporthilfe",
+          "beschriftung": "Stiftung Deutsche Sporthilfe",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Sporthilfe",
+          "wikidata": "Q1525957"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006",
+          "beschriftung": "FIFA Fussball-WM Deutschland 2006",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006",
+          "wikidata": "Q37285"
+        },
+        {
+          "titel": "Goleo",
+          "beschriftung": "Goleo",
+          "haupt": false,
+          "artikel": "Goleo VI",
+          "wikidata": "Q695642"
+        },
+        {
+          "titel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "beschriftung": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "haupt": false,
+          "artikel": "Fußball-Weltmeisterschaft 2006/Philatelie",
+          "wikidata": "Q1477842"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2440",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "FIFA Fussball-WM Deutschland 2006 – Fußball-Globus von André Heller",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 2620000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball-Globus",
+          "beschriftung": "Fußball-Globus",
+          "haupt": true,
+          "artikel": "Fußball-Globus",
+          "wikidata": "Q1476432"
+        },
+        {
+          "titel": "André Heller",
+          "beschriftung": "André Heller",
+          "haupt": false,
+          "artikel": "André Heller",
+          "wikidata": "Q519606"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2441",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Internationales Deutsches Turnfest Berlin",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 1560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Internationales Deutsches Turnfest",
+          "haupt": true,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2442",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Nordische Ski-WM in Oberstdorf",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 1550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nordische Skiweltmeisterschaft 2005",
+          "beschriftung": "Nordische Ski-WM",
+          "haupt": true,
+          "artikel": "Nordische Skiweltmeisterschaften 2005",
+          "wikidata": "Q655187"
+        },
+        {
+          "titel": "Oberstdorf",
+          "beschriftung": "Oberstdorf",
+          "haupt": false,
+          "artikel": "Oberstdorf",
+          "wikidata": "Q266230"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2443",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für den Sport",
+      "bild_beschreibung": "Fecht-WM 2005 in Leipzig",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 1550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fechtweltmeisterschaften 2005",
+          "beschriftung": "Fecht-WM 2005",
+          "haupt": true,
+          "artikel": "Fechtweltmeisterschaften 2005",
+          "wikidata": "Q570185"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Für den Sport",
+          "beschriftung": "Für den Sport",
+          "haupt": false,
+          "artikel": "Zuschlagsmarke",
+          "wikidata": "Q230761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2444",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Litfaßsäule",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 13000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Litfaßsäule",
+          "beschriftung": "Litfaßsäule",
+          "haupt": true,
+          "artikel": "Litfaßsäule",
+          "wikidata": "Q13964"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2445",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Berliner Dom",
+      "bild_beschreibung": "",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 20500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Dom",
+          "beschriftung": "Berliner Dom",
+          "haupt": true,
+          "artikel": "Berliner Dom",
+          "wikidata": "Q154563"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2446",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-02-10",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Berliner Dom",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Barbara Dimanski",
+      "auflage": 92450500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2447",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Briefzusteller in Deutschland",
+      "bild_beschreibung": "mit dem Postfahrrad",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 16500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postfahrrad",
+          "beschriftung": "Postfahrrad",
+          "haupt": true,
+          "artikel": "Postfahrrad",
+          "wikidata": "Q2106039"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2448",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post – Briefzusteller in Deutschland",
+      "bild_beschreibung": "zu Fuß im Gebirge",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 16500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": true,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2449",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-03-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bonn-Kopenhagener Erklärungen",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Dänemark",
+      "entwerfer": "Angela Kühn",
+      "auflage": 11000000,
+      "commons_datei": "DPAG-50 Jahre Bonn-Kopenhagener Erklärungen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bonn-Kopenhagener Erklärungen",
+          "beschriftung": "Bonn-Kopenhagener Erklärungen",
+          "haupt": true,
+          "artikel": "Bonn-Kopenhagener Erklärungen",
+          "wikidata": "Q315943"
+        },
+        {
+          "titel": "Gemeinschaftsausgabe",
+          "beschriftung": "Gemeinschaftsausgabe",
+          "haupt": false,
+          "artikel": "Gemeinschaftsausgabe",
+          "wikidata": "Q1320511"
+        },
+        {
+          "titel": "Dänemark",
+          "beschriftung": "Dänemark",
+          "haupt": false,
+          "artikel": "Dänemark",
+          "wikidata": "Q35"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2450",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-03-03",
+      "wert": "155",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1955 – Wiederaufnahme des Flugverkehrs in Deutschland",
+      "bild_beschreibung": "",
+      "entwerfer": "Sabine Zimmermann",
+      "auflage": 14500000,
+      "commons_datei": "Postwertzeichen DPAG - Wiederaufnahme des regelmäßigen Flugverkehrs in Deutschland 2005.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "1955",
+          "beschriftung": "1955",
+          "haupt": true,
+          "artikel": "1955",
+          "wikidata": "Q18577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2452",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-04-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Deutsche National- und Naturparke",
+      "bild_beschreibung": "Nationalpark Bayerischer Wald",
+      "entwerfer": "Johannes Graf",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche National- und Naturparke",
+          "beschriftung": "Deutsche National- und Naturparke",
+          "haupt": true,
+          "artikel": "Deutsche National- und Naturparke",
+          "wikidata": "Q1203595"
+        },
+        {
+          "titel": "Nationalpark Bayerischer Wald",
+          "beschriftung": "Nationalpark Bayerischer Wald",
+          "haupt": false,
+          "artikel": "Nationalpark Bayerischer Wald",
+          "wikidata": "Q704124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2453",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-04-07",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Hans Christian Andersen",
+      "bild_beschreibung": "",
+      "entwerfer": "Karin Blume-Zander und André Zander",
+      "auflage": 27500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Christian Andersen",
+          "beschriftung": "Hans Christian Andersen",
+          "haupt": true,
+          "artikel": "Hans Christian Andersen",
+          "wikidata": "Q5673"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2454",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-04-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Mittellandkanal",
+      "bild_beschreibung": "",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Mittellandkanal",
+          "beschriftung": "Mittellandkanal",
+          "haupt": true,
+          "artikel": "Mittellandkanal",
+          "wikidata": "Q48480"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2455",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-04-07",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Hans Christian Andersen",
+      "bild_beschreibung": "selbstklebend aus Rolle",
+      "entwerfer": "Karin Blume-Zander und André Zander",
+      "auflage": 44680000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "2456",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-05-12",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Tag der Briefmarke",
+      "bild_beschreibung": "100 Jahre Kraftpost",
+      "entwerfer": "Gerda M. Neumann und Horst F. Neumann",
+      "auflage": 1960000,
+      "commons_datei": "DPAG-2005-TagDerBriefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (Deutschland)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (Deutschland)",
+          "wikidata": "Q1272884"
+        },
+        {
+          "titel": "Kraftpost",
+          "beschriftung": "Kraftpost",
+          "haupt": false,
+          "artikel": "Kraftpost",
+          "wikidata": "Q1785998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2457",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-05-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Europa",
+      "bild_beschreibung": "Gastronomie",
+      "entwerfer": "Nina Clausing",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Europamarke",
+          "beschriftung": "Europa",
+          "haupt": true,
+          "artikel": "Europamarke",
+          "wikidata": "Q670820"
+        },
+        {
+          "titel": "Gastronomie",
+          "beschriftung": "Gastronomie",
+          "haupt": false,
+          "artikel": "Gastronomie",
+          "wikidata": "Q41958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2458",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-05-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Die Brücke",
+      "bild_beschreibung": "",
+      "entwerfer": "Andreas Hoch",
+      "auflage": 8800000,
+      "commons_datei": "DPAG-2005-DieBrueckeSitzendeFraenzi.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brücke (Künstlergruppe)",
+          "beschriftung": "Die Brücke",
+          "haupt": true,
+          "artikel": "Brücke (Künstlergruppe)",
+          "wikidata": "Q152778"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2459",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-05-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Pariser Verträge",
+      "bild_beschreibung": "",
+      "entwerfer": "Christof Gassner",
+      "auflage": 8800000,
+      "commons_datei": "DPAG-2005-PariserVertraege.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pariser Verträge",
+          "beschriftung": "Pariser Verträge",
+          "haupt": true,
+          "artikel": "Pariser Verträge",
+          "wikidata": "Q2052417"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2460",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-05-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Tod von Johannes Paul II.",
+      "bild_beschreibung": "Marke wurde kurzfristig ins Programm aufgenommen",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 22300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes Paul II.",
+          "beschriftung": "Johannes Paul II.",
+          "haupt": true,
+          "artikel": "Johannes Paul II.",
+          "wikidata": "Q989"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2461",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-05-12",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Schillerjahr",
+      "bild_beschreibung": "",
+      "entwerfer": "Olaf und Regina Jäger",
+      "auflage": 12500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Schillerjahr",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2464",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Großsegler",
+      "bild_beschreibung": "mit Zuschlag zugunsten der Stiftung Deutsche Jugendmarke; Greif",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 1800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stiftung Deutsche Jugendmarke",
+          "beschriftung": "Stiftung Deutsche Jugendmarke",
+          "haupt": true,
+          "artikel": "Stiftung Deutsche Jugendmarke",
+          "wikidata": "Q2348913"
+        },
+        {
+          "titel": "Greif (Schiff, 1951)",
+          "beschriftung": "Greif",
+          "haupt": false,
+          "artikel": "Greif (Schiff, 1951)",
+          "wikidata": "Q314272"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2465",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Großsegler",
+      "bild_beschreibung": "Rickmer Rickmers",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 1740000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rickmer Rickmers (Schiff)",
+          "beschriftung": "Rickmer Rickmers",
+          "haupt": true,
+          "artikel": "Rickmer Rickmers (Schiff)",
+          "wikidata": "Q479965"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2466",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Großsegler",
+      "bild_beschreibung": "Passat",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 1760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Passat (Schiff, 1911)",
+          "beschriftung": "Passat",
+          "haupt": true,
+          "artikel": "Passat (Schiff, 1911)",
+          "wikidata": "Q465520"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2467",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Großsegler",
+      "bild_beschreibung": "Großherzogin Elisabeth",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 1780000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großherzogin Elisabeth",
+          "beschriftung": "Großherzogin Elisabeth",
+          "haupt": true,
+          "artikel": "Großherzogin Elisabeth",
+          "wikidata": "Q261573"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2468",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "144+56",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Jugend – Großsegler",
+      "bild_beschreibung": "Schulschiff Deutschland",
+      "entwerfer": "Klein und Neumann",
+      "auflage": 1600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schulschiff Deutschland",
+          "beschriftung": "Schulschiff Deutschland",
+          "haupt": true,
+          "artikel": "Schulschiff Deutschland",
+          "wikidata": "Q315820"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2469",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "XX. Weltjugendtag Köln",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Vatikanstadt",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltjugendtag 2005",
+          "beschriftung": "XX. Weltjugendtag",
+          "haupt": true,
+          "artikel": "Weltjugendtag 2005",
+          "wikidata": "Q836888"
+        },
+        {
+          "titel": "Köln",
+          "beschriftung": "Köln",
+          "haupt": false,
+          "artikel": "Köln",
+          "wikidata": "Q365"
+        },
+        {
+          "titel": "Vatikanstadt",
+          "beschriftung": "Vatikanstadt",
+          "haupt": false,
+          "artikel": "Vatikanstadt",
+          "wikidata": "Q237"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2470",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "IV. EUROSAI-Kongress",
+      "bild_beschreibung": "",
+      "entwerfer": "Angela Kühn",
+      "auflage": 11000000,
+      "commons_datei": "DPAG-2005-EUROSAI-Kongress.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "EUROSAI",
+          "beschriftung": "IV. EUROSAI-Kongress",
+          "haupt": true,
+          "artikel": "EUROSAI",
+          "wikidata": "Q673358"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2473",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Brunsbüttel, Mole 1",
+      "entwerfer": "Johannes Graf",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brunsbüttel",
+          "beschriftung": "Brunsbüttel",
+          "haupt": true,
+          "artikel": "Brunsbüttel",
+          "wikidata": "Q516635"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2474",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Westerheversand",
+      "entwerfer": "Johannes Graf",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Westerheversand",
+          "beschriftung": "Westerheversand",
+          "haupt": true,
+          "artikel": "Leuchtturm Westerheversand",
+          "wikidata": "Q454681"
+        },
+        {
+          "titel": "Leuchttürme",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme",
+          "wikidata": "Q1821481"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2475",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Relativität – Atome – Quanten – Albert Einstein",
+      "bild_beschreibung": "",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 12500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Relativitätstheorie",
+          "beschriftung": "Relativität – Atome – Quanten",
+          "haupt": true,
+          "artikel": "Relativitätstheorie",
+          "wikidata": "Q43514"
+        },
+        {
+          "titel": "Albert Einstein",
+          "beschriftung": "Albert Einstein",
+          "haupt": false,
+          "artikel": "Albert Einstein",
+          "wikidata": "Q937"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2476",
+      "block": "Block 66",
+      "art": "Sondermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Preußische Schlösser und Gärten",
+      "bild_beschreibung": "",
+      "entwerfer": "Johannes Graf",
+      "auflage": 6200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg",
+          "beschriftung": "Preußische Schlösser und Gärten",
+          "haupt": true,
+          "artikel": "Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg",
+          "wikidata": "Q531772"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2478",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Leuchttürme",
+      "bild_beschreibung": "Greifswalder Oie; Brunsbüttel Mole 1; selbstklebend aus Markenheftchen",
+      "entwerfer": "Johannes Graf",
+      "auflage": 190000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Greifswalder Oie",
+          "beschriftung": "Greifswalder Oie",
+          "haupt": true,
+          "artikel": "Leuchtturm Greifswalder Oie",
+          "wikidata": "Q28376045"
+        },
+        {
+          "titel": "Brunsbüttel",
+          "beschriftung": "Brunsbüttel",
+          "haupt": false,
+          "artikel": "Brunsbüttel",
+          "wikidata": "Q516635"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2481",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-08-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "mit dem Postkahn",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postkahn",
+          "beschriftung": "Postkahn",
+          "haupt": true,
+          "artikel": "Postkahn",
+          "wikidata": "Q2106139"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2482",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-08-11",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Post",
+      "bild_beschreibung": "mit Zustellwagen",
+      "entwerfer": "Dieter Ziegenfeuter",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Zustellwagen",
+          "haupt": true,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "Post (Briefmarkenserie)",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post (Briefmarkenserie)",
+          "wikidata": "Q2105876"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2483",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-08-11",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre NaturFreunde Deutschlands",
+      "bild_beschreibung": "",
+      "entwerfer": "Karin Blume-Zander und André Zander",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Naturfreunde",
+          "beschriftung": "NaturFreunde Deutschlands",
+          "haupt": true,
+          "artikel": "Naturfreunde",
+          "wikidata": "Q1928761"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2486",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-09-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für uns Kinder",
+      "bild_beschreibung": "Zwei bunte Hähne",
+      "entwerfer": "Kathrin Armbrust",
+      "auflage": 11700000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Für uns Kinder",
+          "beschriftung": "Für uns Kinder",
+          "haupt": true,
+          "artikel": "Für uns Kinder",
+          "wikidata": "Q1482572"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2487",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-09-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "1200 Jahre Magdeburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 13000000,
+      "commons_datei": "DPAG-2005-1200JahreMagdeburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Magdeburg",
+          "beschriftung": "Magdeburg",
+          "haupt": true,
+          "artikel": "Magdeburg",
+          "wikidata": "Q1733"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2488",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-09-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "450 Jahre Augsburger Religionsfriede",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Effert",
+      "auflage": 14500000,
+      "commons_datei": "Stamp Germany 2005 - 450 Jahre Augsburger Religionsfrieden.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Augsburger Religionsfriede",
+          "beschriftung": "Augsburger Religionsfriede",
+          "haupt": true,
+          "artikel": "Augsburger Reichs- und Religionsfrieden",
+          "wikidata": "Q154577"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2489",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-09-08",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag Max Schmeling",
+      "bild_beschreibung": "",
+      "entwerfer": "Irmgard Hesse",
+      "auflage": 12500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Max Schmeling",
+          "beschriftung": "Max Schmeling",
+          "haupt": true,
+          "artikel": "Max Schmeling",
+          "wikidata": "Q77102"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2490",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-10-13",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag Adalbert Stifter",
+      "bild_beschreibung": "",
+      "entwerfer": "Peter Steiner und Regina Steiner",
+      "auflage": 9000000,
+      "commons_datei": "DPAG-2005-AdalbertStifter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adalbert Stifter",
+          "beschriftung": "Adalbert Stifter",
+          "haupt": true,
+          "artikel": "Adalbert Stifter",
+          "wikidata": "Q168542"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2491",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-10-13",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Weihe der Dresdner Frauenkirche",
+      "bild_beschreibung": "",
+      "entwerfer": "Andrea Voß-Acker",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauenkirche (Dresden)",
+          "beschriftung": "Dresdner Frauenkirche",
+          "haupt": true,
+          "artikel": "Frauenkirche (Dresden)",
+          "wikidata": "Q157229"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2492",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Anbetung des Kindes",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 2660000,
+      "commons_datei": "DPAG-2005-Weihnachten-Anbetung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2493",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Plusmarken-Serie: Weihnachten",
+      "bild_beschreibung": "Muttergottes in der Rosenlaube",
+      "entwerfer": "Ernst Jünger und Lorli Jünger",
+      "auflage": 5360000,
+      "commons_datei": "DPAG-2005-Weihnachten-Muttergottes.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "beschriftung": "Weihnachten",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Bundesrepublik Deutschland",
+          "wikidata": "Q19311428"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2494",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "150. Tölzer Leonhardifahrt",
+      "bild_beschreibung": "",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tölzer Leonhardifahrt",
+          "beschriftung": "Tölzer Leonhardifahrt",
+          "haupt": true,
+          "artikel": "Tölzer Leonhardifahrt",
+          "wikidata": "Q27808135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2495",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Friedensnobelpreis Bertha von Suttner",
+      "bild_beschreibung": "",
+      "entwerfer": "Sibylle Haase und Fritz Haase",
+      "auflage": 10000000,
+      "commons_datei": "DPAG-2005-BerthaVonSuttner.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedensnobelpreis",
+          "beschriftung": "Friedensnobelpreis",
+          "haupt": true,
+          "artikel": "Friedensnobelpreis",
+          "wikidata": "Q35637"
+        },
+        {
+          "titel": "Bertha von Suttner",
+          "beschriftung": "Bertha von Suttner",
+          "haupt": false,
+          "artikel": "Bertha von Suttner",
+          "wikidata": "Q18456"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2496",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "144",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Nobelpreis Robert Koch",
+      "bild_beschreibung": "",
+      "entwerfer": "Werner Hans Schmidt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": true,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Robert Koch",
+          "beschriftung": "Robert Koch",
+          "haupt": false,
+          "artikel": "Robert Koch",
+          "wikidata": "Q37193"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2497",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Bundeswehr",
+      "bild_beschreibung": "",
+      "entwerfer": "Nina Clausing",
+      "auflage": 8000000,
+      "commons_datei": "Postwertzeichen DPAG - 50 Jahre Bundeswehr 2005.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundeswehr",
+          "beschriftung": "Bundeswehr",
+          "haupt": true,
+          "artikel": "Bundeswehr",
+          "wikidata": "Q56010"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2498",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre diplomatische Beziehungen mit Israel",
+      "bild_beschreibung": "Gemeinschaftsausgabe mit Israel",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 9000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Israel",
+          "beschriftung": "Israel",
+          "haupt": true,
+          "artikel": "Israel",
+          "wikidata": "Q801"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2499",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-11-03",
+      "wert": "220",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Preußische Schlösser und Gärten",
+      "bild_beschreibung": "selbstklebend aus Markenheftchen",
+      "entwerfer": "Johannes Graf",
+      "auflage": 70360000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "2500",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-12-01",
+      "wert": "45+20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt",
+      "bild_beschreibung": "Zitronenfalter",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 4470000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zitronenfalter",
+          "beschriftung": "Zitronenfalter",
+          "haupt": true,
+          "artikel": "Zitronenfalter",
+          "wikidata": "Q206474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2501",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-12-01",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt",
+      "bild_beschreibung": "Russischer Bär",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 4280000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Russischer Bär",
+          "beschriftung": "Russischer Bär",
+          "haupt": true,
+          "artikel": "Russischer Bär",
+          "wikidata": "Q937987"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2502",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-12-01",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt",
+      "bild_beschreibung": "Tagpfauenauge",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 4240000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tagpfauenauge",
+          "beschriftung": "Tagpfauenauge",
+          "haupt": true,
+          "artikel": "Tagpfauenauge",
+          "wikidata": "Q158699"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2503",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-12-01",
+      "wert": "145+55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt",
+      "bild_beschreibung": "Weißer Waldportier",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 5040000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weißer Waldportier",
+          "beschriftung": "Weißer Waldportier",
+          "haupt": true,
+          "artikel": "Weißer Waldportier",
+          "wikidata": "Q1491890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2504",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "2005-12-01",
+      "wert": "55+25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Für die Wohlfahrt",
+      "bild_beschreibung": "Tagpfauenauge; selbstklebend aus Markenheftchen",
+      "entwerfer": "Gerhard Lienemeyer",
+      "auflage": 17890000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tagpfauenauge",
+          "beschriftung": "Tagpfauenauge",
+          "haupt": true,
+          "artikel": "Tagpfauenauge",
+          "wikidata": "Q158699"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2434",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-01-03",
+      "wert": "95",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Sonnenblume",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sonnenblume",
+          "beschriftung": "Sonnenblume",
+          "haupt": true,
+          "artikel": "Sonnenblume",
+          "wikidata": "Q171497"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2435",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-01-03",
+      "wert": "430",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Gartenrittersporn",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rittersporne",
+          "beschriftung": "Gartenrittersporn",
+          "haupt": true,
+          "artikel": "Rittersporne",
+          "wikidata": "Q160107"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2451",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-04-07",
+      "wert": "45",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Margerite",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Margerite",
+          "beschriftung": "Margerite",
+          "haupt": true,
+          "artikel": "Magerwiesen-Margerite",
+          "wikidata": "Q27164"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2462",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "25",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Bechermalve",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Malvoideae",
+          "beschriftung": "Bechermalve",
+          "haupt": true,
+          "artikel": "Malvoideae",
+          "wikidata": "Q136377"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2463",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-06-02",
+      "wert": "50",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Aster",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Astern",
+          "beschriftung": "Aster",
+          "haupt": true,
+          "artikel": "Astern",
+          "wikidata": "Q517130"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2471",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "20",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Tagetes",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tagetes",
+          "beschriftung": "Tagetes",
+          "haupt": true,
+          "artikel": "Tagetes",
+          "wikidata": "Q147552"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2472",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Klatschmohn",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Klatschmohn",
+          "beschriftung": "Klatschmohn",
+          "haupt": true,
+          "artikel": "Klatschmohn",
+          "wikidata": "Q130201"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2477",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-07-07",
+      "wert": "55",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Klatschmohn; selbstklebend aus Rolle",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": true,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2480",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-08-11",
+      "wert": "5",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Krokus",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krokusse",
+          "beschriftung": "Krokus",
+          "haupt": true,
+          "artikel": "Krokusse",
+          "wikidata": "Q157806"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2484",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-09-08",
+      "wert": "10",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Tulpe",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tulpe",
+          "beschriftung": "Tulpe",
+          "haupt": true,
+          "artikel": "Tulpen",
+          "wikidata": "Q93201"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2485",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "2005-09-08",
+      "wert": "40",
+      "waehrung": "ct",
+      "gueltig_bis": null,
+      "anlass": "Serie: Blumen",
+      "bild_beschreibung": "Leberblümchen",
+      "entwerfer": "Stefan Klein und Olaf Neumann",
+      "auflage": 0,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leberblümchen",
+          "beschriftung": "Leberblümchen",
+          "haupt": true,
+          "artikel": "Leberblümchen",
+          "wikidata": "Q161050"
+        },
+        {
+          "titel": "Blumen (Briefmarkenserie)",
+          "beschriftung": "Blumen",
+          "haupt": false,
+          "artikel": "Blumen (Deutsche Post)",
+          "wikidata": "Q320270"
+        }
+      ]
+    }
+  ]
+}
