@@ -26,7 +26,8 @@ class EigeneBilder(var ordner: Ordner) {
     /** Legt ein neues Bild ab: Bund-1031.jpg, dann Bund-1031-2.jpg … */
     fun ablegen(gebiet: String, miNr: String, endung: String, bytes: ByteArray): OrdnerDatei? {
         val basis = "$gebiet-${miNr.replace(' ', '_')}"
-        var n = 1
+        // Naechste laufende Nummer nach den schon vorhandenen Bildern der Marke, egal in welchem Format
+        var n = fuer(gebiet, miNr).size + 1
         while (n < 100) {
             val name = if (n == 1) "$basis.$endung" else "$basis-$n.$endung"
             if (!ordner.existiert(UNTERORDNER, name)) return ordner.neu(UNTERORDNER, name, bytes)
