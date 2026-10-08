@@ -52,7 +52,7 @@ compose.desktop {
             modules("java.instrument", "java.prefs", "java.sql", "jdk.unsupported")
             packageVersion = versionName
             description = "$paketName - PhilaPhil, Briefmarken als Zeitgeschichte"
-            vendor = "bgg-home.de"
+            vendor = "bgg-home.de (thomas@bgg-mail.de)"
 
             linux {
                 menuGroup = "Office"

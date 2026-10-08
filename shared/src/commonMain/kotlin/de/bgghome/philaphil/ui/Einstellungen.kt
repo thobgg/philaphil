@@ -1,5 +1,6 @@
 package de.bgghome.philaphil.ui
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -24,6 +25,7 @@ import de.bgghome.philaphil.res.ordner_standard
 import de.bgghome.philaphil.res.ordner_waehlen
 import de.bgghome.philaphil.res.sammlungsordner
 import de.bgghome.philaphil.res.schliessen
+import de.bgghome.philaphil.res.kontakt
 import de.bgghome.philaphil.res.ueber
 import de.bgghome.philaphil.res.vorladen_abbrechen
 import de.bgghome.philaphil.res.vorladen_hinweis
@@ -71,6 +73,8 @@ fun Einstellungen(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> U
                 zustand.vorladenMeldung?.let { Text(it, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary) }
                 Spacer(Modifier.height(16.dp))
                 Text(stringResource(Res.string.ueber, APP_NAME, viewModel.plattform.versionName), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Text(stringResource(Res.string.kontakt), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary,
+                    modifier = Modifier.clickable { viewModel.oeffneWeb("mailto:thomas@bgg-mail.de?subject=PhilaPhil%20" + viewModel.plattform.versionName) })
             }
         },
         confirmButton = { TextButton(onClick = onClose) { Text(stringResource(Res.string.schliessen)) } },

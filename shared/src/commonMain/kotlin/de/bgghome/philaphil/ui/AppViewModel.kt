@@ -40,6 +40,18 @@ import java.io.File
 /** Eine Themenseite: das Thema mit Kurztext und alle Marken dazu, ueber alle Jahrgaenge. */
 data class ThemaSeite(val thema: Thema, val marken: List<Marke>)
 
+/** Ein Eintrag auf der Seite "Heute vor Jahren": ein Jahrestag eines Themas oder ein Ausgabetag. */
+data class HeuteEintrag(
+    /** 'geburt', 'tod', 'gruendung', 'ereignis', 'beginn' oder 'ausgabe' */
+    val art: String,
+    val datum: String,
+    val thema: Thema?,
+    val marken: List<Marke>,
+)
+
+/** Die Seite "Heute vor Jahren" fuer einen Tag. */
+data class HeuteSeite(val tag: java.time.LocalDate, val eintraege: List<HeuteEintrag>)
+
 /** Filter der Liste nach dem eigenen Bestand. */
 enum class BestandFilter { Alle, Vorhanden, Fehlend }
 
@@ -77,6 +89,8 @@ data class AppZustand(
     /** Vollbild mit Wischen und Zoom ueber alle Marken der Liste mit Bild. */
     val vollbild: Boolean = false,
     val einstellungenOffen: Boolean = false,
+    /** Geoeffnete Seite "Heute vor Jahren" (null = zu). */
+    val heute: HeuteSeite? = null,
     /** Vorladen der Vorschaubilder: (fertig, gesamt), null = laeuft nicht. */
     val vorladen: Pair<Int, Int>? = null,
     val vorladenMeldung: String? = null,
@@ -299,6 +313,40 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         }
     }
 
+    // ------------------------------------------------------------ Heute vor Jahren
+
+    /** Seite fuer einen Tag aufbauen: Jahrestage der Hauptthemen und Marken mit diesem Ausgabetag. */
+    fun heuteOeffnen(tag: java.time.LocalDate = java.time.LocalDate.now()) {
+        val k = katalog ?: return
+        viewModelScope.launch {
+            val md = "%02d-%02d".format(tag.monthValue, tag.dayOfMonth)
+            val eintraege = withContext(Dispatchers.IO) {
+                val themen = k.jahrestage(md).groupBy { it.id }.map { (_, zeilen) ->
+                    val z = zeilen.first()
+                    val thema = Thema(z.id, z.wikidata, z.titel, z.artikel_url, z.kurztext, z.wusstest_du, z.quelle, z.geladen_am)
+                    HeuteEintrag(z.art, z.datum, thema, k.markenZumThema(z.id))
+                }
+                val ausgaben = k.ausgabenAmTag(md).groupBy { it.ausgabetag.orEmpty() }.map { (datum, marken) ->
+                    HeuteEintrag("ausgabe", datum, null, marken)
+                }
+                (themen + ausgaben).sortedBy { it.datum }
+            }
+            _zustand.update { it.copy(heute = HeuteSeite(tag, eintraege)) }
+            bilderNachladen(eintraege.flatMap { it.marken })
+        }
+    }
+
+    fun heuteSchliessen() = _zustand.update { it.copy(heute = null) }
+
+    /** Von "Heute" zu einer Marke: ihren Jahrgang laden und die Marke zeigen. */
+    fun heuteZurMarke(marke: Marke) {
+        viewModelScope.launch {
+            _zustand.update { it.copy(heute = null, suchtext = "", suchtreffer = null, filter = BestandFilter.Alle) }
+            jahrgangLaden(marke.gebiet, marke.jahr)
+            waehlen(marke)
+        }
+    }
+
     fun einstellungen(offen: Boolean) = _zustand.update { it.copy(einstellungenOffen = offen) }
 
     // ------------------------------------------------------------ Themen, Suche, Vollbild
@@ -345,6 +393,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         val z = _zustand.value
         return when {
             z.einstellungenOffen -> { einstellungen(false); true }
+            z.heute != null && !z.vollbild -> { heuteSchliessen(); true }
             z.vollbild -> { vollbild(false); true }
             z.themaSeite != null -> { themaSchliessen(); true }
             z.marke != null -> { waehlen(null); true }

@@ -24,6 +24,8 @@ fun main(args: Array<String>) {
     val startMiNr = args.toList().zipWithNext().firstOrNull { it.first == "--minr" }?.second
     // --vorladen: Vorschaubilder gleich nach dem Start laden (zum Testen ohne Klick)
     val vorladen = "--vorladen" in args
+    // --heute: gleich mit der Seite "Heute vor Jahren" starten
+    val heute = "--heute" in args
     // --gebiet Reich: mit diesem Sammelgebiet starten (zum Testen)
     val startGebiet = args.toList().zipWithNext().firstOrNull { it.first == "--gebiet" }?.second
     SingletonImageLoader.setSafe { context -> philaImageLoader(context, plattform) }
@@ -37,7 +39,10 @@ fun main(args: Array<String>) {
         ) {
             val context = coil3.compose.LocalPlatformContext.current
             val zustand by viewModel.zustand.collectAsState()
-            LaunchedEffect(zustand.laedt) { if (vorladen && !zustand.laedt) viewModel.vorladen(context) }
+            LaunchedEffect(zustand.laedt) {
+                if (vorladen && !zustand.laedt) viewModel.vorladen(context)
+                if (heute && !zustand.laedt) viewModel.heuteOeffnen()
+            }
             LaunchedEffect(zustand.vorladenMeldung) { if (vorladen) zustand.vorladenMeldung?.let { println("Vorladen: $it") } }
             PhilaTheme { AppRoot(viewModel) }
         }

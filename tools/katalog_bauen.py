@@ -93,6 +93,16 @@ CREATE TABLE marke_thema (
   PRIMARY KEY (marke_id, thema_id)
 );
 
+-- Kalenderdaten der Themen aus Wikidata (Geburt, Tod, Gruendung …) fuer "Heute vor Jahren"
+CREATE TABLE thema_datum (
+  thema_id INTEGER NOT NULL REFERENCES thema(id),
+  art TEXT NOT NULL,             -- 'geburt', 'tod', 'gruendung', 'ereignis', 'beginn'
+  datum TEXT NOT NULL,           -- ISO
+  monat_tag TEXT NOT NULL        -- 'MM-DD' fuer die Abfrage nach dem Tag
+);
+CREATE INDEX thema_datum_tag ON thema_datum (monat_tag);
+CREATE INDEX marke_tag ON marke (substr(ausgabetag, 6, 5));
+
 -- Volltextsuche über Anlass, Bildbeschreibung und Themen; rowid = marke.id
 CREATE VIRTUAL TABLE marke_fts USING fts5 (
   mi_nr, anlass, bild_beschreibung, themen, entwerfer,
@@ -215,6 +225,12 @@ def bauen(ziel):
             print(f"  Hinweis: Handkorrekturen ohne Marke in {hand_datei.name}: {unbekannt}", file=sys.stderr)
         if doppelt:
             print(f"  {datei.relative_to(DATEN)}: übersprungen, weil schon in anderem Jahrgang: {', '.join(doppelt)}", file=sys.stderr)
+
+    # Kalenderdaten aus Wikidata (tools/wikidata_daten.py)
+    kalender = json.loads((DATEN / "themen_daten.json").read_text(encoding="utf-8")) if (DATEN / "themen_daten.json").exists() else {}
+    for schluessel, tid in themen_ids.items():
+        for e in kalender.get(schluessel, []):
+            db.execute("INSERT INTO thema_datum VALUES (?,?,?,?)", (tid, e["art"], e["datum"], e["datum"][5:10]))
 
     db.execute("INSERT INTO info VALUES ('schema_version', '1')")
     db.execute("INSERT INTO info VALUES ('gebaut_am', ?)", (date.today().isoformat(),))
