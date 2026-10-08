@@ -32,6 +32,7 @@ import androidx.compose.ui.unit.dp
 import de.bgghome.philaphil.daten.datumLesbar
 import de.bgghome.philaphil.daten.wertLesbar
 import de.bgghome.philaphil.daten.zahlLesbar
+import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.db.Thema
 import de.bgghome.philaphil.res.Res
 import de.bgghome.philaphil.res.am_rande
@@ -58,8 +59,12 @@ import org.jetbrains.compose.resources.stringResource
  * das Hauptthema in drei Saetzen, "Wusstest du?", weitere Themen mit Sprung zur Themenseite.
  */
 @Composable
-fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel) {
-    val marke = zustand.marke ?: return
+fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel, gezeigt: Marke? = null) {
+    val marke = gezeigt ?: zustand.marke ?: return
+    // Themen und Bestand gehoeren zur gewaehlten Marke; Nachbarseiten im Wischen zeigen sie erst nach dem Einrasten
+    val aktuell = zustand.marke?.id == marke.id
+    val themen = if (aktuell) zustand.themen else emptyList()
+    val hauptthema = themen.firstOrNull { it.haupt }
     val bild = zustand.bild(marke)
     val eigenes = zustand.eigene(marke).firstOrNull()
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(20.dp)) {
@@ -115,12 +120,12 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel) {
         }
 
         Spacer(Modifier.height(16.dp))
-        Bestandskarte(zustand, viewModel, marke)
+        if (aktuell) Bestandskarte(zustand, viewModel, marke)
         Spacer(Modifier.height(16.dp))
         EigeneBilderZeile(zustand, viewModel, marke)
 
         // Das Hauptthema erzaehlt: Kurztext aus der Wikipedia, dazu "Wusstest du?"
-        zustand.hauptthema?.let { haupt ->
+        hauptthema?.let { haupt ->
             Spacer(Modifier.height(20.dp))
             ThemaText(haupt.thema, viewModel, mitTitel = true)
             if (haupt.weitereMarken > 0) {
@@ -130,12 +135,12 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel) {
             }
         }
 
-        if (zustand.themen.size > 1) {
+        if (themen.size > 1) {
             Spacer(Modifier.height(20.dp))
             Text(stringResource(Res.string.themen_titel), style = MaterialTheme.typography.titleMedium)
             Spacer(Modifier.height(8.dp))
             FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
-                zustand.themen.forEach { t ->
+                themen.forEach { t ->
                     AssistChip(
                         onClick = { viewModel.themaOeffnen(t.thema) },
                         label = {
@@ -218,5 +223,32 @@ private fun Fakt(name: String, wert: String) {
     Row(verticalAlignment = Alignment.Top) {
         Text(name, Modifier.padding(end = 12.dp), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
         Text(wert, style = MaterialTheme.typography.bodyLarge)
+    }
+}
+
+
+/**
+ * Markenkarte mit Wischen: links und rechts liegen die Nachbarn in der Liste (Jahrgang, Suchtreffer, Filter).
+ * Rastet eine Seite ein, wird sie zur gewaehlten Marke - Liste, Titel und Themen folgen.
+ */
+@OptIn(androidx.compose.foundation.ExperimentalFoundationApi::class)
+@Composable
+fun MarkenPager(zustand: AppZustand, viewModel: AppViewModel) {
+    val liste = zustand.liste
+    val marke = zustand.marke ?: return
+    val index = liste.indexOfFirst { it.id == marke.id }
+    if (index < 0) { MarkenDetail(zustand, viewModel); return }
+    val aktuelleListe = androidx.compose.runtime.rememberUpdatedState(liste)
+    val pager = androidx.compose.foundation.pager.rememberPagerState(initialPage = index) { aktuelleListe.value.size }
+    // Auswahl von aussen (Tipp in der Liste): Pager nachziehen
+    androidx.compose.runtime.LaunchedEffect(index) { if (pager.currentPage != index) pager.scrollToPage(index) }
+    // Gewischt: neue Marke waehlen, sobald die Seite eingerastet ist
+    androidx.compose.runtime.LaunchedEffect(pager) {
+        androidx.compose.runtime.snapshotFlow { pager.settledPage }.collect { seite ->
+            aktuelleListe.value.getOrNull(seite)?.let { if (it.id != viewModel.zustand.value.marke?.id) viewModel.waehlen(it) }
+        }
+    }
+    androidx.compose.foundation.pager.HorizontalPager(state = pager, beyondViewportPageCount = 1, key = { liste[it].id }) { seite ->
+        MarkenDetail(zustand, viewModel, gezeigt = liste[seite])
     }
 }
