@@ -30,7 +30,7 @@ def themen_sammeln():
     """Alle Themen aus den Jahrgangsdateien, Schlüssel = Wikidata-ID oder Artikel."""
     themen = {}
     for datei in sorted(DATEN.glob("*/*.json")):
-        if datei.name.endswith(".hand.json"):
+        if datei.name.endswith((".hand.json", ".commons.json")):
             continue
         for marke in json.loads(datei.read_text(encoding="utf-8"))["marken"]:
             for t in marke["themen"]:
