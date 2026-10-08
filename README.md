@@ -20,7 +20,7 @@ gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und w
 
 <img src="docs/bilder/desktop-tablet.png" width="720" alt="Tablet und Desktop: Liste links, Marke und Themenkarte rechts">
 
-Stand: Bund komplett, 1949 bis 2026 (3854 Marken) mit Themenkarten (Kurztext aus der Wikipedia, „Wusstest du?“, Marken zum Thema), Suche und Blättern durch die Jahrgänge.
+Stand: Bund komplett, 1949 bis 2026 (3850 Marken) mit Themenkarten (Kurztext aus der Wikipedia, „Wusstest du?“, Marken zum Thema), Suche, Blättern durch die Jahrgänge, eigener Bestand mit Erhaltung und Notiz, eigene Bilder aus einem Sammlungsordner.
 
 ```
 daten/     JSON pro Gebiet und Jahrgang (CC BY-SA 4.0), später eigenes Repo briefmarken-daten
@@ -44,6 +44,23 @@ Handkorrekturen (Bilder, Hauptthema, Zähnung, Druckart) kommen nach
 `daten/<gebiet>/<jahr>.hand.json` und überleben jeden Neuimport.
 
 Lizenz: Code GPL-3.0 (LICENSE), Daten CC BY-SA 4.0 (daten/LICENSE).
+
+## Eigene Sammlung
+
+Bestand und eigene Bilder liegen in einem **Sammlungsordner**, den du in den Einstellungen wählst,
+zum Beispiel einen Ordner, den Synology Drive zwischen NAS, PC und Handy spiegelt:
+
+```
+Sammlungsordner/
+  bestand.json          Erhaltung (**, *, ⊙, FDC), Anzahl und Notiz je Marke – offen und lesbar
+  Bilder/
+    Bund-1031.jpg       eigenes Bild zur MiNr 1031, geht vor dem Commons-Bild
+    Bund-1031-2.png     weiteres Bild derselben Marke
+```
+
+Eigene Bilder gelten für jede Marke, ob im Besitz oder nicht. Beim Hinzufügen über die App
+(Foto oder Galerie am Handy, Datei am PC) wird auf 1600 Pixel verkleinert. Nichts davon landet
+im Repo oder in einem Release.
 
 ## Pakete
 

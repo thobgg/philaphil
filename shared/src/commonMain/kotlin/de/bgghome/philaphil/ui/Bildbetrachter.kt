@@ -58,8 +58,15 @@ private const val DOPPELTIPP_ZOOM = 2.5f
 @Composable
 fun Bildbetrachter(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> Unit) {
     val liste = zustand.liste
-    val mitBild = remember(liste, zustand.bilder) {
-        liste.withIndex().mapNotNull { (i, m) -> zustand.bild(m)?.let { Triple(i, m, it) } }
+    // Je Marke ein Eintrag: eigenes Bild (Original = Vorschau) oder Commons
+    val mitBild = remember(liste, zustand.bilder, zustand.eigeneBilder) {
+        liste.withIndex().mapNotNull { (i, m) ->
+            val eigen = zustand.eigene(m).firstOrNull()
+            when {
+                eigen != null -> Triple(i, m, BildInfo(eigen.name, eigen.modell.toString(), eigen.modell.toString(), "", 0, 0, "Eigenes Bild", null, null).also { it.eigenesModell = eigen.modell })
+                else -> zustand.bild(m)?.let { Triple(i, m, it) }
+            }
+        }
     }
     if (mitBild.isEmpty()) { onClose(); return }
     val start = mitBild.indexOfFirst { it.second.id == zustand.marke?.id }.coerceAtLeast(0)
@@ -86,7 +93,7 @@ fun Bildbetrachter(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> 
             Column(Modifier.fillMaxWidth().background(Color.Black.copy(alpha = 0.55f)).safeDrawingPadding().padding(12.dp)) {
                 Text("MiNr. ${marke.mi_nr} · ${marke.anlass.orEmpty()}", color = Color.White, fontWeight = FontWeight.SemiBold, style = MaterialTheme.typography.bodyLarge)
                 if (!marke.bild_beschreibung.isNullOrBlank()) Text(marke.bild_beschreibung, color = Color.White, style = MaterialTheme.typography.bodyMedium)
-                Text(stringResource(Res.string.bild_quelle, bild.lizenz, bild.urheber ?: "Wikimedia Commons"),
+                Text(if (bild.eigenesModell != null) bild.lizenz + " · " + bild.datei else stringResource(Res.string.bild_quelle, bild.lizenz, bild.urheber ?: "Wikimedia Commons"),
                     color = Color.White.copy(alpha = 0.8f), style = MaterialTheme.typography.bodySmall)
             }
         }
@@ -137,7 +144,7 @@ private fun ZoomBild(marke: Marke, bild: BildInfo, onTap: () -> Unit, onZoom: (B
     ) {
         AsyncImage(
             // Vollbild: das Original von Commons, die Vorschau ist schon im Cache und ueberbrueckt.
-            model = bild.originalUrl, contentDescription = marke.anlass, contentScale = ContentScale.Fit,
+            model = bild.eigenesModell ?: bild.originalUrl, contentDescription = marke.anlass, contentScale = ContentScale.Fit,
             modifier = Modifier.fillMaxSize().graphicsLayer {
                 scaleX = skala; scaleY = skala
                 translationX = lage.x; translationY = lage.y

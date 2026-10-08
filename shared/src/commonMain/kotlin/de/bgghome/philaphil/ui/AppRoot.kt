@@ -26,6 +26,10 @@ import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
 import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material3.SegmentedButton
+import androidx.compose.material3.SegmentedButtonDefaults
+import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
@@ -60,6 +64,11 @@ import de.bgghome.philaphil.daten.wertLesbar
 import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.res.Res
 import de.bgghome.philaphil.res.app_titel
+import de.bgghome.philaphil.res.bestand_zaehler
+import de.bgghome.philaphil.res.einstellungen_titel
+import de.bgghome.philaphil.res.filter_alle
+import de.bgghome.philaphil.res.filter_fehlend
+import de.bgghome.philaphil.res.filter_vorhanden
 import de.bgghome.philaphil.res.fehler_laden
 import de.bgghome.philaphil.res.jahrgang_titel
 import de.bgghome.philaphil.res.jahrgang_untertitel
@@ -81,9 +90,10 @@ private val BREIT_AB = 840.dp
 fun AppRoot(viewModel: AppViewModel) {
     val zustand by viewModel.zustand.collectAsState()
 
-    BackHandler(enabled = zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
+    BackHandler(enabled = zustand.einstellungenOffen || zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
         viewModel.zurueck()
     }
+    if (zustand.einstellungenOffen) Einstellungen(zustand, viewModel, onClose = { viewModel.einstellungen(false) })
 
     BoxWithConstraints(Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background)) {
         val breit = maxWidth >= BREIT_AB
@@ -137,8 +147,9 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
                         Text(stringResource(Res.string.jahrgang_titel, zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
                         Icon(Icons.Default.ArrowDropDown, contentDescription = stringResource(Res.string.jahrgang_waehlen))
                     }
-                    if (breit) Text(stringResource(Res.string.app_titel), style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
+                    val zaehler = stringResource(Res.string.bestand_zaehler, zustand.imJahrgangVorhanden, zustand.jahrgang.size)
+                    Text(if (breit) stringResource(Res.string.app_titel) + " · " + zaehler else zaehler,
+                        style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
                 }
             },
             actions = {
@@ -153,6 +164,9 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
                 Text(naechster?.jahr?.toString() ?: "", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                 IconButton(onClick = { naechster?.let(viewModel::jahrgangWaehlen) }, enabled = naechster != null) {
                     Icon(Icons.AutoMirrored.Filled.KeyboardArrowRight, contentDescription = stringResource(Res.string.jahrgang_vor))
+                }
+                IconButton(onClick = { viewModel.einstellungen(true) }) {
+                    Icon(Icons.Default.Settings, contentDescription = stringResource(Res.string.einstellungen_titel))
                 }
             },
             colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.surface),
@@ -173,7 +187,15 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
             keyboardActions = KeyboardActions(onSearch = { fokus.clearFocus() }),
             modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp),
         )
-        Spacer(Modifier.height(8.dp))
+        // Filter nach dem eigenen Bestand
+        SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 6.dp)) {
+            val filter = listOf(BestandFilter.Alle to Res.string.filter_alle, BestandFilter.Vorhanden to Res.string.filter_vorhanden, BestandFilter.Fehlend to Res.string.filter_fehlend)
+            filter.forEachIndexed { i, (f, text) ->
+                SegmentedButton(selected = zustand.filter == f, onClick = { viewModel.filterSetzen(f) },
+                    shape = SegmentedButtonDefaults.itemShape(i, filter.size), label = { Text(stringResource(text), maxLines = 1) })
+            }
+        }
+        Spacer(Modifier.height(2.dp))
     }
 }
 
@@ -207,7 +229,7 @@ fun MarkenZeile(marke: Marke, zustand: AppZustand, gewaehlt: Boolean, mitJahr: B
         Modifier.fillMaxWidth().background(hintergrund).clickable(onClick = onClick).padding(horizontal = 12.dp, vertical = 10.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
-        MarkenBild(zustand.bild(marke)?.vorschauUrl, marke, Modifier.size(width = 72.dp, height = 84.dp))
+        MarkenBild(zustand.vorschau(marke), marke, Modifier.size(width = 72.dp, height = 84.dp))
         Spacer(Modifier.width(14.dp))
         Column(Modifier.weight(1f)) {
             Text(marke.anlass.orEmpty(), style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold, maxLines = 2)
@@ -221,18 +243,23 @@ fun MarkenZeile(marke: Marke, zustand: AppZustand, gewaehlt: Boolean, mitJahr: B
             Text("$nummer · ${wertLesbar(marke)} · ${datumLesbar(marke.ausgabetag)}",
                 style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
         }
+        // Eigener Bestand: Erhaltungen rechts, z. B. "** ⊙"
+        zustand.bestandText(marke)?.let { b ->
+            Spacer(Modifier.width(8.dp))
+            Text(b, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.secondary)
+        }
     }
 }
 
 /** Vorschau oder Platzhalter (Rahmen mit MiNr.), wenn Commons kein Bild hat. */
 @Composable
-fun MarkenBild(url: String?, marke: Marke, modifier: Modifier = Modifier, contentScale: ContentScale = ContentScale.Fit) {
+fun MarkenBild(modell: Any?, marke: Marke, modifier: Modifier = Modifier, contentScale: ContentScale = ContentScale.Fit) {
     Box(
         modifier.clip(RoundedCornerShape(4.dp)).background(MaterialTheme.colorScheme.surfaceVariant),
         contentAlignment = Alignment.Center,
     ) {
-        if (url != null) {
-            AsyncImage(model = url, contentDescription = marke.anlass, contentScale = contentScale, modifier = Modifier.fillMaxSize().padding(2.dp))
+        if (modell != null) {
+            AsyncImage(model = modell, contentDescription = marke.anlass, contentScale = contentScale, modifier = Modifier.fillMaxSize().padding(2.dp))
         } else {
             Text(marke.mi_nr, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
         }
