@@ -111,7 +111,7 @@ fun AppRoot(viewModel: AppViewModel) {
             !breit && zustand.themaSeite != null ->
                 Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
             !breit && zustand.marke != null ->
-                Seite("MiNr. ${zustand.marke!!.mi_nr}", onZurueck = { viewModel.waehlen(null) }) { MarkenDetail(zustand, viewModel) }
+                Seite("MiNr. ${zustand.marke!!.mi_nr}", onZurueck = { viewModel.waehlen(null) }) { MarkenPager(zustand, viewModel) }
             else -> Scaffold(topBar = { Kopf(zustand, viewModel, breit) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
                 Row(Modifier.padding(innen).fillMaxSize()) {
                     Box(if (breit) Modifier.width(420.dp).fillMaxHeight() else Modifier.fillMaxSize()) {
@@ -122,7 +122,7 @@ fun AppRoot(viewModel: AppViewModel) {
                         Box(Modifier.weight(1f).fillMaxHeight()) {
                             when {
                                 zustand.themaSeite != null -> Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
-                                zustand.marke != null -> MarkenDetail(zustand, viewModel)
+                                zustand.marke != null -> MarkenPager(zustand, viewModel)
                                 // Tablet/Desktop ohne gewaehlte Marke: die Zeitreise zum Jahrgang
                                 else -> if (zustand.ereignisse.isNotEmpty() || zustand.jahrInfo?.einleitung != null) Zeitreise(zustand, viewModel, mitTitel = true)
                                 else Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
