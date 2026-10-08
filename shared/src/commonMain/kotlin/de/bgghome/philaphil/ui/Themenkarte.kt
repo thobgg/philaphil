@@ -127,7 +127,7 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel, gezeigt: Marke? =
         // Das Hauptthema erzaehlt: Kurztext aus der Wikipedia, dazu "Wusstest du?"
         hauptthema?.let { haupt ->
             Spacer(Modifier.height(20.dp))
-            ThemaText(haupt.thema, viewModel, mitTitel = true)
+            ThemaText(haupt.thema, viewModel, mitTitel = true, zustand = zustand)
             if (haupt.weitereMarken > 0) {
                 Spacer(Modifier.height(8.dp))
                 Text(stringResource(Res.string.marken_zum_thema, haupt.weitereMarken), color = MaterialTheme.colorScheme.primary,
@@ -169,7 +169,7 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel, gezeigt: Marke? =
 
 /** Kurztext, "Wusstest du?" und der Link zur Wikipedia - fuer Themenkarte und Themenseite. */
 @Composable
-fun ThemaText(thema: Thema, viewModel: AppViewModel, mitTitel: Boolean) {
+fun ThemaText(thema: Thema, viewModel: AppViewModel, mitTitel: Boolean, zustand: AppZustand? = null) {
     if (mitTitel) {
         Text(thema.titel, style = MaterialTheme.typography.titleMedium)
         Spacer(Modifier.height(6.dp))
@@ -192,6 +192,7 @@ fun ThemaText(thema: Thema, viewModel: AppViewModel, mitTitel: Boolean) {
             }
         }
     }
+    zustand?.let { KiBereich(thema, it, viewModel) }
     thema.artikel_url?.let { url ->
         Spacer(Modifier.height(8.dp))
         Text(stringResource(Res.string.mehr_bei_wikipedia), color = MaterialTheme.colorScheme.primary,
@@ -206,7 +207,7 @@ fun ThemaSeite(zustand: AppZustand, viewModel: AppViewModel) {
     LazyColumn(Modifier.fillMaxSize()) {
         item {
             Column(Modifier.padding(20.dp)) {
-                ThemaText(seite.thema, viewModel, mitTitel = false)
+                ThemaText(seite.thema, viewModel, mitTitel = false, zustand = zustand)
                 Spacer(Modifier.height(20.dp))
                 Text(stringResource(Res.string.marken_zum_thema_titel, seite.marken.size), style = MaterialTheme.typography.titleMedium)
             }

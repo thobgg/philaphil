@@ -38,6 +38,8 @@ kotlin {
             api(libs.coil.network.okhttp)
             api(libs.compose.ui.backhandler)
             api(libs.sqldelight.runtime)
+            // KI-Begleiter: nur nach Opt-in mit eigenem Schluessel aktiv
+            implementation(libs.anthropic.java)
         }
         androidMain.dependencies {
             api(libs.androidx.core.ktx)

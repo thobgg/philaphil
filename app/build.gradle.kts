@@ -55,6 +55,14 @@ android {
     kotlinOptions { jvmTarget = "11" }
     buildFeatures { compose = true }
 
+    // Bibliotheken des KI-SDK bringen gleichnamige Lizenz- und Metadateien mit; fuer die App unnoetig
+    packaging {
+        resources {
+            excludes += setOf("META-INF/DEPENDENCIES", "META-INF/LICENSE*", "META-INF/NOTICE*", "META-INF/INDEX.LIST",
+                "META-INF/*.kotlin_module", "META-INF/versions/9/OSGI-INF/MANIFEST.MF")
+        }
+    }
+
     // Dateiname des Pakets: PhilaAnd-0.1.apk bzw. PhilaAnd-0.1-debug.apk (App heisst weiter PhilaPhil)
     applicationVariants.all {
         val variante = this
