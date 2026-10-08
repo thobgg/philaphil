@@ -128,7 +128,7 @@ data class AppZustand(
 }
 
 /** @param startMiNr Marke, die nach dem Laden gleich geoeffnet wird (Desktop: Aufruf mit --minr 1031). */
-class AppViewModel(val plattform: Plattform, private val startMiNr: String? = null, private val startGebiet: String? = null) : ViewModel() {
+class AppViewModel(val plattform: Plattform, private val startMiNr: String? = null, private val startGebiet: String? = null, private val startJahr: Long? = null) : ViewModel() {
     private val _zustand = MutableStateFlow(AppZustand())
     val zustand: StateFlow<AppZustand> = _zustand
 
@@ -161,7 +161,10 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 if (zielMarke != null) {
                     jahrgangLaden(zielMarke.gebiet, zielMarke.jahr)
                     waehlen(zielMarke)
-                } else startGebiet?.let { g -> _zustand.value.jahrgaenge.firstOrNull { it.gebiet == g }?.let(::jahrgangWaehlen) }
+                } else if (startGebiet != null || startJahr != null) {
+                    val g = startGebiet ?: "Bund"
+                    _zustand.value.jahrgaenge.firstOrNull { it.gebiet == g && (startJahr == null || it.jahr == startJahr) }?.let(::jahrgangWaehlen)
+                }
             } catch (e: Exception) {
                 _zustand.update { it.copy(laedt = false, fehler = e.message ?: e.toString()) }
             }

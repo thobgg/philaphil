@@ -26,12 +26,14 @@ fun main(args: Array<String>) {
     val vorladen = "--vorladen" in args
     // --heute: gleich mit der Seite "Heute vor Jahren" starten
     val heute = "--heute" in args
+    // --jahr 1989: mit diesem Jahrgang starten (Gebiet aus --gebiet, sonst Bund)
+    val startJahr = args.toList().zipWithNext().firstOrNull { it.first == "--jahr" }?.second?.toLongOrNull()
     // --gebiet Reich: mit diesem Sammelgebiet starten (zum Testen)
     val startGebiet = args.toList().zipWithNext().firstOrNull { it.first == "--gebiet" }?.second
     SingletonImageLoader.setSafe { context -> philaImageLoader(context, plattform) }
 
     application {
-        val viewModel = remember { AppViewModel(plattform, startMiNr, startGebiet) }
+        val viewModel = remember { AppViewModel(plattform, startMiNr, startGebiet, startJahr) }
         Window(
             onCloseRequest = ::exitApplication,
             title = APP_NAME,

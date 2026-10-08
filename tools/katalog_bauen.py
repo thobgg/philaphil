@@ -219,6 +219,8 @@ def bauen(ziel):
             ziffern = erste.group() if erste else ""
             if mk["mi_nr"].startswith("ATM"):
                 ziffern = str(900000 + int(ziffern))
+            elif ziffern and not mk["mi_nr"][0].isdigit():
+                ziffern = str(100000 + int(ziffern))     # D, P, RP, Bl. … hinter die Marken des Jahrgangs
             cur = db.execute("""INSERT INTO marke (gebiet, mi_nr, sortier_nr, jahr, art, ausgabetag, wert, waehrung,
                 anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei, block, gueltig_bis, anmerkung)
                 VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
