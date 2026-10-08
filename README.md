@@ -4,6 +4,8 @@
 
 Briefmarken als Zeitgeschichte. Ein Katalog, der erzählt – kein Katalog, der bewertet.
 
+Webseite: https://bgg-home.de/philaphil/
+
 Jede Marke steht für etwas: ein Ereignis, eine Person, eine Zeit. PhilaPhil nimmt dich an die Hand
 und führt in die Zeit der Herausgabe und in das Thema der Marke. Für Bewertung und Spezialwissen
 gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und was damals los war.
