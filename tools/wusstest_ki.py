@@ -134,14 +134,23 @@ def uebernehmen(args):
     gut, verworfen = 0, []
     for k, a in antworten.items():
         e = liste.get(k)
-        satz, beleg = (a.get("satz") or "").strip(), (a.get("beleg") or "").strip()
+        satz = (a.get("satz") or "").strip()
+        # Altes Format: ein "beleg"; neues Format: "belege", ein Zitat je Satz - alle muessen im Text stehen
+        belege = [b.strip() for b in (a.get("belege") or [a.get("beleg") or ""])]
         if not e or not satz:
             continue
-        text = (los / e["datei"]).read_text(encoding="utf-8")
-        if len(beleg) < 15 or normal(beleg).rstrip(".…") not in normal(text):
+        if args.nur_stark and a.get("staerke") != "stark":
+            continue
+        text = normal((los / e["datei"]).read_text(encoding="utf-8"))
+        if not belege or any(len(b) < 15 or normal(b).rstrip(".…") not in text for b in belege):
             verworfen.append(e["artikel"])
             continue
-        bestand[k] = {"thema": e["artikel"], "satz": satz, "beleg": beleg, "modell": args.modell, "datum": date.today().isoformat()}
+        eintrag = {"thema": e["artikel"], "satz": satz, "beleg": belege[0], "modell": args.modell, "datum": date.today().isoformat()}
+        if len(belege) > 1:
+            eintrag["belege"] = belege
+        if a.get("staerke"):
+            eintrag["staerke"] = a["staerke"]
+        bestand[k] = eintrag
         gut += 1
     ZIEL.write_text(json.dumps(dict(sorted(bestand.items())), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"{gut} übernommen, {len(verworfen)} ohne wörtlichen Beleg verworfen {verworfen[:8]}", file=sys.stderr)
@@ -159,6 +168,7 @@ def main():
     w = u.add_parser("uebernehmen")
     w.add_argument("los")
     w.add_argument("--modell", default="Claude (Claude Code)")
+    w.add_argument("--nur-stark", action="store_true", help="nur Texte mit staerke 'stark' uebernehmen")
     args = p.parse_args()
     vorbereiten(args) if args.schritt == "vorbereiten" else uebernehmen(args)
 
