@@ -17,6 +17,8 @@ coroutines = "1.9.0"
 # SQLite ueber SQLDelight: Schema in shared/src/commonMain/sqldelight, Treiber je Plattform.
 sqldelight = "2.1.0"
 junit = "4.13.2"
+# KI-Begleiter (Opt-in): offizielles Anthropic-SDK fuer die JVM
+anthropic = "2.34.0"
 # Zugriff auf einen per Dokumentensystem gewaehlten Sammlungsordner (SAF)
 documentfile = "1.0.1"
 
@@ -35,6 +37,7 @@ kotlinx-coroutines-swing    = { group = "org.jetbrains.kotlinx", name = "kotlinx
 sqldelight-runtime          = { group = "app.cash.sqldelight", name = "runtime", version.ref = "sqldelight" }
 sqldelight-android-driver   = { group = "app.cash.sqldelight", name = "android-driver", version.ref = "sqldelight" }
 sqldelight-sqlite-driver    = { group = "app.cash.sqldelight", name = "sqlite-driver", version.ref = "sqldelight" }
+anthropic-java              = { group = "com.anthropic", name = "anthropic-java", version.ref = "anthropic" }
 junit                       = { group = "junit", name = "junit", version.ref = "junit" }
 
 [plugins]

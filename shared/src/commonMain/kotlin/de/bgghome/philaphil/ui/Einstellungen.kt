@@ -1,6 +1,7 @@
 package de.bgghome.philaphil.ui
 
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -41,7 +42,7 @@ fun Einstellungen(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> U
         onDismissRequest = onClose,
         title = { Text(stringResource(Res.string.einstellungen_titel)) },
         text = {
-            Column {
+            Column(Modifier.verticalScroll(androidx.compose.foundation.rememberScrollState())) {
                 Text(stringResource(Res.string.sammlungsordner), style = MaterialTheme.typography.titleMedium)
                 Spacer(Modifier.height(4.dp))
                 Text(zustand.sammlungsordner, style = MaterialTheme.typography.bodyMedium)
@@ -54,6 +55,8 @@ fun Einstellungen(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> U
                 TextButton(onClick = { viewModel.sammlungsordnerSetzen(null) }) { Text(stringResource(Res.string.ordner_standard)) }
                 Spacer(Modifier.height(8.dp))
                 Text(stringResource(Res.string.ordner_hinweis), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Spacer(Modifier.height(16.dp))
+                KiEinstellungen(zustand, viewModel)
                 Spacer(Modifier.height(16.dp))
                 // Vorschaubilder fuer unterwegs
                 val context = LocalPlatformContext.current

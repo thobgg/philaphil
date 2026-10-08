@@ -71,6 +71,15 @@ Eigene Bilder gelten für jede Marke, ob im Besitz oder nicht. Beim Hinzufügen 
 (Foto oder Galerie am Handy, Datei am PC) wird auf 1600 Pixel verkleinert. Nichts davon landet
 im Repo oder in einem Release.
 
+## KI-Begleiter (freiwillig)
+
+In den Einstellungen lässt sich ein KI-Begleiter einschalten, mit eigenem API-Schlüssel für Claude (Anthropic),
+ChatGPT (OpenAI) oder Gemini (Google). Er schlägt zu einem Thema einen Satz für „Wusstest du?“ vor –
+ausschließlich aus dem Wikipedia-Artikel des Themas. Die KI muss die Stelle im Artikel wörtlich zitieren,
+auf der der Satz beruht; steht das Zitat nicht im Text, verwirft die App den Vorschlag. Jeden Satz prüfst
+und gibst du selbst frei, er landet als `wusstest_du.json` im Sammlungsordner und ist als KI-Entwurf gekennzeichnet.
+Gesendet wird nur der Artikeltext, nie Bestand, Bilder oder Notizen. Ausgeschaltet geht nichts an eine KI.
+
 ## Pakete
 
 Fertige Pakete liegen bei den [Releases](https://github.com/thobgg/philaphil/releases):

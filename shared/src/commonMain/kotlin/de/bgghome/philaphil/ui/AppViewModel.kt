@@ -7,6 +7,14 @@ import de.bgghome.philaphil.bestanddb.Bestand
 import de.bgghome.philaphil.daten.BildInfo
 import de.bgghome.philaphil.daten.CommonsBilder
 import de.bgghome.philaphil.daten.EigeneBilder
+import de.bgghome.philaphil.daten.EigeneTexte
+import de.bgghome.philaphil.daten.EigenerSatz
+import de.bgghome.philaphil.daten.KiAntwort
+import de.bgghome.philaphil.daten.KiArt
+import de.bgghome.philaphil.daten.KiBegleiter
+import de.bgghome.philaphil.daten.KiEntwurf
+import de.bgghome.philaphil.daten.kiAnbieter
+import de.bgghome.philaphil.daten.wikipediaText
 import de.bgghome.philaphil.daten.Katalog
 import de.bgghome.philaphil.daten.MarkenThema
 import de.bgghome.philaphil.daten.Ordner
@@ -54,6 +62,9 @@ data class HeuteEintrag(
 /** Die Seite "Heute vor Jahren" fuer einen Tag. */
 data class HeuteSeite(val tag: java.time.LocalDate, val eintraege: List<HeuteEintrag>)
 
+/** Schluessel eines Themas fuer eigene Ergaenzungen: Wikidata-Kennung, sonst der Artikeltitel. */
+fun themaSchluessel(thema: Thema): String = thema.wikidata ?: "titel:${thema.titel}"
+
 /** Filter der Liste nach dem eigenen Bestand. */
 enum class BestandFilter { Alle, Vorhanden, Fehlend }
 
@@ -96,6 +107,19 @@ data class AppZustand(
     /** Vollbild mit Wischen und Zoom ueber alle Marken der Liste mit Bild. */
     val vollbild: Boolean = false,
     val einstellungenOffen: Boolean = false,
+    /** KI-Begleiter: nur nach Opt-in und mit eigenem Schluessel. */
+    val kiAn: Boolean = false,
+    val kiArt: KiArt = KiArt.CLAUDE,
+    val kiModell: String = KiArt.CLAUDE.standardModell,
+    /** Vom Anbieter abgerufene Modelle zur Auswahl. */
+    val kiModelle: List<String> = emptyList(),
+    val kiSchluesselGesetzt: Boolean = false,
+    val kiLaeuft: Boolean = false,
+    /** Entwurf zum Thema mit dieser Kennung, wartet auf Freigabe. */
+    val kiEntwurf: Pair<Long, KiEntwurf>? = null,
+    val kiMeldung: String? = null,
+    /** Deine freigegebenen Saetze "Wusstest du?" je Thema (Wikidata-Kennung oder "titel:…"). */
+    val eigeneSaetze: Map<String, EigenerSatz> = emptyMap(),
     /** Geoeffnete Seite "Heute vor Jahren" (null = zu). */
     val heute: HeuteSeite? = null,
     /** Vorladen der Vorschaubilder: (fertig, gesamt), null = laeuft nicht. */
@@ -118,6 +142,7 @@ data class AppZustand(
     val voriger: Jahrgaenge? get() = if (jahrIndex > 0) imGebiet[jahrIndex - 1] else null
     val naechster: Jahrgaenge? get() = imGebiet.getOrNull(jahrIndex + 1)
     val gebietAnzeige: String get() = gebiete.firstOrNull { it.name == gebiet }?.anzeige ?: gebiet
+    fun eigenerSatz(thema: Thema): EigenerSatz? = eigeneSaetze[themaSchluessel(thema)]
     fun bild(marke: Marke?): BildInfo? = marke?.commons_datei?.let { bilder[it] }
     fun eigene(marke: Marke?): List<OrdnerDatei> = marke?.let { eigeneBilder[it.gebiet to it.mi_nr] }.orEmpty()
     fun bestandText(marke: Marke): String? = bestand[marke.gebiet to marke.mi_nr]
@@ -128,6 +153,11 @@ data class AppZustand(
 }
 
 /** @param startMiNr Marke, die nach dem Laden gleich geoeffnet wird (Desktop: Aufruf mit --minr 1031). */
+const val KI_AN = "ki_an"
+const val KI_SCHLUESSEL = "ki_schluessel"
+const val KI_ANBIETER = "ki_anbieter"
+const val KI_MODELL = "ki_modell"
+
 class AppViewModel(val plattform: Plattform, private val startMiNr: String? = null, private val startGebiet: String? = null, private val startJahr: Long? = null) : ViewModel() {
     private val _zustand = MutableStateFlow(AppZustand())
     val zustand: StateFlow<AppZustand> = _zustand
@@ -137,6 +167,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
     private val commons = CommonsBilder(plattform.http, plattform.datenOrdner)
     private var ordner: Ordner = plattform.sammlungsordner()
     private val eigene = EigeneBilder(ordner)
+    private val eigeneTexte = EigeneTexte(ordner)
     private var suchlauf: Job? = null
     private var notizlauf: Job? = null
 
@@ -150,7 +181,10 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 eigene.kuerzel = gebiete.associate { it.dateiname.lowercase() to it.name }
                 val bestand = withContext(Dispatchers.IO) { s.uebersicht() }
                 val scans = withContext(Dispatchers.IO) { eigene.einlesen() }
-                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, sammlungsordner = ordner.anzeige) }
+                val saetze = withContext(Dispatchers.IO) { eigeneTexte.alle() }
+                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, sammlungsordner = ordner.anzeige,
+                    eigeneSaetze = saetze, kiAn = plattform.einstellungen.lesen(KI_AN) == "1") }
+                kiZustandLaden()
                 // Zuletzt gesehener Jahrgang, sonst Bund 1979
                 val gebiet = plattform.einstellungen.lesen("gebiet")?.takeIf { g -> jahrgaenge.any { it.gebiet == g } } ?: _zustand.value.gebiet
                 val jahr = plattform.einstellungen.lesen("jahr")?.toLongOrNull()?.takeIf { j -> jahrgaenge.any { it.gebiet == gebiet && it.jahr == j } }
@@ -267,7 +301,8 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
             val scans = withContext(Dispatchers.IO) { eigene.einlesen() }
             val s = sammlung
             val bestand = withContext(Dispatchers.IO) { s?.abgleichen(); s?.uebersicht().orEmpty() }
-            _zustand.update { it.copy(eigeneBilder = scans, bestand = bestand, sammlungsordner = ordner.anzeige) }
+            val saetze = withContext(Dispatchers.IO) { eigeneTexte.alle() }
+            _zustand.update { it.copy(eigeneBilder = scans, bestand = bestand, sammlungsordner = ordner.anzeige, eigeneSaetze = saetze) }
             _zustand.value.marke?.let { waehlen(it) }
         }
     }
@@ -277,6 +312,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         plattform.einstellungen.schreiben(EINSTELLUNG_SAMMLUNG, wert)
         ordner = plattform.sammlungsordner()
         eigene.ordner = ordner
+        eigeneTexte.ordner = ordner
         viewModelScope.launch {
             withContext(Dispatchers.IO) { sammlung?.ordnerWechseln(ordner) }
             bilderNeuEinlesen()
@@ -364,6 +400,75 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
             _zustand.update { it.copy(heute = null, suchtext = "", suchtreffer = null, filter = BestandFilter.Alle) }
             jahrgangLaden(marke.gebiet, marke.jahr)
             waehlen(marke)
+        }
+    }
+
+    // ------------------------------------------------------------ KI-Begleiter (Opt-in)
+
+    private fun kiArt(): KiArt = plattform.einstellungen.lesen(KI_ANBIETER)?.let { n -> KiArt.entries.firstOrNull { it.name == n } } ?: KiArt.CLAUDE
+    private fun kiSchluessel(art: KiArt = kiArt()) = plattform.einstellungen.lesen("$KI_SCHLUESSEL.${art.name}")
+    private fun kiModell(art: KiArt = kiArt()) = plattform.einstellungen.lesen("$KI_MODELL.${art.name}")?.takeIf { it.isNotBlank() } ?: art.standardModell
+
+    private fun kiZustandLaden() {
+        val art = kiArt()
+        _zustand.update { it.copy(kiArt = art, kiModell = kiModell(art), kiSchluesselGesetzt = !kiSchluessel(art).isNullOrBlank(), kiModelle = emptyList()) }
+    }
+
+    /** Opt-in an oder aus. Schluessel und Modell gelten je Anbieter und bleiben nur auf diesem Geraet. */
+    fun kiEinstellen(an: Boolean? = null, art: KiArt? = null, schluessel: String? = null, modell: String? = null) {
+        art?.let { plattform.einstellungen.schreiben(KI_ANBIETER, it.name) }
+        val a = kiArt()
+        schluessel?.let { plattform.einstellungen.schreiben("$KI_SCHLUESSEL.${a.name}", it.trim().ifBlank { null }) }
+        modell?.let { plattform.einstellungen.schreiben("$KI_MODELL.${a.name}", it.trim().ifBlank { null }) }
+        an?.let { plattform.einstellungen.schreiben(KI_AN, if (it) "1" else null) }
+        _zustand.update { it.copy(kiAn = plattform.einstellungen.lesen(KI_AN) == "1", kiMeldung = null) }
+        kiZustandLaden()
+    }
+
+    /** Modelle beim Anbieter abrufen, die der Schluessel nutzen darf. */
+    fun kiModelleAbrufen() {
+        val schluessel = kiSchluessel() ?: return
+        viewModelScope.launch {
+            val liste = kiAnbieter(kiArt(), schluessel, kiModell(), plattform.http).modelle()
+            _zustand.update { it.copy(kiModelle = liste, kiMeldung = if (liste.isEmpty()) "Keine Modelle abrufbar – Schlüssel prüfen." else null) }
+        }
+    }
+
+    /** Einen Satz "Wusstest du?" zum Thema vorschlagen lassen - nur aus dem Wikipedia-Artikel des Themas. */
+    fun kiVorschlag(thema: Thema) {
+        val schluessel = kiSchluessel()
+        if (!_zustand.value.kiAn || schluessel.isNullOrBlank()) return
+        _zustand.update { it.copy(kiLaeuft = true, kiMeldung = null, kiEntwurf = null) }
+        viewModelScope.launch {
+            val text = withContext(Dispatchers.IO) { wikipediaText(plattform.http, thema.titel) }
+            val antwort = if (text == null) KiAntwort.Fehler("Der Wikipedia-Artikel ließ sich nicht laden.")
+                          else kiAnbieter(kiArt(), schluessel, kiModell(), plattform.http).wusstestDu(thema.titel, KiBegleiter.kuerzen(text))
+            _zustand.update {
+                when (antwort) {
+                    is KiAntwort.Entwurf -> it.copy(kiLaeuft = false, kiEntwurf = thema.id to antwort.entwurf)
+                    is KiAntwort.Fehler -> it.copy(kiLaeuft = false, kiMeldung = antwort.meldung)
+                }
+            }
+        }
+    }
+
+    /** Entwurf uebernehmen (auch nach eigener Bearbeitung) und im Sammlungsordner sichern. */
+    fun kiUebernehmen(thema: Thema, satz: String) {
+        val entwurf = _zustand.value.kiEntwurf?.second
+        val eintrag = EigenerSatz(thema.titel, satz.trim(), entwurf?.beleg, "ki-entwurf", entwurf?.modell)
+        viewModelScope.launch {
+            withContext(Dispatchers.IO) { eigeneTexte.setzen(themaSchluessel(thema), eintrag) }
+            _zustand.update { it.copy(kiEntwurf = null, eigeneSaetze = it.eigeneSaetze + (themaSchluessel(thema) to eintrag)) }
+        }
+    }
+
+    fun kiVerwerfen() = _zustand.update { it.copy(kiEntwurf = null, kiMeldung = null) }
+
+    /** Eigenen Satz zu einem Thema wieder entfernen. */
+    fun eigenenSatzEntfernen(thema: Thema) {
+        viewModelScope.launch {
+            withContext(Dispatchers.IO) { eigeneTexte.setzen(themaSchluessel(thema), null) }
+            _zustand.update { it.copy(eigeneSaetze = it.eigeneSaetze - themaSchluessel(thema)) }
         }
     }
 
