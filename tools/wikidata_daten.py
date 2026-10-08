@@ -29,7 +29,7 @@ EIGENSCHAFTEN = {"P569": "geburt", "P570": "tod", "P571": "gruendung", "P585": "
 def qids_sammeln():
     gefunden = set()
     for datei in sorted(DATEN.glob("*/*.json")):
-        if datei.name.endswith((".hand.json", ".commons.json")):
+        if datei.name.endswith((".hand.json", ".commons.json")) or datei.parent.name == "zeitgeschehen":
             continue
         for marke in json.loads(datei.read_text(encoding="utf-8"))["marken"]:
             gefunden.update(t["wikidata"] for t in marke["themen"] if t.get("wikidata"))

@@ -61,4 +61,6 @@
     <string name="heute_quelle">Lebens- und Ereignisdaten: Wikidata (CC0)</string>
     <string name="tag_vor">Nächster Tag</string>
     <string name="tag_zurueck">Voriger Tag</string>
+    <string name="zeitreise_titel">Was %1$s geschah</string>
+    <string name="zeitreise_quelle">Auswahl aus dem Wikipedia-Artikel „%1$s“, CC BY-SA 4.0. ★ = Thema einer Marke dieses Jahres</string>
 </resources>
