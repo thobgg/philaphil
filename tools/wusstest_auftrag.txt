@@ -1,0 +1,34 @@
+Du schreibst für eine Briefmarken-App („PhilaPhil – Briefmarken als Zeitgeschichte“) Texte für die Rubrik „Wusstest du?“. Die App will erzählen, warum es eine Marke gibt und was damals los war. Leser sind Briefmarkensammler, oft älter, die am Tablet in Ruhe lesen.
+
+Arbeitsordner: /home/thobug/AI-Projects/philaphil/build/wusstest/LOS/
+Dort liegt `liste.json` (Objekte mit `schluessel`, `artikel`, `datei`, `marke`) und je Thema eine Textdatei (erste Zeile Artikeltitel, dann Klartext des deutschen Wikipedia-Artikels, gekürzt). `marke` beschreibt die Briefmarke (Jahr, Anlass, Motiv).
+Eigene Hilfsskripte nur in /tmp/wusstest-LOS/ (oder ein anderer eigener Ordner) (andere Agenten arbeiten parallel).
+
+Aufgabe: Lies jede Textdatei. Wenn der Artikel eine wirklich überraschende, anschauliche Geschichte hergibt, die zu dieser Marke oder ihrer Zeit passt, erzähle sie.
+
+Regeln (verbindlich):
+- Ausschließlich Fakten aus der jeweiligen Textdatei. Kein eigenes Wissen, auch wenn es richtig wäre.
+- Ein bis drei Sätze, höchstens 60 Wörter. Eine kleine Geschichte mit Zusammenhang, kein Faktenhäppchen und kein Roman.
+- Lass erkennen, warum die Einzelheit zur Marke (Feld `marke`) oder zu ihrer Zeit passt.
+- Tabu, weil platt: Wortherkunft, Definitionen, bloße Grunddaten (Geburtstag, Beruf, Gründungsjahr), reine Zahlenangaben ohne Geschichte, Allgemeinplätze.
+- Lieber nichts als Plattes: Gibt der Artikel nichts Überraschendes her, lass das Thema weg.
+- Deutsch, ohne Anrede, nicht mit „Wusstest du“ beginnen, keine Gedankenstriche als Satzverbindung.
+- Belege: für JEDEN Satz ein eigenes wörtliches, buchstabengetreu unverändertes Zitat aus der Textdatei (zusammenhängend, 15 bis 300 Zeichen), das alle Angaben dieses Satzes trägt. Exakt kopieren, keine Auslassungen, keine geänderten Anführungszeichen. Steht eine Angabe nirgends im Text, gehört sie nicht in den Satz.
+- Selbsteinschätzung `staerke`: "stark", wenn ein Sammler beim Lesen wahrscheinlich „Ach was!“ denkt; sonst "mittel".
+
+Ausgabe: `antworten.json` im Arbeitsordner, JSON-Objekt, Schlüssel = `schluessel`, Wert = {"satz": "...", "belege": ["Zitat zu Satz 1", "Zitat zu Satz 2", ...], "staerke": "stark" oder "mittel"}. Das Feld heißt `satz`, auch wenn es mehrere Sätze sind; `belege` hat so viele Einträge wie der Text Sätze. Gültiges UTF-8-JSON.
+
+Prüfen und jeden Beleg mit FEHLT korrigieren:
+cd /home/thobug/AI-Projects/philaphil && python3 -I -c "
+import json,re
+d='build/wusstest/LOS/'
+l={e['schluessel']:e for e in json.load(open(d+'liste.json'))}
+a=json.load(open(d+'antworten.json'))
+n=lambda s: re.sub(r'\s+',' ',s).replace('„','\"').replace('“','\"').replace('”','\"').strip().lower()
+for k,v in a.items():
+    t=n(open(d+l[k]['datei']).read())
+    fehlt=[b for b in v['belege'] if len(b)<15 or n(b).rstrip('.…') not in t]
+    print('OK ' if not fehlt else 'FEHLT', len(v['satz'].split()), 'Wörter,', len(v['belege']), 'Belege', v.get('staerke'), l[k]['artikel'], fehlt[:1])
+"
+
+Keine anderen Projektdateien ändern. Melde am Ende nur: Anzahl Texte, Zahl weggelassener Themen, ob alle Belege OK sind.
