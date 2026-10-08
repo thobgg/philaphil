@@ -1,3 +1,5 @@
+<img src="docs/icon/symbol.png" width="96" align="right" alt="PhilaPhil">
+
 # PhilaPhil – Freund der Philatelie
 
 Briefmarken als Zeitgeschichte. Ein Katalog, der erzählt – kein Katalog, der bewertet.
