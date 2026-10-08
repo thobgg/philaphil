@@ -79,9 +79,39 @@ def hauptthemen(gebiet, jahre):
     return gefunden
 
 
+# Themen ohne Erzaehlwert: die Jahrgangslisten selbst und Gattungsbegriffe, die auf sehr vielen Marken stehen
+AUSLASSEN = re.compile(r"^(Briefmarken-Jahrgang|Liste |Briefmarke$|Dauermarke|Sondermarke|Zuschlagmarke|Wohlfahrtsmarke)")
+
+
+def haeufigkeit():
+    from collections import Counter
+    z = Counter()
+    for datei in DATEN.glob("*/*.json"):
+        if datei.name.endswith((".hand.json", ".commons.json")) or datei.parent.name == "zeitgeschehen":
+            continue
+        for m in json.loads(datei.read_text(encoding="utf-8"))["marken"]:
+            z.update({t["artikel"] for t in m["themen"]})
+    return z
+
+
 def vorbereiten(args):
     jahre = range(args.jahr[0], args.jahr[-1] + 1) if len(args.jahr) == 2 and args.bis else args.jahr
     themen = hauptthemen(args.gebiet, jahre)
+    zaehl = haeufigkeit()
+    themen = {k: v for k, v in themen.items() if not AUSLASSEN.search(v[0]) and zaehl[v[0]] <= 40}
+    if args.los_groesse:
+        # In Lose aufteilen: build/wusstest/<name>-01, -02 …
+        eintraege = sorted(themen.items(), key=lambda x: x[1][0])
+        for i in range(0, len(eintraege), args.los_groesse):
+            teil = argparse.Namespace(**vars(args))
+            teil.los_groesse = 0
+            teil.name = f"{args.name}-{i // args.los_groesse + 1:02d}"
+            _schreiben(teil, dict(eintraege[i:i + args.los_groesse]))
+        return
+    _schreiben(args, themen)
+
+
+def _schreiben(args, themen):
     los = HIER / "build" / "wusstest" / (args.name or f"{args.gebiet}-{'-'.join(map(str, args.jahr))}")
     los.mkdir(parents=True, exist_ok=True)
     liste = []
@@ -125,6 +155,7 @@ def main():
     v.add_argument("--jahr", type=int, nargs="+", required=True)
     v.add_argument("--bis", action="store_true", help="--jahr VON BIS als Bereich")
     v.add_argument("--name")
+    v.add_argument("--los-groesse", type=int, default=0, help="in Lose dieser Groesse aufteilen")
     w = u.add_parser("uebernehmen")
     w.add_argument("los")
     w.add_argument("--modell", default="Claude (Claude Code)")
