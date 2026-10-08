@@ -138,7 +138,7 @@ def bauen(ziel):
         themen_ids[schluessel] = cur.lastrowid
         return cur.lastrowid
 
-    dateien = sorted(p for p in DATEN.glob("*/*.json") if not p.name.endswith(".hand.json"))
+    dateien = sorted(p for p in DATEN.glob("*/*.json") if not p.name.endswith((".hand.json", ".commons.json")))
     if not dateien:
         sys.exit("Keine JSON-Dateien in daten/ gefunden")
     anzahl = 0
@@ -147,12 +147,17 @@ def bauen(ziel):
         jahrgang = json.loads(datei.read_text(encoding="utf-8"))
         hand_datei = datei.with_name(datei.stem + ".hand.json")
         hand = json.loads(hand_datei.read_text(encoding="utf-8")) if hand_datei.exists() else {}
+        # Zusaetzliche Commons-Bilder aus tools/commons_abgleich.py - nur fuer Marken ohne Bild in der Liste
+        zusatz_datei = datei.with_name(datei.stem + ".commons.json")
+        zusatz = json.loads(zusatz_datei.read_text(encoding="utf-8")) if zusatz_datei.exists() else {}
         q = jahrgang["quelle"]
         db.execute("INSERT INTO quelle VALUES (?,?,?,?,?,?,?,?)", (
             jahrgang["gebiet"], jahrgang["jahr"], q["titel"], q["url"], q.get("revision"),
             q.get("abgerufen"), q.get("lizenz"), q.get("lizenz_url")))
         doppelt = []
         for mk in jahrgang["marken"]:
+            if not mk.get("commons_datei") and mk["mi_nr"] in zusatz:
+                mk["commons_datei"] = zusatz[mk["mi_nr"]]["datei"]
             if mk["mi_nr"] in hand:
                 hand_anwenden(mk, hand[mk["mi_nr"]])
             schluessel = (jahrgang["gebiet"], mk["mi_nr"])
