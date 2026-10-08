@@ -69,6 +69,7 @@ CREATE TABLE marke (
   commons_datei TEXT,
   block TEXT,                    -- 'Block 16', wenn nur im Block erschienen
   gueltig_bis TEXT,              -- bis 1968 hatten Marken ein Ablaufdatum
+  anmerkung TEXT,                -- erzaehlende Fussnoten der Wikipedia-Liste, durch Leerzeile getrennt
   UNIQUE (gebiet, mi_nr)
 );
 CREATE INDEX marke_jahr ON marke (gebiet, jahr, sortier_nr);
@@ -193,19 +194,20 @@ def bauen(ziel):
             if mk["mi_nr"].startswith("ATM"):
                 ziffern = str(900000 + int(ziffern))
             cur = db.execute("""INSERT INTO marke (gebiet, mi_nr, sortier_nr, jahr, art, ausgabetag, wert, waehrung,
-                anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei, block, gueltig_bis)
-                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
+                anlass, satz, bild_beschreibung, entwerfer, auflage, zaehnung, druckart, commons_datei, block, gueltig_bis, anmerkung)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
                 jahrgang["gebiet"], mk["mi_nr"], int(ziffern) if ziffern else None, jahrgang["jahr"],
                 mk.get("art"), mk.get("ausgabetag"), mk.get("wert"), mk.get("waehrung"),
                 mk.get("anlass"), 1 if mk.get("satz") else 0, mk.get("bild_beschreibung"),
                 mk.get("entwerfer"), mk.get("auflage"), mk.get("zaehnung"), mk.get("druckart"),
-                mk.get("commons_datei"), mk.get("block"), mk.get("gueltig_bis")))
+                mk.get("commons_datei"), mk.get("block"), mk.get("gueltig_bis"),
+                "\n\n".join(mk.get("anmerkungen") or []) or None))
             marke_id = cur.lastrowid
             for reihe, t in enumerate(mk.get("themen", [])):
                 db.execute("INSERT OR IGNORE INTO marke_thema VALUES (?,?,?,?)",
                            (marke_id, thema_id(t), 1 if t.get("haupt") else 0, reihe))
             db.execute("INSERT INTO marke_fts (rowid, mi_nr, anlass, bild_beschreibung, themen, entwerfer) VALUES (?,?,?,?,?,?)", (
-                marke_id, mk["mi_nr"], mk.get("anlass"), mk.get("bild_beschreibung"),
+                marke_id, mk["mi_nr"], mk.get("anlass"), " ".join([mk.get("bild_beschreibung") or ""] + (mk.get("anmerkungen") or [])),
                 " · ".join(t["artikel"] for t in mk.get("themen", [])), mk.get("entwerfer")))
             anzahl += 1
         unbekannt = [k for k in hand if not k.startswith("_") and k not in {m["mi_nr"] for m in jahrgang["marken"]}]

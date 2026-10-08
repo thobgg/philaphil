@@ -47,6 +47,7 @@ CREATE TABLE marke (
   commons_datei TEXT,
   block TEXT,
   gueltig_bis TEXT,
+  anmerkung TEXT,
   UNIQUE (gebiet, mi_nr)
 );
 CREATE INDEX marke_jahr ON marke (gebiet, jahr, sortier_nr);
@@ -136,3 +137,6 @@ ORDER BY marke.jahr, marke.sortier_nr;
 
 alleCommonsDateien:
 SELECT DISTINCT commons_datei FROM marke WHERE commons_datei IS NOT NULL ORDER BY jahr, sortier_nr;
+
+markeNachNummer:
+SELECT * FROM marke WHERE gebiet = ? AND mi_nr = ?;
