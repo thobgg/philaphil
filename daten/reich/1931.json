@@ -28,6 +28,7 @@
       "gueltig_bis": "1937-12-31",
       "anlass": "Flugpostmarke",
       "bild_beschreibung": "Luftschiff LZ 127 Graf Zeppelin",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1931 455 Zeppelin.jpg",
@@ -59,6 +60,7 @@
       "gueltig_bis": "1931-11-30",
       "anlass": "Polarfahrt mit LZ 127",
       "bild_beschreibung": "Flugpostserie mit Aufdruck „Polarfahrt 1931“",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1931 456 Zeppelin Polarfahrt.jpg",
@@ -83,6 +85,7 @@
       "gueltig_bis": "1931-11-30",
       "anlass": "Polarfahrt mit LZ 127",
       "bild_beschreibung": "Flugpostserie mit Aufdruck „Polarfahrt 1931“",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "Zeppelinmarke Polarf.jpg",
@@ -99,6 +102,7 @@
       "gueltig_bis": "1931-11-30",
       "anlass": "Polarfahrt mit LZ 127",
       "bild_beschreibung": "Flugpostserie mit Aufdruck „Polarfahrt 1931“",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1931 458 Zeppelin Polarfahrt.jpg",
@@ -115,6 +119,10 @@
       "gueltig_bis": "1932-08-31",
       "anlass": "Nothilfe Bauwerke",
       "bild_beschreibung": "Dresdner Zwinger.",
+      "anmerkungen": [
+        "1932 erschienen die ersten beiden Werte dieser Nothilfeausgabe mit Überdruck und niedrigeren Portostufen",
+        "Siehe ergänzend auch die Seite Dresdner Bauwerke auf deutschen Briefmarken"
+      ],
       "entwerfer": "unbekannt",
       "auflage": 4679176,
       "commons_datei": "DR 1931 459 Nothilfe Bauwerke Dresdner Zwinger.jpg",
@@ -139,6 +147,9 @@
       "gueltig_bis": "1932-08-31",
       "anlass": "Nothilfe Bauwerke",
       "bild_beschreibung": "Breslauer Rathaus",
+      "anmerkungen": [
+        "1932 erschienen die ersten beiden Werte dieser Nothilfeausgabe mit Überdruck und niedrigeren Portostufen"
+      ],
       "entwerfer": "unbekannt",
       "auflage": 4135786,
       "commons_datei": "DR 1931 460 Nothilfe Bauwerke Breslau.jpg",
@@ -163,6 +174,9 @@
       "gueltig_bis": "1932-08-31",
       "anlass": "Nothilfe Bauwerke",
       "bild_beschreibung": "Heidelberger Schloss",
+      "anmerkungen": [
+        "1932 erschienen die ersten beiden Werte dieser Nothilfeausgabe mit Überdruck und niedrigeren Portostufen"
+      ],
       "entwerfer": "unbekannt",
       "auflage": 429333,
       "commons_datei": "DR 1931 461 Nothilfe Bauwerke Heidelberger Schloss.jpg",
@@ -187,6 +201,9 @@
       "gueltig_bis": "1932-08-31",
       "anlass": "Nothilfe Bauwerke",
       "bild_beschreibung": "Holstentor Lübeck",
+      "anmerkungen": [
+        "1932 erschienen die ersten beiden Werte dieser Nothilfeausgabe mit Überdruck und niedrigeren Portostufen"
+      ],
       "entwerfer": "unbekannt",
       "auflage": 204854,
       "commons_datei": "DR 1931 462 Nothilfe Bauwerke Holstentor Lübeck.jpg",
@@ -218,6 +235,9 @@
       "gueltig_bis": "1935-12-31",
       "anlass": "Ergänzungswert zur Dauermarkenserie Reichspräsidenten",
       "bild_beschreibung": "Paul von Hindenburg",
+      "anmerkungen": [
+        "Die ersten 13 Werte dieser Dauermarkenserie waren 1928 ausgegeben worden; zwei weitere Ergänzungsausgaben folgten 1930 (3 Werte) und 1932 (2 Werte)."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR 1931 454 Paul von Hindenburg.jpg",
@@ -249,6 +269,9 @@
       "gueltig_bis": "1936-12-31",
       "anlass": "Dienstmarken (Ergänzungswert zur Ausgabe von 1927)",
       "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "anmerkungen": [
+        "Weitere Ergänzungswerte erschienen in den Jahren 1928, 1929, 1930, 1932 und 1933."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR-D 1931 127 Dienstmarke.jpg",

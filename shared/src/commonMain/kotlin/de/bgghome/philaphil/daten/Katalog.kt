@@ -46,6 +46,8 @@ class Katalog private constructor(private val db: KatalogDb) {
 
     fun alleCommonsDateien(): List<String> = db.katalogQueries.alleCommonsDateien().executeAsList().filterNotNull()
 
+    fun markeNachNummer(gebiet: String, miNr: String): Marke? = db.katalogQueries.markeNachNummer(gebiet, miNr).executeAsOneOrNull()
+
     fun thema(id: Long): Thema? = db.katalogQueries.thema(id).executeAsOneOrNull()
 
     fun suche(text: String): List<Marke> {

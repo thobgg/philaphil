@@ -36,6 +36,7 @@
       "gueltig_bis": "1931-06-30",
       "anlass": "Südamerikafahrt mit LZ 127",
       "bild_beschreibung": "Flugpostserie mit Inschrift “1. Südamerikafahrt 1931”",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1930 438 Zeppelin Südamerikafahrt.jpg",
@@ -60,6 +61,7 @@
       "gueltig_bis": "1931-06-30",
       "anlass": "Südamerikafahrt mit LZ 127",
       "bild_beschreibung": "Flugpostserie mit Inschrift “1. Südamerikafahrt 1931”",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1930 439 Zeppelin Südamerikafahrt.jpg",
@@ -76,6 +78,10 @@
       "gueltig_bis": "1938-12-31",
       "anlass": "Bauwerke, Alt-Köln mit dem Kölner Dom",
       "bild_beschreibung": "Währungsbezeichnung “Reichsmark”",
+      "anmerkungen": [
+        "Die motivgleiche Marke Mi.-Nr. 365 von 1924 hatte die Währungsbezeichnung „Mark“.",
+        "Die folgenden Nummern 441 bis 443 wurden nicht ausgegeben"
+      ],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1930 440 Bauwerke Kölner Dom.jpg",
@@ -100,6 +106,9 @@
       "gueltig_bis": "1934-06-30",
       "anlass": "Abzug der Alliierten aus dem Rheinland",
       "bild_beschreibung": "Friedrich Ebert, Dauermarke mit Aufdruck",
+      "anmerkungen": [
+        "Die beiden überdruckten Werte stammten aus der 1928 erschienenen Dauermarkenserie Reichspräsidenten."
+      ],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1930 444 Friedrich Ebert Abzug aus dem Rheinland.jpg",
@@ -131,6 +140,9 @@
       "gueltig_bis": "1934-06-30",
       "anlass": "Abzug der Alliierten aus dem Rheinland",
       "bild_beschreibung": "Paul von Hindenburg, Dauermarke mit Aufdruck",
+      "anmerkungen": [
+        "Die beiden überdruckten Werte stammten aus der 1928 erschienenen Dauermarkenserie Reichspräsidenten."
+      ],
       "entwerfer": "unbekannt",
       "auflage": null,
       "commons_datei": "DR 1930 445 Paul von Hindenburg Abzug aus dem Rheinland.jpg",
@@ -162,6 +174,7 @@
       "gueltig_bis": "1931-06-30",
       "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
       "bild_beschreibung": "Dom und Rathaus von Aachen",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": 5873046,
       "commons_datei": "DR 1930 450 Nothilfe Bauwerke Aachen.jpg",
@@ -207,6 +220,7 @@
       "gueltig_bis": "1931-06-30",
       "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
       "bild_beschreibung": "Brandenburger Tor in Berlin",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": 5368568,
       "commons_datei": "DR 1930 451 Nothilfe Bauwerke Brandenburger Tor.jpg",
@@ -245,6 +259,7 @@
       "gueltig_bis": "1931-06-30",
       "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
       "bild_beschreibung": "Dom und Schloss in Marienwerder (polnisch: Kwidzyn)",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": 479066,
       "commons_datei": "DR 1930 452 Nothilfe Bauwerke Marienwerder.jpg",
@@ -283,6 +298,7 @@
       "gueltig_bis": "1931-06-30",
       "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
       "bild_beschreibung": "Statue des Hl. Burkard auf der Alten Mainbrücke und Festung Marienberg in Würzburg",
+      "anmerkungen": [],
       "entwerfer": "unbekannt",
       "auflage": 228913,
       "commons_datei": "DR 1930 453 Nothilfe Bauwerke Würzburg.jpg",
@@ -335,6 +351,9 @@
       "gueltig_bis": "1934-06-30",
       "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
       "bild_beschreibung": "Friedrich Ebert",
+      "anmerkungen": [
+        "Die ersten 13 Werte dieser Dauermarkenserie waren 1928 ausgegeben worden. Weitere zwei Ergänzungsausgaben folgten noch 1931 (1 Wert) und 1932 (2 Werte)."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR 1930 435 Friedrich Ebert.jpg",
@@ -359,6 +378,9 @@
       "gueltig_bis": "1934-06-30",
       "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
       "bild_beschreibung": "Friedrich Ebert",
+      "anmerkungen": [
+        "Die ersten 13 Werte dieser Dauermarkenserie waren 1928 ausgegeben worden. Weitere zwei Ergänzungsausgaben folgten noch 1931 (1 Wert) und 1932 (2 Werte)."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR 1930 436 Friedrich Ebert.jpg",
@@ -383,6 +405,9 @@
       "gueltig_bis": "1935-12-31",
       "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
       "bild_beschreibung": "Paul von Hindenburg",
+      "anmerkungen": [
+        "Die ersten 13 Werte dieser Dauermarkenserie waren 1928 ausgegeben worden. Weitere zwei Ergänzungsausgaben folgten noch 1931 (1 Wert) und 1932 (2 Werte)."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR 1930 437 Paul von Hindenburg.jpg",
@@ -407,6 +432,9 @@
       "gueltig_bis": "1936-12-31",
       "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
       "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "anmerkungen": [
+        "Weitere Ergänzungswerte erschienen in den Jahren 1928, 1929, 1931, 1932 und 1933."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR-D 1930 125 Dienstmarke.jpg",
@@ -438,6 +466,9 @@
       "gueltig_bis": "1936-12-31",
       "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
       "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "anmerkungen": [
+        "Weitere Ergänzungswerte erschienen in den Jahren 1928, 1929, 1931, 1932 und 1933."
+      ],
       "entwerfer": null,
       "auflage": null,
       "commons_datei": "DR-D 1930 126 Dienstmarke.jpg",

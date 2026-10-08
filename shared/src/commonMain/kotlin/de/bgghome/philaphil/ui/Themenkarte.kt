@@ -34,6 +34,8 @@ import de.bgghome.philaphil.daten.wertLesbar
 import de.bgghome.philaphil.daten.zahlLesbar
 import de.bgghome.philaphil.db.Thema
 import de.bgghome.philaphil.res.Res
+import de.bgghome.philaphil.res.am_rande
+import de.bgghome.philaphil.res.anmerkung_quelle
 import de.bgghome.philaphil.res.bild_eigenes
 import de.bgghome.philaphil.res.bild_quelle
 import de.bgghome.philaphil.res.fakt_auflage
@@ -93,6 +95,22 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel) {
                 Fakt(stringResource(Res.string.fakt_wert), wertLesbar(marke))
                 if (marke.auflage != null) Fakt(stringResource(Res.string.fakt_auflage), zahlLesbar(marke.auflage))
                 if (!marke.entwerfer.isNullOrBlank()) Fakt(stringResource(Res.string.fakt_entwurf), marke.entwerfer)
+            }
+        }
+
+        // Erzaehlende Fussnoten der Wikipedia-Liste: kleine Geschichten zur Marke
+        if (!marke.anmerkung.isNullOrBlank()) {
+            Spacer(Modifier.height(16.dp))
+            Card(colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer)) {
+                Column(Modifier.padding(14.dp)) {
+                    Text(stringResource(Res.string.am_rande), style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onPrimaryContainer)
+                    Spacer(Modifier.height(4.dp))
+                    marke.anmerkung.split("\n\n").forEach { absatz ->
+                        Text(absatz, style = MaterialTheme.typography.bodyLarge, color = MaterialTheme.colorScheme.onPrimaryContainer, modifier = Modifier.padding(vertical = 2.dp))
+                    }
+                    Spacer(Modifier.height(4.dp))
+                    Text(stringResource(Res.string.anmerkung_quelle), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.75f))
+                }
             }
         }
 

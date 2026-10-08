@@ -135,8 +135,12 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 val jahr = plattform.einstellungen.lesen("jahr")?.toLongOrNull()?.takeIf { j -> jahrgaenge.any { it.gebiet == gebiet && it.jahr == j } }
                     ?: jahrgaenge.firstOrNull { it.gebiet == gebiet }?.jahr ?: _zustand.value.jahr
                 jahrgangLaden(gebiet, jahr)
-                startMiNr?.let { nr -> _zustand.value.jahrgang.firstOrNull { it.mi_nr == nr }?.let(::waehlen) }
-                startGebiet?.let { g -> _zustand.value.jahrgaenge.firstOrNull { it.gebiet == g }?.let(::jahrgangWaehlen) }
+                // Startschalter (Desktop): --gebiet allein oeffnet das Gebiet, mit --minr die Marke in ihrem Jahrgang
+                val zielMarke = startMiNr?.let { nr -> withContext(Dispatchers.IO) { k.markeNachNummer(startGebiet ?: "Bund", nr) } }
+                if (zielMarke != null) {
+                    jahrgangLaden(zielMarke.gebiet, zielMarke.jahr)
+                    waehlen(zielMarke)
+                } else startGebiet?.let { g -> _zustand.value.jahrgaenge.firstOrNull { it.gebiet == g }?.let(::jahrgangWaehlen) }
             } catch (e: Exception) {
                 _zustand.update { it.copy(laedt = false, fehler = e.message ?: e.toString()) }
             }

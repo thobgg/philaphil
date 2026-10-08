@@ -315,6 +315,41 @@ def tabelle_parsen(wikitext):
 
 
 # ---------------------------------------------------------- Zelleninhalte
+# ------------------------------------------------------------- Fussnoten
+RE_REF_DEF = re.compile(r"<ref\b([^>]*?)(?<!/)>(.*?)</ref>", re.DOTALL | re.IGNORECASE)
+RE_REF_NAME = re.compile(r"""name\s*=\s*["']?([^"'/>]+?)["']?\s*(?:group|/|$)""", re.IGNORECASE)
+RE_REF_ALLE = re.compile(r"<ref\b([^>]*?)/>|<ref\b([^>]*?)>(.*?)</ref>", re.DOTALL | re.IGNORECASE)
+# Nur erzaehlende Anmerkungen: keine Belege (Ersttagsblatt, Katalog, Webseiten, Literatur)
+RE_BELEG = re.compile(r"(?i)ersttagsblatt|michel|isbn|webarchiv|https?://|\[\s*http|katalog|seite \d|s\. \d|vorlage|\{\{cite|\{\{internetquelle|\{\{literatur")
+
+
+def benannte_fussnoten(wikitext):
+    """name -> Inhalt fuer alle <ref name="…">…</ref> der Seite (spaeter oft als <ref name="…" /> wiederverwendet)."""
+    namen = {}
+    for attr, inhalt in RE_REF_DEF.findall(wikitext):
+        m = RE_REF_NAME.search(attr.strip() + " ")
+        if m and inhalt.strip():
+            namen.setdefault(m.group(1).strip(), inhalt)
+    return namen
+
+
+def fussnoten(text, namen):
+    """Erzaehlende Fussnoten eines Zellentexts als Klartext, in Reihenfolge, ohne Doppelte."""
+    ergebnis = []
+    for m in RE_REF_ALLE.finditer(text):
+        attr = (m.group(1) or m.group(2) or "")
+        inhalt = m.group(3)
+        if inhalt is None:
+            n = RE_REF_NAME.search(attr.strip() + " ")
+            inhalt = namen.get(n.group(1).strip()) if n else None
+        if not inhalt or RE_BELEG.search(inhalt):
+            continue
+        satz = klartext(inhalt)
+        if len(satz) >= 30 and satz not in ergebnis:
+            ergebnis.append(satz)
+    return ergebnis
+
+
 def beschreibung_parsen(text):
     """Zerlegt die Beschreibungszelle in Anlass (fett) und Bildbeschreibung.
 
@@ -432,6 +467,8 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
     erwartet_sondermarken = int(m.group(1)) if m else None
 
     marken = []
+    namen = benannte_fussnoten(wikitext)
+    satz_fussnoten = []         # Fussnoten am Anlass gelten fuer alle Marken des Satzes
     anlass_wiki = None          # läuft über Satzzeilen weiter
     anlass_abschnitt = None
     for abschnitt, waehrung, zellen in tabelle_parsen(wikitext):
@@ -451,7 +488,13 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
         if vorzeichen and mi_nr[0].isdigit():
             mi_nr = f"{vorzeichen} {mi_nr}"
         neuer_anlass, beschreibung_wiki = beschreibung_parsen(beschreibung)
+        # Fussnoten: die der Anlasszeile gelten fuer den ganzen Satz, die uebrigen nur fuer diese Marke
+        zeilen = [z for z in beschreibung.split("\n") if z.strip()]
+        anlass_zeile = next((z for z in zeilen if not z.strip().startswith((":", "*"))), "") if neuer_anlass else ""
+        eigene = fussnoten(" ".join([beschreibung.replace(anlass_zeile, "", 1) if anlass_zeile else beschreibung,
+                                     wert, datum, auflage, entwurf, minr]), namen)
         if neuer_anlass or abschnitt != anlass_abschnitt:
+            satz_fussnoten = fussnoten(anlass_zeile, namen)
             anlass_wiki = neuer_anlass
             anlass_abschnitt = abschnitt
         datei = RE_DATEI.search(bild)
@@ -468,6 +511,7 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             "gueltig_bis": datum_parsen(zellen.get("gueltig_bis", ""), jahr)[0] if zellen.get("gueltig_bis") else None,
             "anlass": klartext(anlass_wiki or ""),
             "bild_beschreibung": klartext(beschreibung_wiki),
+            "anmerkungen": satz_fussnoten + [f for f in eigene if f not in satz_fussnoten],
             "entwerfer": klartext(entwurf) or None,
             "auflage": zahl_parsen(auflage),
             "commons_datei": datei.group(1).strip() if datei else None,
