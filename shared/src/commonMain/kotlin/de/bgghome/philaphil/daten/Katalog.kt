@@ -32,7 +32,7 @@ class Katalog private constructor(private val db: KatalogDb) {
     fun themenZurMarke(markeId: Long): List<MarkenThema> =
         db.katalogQueries.themenZurMarke(markeId).executeAsList().map { z ->
             MarkenThema(
-                thema = Thema(z.id, z.wikidata, z.titel, z.artikel_url, z.kurztext, z.wusstest_du, z.quelle, z.geladen_am),
+                thema = Thema(z.id, z.wikidata, z.titel, z.artikel_url, z.kurztext, z.wusstest_du, z.wusstest_quelle, z.quelle, z.geladen_am),
                 haupt = z.haupt == 1L,
                 weitereMarken = (db.katalogQueries.anzahlMarkenZumThema(z.id).executeAsOne() - 1).toInt(),
             )

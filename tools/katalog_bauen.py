@@ -81,6 +81,7 @@ CREATE TABLE thema (
   artikel_url TEXT,
   kurztext TEXT,
   wusstest_du TEXT,
+  wusstest_quelle TEXT,          -- 'eigen' (handgepflegt) oder 'ki-entwurf' (am Artikel belegt, tools/wusstest_ki.py)
   quelle TEXT,                   -- 'wikipedia', 'eigen', 'ki-entwurf'
   geladen_am TEXT
 );
@@ -157,6 +158,7 @@ def bauen(ziel):
     # Kurztexte aus Wikipedia (tools/themen_laden.py) und eigene Ergänzungen
     texte = json.loads((DATEN / "themen.json").read_text(encoding="utf-8")) if (DATEN / "themen.json").exists() else {}
     hand_themen = json.loads((DATEN / "themen.hand.json").read_text(encoding="utf-8")) if (DATEN / "themen.hand.json").exists() else {}
+    ki_saetze = json.loads((DATEN / "wusstest_ki.json").read_text(encoding="utf-8")) if (DATEN / "wusstest_ki.json").exists() else {}
 
     def thema_id(t):
         schluessel = t.get("wikidata") or "titel:" + t["artikel"]
@@ -168,9 +170,13 @@ def bauen(ziel):
         kurztext, quelle = text.get("kurztext"), "wikipedia" if text.get("kurztext") else None
         if hand.get("kurztext"):
             kurztext, quelle = hand["kurztext"], "eigen"
+        # Handgepflegter Satz vor KI-Entwurf
+        wusstest, wusstest_quelle = hand.get("wusstest_du"), "eigen" if hand.get("wusstest_du") else None
+        if not wusstest and schluessel in ki_saetze:
+            wusstest, wusstest_quelle = ki_saetze[schluessel]["satz"], "ki-entwurf"
         cur = db.execute(
-            "INSERT INTO thema (wikidata, titel, artikel_url, kurztext, wusstest_du, quelle, geladen_am) VALUES (?,?,?,?,?,?,?)",
-            (t.get("wikidata") or text.get("wikidata"), text.get("titel") or t["artikel"], url, kurztext, hand.get("wusstest_du"), quelle, text.get("geladen_am")))
+            "INSERT INTO thema (wikidata, titel, artikel_url, kurztext, wusstest_du, wusstest_quelle, quelle, geladen_am) VALUES (?,?,?,?,?,?,?,?)",
+            (t.get("wikidata") or text.get("wikidata"), text.get("titel") or t["artikel"], url, kurztext, wusstest, wusstest_quelle, quelle, text.get("geladen_am")))
         themen_ids[schluessel] = cur.lastrowid
         return cur.lastrowid
 

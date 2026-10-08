@@ -189,6 +189,15 @@ fun ThemaText(thema: Thema, viewModel: AppViewModel, mitTitel: Boolean, zustand:
                 Text(stringResource(Res.string.wusstest_du), style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onSecondaryContainer)
                 Spacer(Modifier.height(4.dp))
                 Text(thema.wusstest_du, style = MaterialTheme.typography.bodyLarge, fontStyle = FontStyle.Italic, color = MaterialTheme.colorScheme.onSecondaryContainer)
+                if (thema.wusstest_quelle == "ki-entwurf") {
+                    Spacer(Modifier.height(4.dp))
+                    Text("KI-Entwurf, am Wikipedia-Artikel belegt · Fehler? Bitte melden", style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.75f),
+                        modifier = Modifier.clickable {
+                            viewModel.oeffneWeb("mailto:thomas@bgg-mail.de?subject=" + java.net.URLEncoder.encode("PhilaPhil: Wusstest du? zu " + thema.titel, "UTF-8").replace("+", "%20") +
+                                "&body=" + java.net.URLEncoder.encode("Satz: " + thema.wusstest_du + "\n\nWas stimmt nicht?\n", "UTF-8").replace("+", "%20"))
+                        })
+                }
             }
         }
     }
