@@ -320,7 +320,8 @@ RE_REF_DEF = re.compile(r"<ref\b([^>]*?)(?<!/)>(.*?)</ref>", re.DOTALL | re.IGNO
 RE_REF_NAME = re.compile(r"""name\s*=\s*["']?([^"'/>]+?)["']?\s*(?:group|/|$)""", re.IGNORECASE)
 RE_REF_ALLE = re.compile(r"<ref\b([^>]*?)/>|<ref\b([^>]*?)>(.*?)</ref>", re.DOTALL | re.IGNORECASE)
 # Nur erzaehlende Anmerkungen: keine Belege (Ersttagsblatt, Katalog, Webseiten, Literatur)
-RE_BELEG = re.compile(r"(?i)ersttagsblatt|michel|isbn|webarchiv|https?://|\[\s*http|katalog|seite \d|s\. \d|vorlage|\{\{cite|\{\{internetquelle|\{\{literatur")
+# (geprueft am Klartext: "MiNr. 588 im Michel-Katalog" erzaehlt, "Michel-Katalog 2006, S. 12" belegt)
+RE_BELEG = re.compile(r"(?i)^\s*(michel|ersttagsblatt|etb\b)|katalog[^.]{0,40}\d{4}|isbn|webarchiv|https?://|\[\s*http|\bseite \d|\bs\. \d|\{\{cite|\{\{internetquelle|\{\{literatur")
 
 
 def benannte_fussnoten(wikitext):
@@ -342,9 +343,11 @@ def fussnoten(text, namen):
         if inhalt is None:
             n = RE_REF_NAME.search(attr.strip() + " ")
             inhalt = namen.get(n.group(1).strip()) if n else None
-        if not inhalt or RE_BELEG.search(inhalt):
+        if not inhalt or re.search(r"(?i)\{\{(cite|internetquelle|literatur|webarchiv)|https?://", inhalt):
             continue
         satz = klartext(inhalt)
+        if RE_BELEG.search(satz):
+            continue
         if len(satz) >= 30 and satz not in ergebnis:
             ergebnis.append(satz)
     return ergebnis
