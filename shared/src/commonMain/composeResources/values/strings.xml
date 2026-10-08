@@ -29,4 +29,24 @@
     <string name="jahrgang_waehlen">Jahrgang wählen</string>
     <string name="jahrgang_zurueck">Voriger Jahrgang</string>
     <string name="jahrgang_vor">Nächster Jahrgang</string>
+    <string name="bestand_titel">Mein Bestand</string>
+    <string name="bestand_notiz">Notiz</string>
+    <string name="eigene_bilder">Eigene Bilder</string>
+    <string name="bild_hinzufuegen">Bild hinzufügen</string>
+    <string name="bild_quelle_titel">Bild für diese Marke</string>
+    <string name="bild_foto">Foto aufnehmen</string>
+    <string name="bild_aus_galerie">Aus der Galerie wählen</string>
+    <string name="bild_datei_waehlen">Datei wählen</string>
+    <string name="bild_eigenes">Eigenes Bild</string>
+    <string name="filter_alle">Alle</string>
+    <string name="filter_vorhanden">Vorhanden</string>
+    <string name="filter_fehlend">Fehlend</string>
+    <string name="bestand_zaehler">%1$d von %2$d im Bestand</string>
+    <string name="einstellungen_titel">Einstellungen</string>
+    <string name="sammlungsordner">Sammlungsordner</string>
+    <string name="ordner_waehlen">Ordner wählen</string>
+    <string name="ordner_standard">Zurück zum Standardordner</string>
+    <string name="neu_einlesen">Neu einlesen</string>
+    <string name="ordner_hinweis">Hier liegen bestand.json und der Ordner „Bilder“. Eigene Bilder heißen nach Gebiet und MiNr., etwa Bund-1031.jpg oder Bund-1031-2.png, und gelten für jede Marke, ob im Besitz oder nicht. Lass den Ordner von Synology Drive oder einer anderen Sync-App spiegeln, dann sind Handy und PC gleich.</string>
+    <string name="ueber">%1$s %2$s · Daten: Wikipedia (CC BY-SA 4.0), Bilder: Wikimedia Commons · GPL-3.0</string>
 </resources>

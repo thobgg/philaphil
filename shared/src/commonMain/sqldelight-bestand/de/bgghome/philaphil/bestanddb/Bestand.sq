@@ -1,0 +1,30 @@
+-- Eigene Sammlung: eigene Datei bestand.db, bleibt bei Katalog-Updates erhalten.
+-- Verweis ueber (gebiet, mi_nr), NICHT ueber marke.id.
+
+CREATE TABLE bestand (
+  gebiet TEXT NOT NULL,
+  mi_nr TEXT NOT NULL,
+  erhaltung TEXT NOT NULL,       -- '**', '*', '⊙', 'FDC'
+  anzahl INTEGER NOT NULL DEFAULT 1,
+  notiz TEXT,
+  geaendert TEXT,                -- ISO-Zeitpunkt der letzten Aenderung
+  PRIMARY KEY (gebiet, mi_nr, erhaltung)
+);
+
+alle:
+SELECT * FROM bestand ORDER BY gebiet, mi_nr, erhaltung;
+
+zurMarke:
+SELECT * FROM bestand WHERE gebiet = ? AND mi_nr = ? ORDER BY erhaltung;
+
+setzen:
+INSERT OR REPLACE INTO bestand (gebiet, mi_nr, erhaltung, anzahl, notiz, geaendert) VALUES (?, ?, ?, ?, ?, ?);
+
+notizSetzen:
+UPDATE bestand SET notiz = ?, geaendert = ? WHERE gebiet = ? AND mi_nr = ?;
+
+loeschen:
+DELETE FROM bestand WHERE gebiet = ? AND mi_nr = ? AND erhaltung = ?;
+
+alleLoeschen:
+DELETE FROM bestand;

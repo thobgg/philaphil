@@ -34,6 +34,7 @@ import de.bgghome.philaphil.daten.wertLesbar
 import de.bgghome.philaphil.daten.zahlLesbar
 import de.bgghome.philaphil.db.Thema
 import de.bgghome.philaphil.res.Res
+import de.bgghome.philaphil.res.bild_eigenes
 import de.bgghome.philaphil.res.bild_quelle
 import de.bgghome.philaphil.res.fakt_auflage
 import de.bgghome.philaphil.res.fakt_ausgabetag
@@ -58,14 +59,17 @@ import org.jetbrains.compose.resources.stringResource
 fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel) {
     val marke = zustand.marke ?: return
     val bild = zustand.bild(marke)
+    val eigenes = zustand.eigene(marke).firstOrNull()
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(20.dp)) {
         MarkenBild(
-            bild?.vorschauUrl, marke,
+            eigenes?.modell ?: bild?.vorschauUrl, marke,
             Modifier.fillMaxWidth().heightIn(min = 220.dp, max = 420.dp)
-                .clickable(enabled = bild != null) { viewModel.vollbild(true) },
+                .clickable(enabled = eigenes != null || bild != null) { viewModel.vollbild(true) },
         )
         Spacer(Modifier.height(6.dp))
-        if (bild != null) {
+        if (eigenes != null) {
+            Text(stringResource(Res.string.bild_eigenes) + " · " + eigenes.name, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        } else if (bild != null) {
             Text(
                 stringResource(Res.string.bild_quelle, bild.lizenz, bild.urheber ?: "Wikimedia Commons"),
                 style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant,
@@ -91,6 +95,11 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel) {
                 if (!marke.entwerfer.isNullOrBlank()) Fakt(stringResource(Res.string.fakt_entwurf), marke.entwerfer)
             }
         }
+
+        Spacer(Modifier.height(16.dp))
+        Bestandskarte(zustand, viewModel, marke)
+        Spacer(Modifier.height(16.dp))
+        EigeneBilderZeile(zustand, viewModel, marke)
 
         // Das Hauptthema erzaehlt: Kurztext aus der Wikipedia, dazu "Wusstest du?"
         zustand.hauptthema?.let { haupt ->

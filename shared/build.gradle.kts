@@ -42,6 +42,7 @@ kotlin {
         androidMain.dependencies {
             api(libs.androidx.core.ktx)
             api(libs.androidx.activity.compose)
+            api(libs.androidx.documentfile)
             api(libs.sqldelight.android.driver)
         }
         val desktopMain by getting {
@@ -65,9 +66,17 @@ sqldelight {
     databases {
         create("KatalogDb") {
             packageName.set("de.bgghome.philaphil.db")
+            srcDirs.setFrom("src/commonMain/sqldelight")
             // FTS5-Tabellen braucht der neuere Dialekt.
             dialect("app.cash.sqldelight:sqlite-3-38-dialect:${libs.versions.sqldelight.get()}")
             // Die Datenbank kommt fertig gebaut mit (tools/katalog_bauen.py); SQLDelight legt sie nie selbst an.
+            verifyMigrations.set(false)
+        }
+        // Eigener Bestand: zweite Datei, die bei Katalog-Updates erhalten bleibt. Legt SQLDelight selbst an.
+        create("BestandDb") {
+            packageName.set("de.bgghome.philaphil.bestanddb")
+            srcDirs.setFrom("src/commonMain/sqldelight-bestand")
+            dialect("app.cash.sqldelight:sqlite-3-38-dialect:${libs.versions.sqldelight.get()}")
             verifyMigrations.set(false)
         }
     }

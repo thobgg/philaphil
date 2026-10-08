@@ -28,7 +28,11 @@ data class BildInfo(
     val lizenz: String,
     val lizenzUrl: String? = null,
     val urheber: String? = null,
-)
+) {
+    /** Nur zur Laufzeit: eigenes Bild (File oder content://), wenn diese Angaben kein Commons-Bild beschreiben. */
+    @kotlinx.serialization.Transient
+    var eigenesModell: Any? = null
+}
 
 /**
  * Bilder kommen nur ueber die Commons-API (nie Dateien ins Repo): imageinfo mit iiurlwidth fuer die
