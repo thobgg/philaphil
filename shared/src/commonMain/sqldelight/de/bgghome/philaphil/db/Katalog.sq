@@ -71,6 +71,14 @@ CREATE TABLE marke_thema (
   PRIMARY KEY (marke_id, thema_id)
 );
 
+CREATE TABLE thema_datum (
+  thema_id INTEGER NOT NULL REFERENCES thema(id),
+  art TEXT NOT NULL,
+  datum TEXT NOT NULL,
+  monat_tag TEXT NOT NULL
+);
+CREATE INDEX thema_datum_tag ON thema_datum (monat_tag);
+
 CREATE VIRTUAL TABLE marke_fts USING fts5 (
   mi_nr, anlass, bild_beschreibung, themen, entwerfer,
   tokenize = 'unicode61 remove_diacritics 2'
@@ -140,3 +148,16 @@ SELECT DISTINCT commons_datei FROM marke WHERE commons_datei IS NOT NULL ORDER B
 
 markeNachNummer:
 SELECT * FROM marke WHERE gebiet = ? AND mi_nr = ?;
+
+-- Heute vor Jahren: Themen (nur Hauptthemen von Marken) mit Jahrestag an diesem Tag
+jahrestageThemen:
+SELECT DISTINCT thema.*, thema_datum.art, thema_datum.datum
+FROM thema_datum
+JOIN thema ON thema.id = thema_datum.thema_id
+JOIN marke_thema ON marke_thema.thema_id = thema.id AND marke_thema.haupt = 1
+WHERE thema_datum.monat_tag = ?
+ORDER BY thema_datum.datum;
+
+-- Heute vor Jahren: Marken, die an diesem Tag erschienen
+ausgabenAmTag:
+SELECT * FROM marke WHERE substr(ausgabetag, 6, 5) = ? ORDER BY jahr, gebiet, sortier_nr;

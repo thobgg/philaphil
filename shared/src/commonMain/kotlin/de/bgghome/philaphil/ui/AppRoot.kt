@@ -25,6 +25,7 @@ import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
 import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Clear
+import androidx.compose.material.icons.filled.DateRange
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.SegmentedButton
@@ -69,6 +70,7 @@ import de.bgghome.philaphil.res.einstellungen_titel
 import de.bgghome.philaphil.res.filter_alle
 import de.bgghome.philaphil.res.filter_fehlend
 import de.bgghome.philaphil.res.filter_vorhanden
+import de.bgghome.philaphil.res.heute_titel
 import de.bgghome.philaphil.res.fehler_laden
 import de.bgghome.philaphil.res.jahrgang_titel
 import de.bgghome.philaphil.res.jahrgang_untertitel
@@ -90,7 +92,7 @@ private val BREIT_AB = 840.dp
 fun AppRoot(viewModel: AppViewModel) {
     val zustand by viewModel.zustand.collectAsState()
 
-    BackHandler(enabled = zustand.einstellungenOffen || zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
+    BackHandler(enabled = zustand.heute != null || zustand.einstellungenOffen || zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
         viewModel.zurueck()
     }
     if (zustand.einstellungenOffen) Einstellungen(zustand, viewModel, onClose = { viewModel.einstellungen(false) })
@@ -100,6 +102,8 @@ fun AppRoot(viewModel: AppViewModel) {
         when {
             zustand.vollbild && zustand.marke != null ->
                 Bildbetrachter(zustand, viewModel, onClose = { viewModel.vollbild(false) })
+            zustand.heute != null ->
+                Seite(stringResource(Res.string.heute_titel), onZurueck = viewModel::heuteSchliessen) { HeuteAnsicht(zustand, viewModel, breit) }
             // Handy: Themenseite und Marke sind eigene Seiten mit Zurueck-Pfeil.
             !breit && zustand.themaSeite != null ->
                 Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
@@ -164,6 +168,9 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
                 Text(naechster?.jahr?.toString() ?: "", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                 IconButton(onClick = { naechster?.let(viewModel::jahrgangWaehlen) }, enabled = naechster != null) {
                     Icon(Icons.AutoMirrored.Filled.KeyboardArrowRight, contentDescription = stringResource(Res.string.jahrgang_vor))
+                }
+                IconButton(onClick = { viewModel.heuteOeffnen() }) {
+                    Icon(Icons.Default.DateRange, contentDescription = stringResource(Res.string.heute_titel))
                 }
                 IconButton(onClick = { viewModel.einstellungen(true) }) {
                     Icon(Icons.Default.Settings, contentDescription = stringResource(Res.string.einstellungen_titel))
@@ -269,7 +276,7 @@ fun MarkenBild(modell: Any?, marke: Marke, modifier: Modifier = Modifier, conten
 /** Eine Unterseite mit Titel und Zurueck-Pfeil (Handy: ganze Seite, Tablet: rechte Spalte). */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-private fun Seite(titel: String, onZurueck: () -> Unit, inhalt: @Composable () -> Unit) {
+fun Seite(titel: String, onZurueck: () -> Unit, inhalt: @Composable () -> Unit) {
     Scaffold(
         topBar = {
             TopAppBar(

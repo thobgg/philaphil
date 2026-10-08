@@ -48,6 +48,8 @@ Handkorrekturen (Bilder, Hauptthema, Zähnung, Druckart) kommen nach
 
 Lizenz: Code GPL-3.0 (LICENSE), Daten CC BY-SA 4.0 (daten/LICENSE).
 
+Kontakt: Thomas, thomas@bgg-mail.de – Fehler und Wünsche gern auch als Issue.
+
 ## Eigene Sammlung
 
 Bestand und eigene Bilder liegen in einem **Sammlungsordner**, den du in den Einstellungen wählst,

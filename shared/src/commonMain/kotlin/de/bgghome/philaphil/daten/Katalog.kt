@@ -48,6 +48,11 @@ class Katalog private constructor(private val db: KatalogDb) {
 
     fun markeNachNummer(gebiet: String, miNr: String): Marke? = db.katalogQueries.markeNachNummer(gebiet, miNr).executeAsOneOrNull()
 
+    /** Themen mit Jahrestag an einem Tag ("10-08"), jeweils mit Art und Datum. */
+    fun jahrestage(monatTag: String) = db.katalogQueries.jahrestageThemen(monatTag).executeAsList()
+
+    fun ausgabenAmTag(monatTag: String): List<Marke> = db.katalogQueries.ausgabenAmTag(monatTag).executeAsList()
+
     fun thema(id: Long): Thema? = db.katalogQueries.thema(id).executeAsOneOrNull()
 
     fun suche(text: String): List<Marke> {
