@@ -44,6 +44,11 @@ def normal(s):
     return s.strip().lower()
 
 
+def anlass_text(m):
+    teile = [m.get("anlass") or "", m.get("bild_beschreibung") or ""]
+    return f"{m['jahr'] if 'jahr' in m else ''} {' – '.join(t for t in teile if t)}".strip()
+
+
 def hauptthemen(gebiet, jahre):
     """Hauptthemen der Marken (Schluessel, Artikel) - ohne solche, die schon einen Satz haben."""
     vorhanden = set(json.loads(ZIEL.read_text(encoding="utf-8"))) if ZIEL.exists() else set()
@@ -64,13 +69,13 @@ def hauptthemen(gebiet, jahre):
             if h and h.get("hauptthema"):
                 k = nach_artikel.get(h["hauptthema"]) or "titel:" + h["hauptthema"]
                 if k not in vorhanden:
-                    gefunden.setdefault(k, h["hauptthema"])
+                    gefunden.setdefault(k, (h["hauptthema"], anlass_text(m)))
                 continue
             for t in m["themen"]:
                 if t.get("haupt"):
                     k = t.get("wikidata") or "titel:" + t["artikel"]
                     if k not in vorhanden:
-                        gefunden.setdefault(k, t["artikel"])
+                        gefunden.setdefault(k, (t["artikel"], anlass_text(m)))
     return gefunden
 
 
@@ -80,13 +85,13 @@ def vorbereiten(args):
     los = HIER / "build" / "wusstest" / (args.name or f"{args.gebiet}-{'-'.join(map(str, args.jahr))}")
     los.mkdir(parents=True, exist_ok=True)
     liste = []
-    for k, artikel in sorted(themen.items(), key=lambda x: x[1]):
+    for k, (artikel, anlass) in sorted(themen.items(), key=lambda x: x[1][0]):
         text = artikeltext(artikel)
         if len(text) < 300:
             continue
         datei = re.sub(r"[^\w]+", "_", k) + ".txt"
         (los / datei).write_text(f"{artikel}\n\n{text}", encoding="utf-8")
-        liste.append({"schluessel": k, "artikel": artikel, "datei": datei})
+        liste.append({"schluessel": k, "artikel": artikel, "datei": datei, "marke": anlass})
     (los / "liste.json").write_text(json.dumps(liste, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(liste)} Themen in {los.relative_to(HIER)}", file=sys.stderr)
 
