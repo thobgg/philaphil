@@ -1,0 +1,2003 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1934,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1934 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1934_der_Deutschen_Reichspost",
+    "revision": 246674652,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 513,
+    "mi_nr_bis": 564,
+    "luecken": [
+      527
+    ],
+    "ausreisser": [
+      25
+    ],
+    "sondermarken_gezaehlt": 36,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "529",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 529 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Weltkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "530",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 530 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "531",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 531 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "532",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 532 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "533",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 533 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "534",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 534 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "535",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 535 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "536",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 536 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "537",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Gleitender Adler vor Weltkugel",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 537 Luftpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "538",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "2 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Otto Lilienthal (1848–1896)",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 538 Luftpost Otto Lilienthal.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Otto Lilienthal",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "539",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-01-21",
+      "wert": "3 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1939-12-31",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Ferdinand Graf von Zeppelin (1838–1917)",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 539 Luftpost Ferdinand von Zeppelin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ferdinand Graf von Zeppelin",
+          "beschriftung": "Ferdinand Graf von Zeppelin",
+          "haupt": true,
+          "artikel": "Ferdinand von Zeppelin",
+          "wikidata": "Q75780"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarken",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "540",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-06-30",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Deutsche Kolonialforscher",
+      "bild_beschreibung": "Adolf Lüderitz (1834–1886)",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 540 Franz Adolf Eduard Lüderitz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adolf Lüderitz",
+          "beschriftung": "Adolf Lüderitz",
+          "haupt": true,
+          "artikel": "Adolf Lüderitz",
+          "wikidata": "Q77340"
+        },
+        {
+          "titel": "Deutsche Kolonien",
+          "beschriftung": "Deutsche Kolonialforscher",
+          "haupt": false,
+          "artikel": "Deutsche Kolonien",
+          "wikidata": "Q329618"
+        }
+      ]
+    },
+    {
+      "mi_nr": "541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-06-30",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Deutsche Kolonialforscher",
+      "bild_beschreibung": "Gustav Nachtigal (1834–1885)",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 541 Gustav Nachtigal.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gustav Nachtigal",
+          "beschriftung": "Gustav Nachtigal",
+          "haupt": true,
+          "artikel": "Gustav Nachtigal",
+          "wikidata": "Q60549"
+        },
+        {
+          "titel": "Deutsche Kolonien",
+          "beschriftung": "Deutsche Kolonialforscher",
+          "haupt": false,
+          "artikel": "Deutsche Kolonien",
+          "wikidata": "Q329618"
+        }
+      ]
+    },
+    {
+      "mi_nr": "542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-06-30",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Deutsche Kolonialforscher",
+      "bild_beschreibung": "Carl Peters (1856–1918)",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 542 Carl Peters.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Peters",
+          "beschriftung": "Carl Peters",
+          "haupt": true,
+          "artikel": "Carl Peters",
+          "wikidata": "Q77403"
+        },
+        {
+          "titel": "Deutsche Kolonien",
+          "beschriftung": "Deutsche Kolonialforscher",
+          "haupt": false,
+          "artikel": "Deutsche Kolonien",
+          "wikidata": "Q329618"
+        }
+      ]
+    },
+    {
+      "mi_nr": "543",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-06-30",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Deutsche Kolonialforscher",
+      "bild_beschreibung": "Hermann von Wissmann (1853–1905)",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1934 543 Hermann von Wissmann.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hermann von Wissmann",
+          "beschriftung": "Hermann von Wissmann",
+          "haupt": true,
+          "artikel": "Hermann von Wissmann",
+          "wikidata": "Q77401"
+        },
+        {
+          "titel": "Deutsche Kolonien",
+          "beschriftung": "Deutsche Kolonialforscher",
+          "haupt": false,
+          "artikel": "Deutsche Kolonien",
+          "wikidata": "Q329618"
+        }
+      ]
+    },
+    {
+      "mi_nr": "544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-08-26",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Saarabstimmung",
+      "bild_beschreibung": "Zwei Hände halten ein Stück Kohle mit den Buchstaben SAAR",
+      "entwerfer": "Karl Schulpig",
+      "auflage": null,
+      "commons_datei": "DR 1934 544 Saarabstimmung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kohle",
+          "beschriftung": "Kohle",
+          "haupt": true,
+          "artikel": "Kohle",
+          "wikidata": "Q24489"
+        },
+        {
+          "titel": "Geschichte des Saarlandes",
+          "beschriftung": "Saarabstimmung",
+          "haupt": false,
+          "artikel": "Geschichte des Saarlandes",
+          "wikidata": "Q1254598"
+        }
+      ]
+    },
+    {
+      "mi_nr": "545",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-08-26",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Saarabstimmung",
+      "bild_beschreibung": "Reichsadler mit Inschrift Saar",
+      "entwerfer": "Brand",
+      "auflage": null,
+      "commons_datei": "DR 1934 545 Saarabstimmung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        },
+        {
+          "titel": "Geschichte des Saarlandes",
+          "beschriftung": "Saarabstimmung",
+          "haupt": false,
+          "artikel": "Geschichte des Saarlandes",
+          "wikidata": "Q1254598"
+        }
+      ]
+    },
+    {
+      "mi_nr": "546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Nürnberger Reichsparteitag",
+      "bild_beschreibung": "Nürnberger Burg",
+      "entwerfer": "Mjölnir-Schweitzer",
+      "auflage": null,
+      "commons_datei": "DR 1934 546 Reichsparteitag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nürnberger Burg",
+          "beschriftung": "Nürnberger Burg",
+          "haupt": true,
+          "artikel": "Nürnberger Burg",
+          "wikidata": "Q707396"
+        },
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": false,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        },
+        {
+          "titel": "Reichsparteitag",
+          "beschriftung": "Reichsparteitag",
+          "haupt": false,
+          "artikel": "Reichsparteitag",
+          "wikidata": "Q160225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-01",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Nürnberger Reichsparteitag",
+      "bild_beschreibung": "Nürnberger Burg",
+      "entwerfer": "Mjölnir-Schweitzer",
+      "auflage": null,
+      "commons_datei": "DR 1934 547 Reichsparteitag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": true,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        },
+        {
+          "titel": "Reichsparteitag",
+          "beschriftung": "Reichsparteitag",
+          "haupt": false,
+          "artikel": "Reichsparteitag",
+          "wikidata": "Q160225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-04",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Zum Tod von Paul von Hindenburg (1847–1934)",
+      "bild_beschreibung": "Porträt Paul von Hindenburg, Briefmarke mit Trauerrand",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 548 Hindenburg Trauerrand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-04",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Zum Tod von Paul von Hindenburg (1847–1934)",
+      "bild_beschreibung": "Porträt Paul von Hindenburg, Briefmarke mit Trauerrand",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 549 Hindenburg Trauerrand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-04",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Zum Tod von Paul von Hindenburg (1847–1934)",
+      "bild_beschreibung": "Porträt Paul von Hindenburg, Briefmarke mit Trauerrand",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 550 Hindenburg Trauerrand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-04",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Zum Tod von Paul von Hindenburg (1847–1934)",
+      "bild_beschreibung": "Porträt Paul von Hindenburg, Briefmarke mit Trauerrand",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 551 Hindenburg Trauerrand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-04",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Zum Tod von Paul von Hindenburg (1847–1934)",
+      "bild_beschreibung": "Porträt Paul von Hindenburg, Briefmarke mit Trauerrand",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 552 Hindenburg Trauerrand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-09-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Zum Tod von Paul von Hindenburg (1847–1934)",
+      "bild_beschreibung": "Porträt Paul von Hindenburg, Briefmarke mit Trauerrand",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 553 Hindenburg Trauerrand.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "554",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "175. Geburtstag von Friedrich Schiller (1759–1805)",
+      "bild_beschreibung": "Porträt nach einem Ölgemälde von Ludovika von Simonowitz und einem Kupferstich von Carl August Schwerdgeburth",
+      "entwerfer": "K. Bauer",
+      "auflage": null,
+      "commons_datei": "DR 1934 554 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ölmalerei",
+          "beschriftung": "Ölgemälde",
+          "haupt": true,
+          "artikel": "Ölmalerei",
+          "wikidata": "Q174705"
+        },
+        {
+          "titel": "Ludovike Simanowiz",
+          "beschriftung": "Ludovika von Simonowitz",
+          "haupt": false,
+          "artikel": "Ludovike Simanowiz",
+          "wikidata": "Q1874037"
+        },
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": false,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Carl August Schwerdgeburth",
+          "beschriftung": "Carl August Schwerdgeburth",
+          "haupt": false,
+          "artikel": "Carl August Schwerdgeburth",
+          "wikidata": "Q1036898"
+        },
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": false,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "175. Geburtstag von Friedrich Schiller (1759–1805)",
+      "bild_beschreibung": "Porträt nach einem Ölgemälde von Ludovika von Simonowitz und einem Kupferstich von Schwerdtgeburth",
+      "entwerfer": "K. Bauer",
+      "auflage": null,
+      "commons_datei": "DR 1934 555 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "556",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Kaufmann",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 1883843,
+      "commons_datei": "DR 1934 556 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaufmann",
+          "beschriftung": "Kaufmann",
+          "haupt": true,
+          "artikel": "Kaufmann",
+          "wikidata": "Q215536"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "4+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Schmied",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 2293455,
+      "commons_datei": "DR 1934 557 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schmied",
+          "beschriftung": "Schmied",
+          "haupt": true,
+          "artikel": "Schmied",
+          "wikidata": "Q838566"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "5+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Maurer",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 1125221,
+      "commons_datei": "DR 1934 558 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maurer",
+          "beschriftung": "Maurer",
+          "haupt": true,
+          "artikel": "Maurer",
+          "wikidata": "Q327321"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "559",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Bergmann",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 4132967,
+      "commons_datei": "DR 1934 559 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bergmann",
+          "beschriftung": "Bergmann",
+          "haupt": true,
+          "artikel": "Bergmann",
+          "wikidata": "Q820037"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "560",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Baumeister",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 2447218,
+      "commons_datei": "DR 1934 560 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baumeister",
+          "beschriftung": "Baumeister",
+          "haupt": true,
+          "artikel": "Baumeister",
+          "wikidata": "Q1340643"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "561",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "12+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Bauer",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 5451131,
+      "commons_datei": "DR 1934 561 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirt",
+          "beschriftung": "Bauer",
+          "haupt": true,
+          "artikel": "Landwirt",
+          "wikidata": "Q131512"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "562",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Chemiker",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 435584,
+      "commons_datei": "DR 1934 562 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "563",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Bildhauer",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 472038,
+      "commons_datei": "DR 1934 563 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bildhauerei",
+          "beschriftung": "Bildhauer",
+          "haupt": true,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "564",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1934-11-05",
+      "wert": "40+35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-06-30",
+      "anlass": "Winterhilfswerk, Berufe",
+      "bild_beschreibung": "Richter",
+      "entwerfer": "Ferdinand Spiegel",
+      "auflage": 340450,
+      "commons_datei": "DR 1934 564 Winterhilfswerk.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Richter",
+          "beschriftung": "Richter",
+          "haupt": true,
+          "artikel": "Richter",
+          "wikidata": "Q16533"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        },
+        {
+          "titel": "Beruf",
+          "beschriftung": "Beruf",
+          "haupt": false,
+          "artikel": "Beruf",
+          "wikidata": "Q28640"
+        }
+      ]
+    },
+    {
+      "mi_nr": "513",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "Porträt Paul von Hindenburgs, Wasserzeichenpapier 4 (Hakenkreuze)",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 513 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        },
+        {
+          "titel": "Wasserzeichen (Briefmarkenpapier)",
+          "beschriftung": "Wasserzeichenpapier",
+          "haupt": false,
+          "artikel": "Wasserzeichen (Briefmarkenpapier)",
+          "wikidata": "Q18632671"
+        },
+        {
+          "titel": "Swastika",
+          "beschriftung": "Hakenkreuz",
+          "haupt": false,
+          "artikel": "Swastika",
+          "wikidata": "Q45513"
+        },
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": false,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "514",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 514 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "515",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 515 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "516",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 516 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "517",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 517 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "518",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 518 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "519",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 519 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "520",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-04",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 520 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "521",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 521 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "522",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 522 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "523",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 523 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "524",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-02",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 524 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "525",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 525 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "526",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 526 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "528",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1934-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1934 528 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 132",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "Hakenkreuz im Eichenkranz",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934-132 1942-166 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Swastika",
+          "beschriftung": "Hakenkreuz",
+          "haupt": true,
+          "artikel": "Swastika",
+          "wikidata": "Q45513"
+        },
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": false,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 133",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934-133 1942-167 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 134",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934 134 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 135",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934 135 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 136",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934-136 1942-170 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 137",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934-137 1942-171 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 138",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934 138 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 139",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934 139 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 140",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934 140 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 141",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934-141 1942-175 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 142",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934-142 1942-176 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 143",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1934-01-18",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken",
+      "bild_beschreibung": "",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1934 143 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        }
+      ]
+    },
+    {
+      "mi_nr": "P 231",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildpostkarte; wie P 221, jedoch „e“ ohne langen Schlussstrich (9 verschiedene Motive)",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 232",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildpostkarte; wie P 221, jedoch „e“ mit kurzem Schlussstrich (144 verschiedene Motive)",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 233",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildpostkarte; mit Druckvermerk unten rechts (36 verschiedene Motive)",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 234",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sonderkarte zum Tode von Hindenburgs",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 235",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sonderkarte zum Tode von Hindenburgs",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 235 1934.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 236",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bildpostkarte mit dunkelbraunem Wertstempel (1218 verschiedene Motive)",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 250",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934-01-29",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Sonderkarte zur Erinnerung an den Tag der Machtergreifung",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 250 1934.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 251",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934-04-30",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Sonderkarte zum 1. Mai",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 252",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934-09-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Sonderkarte zum Reichsparteitag 1934",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 253",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934-11-05",
+      "wert": "6 + 4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Sonderkarte mit Wertstempel „SA Mann“",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 253 1934.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "P 254",
+      "block": null,
+      "art": "Ganzsache",
+      "ausgabetag": "1934-12-29",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sonderkarte für das Winterhilfswerk (Beilage der Winterhilfswerk-Lotterie)",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "P 254 1934-1v 01.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "RP 25",
+      "block": null,
+      "art": "Rohrpost-Karten",
+      "ausgabetag": "1934",
+      "wert": "55",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rohrpostkarte mit Absendervermerk und senkrechtem Teilstrich",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "RP 25 1934.jpg",
+      "satz": false,
+      "themen": []
+    }
+  ]
+}

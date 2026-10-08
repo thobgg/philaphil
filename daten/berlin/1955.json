@@ -1,0 +1,377 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1955,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1955 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1955_der_Deutschen_Bundespost_Berlin",
+    "revision": 251518593,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 126,
+    "mi_nr_bis": 134,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "126",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Stapellauf der MS Berlin",
+      "bild_beschreibung": "Die Berlin, zuvor Gripsholm unter schwedischer Flagge, bei ihrem Stapellauf und ihrer Umbenennung nach Umbau 1955",
+      "entwerfer": "Schulz",
+      "auflage": 21865000,
+      "commons_datei": "DBPB 1955 126 MS Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schweden",
+          "beschriftung": "schwedischer",
+          "haupt": true,
+          "artikel": "Schweden",
+          "wikidata": "Q34"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapellauf",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Berlin (Schiff, 1925)",
+          "beschriftung": "MS Berlin",
+          "haupt": false,
+          "artikel": "Berlin (Schiff, 1925)",
+          "wikidata": "Q3277521"
+        }
+      ]
+    },
+    {
+      "mi_nr": "127",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-03-12",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Stapellauf der MS Berlin",
+      "bild_beschreibung": "Die Berlin, zuvor Gripsholm unter schwedischer Flagge, bei ihrem Stapellauf und ihrer Umbenennung nach Umbau 1955",
+      "entwerfer": "Schulz",
+      "auflage": 5020000,
+      "commons_datei": "DBPB 1955 127 MS Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin (Schiff, 1925)",
+          "beschriftung": "MS Berlin",
+          "haupt": true,
+          "artikel": "Berlin (Schiff, 1925)",
+          "wikidata": "Q3277521"
+        }
+      ]
+    },
+    {
+      "mi_nr": "128",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-09-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Zum 1. Todestag von Wilhelm Furtwängler (1886–1954)",
+      "bild_beschreibung": "Dirigent und Komponist",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1500000,
+      "commons_datei": "DBPB 1955 128 Wilhelm Furtwängler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Furtwängler",
+          "beschriftung": "Wilhelm Furtwängler",
+          "haupt": true,
+          "artikel": "Wilhelm Furtwängler",
+          "wikidata": "Q57285"
+        },
+        {
+          "titel": "Dirigent",
+          "beschriftung": "Dirigent",
+          "haupt": false,
+          "artikel": "Dirigent",
+          "wikidata": "Q158852"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "129",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Deutscher Bundestag in Berlin",
+      "bild_beschreibung": "Bundesadler und Wappen Berlins",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1955 129 Deutscher Bundestag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundeswappen Deutschlands",
+          "beschriftung": "Bundesadler",
+          "haupt": true,
+          "artikel": "Bundeswappen Deutschlands",
+          "wikidata": "Q133018"
+        },
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Wappen Berlins",
+          "haupt": false,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        }
+      ]
+    },
+    {
+      "mi_nr": "130",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Deutscher Bundestag in Berlin",
+      "bild_beschreibung": "Bundesadler und Wappen Berlins",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1955 130 Deutscher Bundestag.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "131",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-10-27",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Preußischer Feldpostillon, um 1760; Zuschlagmarke zugunsten der Philatelie",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 750000,
+      "commons_datei": "DBPB 1955 131 Preussischer Postillon.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußischer",
+          "haupt": false,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "Postillon",
+          "beschriftung": "Feldpostillon",
+          "haupt": false,
+          "artikel": "Postillon",
+          "wikidata": "Q596033"
+        },
+        {
+          "titel": "Philatelie",
+          "beschriftung": "Philatelie",
+          "haupt": false,
+          "artikel": "Philatelie",
+          "wikidata": "Q131026"
+        }
+      ]
+    },
+    {
+      "mi_nr": "132",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-26",
+      "wert": "7+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "25 Jahre Bistum Berlin",
+      "bild_beschreibung": "Figur des Bischofs St. Otto (1060–1139), auch Apostel der Pommern genannt; Zuschläge zugunsten des Wiederaufbaus im Krieg zerstörter Kirchen",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 1300000,
+      "commons_datei": "DBPB 1955 132 Bistum Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bischof",
+          "beschriftung": "Bischof",
+          "haupt": true,
+          "artikel": "Bischof",
+          "wikidata": "Q29182"
+        },
+        {
+          "titel": "Otto von Bamberg",
+          "beschriftung": "St. Otto",
+          "haupt": false,
+          "artikel": "Otto von Bamberg",
+          "wikidata": "Q77259"
+        },
+        {
+          "titel": "Apostel",
+          "beschriftung": "Apostel",
+          "haupt": false,
+          "artikel": "Apostel",
+          "wikidata": "Q43412"
+        },
+        {
+          "titel": "Herzogtum Pommern",
+          "beschriftung": "Pommern",
+          "haupt": false,
+          "artikel": "Herzogtum Pommern",
+          "wikidata": "Q696640"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        },
+        {
+          "titel": "Kirche (Bauwerk)",
+          "beschriftung": "Kirchen",
+          "haupt": false,
+          "artikel": "Kirche (Bauwerk)",
+          "wikidata": "Q16970"
+        },
+        {
+          "titel": "Erzbistum Berlin",
+          "beschriftung": "Bistum Berlin",
+          "haupt": false,
+          "artikel": "Erzbistum Berlin",
+          "wikidata": "Q264971"
+        }
+      ]
+    },
+    {
+      "mi_nr": "133",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-26",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "25 Jahre Bistum Berlin",
+      "bild_beschreibung": "Figur der Herzogin St. Hedwig (1174–1243), auch Schutzpatronin von Görlitz, mit einem Modell der St.-Hedwigs-Kathedrale",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 1300000,
+      "commons_datei": "DBPB 1955 133 Bistum Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Herzog",
+          "beschriftung": "Herzog",
+          "haupt": true,
+          "artikel": "Herzog",
+          "wikidata": "Q166886"
+        },
+        {
+          "titel": "Hedwig von Andechs",
+          "beschriftung": "St. Hedwig",
+          "haupt": false,
+          "artikel": "Hedwig von Andechs",
+          "wikidata": "Q57520"
+        },
+        {
+          "titel": "Schutzpatron",
+          "beschriftung": "Schutzpatron",
+          "haupt": false,
+          "artikel": "Schutzpatron",
+          "wikidata": "Q28914"
+        },
+        {
+          "titel": "Görlitz",
+          "beschriftung": "Görlitz",
+          "haupt": false,
+          "artikel": "Görlitz",
+          "wikidata": "Q4077"
+        },
+        {
+          "titel": "St.-Hedwigs-Kathedrale",
+          "beschriftung": "St.-Hedwigs-Kathedrale",
+          "haupt": false,
+          "artikel": "St.-Hedwigs-Kathedrale",
+          "wikidata": "Q170123"
+        },
+        {
+          "titel": "Erzbistum Berlin",
+          "beschriftung": "Bistum Berlin",
+          "haupt": false,
+          "artikel": "Erzbistum Berlin",
+          "wikidata": "Q264971"
+        }
+      ]
+    },
+    {
+      "mi_nr": "134",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1955-11-26",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1957-12-31",
+      "anlass": "25 Jahre Bistum Berlin",
+      "bild_beschreibung": "Figur des Apostels St. Petrus, 1. Bischof von Rom",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 1300000,
+      "commons_datei": "DBPB 1955 134 Bistum Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Simon Petrus",
+          "beschriftung": "St. Petrus",
+          "haupt": true,
+          "artikel": "Simon Petrus",
+          "wikidata": "Q33923"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        },
+        {
+          "titel": "Erzbistum Berlin",
+          "beschriftung": "Bistum Berlin",
+          "haupt": false,
+          "artikel": "Erzbistum Berlin",
+          "wikidata": "Q264971"
+        }
+      ]
+    }
+  ]
+}

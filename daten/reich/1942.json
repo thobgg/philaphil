@@ -1,0 +1,989 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1942,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1942 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1942_der_Deutschen_Reichspost",
+    "revision": 268668685,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 799,
+    "mi_nr_bis": 827,
+    "luecken": [
+      803,
+      804,
+      805,
+      806,
+      807,
+      808,
+      809,
+      810
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 15,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "811",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-01-11",
+      "wert": "6+24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Briefmarkensammler mit Lupe und Briefmarkenalbum",
+      "entwerfer": "E. Stahl",
+      "auflage": null,
+      "commons_datei": "DR 1942 811 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Lupe",
+          "beschriftung": "Lupe",
+          "haupt": false,
+          "artikel": "Lupe",
+          "wikidata": "Q166849"
+        },
+        {
+          "titel": "Briefmarkenalbum",
+          "beschriftung": "Briefmarkenalbum",
+          "haupt": false,
+          "artikel": "Briefmarkenalbum",
+          "wikidata": "Q914881"
+        }
+      ]
+    },
+    {
+      "mi_nr": "812",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-03-10",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Heldengedenktag",
+      "bild_beschreibung": "Kopf eines gefallenen Soldaten und sein Stahlhelm",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volkstrauertag",
+          "beschriftung": "Heldengedenktag",
+          "haupt": true,
+          "artikel": "Volkstrauertag",
+          "wikidata": "Q14371510"
+        },
+        {
+          "titel": "Soldat",
+          "beschriftung": "Soldat",
+          "haupt": false,
+          "artikel": "Soldat",
+          "wikidata": "Q4991371"
+        },
+        {
+          "titel": "Stahlhelm",
+          "beschriftung": "Stahlhelm",
+          "haupt": false,
+          "artikel": "Stahlhelm",
+          "wikidata": "Q767924"
+        }
+      ]
+    },
+    {
+      "mi_nr": "813",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-04-13",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "53. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1942 813 Adolf Hitler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        }
+      ]
+    },
+    {
+      "mi_nr": "814",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-06-16",
+      "wert": "25+100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Rennen um Das Blaue Band in Hamburg",
+      "bild_beschreibung": "Rennpferd mit Jockey",
+      "entwerfer": "Ludwig Hohlwein",
+      "auflage": null,
+      "commons_datei": "DR 1942 814 Das Blaue Band.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        },
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennpferd",
+          "haupt": false,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Jockey",
+          "beschriftung": "Jockey",
+          "haupt": false,
+          "artikel": "Jockey",
+          "wikidata": "Q846750"
+        }
+      ]
+    },
+    {
+      "mi_nr": "815",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-07-14",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "9. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "3 Pferde und Schleifenband mit Inschrift",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "das Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "816",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-08-08",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Deutsche Gesellschaft für Goldschmiedekunst",
+      "bild_beschreibung": "Nürnberger Brautbecher aus dem 16. Jahrhundert und Aquamanile, Löwe aus dem Lüneburger Silberschatz",
+      "entwerfer": "G. Tischer",
+      "auflage": null,
+      "commons_datei": "DR 1942 816 Goldschmiedekunst.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brautbecher",
+          "beschriftung": "Brautbecher",
+          "haupt": true,
+          "artikel": "Brautbecher",
+          "wikidata": "Q902383"
+        },
+        {
+          "titel": "Aquamanile",
+          "beschriftung": "Aquamanile",
+          "haupt": false,
+          "artikel": "Aquamanile",
+          "wikidata": "Q378845"
+        },
+        {
+          "titel": "Löwe",
+          "beschriftung": "Löwe",
+          "haupt": false,
+          "artikel": "Löwe",
+          "wikidata": "Q140"
+        },
+        {
+          "titel": "Lüneburg",
+          "beschriftung": "Lüneburg",
+          "haupt": false,
+          "artikel": "Lüneburg",
+          "wikidata": "Q3920"
+        },
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Goldschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "817",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-08-08",
+      "wert": "12+88",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Deutsche Gesellschaft für Goldschmiedekunst",
+      "bild_beschreibung": "Nürnberger Brautbecher aus dem 16. Jahrhundert und Aquamanile, Löwe aus dem Lüneburger Silberschatz",
+      "entwerfer": "G. Tischer",
+      "auflage": null,
+      "commons_datei": "DR 1942 817 Goldschmiedekunst.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldschmiedekunst",
+          "beschriftung": "Goldschmiedekunst",
+          "haupt": true,
+          "artikel": "Goldschmiedekunst",
+          "wikidata": "Q11202319"
+        }
+      ]
+    },
+    {
+      "mi_nr": "818",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-08-08",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wehrkampftage der SA",
+      "bild_beschreibung": "Wehrabzeichen der SA",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": "DR 1942 818 Wehrkampftage.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "819",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-08-29",
+      "wert": "6+24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "400. Todestag von Peter Henlein",
+      "bild_beschreibung": "Erfinder der Taschenuhr, Denkmal in Nürnberg",
+      "entwerfer": "Manz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Peter Henlein",
+          "beschriftung": "Peter Henlein",
+          "haupt": true,
+          "artikel": "Peter Henlein",
+          "wikidata": "Q61218"
+        },
+        {
+          "titel": "Taschenuhr",
+          "beschriftung": "Taschenuhr",
+          "haupt": false,
+          "artikel": "Taschenuhr",
+          "wikidata": "Q849813"
+        },
+        {
+          "titel": "Denkmal (Gedenken)",
+          "beschriftung": "Denkmal",
+          "haupt": false,
+          "artikel": "Denkmal (Gedenken)",
+          "wikidata": "Q4989906"
+        },
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": false,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        }
+      ]
+    },
+    {
+      "mi_nr": "820",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-10-12",
+      "wert": "3+7",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Postkongreß in Wien",
+      "bild_beschreibung": "Postillon vor einer Europakarte",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postillon",
+          "beschriftung": "Postillon",
+          "haupt": true,
+          "artikel": "Postillon",
+          "wikidata": "Q596033"
+        }
+      ]
+    },
+    {
+      "mi_nr": "821",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-10-12",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Postkongreß in Wien",
+      "bild_beschreibung": "Postillon zu Pferde auf einer Weltkugel",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Globus",
+          "beschriftung": "Weltkugel",
+          "haupt": true,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        }
+      ]
+    },
+    {
+      "mi_nr": "822",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-10-12",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Postkongreß in Wien",
+      "bild_beschreibung": "Postillon zu Pferde",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "823",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-10-18",
+      "wert": "3+7",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Postkongreß in Wien, Unterzeichnung des Übereinkommens über den europäischen Post- und Fernmeldeverein",
+      "bild_beschreibung": "Postillon vor einer Europakarte – mit Aufdruck „19. Okt. 1942“",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "824",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-10-19",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Postkongreß in Wien, Unterzeichnung des Übereinkommens über den europäischen Post- und Fernmeldeverein",
+      "bild_beschreibung": "Postillon zu Pferde auf einer Weltkugel – mit Aufdruck „19. Okt. 1942“",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "825",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1942-10-19",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäischer Postkongreß in Wien, Unterzeichnung des Übereinkommens über den europäischen Post- und Fernmeldeverein",
+      "bild_beschreibung": "Postillon zu Pferde – mit Aufdruck „19. Okt. 1942“",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "826",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1942-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "nunmehr im Buchdruckverfahren hergestellt",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": "DR 1942 826 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": false,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "827",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1942-12",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": "DR 1942 827 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": true,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "799",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1942-03-20",
+      "wert": "1 RM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "Mark-Werte im Stichtiefdruckverfahren",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 799 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stichtiefdruck",
+          "beschriftung": "Stichtiefdruck",
+          "haupt": true,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        },
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": false,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "800",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1942-03-20",
+      "wert": "2 RM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 800 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": true,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "801",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1942-03-20",
+      "wert": "3 RM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 801 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": true,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "802",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1942-03-20",
+      "wert": "5 RM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauerserie Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 802 Adolf Hitler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "beschriftung": "Dauerserie Adolf Hitler",
+          "haupt": true,
+          "artikel": "Reichskanzler Adolf Hitler (Briefmarkenserie)",
+          "wikidata": "Q1445251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 155",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "Adler auf Sockel",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 156",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 157",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 158",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 159",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 160",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 161",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 162",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 163",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 164",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 165",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942-03-02",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Parteidienststellen",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 166",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "Hakenkreuz im Kranz",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1934-132 1942-166 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 167",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1934-133 1942-167 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 168",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1942 168 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 169",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1942 169 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 170",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1934-136 1942-170 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 171",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1934-137 1942-171 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 172",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1942 172 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 173",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1942 173 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 174",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1942 174 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 175",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1934-141 1942-175 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 176",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1934-142 1942-176 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "D 177",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1942",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dienstmarken für Landes- (Regierungs-) Behörden",
+      "bild_beschreibung": "",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR-D 1942 177 Dienstmarke.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

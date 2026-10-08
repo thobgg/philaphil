@@ -1,0 +1,446 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1954,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1954 der Deutschen Post Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1954_der_Deutschen_Post_Berlin",
+    "revision": 265017148,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 112,
+    "mi_nr_bis": 125,
+    "luecken": [
+      113,
+      114
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 8,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "115",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-01-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-03-31",
+      "anlass": "1. Todestag von Ernst Reuter (1889–1953)",
+      "bild_beschreibung": "Politiker, Bürgermeister von Berlin",
+      "entwerfer": "Leon Schnell",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1954 115 Ernst Reuter.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Reuter",
+          "beschriftung": "Ernst Reuter",
+          "haupt": true,
+          "artikel": "Ernst Reuter",
+          "wikidata": "Q213561"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Regierender Bürgermeister von Berlin",
+          "beschriftung": "Bürgermeister von Berlin",
+          "haupt": false,
+          "artikel": "Regierender Bürgermeister von Berlin",
+          "wikidata": "Q641159"
+        }
+      ]
+    },
+    {
+      "mi_nr": "116",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-01-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Viermächte-Konferenz",
+      "bild_beschreibung": "Das Kontrollratsgebäude am Kleistpark",
+      "entwerfer": "unbekannt",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1954 116 Viermächtekonferenz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Alliierter Kontrollrat",
+          "beschriftung": "Kontrollratsgebäude",
+          "haupt": true,
+          "artikel": "Alliierter Kontrollrat",
+          "wikidata": "Q698099"
+        },
+        {
+          "titel": "Heinrich-von-Kleist-Park",
+          "beschriftung": "Kleistpark",
+          "haupt": false,
+          "artikel": "Heinrich-von-Kleist-Park",
+          "wikidata": "Q873246"
+        }
+      ]
+    },
+    {
+      "mi_nr": "117",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-05-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "100. Geburtstag von Ottmar Mergenthaler (1854–1899)",
+      "bild_beschreibung": "Erfinder der Linotype-Setzmaschine",
+      "entwerfer": "Hermann Zapf",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1954 117 Ottmar Mergenthaler.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ottmar Mergenthaler",
+          "beschriftung": "Ottmar Mergenthaler",
+          "haupt": true,
+          "artikel": "Ottmar Mergenthaler",
+          "wikidata": "Q213701"
+        },
+        {
+          "titel": "Linotype-Setzmaschine",
+          "beschriftung": "Linotype-Setzmaschine",
+          "haupt": false,
+          "artikel": "Linotype-Setzmaschine",
+          "wikidata": "Q694899"
+        }
+      ]
+    },
+    {
+      "mi_nr": "118",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-07-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Wahl des Bundespräsidenten",
+      "bild_beschreibung": "Freiheitsglocke, Neuauflage der Ausgabe von 1953 mit Aufdruck",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1954 118 Wahl Bundespräsident.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsidenten",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": false,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        }
+      ]
+    },
+    {
+      "mi_nr": "119",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-07-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "10. Jahrestag des Attentats auf Adolf Hitler am 20. Juli 1944",
+      "bild_beschreibung": "Denkmal von Richard Scheibe (1879–1964), Bildhauer, Mann in Fesseln",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1954 119 Jahrestag 20. Juli 1944.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Attentat vom 20. Juli 1944",
+          "beschriftung": "Attentats auf Adolf Hitler am 20. Juli 1944",
+          "haupt": true,
+          "artikel": "Attentat vom 20. Juli 1944",
+          "wikidata": "Q105570"
+        },
+        {
+          "titel": "Richard Scheibe",
+          "beschriftung": "Richard Scheibe",
+          "haupt": false,
+          "artikel": "Richard Scheibe",
+          "wikidata": "Q896159"
+        },
+        {
+          "titel": "Bildhauerei",
+          "beschriftung": "Bildhauer",
+          "haupt": false,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        }
+      ]
+    },
+    {
+      "mi_nr": "120",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-08-04",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Nationale Briefmarkenausstellung 1954 Berlin",
+      "bild_beschreibung": "Preußischer Postillon um 1827",
+      "entwerfer": "unbekannt",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1954 120 Nationale Briefmarkenausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußischer",
+          "haupt": true,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "Postillon",
+          "beschriftung": "Postillon",
+          "haupt": false,
+          "artikel": "Postillon",
+          "wikidata": "Q596033"
+        }
+      ]
+    },
+    {
+      "mi_nr": "124",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-09-18",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1956-12-31",
+      "anlass": "5. Todestag von Richard Strauss (1864–1949)",
+      "bild_beschreibung": "Komponist und Dirigent",
+      "entwerfer": "Leon Schnell",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1954 124 Richard Strauss.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Richard Strauss",
+          "beschriftung": "Richard Strauss",
+          "haupt": true,
+          "artikel": "Richard Strauss",
+          "wikidata": "Q13894"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Dirigent",
+          "beschriftung": "Dirigent",
+          "haupt": false,
+          "artikel": "Dirigent",
+          "wikidata": "Q158852"
+        }
+      ]
+    },
+    {
+      "mi_nr": "125",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1954-09-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "100. Todestag von August Borsig (1804–1854)",
+      "bild_beschreibung": "Unternehmer, Gründer der Borsig-Werke; Beuth-Denkmal (Detail) von Friedrich Drake (1805–1882)",
+      "entwerfer": "Leon Schnell",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1954 125 August Borsig.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "August Borsig",
+          "beschriftung": "August Borsig",
+          "haupt": true,
+          "artikel": "August Borsig",
+          "wikidata": "Q65271"
+        },
+        {
+          "titel": "Unternehmer",
+          "beschriftung": "Unternehmer",
+          "haupt": false,
+          "artikel": "Unternehmer",
+          "wikidata": "Q131524"
+        },
+        {
+          "titel": "Borsig-Werke",
+          "beschriftung": "Borsig-Werke",
+          "haupt": false,
+          "artikel": "Borsigwerke",
+          "wikidata": "Q894197"
+        },
+        {
+          "titel": "Friedrich Drake",
+          "beschriftung": "Friedrich Drake",
+          "haupt": false,
+          "artikel": "Friedrich Drake",
+          "wikidata": "Q514178"
+        }
+      ]
+    },
+    {
+      "mi_nr": "112",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-01-22",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Dauermarke Berliner Bauten (II)",
+      "bild_beschreibung": "Ausstellungshallen am Funkturm",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 24940000,
+      "commons_datei": "DBPB 1953 112 Berliner Bauten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten (II)",
+          "haupt": true,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        },
+        {
+          "titel": "Messegelände (Berlin)",
+          "beschriftung": "Ausstellungshallen",
+          "haupt": false,
+          "artikel": "Messegelände (Berlin)",
+          "wikidata": "Q708065"
+        },
+        {
+          "titel": "Berliner Funkturm",
+          "beschriftung": "Funkturm",
+          "haupt": false,
+          "artikel": "Berliner Funkturm",
+          "wikidata": "Q699724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "121",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-08-10",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Dauermarken Berliner Bauten (III)",
+      "bild_beschreibung": "Ausstellungshallen am Funkturm",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 42460000,
+      "commons_datei": "DBPB 1954 121 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Messegelände (Berlin)",
+          "beschriftung": "Ausstellungshallen",
+          "haupt": true,
+          "artikel": "Messegelände (Berlin)",
+          "wikidata": "Q708065"
+        },
+        {
+          "titel": "Berliner Funkturm",
+          "beschriftung": "Funkturm",
+          "haupt": false,
+          "artikel": "Berliner Funkturm",
+          "wikidata": "Q699724"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten (III)",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "122",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-09-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Dauermarken Berliner Bauten (III)",
+      "bild_beschreibung": "Amerika-Gedenkbibliothek",
+      "entwerfer": "Görsch",
+      "auflage": 13840000,
+      "commons_datei": "DBPB 1954 122 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Amerika-Gedenkbibliothek",
+          "beschriftung": "Amerika-Gedenkbibliothek",
+          "haupt": true,
+          "artikel": "Amerika-Gedenkbibliothek",
+          "wikidata": "Q467903"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten (III)",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "123",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1954-10-23",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Dauermarken Berliner Bauten (III)",
+      "bild_beschreibung": "Jagdschloss Grunewald",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 9640000,
+      "commons_datei": "DBPB 1954 123 Berliner Bauten.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jagdschloss Grunewald",
+          "beschriftung": "Jagdschloss Grunewald",
+          "haupt": true,
+          "artikel": "Jagdschloss Grunewald",
+          "wikidata": "Q531032"
+        },
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten (III)",
+          "haupt": false,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        }
+      ]
+    }
+  ]
+}

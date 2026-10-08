@@ -1,0 +1,739 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1951,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1951 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1951_der_Deutschen_Post_der_DDR",
+    "revision": 259670669,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 280,
+    "mi_nr_bis": 297,
+    "luecken": [],
+    "ausreisser": [
+      255
+    ],
+    "sondermarken_gezaehlt": 18,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "280",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-02-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-03-31",
+      "anlass": "2. Wintersportmeisterschaften Oberhof 1951",
+      "bild_beschreibung": "Zweierbob auf einer Bobbahn",
+      "entwerfer": "NN",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bobsport",
+          "beschriftung": "Zweierbob",
+          "haupt": true,
+          "artikel": "Bobsport",
+          "wikidata": "Q177275"
+        },
+        {
+          "titel": "Wintersport",
+          "beschriftung": "Wintersport",
+          "haupt": false,
+          "artikel": "Wintersport",
+          "wikidata": "Q204686"
+        },
+        {
+          "titel": "Oberhof",
+          "beschriftung": "Oberhof",
+          "haupt": false,
+          "artikel": "Oberhof",
+          "wikidata": "Q489215"
+        }
+      ]
+    },
+    {
+      "mi_nr": "281",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-02-03",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-03-31",
+      "anlass": "2. Wintersportmeisterschaften Oberhof 1951",
+      "bild_beschreibung": "Skispringer beim Sprung im sog. Vorlagestil",
+      "entwerfer": "NN",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringer",
+          "haupt": true,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        },
+        {
+          "titel": "Skisprung-Technik",
+          "beschriftung": "Vorlagestil",
+          "haupt": false,
+          "artikel": "Skisprungtechnik",
+          "wikidata": "Q5208274"
+        },
+        {
+          "titel": "Wintersport",
+          "beschriftung": "Wintersport",
+          "haupt": false,
+          "artikel": "Wintersport",
+          "wikidata": "Q204686"
+        },
+        {
+          "titel": "Oberhof",
+          "beschriftung": "Oberhof",
+          "haupt": false,
+          "artikel": "Oberhof",
+          "wikidata": "Q489215"
+        }
+      ]
+    },
+    {
+      "mi_nr": "282",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-03-04",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1951",
+      "bild_beschreibung": "Messezeichen \"MM\" vor einer Industrieanlage",
+      "entwerfer": "Egon Pruggmayer",
+      "auflage": 1000000,
+      "commons_datei": "Leipziger Frühjahrsmesse 1951 24.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "283",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-03-04",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1952-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1951",
+      "bild_beschreibung": "Messezeichen \"MM\" vor einer Industrieanlage",
+      "entwerfer": "Egon Pruggmayer",
+      "auflage": 1000000,
+      "commons_datei": "Leipziger Frühjahrsmesse 1951 50.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "284",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-04-22",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Deutsch-Polnische Freundschaft",
+      "bild_beschreibung": "Politiker Wilhelm Pieck und Bolesław Bierut vor einer Landkarte mit der Oder-Neiße-Grenze und einer Friedenstaube",
+      "entwerfer": "Gerhard Martens",
+      "auflage": 1000000,
+      "commons_datei": "BM OderNeisse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": true,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": false,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        },
+        {
+          "titel": "Bolesław Bierut",
+          "beschriftung": "Bolesław Bierut",
+          "haupt": false,
+          "artikel": "Bolesław Bierut",
+          "wikidata": "Q55832"
+        },
+        {
+          "titel": "Oder-Neiße-Grenze",
+          "beschriftung": "Oder-Neiße-Grenze",
+          "haupt": false,
+          "artikel": "Oder-Neiße-Grenze",
+          "wikidata": "Q160928"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "Polnische",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        }
+      ]
+    },
+    {
+      "mi_nr": "285",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-04-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Deutsch-Polnische Freundschaft",
+      "bild_beschreibung": "Politiker Wilhelm Pieck und Boleslav Bierut vor einer Landkarte mit der Oder-Neiße-Grenze und einer Friedenstaube",
+      "entwerfer": "Gerhard Martens",
+      "auflage": 1000000,
+      "commons_datei": "DDR-Briefmarke Oder-Neisse 1951 50.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": true,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Polen",
+          "beschriftung": "Polnische",
+          "haupt": false,
+          "artikel": "Polen",
+          "wikidata": "Q36"
+        }
+      ]
+    },
+    {
+      "mi_nr": "286",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-07-10",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Deutsch-Chinesische Freundschaft",
+      "bild_beschreibung": "Politiker Mao Zedong",
+      "entwerfer": "Gerhard Martens",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mao Zedong",
+          "beschriftung": "Mao Zedong",
+          "haupt": true,
+          "artikel": "Mao Zedong",
+          "wikidata": "Q5816"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Volksrepublik China",
+          "beschriftung": "Chinesische",
+          "haupt": false,
+          "artikel": "Volksrepublik China",
+          "wikidata": "Q148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "287",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-07-10",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Deutsch-Chinesische Freundschaft",
+      "bild_beschreibung": "Landvermessung im Rahmen der Bodenreform",
+      "entwerfer": "Gerhard Martens",
+      "auflage": 1000000,
+      "commons_datei": "DDR-Briefmarke 1951 China 24 Pf.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landesvermessung",
+          "beschriftung": "Landvermessung",
+          "haupt": true,
+          "artikel": "Landesvermessung",
+          "wikidata": "Q1802710"
+        },
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": false,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Volksrepublik China",
+          "beschriftung": "Chinesische",
+          "haupt": false,
+          "artikel": "Volksrepublik China",
+          "wikidata": "Q148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "288",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-07-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Deutsch-Chinesische Freundschaft",
+      "bild_beschreibung": "Politiker Mao Zedong",
+      "entwerfer": "Gerhard Martens",
+      "auflage": 1000000,
+      "commons_datei": "DDR-Briefmarke 1951 Mao Zedong 50 Pf.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": true,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Volksrepublik China",
+          "beschriftung": "Chinesische",
+          "haupt": false,
+          "artikel": "Volksrepublik China",
+          "wikidata": "Q148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "289",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "III. Weltfestspiele der Jugend und Studenten für den Frieden",
+      "bild_beschreibung": "Flaggenhissender Jugendlicher vor dem Brandenburger Tor",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flagge",
+          "beschriftung": "Flagge",
+          "haupt": true,
+          "artikel": "Flagge",
+          "wikidata": "Q14660"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Weltfestspiele",
+          "beschriftung": "Weltfestspiele",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "290",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-03",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "III. Weltfestspiele der Jugend und Studenten für den Frieden",
+      "bild_beschreibung": "Volkstanzgruppe",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        },
+        {
+          "titel": "Weltfestspiele",
+          "beschriftung": "Weltfestspiele",
+          "haupt": false,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "291",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "III. Weltfestspiele der Jugend und Studenten für den Frieden",
+      "bild_beschreibung": "Flaggenhissender Jugendlicher vor dem Brandenburger Tor",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele",
+          "beschriftung": "Weltfestspiele",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "292",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-08-03",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "III. Weltfestspiele der Jugend und Studenten für den Frieden",
+      "bild_beschreibung": "Volkstanzgruppe",
+      "entwerfer": "Kurt Eigler, Bruno Bade",
+      "auflage": 1500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele",
+          "beschriftung": "Weltfestspiele",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        }
+      ]
+    },
+    {
+      "mi_nr": "293",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-09-02",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Erster Fünfjahrplan",
+      "bild_beschreibung": "Ziffer \"5\" vor Hammer, Zirkel und Ähre",
+      "entwerfer": "Georg Koch",
+      "auflage": 10000000,
+      "commons_datei": "DDR-Briefmarke Erster Fünfjahrplan 1951 24.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahresplan",
+          "wikidata": "Q2916326"
+        },
+        {
+          "titel": "Staatswappen der DDR",
+          "beschriftung": "Hammer, Zirkel und Ähre",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "294",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-07",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "80. Geburtstag Karl Liebknechts",
+      "bild_beschreibung": "Karl Liebknecht vor einer roten Fahne",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 5000000,
+      "commons_datei": "DDR-Briefmarke Karl Liebknecht 1951 24.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Liebknecht",
+          "beschriftung": "Karl Liebknecht",
+          "haupt": true,
+          "artikel": "Karl Liebknecht",
+          "wikidata": "Q75886"
+        },
+        {
+          "titel": "Rote Fahne (Symbol)",
+          "beschriftung": "roten Fahne",
+          "haupt": false,
+          "artikel": "Rote Fahne (Symbol)",
+          "wikidata": "Q517327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "295",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-10-28",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Tag der Briefmarke 1951",
+      "bild_beschreibung": "Älterer Philatelist berät einen jungen Sammler",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Philatelist",
+          "beschriftung": "Philatelist",
+          "haupt": false,
+          "artikel": "Philatelist",
+          "wikidata": "Q1475726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "296",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-12-15",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Monat der Deutsch-Sowjetischen Freundschaft",
+      "bild_beschreibung": "Pawel Bykow (Schnelldreher) und Erich Wirth (Initiator der Schnelldrehmethode nach sowjetischem Vorbild in der DDR) vor Symbol der Gesellschaft für Deutsch-Sowjetische Freundschaft (DSF)",
+      "entwerfer": "Erich Gruner, Karl Wolf (Gravur)",
+      "auflage": 2000000,
+      "commons_datei": "DDR-Briefmarke Monat der DSF 1951 12 Pf.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pawel Borissowitsch Bykow",
+          "beschriftung": "Pawel Bykow",
+          "haupt": true,
+          "artikel": "Pawel Borissowitsch Bykow",
+          "wikidata": "Q3408610"
+        },
+        {
+          "titel": "Drehen (Verfahren)",
+          "beschriftung": "Schnelldreher",
+          "haupt": false,
+          "artikel": "Drehen (Verfahren)",
+          "wikidata": "Q258127"
+        },
+        {
+          "titel": "Erich Wirth",
+          "beschriftung": "Erich Wirth",
+          "haupt": false,
+          "artikel": "Erich Wirth",
+          "wikidata": "Q53844550"
+        },
+        {
+          "titel": "Gesellschaft für Deutsch-Sowjetische Freundschaft",
+          "beschriftung": "Gesellschaft für Deutsch-Sowjetische Freundschaft",
+          "haupt": false,
+          "artikel": "Gesellschaft für Deutsch-Sowjetische Freundschaft",
+          "wikidata": "Q453685"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "Sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "297",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1951-12-01",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-01-31",
+      "anlass": "Monat der Deutsch-Sowjetischen Freundschaft",
+      "bild_beschreibung": "Sowjetischer Partei- und Staatsführer Josef Stalin und DDR-Präsident Wilhelm Pieck vor Symbol der Gesellschaft für Deutsch-Sowjetische Freundschaft (DSF)",
+      "entwerfer": "Erich Gruner, Karl Wolf (Gravur)",
+      "auflage": 2000000,
+      "commons_datei": "DDR-Briefmarke DDR-UdSSR Freundschaft 24.JPG",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kommunistische Partei der Sowjetunion",
+          "beschriftung": "Partei-",
+          "haupt": true,
+          "artikel": "Kommunistische Partei der Sowjetunion",
+          "wikidata": "Q79854"
+        },
+        {
+          "titel": "Rat der Volkskommissare der Sowjetunion",
+          "beschriftung": "Staatsführer",
+          "haupt": false,
+          "artikel": "Rat der Volkskommissare der Sowjetunion",
+          "wikidata": "Q2136"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Josef Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Präsident der DDR",
+          "beschriftung": "DDR-Präsident",
+          "haupt": false,
+          "artikel": "Präsident der DDR",
+          "wikidata": "Q2114953"
+        },
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": false,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "Deutsch",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        },
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "Sowjetischen",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "255",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1951-01-03",
+      "wert": "5 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (I), Druck: VEB Deutsche Wertpapierdruckerei (DWD)",
+      "bild_beschreibung": "Porträt von Wilhelm Pieck (Stichtiefdruck)",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": 3000000,
+      "commons_datei": "DDR-Briefmarke Pieck 1951 5 DM.JPG",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        },
+        {
+          "titel": "Stichtiefdruck",
+          "beschriftung": "Stichtiefdruck",
+          "haupt": false,
+          "artikel": "Tiefdruckverfahren",
+          "wikidata": "Q194177"
+        }
+      ]
+    }
+  ]
+}

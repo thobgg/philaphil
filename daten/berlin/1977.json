@@ -1,0 +1,1005 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1977,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1977 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1977_der_Deutschen_Bundespost_Berlin",
+    "revision": 259738215,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 532,
+    "mi_nr_bis": 560,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-01-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Christian Daniel Rauch",
+      "bild_beschreibung": "„Eugenie d'Alton“, Büste von Chr. D. Rauch",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 541.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Christian Daniel Rauch",
+          "beschriftung": "Christian Daniel Rauch",
+          "haupt": true,
+          "artikel": "Christian Daniel Rauch",
+          "wikidata": "Q714972"
+        },
+        {
+          "titel": "Eugenie d'Alton",
+          "beschriftung": "Eugenie d'Alton",
+          "haupt": false,
+          "artikel": "Eugenie d'Alton",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-02-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Todestag von Eduard Gaertner",
+      "bild_beschreibung": "Selbstporträt",
+      "entwerfer": "Daniela von der Horst-Voigt",
+      "auflage": 5130000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 542.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eduard Gaertner",
+          "beschriftung": "Eduard Gaertner",
+          "haupt": true,
+          "artikel": "Eduard Gaertner",
+          "wikidata": "Q880509"
+        }
+      ]
+    },
+    {
+      "mi_nr": "543",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Georg Kolbe",
+      "bild_beschreibung": "Brunnenfigur, Plastik von G. Kolbe",
+      "entwerfer": "Ernst Finke",
+      "auflage": 12120000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 543.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Georg Kolbe",
+          "beschriftung": "Georg Kolbe",
+          "haupt": true,
+          "artikel": "Georg Kolbe",
+          "wikidata": "Q561283"
+        },
+        {
+          "titel": "Plastik (Kunst)",
+          "beschriftung": "Plastik",
+          "haupt": false,
+          "artikel": "Plastik (Kunst)",
+          "wikidata": "Q1078913"
+        }
+      ]
+    },
+    {
+      "mi_nr": "544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1977: Deutsche Schiffe",
+      "bild_beschreibung": "Hansisches Schiff Bremer Kogge",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2876000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hanse",
+          "beschriftung": "Hansisches",
+          "haupt": true,
+          "artikel": "Hanse",
+          "wikidata": "Q42908"
+        },
+        {
+          "titel": "Bremer Kogge",
+          "beschriftung": "Bremer Kogge",
+          "haupt": false,
+          "artikel": "Bremer Kogge",
+          "wikidata": "Q907712"
+        },
+        {
+          "titel": "Schiff",
+          "beschriftung": "Schiff",
+          "haupt": false,
+          "artikel": "Schiff",
+          "wikidata": "Q11446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "545",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1977: Deutsche Schiffe",
+      "bild_beschreibung": "Erstes deutsches Dampfschiff im Transatlantikdienst Helena Sloman",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2871000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dampfschiff",
+          "beschriftung": "Dampfschiff",
+          "haupt": true,
+          "artikel": "Dampfschiff",
+          "wikidata": "Q178193"
+        },
+        {
+          "titel": "Transatlantikliner",
+          "beschriftung": "Transatlantikdienst",
+          "haupt": false,
+          "artikel": "Transatlantikliner",
+          "wikidata": "Q2168617"
+        },
+        {
+          "titel": "Helena Sloman",
+          "beschriftung": "Helena Sloman",
+          "haupt": false,
+          "artikel": "Helena Sloman",
+          "wikidata": "Q1601902"
+        },
+        {
+          "titel": "Schiff",
+          "beschriftung": "Schiff",
+          "haupt": false,
+          "artikel": "Schiff",
+          "wikidata": "Q11446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1977: Deutsche Schiffe",
+      "bild_beschreibung": "Luxus-Passagierschiff „Cap Polonio“",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2872000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Passagierschiff",
+          "beschriftung": "Passagierschiff",
+          "haupt": true,
+          "artikel": "Passagierschiff",
+          "wikidata": "Q2055880"
+        },
+        {
+          "titel": "Cap Polonio",
+          "beschriftung": "Cap Polonio",
+          "haupt": false,
+          "artikel": "Cap Polonio",
+          "wikidata": "Q20995989"
+        },
+        {
+          "titel": "Schiff",
+          "beschriftung": "Schiff",
+          "haupt": false,
+          "artikel": "Schiff",
+          "wikidata": "Q11446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1977: Deutsche Schiffe",
+      "bild_beschreibung": "Massengutfrachter „Widar“",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2855000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Massengutfrachter",
+          "beschriftung": "Massengutfrachter",
+          "haupt": true,
+          "artikel": "Massengutfrachter",
+          "wikidata": "Q15276"
+        },
+        {
+          "titel": "Seereederei Frigga",
+          "beschriftung": "Widar",
+          "haupt": false,
+          "artikel": "Seereederei Frigga",
+          "wikidata": "Q1725178"
+        },
+        {
+          "titel": "Schiff",
+          "beschriftung": "Schiff",
+          "haupt": false,
+          "artikel": "Schiff",
+          "wikidata": "Q11446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-05-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutscher Evangelischer Kirchentag in Berlin",
+      "bild_beschreibung": "Losung und Logo des Kirchentages",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 7000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 548.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Evangelischer Kirchentag",
+          "beschriftung": "Deutscher Evangelischer Kirchentag",
+          "haupt": true,
+          "artikel": "Deutscher Evangelischer Kirchentag",
+          "wikidata": "Q446354"
+        }
+      ]
+    },
+    {
+      "mi_nr": "549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-07-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin (IFA)",
+      "bild_beschreibung": "Telefon von 1905, moderner Fernsprechtischapparat",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6900000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 549.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Telefon",
+          "beschriftung": "Telefon",
+          "haupt": false,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Fernsprechtischapparat",
+          "beschriftung": "Fernsprechtischapparat",
+          "haupt": false,
+          "artikel": "Fernsprechtischapparat",
+          "wikidata": "Q1407370"
+        }
+      ]
+    },
+    {
+      "mi_nr": "550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-07-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsches Patentgesetz",
+      "bild_beschreibung": "Reichspatentamt Berlin-Kreuzberg",
+      "entwerfer": "Ernst Finke",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Patentgesetz (Deutschland)",
+          "beschriftung": "Patentgesetz",
+          "haupt": true,
+          "artikel": "Patentgesetz (Deutschland)",
+          "wikidata": "Q2056721"
+        },
+        {
+          "titel": "Reichspatentamt",
+          "beschriftung": "Reichspatentamt",
+          "haupt": false,
+          "artikel": "Deutsches Patent- und Markenamt",
+          "wikidata": "Q314296"
+        },
+        {
+          "titel": "Berlin-Kreuzberg",
+          "beschriftung": "Berlin-Kreuzberg",
+          "haupt": false,
+          "artikel": "Berlin-Kreuzberg",
+          "wikidata": "Q308928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-07-13",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Kunstausstellung in Berlin",
+      "bild_beschreibung": "„Ohne Titel“, Gemälde von George Grosz",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 6850000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kunstausstellung",
+          "beschriftung": "Kunstausstellung",
+          "haupt": true,
+          "artikel": "Kunstausstellung",
+          "wikidata": "Q667276"
+        },
+        {
+          "titel": "George Grosz",
+          "beschriftung": "George Grosz",
+          "haupt": false,
+          "artikel": "George Grosz",
+          "wikidata": "Q107194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-08-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Wiedereröffnung des Aquariums im Berliner Zoo",
+      "bild_beschreibung": "Picassofisch Rhinecanthus aculeatus",
+      "entwerfer": "Daniela von der Horst-Voigt",
+      "auflage": 18700000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 552.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Picasso-Drückerfisch",
+          "beschriftung": "Picassofisch",
+          "haupt": true,
+          "artikel": "Picasso-Drückerfisch",
+          "wikidata": "Q1331593"
+        },
+        {
+          "titel": "Aquarium Berlin",
+          "beschriftung": "Aquariums",
+          "haupt": false,
+          "artikel": "Aquarium Berlin",
+          "wikidata": "Q317985"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-08-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Wiedereröffnung des Aquariums im Berliner Zoo",
+      "bild_beschreibung": "Löffelstör Polyodon spathula",
+      "entwerfer": "Daniela von der Horst-Voigt",
+      "auflage": 13000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 553.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löffelstör",
+          "beschriftung": "Löffelstör",
+          "haupt": true,
+          "artikel": "Löffelstör",
+          "wikidata": "Q827142"
+        },
+        {
+          "titel": "Aquarium Berlin",
+          "beschriftung": "Aquariums",
+          "haupt": false,
+          "artikel": "Aquarium Berlin",
+          "wikidata": "Q317985"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "554",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-08-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Wiedereröffnung des Aquariums im Berliner Zoo",
+      "bild_beschreibung": "Strahlenschildkröte Testudo radiata",
+      "entwerfer": "Daniela von der Horst-Voigt",
+      "auflage": 11050000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 554.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Strahlenschildkröte",
+          "beschriftung": "Strahlenschildkröte",
+          "haupt": true,
+          "artikel": "Strahlenschildkröte",
+          "wikidata": "Q630954"
+        },
+        {
+          "titel": "Aquarium Berlin",
+          "beschriftung": "Aquariums",
+          "haupt": false,
+          "artikel": "Aquarium Berlin",
+          "wikidata": "Q317985"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-08-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Wiedereröffnung des Aquariums im Berliner Zoo",
+      "bild_beschreibung": "Nashornleguan Cyclura cornuta",
+      "entwerfer": "Daniela von der Horst-Voigt",
+      "auflage": 12250000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 555.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leguane",
+          "beschriftung": "Nashornleguan",
+          "haupt": true,
+          "artikel": "Leguane",
+          "wikidata": "Q235589"
+        },
+        {
+          "titel": "Aquarium Berlin",
+          "beschriftung": "Aquariums",
+          "haupt": false,
+          "artikel": "Aquarium Berlin",
+          "wikidata": "Q317985"
+        },
+        {
+          "titel": "Zoologischer Garten Berlin",
+          "beschriftung": "Berliner Zoo",
+          "haupt": false,
+          "artikel": "Zoologischer Garten Berlin",
+          "wikidata": "Q154828"
+        }
+      ]
+    },
+    {
+      "mi_nr": "556",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-10-13",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1977: Wiesenblumen",
+      "bild_beschreibung": "Margerite Chrysanthemum leucanthemum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 7001000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Margerite",
+          "beschriftung": "Margerite",
+          "haupt": true,
+          "artikel": "Magerwiesen-Margerite",
+          "wikidata": "Q27164"
+        },
+        {
+          "titel": "Wiese (Grünland)",
+          "beschriftung": "Wiesenblumen",
+          "haupt": false,
+          "artikel": "Wiese (Grünland)",
+          "wikidata": "Q7777019"
+        }
+      ]
+    },
+    {
+      "mi_nr": "557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-10-13",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1977: Wiesenblumen",
+      "bild_beschreibung": "Sumpfdotterblume Caltha palustris",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6932000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sumpfdotterblume",
+          "beschriftung": "Sumpfdotterblume",
+          "haupt": true,
+          "artikel": "Sumpfdotterblume",
+          "wikidata": "Q147192"
+        },
+        {
+          "titel": "Wiese (Grünland)",
+          "beschriftung": "Wiesenblumen",
+          "haupt": false,
+          "artikel": "Wiese (Grünland)",
+          "wikidata": "Q7777019"
+        }
+      ]
+    },
+    {
+      "mi_nr": "558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-10-13",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1977: Wiesenblumen",
+      "bild_beschreibung": "Esparsette Onobrychis viciaefolia",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8652000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Esparsetten",
+          "beschriftung": "Esparsette",
+          "haupt": true,
+          "artikel": "Esparsetten",
+          "wikidata": "Q156932"
+        },
+        {
+          "titel": "Wiese (Grünland)",
+          "beschriftung": "Wiesenblumen",
+          "haupt": false,
+          "artikel": "Wiese (Grünland)",
+          "wikidata": "Q7777019"
+        }
+      ]
+    },
+    {
+      "mi_nr": "559",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1977-10-13",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1977: Wiesenblumen",
+      "bild_beschreibung": "Vergissmeinnicht Myosotis palustris",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4481000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vergissmeinnicht",
+          "beschriftung": "Vergissmeinnicht",
+          "haupt": true,
+          "artikel": "Vergissmeinnicht",
+          "wikidata": "Q147149"
+        },
+        {
+          "titel": "Wiese (Grünland)",
+          "beschriftung": "Wiesenblumen",
+          "haupt": false,
+          "artikel": "Wiese (Grünland)",
+          "wikidata": "Q7777019"
+        }
+      ]
+    },
+    {
+      "mi_nr": "560",
+      "block": "Block 6",
+      "art": "Sondermarke",
+      "ausgabetag": "1977-11-10",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weihnachtsmarke 1977",
+      "bild_beschreibung": "Maria mit dem Kinde, Glasfensterausschnitt aus St. Gereon in Köln",
+      "entwerfer": "Claus Hansmann",
+      "auflage": 6202000,
+      "commons_datei": "Stamps of Germany (Berlin) 1977, MiNr 560.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Marienleben",
+          "beschriftung": "Maria mit dem Kinde",
+          "haupt": false,
+          "artikel": "Marienleben",
+          "wikidata": "Q1446512"
+        },
+        {
+          "titel": "Bleiglasfenster",
+          "beschriftung": "Glasfensterausschnitt",
+          "haupt": false,
+          "artikel": "Bleiglasfenster",
+          "wikidata": "Q488094"
+        },
+        {
+          "titel": "St. Gereon",
+          "beschriftung": "St. Gereon",
+          "haupt": false,
+          "artikel": "Gereonskirche",
+          "wikidata": "Q1511138"
+        },
+        {
+          "titel": "Köln",
+          "beschriftung": "Köln",
+          "haupt": false,
+          "artikel": "Köln",
+          "wikidata": "Q365"
+        }
+      ]
+    },
+    {
+      "mi_nr": "532",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Glücksburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Glücksburg (Glücksburg)",
+          "beschriftung": "Schloss Glücksburg",
+          "haupt": true,
+          "artikel": "Schloss Glücksburg (Glücksburg)",
+          "wikidata": "Q829299"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "533",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Pfaueninsel Berlin",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pfaueninsel",
+          "beschriftung": "Schloss Pfaueninsel Berlin",
+          "haupt": true,
+          "artikel": "Pfaueninsel",
+          "wikidata": "Q677973"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "534",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-04-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Ludwigstein",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Ludwigstein",
+          "beschriftung": "Burg Ludwigstein",
+          "haupt": true,
+          "artikel": "Burg Ludwigstein",
+          "wikidata": "Q883884"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "535",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-02-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Eltz",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Eltz",
+          "beschriftung": "Burg Eltz",
+          "haupt": true,
+          "artikel": "Burg Eltz",
+          "wikidata": "Q153426"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "536",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-05-17",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Neuschwanstein",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Neuschwanstein",
+          "beschriftung": "Schloss Neuschwanstein",
+          "haupt": true,
+          "artikel": "Schloss Neuschwanstein",
+          "wikidata": "Q4152"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "537",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-01-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Marksburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marksburg",
+          "beschriftung": "Marksburg",
+          "haupt": true,
+          "artikel": "Marksburg",
+          "wikidata": "Q257210"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "538",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-05-17",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Wasserschloss Mespelbrunn",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Mespelbrunn",
+          "beschriftung": "Wasserschloss Mespelbrunn",
+          "haupt": true,
+          "artikel": "Schloss Mespelbrunn",
+          "wikidata": "Q573708"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "539",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-02-16",
+      "wert": "190",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Pfaueninsel Berlin",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pfaueninsel",
+          "beschriftung": "Schloss Pfaueninsel Berlin",
+          "haupt": true,
+          "artikel": "Pfaueninsel",
+          "wikidata": "Q677973"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "540",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1977-01-13",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Bürresheim",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Bürresheim",
+          "beschriftung": "Schloss Bürresheim",
+          "haupt": true,
+          "artikel": "Schloss Bürresheim",
+          "wikidata": "Q322433"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3097 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1953,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1953 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1953_der_Deutschen_Post_der_DDR",
+    "revision": 259672159,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 342,
+    "mi_nr_bis": 422,
+    "luecken": [
+      411,
+      413,
+      418
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 53,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "344",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Eisenhüttenkombinat Ost, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "ArcelorMittal Eisenhüttenstadt",
+          "beschriftung": "Eisenhüttenkombinat Ost",
+          "haupt": true,
+          "artikel": "ArcelorMittal Eisenhüttenstadt",
+          "wikidata": "Q631845"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "345",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Kommunistisches Manifest; Marx und Engels",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kommunistisches Manifest",
+          "beschriftung": "Kommunistisches Manifest",
+          "haupt": true,
+          "artikel": "Manifest der Kommunistischen Partei",
+          "wikidata": "Q40591"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "346",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Kreml in Moskau, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moskauer Kreml",
+          "beschriftung": "Kreml",
+          "haupt": true,
+          "artikel": "Moskauer Kreml",
+          "wikidata": "Q133274"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "347",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Demonstrationszug",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Demonstration",
+          "beschriftung": "Demonstration",
+          "haupt": true,
+          "artikel": "Demonstration",
+          "wikidata": "Q175331"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "348",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-03-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Karl Marx liest aus seinem Werk „Das Kapital“",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Kapital",
+          "beschriftung": "Das Kapital",
+          "haupt": true,
+          "artikel": "Das Kapital",
+          "wikidata": "Q58784"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "349",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-03-14",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Karl Marx, Philosoph und Nationalökonom",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": true,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "350",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Karl Marx am Rednerpult",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "351",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Karl Marx und Friedrich Engels",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "352",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Arbeiter, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-03-14",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "70. Todestag von Karl Marx",
+      "bild_beschreibung": "Stalinallee, Karl-Marx-Medaillon",
+      "entwerfer": "Theo Thomas und Kurt Eigler",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Stalinallee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-03-28",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "85. Geburtstag von Maxim Gorki",
+      "bild_beschreibung": "Maxim Gorki, russischer Schriftsteller",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Maxim Gorki",
+          "beschriftung": "Maxim Gorki",
+          "haupt": true,
+          "artikel": "Maxim Gorki",
+          "wikidata": "Q12706"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-02",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Internationale Radfernfahrt für den Frieden Prag – Berlin – Warschau",
+      "bild_beschreibung": "Radrennfahrer auf der Strecke",
+      "entwerfer": "unbekannt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1953",
+          "beschriftung": "Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1953",
+          "wikidata": "Q1307482"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-02",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Internationale Radfernfahrt für den Frieden Prag – Berlin – Warschau",
+      "bild_beschreibung": "Radrennfahrer auf der Strecke",
+      "entwerfer": "unbekannt",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1953",
+          "beschriftung": "Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1953",
+          "wikidata": "Q1307482"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-02",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Internationale Radfernfahrt für den Frieden Prag – Berlin – Warschau",
+      "bild_beschreibung": "Radrennfahrer auf der Strecke",
+      "entwerfer": "unbekannt",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Friedensfahrt 1953",
+          "beschriftung": "Internationale Radfernfahrt für den Frieden",
+          "haupt": true,
+          "artikel": "Internationale Friedensfahrt 1953",
+          "wikidata": "Q1307482"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Warschau",
+          "beschriftung": "Warschau",
+          "haupt": false,
+          "artikel": "Warschau",
+          "wikidata": "Q270"
+        }
+      ]
+    },
+    {
+      "mi_nr": "358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-06",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "700 Jahre Stadt Frankfurt a. d. Oder",
+      "bild_beschreibung": "Heinrich von Kleist, Dichter; dessen Geburtshaus, Kleisttheater",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Kleist",
+          "beschriftung": "Heinrich von Kleist",
+          "haupt": true,
+          "artikel": "Heinrich von Kleist",
+          "wikidata": "Q28494"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Frankfurt (Oder)",
+          "beschriftung": "Kleisttheater",
+          "haupt": false,
+          "artikel": "Frankfurt (Oder)",
+          "wikidata": "Q4024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "359",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "700 Jahre Stadt Frankfurt a. d. Oder",
+      "bild_beschreibung": "Marienkirche",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marienkirche Frankfurt (Oder)",
+          "beschriftung": "Marienkirche",
+          "haupt": true,
+          "artikel": "Marienkirche Frankfurt (Oder)",
+          "wikidata": "Q186149"
+        },
+        {
+          "titel": "Frankfurt (Oder)",
+          "beschriftung": "Frankfurt a. d. Oder",
+          "haupt": false,
+          "artikel": "Frankfurt (Oder)",
+          "wikidata": "Q4024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "360",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-06",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "700 Jahre Stadt Frankfurt a. d. Oder",
+      "bild_beschreibung": "Blick auf die Altstadt von der Löweninsel, Friedensglocke",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedensglocke (Frankfurt (Oder))",
+          "beschriftung": "Friedensglocke",
+          "haupt": true,
+          "artikel": "Friedensglocke (Frankfurt (Oder))",
+          "wikidata": "Q1456745"
+        },
+        {
+          "titel": "Frankfurt (Oder)",
+          "beschriftung": "Frankfurt a. d. Oder",
+          "haupt": false,
+          "artikel": "Frankfurt (Oder)",
+          "wikidata": "Q4024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "361",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-06",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "700 Jahre Stadt Frankfurt a. d. Oder",
+      "bild_beschreibung": "Rathaus, Stadtwappen",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frankfurt (Oder)",
+          "beschriftung": "Stadtwappen",
+          "haupt": true,
+          "artikel": "Frankfurt (Oder)",
+          "wikidata": "Q4024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-29",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Messegelände, Bagger",
+      "entwerfer": "Erich Gruner",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bagger",
+          "beschriftung": "Bagger",
+          "haupt": true,
+          "artikel": "Bagger",
+          "wikidata": "Q182661"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-29",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Messegelände, Kartoffelrodemaschine",
+      "entwerfer": "Erich Gruner",
+      "auflage": 1500000,
+      "commons_datei": "DDR 1953 381 Leipziger Herbstmesse Kartoffelrodemaschine.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kartoffelroder",
+          "beschriftung": "Kartoffelrodemaschine",
+          "haupt": true,
+          "artikel": "Kartoffelroder",
+          "wikidata": "Q2120998"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-09-16",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "200. Todestag berühmter deutscher Baumeister",
+      "bild_beschreibung": "Georg Wenzeslaus von Knobelsdorff, Staatsoper Berlin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Wenzeslaus von Knobelsdorff",
+          "beschriftung": "Georg Wenzeslaus von Knobelsdorff",
+          "haupt": true,
+          "artikel": "Georg Wenzeslaus von Knobelsdorff",
+          "wikidata": "Q65901"
+        },
+        {
+          "titel": "Staatsoper Unter den Linden",
+          "beschriftung": "Staatsoper Berlin",
+          "haupt": false,
+          "artikel": "Staatsoper Unter den Linden",
+          "wikidata": "Q312576"
+        },
+        {
+          "titel": "Baumeister",
+          "beschriftung": "Baumeister",
+          "haupt": false,
+          "artikel": "Baumeister",
+          "wikidata": "Q1340643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-09-16",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "200. Todestag berühmter deutscher Baumeister",
+      "bild_beschreibung": "Balthasar Neumann, Residenz Würzburg",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Balthasar Neumann",
+          "beschriftung": "Balthasar Neumann",
+          "haupt": true,
+          "artikel": "Balthasar Neumann",
+          "wikidata": "Q61349"
+        },
+        {
+          "titel": "Würzburger Residenz",
+          "beschriftung": "Residenz Würzburg",
+          "haupt": false,
+          "artikel": "Würzburger Residenz",
+          "wikidata": "Q156316"
+        },
+        {
+          "titel": "Baumeister",
+          "beschriftung": "Baumeister",
+          "haupt": false,
+          "artikel": "Baumeister",
+          "wikidata": "Q1340643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-16",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "400. Todestag von Lucas Cranach dem Älteren",
+      "bild_beschreibung": "Lucas Cranach der Ältere, Maler und Zeichner",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Lucas Cranach der Ältere",
+          "beschriftung": "Lucas Cranach dem Älteren",
+          "haupt": true,
+          "artikel": "Lucas Cranach der Ältere",
+          "wikidata": "Q191748"
+        },
+        {
+          "titel": "Malerei",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichner",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        }
+      ]
+    },
+    {
+      "mi_nr": "385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-23",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Ein Jahr Deutsches Rotes Kreuz in der DDR",
+      "bild_beschreibung": "Erste-Hilfe-Leistung im Sanitätsraum eines Industriebetriebes",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutsches Rotes Kreuz in der DDR",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        },
+        {
+          "titel": "Erste Hilfe",
+          "beschriftung": "Erste-Hilfe-Leistung",
+          "haupt": false,
+          "artikel": "Erste Hilfe",
+          "wikidata": "Q133981"
+        }
+      ]
+    },
+    {
+      "mi_nr": "386 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 A)",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Briefmarkenblock ausgegeben:; Die einzelnen Motive dieses Blocks unterscheiden sich nicht von den Michel-Nummern 344, 346, 348, 349, 350 und 351.; Der Block wurde mit einem Aufschlag zum Gesamtpreis von 2,50 DM ausgegeben.; Eisenhüttenkombinat Ost, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Mark (DDR)",
+          "beschriftung": "DM",
+          "haupt": false,
+          "artikel": "Mark (DDR)",
+          "wikidata": "Q157011"
+        },
+        {
+          "titel": "ArcelorMittal Eisenhüttenstadt",
+          "beschriftung": "Eisenhüttenkombinat Ost",
+          "haupt": false,
+          "artikel": "ArcelorMittal Eisenhüttenstadt",
+          "wikidata": "Q631845"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "387 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 A)",
+      "bild_beschreibung": "Kreml in Moskau, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moskauer Kreml",
+          "beschriftung": "Kreml",
+          "haupt": true,
+          "artikel": "Moskauer Kreml",
+          "wikidata": "Q133274"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "388 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 A)",
+      "bild_beschreibung": "Karl Marx liest aus seinem Werk „Das Kapital“",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Kapital",
+          "beschriftung": "Das Kapital",
+          "haupt": true,
+          "artikel": "Das Kapital",
+          "wikidata": "Q58784"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "389 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 A)",
+      "bild_beschreibung": "Karl Marx, Philosoph und Nationalökonom",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": true,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "390 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 A)",
+      "bild_beschreibung": "Karl Marx am Rednerpult",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "391 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 A)",
+      "bild_beschreibung": "Karl Marx und Friedrich Engels",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "386 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 B)",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als geschnittener Briefmarkenblock ausgegeben:; Die einzelnen Motive dieses Blocks unterscheiden sich nicht von den Michel-Nummern 344, 346, 348, 349, 350 und 351.; Der Block wurde mit einem Aufschlag zum Gesamtpreis von 2,50 DM ausgegeben.; Eisenhüttenkombinat Ost, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Mark (DDR)",
+          "beschriftung": "DM",
+          "haupt": false,
+          "artikel": "Mark (DDR)",
+          "wikidata": "Q157011"
+        },
+        {
+          "titel": "ArcelorMittal Eisenhüttenstadt",
+          "beschriftung": "Eisenhüttenkombinat Ost",
+          "haupt": false,
+          "artikel": "ArcelorMittal Eisenhüttenstadt",
+          "wikidata": "Q631845"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "387 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 B)",
+      "bild_beschreibung": "Kreml in Moskau, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moskauer Kreml",
+          "beschriftung": "Kreml",
+          "haupt": true,
+          "artikel": "Moskauer Kreml",
+          "wikidata": "Q133274"
+        },
+        {
+          "titel": "Moskau",
+          "beschriftung": "Moskau",
+          "haupt": false,
+          "artikel": "Moskau",
+          "wikidata": "Q649"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "388 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 B)",
+      "bild_beschreibung": "Karl Marx liest aus seinem Werk „Das Kapital“",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Kapital",
+          "beschriftung": "Das Kapital",
+          "haupt": true,
+          "artikel": "Das Kapital",
+          "wikidata": "Q58784"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "389 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 B)",
+      "bild_beschreibung": "Karl Marx, Philosoph und Nationalökonom",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": true,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "390 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 B)",
+      "bild_beschreibung": "Karl Marx am Rednerpult",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "391 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 8 B)",
+      "bild_beschreibung": "Karl Marx und Friedrich Engels",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "392 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 A)",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden zusammen als Briefmarkenblock ausgegeben:; Die einzelnen Motive dieses Blocks unterscheiden sich nicht von den Michel-Nummern 345, 347, 352, 353.; Der Block wurde mit einem Aufschlag zum Gesamtpreis von 2,50 DM ausgegeben.; „Kommunistisches Manifest“, Marx und Engels",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Mark (DDR)",
+          "beschriftung": "DM",
+          "haupt": false,
+          "artikel": "Mark (DDR)",
+          "wikidata": "Q157011"
+        },
+        {
+          "titel": "Manifest der Kommunistischen Partei",
+          "beschriftung": "Kommunistisches Manifest",
+          "haupt": false,
+          "artikel": "Manifest der Kommunistischen Partei",
+          "wikidata": "Q40591"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "393 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 A)",
+      "bild_beschreibung": "Demonstrationszug",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "394 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 A)",
+      "bild_beschreibung": "Arbeiter, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": true,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "395 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-12-10",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 A)",
+      "bild_beschreibung": "Stalinallee, Karl-Marx-Medaillon",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Stalinallee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "392 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 B)",
+      "bild_beschreibung": "Diese und die folgenden drei Marken wurden zusammen als geschnittener Briefmarkenblock ausgegeben:; Die einzelnen Motive dieses Blocks unterscheiden sich nicht von den Michel-Nummern 345, 347, 352, 353.; Der Block wurde mit einem Aufschlag zum Gesamtpreis von 2,50 DM ausgegeben.; „Kommunistisches Manifest“, Marx und Engels",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittener",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Mark (DDR)",
+          "beschriftung": "DM",
+          "haupt": false,
+          "artikel": "Mark (DDR)",
+          "wikidata": "Q157011"
+        },
+        {
+          "titel": "Manifest der Kommunistischen Partei",
+          "beschriftung": "Kommunistisches Manifest",
+          "haupt": false,
+          "artikel": "Manifest der Kommunistischen Partei",
+          "wikidata": "Q40591"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "393 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 B)",
+      "bild_beschreibung": "Demonstrationszug",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "394 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 B)",
+      "bild_beschreibung": "Arbeiter, Fahne mit Kopfbildern von Marx, Engels, Lenin und Stalin",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenin",
+          "beschriftung": "Lenin",
+          "haupt": true,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Josef Stalin",
+          "beschriftung": "Stalin",
+          "haupt": false,
+          "artikel": "Josef Stalin",
+          "wikidata": "Q855"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "395 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-24",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Karl-Marx-Jahr 1953 (Briefmarkenblock 9 B)",
+      "bild_beschreibung": "Stalinallee, Karl-Marx-Medaillon",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Stalinallee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl-Marx-Jahr",
+          "haupt": false,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "396",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-25",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Landzusteller mit Fahrrad übergibt Postsendung",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        },
+        {
+          "titel": "Landpost",
+          "beschriftung": "Landzusteller",
+          "haupt": false,
+          "artikel": "Landpost",
+          "wikidata": "Q1292155"
+        },
+        {
+          "titel": "Fahrrad",
+          "beschriftung": "Fahrrad",
+          "haupt": false,
+          "artikel": "Fahrrad",
+          "wikidata": "Q11442"
+        },
+        {
+          "titel": "Postsendung",
+          "beschriftung": "Postsendung",
+          "haupt": false,
+          "artikel": "Postsendung",
+          "wikidata": "Q2106340"
+        }
+      ]
+    },
+    {
+      "mi_nr": "397",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-02",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "75 Jahre Leipziger Zoo",
+      "bild_beschreibung": "Löwenpaar",
+      "entwerfer": "Erich Gruner",
+      "auflage": 2300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Zoo Leipzig",
+          "beschriftung": "Leipziger Zoo",
+          "haupt": true,
+          "artikel": "Zoo Leipzig",
+          "wikidata": "Q220055"
+        },
+        {
+          "titel": "Löwe",
+          "beschriftung": "Löwe",
+          "haupt": false,
+          "artikel": "Löwe",
+          "wikidata": "Q140"
+        }
+      ]
+    },
+    {
+      "mi_nr": "398 X",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-09",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Deutsche Patrioten",
+      "bild_beschreibung": "Thomas Müntzer, Theologe und Revolutionär, Anführer im Bauernkrieg in Thüringen; kämpfende Bauern mit Bundschuhflagge",
+      "entwerfer": "Bruno Bade und Kurt Eigler",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thomas Müntzer",
+          "beschriftung": "Thomas Müntzer",
+          "haupt": true,
+          "artikel": "Thomas Müntzer",
+          "wikidata": "Q153981"
+        },
+        {
+          "titel": "Deutscher Bauernkrieg",
+          "beschriftung": "Bauernkrieg in Thüringen",
+          "haupt": false,
+          "artikel": "Deutscher Bauernkrieg",
+          "wikidata": "Q154031"
+        },
+        {
+          "titel": "Bundschuh-Bewegung",
+          "beschriftung": "Bundschuhflagge",
+          "haupt": false,
+          "artikel": "Bundschuh-Bewegung",
+          "wikidata": "Q786772"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patrioten",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        }
+      ]
+    },
+    {
+      "mi_nr": "399 X",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-30",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Deutsche Patrioten",
+      "bild_beschreibung": "Heinrich Friedrich Karl vom und zum Stein, preußischer Staatsmann; Pergamentrolle mit von ihm herbeigeführten Reformen",
+      "entwerfer": "Bruno Bade und Kurt Eigler",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Friedrich Karl vom und zum Stein",
+          "beschriftung": "Heinrich Friedrich Karl vom und zum Stein",
+          "haupt": true,
+          "artikel": "Heinrich Friedrich Karl vom und zum Stein",
+          "wikidata": "Q213542"
+        },
+        {
+          "titel": "Preußen",
+          "beschriftung": "preußischer",
+          "haupt": false,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        },
+        {
+          "titel": "Pergament",
+          "beschriftung": "Pergament",
+          "haupt": false,
+          "artikel": "Pergament",
+          "wikidata": "Q226697"
+        },
+        {
+          "titel": "Preußische Reformen",
+          "beschriftung": "Reformen",
+          "haupt": false,
+          "artikel": "Preußische Reformen",
+          "wikidata": "Q561363"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patrioten",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        }
+      ]
+    },
+    {
+      "mi_nr": "400 X",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Deutsche Patrioten",
+      "bild_beschreibung": "Ferdinand von Schill, preußischer Offizier und Freiheitskämpfer; angreifende Husaren",
+      "entwerfer": "Bruno Bade und Kurt Eigler",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ferdinand von Schill",
+          "beschriftung": "Ferdinand von Schill",
+          "haupt": true,
+          "artikel": "Ferdinand von Schill",
+          "wikidata": "Q72343"
+        },
+        {
+          "titel": "Husaren",
+          "beschriftung": "Husaren",
+          "haupt": false,
+          "artikel": "Husaren",
+          "wikidata": "Q191713"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patrioten",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        }
+      ]
+    },
+    {
+      "mi_nr": "401 X",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-09",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Deutsche Patrioten",
+      "bild_beschreibung": "Gebhard Leberecht von Blücher, preußischer Generalfeldmarschall und Heerführer der Befreiungskriege; Angriff preußischer und russischer Truppen",
+      "entwerfer": "Bruno Bade und Kurt Eigler",
+      "auflage": 2100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gebhard Leberecht von Blücher",
+          "beschriftung": "Gebhard Leberecht von Blücher",
+          "haupt": true,
+          "artikel": "Gebhard Leberecht von Blücher",
+          "wikidata": "Q153522"
+        },
+        {
+          "titel": "Generalfeldmarschall",
+          "beschriftung": "Generalfeldmarschall",
+          "haupt": false,
+          "artikel": "Generalfeldmarschall",
+          "wikidata": "Q7820253"
+        },
+        {
+          "titel": "Befreiungskriege",
+          "beschriftung": "Befreiungskriege",
+          "haupt": false,
+          "artikel": "Befreiungskriege",
+          "wikidata": "Q814235"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patrioten",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        }
+      ]
+    },
+    {
+      "mi_nr": "402 X",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-30",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Deutsche Patrioten",
+      "bild_beschreibung": "Studentendemonstration auf der Wartburg 1817",
+      "entwerfer": "Bruno Bade und Kurt Eigler",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburgfest",
+          "beschriftung": "Studentendemonstration auf der Wartburg 1817",
+          "haupt": true,
+          "artikel": "Wartburgfest",
+          "wikidata": "Q574362"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patrioten",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        }
+      ]
+    },
+    {
+      "mi_nr": "403 X",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-30",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "Deutsche Patrioten",
+      "bild_beschreibung": "Barrikadenkämpfe während der Revolution von 1848/49",
+      "entwerfer": "Bruno Bade und Kurt Eigler",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Revolution 1848/1849",
+          "beschriftung": "Revolution von 1848/49",
+          "haupt": true,
+          "artikel": "Deutsche Revolution 1848/1849",
+          "wikidata": "Q3699"
+        },
+        {
+          "titel": "Patriotismus",
+          "beschriftung": "Patrioten",
+          "haupt": false,
+          "artikel": "Patriotismus",
+          "wikidata": "Q6241"
+        }
+      ]
+    },
+    {
+      "mi_nr": "404",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-11-13",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-06-30",
+      "anlass": "125. Todestag von Franz Schubert",
+      "bild_beschreibung": "Franz Schubert, österreichischer Komponist",
+      "entwerfer": "Kurt Eigler",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Franz Schubert",
+          "beschriftung": "Franz Schubert",
+          "haupt": true,
+          "artikel": "Franz Schubert",
+          "wikidata": "Q7312"
+        },
+        {
+          "titel": "Österreich",
+          "beschriftung": "österreichischer",
+          "haupt": false,
+          "artikel": "Österreich",
+          "wikidata": "Q40"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "342",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-02-02",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (III)",
+      "bild_beschreibung": "Wilhelm Pieck, erster Präsident der DDR",
+      "entwerfer": "Kurt Eigler",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "343",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-01-03",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Präsident Wilhelm Pieck (III)",
+      "bild_beschreibung": "Wilhelm Pieck, erster Präsident der DDR",
+      "entwerfer": "Kurt Eigler",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "beschriftung": "Präsident Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Präsident Wilhelm Pieck (Briefmarkenserie)",
+          "wikidata": "Q14551958"
+        }
+      ]
+    },
+    {
+      "mi_nr": "362",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Ausgabe im Offsetdruck; Steinkohlenhauer",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 01 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Offsetdruck",
+          "beschriftung": "Offsetdruck",
+          "haupt": true,
+          "artikel": "Offsetdruck",
+          "wikidata": "Q190408"
+        },
+        {
+          "titel": "Hauer (Bergbau)",
+          "beschriftung": "Steinkohlenhauer",
+          "haupt": false,
+          "artikel": "Hauer (Bergbau)",
+          "wikidata": "Q1589210"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "363",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Frau am Schaltrad",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 05 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "364",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Arbeiter aus Ost und West reichen sich die Hände",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 06 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arbeiter",
+          "beschriftung": "Arbeiter",
+          "haupt": true,
+          "artikel": "Arbeiter",
+          "wikidata": "Q12713481"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "365",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Lernende Jugend, dahinter Bild von Karl Marx",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 08 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "366",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Arbeiter tauschen Erfahrungen aus",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 10 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "367",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Bauer, Handwerker, Intellektueller",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 12 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirt",
+          "beschriftung": "Bauer",
+          "haupt": true,
+          "artikel": "Landwirt",
+          "wikidata": "Q131512"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        },
+        {
+          "titel": "Intellektueller",
+          "beschriftung": "Intellektueller",
+          "haupt": false,
+          "artikel": "Intellektueller",
+          "wikidata": "Q58968"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "368",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Frau am Fernschreiber",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 15 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fernschreiber",
+          "beschriftung": "Fernschreiber",
+          "haupt": true,
+          "artikel": "Fernschreiber",
+          "wikidata": "Q66196"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "369",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Stahlschmelzer, Hüttenwerk",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 16 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenwerk",
+          "beschriftung": "Hüttenwerk",
+          "haupt": true,
+          "artikel": "Eisenwerk",
+          "wikidata": "Q10832530"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "370",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Werktätige vor Kurhaus Bad Elster",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 20 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bad Elster",
+          "beschriftung": "Bad Elster",
+          "haupt": true,
+          "artikel": "Bad Elster",
+          "wikidata": "Q46856"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "371",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Karl-Marx-Allee (Stalinallee), Berlin",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 24 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Karl-Marx-Allee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "372",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Arbeiter bei der Rekonstruktion einer Dampflokomotive BR 52",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 25 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DR-Baureihe 52",
+          "beschriftung": "BR 52",
+          "haupt": true,
+          "artikel": "DR-Baureihe 52",
+          "wikidata": "Q222769"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "373",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Volkstanzgruppe",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 30 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "374",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "ehemalige Deutsche Sporthalle in der Karl-Marx-Allee (Stalinallee), Berlin",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 35 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Deutsche Sporthalle",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "375",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Chemiker, Chemiewerk",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 40 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Chemische Industrie",
+          "beschriftung": "Chemiewerk",
+          "haupt": false,
+          "artikel": "Chemische Industrie",
+          "wikidata": "Q207652"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "376",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Zwinger, Dresden",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 48 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "377",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Hochseeschiff auf Stapel",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 60 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Hochseeschiff",
+          "haupt": true,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapel",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "378",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Mähdrescher",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 80 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mähdrescher",
+          "beschriftung": "Mähdrescher",
+          "haupt": true,
+          "artikel": "Mähdrescher",
+          "wikidata": "Q26886"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "379",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-10",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (I)",
+      "bild_beschreibung": "Familie, Hochhaus an der Weberwiese, Berlin",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 84 Pfennig, Offsetdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochhaus an der Weberwiese",
+          "beschriftung": "Hochhaus an der Weberwiese",
+          "haupt": true,
+          "artikel": "Hochhaus an der Weberwiese",
+          "wikidata": "Q1428812"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "405",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Ausgabe im Buchdruck; Steinkohlenhauer",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 01 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": true,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Hauer (Bergbau)",
+          "beschriftung": "Steinkohlenhauer",
+          "haupt": false,
+          "artikel": "Hauer (Bergbau)",
+          "wikidata": "Q1589210"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "406",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-12-28",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Frau am Schaltrad",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 05 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "407",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Arbeiter aus Ost und West reichen sich die Hände",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 06 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arbeiter",
+          "beschriftung": "Arbeiter",
+          "haupt": true,
+          "artikel": "Arbeiter",
+          "wikidata": "Q12713481"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "408",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-12-28",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Lernende Jugend, dahinter Bild von Karl Marx",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 08 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "409",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Arbeiter tauschen Erfahrungen aus",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 10 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "410",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Bauer, Handwerker, Intellektueller",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 12 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landwirt",
+          "beschriftung": "Bauer",
+          "haupt": true,
+          "artikel": "Landwirt",
+          "wikidata": "Q131512"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        },
+        {
+          "titel": "Intellektueller",
+          "beschriftung": "Intellektueller",
+          "haupt": false,
+          "artikel": "Intellektueller",
+          "wikidata": "Q58968"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "412",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Stahlschmelzer, Hüttenwerk",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 16 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eisenwerk",
+          "beschriftung": "Hüttenwerk",
+          "haupt": true,
+          "artikel": "Eisenwerk",
+          "wikidata": "Q10832530"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "414",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-12-28",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Karl-Marx-Allee (Stalinallee), Berlin",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 24 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Karl-Marx-Allee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "415",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Arbeiter bei der Rekonstruktion einer Dampflokomotive BR 52",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 25 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DR-Baureihe 52",
+          "beschriftung": "BR 52",
+          "haupt": true,
+          "artikel": "DR-Baureihe 52",
+          "wikidata": "Q222769"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "416",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Volkstanzgruppe",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 30 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "417",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "ehemalige Deutsche Sporthalle in der Karl-Marx-Allee (Stalinallee), Berlin",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 35 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Deutsche Sporthalle",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "419",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-12-28",
+      "wert": "48",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Zwinger, Dresden",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 48 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "420",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Hochseeschiff auf Stapel",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 60 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Hochseeschiff",
+          "haupt": true,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapel",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "421",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-11-21",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Mähdrescher",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 80 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mähdrescher",
+          "beschriftung": "Mähdrescher",
+          "haupt": true,
+          "artikel": "Mähdrescher",
+          "wikidata": "Q26886"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "422",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-12-28",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1959-03-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (II)",
+      "bild_beschreibung": "Familie, Hochhaus an der Weberwiese, Berlin",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps GDR, Fuenfjahrplan, 84 Pfennig, Buchdruck 1953, 1957.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochhaus an der Weberwiese",
+          "beschriftung": "Hochhaus an der Weberwiese",
+          "haupt": true,
+          "artikel": "Hochhaus an der Weberwiese",
+          "wikidata": "Q1428812"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        }
+      ]
+    }
+  ]
+}

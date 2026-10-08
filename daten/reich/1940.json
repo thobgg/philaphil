@@ -1,0 +1,804 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1940,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1940 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1940_der_Deutschen_Reichspost",
+    "revision": 268668602,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 739,
+    "mi_nr_bis": 761,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 23,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-03-03",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Deutsche Bücherei in Leipzig und Büste von Johannes Gutenberg",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Bücherei",
+          "beschriftung": "Deutsche Bücherei",
+          "haupt": true,
+          "artikel": "Deutsche Bücherei",
+          "wikidata": "Q1202265"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Büste",
+          "beschriftung": "Büste",
+          "haupt": false,
+          "artikel": "Büste",
+          "wikidata": "Q241045"
+        },
+        {
+          "titel": "Johannes Gutenberg",
+          "beschriftung": "Johannes Gutenberg",
+          "haupt": false,
+          "artikel": "Johannes Gutenberg",
+          "wikidata": "Q8958"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "740",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-03-03",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Krochhochhaus und, links davon, Kaufhaus Bamberger & Hertz (bis 1938) am Augustusplatz in Leipzig",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krochhochhaus",
+          "beschriftung": "Krochhochhaus",
+          "haupt": true,
+          "artikel": "Krochhochhaus",
+          "wikidata": "Q1789670"
+        },
+        {
+          "titel": "Novemberpogrome 1938",
+          "beschriftung": "1938",
+          "haupt": false,
+          "artikel": "Novemberpogrome 1938",
+          "wikidata": "Q36756"
+        },
+        {
+          "titel": "Augustusplatz",
+          "beschriftung": "Augustusplatz",
+          "haupt": false,
+          "artikel": "Augustusplatz",
+          "wikidata": "Q880646"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "741",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-03-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Marktplatz und Altes Rathaus in Leipzig",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Markt (Leipzig)",
+          "beschriftung": "Marktplatz",
+          "haupt": true,
+          "artikel": "Markt (Leipzig)",
+          "wikidata": "Q531625"
+        },
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": false,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "742",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-03-03",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Messegelände in Leipzig",
+      "entwerfer": "Engelhardt",
+      "auflage": null,
+      "commons_datei": "DR 1940 742 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Messe Leipzig",
+          "beschriftung": "Messegelände",
+          "haupt": true,
+          "artikel": "Alte Messe Leipzig",
+          "wikidata": "Q435985"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "743",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-03-28",
+      "wert": "24+76",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Nationale Briefmarkenausstellung in Berlin",
+      "bild_beschreibung": "Hof der Neuen Reichskanzlei",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": "DR 1940 743 Briefmarkenausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Neue Reichskanzlei",
+          "beschriftung": "Neuen Reichskanzlei",
+          "haupt": false,
+          "artikel": "Neue Reichskanzlei",
+          "wikidata": "Q14524204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "744",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-04-10",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "51. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": "DR 1940 744 Adolf Hitler.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-04-30",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Tag der Arbeit",
+      "bild_beschreibung": "Ritter mit Schwert",
+      "entwerfer": "A. Grögerchen",
+      "auflage": null,
+      "commons_datei": "DR 1940 745 Tag der Arbeit.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erster Mai",
+          "beschriftung": "Tag der Arbeit",
+          "haupt": true,
+          "artikel": "Erster Mai",
+          "wikidata": "Q47499"
+        },
+        {
+          "titel": "Ritter",
+          "beschriftung": "Ritter",
+          "haupt": false,
+          "artikel": "Ritter",
+          "wikidata": "Q102083"
+        },
+        {
+          "titel": "Schwert",
+          "beschriftung": "Schwert",
+          "haupt": false,
+          "artikel": "Schwert",
+          "wikidata": "Q12791"
+        }
+      ]
+    },
+    {
+      "mi_nr": "746",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-06-22",
+      "wert": "25+100",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Rennen um Das Blaue Band in Hamburg",
+      "bild_beschreibung": "Springreiten",
+      "entwerfer": "E. Stahl",
+      "auflage": null,
+      "commons_datei": "DR 1940 746 Das Blaue Band.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        },
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": false,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        }
+      ]
+    },
+    {
+      "mi_nr": "747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-07-20",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "7. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "Altertümlicher Kampfwagen mit 3 Pferden",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "das Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        }
+      ]
+    },
+    {
+      "mi_nr": "748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-07-25",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Eingliederung von Eupen, Malmedy und Moresnet in das Deutsche Reich",
+      "bild_beschreibung": "Blick auf Malmedy",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1940 748 Eingliederung von Eupen, Malmedy und Moresnet.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eupen",
+          "beschriftung": "Eupen",
+          "haupt": true,
+          "artikel": "Eupen",
+          "wikidata": "Q151831"
+        },
+        {
+          "titel": "Malmedy",
+          "beschriftung": "Malmedy",
+          "haupt": false,
+          "artikel": "Malmedy",
+          "wikidata": "Q159838"
+        },
+        {
+          "titel": "Plombières",
+          "beschriftung": "Moresnet",
+          "haupt": false,
+          "artikel": "Plombières",
+          "wikidata": "Q710606"
+        }
+      ]
+    },
+    {
+      "mi_nr": "749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-07-25",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Eingliederung von Eupen, Malmedy und Moresnet in das Deutsche Reich",
+      "bild_beschreibung": "Blick auf Eupen",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1940 749 Eingliederung von Eupen, Malmedy und Moresnet.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eupen",
+          "beschriftung": "Eupen",
+          "haupt": true,
+          "artikel": "Eupen",
+          "wikidata": "Q151831"
+        },
+        {
+          "titel": "Malmedy",
+          "beschriftung": "Malmedy",
+          "haupt": false,
+          "artikel": "Malmedy",
+          "wikidata": "Q159838"
+        },
+        {
+          "titel": "Plombières",
+          "beschriftung": "Moresnet",
+          "haupt": false,
+          "artikel": "Plombières",
+          "wikidata": "Q710606"
+        }
+      ]
+    },
+    {
+      "mi_nr": "750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-08-09",
+      "wert": "6+94",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "50 Jahre Helgoland zum Deutschen Reich gehörend",
+      "bild_beschreibung": "Die roten Felsen von Helgoland",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Helgoland",
+          "beschriftung": "Helgoland",
+          "haupt": true,
+          "artikel": "Helgoland",
+          "wikidata": "Q3038"
+        }
+      ]
+    },
+    {
+      "mi_nr": "751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Artushof Danzig",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Artushof Danzig",
+          "beschriftung": "Artushof Danzig",
+          "haupt": true,
+          "artikel": "Artushof Danzig",
+          "wikidata": "Q715753"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "752",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Rathaus, Thorn",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Toruń",
+          "beschriftung": "Thorn",
+          "haupt": true,
+          "artikel": "Toruń",
+          "wikidata": "Q47554"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "5+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Burg Pfalzgrafenstein bei Kaub",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Pfalzgrafenstein",
+          "beschriftung": "Burg Pfalzgrafenstein",
+          "haupt": true,
+          "artikel": "Burg Pfalzgrafenstein",
+          "wikidata": "Q696951"
+        },
+        {
+          "titel": "Kaub",
+          "beschriftung": "Kaub",
+          "haupt": false,
+          "artikel": "Kaub",
+          "wikidata": "Q540860"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "754",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Stadttheater in Posen",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posen",
+          "beschriftung": "Posen",
+          "haupt": true,
+          "artikel": "Posen",
+          "wikidata": "Q268"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "755",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Heidelberger Schloss",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heidelberger Schloss",
+          "beschriftung": "Heidelberger Schloss",
+          "haupt": true,
+          "artikel": "Heidelberger Schloss",
+          "wikidata": "Q327265"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "756",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Porta Nigra in Trier",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porta Nigra",
+          "beschriftung": "Porta Nigra",
+          "haupt": true,
+          "artikel": "Porta Nigra",
+          "wikidata": "Q152339"
+        },
+        {
+          "titel": "Trier",
+          "beschriftung": "Trier",
+          "haupt": false,
+          "artikel": "Trier",
+          "wikidata": "Q3138"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "757",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Deutsches Theater in Prag",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Státní opera Praha",
+          "beschriftung": "Deutsches Theater",
+          "haupt": true,
+          "artikel": "Staatsoper Prag",
+          "wikidata": "Q1886083"
+        },
+        {
+          "titel": "Prag",
+          "beschriftung": "Prag",
+          "haupt": false,
+          "artikel": "Prag",
+          "wikidata": "Q1085"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Bremer Rathaus",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bremer Rathaus",
+          "beschriftung": "Bremer Rathaus",
+          "haupt": true,
+          "artikel": "Bremer Rathaus",
+          "wikidata": "Q19479"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-05",
+      "wert": "40+35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "Winterhilfswerk, Bauwerke",
+      "bild_beschreibung": "Historisches Rathaus Münster (Westfalen)",
+      "entwerfer": "Lothar Wüst",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Historisches Rathaus Münster",
+          "beschriftung": "Historisches Rathaus Münster",
+          "haupt": true,
+          "artikel": "Rathaus Münster",
+          "wikidata": "Q538437"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-26",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "50 Jahre Diphtherie-Serum",
+      "bild_beschreibung": "Emil Adolf von Behring (1854–1917)",
+      "entwerfer": "Staatsdruckerei Wien",
+      "auflage": null,
+      "commons_datei": "DR 1940 760 Emil Adolf von Behring.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Emil Adolf von Behring",
+          "beschriftung": "Emil Adolf von Behring",
+          "haupt": true,
+          "artikel": "Emil von Behring",
+          "wikidata": "Q76425"
+        },
+        {
+          "titel": "Diphtherie",
+          "beschriftung": "Diphtherie",
+          "haupt": false,
+          "artikel": "Diphtherie",
+          "wikidata": "Q134649"
+        }
+      ]
+    },
+    {
+      "mi_nr": "761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1940-11-26",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1941-12-31",
+      "anlass": "50 Jahre Diphtherie-Serum",
+      "bild_beschreibung": "Emil Adolf von Behring, Entdecker des Diphtherieserums",
+      "entwerfer": "Staatsdruckerei Wien",
+      "auflage": null,
+      "commons_datei": "DR 1940 761 Emil Adolf von Behring.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diphtherie",
+          "beschriftung": "Diphtherie",
+          "haupt": true,
+          "artikel": "Diphtherie",
+          "wikidata": "Q134649"
+        }
+      ]
+    }
+  ]
+}

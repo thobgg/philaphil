@@ -1,0 +1,755 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1953,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1953 der Deutschen Post Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1953_der_Deutschen_Post_Berlin",
+    "revision": 264967343,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 92,
+    "mi_nr_bis": 113,
+    "luecken": [
+      95,
+      97,
+      112
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 18,
+    "sondermarken_laut_einleitung": 18
+  },
+  "marken": [
+    {
+      "mi_nr": "92",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-01-24",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Otto Lilienthal (1848–1896), Pionier der Flugzeug-Entwicklung",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1952 92 Otto Lilienthal.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Otto Lilienthal",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Geschichte der Luftfahrt",
+          "beschriftung": "Flugzeug-Entwicklung",
+          "haupt": false,
+          "artikel": "Geschichte der Luftfahrt",
+          "wikidata": "Q471043"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "93",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-06-24",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Walther Rathenau (1867–1922), Industrieller, Schriftsteller und Politiker (Reichsaußenminister)",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1952 93 Walther Rathenau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walther Rathenau",
+          "beschriftung": "Walther Rathenau",
+          "haupt": true,
+          "artikel": "Walther Rathenau",
+          "wikidata": "Q135645"
+        },
+        {
+          "titel": "Industrieller",
+          "beschriftung": "Industrieller",
+          "haupt": false,
+          "artikel": "Industrieller",
+          "wikidata": "Q6606110"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Auswärtiges Amt",
+          "beschriftung": "Reichsaußenminister",
+          "haupt": false,
+          "artikel": "Auswärtiges Amt",
+          "wikidata": "Q56034"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "94",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-03-07",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Theodor Fontane (1819–1898), deutscher Schriftsteller, Apotheker, Vertreter des poetischen Realismus",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1952 94 Theodor Fontane.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Fontane",
+          "beschriftung": "Theodor Fontane",
+          "haupt": true,
+          "artikel": "Theodor Fontane",
+          "wikidata": "Q76632"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Apotheker",
+          "beschriftung": "Apotheker",
+          "haupt": false,
+          "artikel": "Apotheker",
+          "wikidata": "Q105186"
+        },
+        {
+          "titel": "Realismus (Kunst)",
+          "beschriftung": "poetischen Realismus",
+          "haupt": false,
+          "artikel": "Realismus (Kunst)",
+          "wikidata": "Q10857409"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "96",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-01-24",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Rudolf Virchow (1821–1902), Arzt an der Berliner Charité, gilt als Gründer der modernen Pathologie, Politiker",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1952 96 Rudolf Virchow.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudolf Virchow",
+          "beschriftung": "Rudolf Virchow",
+          "haupt": true,
+          "artikel": "Rudolf Virchow",
+          "wikidata": "Q76432"
+        },
+        {
+          "titel": "Arzt",
+          "beschriftung": "Arzt",
+          "haupt": false,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        },
+        {
+          "titel": "Pathologie",
+          "beschriftung": "Pathologie",
+          "haupt": false,
+          "artikel": "Pathologie",
+          "wikidata": "Q7208"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "98",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Karl Friedrich Schinkel (1781–1841), preußischer Architekt, Baumeister, Stadtplaner und Maler",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1952 98 Karl Friedrich Schinkel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Friedrich Schinkel",
+          "beschriftung": "Karl Friedrich Schinkel",
+          "haupt": true,
+          "artikel": "Karl Friedrich Schinkel",
+          "wikidata": "Q151759"
+        },
+        {
+          "titel": "Architekt",
+          "beschriftung": "Architekt",
+          "haupt": false,
+          "artikel": "Architekt",
+          "wikidata": "Q42973"
+        },
+        {
+          "titel": "Baumeister",
+          "beschriftung": "Baumeister",
+          "haupt": false,
+          "artikel": "Baumeister",
+          "wikidata": "Q1340643"
+        },
+        {
+          "titel": "Stadtplanung",
+          "beschriftung": "Stadtplaner",
+          "haupt": false,
+          "artikel": "Stadtplanung",
+          "wikidata": "Q69883"
+        },
+        {
+          "titel": "Malerei",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "99",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-01-24",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Max Planck (1858–1947), Physiker und Nobelpreisträger (1918), Begründer der Quantenphysik",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1952 99 Max Planck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Planck",
+          "beschriftung": "Max Planck",
+          "haupt": true,
+          "artikel": "Max Planck",
+          "wikidata": "Q9021"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Nobelpreis",
+          "beschriftung": "Nobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis",
+          "wikidata": "Q7191"
+        },
+        {
+          "titel": "Quantenphysik",
+          "beschriftung": "Quantenphysik",
+          "haupt": false,
+          "artikel": "Quantenphysik",
+          "wikidata": "Q1144457"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "100",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-05-02",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (I)",
+      "bild_beschreibung": "Wilhelm von Humboldt (1767–1835), Gelehrter, Staatsmann und Mitbegründer der Universität Berlin",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1952 100 Wilhelm von Humboldt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm von Humboldt",
+          "beschriftung": "Wilhelm von Humboldt",
+          "haupt": true,
+          "artikel": "Wilhelm von Humboldt",
+          "wikidata": "Q77888"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "101",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-07-28",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (III), Klöppel Mitte",
+      "entwerfer": "Leon Schnell",
+      "auflage": 2000000,
+      "commons_datei": "DBPB 1953 101 Freiheitsglocke mitte.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kirchenglocke",
+          "beschriftung": "Klöppel",
+          "haupt": true,
+          "artikel": "Kirchenglocke",
+          "wikidata": "Q3500690"
+        },
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": false,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "102",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-10-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (III), Klöppel Mitte",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1700000,
+      "commons_datei": "DBPB 1953 102 Freiheitsglocke mitte.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "103",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-09-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (III), Klöppel Mitte",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1953 103 Freiheitsglocke mitte.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "104",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-09-26",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (III), Klöppel Mitte",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1953 104 Freiheitsglocke mitte.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "105",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-09-26",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Einweihung der Freiheitsglocke im Rathaus Schöneberg",
+      "bild_beschreibung": "Freiheitsglocke (III), Klöppel Mitte",
+      "entwerfer": "Leon Schnell",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1953 105 Freiheitsglocke mitte.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiheitsglocke in Berlin",
+          "beschriftung": "Freiheitsglocke",
+          "haupt": true,
+          "artikel": "Freiheitsglocke in Berlin",
+          "wikidata": "Q313897"
+        },
+        {
+          "titel": "Rathaus Schöneberg",
+          "beschriftung": "Rathaus Schöneberg",
+          "haupt": false,
+          "artikel": "Rathaus Schöneberg",
+          "wikidata": "Q695194"
+        }
+      ]
+    },
+    {
+      "mi_nr": "106",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-09",
+      "wert": "4+1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Kaiser-Wilhelm-Gedächtniskirche",
+      "bild_beschreibung": "die Kirche auf dem Breitscheidplatz vor der Zerstörung; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 1200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kirche (Bauwerk)",
+          "beschriftung": "Kirche",
+          "haupt": true,
+          "artikel": "Kirche (Bauwerk)",
+          "wikidata": "Q16970"
+        },
+        {
+          "titel": "Breitscheidplatz",
+          "beschriftung": "Breitscheidplatz",
+          "haupt": false,
+          "artikel": "Breitscheidplatz",
+          "wikidata": "Q698370"
+        },
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": false,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "107",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-09",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Kaiser-Wilhelm-Gedächtniskirche",
+      "bild_beschreibung": "die Kirche auf dem Breitscheidplatz vor der Zerstörung; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "108",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-09",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Kaiser-Wilhelm-Gedächtniskirche",
+      "bild_beschreibung": "die Kirche auf dem Breitscheidplatz nach der Zerstörung im Zweiten Weltkrieg; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 450000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zweiter Weltkrieg",
+          "beschriftung": "Zweiten Weltkrieg",
+          "haupt": true,
+          "artikel": "Zweiter Weltkrieg",
+          "wikidata": "Q362"
+        },
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": false,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "109",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-09",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Kaiser-Wilhelm-Gedächtniskirche",
+      "bild_beschreibung": "die Kirche auf dem Breitscheidplatz nach der Zerstörung im Zweiten Weltkrieg; Zuschlagmarke",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "beschriftung": "Kaiser-Wilhelm-Gedächtniskirche",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Gedächtniskirche",
+          "wikidata": "Q153951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "110",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Erinnerung an den Aufstand vom 17. Juni 1953",
+      "bild_beschreibung": "gefesselte Hände sprengen die Ketten und Inschrift 17. Juni",
+      "entwerfer": "unbekannt",
+      "auflage": 3000000,
+      "commons_datei": "DBPB 1953 110 17.Juni.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kette",
+          "beschriftung": "Kette",
+          "haupt": true,
+          "artikel": "Kette",
+          "wikidata": "Q2397485"
+        },
+        {
+          "titel": "Aufstand des 17. Juni",
+          "beschriftung": "Aufstand vom 17. Juni 1953",
+          "haupt": false,
+          "artikel": "Aufstand vom 17. Juni 1953",
+          "wikidata": "Q157682"
+        }
+      ]
+    },
+    {
+      "mi_nr": "111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1953-08-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1955-12-31",
+      "anlass": "Erinnerung an den Aufstand vom 17. Juni 1953",
+      "bild_beschreibung": "Brandenburger Tor und Inschrift 17. Juni",
+      "entwerfer": "unbekannt",
+      "auflage": 2000000,
+      "commons_datei": "DBPB 1953 111 17.Juni.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Aufstand des 17. Juni",
+          "beschriftung": "Aufstand vom 17. Juni 1953",
+          "haupt": false,
+          "artikel": "Aufstand vom 17. Juni 1953",
+          "wikidata": "Q157682"
+        }
+      ]
+    },
+    {
+      "mi_nr": "113",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1953-08-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1958-12-31",
+      "anlass": "Dauermarken Berliner Bauten (II)",
+      "bild_beschreibung": "Olympiastadion",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 61090000,
+      "commons_datei": "DBPB 1953 113 Berliner Bauten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Bauten (Briefmarkenserie)",
+          "beschriftung": "Berliner Bauten (II)",
+          "haupt": true,
+          "artikel": "Berliner Bauten",
+          "wikidata": "Q821431"
+        },
+        {
+          "titel": "Olympiastadion Berlin",
+          "beschriftung": "Olympiastadion",
+          "haupt": false,
+          "artikel": "Olympiastadion Berlin",
+          "wikidata": "Q151374"
+        }
+      ]
+    }
+  ]
+}

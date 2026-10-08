@@ -1,0 +1,1117 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1936,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1936 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1936_der_Deutschen_Reichspost",
+    "revision": 257722860,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 603,
+    "mi_nr_bis": 642,
+    "luecken": [
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631
+    ],
+    "ausreisser": [
+      527
+    ],
+    "sondermarken_gezaehlt": 32,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-01-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "10 Jahre Deutsche Luft Hansa",
+      "bild_beschreibung": "Heinkel He 70",
+      "entwerfer": "Karl Diebitsch",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Luft Hansa",
+          "beschriftung": "Deutsche Luft Hansa",
+          "haupt": true,
+          "artikel": "Deutsche Lufthansa (Deutsches Reich)",
+          "wikidata": "Q290162"
+        },
+        {
+          "titel": "Heinkel He 70",
+          "beschriftung": "Heinkel He 70",
+          "haupt": false,
+          "artikel": "Heinkel He 70",
+          "wikidata": "Q705063"
+        }
+      ]
+    },
+    {
+      "mi_nr": "604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-02-15",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "50 Jahre Kraftwagen und Eröffnung der „Internationalen Automobil- und Motorrad-Ausstellung in Berlin“",
+      "bild_beschreibung": "Gottlieb Daimler (1834–1900)",
+      "entwerfer": "Karl Diebitsch",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gottlieb Daimler",
+          "beschriftung": "Gottlieb Daimler",
+          "haupt": true,
+          "artikel": "Gottlieb Daimler",
+          "wikidata": "Q57098"
+        },
+        {
+          "titel": "Internationale Automobil-Ausstellung",
+          "beschriftung": "Internationalen Automobil- und Motorrad-Ausstellung",
+          "haupt": false,
+          "artikel": "Internationale Automobil-Ausstellung",
+          "wikidata": "Q57583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-02-15",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "50 Jahre Kraftwagen und Eröffnung der „Internationalen Automobil- und Motorrad-Ausstellung in Berlin“",
+      "bild_beschreibung": "Carl Benz (1844–1929)",
+      "entwerfer": "Karl Diebitsch",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Benz",
+          "beschriftung": "Carl Benz",
+          "haupt": true,
+          "artikel": "Carl Benz",
+          "wikidata": "Q40224"
+        },
+        {
+          "titel": "Internationale Automobil-Ausstellung",
+          "beschriftung": "Internationalen Automobil- und Motorrad-Ausstellung",
+          "haupt": false,
+          "artikel": "Internationale Automobil-Ausstellung",
+          "wikidata": "Q57583"
+        }
+      ]
+    },
+    {
+      "mi_nr": "606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-03-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Flugpost",
+      "bild_beschreibung": "Luftschiff Hindenburg LZ 129",
+      "entwerfer": "Karl Diebitsch",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftschiff",
+          "beschriftung": "Luftschiff",
+          "haupt": true,
+          "artikel": "Luftschiff",
+          "wikidata": "Q133585"
+        },
+        {
+          "titel": "LZ 129",
+          "beschriftung": "LZ 129",
+          "haupt": false,
+          "artikel": "LZ 129",
+          "wikidata": "Q217964"
+        },
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpost",
+          "haupt": false,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-03-16",
+      "wert": "75",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Flugpost",
+      "bild_beschreibung": "Luftschiff Hindenburg LZ 129",
+      "entwerfer": "Karl Diebitsch",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpost",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-04",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "250. Todestag von Otto von Guericke (1602–1686)",
+      "bild_beschreibung": "Politiker, Jurist, Naturwissenschaftler, Physiker, Tierarzt und Erfinder",
+      "entwerfer": "Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto von Guericke",
+          "beschriftung": "Otto von Guericke",
+          "haupt": true,
+          "artikel": "Otto von Guericke",
+          "wikidata": "Q60095"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Jurist",
+          "beschriftung": "Jurist",
+          "haupt": false,
+          "artikel": "Jurist",
+          "wikidata": "Q185351"
+        },
+        {
+          "titel": "Naturwissenschaftler",
+          "beschriftung": "Naturwissenschaftler",
+          "haupt": false,
+          "artikel": "Naturwissenschaft",
+          "wikidata": "Q7991"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Tierarzt",
+          "beschriftung": "Tierarzt",
+          "haupt": false,
+          "artikel": "Tierarzt",
+          "wikidata": "Q202883"
+        },
+        {
+          "titel": "Erfinder",
+          "beschriftung": "Erfinder",
+          "haupt": false,
+          "artikel": "Erfinder",
+          "wikidata": "Q205375"
+        }
+      ]
+    },
+    {
+      "mi_nr": "609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Turner am Reck",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turner",
+          "haupt": true,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Reck",
+          "beschriftung": "Reck",
+          "haupt": false,
+          "artikel": "Reck",
+          "wikidata": "Q623270"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Turmspringerin",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserspringen",
+          "beschriftung": "Turmspringerin",
+          "haupt": true,
+          "artikel": "Wasserspringen",
+          "wikidata": "Q7735"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "611",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Fußballspieler",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fußball",
+          "beschriftung": "Fußball",
+          "haupt": true,
+          "artikel": "Fußball",
+          "wikidata": "Q2736"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Speerwerfer",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Speerwurf",
+          "beschriftung": "Speerwerfer",
+          "haupt": true,
+          "artikel": "Speerwurf",
+          "wikidata": "Q178108"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Fackelläufer",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Olympischer Fackellauf",
+          "beschriftung": "Fackelläufer",
+          "haupt": true,
+          "artikel": "Olympischer Fackellauf",
+          "wikidata": "Q9352238"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "614",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Fechter",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fechten",
+          "beschriftung": "Fechter",
+          "haupt": true,
+          "artikel": "Fechten",
+          "wikidata": "Q12100"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "615",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Rudern",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudern",
+          "beschriftung": "Rudern",
+          "haupt": true,
+          "artikel": "Rudern",
+          "wikidata": "Q21368803"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-05-09",
+      "wert": "40+35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Olympische Sommerspiele 1936",
+      "bild_beschreibung": "Jagdspringer",
+      "entwerfer": "Max Eschle",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Jagdspringer",
+          "haupt": true,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1936",
+          "beschriftung": "Olympische Sommerspiele 1936",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1936",
+          "wikidata": "Q8150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-03",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Gemeindekongress, Berlin und München",
+      "bild_beschreibung": "Mutter mit Kindern",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Gemeindekongress, Berlin und München",
+      "bild_beschreibung": "Mutter mit Kindern",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Gemeindekongress, Berlin und München",
+      "bild_beschreibung": "Mutter mit Kindern",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-03",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Gemeindekongress, Berlin und München",
+      "bild_beschreibung": "Mutter mit Kindern",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-22",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "3. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "Drei Jockeys auf ihren Pferden während des Rennens",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        }
+      ]
+    },
+    {
+      "mi_nr": "622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-30",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Weltkongress Freizeit und Erholung",
+      "bild_beschreibung": "Sinnbild des Kongresses",
+      "entwerfer": "Sepp Semar",
+      "auflage": null,
+      "commons_datei": "DR 1936 622 Weltkongress Freizeit und Erholung.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "623",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-06-30",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Weltkongress Freizeit und Erholung",
+      "bild_beschreibung": "Sinnbild des Kongresses",
+      "entwerfer": "Sepp Semar",
+      "auflage": null,
+      "commons_datei": "DR 1936 623 Weltkongress Freizeit und Erholung.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "632",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-09-03",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "8. Nürnberger Reichsparteitag",
+      "bild_beschreibung": "gereckte Hände unterm Hakenkreuz",
+      "entwerfer": "Sepp Semar",
+      "auflage": null,
+      "commons_datei": "DR 1936 632 Reichsparteitag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hakenkreuz",
+          "beschriftung": "Hakenkreuz",
+          "haupt": true,
+          "artikel": "Swastika",
+          "wikidata": "Q45513"
+        },
+        {
+          "titel": "Reichsparteitag",
+          "beschriftung": "Reichsparteitag",
+          "haupt": false,
+          "artikel": "Reichsparteitag",
+          "wikidata": "Q160225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "633",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-09-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "8. Nürnberger Reichsparteitag",
+      "bild_beschreibung": "gereckte Hände unterm Hakenkreuz",
+      "entwerfer": "Sepp Semar",
+      "auflage": null,
+      "commons_datei": "DR 1936 633 Reichsparteitag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsparteitag",
+          "beschriftung": "Reichsparteitag",
+          "haupt": true,
+          "artikel": "Reichsparteitag",
+          "wikidata": "Q160225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "634",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-09-21",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Reichsautobahn 26 München bis zur Reichsgrenze",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundesautobahn 8",
+          "beschriftung": "Reichsautobahn 26",
+          "haupt": true,
+          "artikel": "Bundesautobahn 8",
+          "wikidata": "Q9020"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "635",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-10-26",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Reichsluftfahrtministerium in Berlin",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsluftfahrtministerium",
+          "beschriftung": "Reichsluftfahrtministerium",
+          "haupt": true,
+          "artikel": "Reichsluftfahrtministerium",
+          "wikidata": "Q698081"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "636",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-10-26",
+      "wert": "5+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Ehrenmal in Nürnberg",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kriegerdenkmal",
+          "beschriftung": "Ehrenmal",
+          "haupt": true,
+          "artikel": "Kriegerdenkmal",
+          "wikidata": "Q575759"
+        },
+        {
+          "titel": "Nürnberg",
+          "beschriftung": "Nürnberg",
+          "haupt": false,
+          "artikel": "Nürnberg",
+          "wikidata": "Q2090"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "637",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-09-21",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Saalebrücke Rudolphstein",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saalebrücke Rudolphstein",
+          "beschriftung": "Saalebrücke Rudolphstein",
+          "haupt": true,
+          "artikel": "Saalebrücke Rudolphstein",
+          "wikidata": "Q2208999"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "638",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-10-26",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Deutschlandhalle in Berlin",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutschlandhalle",
+          "beschriftung": "Deutschlandhalle",
+          "haupt": true,
+          "artikel": "Deutschlandhalle",
+          "wikidata": "Q685725"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "639",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-09-21",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Deutsche Alpenstraße am Mauthäusl",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Alpenstraße",
+          "beschriftung": "Deutsche Alpenstraße",
+          "haupt": true,
+          "artikel": "Deutsche Alpenstraße",
+          "wikidata": "Q1202042"
+        },
+        {
+          "titel": "Schneizlreuth",
+          "beschriftung": "Mauthäusl",
+          "haupt": false,
+          "artikel": "Schneizlreuth",
+          "wikidata": "Q253867"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "640",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-10-26",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Führerhaus in München",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Führerbau",
+          "beschriftung": "Führerhaus",
+          "haupt": true,
+          "artikel": "Führerbau",
+          "wikidata": "Q571767"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "641",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-09-21",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Mangfallbrücke",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mangfallbrücke",
+          "beschriftung": "Mangfallbrücke",
+          "haupt": true,
+          "artikel": "Mangfallbrücke",
+          "wikidata": "Q1297841"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "642",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1936-10-26",
+      "wert": "40+35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-06-30",
+      "anlass": "Winterhilfswerk, Bauten",
+      "bild_beschreibung": "Haus der deutschen Kunst in München",
+      "entwerfer": "Georg Fritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haus der Kunst",
+          "beschriftung": "Haus der deutschen Kunst",
+          "haupt": true,
+          "artikel": "Haus der Kunst",
+          "wikidata": "Q697782"
+        },
+        {
+          "titel": "Winterhilfswerk des Deutschen Volkes",
+          "beschriftung": "Winterhilfswerk",
+          "haupt": false,
+          "artikel": "Winterhilfswerk des Deutschen Volkes",
+          "wikidata": "Q523404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "527",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1936-02",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-05",
+      "anlass": "Hindenburg-Medaillon III",
+      "bild_beschreibung": "Porträt Paul von Hindenburgs, Wasserzeichen 4 (Hakenkreuze)",
+      "entwerfer": "Karl Goetz",
+      "auflage": null,
+      "commons_datei": "DR 1936 527 Paul von Hindenburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hindenburg-Medaillon",
+          "beschriftung": "Hindenburg-Medaillon",
+          "haupt": true,
+          "artikel": "Hindenburg-Medaillon",
+          "wikidata": "Q1619270"
+        },
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": false,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        },
+        {
+          "titel": "Wasserzeichen (Briefmarkenpapier)",
+          "beschriftung": "Wasserzeichen",
+          "haupt": false,
+          "artikel": "Wasserzeichen (Briefmarkenpapier)",
+          "wikidata": "Q18632671"
+        },
+        {
+          "titel": "Swastika",
+          "beschriftung": "Hakenkreuze",
+          "haupt": false,
+          "artikel": "Swastika",
+          "wikidata": "Q45513"
+        }
+      ]
+    }
+  ]
+}

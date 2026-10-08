@@ -1,0 +1,1200 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1971,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1971 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1971_der_Deutschen_Bundespost_Berlin",
+    "revision": 259355885,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 360,
+    "mi_nr_bis": 417,
+    "luecken": [
+      361,
+      362,
+      369,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      395,
+      396,
+      403,
+      404,
+      406,
+      407,
+      408,
+      410,
+      411
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 25,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (I): Schienenfahrzeuge",
+      "bild_beschreibung": "Vorortbahn (1925)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 8200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Schienenfahrzeug",
+          "beschriftung": "Schienenfahrzeug",
+          "haupt": false,
+          "artikel": "Schienenfahrzeug",
+          "wikidata": "Q1414135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (I): Schienenfahrzeuge",
+      "bild_beschreibung": "Straßenbahn (1890)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 25000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Straßenbahn Berlin",
+          "beschriftung": "Straßenbahn",
+          "haupt": true,
+          "artikel": "Straßenbahn Berlin",
+          "wikidata": "Q99668"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Schienenfahrzeug",
+          "beschriftung": "Schienenfahrzeug",
+          "haupt": false,
+          "artikel": "Schienenfahrzeug",
+          "wikidata": "Q1414135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (I): Schienenfahrzeuge",
+      "bild_beschreibung": "Pferde-Straßenbahn (1880)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Schienenfahrzeug",
+          "beschriftung": "Schienenfahrzeug",
+          "haupt": false,
+          "artikel": "Schienenfahrzeug",
+          "wikidata": "Q1414135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-01-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (I): Schienenfahrzeuge",
+      "bild_beschreibung": "Stadtbahn (1932)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Stadtbahn",
+          "beschriftung": "Stadtbahn",
+          "haupt": true,
+          "artikel": "Berliner Stadtbahn",
+          "wikidata": "Q694223"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Schienenfahrzeug",
+          "beschriftung": "Schienenfahrzeug",
+          "haupt": false,
+          "artikel": "Schienenfahrzeug",
+          "wikidata": "Q1414135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-03",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (I): Schienenfahrzeuge",
+      "bild_beschreibung": "Straßenbahn (1950)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": true,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Schienenfahrzeug",
+          "beschriftung": "Schienenfahrzeug",
+          "haupt": false,
+          "artikel": "Schienenfahrzeug",
+          "wikidata": "Q1414135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-01-18",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Verkehrsmittel (I): Schienenfahrzeuge",
+      "bild_beschreibung": "U-Bahn (1971)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "U-Bahn Berlin",
+          "beschriftung": "U-Bahn",
+          "haupt": true,
+          "artikel": "U-Bahn Berlin",
+          "wikidata": "Q68646"
+        },
+        {
+          "titel": "Verkehrsmittel",
+          "beschriftung": "Verkehrsmittel",
+          "haupt": false,
+          "artikel": "Verkehrsmittel",
+          "wikidata": "Q106839123"
+        },
+        {
+          "titel": "Schienenfahrzeug",
+          "beschriftung": "Schienenfahrzeug",
+          "haupt": false,
+          "artikel": "Schienenfahrzeug",
+          "wikidata": "Q1414135"
+        }
+      ]
+    },
+    {
+      "mi_nr": "385",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-01-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Jahrestag der Reichsgründung",
+      "bild_beschreibung": "Reichsadler mit großem Brustschild und Kaiserkrone",
+      "entwerfer": "Stanik",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1971 385 100 Jahre Reichsgründung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichsgründung",
+          "beschriftung": "Reichsgründung",
+          "haupt": true,
+          "artikel": "Deutsche Reichsgründung",
+          "wikidata": "Q10354157"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Reichsadler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        },
+        {
+          "titel": "Wappenschild",
+          "beschriftung": "Brustschild",
+          "haupt": false,
+          "artikel": "Wappenschild",
+          "wikidata": "Q331357"
+        },
+        {
+          "titel": "Kaiserkrone",
+          "beschriftung": "Kaiserkrone",
+          "haupt": false,
+          "artikel": "Kaiserkrone",
+          "wikidata": "Q1220245"
+        }
+      ]
+    },
+    {
+      "mi_nr": "386",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-08",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1971: Kinderzeichnungen",
+      "bild_beschreibung": "Fliege, Zeichnung einer Sechsjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 2757000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fliegen",
+          "beschriftung": "Fliege",
+          "haupt": true,
+          "artikel": "Fliegen",
+          "wikidata": "Q27584"
+        },
+        {
+          "titel": "Kinderzeichnung",
+          "beschriftung": "Kinderzeichnung",
+          "haupt": false,
+          "artikel": "Kinderzeichnung",
+          "wikidata": "Q1430886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "387",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-08",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1971: Kinderzeichnungen",
+      "bild_beschreibung": "Fisch, Zeichnung eines Zwölfjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 2721000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fische",
+          "beschriftung": "Fisch",
+          "haupt": true,
+          "artikel": "Fische",
+          "wikidata": "Q152"
+        },
+        {
+          "titel": "Kinderzeichnung",
+          "beschriftung": "Kinderzeichnung",
+          "haupt": false,
+          "artikel": "Kinderzeichnung",
+          "wikidata": "Q1430886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "388",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-08",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1971: Kinderzeichnungen",
+      "bild_beschreibung": "Stacheltier, Zeichnung eines Zwölfjährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 2704000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kinderzeichnung",
+          "beschriftung": "Kinderzeichnung",
+          "haupt": true,
+          "artikel": "Kinderzeichnung",
+          "wikidata": "Q1430886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "389",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-02-08",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1971: Kinderzeichnungen",
+      "bild_beschreibung": "Hahn, Zeichnung eines 13-Jährigen",
+      "entwerfer": "Helmut Lortz",
+      "auflage": 2694000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haushuhn",
+          "beschriftung": "Hahn",
+          "haupt": true,
+          "artikel": "Haushuhn",
+          "wikidata": "Q780"
+        },
+        {
+          "titel": "Kinderzeichnung",
+          "beschriftung": "Kinderzeichnung",
+          "haupt": false,
+          "artikel": "Kinderzeichnung",
+          "wikidata": "Q1430886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "390",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-05-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500. Geburtstag von Albrecht Dürer",
+      "bild_beschreibung": "Kupferstich: „Der Dudelsackpfeifer“",
+      "entwerfer": "Hans-Joachim Fuchs",
+      "auflage": 20000000,
+      "commons_datei": "DBPB 1971 390 Albrecht Dürer Kupferstich Dudelsackpfeifer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": true,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": false,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Sackpfeife (Musikinstrument)",
+          "beschriftung": "Dudelsackpfeifer",
+          "haupt": false,
+          "artikel": "Sackpfeife",
+          "wikidata": "Q8347"
+        }
+      ]
+    },
+    {
+      "mi_nr": "391",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-07-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin (IFA)",
+      "bild_beschreibung": "Fernmeldeturm Berlin-Wannsee",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1971 391 Funkausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Fernmeldeturm Berlin-Schäferberg",
+          "beschriftung": "Fernmeldeturm Berlin-Wannsee",
+          "haupt": false,
+          "artikel": "Fernmeldeturm Berlin-Schäferberg",
+          "wikidata": "Q1407025"
+        }
+      ]
+    },
+    {
+      "mi_nr": "392",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-07-14",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre Brandenburgische Konzerte",
+      "bild_beschreibung": "Takte des 2. Brandenburgischen Konzertes von Johann Sebastian Bach",
+      "entwerfer": "Ernst Finke",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Brandenburgische Konzerte",
+          "beschriftung": "Brandenburgische Konzerte",
+          "haupt": true,
+          "artikel": "Brandenburgische Konzerte",
+          "wikidata": "Q208224"
+        },
+        {
+          "titel": "2. Brandenburgisches Konzert (Bach)",
+          "beschriftung": "2. Brandenburgischen Konzertes",
+          "haupt": false,
+          "artikel": "2. Brandenburgisches Konzert",
+          "wikidata": "Q209623"
+        },
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": false,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "397",
+      "block": "Block 3",
+      "art": "Sondermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre AVUS-Rennen",
+      "bild_beschreibung": "Opel-Rennwagen, Baujahr 1921",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opel",
+          "beschriftung": "Opel",
+          "haupt": true,
+          "artikel": "Opel",
+          "wikidata": "Q40966"
+        },
+        {
+          "titel": "AVUS",
+          "beschriftung": "AVUS",
+          "haupt": false,
+          "artikel": "AVUS",
+          "wikidata": "Q155810"
+        }
+      ]
+    },
+    {
+      "mi_nr": "398",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre AVUS-Rennen",
+      "bild_beschreibung": "Auto-Union-Rennwagen, Baujahr 1936",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Auto-Union-Rennwagen",
+          "beschriftung": "Auto-Union-Rennwagen",
+          "haupt": true,
+          "artikel": "Auto-Union-Rennwagen",
+          "wikidata": "Q318571"
+        },
+        {
+          "titel": "AVUS",
+          "beschriftung": "AVUS",
+          "haupt": false,
+          "artikel": "AVUS",
+          "wikidata": "Q155810"
+        }
+      ]
+    },
+    {
+      "mi_nr": "399",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre AVUS-Rennen",
+      "bild_beschreibung": "Mercedes-Benz-Rennwagen SSKL, Baujahr 1931",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mercedes-Benz (Motorsport)",
+          "beschriftung": "Mercedes-Benz-Rennwagen",
+          "haupt": true,
+          "artikel": "Mercedes-Benz (Motorsport)",
+          "wikidata": "Q994195"
+        },
+        {
+          "titel": "Mercedes-Benz W06",
+          "beschriftung": "SSKL",
+          "haupt": false,
+          "artikel": "Mercedes-Benz W 06",
+          "wikidata": "Q1921357"
+        },
+        {
+          "titel": "AVUS",
+          "beschriftung": "AVUS",
+          "haupt": false,
+          "artikel": "AVUS",
+          "wikidata": "Q155810"
+        }
+      ]
+    },
+    {
+      "mi_nr": "400",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 50 Jahre AVUS-Rennen",
+      "bild_beschreibung": "Mercedes-Benz- und Auto-Union-Rennwagen in der Nordkurve, Baujahr 1937",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 7500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "AVUS",
+          "beschriftung": "AVUS",
+          "haupt": true,
+          "artikel": "AVUS",
+          "wikidata": "Q155810"
+        }
+      ]
+    },
+    {
+      "mi_nr": "401",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Hermann von Helmholtz",
+      "bild_beschreibung": "",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1971 401 Hermann von Helmholtz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hermann von Helmholtz",
+          "beschriftung": "Hermann von Helmholtz",
+          "haupt": true,
+          "artikel": "Hermann von Helmholtz",
+          "wikidata": "Q60024"
+        }
+      ]
+    },
+    {
+      "mi_nr": "412",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1971: Altes Holzspielzeug",
+      "bild_beschreibung": "Kurbelmännchen, bewegliche Figuren",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8156000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": true,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "413",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1971: Altes Holzspielzeug",
+      "bild_beschreibung": "Ritter zu Pferde",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5963000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ritter",
+          "beschriftung": "Ritter",
+          "haupt": true,
+          "artikel": "Ritter",
+          "wikidata": "Q102083"
+        },
+        {
+          "titel": "Pferde",
+          "beschriftung": "Pferde",
+          "haupt": false,
+          "artikel": "Pferde",
+          "wikidata": "Q27022"
+        },
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": false,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "414",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1971: Altes Holzspielzeug",
+      "bild_beschreibung": "Hampel- oder Zappelmann",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6471000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hampelmann",
+          "beschriftung": "Hampel-",
+          "haupt": true,
+          "artikel": "Hampelmann",
+          "wikidata": "Q1424683"
+        },
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": false,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "415",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-05",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1971: Altes Holzspielzeug",
+      "bild_beschreibung": "Fahrbare Schaukelamme",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4488000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holzspielzeug",
+          "beschriftung": "Holzspielzeug",
+          "haupt": true,
+          "artikel": "Holzspielzeug",
+          "wikidata": "Q16319458"
+        }
+      ]
+    },
+    {
+      "mi_nr": "416",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-10-26",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Materialprüfung in Berlin",
+      "bild_beschreibung": "Mikrobruchgefüge gegossenen reinen Metalls, Mikroskop",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1971 416 100 Jahre Materialprüfung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Werkstoffprüfung",
+          "beschriftung": "Materialprüfung",
+          "haupt": true,
+          "artikel": "Werkstoffprüfung",
+          "wikidata": "Q11850141"
+        },
+        {
+          "titel": "Gefüge (Werkstoffkunde)",
+          "beschriftung": "Mikrobruchgefüge",
+          "haupt": false,
+          "artikel": "Gefüge (Werkstoffkunde)",
+          "wikidata": "Q1498213"
+        },
+        {
+          "titel": "Gießen (Metall)",
+          "beschriftung": "gegossenen",
+          "haupt": false,
+          "artikel": "Gießen (Metall)",
+          "wikidata": "Q9268371"
+        },
+        {
+          "titel": "Metalle",
+          "beschriftung": "Metalls",
+          "haupt": false,
+          "artikel": "Metalle",
+          "wikidata": "Q11426"
+        },
+        {
+          "titel": "Mikroskop",
+          "beschriftung": "Mikroskop",
+          "haupt": false,
+          "artikel": "Mikroskop",
+          "wikidata": "Q196538"
+        }
+      ]
+    },
+    {
+      "mi_nr": "417",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1971-11-11",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1971",
+      "bild_beschreibung": "Holzgedrechselter Weihnachtsengel",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 5636000,
+      "commons_datei": "DBPB 1971 417 Weihnachten.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Drechseln",
+          "beschriftung": "Holzgedrechselter",
+          "haupt": false,
+          "artikel": "Drechseln",
+          "wikidata": "Q278156"
+        },
+        {
+          "titel": "Weihnachtsengel",
+          "beschriftung": "Weihnachtsengel",
+          "haupt": false,
+          "artikel": "Weihnachtsengel",
+          "wikidata": "Q2555448"
+        }
+      ]
+    },
+    {
+      "mi_nr": "360",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 12500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "393",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-08-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 11720000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "363",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-01-07",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 73466000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "364",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 39837000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "365",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 24429000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "394",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-06-25",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 12012000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "366",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 13822000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "367",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-04-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 7438000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "368",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-01-07",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 6400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "370",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-01-07",
+      "wert": "200",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "Bundespräsident Gustav Heinemann",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 9340000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "402",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-10-29",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Brand durch Streichholz",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 11490000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Streichholz",
+          "beschriftung": "Streichholz",
+          "haupt": true,
+          "artikel": "Streichholz",
+          "wikidata": "Q37507"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "405",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-09-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "Alkohol am Steuer",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 14536000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alkohol am Steuer",
+          "beschriftung": "Alkohol am Steuer",
+          "haupt": true,
+          "artikel": "Fahren unter Einfluss psychoaktiver Substanzen",
+          "wikidata": "Q250062"
+        },
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": false,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    },
+    {
+      "mi_nr": "409",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1971-09-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Unfallverhütung",
+      "bild_beschreibung": "spielendes Kind und Auto",
+      "entwerfer": "Förtsch und Baumgarten",
+      "auflage": 8020000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unfallverhütung (Briefmarkenserie)",
+          "beschriftung": "Unfallverhütung",
+          "haupt": true,
+          "artikel": "Unfallverhütung (Briefmarkenserie)",
+          "wikidata": "Q2493202"
+        }
+      ]
+    }
+  ]
+}

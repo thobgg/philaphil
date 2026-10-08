@@ -1,0 +1,336 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1962,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1962 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1962_der_Deutschen_Bundespost_Berlin",
+    "revision": 265867814,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 209,
+    "mi_nr_bis": 230,
+    "luecken": [
+      210,
+      211,
+      212,
+      214,
+      215,
+      216,
+      217,
+      220,
+      222,
+      224,
+      225,
+      227,
+      228
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 7,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "218",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-27",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Die Linden um 1650",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 21085000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Unter den Linden",
+          "beschriftung": "Die Linden",
+          "haupt": true,
+          "artikel": "Unter den Linden",
+          "wikidata": "Q160899"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "219",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-06-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Waisenbrücke um 1783",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 98585000,
+      "commons_datei": "DBPB 1962 219 Waisenbrücke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Waisenbrücke",
+          "beschriftung": "Waisenbrücke",
+          "haupt": true,
+          "artikel": "Waisenbrücke",
+          "wikidata": "Q1526462"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "221",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Berliner Stadtschloss um 1703",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 40430000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Stadtschloss",
+          "beschriftung": "Berliner Stadtschloss",
+          "haupt": true,
+          "artikel": "Berliner Schloss",
+          "wikidata": "Q170119"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "223",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Schloss Bellevue um 1800",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 10680000,
+      "commons_datei": "DBPB 1962 223 Schloss Bellevue.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Bellevue",
+          "beschriftung": "Schloss Bellevue",
+          "haupt": true,
+          "artikel": "Schloss Bellevue",
+          "wikidata": "Q317091"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "226",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-07-27",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Parochialkirche um 1780",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7630000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Parochialkirche (Berlin)",
+          "beschriftung": "Parochialkirche",
+          "haupt": true,
+          "artikel": "Parochialkirche (Berlin)",
+          "wikidata": "Q1447091"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "229",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-12-07",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Grunewaldsee mit Jagdschloss Grunewald um 1790",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 5575000,
+      "commons_datei": "DBPB 1962 229 Grunewaldsee.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grunewaldsee",
+          "beschriftung": "Grunewaldsee",
+          "haupt": true,
+          "artikel": "Grunewaldsee",
+          "wikidata": "Q895938"
+        },
+        {
+          "titel": "Jagdschloss Grunewald",
+          "beschriftung": "Jagdschloss Grunewald",
+          "haupt": false,
+          "artikel": "Jagdschloss Grunewald",
+          "wikidata": "Q531032"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "230",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1962-09-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-12-31",
+      "anlass": "50 Jahre Luftpostbeförderung",
+      "bild_beschreibung": "vierstrahliges Düsenflugzeug, davor der „Gelbe Hund“ von 1912 aus den Euler-Werken",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1962 230 Luftpostbeförderung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Luftpost",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "209",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1962-04-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarken Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Friedrich Schiller (1759–1805), Dichter, Dramatiker, Philosoph sowie Historiker",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 9000000,
+      "commons_datei": "DBPB 1961 209 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    },
+    {
+      "mi_nr": "213",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1962-04-12",
+      "wert": "2 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarken Bedeutende Deutsche (Briefmarkenserie)",
+      "bild_beschreibung": "Gerhart Hauptmann (1862–1946), deutscher Schriftsteller, 1912 Nobelpreis für Literatur",
+      "entwerfer": "Michel + Kieser",
+      "auflage": 6000000,
+      "commons_datei": "DBPB 1961 213 Gerhart Hauptmann.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": true,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Nobelpreis für Literatur",
+          "beschriftung": "Nobelpreis für Literatur",
+          "haupt": false,
+          "artikel": "Nobelpreis für Literatur",
+          "wikidata": "Q37922"
+        },
+        {
+          "titel": "Bedeutende Deutsche (Briefmarkenserie)",
+          "beschriftung": "Bedeutende Deutsche (Briefmarkenserie)",
+          "haupt": false,
+          "artikel": "Bedeutende Deutsche",
+          "wikidata": "Q813845"
+        }
+      ]
+    }
+  ]
+}

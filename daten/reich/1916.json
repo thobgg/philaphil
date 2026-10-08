@@ -1,0 +1,94 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1916,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1916 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1916_der_Deutschen_Reichspost",
+    "revision": 255531218,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 98,
+    "mi_nr_bis": 100,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "98",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1916-07-28",
+      "wert": "2 ½",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1916 98 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "99",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1916-07-28",
+      "wert": "7 ½",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1916 99 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "100",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1916-07-28",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1916 100 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    }
+  ]
+}

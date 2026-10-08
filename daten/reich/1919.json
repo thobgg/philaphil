@@ -1,0 +1,254 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1919,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1919 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1919_der_Deutschen_Reichspost",
+    "revision": 236181289,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 103,
+    "mi_nr_bis": 112,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 8,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "105",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-05-01",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Für die Kriegsgeschädigten",
+      "bild_beschreibung": "Zuschlagmarke Germania mit Aufdruck",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1919 105 Germania Overprint.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "106",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-05-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Für die Kriegsgeschädigten",
+      "bild_beschreibung": "Zuschlagmarke Germania mit Aufdruck",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1919 106 Germania Overprint.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "107",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-07-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Eröffnung der Weimarer Nationalversammlung",
+      "bild_beschreibung": "stilisierter Baum",
+      "entwerfer": "Frank",
+      "auflage": null,
+      "commons_datei": "DR 1919 107 Nationalversammlung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimarer Nationalversammlung",
+          "beschriftung": "Weimarer Nationalversammlung",
+          "haupt": true,
+          "artikel": "Weimarer Nationalversammlung",
+          "wikidata": "Q649746"
+        }
+      ]
+    },
+    {
+      "mi_nr": "108",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-07-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Eröffnung der Weimarer Nationalversammlung",
+      "bild_beschreibung": "Baumtriebe",
+      "entwerfer": "Ernst Böhm",
+      "auflage": null,
+      "commons_datei": "DR 1919 108 Nationalversammlung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimarer Nationalversammlung",
+          "beschriftung": "Weimarer Nationalversammlung",
+          "haupt": true,
+          "artikel": "Weimarer Nationalversammlung",
+          "wikidata": "Q649746"
+        }
+      ]
+    },
+    {
+      "mi_nr": "109",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-07-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Eröffnung der Weimarer Nationalversammlung",
+      "bild_beschreibung": "Maurer",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": null,
+      "commons_datei": "DR 1919 109 Nationalversammlung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimarer Nationalversammlung",
+          "beschriftung": "Weimarer Nationalversammlung",
+          "haupt": true,
+          "artikel": "Weimarer Nationalversammlung",
+          "wikidata": "Q649746"
+        }
+      ]
+    },
+    {
+      "mi_nr": "110",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1920-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Eröffnung der Weimarer Nationalversammlung",
+      "bild_beschreibung": "Maurer",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": null,
+      "commons_datei": "DR 1919 110 Nationalversammlung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimarer Nationalversammlung",
+          "beschriftung": "Weimarer Nationalversammlung",
+          "haupt": true,
+          "artikel": "Weimarer Nationalversammlung",
+          "wikidata": "Q649746"
+        }
+      ]
+    },
+    {
+      "mi_nr": "111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1923-09-30",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Posthorn",
+      "entwerfer": "Georg Alexander Mathéy",
+      "auflage": null,
+      "commons_datei": "Flugpost 2.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        }
+      ]
+    },
+    {
+      "mi_nr": "112",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1919-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1923-09-30",
+      "anlass": "Flugpostmarken",
+      "bild_beschreibung": "Doppeldecker",
+      "entwerfer": "Reichsdruckerei",
+      "auflage": null,
+      "commons_datei": "DR 1919 112 Flugpost.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Doppeldecker (Flugzeug)",
+          "beschriftung": "Doppeldecker",
+          "haupt": true,
+          "artikel": "Doppeldecker (Flugzeug)",
+          "wikidata": "Q223818"
+        }
+      ]
+    },
+    {
+      "mi_nr": "103",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1919-02-06",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1919 103 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "104",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1919-02-20",
+      "wert": "75",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1919 104 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    }
+  ]
+}

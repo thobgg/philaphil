@@ -1,0 +1,276 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1963,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1963 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1963_der_Deutschen_Bundespost_Berlin",
+    "revision": 265867836,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 220,
+    "mi_nr_bis": 232,
+    "luecken": [
+      221,
+      223,
+      226,
+      229,
+      230
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 7,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "220",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-04-26",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Mauerstraße um 1780",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 29430000,
+      "commons_datei": "DBPB 1962 220 Mauerstraße.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mauerstraße (Berlin)",
+          "beschriftung": "Mauerstraße",
+          "haupt": true,
+          "artikel": "Mauerstraße (Berlin)",
+          "wikidata": "Q1911025"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "222",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-08-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Potsdamer Platz um 1825",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11480000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Potsdamer Platz",
+          "beschriftung": "Potsdamer Platz",
+          "haupt": true,
+          "artikel": "Potsdamer Platz",
+          "wikidata": "Q152252"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "224",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-09-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Fischerbrücke um 1830",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11280000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berlin-Mitte",
+          "beschriftung": "Fischerbrücke",
+          "haupt": true,
+          "artikel": "Berlin-Mitte",
+          "wikidata": "Q2013767"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "225",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-10-25",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Hallesches Tor um 1880",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11325000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hallesches Tor",
+          "beschriftung": "Hallesches Tor",
+          "haupt": true,
+          "artikel": "Hallesches Tor",
+          "wikidata": "Q877036"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "227",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-05-24",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Universität um 1825",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 11230000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Universität",
+          "haupt": true,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "228",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-12-06",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1966-12-31",
+      "anlass": "Alt-Berlin",
+      "bild_beschreibung": "Opernhaus um 1780",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7520000,
+      "commons_datei": "DBPB 1962 228 Opernhaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsoper Unter den Linden",
+          "beschriftung": "Opernhaus",
+          "haupt": true,
+          "artikel": "Staatsoper Unter den Linden",
+          "wikidata": "Q312576"
+        },
+        {
+          "titel": "Alt-Berlin (Briefmarkenserie)",
+          "beschriftung": "Alt-Berlin",
+          "haupt": false,
+          "artikel": "Alt-Berlin (Briefmarkenserie)",
+          "wikidata": "Q138875020"
+        }
+      ]
+    },
+    {
+      "mi_nr": "232",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1963-07-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Deutsche Funkausstellung, Berlin",
+      "bild_beschreibung": "Funkturm und Berliner Bär",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1963 232 Funkausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Funkturm",
+          "beschriftung": "Funkturm",
+          "haupt": true,
+          "artikel": "Berliner Funkturm",
+          "wikidata": "Q699724"
+        },
+        {
+          "titel": "Berliner Bär",
+          "beschriftung": "Berliner Bär",
+          "haupt": false,
+          "artikel": "Berliner Bär",
+          "wikidata": "Q884928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "231",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1963-03-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1970-12-31",
+      "anlass": "Dauermarke der Serie Berliner Stadtbilder (Briefmarkenserie)",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 60000000,
+      "commons_datei": "DBPB 1963 231 Berliner Stadtbilder.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder (Briefmarkenserie)",
+          "haupt": true,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        }
+      ]
+    }
+  ]
+}

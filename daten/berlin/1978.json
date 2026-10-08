@@ -1,0 +1,930 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1978,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1978 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1978_der_Deutschen_Bundespost_Berlin",
+    "revision": 263038434,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 561,
+    "mi_nr_bis": 590,
+    "luecken": [
+      583
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 21,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "561",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-01-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Walter Kollo",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 561.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Walter Kollo",
+          "beschriftung": "Walter Kollo",
+          "haupt": true,
+          "artikel": "Walter Kollo",
+          "wikidata": "Q510208"
+        }
+      ]
+    },
+    {
+      "mi_nr": "562",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75 Jahre Amerikanische Handelskammer in Deutschland",
+      "bild_beschreibung": "Emblem der Handelskammer",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 6500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 562.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "United States Chamber of Commerce",
+          "beschriftung": "Amerikanische Handelskammer",
+          "haupt": true,
+          "artikel": "United States Chamber of Commerce",
+          "wikidata": "Q1800288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "563",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1978: Luftfahrt",
+      "bild_beschreibung": "Montgolfière, 1783",
+      "entwerfer": "Fritz Haase",
+      "auflage": 2796000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 563.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Montgolfière",
+          "beschriftung": "Montgolfière",
+          "haupt": true,
+          "artikel": "Montgolfière",
+          "wikidata": "Q1597597"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "564",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1978: Luftfahrt",
+      "bild_beschreibung": "Lilienthal-Gleiter, 1891",
+      "entwerfer": "Fritz Haase",
+      "auflage": 2787000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 564.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Lilienthal",
+          "beschriftung": "Lilienthal-Gleiter",
+          "haupt": true,
+          "artikel": "Otto Lilienthal",
+          "wikidata": "Q57162"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "565",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1978: Luftfahrt",
+      "bild_beschreibung": "Wright-Doppeldecker, 1909",
+      "entwerfer": "Fritz Haase",
+      "auflage": 2968000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 565.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brüder Wright",
+          "beschriftung": "Wright",
+          "haupt": true,
+          "artikel": "Brüder Wright",
+          "wikidata": "Q35820"
+        },
+        {
+          "titel": "Doppeldecker (Flugzeug)",
+          "beschriftung": "Doppeldecker",
+          "haupt": false,
+          "artikel": "Doppeldecker (Flugzeug)",
+          "wikidata": "Q223818"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "566",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1978: Luftfahrt",
+      "bild_beschreibung": "Ettrich/Rumpler Taube, 1910",
+      "entwerfer": "Fritz Haase",
+      "auflage": 2750000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 566.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Etrich Taube",
+          "beschriftung": "Ettrich/Rumpler Taube",
+          "haupt": true,
+          "artikel": "Etrich Taube",
+          "wikidata": "Q694460"
+        },
+        {
+          "titel": "Luftfahrt",
+          "beschriftung": "Luftfahrt",
+          "haupt": false,
+          "artikel": "Luftfahrt",
+          "wikidata": "Q765633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "567",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1978",
+      "bild_beschreibung": "Radsport",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 2639000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radsport",
+          "beschriftung": "Radsport",
+          "haupt": true,
+          "artikel": "Radsport",
+          "wikidata": "Q2215841"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "568",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-04-13",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1978",
+      "bild_beschreibung": "Fechten",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 2579000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fechten",
+          "beschriftung": "Fechten",
+          "haupt": true,
+          "artikel": "Fechten",
+          "wikidata": "Q12100"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "569",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-05-22",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Albrecht von Graefe",
+      "bild_beschreibung": "Denkmal an der Charité",
+      "entwerfer": "Ernst Finke",
+      "auflage": 11614000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Albrecht von Graefe",
+          "beschriftung": "Albrecht von Graefe",
+          "haupt": true,
+          "artikel": "Albrecht von Graefe",
+          "wikidata": "Q67987"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "570",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-07-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Friedrich Ludwig Jahn",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 6500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Ludwig Jahn",
+          "beschriftung": "Friedrich Ludwig Jahn",
+          "haupt": true,
+          "artikel": "Friedrich Ludwig Jahn",
+          "wikidata": "Q77098"
+        }
+      ]
+    },
+    {
+      "mi_nr": "571",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-08-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schwimmweltmeisterschaften in Berlin",
+      "bild_beschreibung": "Kraulschwimmen",
+      "entwerfer": "Peter Lorenz",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Schwimmweltmeisterschaften",
+          "beschriftung": "Schwimmweltmeisterschaften",
+          "haupt": true,
+          "artikel": "Schwimmweltmeisterschaften",
+          "wikidata": "Q273469"
+        },
+        {
+          "titel": "Kraulen",
+          "beschriftung": "Kraulschwimmen",
+          "haupt": false,
+          "artikel": "Kraulschwimmen",
+          "wikidata": "Q828185"
+        }
+      ]
+    },
+    {
+      "mi_nr": "572",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Karl Hofer",
+      "bild_beschreibung": "„Das Boot“, Gemälde von Karl Hofer",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 572.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Hofer",
+          "beschriftung": "Karl Hofer",
+          "haupt": true,
+          "artikel": "Karl Hofer",
+          "wikidata": "Q62249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "573",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1978: Waldblumen",
+      "bild_beschreibung": "Salomonssiegel Polygonatum multiflorum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9760000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vielblütige Weißwurz",
+          "beschriftung": "Salomonssiegel",
+          "haupt": true,
+          "artikel": "Vielblütige Weißwurz",
+          "wikidata": "Q159299"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "574",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1978: Waldblumen",
+      "bild_beschreibung": "Wald-Schlüsselblume Primula elatior",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8314000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hohe Schlüsselblume",
+          "beschriftung": "Wald-Schlüsselblume",
+          "haupt": true,
+          "artikel": "Hohe Schlüsselblume",
+          "wikidata": "Q157842"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "575",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1978: Waldblumen",
+      "bild_beschreibung": "Rotes Waldvögelein Cephalanthera rubra",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8710000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotes Waldvöglein",
+          "beschriftung": "Rotes Waldvögelein",
+          "haupt": true,
+          "artikel": "Rotes Waldvöglein",
+          "wikidata": "Q157431"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "576",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-10-12",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1978: Waldblumen",
+      "bild_beschreibung": "Günsel Ajuga reptans",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Günsel",
+          "beschriftung": "Günsel",
+          "haupt": true,
+          "artikel": "Günsel",
+          "wikidata": "Q158472"
+        },
+        {
+          "titel": "Wald",
+          "beschriftung": "Wald",
+          "haupt": false,
+          "artikel": "Wald",
+          "wikidata": "Q4421"
+        }
+      ]
+    },
+    {
+      "mi_nr": "577",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Eröffnung der Staatsbibliothek Preußischer Kulturbesitz",
+      "bild_beschreibung": "Neubau der Staatsbibliothek",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 6500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 577.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Staatsbibliothek zu Berlin",
+          "beschriftung": "Staatsbibliothek",
+          "haupt": true,
+          "artikel": "Staatsbibliothek zu Berlin",
+          "wikidata": "Q170109"
+        },
+        {
+          "titel": "Stiftung Preußischer Kulturbesitz",
+          "beschriftung": "Preußischer Kulturbesitz",
+          "haupt": false,
+          "artikel": "Stiftung Preußischer Kulturbesitz",
+          "wikidata": "Q685171"
+        }
+      ]
+    },
+    {
+      "mi_nr": "578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (II)",
+      "bild_beschreibung": "Belvedere, Schloss Charlottenburg",
+      "entwerfer": "Egon Falz",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 578.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Belvedere (Charlottenburg)",
+          "beschriftung": "Belvedere",
+          "haupt": true,
+          "artikel": "Belvedere (Charlottenburg)",
+          "wikidata": "Q816248"
+        },
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schloss Charlottenburg",
+          "haupt": false,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "579",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (II)",
+      "bild_beschreibung": "Shell-Haus am Landwehrkanal",
+      "entwerfer": "Egon Falz",
+      "auflage": 7500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 579.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Shell-Haus",
+          "beschriftung": "Shell-Haus",
+          "haupt": true,
+          "artikel": "Shell-Haus",
+          "wikidata": "Q317437"
+        },
+        {
+          "titel": "Landwehrkanal",
+          "beschriftung": "Landwehrkanal",
+          "haupt": false,
+          "artikel": "Landwehrkanal",
+          "wikidata": "Q671428"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "580",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (II)",
+      "bild_beschreibung": "Dorfkirche Lichtenrade",
+      "entwerfer": "Egon Falz",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 580.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dorfkirche Lichtenrade",
+          "beschriftung": "Dorfkirche Lichtenrade",
+          "haupt": true,
+          "artikel": "Dorfkirche Lichtenrade",
+          "wikidata": "Q1244467"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "581",
+      "block": "Block 7",
+      "art": "Sondermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weihnachtsmarke 1978",
+      "bild_beschreibung": "Anbetung der Könige, Fensterausschnitt der Frauenkirche in München",
+      "entwerfer": "Willy Fleckhaus",
+      "auflage": 5909000,
+      "commons_datei": "Stamps of Germany (Berlin) 1978, MiNr 581.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": false,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Frauenkirche (München)",
+          "beschriftung": "Frauenkirche",
+          "haupt": false,
+          "artikel": "Frauenkirche (München)",
+          "wikidata": "Q167193"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "582",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Röntgengerät",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 63500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Röntgenröhre",
+          "beschriftung": "Röntgengerät",
+          "haupt": true,
+          "artikel": "Röntgenröhre",
+          "wikidata": "Q174443"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "584",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "150",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Löffelbagger",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löffelbagger",
+          "beschriftung": "Löffelbagger",
+          "haupt": true,
+          "artikel": "Bagger",
+          "wikidata": "Q182661"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "585",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-07-12",
+      "wert": "180",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Radlader",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radlader",
+          "beschriftung": "Radlader",
+          "haupt": true,
+          "artikel": "Radlader",
+          "wikidata": "Q217416"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "586",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-05-17",
+      "wert": "230",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Flughafen Frankfurt",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 7200000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flughafen Frankfurt Main",
+          "beschriftung": "Flughafen Frankfurt",
+          "haupt": true,
+          "artikel": "Flughafen Frankfurt Main",
+          "wikidata": "Q46033"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "587",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-01-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Gemen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Gemen",
+          "beschriftung": "Burg Gemen",
+          "haupt": true,
+          "artikel": "Burg Gemen",
+          "wikidata": "Q1011929"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "588",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-01-11",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Vischering",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Vischering",
+          "beschriftung": "Burg Vischering",
+          "haupt": true,
+          "artikel": "Burg Vischering",
+          "wikidata": "Q449031"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "589",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1979-02-14",
+      "wert": "210",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schwanenburg Kleve",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwanenburg",
+          "beschriftung": "Schwanenburg Kleve",
+          "haupt": true,
+          "artikel": "Schwanenburg",
+          "wikidata": "Q316178"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "590",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1978-11-16",
+      "wert": "230",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Burg Lichtenberg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burg Lichtenberg (Pfalz)",
+          "beschriftung": "Burg Lichtenberg",
+          "haupt": true,
+          "artikel": "Burg Lichtenberg (Pfalz)",
+          "wikidata": "Q885150"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2454 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1960,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1960 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1960_der_Deutschen_Post_der_DDR",
+    "revision": 266213495,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 746,
+    "mi_nr_bis": 806,
+    "luecken": [
+      785
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 61,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "746",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-01-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Olympische Sommer- und Winterspiele 1960 (Rom und Squaw Valley)",
+      "bild_beschreibung": "Boxen",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Boxen",
+          "beschriftung": "Boxen",
+          "haupt": true,
+          "artikel": "Boxen",
+          "wikidata": "Q32112"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1960",
+          "beschriftung": "Sommer-",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1960",
+          "wikidata": "Q8415"
+        },
+        {
+          "titel": "Olympische Winterspiele 1960",
+          "beschriftung": "Winterspiele 1960",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1960",
+          "wikidata": "Q9634"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        },
+        {
+          "titel": "Olympic Valley",
+          "beschriftung": "Squaw Valley",
+          "haupt": false,
+          "artikel": "Olympic Valley",
+          "wikidata": "Q822230"
+        }
+      ]
+    },
+    {
+      "mi_nr": "747",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-01-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Olympische Sommer- und Winterspiele 1960 (Rom und Squaw Valley)",
+      "bild_beschreibung": "Kurzstreckenlauf",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sprint",
+          "beschriftung": "Kurzstreckenlauf",
+          "haupt": true,
+          "artikel": "Sprint",
+          "wikidata": "Q624482"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1960",
+          "beschriftung": "Sommer-",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1960",
+          "wikidata": "Q8415"
+        },
+        {
+          "titel": "Olympische Winterspiele 1960",
+          "beschriftung": "Winterspiele 1960",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1960",
+          "wikidata": "Q9634"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        },
+        {
+          "titel": "Olympic Valley",
+          "beschriftung": "Squaw Valley",
+          "haupt": false,
+          "artikel": "Olympic Valley",
+          "wikidata": "Q822230"
+        }
+      ]
+    },
+    {
+      "mi_nr": "748",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-01-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Olympische Sommer- und Winterspiele 1960 (Rom und Squaw Valley)",
+      "bild_beschreibung": "Skispringen",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skispringen",
+          "beschriftung": "Skispringen",
+          "haupt": true,
+          "artikel": "Skispringen",
+          "wikidata": "Q7718"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1960",
+          "beschriftung": "Sommer-",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1960",
+          "wikidata": "Q8415"
+        },
+        {
+          "titel": "Olympische Winterspiele 1960",
+          "beschriftung": "Winterspiele 1960",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1960",
+          "wikidata": "Q9634"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        },
+        {
+          "titel": "Olympic Valley",
+          "beschriftung": "Squaw Valley",
+          "haupt": false,
+          "artikel": "Olympic Valley",
+          "wikidata": "Q822230"
+        }
+      ]
+    },
+    {
+      "mi_nr": "749",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-01-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Olympische Sommer- und Winterspiele 1960 (Rom und Squaw Valley)",
+      "bild_beschreibung": "Segeln",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segeln",
+          "beschriftung": "Segeln",
+          "haupt": true,
+          "artikel": "Segeln",
+          "wikidata": "Q192520"
+        },
+        {
+          "titel": "Olympische Sommerspiele 1960",
+          "beschriftung": "Sommer-",
+          "haupt": false,
+          "artikel": "Olympische Sommerspiele 1960",
+          "wikidata": "Q8415"
+        },
+        {
+          "titel": "Olympische Winterspiele 1960",
+          "beschriftung": "Winterspiele 1960",
+          "haupt": false,
+          "artikel": "Olympische Winterspiele 1960",
+          "wikidata": "Q9634"
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        },
+        {
+          "titel": "Olympic Valley",
+          "beschriftung": "Squaw Valley",
+          "haupt": false,
+          "artikel": "Olympic Valley",
+          "wikidata": "Q822230"
+        }
+      ]
+    },
+    {
+      "mi_nr": "750",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1960",
+      "bild_beschreibung": "Nordeingang der Technischen Messe (Halle 1), stilisierte Erdhalbkugel, Messezeichen „MM“",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Messe Leipzig",
+          "beschriftung": "Technischen Messe",
+          "haupt": true,
+          "artikel": "Alte Messe Leipzig",
+          "wikidata": "Q435985"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "751",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-02-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1960",
+      "bild_beschreibung": "Ringmessehaus, Hotel „International“, stilisierte Erdhalbkugel, Messezeichen „MM“",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0751.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ring-Messehaus (Leipzig)",
+          "beschriftung": "Ringmessehaus",
+          "haupt": true,
+          "artikel": "Ring-Messehaus (Leipzig)",
+          "wikidata": "Q2153474"
+        },
+        {
+          "titel": "Hotel Fürstenhof (Leipzig)",
+          "beschriftung": "Hotel „International“",
+          "haupt": false,
+          "artikel": "Hotel Fürstenhof (Leipzig)",
+          "wikidata": "Q1630899"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "752",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-02-25",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Journalist Lothar Erdmann (1888–1939)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Journalist",
+          "beschriftung": "Journalist",
+          "haupt": true,
+          "artikel": "Journalist",
+          "wikidata": "Q1930187"
+        },
+        {
+          "titel": "Lothar Erdmann",
+          "beschriftung": "Lothar Erdmann",
+          "haupt": false,
+          "artikel": "Lothar Erdmann",
+          "wikidata": "Q111105"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "753",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-02-25",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Lehrer, KPD-Politiker Ernst Schneller (1890–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KPD",
+          "beschriftung": "KPD",
+          "haupt": true,
+          "artikel": "Kommunistische Partei Deutschlands",
+          "wikidata": "Q153401"
+        },
+        {
+          "titel": "Ernst Schneller",
+          "beschriftung": "Ernst Schneller",
+          "haupt": false,
+          "artikel": "Ernst Schneller",
+          "wikidata": "Q1360122"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "754",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-02-25",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "KPD-Politiker Lambert Horn (1899–1939)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lambert Horn",
+          "beschriftung": "Lambert Horn",
+          "haupt": true,
+          "artikel": "Lambert Horn",
+          "wikidata": "Q1801368"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "755",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-05-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "Gustav Sandtner (1893–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Augustin Sandtner",
+          "beschriftung": "Gustav Sandtner",
+          "haupt": true,
+          "artikel": "Augustin Sandtner",
+          "wikidata": "Q768069"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "756",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-05-05",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (I)",
+      "bild_beschreibung": "KPD-Politiker Hanns Rothbarth (1904–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hanns Rothbarth",
+          "beschriftung": "Hanns Rothbarth",
+          "haupt": true,
+          "artikel": "Hanns Rothbarth",
+          "wikidata": "Q1028710"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "757",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Einheimische Heilpflanzen",
+      "bild_beschreibung": "Roter Fingerhut (Digitalis purpurea)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roter Fingerhut",
+          "beschriftung": "Roter Fingerhut",
+          "haupt": true,
+          "artikel": "Roter Fingerhut",
+          "wikidata": "Q157555"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Heilpflanze",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "758",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Einheimische Heilpflanzen",
+      "bild_beschreibung": "Echte Kamille (Matricaria chamomilla)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echte Kamille",
+          "beschriftung": "Echte Kamille",
+          "haupt": true,
+          "artikel": "Echte Kamille",
+          "wikidata": "Q28437"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Heilpflanze",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "759",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Einheimische Heilpflanzen",
+      "bild_beschreibung": "Pfefferminze (Mentha piperita)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pfefferminze",
+          "beschriftung": "Pfefferminze",
+          "haupt": true,
+          "artikel": "Pfefferminze",
+          "wikidata": "Q156037"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Heilpflanze",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "760",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Einheimische Heilpflanzen",
+      "bild_beschreibung": "Schlafmohn (Papaver somniferum)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schlafmohn",
+          "beschriftung": "Schlafmohn",
+          "haupt": true,
+          "artikel": "Schlafmohn",
+          "wikidata": "Q131584"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Heilpflanze",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "761",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Einheimische Heilpflanzen",
+      "bild_beschreibung": "Hagebutte (Rosa canina)",
+      "entwerfer": "Ingeborg Friebel",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hagebutte",
+          "beschriftung": "Hagebutte",
+          "haupt": true,
+          "artikel": "Hagebutte",
+          "wikidata": "Q46740"
+        },
+        {
+          "titel": "Heilpflanze",
+          "beschriftung": "Heilpflanze",
+          "haupt": false,
+          "artikel": "Heilpflanze",
+          "wikidata": "Q188840"
+        }
+      ]
+    },
+    {
+      "mi_nr": "762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "90. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "Revolutionär und Staatsmann Wladimir Iljitsch Lenin (1870–1924) vor Fahnen",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": true,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-04-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Inbetriebnahme des Hochseehafens Rostock",
+      "bild_beschreibung": "Das gleiche Motiv ohne Aufdruck wurde 1958 als Mi.-Nr. 663 ausgegeben; 10.000-t-Frachtschiff vom Typ „Frieden“ am Pier",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hafen Rostock",
+          "beschriftung": "Hochseehafens Rostock",
+          "haupt": true,
+          "artikel": "Hafen Rostock",
+          "wikidata": "Q1090823"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1958 der Deutschen Post der DDR",
+          "beschriftung": "1958",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1958 der Deutschen Post der DDR",
+          "wikidata": "Q914441"
+        },
+        {
+          "titel": "Frachtschiff",
+          "beschriftung": "Frachtschiff",
+          "haupt": false,
+          "artikel": "Frachtschiff",
+          "wikidata": "Q105999"
+        },
+        {
+          "titel": "Typ IV",
+          "beschriftung": "Typ „Frieden“",
+          "haupt": false,
+          "artikel": "Typ IV",
+          "wikidata": "Q2462953"
+        },
+        {
+          "titel": "Pier",
+          "beschriftung": "Pier",
+          "haupt": false,
+          "artikel": "Pier",
+          "wikidata": "Q3082251"
+        }
+      ]
+    },
+    {
+      "mi_nr": "764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-05-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "15. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Soldat der Roten Armee mit befreitem Häftling eines Konzentrationslagers",
+      "entwerfer": "Herbert Böhnke",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0764.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Jahrestag der Befreiung vom Faschismus",
+          "haupt": true,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        },
+        {
+          "titel": "Soldat",
+          "beschriftung": "Soldat",
+          "haupt": false,
+          "artikel": "Soldat",
+          "wikidata": "Q4991371"
+        },
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Roten Armee",
+          "haupt": false,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Häftling",
+          "beschriftung": "Häftling",
+          "haupt": false,
+          "artikel": "Gefangener",
+          "wikidata": "Q1862087"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "Konzentrationslager",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-08",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "Max Lademann (1896–1941)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Lademann",
+          "beschriftung": "Max Lademann",
+          "haupt": true,
+          "artikel": "Max Lademann",
+          "wikidata": "Q1912919"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "766",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-08",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "SPD-Politiker Lorenz Breunig (1882–1945)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SPD",
+          "beschriftung": "SPD",
+          "haupt": true,
+          "artikel": "Sozialdemokratische Partei Deutschlands",
+          "wikidata": "Q49768"
+        },
+        {
+          "titel": "Lorenz Breunig",
+          "beschriftung": "Lorenz Breunig",
+          "haupt": false,
+          "artikel": "Lorenz Breunig",
+          "wikidata": "Q1870045"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-08",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: KZ-Opfer (II)",
+      "bild_beschreibung": "KPD-Politiker Mathias Thesen (1891–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mathias Thesen",
+          "beschriftung": "Mathias Thesen",
+          "haupt": true,
+          "artikel": "Mathias Thesen",
+          "wikidata": "Q1908573"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "KZ",
+          "beschriftung": "KZ-Opfer",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        }
+      ]
+    },
+    {
+      "mi_nr": "768",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Stapellauf des FDGB-Urlauberschiffs MS „Fritz Heckert“",
+      "bild_beschreibung": "Modell und Skizze des FDGB-Urlauberschiffs MS „Fritz Heckert“, Emblem des V. Parteitages der SED",
+      "entwerfer": "Harry Prieß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "SED",
+          "beschriftung": "SED",
+          "haupt": true,
+          "artikel": "Sozialistische Einheitspartei Deutschlands",
+          "wikidata": "Q49750"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapellauf",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Fritz Heckert (Schiff)",
+          "beschriftung": "Fritz Heckert",
+          "haupt": false,
+          "artikel": "Fritz Heckert (Schiff)",
+          "wikidata": "Q19962442"
+        }
+      ]
+    },
+    {
+      "mi_nr": "769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-23",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Stapellauf des FDGB-Urlauberschiffs MS „Fritz Heckert“",
+      "bild_beschreibung": "MS „Fritz Heckert“ auf der Helling in Wismar",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Heckert (Schiff)",
+          "beschriftung": "Fritz Heckert",
+          "haupt": true,
+          "artikel": "Fritz Heckert (Schiff)",
+          "wikidata": "Q19962442"
+        },
+        {
+          "titel": "Helling",
+          "beschriftung": "Helling",
+          "haupt": false,
+          "artikel": "Helling",
+          "wikidata": "Q20820202"
+        },
+        {
+          "titel": "Mathias-Thesen-Werft",
+          "beschriftung": "Wismar",
+          "haupt": false,
+          "artikel": "MV Werften Wismar",
+          "wikidata": "Q884303"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapellauf",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "770",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-23",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Stapellauf des FDGB-Urlauberschiffs MS „Fritz Heckert“",
+      "bild_beschreibung": "FDGB-Urlauberschiff Fritz Heckert vor Stubbenkammer, Abzeichen des FDGB",
+      "entwerfer": "Harry Prieß",
+      "auflage": 5500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Heckert (Schiff)",
+          "beschriftung": "Fritz Heckert",
+          "haupt": true,
+          "artikel": "Fritz Heckert (Schiff)",
+          "wikidata": "Q19962442"
+        },
+        {
+          "titel": "Stubbenkammer",
+          "beschriftung": "Stubbenkammer",
+          "haupt": false,
+          "artikel": "Stubbenkammer",
+          "wikidata": "Q2358023"
+        },
+        {
+          "titel": "FDGB",
+          "beschriftung": "FDGB",
+          "haupt": false,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapellauf",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "771",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-06-23",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Stapellauf des FDGB-Urlauberschiffs MS „Fritz Heckert“",
+      "bild_beschreibung": "FDGB-Urlauberschiff Fritz Heckert vor Leningrad (Sankt Petersburg, Peter-und-Paul-Festung und Museumsschiff Aurora)",
+      "entwerfer": "Harry Prieß",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Heckert (Schiff)",
+          "beschriftung": "Fritz Heckert",
+          "haupt": true,
+          "artikel": "Fritz Heckert (Schiff)",
+          "wikidata": "Q19962442"
+        },
+        {
+          "titel": "Sankt Petersburg",
+          "beschriftung": "Sankt Petersburg",
+          "haupt": false,
+          "artikel": "Sankt Petersburg",
+          "wikidata": "Q656"
+        },
+        {
+          "titel": "Peter-und-Paul-Festung",
+          "beschriftung": "Peter-und-Paul-Festung",
+          "haupt": false,
+          "artikel": "Peter-und-Paul-Festung",
+          "wikidata": "Q38646"
+        },
+        {
+          "titel": "Aurora (Schiff, 1903)",
+          "beschriftung": "Aurora",
+          "haupt": false,
+          "artikel": "Aurora (Schiff, 1903)",
+          "wikidata": "Q168713"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapellauf",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        }
+      ]
+    },
+    {
+      "mi_nr": "772",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Lenin- und Thälmann-Denkmäler",
+      "bild_beschreibung": "Lenin-Denkmal in Eisleben",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0772.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenindenkmal (Eisleben)",
+          "beschriftung": "Lenin-Denkmal",
+          "haupt": true,
+          "artikel": "Lenindenkmal (Eisleben)",
+          "wikidata": "Q1817739"
+        },
+        {
+          "titel": "Eisleben",
+          "beschriftung": "Eisleben",
+          "haupt": false,
+          "artikel": "Lutherstadt Eisleben",
+          "wikidata": "Q484870"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        },
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Thälmann",
+          "haupt": false,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        }
+      ]
+    },
+    {
+      "mi_nr": "773",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Lenin- und Thälmann-Denkmäler",
+      "bild_beschreibung": "Ernst-Thälmann-Denkmal in Puschkin (Sowjetunion)",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0773.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst-Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Puschkin (Stadt)",
+          "beschriftung": "Puschkin",
+          "haupt": false,
+          "artikel": "Puschkin (Stadt)",
+          "wikidata": "Q7947"
+        },
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "Sowjetunion",
+          "haupt": false,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-28",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "250 Jahre Meißner Porzellanmanufaktur",
+      "bild_beschreibung": "Maskentänzer (Entwurf: Paul Scheurich (1933))",
+      "entwerfer": "Johannes Widmann",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul Scheurich",
+          "beschriftung": "Paul Scheurich",
+          "haupt": true,
+          "artikel": "Paul Scheurich",
+          "wikidata": "Q2062218"
+        },
+        {
+          "titel": "Meißner Porzellan",
+          "beschriftung": "Meißner Porzellan",
+          "haupt": false,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "250 Jahre Meißner Porzellanmanufaktur",
+      "bild_beschreibung": "Teller mit Meißner Schwertern und Jahreszahlen „1710–1960“",
+      "entwerfer": "Johannes Widmann",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meißner Porzellan",
+          "beschriftung": "Meißner Schwertern",
+          "haupt": true,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "776",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-28",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "250 Jahre Meißner Porzellanmanufaktur",
+      "bild_beschreibung": "Fischotter (Entwurf: Max Esser von 1926 noch in Böttgersteinzeug)",
+      "entwerfer": "Johannes Widmann",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischotter",
+          "beschriftung": "Fischotter",
+          "haupt": true,
+          "artikel": "Fischotter",
+          "wikidata": "Q29995"
+        },
+        {
+          "titel": "Max Esser",
+          "beschriftung": "Max Esser",
+          "haupt": false,
+          "artikel": "Max Esser",
+          "wikidata": "Q1627017"
+        },
+        {
+          "titel": "Böttgersteinzeug",
+          "beschriftung": "Böttgersteinzeug",
+          "haupt": false,
+          "artikel": "Feinsteinzeug",
+          "wikidata": "Q2780343"
+        },
+        {
+          "titel": "Meißner Porzellan",
+          "beschriftung": "Meißner Porzellan",
+          "haupt": false,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "250 Jahre Meißner Porzellanmanufaktur",
+      "bild_beschreibung": "Töpfer (Entwurf: Johann Joachim Kändler)",
+      "entwerfer": "Johannes Widmann",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Töpfer",
+          "beschriftung": "Töpfer",
+          "haupt": true,
+          "artikel": "Töpferei",
+          "wikidata": "Q11642"
+        },
+        {
+          "titel": "Johann Joachim Kändler",
+          "beschriftung": "Johann Joachim Kändler",
+          "haupt": false,
+          "artikel": "Johann Joachim Kändler",
+          "wikidata": "Q73593"
+        },
+        {
+          "titel": "Meißner Porzellan",
+          "beschriftung": "Meißner Porzellan",
+          "haupt": false,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-07-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "250 Jahre Meißner Porzellanmanufaktur",
+      "bild_beschreibung": "Kaffeekanne (Zwiebelmuster)",
+      "entwerfer": "Johannes Widmann",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwiebelmuster",
+          "beschriftung": "Zwiebelmuster",
+          "haupt": true,
+          "artikel": "Zwiebelmuster",
+          "wikidata": "Q244605"
+        },
+        {
+          "titel": "Meißner Porzellan",
+          "beschriftung": "Meißner Porzellan",
+          "haupt": false,
+          "artikel": "Meissener Porzellan",
+          "wikidata": "Q822407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-03-14",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Radweltmeisterschaften 1960 in Leipzig, Karl-Marx-Stadt, Hohenstein-Ernstthal",
+      "bild_beschreibung": "Radrennfahrer im Weltmeister-Trikot",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0779.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radrennfahrer",
+          "beschriftung": "Radrennfahrer",
+          "haupt": true,
+          "artikel": "Radrennfahrer",
+          "wikidata": "Q2309784"
+        },
+        {
+          "titel": "UCI-Bahn-Weltmeisterschaften 1960",
+          "beschriftung": "Radweltmeisterschaften 1960",
+          "haupt": false,
+          "artikel": "Bahnradsport-Weltmeisterschaften 1960",
+          "wikidata": "Q825602"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Karl-Marx-Stadt",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        },
+        {
+          "titel": "Hohenstein-Ernstthal",
+          "beschriftung": "Hohenstein-Ernstthal",
+          "haupt": false,
+          "artikel": "Hohenstein-Ernstthal",
+          "wikidata": "Q20073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-03-14",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Radweltmeisterschaften 1960 in Leipzig, Karl-Marx-Stadt, Hohenstein-Ernstthal",
+      "bild_beschreibung": "Bahnradfahrer",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0780.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnradsport",
+          "beschriftung": "Bahnradfahrer",
+          "haupt": true,
+          "artikel": "Bahnradsport",
+          "wikidata": "Q221635"
+        },
+        {
+          "titel": "UCI-Bahn-Weltmeisterschaften 1960",
+          "beschriftung": "Radweltmeisterschaften 1960",
+          "haupt": false,
+          "artikel": "Bahnradsport-Weltmeisterschaften 1960",
+          "wikidata": "Q825602"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Karl-Marx-Stadt",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        },
+        {
+          "titel": "Hohenstein-Ernstthal",
+          "beschriftung": "Hohenstein-Ernstthal",
+          "haupt": false,
+          "artikel": "Hohenstein-Ernstthal",
+          "wikidata": "Q20073"
+        }
+      ]
+    },
+    {
+      "mi_nr": "781",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-08-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Leipziger Herbstmesse 1960",
+      "bild_beschreibung": "Neuerbautes Leipziger Opernhaus, Messezeichen „MM“",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opernhaus Leipzig",
+          "beschriftung": "Neuerbautes Leipziger Opernhaus",
+          "haupt": true,
+          "artikel": "Opernhaus (Leipzig)",
+          "wikidata": "Q267248"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "782",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-08-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Leipziger Herbstmesse 1960",
+      "bild_beschreibung": "Pkw Wartburg 311, Zelt mit Campingausrüstung, Segelboot, Messezeichen „MM“",
+      "entwerfer": "Fritz Deutschendorf, Hanna Leitner",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wartburg 311",
+          "beschriftung": "Wartburg 311",
+          "haupt": true,
+          "artikel": "Wartburg 311",
+          "wikidata": "Q2603908"
+        },
+        {
+          "titel": "Camping",
+          "beschriftung": "Camping",
+          "haupt": false,
+          "artikel": "Camping",
+          "wikidata": "Q455550"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "783 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-08",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1963-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Sachsenhausen: Mahnmal (III)",
+      "bild_beschreibung": "Diese Marke wurde auch 1961 mit einem anhängenden Zierfeld in einer Auflage von 3.000.000 Stück ausgegeben (Mi.-Nr. 783 B).; Mahnmal der Nationalen Gedenkstätte Sachsenhausen:",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0783 A.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": true,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1961 der Deutschen Post der DDR",
+          "beschriftung": "1961",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1961 der Deutschen Post der DDR",
+          "wikidata": "Q914477"
+        },
+        {
+          "titel": "Mahnmal",
+          "beschriftung": "Mahnmal",
+          "haupt": false,
+          "artikel": "Mahnmal",
+          "wikidata": "Q1885014"
+        },
+        {
+          "titel": "KZ Sachsenhausen",
+          "beschriftung": "Nationalen Gedenkstätte Sachsenhausen",
+          "haupt": false,
+          "artikel": "KZ Sachsenhausen",
+          "wikidata": "Q154498"
+        }
+      ]
+    },
+    {
+      "mi_nr": "784 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tod des DDR-Staatspräsidenten Wilhelm Pieck (1876–1960)",
+      "bild_beschreibung": "Diese Marke wurde auch in einem geschnittenen Briefmarkenblock in einer Auflage von 2.100.000 Stück ausgegeben (Mi.-Nr. 784 B).; Porträt des DDR-Staatspräsidenten Wilhelm Pieck",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "786",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-19",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "XIV. Schacholympiade Leipzig",
+      "bild_beschreibung": "Turm vor stilisiertem Schachbrett und zwei stilisierten Erdhalbkugeln",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0786.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turm (Schach)",
+          "beschriftung": "Turm",
+          "haupt": true,
+          "artikel": "Turm (Schach)",
+          "wikidata": "Q137"
+        },
+        {
+          "titel": "Schachbrett",
+          "beschriftung": "Schachbrett",
+          "haupt": false,
+          "artikel": "Schachbrett",
+          "wikidata": "Q110079"
+        },
+        {
+          "titel": "Schacholympiade 1960",
+          "beschriftung": "XIV. Schacholympiade",
+          "haupt": false,
+          "artikel": "Schacholympiade 1960",
+          "wikidata": "Q700917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "787",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-19",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "XIV. Schacholympiade Leipzig",
+      "bild_beschreibung": "Springer vor stilisiertem Schachbrett und zwei stilisierten Erdhalbkugeln",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0787.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Springer (Schach)",
+          "beschriftung": "Springer",
+          "haupt": true,
+          "artikel": "Springer (Schach)",
+          "wikidata": "Q136"
+        },
+        {
+          "titel": "Schachbrett",
+          "beschriftung": "Schachbrett",
+          "haupt": false,
+          "artikel": "Schachbrett",
+          "wikidata": "Q110079"
+        },
+        {
+          "titel": "Schacholympiade 1960",
+          "beschriftung": "XIV. Schacholympiade",
+          "haupt": false,
+          "artikel": "Schacholympiade 1960",
+          "wikidata": "Q700917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "788",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-09-19",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "XIV. Schacholympiade Leipzig",
+      "bild_beschreibung": "Läufer vor stilisiertem Schachbrett und zwei stilisierten Erdhalbkugeln",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Läufer (Schach)",
+          "beschriftung": "Läufer",
+          "haupt": true,
+          "artikel": "Läufer (Schach)",
+          "wikidata": "Q134"
+        },
+        {
+          "titel": "Schachbrett",
+          "beschriftung": "Schachbrett",
+          "haupt": false,
+          "artikel": "Schachbrett",
+          "wikidata": "Q110079"
+        },
+        {
+          "titel": "Schacholympiade 1960",
+          "beschriftung": "XIV. Schacholympiade",
+          "haupt": false,
+          "artikel": "Schacholympiade 1960",
+          "wikidata": "Q700917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "789",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Moderne Postkraftwagen (Robur Garant und Transporter)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kraftpost",
+          "beschriftung": "Postkraftwagen",
+          "haupt": true,
+          "artikel": "Kraftpost",
+          "wikidata": "Q1785998"
+        },
+        {
+          "titel": "Phänomen Granit 30K",
+          "beschriftung": "Robur Garant",
+          "haupt": false,
+          "artikel": "Phänomen Granit 30K",
+          "wikidata": "Q2089571"
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "790",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Bahnpostwagen (19. Jahrhundert)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnpost",
+          "beschriftung": "Bahnpost",
+          "haupt": true,
+          "artikel": "Bahnpost",
+          "wikidata": "Q134011864"
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        }
+      ]
+    },
+    {
+      "mi_nr": "791",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "400 Jahre Dresdner Kunstsammlungen",
+      "bild_beschreibung": "Schaumünze (1518) mit Kopfbild des Malers Hans Burgkmair (1473–1531)",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Burgkmair",
+          "beschriftung": "Hans Burgkmair",
+          "haupt": true,
+          "artikel": "Hans Burgkmair der Ältere",
+          "wikidata": "Q313163"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Dresdner Kunstsammlungen",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        }
+      ]
+    },
+    {
+      "mi_nr": "792",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "400 Jahre Dresdner Kunstsammlungen",
+      "bild_beschreibung": "Kupferstich „Das tanzende Bauernpaar“ von Albrecht Dürer (1471–1528)",
+      "entwerfer": "Oswin Volkamer",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0792.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kupferstich",
+          "beschriftung": "Kupferstich",
+          "haupt": true,
+          "artikel": "Kupferstich",
+          "wikidata": "Q4287629"
+        },
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": false,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Staatliche Kunstsammlungen Dresden",
+          "beschriftung": "Dresdner Kunstsammlungen",
+          "haupt": false,
+          "artikel": "Staatliche Kunstsammlungen Dresden",
+          "wikidata": "Q653002"
+        }
+      ]
+    },
+    {
+      "mi_nr": "793",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "200. Geburtstag von Neidhardt von Gneisenau",
+      "bild_beschreibung": "Brustbild des preußischen Heerführers Neidhardt von Gneisenaus in Uniform",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "August Neidhardt von Gneisenau",
+          "beschriftung": "Neidhardt von Gneisenau",
+          "haupt": true,
+          "artikel": "August Neidhardt von Gneisenau",
+          "wikidata": "Q165519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "794",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-10-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "200. Geburtstag von Neidhardt von Gneisenau",
+      "bild_beschreibung": "Brustbild des preußischen Heerführers Neidhardt von Gneisenaus in Uniform",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1960, MiNr 0794.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "August Neidhardt von Gneisenau",
+          "beschriftung": "Neidhardt von Gneisenau",
+          "haupt": true,
+          "artikel": "August Neidhardt von Gneisenau",
+          "wikidata": "Q165519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "795",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-04",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "150 Jahre Humboldt-Universität zu Berlin, 250 Jahre Charité, Berlin",
+      "bild_beschreibung": "Pathologe, Medizinhistoriker, Politiker Rudolf Virchow",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pathologe",
+          "beschriftung": "Pathologe",
+          "haupt": true,
+          "artikel": "Facharzt für Pathologie",
+          "wikidata": "Q3615132"
+        },
+        {
+          "titel": "Medizinhistoriker",
+          "beschriftung": "Medizinhistoriker",
+          "haupt": false,
+          "artikel": "Medizingeschichte",
+          "wikidata": "Q26882826"
+        },
+        {
+          "titel": "Politiker",
+          "beschriftung": "Politiker",
+          "haupt": false,
+          "artikel": "Politiker",
+          "wikidata": "Q82955"
+        },
+        {
+          "titel": "Rudolf Virchow",
+          "beschriftung": "Rudolf Virchow",
+          "haupt": false,
+          "artikel": "Rudolf Virchow",
+          "wikidata": "Q76432"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität zu Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "796",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-04",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "150 Jahre Humboldt-Universität zu Berlin, 250 Jahre Charité, Berlin",
+      "bild_beschreibung": "Bakteriologe Robert Koch",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bakteriologe",
+          "beschriftung": "Bakteriologe",
+          "haupt": true,
+          "artikel": "Bakteriologie",
+          "wikidata": "Q243748"
+        },
+        {
+          "titel": "Robert Koch",
+          "beschriftung": "Robert Koch",
+          "haupt": false,
+          "artikel": "Robert Koch",
+          "wikidata": "Q37193"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität zu Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "797",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "150 Jahre Humboldt-Universität zu Berlin, 250 Jahre Charité, Berlin",
+      "bild_beschreibung": "Hauptgebäude der Humboldt-Universität zu Berlin, Denkmale der Brüder Wilhelm und Alexander von Humboldt",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Palais des Prinzen Heinrich",
+          "beschriftung": "Hauptgebäude",
+          "haupt": true,
+          "artikel": "Palais des Prinzen Heinrich",
+          "wikidata": "Q2047280"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität zu Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Wilhelm von Humboldt",
+          "beschriftung": "Wilhelm",
+          "haupt": false,
+          "artikel": "Wilhelm von Humboldt",
+          "wikidata": "Q77888"
+        },
+        {
+          "titel": "Alexander von Humboldt",
+          "beschriftung": "Alexander von Humboldt",
+          "haupt": false,
+          "artikel": "Alexander von Humboldt",
+          "wikidata": "Q6694"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "798",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-04",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "150 Jahre Humboldt-Universität zu Berlin, 250 Jahre Charité, Berlin",
+      "bild_beschreibung": "Vorderseite der Festplakette (Kopfbilder der Brüder W. und A. von Humboldt)",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plakette",
+          "beschriftung": "Festplakette",
+          "haupt": true,
+          "artikel": "Plakette",
+          "wikidata": "Q4364339"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität zu Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "799",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-04",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "150 Jahre Humboldt-Universität zu Berlin, 250 Jahre Charité, Berlin",
+      "bild_beschreibung": "Psychiater und Internist Wilhelm Griesinger",
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Psychiater",
+          "beschriftung": "Psychiater",
+          "haupt": true,
+          "artikel": "Psychiater",
+          "wikidata": "Q211346"
+        },
+        {
+          "titel": "Internist",
+          "beschriftung": "Internist",
+          "haupt": false,
+          "artikel": "Innere Medizin",
+          "wikidata": "Q11180"
+        },
+        {
+          "titel": "Wilhelm Griesinger",
+          "beschriftung": "Wilhelm Griesinger",
+          "haupt": false,
+          "artikel": "Wilhelm Griesinger",
+          "wikidata": "Q64963"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität zu Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        },
+        {
+          "titel": "Charité",
+          "beschriftung": "Charité",
+          "haupt": false,
+          "artikel": "Charité",
+          "wikidata": "Q162684"
+        }
+      ]
+    },
+    {
+      "mi_nr": "800",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tag des Chemiearbeiters",
+      "bild_beschreibung": "Chemiker mit wissenschaftlicher Formel, Destillationskolonne",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "Formel",
+          "beschriftung": "Formel",
+          "haupt": false,
+          "artikel": "Formel",
+          "wikidata": "Q976981"
+        },
+        {
+          "titel": "Destillationskolonne",
+          "beschriftung": "Destillationskolonne",
+          "haupt": false,
+          "artikel": "Rektifikationskolonne",
+          "wikidata": "Q1436074"
+        },
+        {
+          "titel": "Feiertage in der DDR",
+          "beschriftung": "Tag des Chemiearbeiters",
+          "haupt": false,
+          "artikel": "Feiertage in der DDR",
+          "wikidata": "Q897143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "801",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tag des Chemiearbeiters",
+      "bild_beschreibung": "Chemiearbeiter, Düngemittel, Destillationskolonne",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Düngemittel",
+          "beschriftung": "Düngemittel",
+          "haupt": true,
+          "artikel": "Dünger",
+          "wikidata": "Q83323"
+        },
+        {
+          "titel": "Feiertage in der DDR",
+          "beschriftung": "Tag des Chemiearbeiters",
+          "haupt": false,
+          "artikel": "Feiertage in der DDR",
+          "wikidata": "Q897143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "802",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tag des Chemiearbeiters",
+      "bild_beschreibung": "Chemiearbeiterin, Pkw Trabant 500, Destillationskolonne",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trabant P 50",
+          "beschriftung": "Trabant 500",
+          "haupt": true,
+          "artikel": "Trabant P 50",
+          "wikidata": "Q2447347"
+        },
+        {
+          "titel": "Feiertage in der DDR",
+          "beschriftung": "Tag des Chemiearbeiters",
+          "haupt": false,
+          "artikel": "Feiertage in der DDR",
+          "wikidata": "Q897143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "803",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-11-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "Tag des Chemiearbeiters",
+      "bild_beschreibung": "Laborantin, Kleid aus Kunstfasergewebe, Destillationskolonne",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Laborant",
+          "beschriftung": "Laborant",
+          "haupt": true,
+          "artikel": "Laborant",
+          "wikidata": "Q1483433"
+        },
+        {
+          "titel": "Kunstfaser",
+          "beschriftung": "Kunstfaser",
+          "haupt": false,
+          "artikel": "Faser",
+          "wikidata": "Q161"
+        },
+        {
+          "titel": "Feiertage in der DDR",
+          "beschriftung": "Tag des Chemiearbeiters",
+          "haupt": false,
+          "artikel": "Feiertage in der DDR",
+          "wikidata": "Q897143"
+        }
+      ]
+    },
+    {
+      "mi_nr": "804",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-12-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "125. Jahre Deutsche Eisenbahnen",
+      "bild_beschreibung": "Doppelstock-Gliederzug „Expreß junger Sozialisten“ und Signalbrücke",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 22000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Doppelstockwagen",
+          "beschriftung": "Doppelstock",
+          "haupt": true,
+          "artikel": "Doppelstockwagen",
+          "wikidata": "Q1243337"
+        },
+        {
+          "titel": "Gliederzug (Schiene)",
+          "beschriftung": "Gliederzug",
+          "haupt": false,
+          "artikel": "Gliederzug (Schiene)",
+          "wikidata": "Q915775"
+        },
+        {
+          "titel": "Eisenbahnsignal",
+          "beschriftung": "Signalbrücke",
+          "haupt": false,
+          "artikel": "Eisenbahnsignal",
+          "wikidata": "Q862562"
+        },
+        {
+          "titel": "Geschichte der Eisenbahn in Deutschland",
+          "beschriftung": "Deutsche Eisenbahnen",
+          "haupt": false,
+          "artikel": "Geschichte der Eisenbahn in Deutschland",
+          "wikidata": "Q458361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "805 A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-12-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "125. Jahre Deutsche Eisenbahnen",
+      "bild_beschreibung": "Neuer Bahnhof Sassnitz Hafen, Eisenbahnfähre Sassnitz; Bogenausgabe (gezähnt)",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnhof Sassnitz Hafen",
+          "beschriftung": "Bahnhof Sassnitz Hafen",
+          "haupt": true,
+          "artikel": "Bahnhof Sassnitz Hafen",
+          "wikidata": "Q801399"
+        },
+        {
+          "titel": "Sassnitz (Schiff, 1959)",
+          "beschriftung": "Sassnitz",
+          "haupt": false,
+          "artikel": "Sassnitz (Schiff, 1959)",
+          "wikidata": "Q1780011"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Bogenausgabe",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "gezähnt",
+          "haupt": false,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Geschichte der Eisenbahn in Deutschland",
+          "beschriftung": "Deutsche Eisenbahnen",
+          "haupt": false,
+          "artikel": "Geschichte der Eisenbahn in Deutschland",
+          "wikidata": "Q458361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "805 B",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-12-05",
+      "wert": "20 (geschnitten)",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "125. Jahre Deutsche Eisenbahnen",
+      "bild_beschreibung": "Neuer Bahnhof Sassnitz Hafen, Eisenbahnfähre „Sassnitz“; geschnittene Ausgabe in Zehnerstreifen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkentrennung",
+          "beschriftung": "geschnittene",
+          "haupt": true,
+          "artikel": "Briefmarkentrennung",
+          "wikidata": "Q731790"
+        },
+        {
+          "titel": "Geschichte der Eisenbahn in Deutschland",
+          "beschriftung": "Deutsche Eisenbahnen",
+          "haupt": false,
+          "artikel": "Geschichte der Eisenbahn in Deutschland",
+          "wikidata": "Q458361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "806",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1960-12-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "125. Jahre Deutsche Eisenbahnen",
+      "bild_beschreibung": "Diesellokomotive V 180 (BR 118) mit Doppelstock-Gliederzug, erste deutsche Dampflokomotive „Adler“",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 1000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diesellokomotive",
+          "beschriftung": "Diesellokomotive",
+          "haupt": true,
+          "artikel": "Diesellokomotive",
+          "wikidata": "Q34336"
+        },
+        {
+          "titel": "DR-Baureihe V 180",
+          "beschriftung": "V 180",
+          "haupt": false,
+          "artikel": "DR-Baureihe V 180",
+          "wikidata": "Q453354"
+        },
+        {
+          "titel": "LEG – Adler und Pfeil",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "LEG – Adler und Pfeil",
+          "wikidata": "Q358107"
+        },
+        {
+          "titel": "Geschichte der Eisenbahn in Deutschland",
+          "beschriftung": "Deutsche Eisenbahnen",
+          "haupt": false,
+          "artikel": "Geschichte der Eisenbahn in Deutschland",
+          "wikidata": "Q458361"
+        }
+      ]
+    }
+  ]
+}

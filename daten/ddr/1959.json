@@ -1,0 +1,2748 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1959,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1959 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1959_der_Deutschen_Post_der_DDR",
+    "revision": 256168589,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 580,
+    "mi_nr_bis": 745,
+    "luecken": [
+      581,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 72,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "673",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-01-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-03-31",
+      "anlass": "83. Geburtstag von Wilhelm Pieck",
+      "bild_beschreibung": "Wilhelm Pieck",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Pieck",
+          "beschriftung": "Wilhelm Pieck",
+          "haupt": true,
+          "artikel": "Wilhelm Pieck",
+          "wikidata": "Q65917"
+        }
+      ]
+    },
+    {
+      "mi_nr": "674",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-01-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "40. Todestag von Rosa Luxemburg und Karl Liebknecht",
+      "bild_beschreibung": "Rosa Luxemburg auf einer Versammlung, Mitbegründerin der KPD (1870–1919)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0674.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KPD",
+          "beschriftung": "KPD",
+          "haupt": true,
+          "artikel": "Kommunistische Partei Deutschlands",
+          "wikidata": "Q153401"
+        },
+        {
+          "titel": "Rosa Luxemburg",
+          "beschriftung": "Rosa Luxemburg",
+          "haupt": false,
+          "artikel": "Rosa Luxemburg",
+          "wikidata": "Q7231"
+        },
+        {
+          "titel": "Karl Liebknecht",
+          "beschriftung": "Karl Liebknecht",
+          "haupt": false,
+          "artikel": "Karl Liebknecht",
+          "wikidata": "Q75886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "675",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-01-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "40. Todestag von Rosa Luxemburg und Karl Liebknecht",
+      "bild_beschreibung": "Ansprache von Karl Liebknecht, Mitbegründer der KPD (1871–1919)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0675.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosa Luxemburg",
+          "beschriftung": "Rosa Luxemburg",
+          "haupt": true,
+          "artikel": "Rosa Luxemburg",
+          "wikidata": "Q7231"
+        },
+        {
+          "titel": "Karl Liebknecht",
+          "beschriftung": "Karl Liebknecht",
+          "haupt": false,
+          "artikel": "Karl Liebknecht",
+          "wikidata": "Q75886"
+        }
+      ]
+    },
+    {
+      "mi_nr": "676",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-02-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "150. Geburtstag von Felix Mendelssohn Bartholdy",
+      "bild_beschreibung": "Gewandhaus",
+      "entwerfer": "Renate Israel",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0676.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewandhaus (Leipzig)",
+          "beschriftung": "Gewandhaus",
+          "haupt": true,
+          "artikel": "Gewandhaus (Leipzig)",
+          "wikidata": "Q519613"
+        },
+        {
+          "titel": "Felix Mendelssohn Bartholdy",
+          "beschriftung": "Felix Mendelssohn Bartholdy",
+          "haupt": false,
+          "artikel": "Felix Mendelssohn Bartholdy",
+          "wikidata": "Q46096"
+        }
+      ]
+    },
+    {
+      "mi_nr": "677",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-02-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "150. Geburtstag von Felix Mendelssohn Bartholdy",
+      "bild_beschreibung": "Noten des Einleitungsthemas zum 1. Satz der Sinfonie Nr. 4 A-Dur (Italienische Sinfonie)",
+      "entwerfer": "Renate Israel",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0677.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thema (Musik)",
+          "beschriftung": "themas",
+          "haupt": true,
+          "artikel": "Thema (Musik)",
+          "wikidata": "Q833053"
+        },
+        {
+          "titel": "Sinfonie",
+          "beschriftung": "Sinfonie",
+          "haupt": false,
+          "artikel": "Sinfonie",
+          "wikidata": "Q9734"
+        },
+        {
+          "titel": "A-Dur",
+          "beschriftung": "A-Dur",
+          "haupt": false,
+          "artikel": "A-Dur",
+          "wikidata": "Q277793"
+        },
+        {
+          "titel": "Italienische Sinfonie",
+          "beschriftung": "Italienische Sinfonie",
+          "haupt": false,
+          "artikel": "4. Sinfonie (Mendelssohn)",
+          "wikidata": "Q231213"
+        },
+        {
+          "titel": "Felix Mendelssohn Bartholdy",
+          "beschriftung": "Felix Mendelssohn Bartholdy",
+          "haupt": false,
+          "artikel": "Felix Mendelssohn Bartholdy",
+          "wikidata": "Q46096"
+        }
+      ]
+    },
+    {
+      "mi_nr": "678",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-02-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1959",
+      "bild_beschreibung": "Kombinat Schwarze Pumpe, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kraftwerk Schwarze Pumpe",
+          "beschriftung": "Kombinat Schwarze Pumpe",
+          "haupt": true,
+          "artikel": "Kraftwerk Schwarze Pumpe",
+          "wikidata": "Q464720"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "679",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-02-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Leipziger Frühjahrsmesse 1959",
+      "bild_beschreibung": "Schmalfilmkamera und Fotoapparate",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schmalfilm",
+          "beschriftung": "Schmalfilm",
+          "haupt": true,
+          "artikel": "Schmalfilm",
+          "wikidata": "Q474805"
+        },
+        {
+          "titel": "Fotoapparat",
+          "beschriftung": "Fotoapparat",
+          "haupt": false,
+          "artikel": "Fotoapparat",
+          "wikidata": "Q313600"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "680",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-04-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "5 Jahre Jugendweihe",
+      "bild_beschreibung": "Junge und Mädchen mit Buch „Weltall, Erde, Mensch“, sinnbildliche Darstellungen aus Industrie und Landwirtschaft",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0680.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltall, Erde, Mensch",
+          "beschriftung": "Weltall, Erde, Mensch",
+          "haupt": true,
+          "artikel": "Weltall Erde Mensch",
+          "wikidata": "Q1771095"
+        },
+        {
+          "titel": "Jugendweihe",
+          "beschriftung": "Jugendweihe",
+          "haupt": false,
+          "artikel": "Jugendweihe",
+          "wikidata": "Q17050136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "681",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-04-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "5 Jahre Jugendweihe",
+      "bild_beschreibung": "Junge und Mädchen mit Buch „Weltall, Erde, Mensch“, sinnbildliche Darstellungen aus Industrie und Landwirtschaft",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0681.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jugendweihe",
+          "beschriftung": "Jugendweihe",
+          "haupt": true,
+          "artikel": "Jugendweihe",
+          "wikidata": "Q17050136"
+        }
+      ]
+    },
+    {
+      "mi_nr": "682",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-04-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "200. Todestag von Georg Friedrich Händel",
+      "bild_beschreibung": "Denkmal des Komponisten Georg Friedrich Händel (1685–1759) in Halle, Stadtwappen, Oboe",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": true,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Halle (Saale)",
+          "beschriftung": "Halle",
+          "haupt": false,
+          "artikel": "Halle (Saale)",
+          "wikidata": "Q2814"
+        },
+        {
+          "titel": "Oboe",
+          "beschriftung": "Oboe",
+          "haupt": false,
+          "artikel": "Oboe",
+          "wikidata": "Q8377"
+        },
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": false,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        }
+      ]
+    },
+    {
+      "mi_nr": "683",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-04-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "200. Todestag von Georg Friedrich Händel",
+      "bild_beschreibung": "Komponist Georg Friedrich Händel",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Friedrich Händel",
+          "beschriftung": "Georg Friedrich Händel",
+          "haupt": true,
+          "artikel": "Georg Friedrich Händel",
+          "wikidata": "Q7302"
+        }
+      ]
+    },
+    {
+      "mi_nr": "684",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "100. Todestag von Alexander von Humboldt",
+      "bild_beschreibung": "Halbporträt des Naturforschers Alexander von Humboldt, mittelamerikanische Landschaft",
+      "entwerfer": "Gertraud Thieme",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Naturforscher",
+          "beschriftung": "Naturforscher",
+          "haupt": true,
+          "artikel": "Naturgeschichte",
+          "wikidata": "Q484591"
+        },
+        {
+          "titel": "mittelamerika",
+          "beschriftung": "mittelamerika",
+          "haupt": false,
+          "artikel": "Mittelamerika",
+          "wikidata": "Q29876"
+        },
+        {
+          "titel": "Alexander von Humboldt",
+          "beschriftung": "Alexander von Humboldt",
+          "haupt": false,
+          "artikel": "Alexander von Humboldt",
+          "wikidata": "Q6694"
+        }
+      ]
+    },
+    {
+      "mi_nr": "685",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "100. Todestag von Alexander von Humboldt",
+      "bild_beschreibung": "Halbporträt des Naturforschers Alexander von Humboldt, Schlitten in sibirischer Winterlandschaft",
+      "entwerfer": "Gertraud Thieme",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alexander von Humboldt",
+          "beschriftung": "Alexander von Humboldt",
+          "haupt": true,
+          "artikel": "Alexander von Humboldt",
+          "wikidata": "Q6694"
+        }
+      ]
+    },
+    {
+      "mi_nr": "686",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Konferenz der Minister des Post- und Fernmeldewesens der sozialistischen Länder (OSS)",
+      "bild_beschreibung": "Emblem der Konferenz (Posthorn mit Umschrift)",
+      "entwerfer": "Horst Klöpfel",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0686.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        }
+      ]
+    },
+    {
+      "mi_nr": "687",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-30",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Konferenz der Minister des Post- und Fernmeldewesens der sozialistischen Länder (OSS)",
+      "bild_beschreibung": "Emblem der Konferenz (Posthorn mit Umschrift)",
+      "entwerfer": "Horst Klöpfel",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0687.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "688",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Naturschutz",
+      "bild_beschreibung": "Fisch- oder Graureiher (Ardea cinerea), Gemeine Kiefer (Pinus sylvestris)",
+      "entwerfer": "Waltraud Oehlke",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0688.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Graureiher",
+          "beschriftung": "Graureiher",
+          "haupt": true,
+          "artikel": "Graureiher",
+          "wikidata": "Q25273"
+        },
+        {
+          "titel": "Waldkiefer",
+          "beschriftung": "Kiefer",
+          "haupt": false,
+          "artikel": "Waldkiefer",
+          "wikidata": "Q133128"
+        },
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Naturschutz",
+          "haupt": false,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "689",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Naturschutz",
+      "bild_beschreibung": "Rohrdommel (Botaurus stellaris) und Gemeines Schilfrohr (Phragmites communis)",
+      "entwerfer": "Waltraud Oehlke",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0689.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rohrdommel",
+          "beschriftung": "Rohrdommel",
+          "haupt": true,
+          "artikel": "Rohrdommel",
+          "wikidata": "Q25709"
+        },
+        {
+          "titel": "Schilfrohr",
+          "beschriftung": "Schilfrohr",
+          "haupt": false,
+          "artikel": "Schilfrohr",
+          "wikidata": "Q28557"
+        },
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Naturschutz",
+          "haupt": false,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "690",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Naturschutz",
+      "bild_beschreibung": "Tagpfauenauge (Vanessa io) und Maiglöckchen (Convallaria majalis)",
+      "entwerfer": "Waltraud Oehlke",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0690.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tagpfauenauge",
+          "beschriftung": "Tagpfauenauge",
+          "haupt": true,
+          "artikel": "Tagpfauenauge",
+          "wikidata": "Q158699"
+        },
+        {
+          "titel": "Maiglöckchen",
+          "beschriftung": "Maiglöckchen",
+          "haupt": false,
+          "artikel": "Maiglöckchen",
+          "wikidata": "Q101711"
+        },
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Naturschutz",
+          "haupt": false,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "691",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Naturschutz",
+      "bild_beschreibung": "Elbebiber (Castor fiber albicus)",
+      "entwerfer": "Waltraud Oehlke",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0691.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Biber",
+          "beschriftung": "Elbebiber",
+          "haupt": true,
+          "artikel": "Biber",
+          "wikidata": "Q47542"
+        },
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Naturschutz",
+          "haupt": false,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "692",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-26",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Naturschutz",
+      "bild_beschreibung": "Honigbiene (Apis mellifica) und Salweide (Salix caprea)",
+      "entwerfer": "Waltraud Oehlke",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0692.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Honigbiene",
+          "beschriftung": "Honigbiene",
+          "haupt": true,
+          "artikel": "Westliche Honigbiene",
+          "wikidata": "Q30034"
+        },
+        {
+          "titel": "Salweide",
+          "beschriftung": "Salweide",
+          "haupt": false,
+          "artikel": "Sal-Weide",
+          "wikidata": "Q159565"
+        },
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Naturschutz",
+          "haupt": false,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "693",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-29",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (III)",
+      "bild_beschreibung": "„Selbstbildnis im Kostüm einer Vestalin“ von Angelika Kauffmann",
+      "entwerfer": "Erich Gruner",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0693.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": true,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        },
+        {
+          "titel": "Vestalin",
+          "beschriftung": "Vestalin",
+          "haupt": false,
+          "artikel": "Vestalin",
+          "wikidata": "Q188761"
+        },
+        {
+          "titel": "Angelika Kauffmann",
+          "beschriftung": "Angelika Kauffmann",
+          "haupt": false,
+          "artikel": "Angelika Kauffmann",
+          "wikidata": "Q123098"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "694",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (III)",
+      "bild_beschreibung": "„Dame mit dem Klöppelkissen“ von Gabriel Metsu",
+      "entwerfer": "Erich Gruner",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0694.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Klöppeln",
+          "beschriftung": "Klöppelkissen",
+          "haupt": true,
+          "artikel": "Klöppeln",
+          "wikidata": "Q64407093"
+        },
+        {
+          "titel": "Gabriel Metsu",
+          "beschriftung": "Gabriel Metsu",
+          "haupt": false,
+          "artikel": "Gabriel Metsu",
+          "wikidata": "Q355213"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "695",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (III)",
+      "bild_beschreibung": "„Des Magisters Nichte Mademoiselle Lavergne“ von Jean Etienne Liotard",
+      "entwerfer": "Erich Gruner",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0695.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magister",
+          "beschriftung": "Magister",
+          "haupt": true,
+          "artikel": "Magister",
+          "wikidata": "Q1589434"
+        },
+        {
+          "titel": "Jean Etienne Liotard",
+          "beschriftung": "Jean Etienne Liotard",
+          "haupt": false,
+          "artikel": "Jean-Étienne Liotard",
+          "wikidata": "Q123757"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "696",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (III)",
+      "bild_beschreibung": "„Die Alte mit dem Kohlenbecken“ von Peter Paul Rubens",
+      "entwerfer": "Erich Gruner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0696.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Peter Paul Rubens",
+          "beschriftung": "Peter Paul Rubens",
+          "haupt": true,
+          "artikel": "Peter Paul Rubens",
+          "wikidata": "Q5599"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "697",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-29",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie (III)",
+      "bild_beschreibung": "„Junger Mann im schwarzen Rock“ von Frans Hals",
+      "entwerfer": "Erich Gruner",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0697.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frans Hals",
+          "beschriftung": "Frans Hals",
+          "haupt": true,
+          "artikel": "Frans Hals",
+          "wikidata": "Q167654"
+        },
+        {
+          "titel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "beschriftung": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "haupt": false,
+          "artikel": "Von der UdSSR zurückgeführte Gemälde der Dresdner Gemäldegalerie",
+          "wikidata": "Q14520100"
+        }
+      ]
+    },
+    {
+      "mi_nr": "698",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-02",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Heimische Vögel",
+      "bild_beschreibung": "Kormoran (Phalacrocorax carbo)",
+      "entwerfer": "Andreas Brylka",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0698.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kormoran (Art)",
+          "beschriftung": "Kormoran",
+          "haupt": true,
+          "artikel": "Kormoran (Art)",
+          "wikidata": "Q25440"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "699",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Heimische Vögel",
+      "bild_beschreibung": "Schwarzstorch (Ciconia nigra)",
+      "entwerfer": "Andreas Brylka",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0699.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwarzstorch",
+          "beschriftung": "Schwarzstorch",
+          "haupt": true,
+          "artikel": "Schwarzstorch",
+          "wikidata": "Q25398"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "700",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-02",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Heimische Vögel",
+      "bild_beschreibung": "Uhu (Bubo bubo)",
+      "entwerfer": "Andreas Brylka",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0700.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Uhu",
+          "beschriftung": "Uhu",
+          "haupt": true,
+          "artikel": "Uhu",
+          "wikidata": "Q130933"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "701",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Heimische Vögel",
+      "bild_beschreibung": "Birkhuhn (Lyrurus tetrix)",
+      "entwerfer": "Andreas Brylka",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0701.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Birkhuhn",
+          "beschriftung": "Birkhuhn",
+          "haupt": true,
+          "artikel": "Birkhuhn",
+          "wikidata": "Q155878"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "702",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1961-03-31",
+      "wert": "2. Juli",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Heimische Vögel",
+      "bild_beschreibung": "Wiedehopf (Upupa epops); |25",
+      "entwerfer": "Andreas Brylka",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiedehopf",
+          "beschriftung": "Wiedehopf",
+          "haupt": true,
+          "artikel": "Wiedehopf",
+          "wikidata": "Q25247"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "703",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-02",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Heimische Vögel",
+      "bild_beschreibung": "Wanderfalke (Falco peregrinus)",
+      "entwerfer": "Andreas Brylka",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0703.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wanderfalke",
+          "beschriftung": "Wanderfalke",
+          "haupt": true,
+          "artikel": "Wanderfalke",
+          "wikidata": "Q30535"
+        },
+        {
+          "titel": "Vögel",
+          "beschriftung": "Vögel",
+          "haupt": false,
+          "artikel": "Vögel",
+          "wikidata": "Q5113"
+        }
+      ]
+    },
+    {
+      "mi_nr": "705",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-25",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Weltfestspiele der Jugend und Studenten, Wien",
+      "bild_beschreibung": "Jugendliche verschiedener Hautfarben, Emblem der Weltfestspiele",
+      "entwerfer": "Harry Prieß",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0705.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": false,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "706",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-07-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Weltfestspiele der Jugend und Studenten, Wien",
+      "bild_beschreibung": "Weißes und schwarzes Mädchen, Emblem der Weltfestspiele",
+      "entwerfer": "Harry Prieß",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0706.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltfestspiele der Jugend und Studenten",
+          "beschriftung": "Weltfestspiele der Jugend und Studenten",
+          "haupt": true,
+          "artikel": "Weltfestspiele der Jugend und Studenten",
+          "wikidata": "Q249093"
+        },
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": false,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "707",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-10",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Gymnastik mit Reifen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0707.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rhythmische Sportgymnastik",
+          "beschriftung": "Gymnastik",
+          "haupt": true,
+          "artikel": "Rhythmische Sportgymnastik",
+          "wikidata": "Q61465"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "708",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-10",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Hochsprung",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0708.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochsprung",
+          "beschriftung": "Hochsprung",
+          "haupt": true,
+          "artikel": "Hochsprung",
+          "wikidata": "Q165704"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "709",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-10",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Turnen am Seitpferd",
+      "entwerfer": "Harry Prieß",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0709.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Seitpferd",
+          "beschriftung": "Seitpferd",
+          "haupt": true,
+          "artikel": "Pauschenpferd",
+          "wikidata": "Q840330"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "710",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-10",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Gymnastik mit den Keulen",
+      "entwerfer": "Harry Prieß",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0710.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": true,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "711",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-10",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Deutsches Turn- und Sportfest Leipzig",
+      "bild_beschreibung": "Feuerwerk über dem Zentralstadion in Leipzig mit Glockenturm",
+      "entwerfer": "Harry Prieß",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0711.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zentralstadion Leipzig (1956)",
+          "beschriftung": "Zentralstadion",
+          "haupt": true,
+          "artikel": "Zentralstadion Leipzig (1956)",
+          "wikidata": "Q8069248"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Glockenturm",
+          "beschriftung": "Glockenturm",
+          "haupt": false,
+          "artikel": "Glockenturm",
+          "wikidata": "Q200334"
+        },
+        {
+          "titel": "Turn- und Sportfest der DDR",
+          "beschriftung": "Deutsches Turn- und Sportfest",
+          "haupt": false,
+          "artikel": "Turn- und Sportfest der DDR",
+          "wikidata": "Q1552923"
+        }
+      ]
+    },
+    {
+      "mi_nr": "712",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-08-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Leipziger Herbstmesse 1959",
+      "bild_beschreibung": "Neubauten des Innenstadtring (Roßplatz) in Leipzig, Erdkugel und Mustermesse-Symbol \"MM\"",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0712.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        },
+        {
+          "titel": "Innenstadtring (Leipzig)",
+          "beschriftung": "Innenstadtring",
+          "haupt": false,
+          "artikel": "Innenstadtring (Leipzig)",
+          "wikidata": "Q1597221"
+        },
+        {
+          "titel": "Roßplatz",
+          "beschriftung": "Roßplatz",
+          "haupt": false,
+          "artikel": "Roßplatz",
+          "wikidata": "Q1554654"
+        },
+        {
+          "titel": "Mustermesse",
+          "beschriftung": "Mustermesse",
+          "haupt": false,
+          "artikel": "Mustermesse",
+          "wikidata": "Q1955633"
+        }
+      ]
+    },
+    {
+      "mi_nr": "713",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "75 Jahre Jenaer Glaswerke",
+      "bild_beschreibung": "Teegeschirr aus Jenaer Glas",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jenaer Glas",
+          "beschriftung": "Jenaer Glas",
+          "haupt": true,
+          "artikel": "Jenaer Glas",
+          "wikidata": "Q1686806"
+        },
+        {
+          "titel": "Schott AG",
+          "beschriftung": "Jenaer Glaswerke",
+          "haupt": false,
+          "artikel": "Schott AG",
+          "wikidata": "Q565558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "714",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "75 Jahre Jenaer Glaswerke",
+      "bild_beschreibung": "Labor-Bi-Destillationsapparat aus Jenaer Glas",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schott AG",
+          "beschriftung": "Jenaer Glaswerke",
+          "haupt": true,
+          "artikel": "Schott AG",
+          "wikidata": "Q565558"
+        }
+      ]
+    },
+    {
+      "mi_nr": "715",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-03",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+      "bild_beschreibung": "Widerstandskämpferin Tilde Klose (1892–1945)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Widerstand gegen den Nationalsozialismus",
+          "beschriftung": "Widerstandskämpferin",
+          "haupt": true,
+          "artikel": "Widerstand gegen den Nationalsozialismus",
+          "wikidata": "Q2094191"
+        },
+        {
+          "titel": "Tilde Klose",
+          "beschriftung": "Tilde Klose",
+          "haupt": false,
+          "artikel": "Mathilde Klose",
+          "wikidata": "Q8085571"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "716",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-03",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+      "bild_beschreibung": "KPD-Widerstandskämpferin Käthe Niederkirchner (1909–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KPD",
+          "beschriftung": "KPD",
+          "haupt": true,
+          "artikel": "Kommunistische Partei Deutschlands",
+          "wikidata": "Q153401"
+        },
+        {
+          "titel": "Käthe Niederkirchner",
+          "beschriftung": "Käthe Niederkirchner",
+          "haupt": false,
+          "artikel": "Käthe Niederkirchner",
+          "wikidata": "Q1795540"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "717",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-03",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+      "bild_beschreibung": "Widerstandskämpferin Charlotte Eisenblätter (1903–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Charlotte Eisenblätter",
+          "beschriftung": "Charlotte Eisenblätter",
+          "haupt": true,
+          "artikel": "Charlotte Eisenblätter",
+          "wikidata": "Q99930"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "718",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-03",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+      "bild_beschreibung": "KPD-Widerstandskämpferin Olga Benario-Prestes (1908–1942)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": "Olga Benario-Prestes.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Widerstandskämpfer",
+          "beschriftung": "Widerstandskämpfer",
+          "haupt": true,
+          "artikel": "Widerstandskämpfer",
+          "wikidata": "Q1397808"
+        },
+        {
+          "titel": "Olga Benario-Prestes",
+          "beschriftung": "Olga Benario-Prestes",
+          "haupt": false,
+          "artikel": "Olga Benario-Prestes",
+          "wikidata": "Q77526"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "719",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-03",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+      "bild_beschreibung": "Publizistin und sozialistische Widerstandskämpferin Maria Grollmuß (1896–1944)",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Publizist",
+          "beschriftung": "Publizist",
+          "haupt": true,
+          "artikel": "Publizist",
+          "wikidata": "Q6051619"
+        },
+        {
+          "titel": "Sozialistische Arbeiterpartei Deutschlands (1931)",
+          "beschriftung": "sozialistische",
+          "haupt": false,
+          "artikel": "Sozialistische Arbeiterpartei Deutschlands (1931)",
+          "wikidata": "Q689018"
+        },
+        {
+          "titel": "Maria Grollmuß",
+          "beschriftung": "Maria Grollmuß",
+          "haupt": false,
+          "artikel": "Maria Grollmuß",
+          "wikidata": "Q106533"
+        },
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Aufbau der Nationalen Gedenkstätte Ravensbrück",
+          "haupt": false,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        }
+      ]
+    },
+    {
+      "mi_nr": "720",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-11",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Einweihung der Nationalen Mahn- und Gedenkstätte Ravensbrück",
+      "bild_beschreibung": "Diese Marke wurde 1957 ohne Datumsaufdruck ausgegeben (Mi.-Nr. 567); Mahnmal der Mahn- und Gedenkstätte Ravensbrück",
+      "entwerfer": "Rudolf Skribelka",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0720.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "beschriftung": "Einweihung der Nationalen Mahn- und Gedenkstätte Ravensbrück",
+          "haupt": true,
+          "artikel": "Aufbau und Erhaltung der Nationalen Mahn- und Gedenkstätten",
+          "wikidata": "Q759501"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1957 der Deutschen Post der DDR",
+          "beschriftung": "1957",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1957 der Deutschen Post der DDR",
+          "wikidata": "Q914427"
+        },
+        {
+          "titel": "Mahnmal",
+          "beschriftung": "Mahnmal",
+          "haupt": false,
+          "artikel": "Mahnmal",
+          "wikidata": "Q1885014"
+        },
+        {
+          "titel": "Mahn- und Gedenkstätte Ravensbrück",
+          "beschriftung": "Mahn- und Gedenkstätte Ravensbrück",
+          "haupt": false,
+          "artikel": "Mahn- und Gedenkstätte Ravensbrück",
+          "wikidata": "Q19963862"
+        }
+      ]
+    },
+    {
+      "mi_nr": "721",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-09-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Erreichen der Mondoberfläche durch Lunik 2",
+      "bild_beschreibung": "Erdmond mit stilisierter Flugbahn von Lunik 2, Aufschlagsdatum und UdSSR-Staatswappen",
+      "entwerfer": "Ernst Vogenauer",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0721.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erdmond",
+          "beschriftung": "Erdmond",
+          "haupt": true,
+          "artikel": "Mond",
+          "wikidata": "Q405"
+        },
+        {
+          "titel": "Lunik 2",
+          "beschriftung": "Lunik 2",
+          "haupt": false,
+          "artikel": "Luna 2",
+          "wikidata": "Q1159927"
+        },
+        {
+          "titel": "Staatswappen der Sowjetunion",
+          "beschriftung": "UdSSR-Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Sowjetunion",
+          "wikidata": "Q189925"
+        }
+      ]
+    },
+    {
+      "mi_nr": "722",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Mähdrescher",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 11500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0722.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mähdrescher",
+          "beschriftung": "Mähdrescher",
+          "haupt": true,
+          "artikel": "Mähdrescher",
+          "wikidata": "Q26886"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "723",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "FDGB-Erholungsheim „Fritz Heckert“ in Gernrode",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 45000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0723.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "FDGB-Ferienheim Fritz Heckert",
+          "beschriftung": "FDGB-Erholungsheim „Fritz Heckert“",
+          "haupt": true,
+          "artikel": "FDGB-Ferienheim Fritz Heckert",
+          "wikidata": "Q17321580"
+        },
+        {
+          "titel": "Stadt Gernrode",
+          "beschriftung": "Gernrode",
+          "haupt": false,
+          "artikel": "Stadt Gernrode",
+          "wikidata": "Q518258"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "724",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Dresdner Zwinger",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0724.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "725",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Hüttenarbeiter, Werkanlage",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 33000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0725.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stahlerzeugung",
+          "beschriftung": "Hüttenarbeiter",
+          "haupt": true,
+          "artikel": "Stahlerzeugung",
+          "wikidata": "Q482090"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "726",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Chemiker, Kombinat",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 11500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0726.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemiker",
+          "beschriftung": "Chemiker",
+          "haupt": true,
+          "artikel": "Chemiker",
+          "wikidata": "Q593644"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "727",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Zentralstadion in Leipzig",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0727.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zentralstadion Leipzig (1956)",
+          "beschriftung": "Zentralstadion",
+          "haupt": true,
+          "artikel": "Zentralstadion Leipzig (1956)",
+          "wikidata": "Q8069248"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "728",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Traktoristin",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0728.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Traktor",
+          "beschriftung": "Traktor",
+          "haupt": true,
+          "artikel": "Traktor",
+          "wikidata": "Q39495"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "729",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Passagierflugzeug",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0729.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Passagierflugzeug",
+          "beschriftung": "Passagierflugzeug",
+          "haupt": true,
+          "artikel": "Verkehrsflugzeug",
+          "wikidata": "Q210932"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "730",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Hochseehandelsschiff in der Werft",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 14000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0730.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiffbau in der DDR",
+          "beschriftung": "Hochseehandelsschiff in der Werft",
+          "haupt": true,
+          "artikel": "Schiffbau in der DDR",
+          "wikidata": "Q2234929"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "731",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-06",
+      "wert": "1 DM",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "10 Jahre DDR",
+      "bild_beschreibung": "Erster Rossendorfer Forschungsreaktor der DDR in Rossendorf",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 2500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0731.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rossendorfer Forschungsreaktor",
+          "beschriftung": "Rossendorfer Forschungsreaktor",
+          "haupt": true,
+          "artikel": "Rossendorfer Forschungsreaktor",
+          "wikidata": "Q1433750"
+        },
+        {
+          "titel": "DDR",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "732",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-10-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "1. Todestag von Johannes R. Becher",
+      "bild_beschreibung": "Diese Marke wurde mit einem unten anhängenden Zierfeld ausgegeben.; Porträt des Dichters Johannes R. Becher (1891–1958)",
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0732 Zuschnitt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Johannes R. Becher",
+          "beschriftung": "Johannes R. Becher",
+          "haupt": true,
+          "artikel": "Johannes R. Becher",
+          "wikidata": "Q58057"
+        }
+      ]
+    },
+    {
+      "mi_nr": "733",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "200. Geburtstag von Friedrich Schiller",
+      "bild_beschreibung": "Wohnhaus des Dichters Friedrich Schillers (1759–1805) in Weimar",
+      "entwerfer": "Horst Müller",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0733.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weimar",
+          "beschriftung": "Weimar",
+          "haupt": true,
+          "artikel": "Weimar",
+          "wikidata": "Q3955"
+        },
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": false,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "734",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "200. Geburtstag von Friedrich Schiller",
+      "bild_beschreibung": "Porträt Friedrich Schiller",
+      "entwerfer": "Horst Müller",
+      "auflage": 13500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0734.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "735",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Tag der Briefmarke 1959",
+      "bild_beschreibung": "Postreiter, Postmeilensäule",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": true,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        },
+        {
+          "titel": "Postmeilensäule",
+          "beschriftung": "Postmeilensäule",
+          "haupt": false,
+          "artikel": "Meilenstein",
+          "wikidata": "Q10145"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "736",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Tag der Briefmarke 1959",
+      "bild_beschreibung": "Zustellerin mit Moped",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zusteller",
+          "beschriftung": "Zusteller",
+          "haupt": true,
+          "artikel": "Zusteller",
+          "wikidata": "Q2180295"
+        },
+        {
+          "titel": "Moped",
+          "beschriftung": "Moped",
+          "haupt": false,
+          "artikel": "Moped",
+          "wikidata": "Q201783"
+        },
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "737",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-27",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Waldtiere",
+      "bild_beschreibung": "Eichhörnchen (Sciurus vulgaris)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eichhörnchen",
+          "beschriftung": "Eichhörnchen",
+          "haupt": true,
+          "artikel": "Eichhörnchen",
+          "wikidata": "Q281124"
+        }
+      ]
+    },
+    {
+      "mi_nr": "738",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Waldtiere",
+      "bild_beschreibung": "Europäischer Feldhase (Lepus europaeus)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldhase",
+          "beschriftung": "Feldhase",
+          "haupt": true,
+          "artikel": "Feldhase",
+          "wikidata": "Q26838"
+        }
+      ]
+    },
+    {
+      "mi_nr": "739",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Waldtiere",
+      "bild_beschreibung": "Rehe (Capreolus capreolus)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reh",
+          "beschriftung": "Reh",
+          "haupt": true,
+          "artikel": "Reh",
+          "wikidata": "Q122069"
+        }
+      ]
+    },
+    {
+      "mi_nr": "740",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Waldtiere",
+      "bild_beschreibung": "Rotwild (Cervus elaphus)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5500000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0740.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rothirsch",
+          "beschriftung": "Rotwild",
+          "haupt": true,
+          "artikel": "Rothirsch",
+          "wikidata": "Q79794"
+        }
+      ]
+    },
+    {
+      "mi_nr": "741",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Waldtiere",
+      "bild_beschreibung": "Europäische Luchse (Lynx lynx)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0741.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eurasischer Luchs",
+          "beschriftung": "Luchse",
+          "haupt": true,
+          "artikel": "Eurasischer Luchs",
+          "wikidata": "Q43375"
+        }
+      ]
+    },
+    {
+      "mi_nr": "742",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-12-29",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der Sowjetunion zurückgeführte antike Kunstschätze (II)",
+      "bild_beschreibung": "Kopf einer attischen Göttin (580 v. Chr.)",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0742.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Attika (Landschaft)",
+          "beschriftung": "attischen",
+          "haupt": true,
+          "artikel": "Attika (Landschaft)",
+          "wikidata": "Q122443"
+        },
+        {
+          "titel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "beschriftung": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "haupt": false,
+          "artikel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "wikidata": "Q15853177"
+        }
+      ]
+    },
+    {
+      "mi_nr": "743",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-12-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der Sowjetunion zurückgeführte antike Kunstschätze (II)",
+      "bild_beschreibung": "Prinzessinnenkopf aus Tell-el-Amarna (um 1360 v. Chr.)",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0743.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Prinz",
+          "beschriftung": "Prinz",
+          "haupt": true,
+          "artikel": "Prinz",
+          "wikidata": "Q2747456"
+        },
+        {
+          "titel": "Amarna",
+          "beschriftung": "Tell-el-Amarna",
+          "haupt": false,
+          "artikel": "Amarna",
+          "wikidata": "Q5736"
+        },
+        {
+          "titel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "beschriftung": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "haupt": false,
+          "artikel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "wikidata": "Q15853177"
+        }
+      ]
+    },
+    {
+      "mi_nr": "744",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-12-29",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der Sowjetunion zurückgeführte antike Kunstschätze (II)",
+      "bild_beschreibung": "Bronzefigur aus Tobrak-Kale, Armenien (700 v. Chr.)",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0744.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Toprakkale",
+          "beschriftung": "Tobrak-Kale",
+          "haupt": true,
+          "artikel": "Toprakkale",
+          "wikidata": "Q1521344"
+        },
+        {
+          "titel": "Armenien",
+          "beschriftung": "Armenien",
+          "haupt": false,
+          "artikel": "Armenien",
+          "wikidata": "Q399"
+        },
+        {
+          "titel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "beschriftung": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "haupt": false,
+          "artikel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "wikidata": "Q15853177"
+        }
+      ]
+    },
+    {
+      "mi_nr": "745",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-12-29",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-03-31",
+      "anlass": "Von der Sowjetunion zurückgeführte antike Kunstschätze (II)",
+      "bild_beschreibung": "Zeusaltar Pergamon (185 bis 160 v. Chr.)",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 1100000,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0745.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pergamonaltar",
+          "beschriftung": "Zeusaltar",
+          "haupt": true,
+          "artikel": "Pergamonaltar",
+          "wikidata": "Q158058"
+        },
+        {
+          "titel": "Pergamon",
+          "beschriftung": "Pergamon",
+          "haupt": false,
+          "artikel": "Pergamon",
+          "wikidata": "Q18986"
+        },
+        {
+          "titel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "beschriftung": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "haupt": false,
+          "artikel": "Von der Sowjetunion zurückgeführte antike Kunstschätze",
+          "wikidata": "Q15853177"
+        }
+      ]
+    },
+    {
+      "mi_nr": "580 B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-05-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VI), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Diese Marke wurde auch am 4. September mit einem anhängenden Zierfeld zur Würdigung der II. Deutschen Briefmarkenausstellung (DEBRIA) in Berlin ausgegeben.; Berlin, Stalinallee",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0580 B.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl-Marx-Allee",
+          "beschriftung": "Stalinallee",
+          "haupt": true,
+          "artikel": "Karl-Marx-Allee",
+          "wikidata": "Q683226"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "582 B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-05",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VI), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Volkstanz",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0582 B.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkstanz",
+          "beschriftung": "Volkstanz",
+          "haupt": true,
+          "artikel": "Volkstanz",
+          "wikidata": "Q201022"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "583 B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-05",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VI), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Dresden, Zwinger",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0583 B.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": true,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Zwinger",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "584 B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VI), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Hochseeschiff auf Stapel bei der Schiffstaufe",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0584 B.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schiff",
+          "beschriftung": "Hochseeschiff",
+          "haupt": true,
+          "artikel": "Schiff",
+          "wikidata": "Q11446"
+        },
+        {
+          "titel": "Stapellauf",
+          "beschriftung": "Stapel",
+          "haupt": false,
+          "artikel": "Stapellauf",
+          "wikidata": "Q596643"
+        },
+        {
+          "titel": "Schiffstaufe",
+          "beschriftung": "Schiffstaufe",
+          "haupt": false,
+          "artikel": "Schiffstaufe",
+          "wikidata": "Q370553"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "585 B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-12",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VI), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Familie vor dem Hochhaus an der Weberwiese (Berlin)",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0585 B.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochhaus an der Weberwiese",
+          "beschriftung": "Hochhaus an der Weberwiese",
+          "haupt": true,
+          "artikel": "Hochhaus an der Weberwiese",
+          "wikidata": "Q1428812"
+        },
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": false,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "704 A",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VII), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 13: 12 1/2 und K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Bauer und Arbeiter tauschen Erfahrungen aus (Zähnung K 13: 12 1/2)",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0704 A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    },
+    {
+      "mi_nr": "704 B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1962-12-31",
+      "anlass": "Dauermarkenserie: Fünfjahrplan (VII), Druck: VEB Deutsche Wertpapierdruckerei (DWD), Wasserzeichen Nr. 3 (DDR um Kreuzblume), Zähnung: K 13: 12 1/2 und K 14, ohne Angabe des Zeichners und Graveurs",
+      "bild_beschreibung": "Bauer und Arbeiter tauschen Erfahrungen aus (Zähnung K 14)",
+      "entwerfer": "Erich Gruner",
+      "auflage": null,
+      "commons_datei": "Stamps of Germany (DDR) 1959, MiNr 0704 B.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fünfjahrplan (Briefmarkenserie)",
+          "beschriftung": "Fünfjahrplan",
+          "haupt": true,
+          "artikel": "Fünfjahrplan (Briefmarkenserie)",
+          "wikidata": "Q1481998"
+        },
+        {
+          "titel": "Giesecke & Devrient",
+          "beschriftung": "VEB Deutsche Wertpapierdruckerei (DWD)",
+          "haupt": false,
+          "artikel": "Giesecke+Devrient",
+          "wikidata": "Q461257"
+        }
+      ]
+    }
+  ]
+}

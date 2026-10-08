@@ -6,6 +6,15 @@ CREATE TABLE info (
   wert TEXT
 );
 
+CREATE TABLE gebiet (
+  schluessel TEXT PRIMARY KEY,
+  name TEXT NOT NULL UNIQUE,
+  anzeige TEXT NOT NULL,
+  dateiname TEXT NOT NULL,
+  von INTEGER, bis INTEGER,
+  reihe INTEGER
+);
+
 CREATE TABLE quelle (
   gebiet TEXT NOT NULL,
   jahr INTEGER NOT NULL,
@@ -71,11 +80,15 @@ CREATE VIRTUAL TABLE marke_fts USING fts5 (
 info:
 SELECT wert FROM info WHERE schluessel = ?;
 
+gebiete:
+SELECT gebiet.*, (SELECT COUNT(*) FROM marke WHERE marke.gebiet = gebiet.name) AS anzahl
+FROM gebiet ORDER BY reihe;
+
 jahrgaenge:
-SELECT gebiet, jahr, COUNT(*) AS anzahl
-FROM marke
-GROUP BY gebiet, jahr
-ORDER BY gebiet, jahr;
+SELECT marke.gebiet, jahr, COUNT(*) AS anzahl
+FROM marke LEFT JOIN gebiet ON gebiet.name = marke.gebiet
+GROUP BY marke.gebiet, jahr
+ORDER BY gebiet.reihe, jahr;
 
 markenImJahr:
 SELECT * FROM marke

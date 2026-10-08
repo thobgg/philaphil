@@ -1,0 +1,463 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1930,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1930 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1930_der_Deutschen_Reichspost",
+    "revision": 236181346,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 435,
+    "mi_nr_bis": 453,
+    "luecken": [
+      441,
+      442,
+      443,
+      446,
+      447,
+      448,
+      449
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "438",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1930-04-26",
+      "wert": "2 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-06-30",
+      "anlass": "Südamerikafahrt mit LZ 127",
+      "bild_beschreibung": "Flugpostserie mit Inschrift “1. Südamerikafahrt 1931”",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1930 438 Zeppelin Südamerikafahrt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostserie",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        }
+      ]
+    },
+    {
+      "mi_nr": "439",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1930-04-26",
+      "wert": "4 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-06-30",
+      "anlass": "Südamerikafahrt mit LZ 127",
+      "bild_beschreibung": "Flugpostserie mit Inschrift “1. Südamerikafahrt 1931”",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1930 439 Zeppelin Südamerikafahrt.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "440",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1930",
+      "wert": "2 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1938-12-31",
+      "anlass": "Bauwerke, Alt-Köln mit dem Kölner Dom",
+      "bild_beschreibung": "Währungsbezeichnung “Reichsmark”",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1930 440 Bauwerke Kölner Dom.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Kölner Dom",
+          "beschriftung": "Kölner Dom",
+          "haupt": true,
+          "artikel": "Kölner Dom",
+          "wikidata": "Q4176"
+        }
+      ]
+    },
+    {
+      "mi_nr": "444",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1930-06-30",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Abzug der Alliierten aus dem Rheinland",
+      "bild_beschreibung": "Friedrich Ebert, Dauermarke mit Aufdruck",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1930 444 Friedrich Ebert Abzug aus dem Rheinland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Ebert",
+          "beschriftung": "Friedrich Ebert",
+          "haupt": true,
+          "artikel": "Friedrich Ebert",
+          "wikidata": "Q2646"
+        },
+        {
+          "titel": "Alliierte Rheinlandbesetzung",
+          "beschriftung": "Abzug der Alliierten aus dem Rheinland",
+          "haupt": false,
+          "artikel": "Alliierte Rheinlandbesetzung",
+          "wikidata": "Q828519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "445",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1930-06-30",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Abzug der Alliierten aus dem Rheinland",
+      "bild_beschreibung": "Paul von Hindenburg, Dauermarke mit Aufdruck",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1930 445 Paul von Hindenburg Abzug aus dem Rheinland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": true,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        },
+        {
+          "titel": "Alliierte Rheinlandbesetzung",
+          "beschriftung": "Abzug der Alliierten aus dem Rheinland",
+          "haupt": false,
+          "artikel": "Alliierte Rheinlandbesetzung",
+          "wikidata": "Q828519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "450",
+      "block": "Block 446",
+      "art": "Sondermarke",
+      "ausgabetag": "1930-11-01",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-06-30",
+      "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
+      "bild_beschreibung": "Dom und Rathaus von Aachen",
+      "entwerfer": "unbekannt",
+      "auflage": 5873046,
+      "commons_datei": "DR 1930 450 Nothilfe Bauwerke Aachen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aachener Dom",
+          "beschriftung": "Dom",
+          "haupt": true,
+          "artikel": "Aachener Dom",
+          "wikidata": "Q5908"
+        },
+        {
+          "titel": "Aachener Rathaus",
+          "beschriftung": "Rathaus",
+          "haupt": false,
+          "artikel": "Aachener Rathaus",
+          "wikidata": "Q300747"
+        },
+        {
+          "titel": "Aachen",
+          "beschriftung": "Aachen",
+          "haupt": false,
+          "artikel": "Aachen",
+          "wikidata": "Q1017"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        }
+      ]
+    },
+    {
+      "mi_nr": "451",
+      "block": "Block 447",
+      "art": "Sondermarke",
+      "ausgabetag": "1930-11-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-06-30",
+      "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
+      "bild_beschreibung": "Brandenburger Tor in Berlin",
+      "entwerfer": "unbekannt",
+      "auflage": 5368568,
+      "commons_datei": "DR 1930 451 Nothilfe Bauwerke Brandenburger Tor.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        }
+      ]
+    },
+    {
+      "mi_nr": "452",
+      "block": "Block 448",
+      "art": "Sondermarke",
+      "ausgabetag": "1930-11-01",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-06-30",
+      "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
+      "bild_beschreibung": "Dom und Schloss in Marienwerder (polnisch: Kwidzyn)",
+      "entwerfer": "unbekannt",
+      "auflage": 479066,
+      "commons_datei": "DR 1930 452 Nothilfe Bauwerke Marienwerder.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Domkirche (Marienwerder)",
+          "beschriftung": "Dom",
+          "haupt": true,
+          "artikel": "Domkirche (Marienwerder)",
+          "wikidata": "Q1238485"
+        },
+        {
+          "titel": "Kwidzyn",
+          "beschriftung": "Marienwerder",
+          "haupt": false,
+          "artikel": "Kwidzyn",
+          "wikidata": "Q326582"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        }
+      ]
+    },
+    {
+      "mi_nr": "453",
+      "block": "Block 449",
+      "art": "Sondermarke",
+      "ausgabetag": "1930-11-01",
+      "wert": "50+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-06-30",
+      "anlass": "Nothilfe Bauwerke, auch als Briefmarkenblock zur Internationalen Postwertzeichen-Ausstellung IPOSTA in Berlin",
+      "bild_beschreibung": "Statue des Hl. Burkard auf der Alten Mainbrücke und Festung Marienberg in Würzburg",
+      "entwerfer": "unbekannt",
+      "auflage": 228913,
+      "commons_datei": "DR 1930 453 Nothilfe Bauwerke Würzburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burkard",
+          "beschriftung": "Hl. Burkard",
+          "haupt": true,
+          "artikel": "Burkard",
+          "wikidata": "Q516172"
+        },
+        {
+          "titel": "Alte Mainbrücke",
+          "beschriftung": "Alten Mainbrücke",
+          "haupt": false,
+          "artikel": "Alte Mainbrücke",
+          "wikidata": "Q211304"
+        },
+        {
+          "titel": "Festung Marienberg",
+          "beschriftung": "Festung Marienberg",
+          "haupt": false,
+          "artikel": "Festung Marienberg",
+          "wikidata": "Q328352"
+        },
+        {
+          "titel": "Würzburg",
+          "beschriftung": "Würzburg",
+          "haupt": false,
+          "artikel": "Würzburg",
+          "wikidata": "Q2999"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        }
+      ]
+    },
+    {
+      "mi_nr": "435",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1930",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1930 435 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "436",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1930",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Friedrich Ebert",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1930 436 Friedrich Ebert.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "437",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1930-02-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Ergänzungswerte zur Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1930 437 Paul von Hindenburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 125",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1930",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1930 125 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 126",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1930",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswerte zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1930 126 Dienstmarke.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    }
+  ]
+}

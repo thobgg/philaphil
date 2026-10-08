@@ -1,0 +1,2360 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1965,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1965 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1965_der_Deutschen_Post_der_DDR",
+    "revision": 270590473,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1084,
+    "mi_nr_bis": 1153,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 68,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1084",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-01-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "90. Geburtstag von Albert Schweitzer",
+      "bild_beschreibung": "Albert Schweitzer (1875–1965), Missionsarzt, Theologe, Musiker und Friedensnobelpreisträger 1952, vor Urwaldlandschaft",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 10000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1084.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "arzt",
+          "beschriftung": "arzt",
+          "haupt": true,
+          "artikel": "Arzt",
+          "wikidata": "Q39631"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Friedensnobelpreis",
+          "beschriftung": "Friedensnobelpreis",
+          "haupt": false,
+          "artikel": "Friedensnobelpreis",
+          "wikidata": "Q35637"
+        },
+        {
+          "titel": "Urwald",
+          "beschriftung": "Urwald",
+          "haupt": false,
+          "artikel": "Primärwald",
+          "wikidata": "Q208478"
+        },
+        {
+          "titel": "Albert Schweitzer",
+          "beschriftung": "Albert Schweitzer",
+          "haupt": false,
+          "artikel": "Albert Schweitzer",
+          "wikidata": "Q49325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1085",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-01-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "90. Geburtstag von Albert Schweitzer",
+      "bild_beschreibung": "Albert Schweitzer vor einem Demonstrationszug gegen Kernwaffen",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1085.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kernwaffe",
+          "beschriftung": "Kernwaffe",
+          "haupt": true,
+          "artikel": "Kernwaffe",
+          "wikidata": "Q12802"
+        },
+        {
+          "titel": "Albert Schweitzer",
+          "beschriftung": "Albert Schweitzer",
+          "haupt": false,
+          "artikel": "Albert Schweitzer",
+          "wikidata": "Q49325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1086",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-01-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "90. Geburtstag von Albert Schweitzer",
+      "bild_beschreibung": "Albert Schweitzer am Harmonium, Faksimile aus dem Orgel-Präludium h-Moll von J.S. Bach",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1200000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1086.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harmonium",
+          "beschriftung": "Harmonium",
+          "haupt": true,
+          "artikel": "Harmonium",
+          "wikidata": "Q12460259"
+        },
+        {
+          "titel": "Faksimile",
+          "beschriftung": "Faksimile",
+          "haupt": false,
+          "artikel": "Faksimile",
+          "wikidata": "Q194070"
+        },
+        {
+          "titel": "Orgel",
+          "beschriftung": "Orgel",
+          "haupt": false,
+          "artikel": "Orgel",
+          "wikidata": "Q281460"
+        },
+        {
+          "titel": "Präludium",
+          "beschriftung": "Präludium",
+          "haupt": false,
+          "artikel": "Präludium",
+          "wikidata": "Q212148"
+        },
+        {
+          "titel": "h-Moll",
+          "beschriftung": "h-Moll",
+          "haupt": false,
+          "artikel": "H-Moll",
+          "wikidata": "Q284039"
+        },
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "J.S. Bach",
+          "haupt": false,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Albert Schweitzer",
+          "beschriftung": "Albert Schweitzer",
+          "haupt": false,
+          "artikel": "Albert Schweitzer",
+          "wikidata": "Q49325"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1089",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-01-15",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125. Geburtstag von August Bebel",
+      "bild_beschreibung": "Sozialdemokratischer Parteiführer August Bebel (1840–1913)",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 10000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1089.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": true,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        },
+        {
+          "titel": "SPD",
+          "beschriftung": "Sozialdemokratischer",
+          "haupt": false,
+          "artikel": "Sozialdemokratische Partei Deutschlands",
+          "wikidata": "Q49768"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1090",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-02-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Goldmedaille (Vorderseite) des Leipziger Messeamts, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1090.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldmedaille",
+          "beschriftung": "Goldmedaille",
+          "haupt": true,
+          "artikel": "Medaille",
+          "wikidata": "Q131647"
+        },
+        {
+          "titel": "Revers (Numismatik)",
+          "beschriftung": "Vorderseite",
+          "haupt": false,
+          "artikel": "Revers (Numismatik)",
+          "wikidata": "Q1542661"
+        },
+        {
+          "titel": "Leipziger Messeamt",
+          "beschriftung": "Leipziger Messeamt",
+          "haupt": false,
+          "artikel": "Leipziger Messeamt",
+          "wikidata": "Q21036523"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1091",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-02-26",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Goldmedaille (Rückseite) des Leipziger Messeamts, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1091.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Revers (Numismatik)",
+          "beschriftung": "Rückseite",
+          "haupt": true,
+          "artikel": "Revers (Numismatik)",
+          "wikidata": "Q1542661"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1092",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-02-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Chemieanlage, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1092.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1093",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Tierpark Berlin",
+      "bild_beschreibung": "Angola-Giraffe (Giraffa camelopardalis angolensis)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Giraffe",
+          "beschriftung": "Giraffe",
+          "haupt": true,
+          "artikel": "Giraffen",
+          "wikidata": "Q862089"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1094",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-03-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Tierpark Berlin",
+      "bild_beschreibung": "Grüner Leguan (Iguana iguana)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grüner Leguan",
+          "beschriftung": "Grüner Leguan",
+          "haupt": true,
+          "artikel": "Grüner Leguan",
+          "wikidata": "Q215376"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1095",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-03-24",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "10 Jahre Tierpark Berlin",
+      "bild_beschreibung": "Weißschwanz-Gnu (Connochaetes gnou)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weißschwanzgnu",
+          "beschriftung": "Weißschwanz-Gnu",
+          "haupt": true,
+          "artikel": "Weißschwanzgnu",
+          "wikidata": "Q373465"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1096",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-03-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "120. Geburtstag von Conrad Röntgen",
+      "bild_beschreibung": "Conrad Röntgen (1845–1923), Physiker, erster Träger des Nobelpreises für Physik (1901)",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1096.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Conrad Röntgen",
+          "beschriftung": "Conrad Röntgen",
+          "haupt": true,
+          "artikel": "Wilhelm Conrad Röntgen",
+          "wikidata": "Q35149"
+        },
+        {
+          "titel": "Physik",
+          "beschriftung": "Physik",
+          "haupt": false,
+          "artikel": "Physik",
+          "wikidata": "Q413"
+        },
+        {
+          "titel": "Nobelpreis für Physik",
+          "beschriftung": "Nobelpreises für Physik",
+          "haupt": false,
+          "artikel": "Nobelpreis für Physik",
+          "wikidata": "Q38104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1097",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "700. Geburtstag von Dante Alighieri",
+      "bild_beschreibung": "Dante Alighieri (1265–1321), italienischer Dichter, Gelehrter und Politiker",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1097.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dante Alighieri",
+          "beschriftung": "Dante Alighieri",
+          "haupt": true,
+          "artikel": "Dante Alighieri",
+          "wikidata": "Q1067"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1098",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-02-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Start des sowjetischen Raumschiffs „Woschod 2“",
+      "bild_beschreibung": "Kosmonauten Pawel Beljajew und Alexej Leonow im Raumanzug",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kosmonaut",
+          "beschriftung": "Kosmonaut",
+          "haupt": true,
+          "artikel": "Raumfahrer",
+          "wikidata": "Q11631"
+        },
+        {
+          "titel": "Pawel Beljajew",
+          "beschriftung": "Pawel Beljajew",
+          "haupt": false,
+          "artikel": "Pawel Iwanowitsch Beljajew",
+          "wikidata": "Q157931"
+        },
+        {
+          "titel": "Alexej Leonow",
+          "beschriftung": "Alexej Leonow",
+          "haupt": false,
+          "artikel": "Alexei Archipowitsch Leonow",
+          "wikidata": "Q154269"
+        },
+        {
+          "titel": "Raumschiff",
+          "beschriftung": "Raumschiff",
+          "haupt": false,
+          "artikel": "Raumschiff",
+          "wikidata": "Q40218"
+        },
+        {
+          "titel": "Woschod 2",
+          "beschriftung": "Woschod 2",
+          "haupt": false,
+          "artikel": "Woschod 2",
+          "wikidata": "Q722791"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1099",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-02-14",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Start des sowjetischen Raumschiffs „Woschod 2“",
+      "bild_beschreibung": "Alexej Leonow im Weltraum, Teil der Erdoberfläche",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alexej Leonow",
+          "beschriftung": "Alexej Leonow",
+          "haupt": true,
+          "artikel": "Alexei Archipowitsch Leonow",
+          "wikidata": "Q154269"
+        },
+        {
+          "titel": "Raumschiff",
+          "beschriftung": "Raumschiff",
+          "haupt": false,
+          "artikel": "Raumschiff",
+          "wikidata": "Q40218"
+        },
+        {
+          "titel": "Woschod 2",
+          "beschriftung": "Woschod 2",
+          "haupt": false,
+          "artikel": "Woschod 2",
+          "wikidata": "Q722791"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1100",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-27",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europameisterschaften im Boxen",
+      "bild_beschreibung": "Boxhandschuhe, Lorbeerzweige",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1100.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Boxhandschuh",
+          "beschriftung": "Boxhandschuh",
+          "haupt": true,
+          "artikel": "Boxhandschuh",
+          "wikidata": "Q895679"
+        },
+        {
+          "titel": "Lorbeer",
+          "beschriftung": "Lorbeer",
+          "haupt": false,
+          "artikel": "Echter Lorbeer",
+          "wikidata": "Q26006"
+        },
+        {
+          "titel": "Boxen",
+          "beschriftung": "Boxen",
+          "haupt": false,
+          "artikel": "Boxen",
+          "wikidata": "Q32112"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1101",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-04-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europameisterschaften im Boxen",
+      "bild_beschreibung": "Boxhandschuh im Lorbeerkranz",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1101.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lorbeerkranz",
+          "beschriftung": "Lorbeerkranz",
+          "haupt": true,
+          "artikel": "Lorbeerkranz",
+          "wikidata": "Q734844"
+        },
+        {
+          "titel": "Boxen",
+          "beschriftung": "Boxen",
+          "haupt": false,
+          "artikel": "Boxen",
+          "wikidata": "Q32112"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1102",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Georgi Dimitroff vor dem Reichsgericht in Leipzig, Titelblatt der \"Roten Fahne\"",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1102.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georgi Dimitroff",
+          "beschriftung": "Georgi Dimitroff",
+          "haupt": true,
+          "artikel": "Georgi Dimitroff",
+          "wikidata": "Q155074"
+        },
+        {
+          "titel": "Reichsgericht",
+          "beschriftung": "Reichsgericht",
+          "haupt": false,
+          "artikel": "Reichsgericht",
+          "wikidata": "Q512552"
+        },
+        {
+          "titel": "Die Rote Fahne",
+          "beschriftung": "Roten Fahne",
+          "haupt": false,
+          "artikel": "Die Rote Fahne",
+          "wikidata": "Q309119"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1103",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Illegales Plakatieren des Manifests der Brüsseler Konferenz der KPD",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1103.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plakat",
+          "beschriftung": "Plakat",
+          "haupt": true,
+          "artikel": "Plakat",
+          "wikidata": "Q429785"
+        },
+        {
+          "titel": "Manifest",
+          "beschriftung": "Manifest",
+          "haupt": false,
+          "artikel": "Manifest",
+          "wikidata": "Q46337"
+        },
+        {
+          "titel": "Brüsseler Konferenz der KPD",
+          "beschriftung": "Brüsseler Konferenz der KPD",
+          "haupt": false,
+          "artikel": "Brüsseler Konferenz der KPD",
+          "wikidata": "Q997142"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1104",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Angehörige der antifaschistischen Internationalen Brigaden im spanischen Bürgerkrieg",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1104.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Internationale Brigaden",
+          "beschriftung": "Internationalen Brigaden",
+          "haupt": true,
+          "artikel": "Internationale Brigaden",
+          "wikidata": "Q132518"
+        },
+        {
+          "titel": "Spanischer Bürgerkrieg",
+          "beschriftung": "spanischen Bürgerkrieg",
+          "haupt": false,
+          "artikel": "Spanischer Bürgerkrieg",
+          "wikidata": "Q10859"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1105",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Demonstration für die Freilassung Ernst Thälmanns",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3700000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1105.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1106",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Gründer und Gründungsurkunde des Nationalkomitees Freies Deutschland",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1106.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nationalkomitee Freies Deutschland",
+          "beschriftung": "Nationalkomitees Freies Deutschland",
+          "haupt": true,
+          "artikel": "Nationalkomitee Freies Deutschland",
+          "wikidata": "Q700570"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1107",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Walter Ulbricht und Erich Weinert appellieren an der Front, Manifest des Nationalkomitees Freies Deutschland",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1107.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Walter Ulbricht",
+          "beschriftung": "Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Walter Ulbricht",
+          "wikidata": "Q2628"
+        },
+        {
+          "titel": "Erich Weinert",
+          "beschriftung": "Erich Weinert",
+          "haupt": false,
+          "artikel": "Erich Weinert",
+          "wikidata": "Q62115"
+        },
+        {
+          "titel": "Kriegsfront",
+          "beschriftung": "Front",
+          "haupt": false,
+          "artikel": "Kriegsfront",
+          "wikidata": "Q842332"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1108",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Soldaten der Roten Armee befreien Häftlinge eines Konzentrationslagers",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1108.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Roten Armee",
+          "haupt": true,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Konzentrationslager",
+          "beschriftung": "Konzentrationslager",
+          "haupt": false,
+          "artikel": "Konzentrationslager",
+          "wikidata": "Q328468"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1109",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Rotarmisten hissen die Flagge der Sowjetunion auf dem Reichstagsgebäude in Berlin",
+      "entwerfer": "Karl Sauer",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1109.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flagge der Sowjetunion",
+          "beschriftung": "Flagge der Sowjetunion",
+          "haupt": true,
+          "artikel": "Flagge der Sowjetunion",
+          "wikidata": "Q165230"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1110",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Demonstrationszug zur Vereinigung von KPD und SPD",
+      "entwerfer": "Karl Sauer",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1110.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Befreiung vom Nationalsozialismus",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": true,
+          "artikel": "Befreiung vom Nationalsozialismus",
+          "wikidata": "Q13471431"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1111",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Rundfunk der DDR",
+      "bild_beschreibung": "Sendemast vor Erdkugel",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1111.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sendemast",
+          "beschriftung": "Sendemast",
+          "haupt": true,
+          "artikel": "Sendemast",
+          "wikidata": "Q1068623"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Erdkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Rundfunk der DDR",
+          "beschriftung": "Rundfunk der DDR",
+          "haupt": false,
+          "artikel": "Rundfunk der DDR",
+          "wikidata": "Q565566"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1112",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Rundfunk der DDR",
+      "bild_beschreibung": "Arbeiter mit Mikrofon, Sendemast, Chemieanlage",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1112.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mikrofon",
+          "beschriftung": "Mikrofon",
+          "haupt": true,
+          "artikel": "Mikrofon",
+          "wikidata": "Q46384"
+        },
+        {
+          "titel": "Rundfunk der DDR",
+          "beschriftung": "Rundfunk der DDR",
+          "haupt": false,
+          "artikel": "Rundfunk der DDR",
+          "wikidata": "Q565566"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1113",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Internationale Fernmeldeunion (UIT)",
+      "bild_beschreibung": "Schema für trägerfrequente Umsetzung des Sprachfrequenzbands, UIT-Emblem",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1113.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Trägerfrequenz",
+          "beschriftung": "trägerfrequente",
+          "haupt": true,
+          "artikel": "Träger (Nachrichtentechnik)",
+          "wikidata": "Q499193"
+        },
+        {
+          "titel": "Abzeichen",
+          "beschriftung": "Emblem",
+          "haupt": false,
+          "artikel": "Abzeichen",
+          "wikidata": "Q336533"
+        },
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": false,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1114",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-05-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Internationale Fernmeldeunion (UIT)",
+      "bild_beschreibung": "Blockschaltbild für eine Fernsprechvermittlung mit Koordinatenschalter und Register, UIT-Emblem",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1114.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Blockschaltbild",
+          "beschriftung": "Blockschaltbild",
+          "haupt": true,
+          "artikel": "Blockschaltbild",
+          "wikidata": "Q20182163"
+        },
+        {
+          "titel": "Fernsprechvermittlung",
+          "beschriftung": "Fernsprechvermittlung",
+          "haupt": false,
+          "artikel": "Vermittlungsstelle",
+          "wikidata": "Q256132"
+        },
+        {
+          "titel": "Internationale Fernmeldeunion",
+          "beschriftung": "Internationale Fernmeldeunion",
+          "haupt": false,
+          "artikel": "Internationale Fernmeldeunion",
+          "wikidata": "Q376150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1115",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Freier Deutscher Gewerkschaftsbund (FDGB)",
+      "bild_beschreibung": "Abzeichen des FDGB, Lorbeerkranz",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1115.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freier Deutscher Gewerkschaftsbund",
+          "haupt": true,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1116",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Freier Deutscher Gewerkschaftsbund (FDGB)",
+      "bild_beschreibung": "Kundgebungsteilnehmer in zwei symbolischen Erdhälften",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1116.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freier Deutscher Gewerkschaftsbund",
+          "haupt": true,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1117",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Karl-Marx-Stadt (Chemnitz)",
+      "bild_beschreibung": "Stilisierte Werkzeugmaschine, Chemieanlage",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Werkzeugmaschine",
+          "beschriftung": "Werkzeugmaschine",
+          "haupt": true,
+          "artikel": "Werkzeugmaschine",
+          "wikidata": "Q19768"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1118",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Karl-Marx-Stadt (Chemnitz)",
+      "bild_beschreibung": "Roter Turm",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1118.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Roter Turm (Chemnitz)",
+          "beschriftung": "Roter Turm",
+          "haupt": true,
+          "artikel": "Roter Turm (Chemnitz)",
+          "wikidata": "Q1421149"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1119",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-16",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Karl-Marx-Stadt (Chemnitz)",
+      "bild_beschreibung": "Rathaus",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1119.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Rathaus (Chemnitz)",
+          "beschriftung": "Rathaus",
+          "haupt": true,
+          "artikel": "Neues Rathaus (Chemnitz)",
+          "wikidata": "Q1980361"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1120",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-06-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Konferenz der Minister des Post- und Fernmeldewesens der sozialistischen Länder (OSS)",
+      "bild_beschreibung": "Karl Marx und W. I. Lenin",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1120.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Lenin",
+          "beschriftung": "W. I. Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1121",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "90. Geburtstag von Wilhelm Külz",
+      "bild_beschreibung": "Wilhelm Külz (1875–1948), Jurist, Politiker",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1121.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wilhelm Külz",
+          "beschriftung": "Wilhelm Külz",
+          "haupt": true,
+          "artikel": "Wilhelm Külz",
+          "wikidata": "Q70087"
+        },
+        {
+          "titel": "Jurist",
+          "beschriftung": "Jurist",
+          "haupt": false,
+          "artikel": "Jurist",
+          "wikidata": "Q185351"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1122",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfriedenskongreß, Helsinki",
+      "bild_beschreibung": "Friedenstauben um Erdkugel, Flagge von Finnland",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": true,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        },
+        {
+          "titel": "Flagge Finnlands",
+          "beschriftung": "Flagge von Finnland",
+          "haupt": false,
+          "artikel": "Flagge Finnlands",
+          "wikidata": "Q47891"
+        },
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": false,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1123",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-05",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltfriedenskongreß, Helsinki",
+      "bild_beschreibung": "Friedenstauben um Erdkugel, Flagge von Finnland",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helsinki",
+          "beschriftung": "Helsinki",
+          "haupt": true,
+          "artikel": "Helsinki",
+          "wikidata": "Q1757"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1124",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-07-28",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "75. Geburtstag von Erich Weinert",
+      "bild_beschreibung": "Erich Weinert (1890–1963), Schriftsteller",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1124.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Erich Weinert",
+          "beschriftung": "Erich Weinert",
+          "haupt": true,
+          "artikel": "Erich Weinert",
+          "wikidata": "Q62115"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1125",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-23",
+      "wert": "10+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hilfe für Vietnam",
+      "bild_beschreibung": "Sondermarke Mi.-Nr. 1063A von 1964 mit Aufdruck",
+      "entwerfer": "Klaus Hennig, Dietrich Dorfstecher",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1125.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Unbesiegbares Vietnam",
+          "beschriftung": "Hilfe für Vietnam",
+          "haupt": true,
+          "artikel": "Unbesiegbares Vietnam",
+          "wikidata": "Q2492507"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1964 der Deutschen Post der DDR",
+          "beschriftung": "Sondermarke Mi.-Nr. 1063A von 1964",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1964 der Deutschen Post der DDR",
+          "wikidata": "Q914506"
+        },
+        {
+          "titel": "Aufdruck (Philatelie)",
+          "beschriftung": "Aufdruck",
+          "haupt": false,
+          "artikel": "Aufdruck (Philatelie)",
+          "wikidata": "Q2166786"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1126",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Stadt Leipzig",
+      "bild_beschreibung": "Diese Marke wurde am 4. September 1965 zusammen mit Mi.Nr. 1129 auch als Block mit einem Verkaufspreis von 90 Pfennig ausgegeben.; Alte Waage, Neubau Katharinenstraße",
+      "entwerfer": "Karl-Heinz Bobbe, Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Block",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Alte Waage (Leipzig)",
+          "beschriftung": "Alte Waage",
+          "haupt": false,
+          "artikel": "Alte Waage (Leipzig)",
+          "wikidata": "Q436368"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1127",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-25",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Stadt Leipzig",
+      "bild_beschreibung": "Diese Marke wurde am 4. September 1965 zusammen mit Mi.Nr. 1128 auch als Block mit einem Verkaufspreis von 90 Pfennig ausgegeben.; Altes Rathaus",
+      "entwerfer": "Karl-Heinz Bobbe, Dietrich Dorfstecher",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1128",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-25",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Stadt Leipzig",
+      "bild_beschreibung": "Diese Marke wurde am 4. September 1965 zusammen mit Mi.Nr. 1127 auch als Block mit einem Verkaufspreis von 90 Pfennig ausgegeben.; Eingang zum Opernhaus, Neues Hauptpostamt",
+      "entwerfer": "Karl-Heinz Bobbe, Dietrich Dorfstecher",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Opernhaus Leipzig",
+          "beschriftung": "Opernhaus",
+          "haupt": true,
+          "artikel": "Opernhaus (Leipzig)",
+          "wikidata": "Q267248"
+        },
+        {
+          "titel": "Hauptpost (Leipzig)",
+          "beschriftung": "Neues Hauptpostamt",
+          "haupt": false,
+          "artikel": "Hauptpost (Leipzig)",
+          "wikidata": "Q1589570"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1129",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-08-25",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "800 Jahre Stadt Leipzig",
+      "bild_beschreibung": "Diese Marke wurde am 4. September 1965 zusammen mit Mi.Nr. 1126 auch als Block mit einem Verkaufspreis von 90 Pfennig ausgegeben.; Interhotel „Stadt Leipzig“",
+      "entwerfer": "Karl-Heinz Bobbe, Dietrich Dorfstecher",
+      "auflage": 1300000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Interhotel",
+          "beschriftung": "Interhotel",
+          "haupt": true,
+          "artikel": "Interhotel",
+          "wikidata": "Q1369170"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1130",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Kamera, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 6000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1130.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kamera",
+          "beschriftung": "Kamera",
+          "haupt": true,
+          "artikel": "Kamera",
+          "wikidata": "Q15328"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1131",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-02",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "E-Gitarre und Klavichord, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1131.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "E-Gitarre",
+          "beschriftung": "E-Gitarre",
+          "haupt": true,
+          "artikel": "E-Gitarre",
+          "wikidata": "Q78987"
+        },
+        {
+          "titel": "Klavichord",
+          "beschriftung": "Klavichord",
+          "haupt": false,
+          "artikel": "Clavichord",
+          "wikidata": "Q191823"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1132",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Mikroskop, Feinoptische Geräte, Messezeichen",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1132.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mikroskop",
+          "beschriftung": "Mikroskop",
+          "haupt": true,
+          "artikel": "Mikroskop",
+          "wikidata": "Q196538"
+        },
+        {
+          "titel": "Feinoptiker",
+          "beschriftung": "Feinoptische",
+          "haupt": false,
+          "artikel": "Feinoptiker",
+          "wikidata": "Q17305523"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1133",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Modernen Fünfkampf",
+      "bild_beschreibung": "Springreiten",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1133.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": true,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        },
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": false,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1134",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-15",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Modernen Fünfkampf",
+      "bild_beschreibung": "Degenfechten",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1134.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Degenfechten",
+          "beschriftung": "Degenfechten",
+          "haupt": true,
+          "artikel": "Fechten",
+          "wikidata": "Q12100"
+        },
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": false,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1135",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-15",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Modernen Fünfkampf",
+      "bild_beschreibung": "Schießen (Pistole)",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1135.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sportschießen",
+          "beschriftung": "Schießen (Pistole)",
+          "haupt": true,
+          "artikel": "Sportschießen",
+          "wikidata": "Q206989"
+        },
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": false,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1136",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Modernen Fünfkampf",
+      "bild_beschreibung": "Freistilschwimmen",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 5000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1136.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freistilschwimmen",
+          "beschriftung": "Freistilschwimmen",
+          "haupt": true,
+          "artikel": "Freistilschwimmen",
+          "wikidata": "Q31987"
+        },
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": false,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1137",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-09-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Modernen Fünfkampf",
+      "bild_beschreibung": "Geländelauf",
+      "entwerfer": "Klaus Hennig",
+      "auflage": 1300000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1137.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Crosslauf",
+          "beschriftung": "Geländelauf",
+          "haupt": true,
+          "artikel": "Crosslauf",
+          "wikidata": "Q500050"
+        },
+        {
+          "titel": "Moderner Fünfkampf",
+          "beschriftung": "Modernen Fünfkampf",
+          "haupt": false,
+          "artikel": "Moderner Fünfkampf",
+          "wikidata": "Q32485"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1138",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Alexej Leonow, Brandenburger Tor (Berlin)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1138.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alexej Leonow",
+          "beschriftung": "Alexej Leonow",
+          "haupt": true,
+          "artikel": "Alexei Archipowitsch Leonow",
+          "wikidata": "Q154269"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1139",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Pawel Beljajew, Rotes Rathaus (Berlin)",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1139.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pawel Beljajew",
+          "beschriftung": "Pawel Beljajew",
+          "haupt": true,
+          "artikel": "Pawel Iwanowitsch Beljajew",
+          "wikidata": "Q157931"
+        },
+        {
+          "titel": "Rotes Rathaus",
+          "beschriftung": "Rotes Rathaus",
+          "haupt": false,
+          "artikel": "Rotes Rathaus",
+          "wikidata": "Q155210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1140",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Besuch sowjetischer Kosmonauten in der DDR",
+      "bild_beschreibung": "Stilisiertes Raumschiff, Kosmonauten, Teil der Erdkugel",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Raumschiff",
+          "beschriftung": "Raumschiff",
+          "haupt": true,
+          "artikel": "Raumschiff",
+          "wikidata": "Q40218"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1141",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-10-19",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten (II)",
+      "bild_beschreibung": "Mahnmal Putten, Niederlande",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 3000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1141.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": true,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        },
+        {
+          "titel": "Putten (Gelderland)",
+          "beschriftung": "Putten",
+          "haupt": false,
+          "artikel": "Putten (Gelderland)",
+          "wikidata": "Q939948"
+        },
+        {
+          "titel": "Niederlande",
+          "beschriftung": "Niederlande",
+          "haupt": false,
+          "artikel": "Niederlande",
+          "wikidata": "Q55"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1142",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-11-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Bergakademie Freiberg",
+      "bild_beschreibung": "Treibofen (nach historischen Holzschnitten)",
+      "entwerfer": "Werner Klemke",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Treibofen",
+          "beschriftung": "Treibofen",
+          "haupt": true,
+          "artikel": "Treibherd",
+          "wikidata": "Q1763577"
+        },
+        {
+          "titel": "Holzschnitt",
+          "beschriftung": "Holzschnitt",
+          "haupt": false,
+          "artikel": "Holzschnitt",
+          "wikidata": "Q173242"
+        },
+        {
+          "titel": "Bergakademie Freiberg",
+          "beschriftung": "Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Technische Universität Bergakademie Freiberg",
+          "wikidata": "Q689854"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1143",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-11-11",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Bergakademie Freiberg",
+      "bild_beschreibung": "Erzgewinnung (nach historischen Holzschnitten)",
+      "entwerfer": "Werner Klemke",
+      "auflage": 1400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erz",
+          "beschriftung": "Erz",
+          "haupt": true,
+          "artikel": "Erz",
+          "wikidata": "Q102798"
+        },
+        {
+          "titel": "Bergakademie Freiberg",
+          "beschriftung": "Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Technische Universität Bergakademie Freiberg",
+          "wikidata": "Q689854"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1144",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-11-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Bergakademie Freiberg",
+      "bild_beschreibung": "Proustit-Erz (Erzgebirge)",
+      "entwerfer": "Werner Klemke",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Proustit",
+          "beschriftung": "Proustit",
+          "haupt": true,
+          "artikel": "Proustit",
+          "wikidata": "Q411817"
+        },
+        {
+          "titel": "Bergakademie Freiberg",
+          "beschriftung": "Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Technische Universität Bergakademie Freiberg",
+          "wikidata": "Q689854"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1145",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-11-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Bergakademie Freiberg",
+      "bild_beschreibung": "Schwefel",
+      "entwerfer": "Werner Klemke",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwefel",
+          "beschriftung": "Schwefel",
+          "haupt": true,
+          "artikel": "Schwefel",
+          "wikidata": "Q682"
+        },
+        {
+          "titel": "Bergakademie Freiberg",
+          "beschriftung": "Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Technische Universität Bergakademie Freiberg",
+          "wikidata": "Q689854"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1146",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Adolf Menzel",
+      "bild_beschreibung": "Adolf Menzel (1815–1905), Maler und Grafiker",
+      "entwerfer": "Peterpaul Weiß",
+      "auflage": 7000000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1146.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolph von Menzel",
+          "beschriftung": "Adolf Menzel",
+          "haupt": true,
+          "artikel": "Adolph von Menzel",
+          "wikidata": "Q164961"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1147",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Greifvögel",
+      "bild_beschreibung": "Rotmilan (Milvus milvus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotmilan",
+          "beschriftung": "Rotmilan",
+          "haupt": true,
+          "artikel": "Rotmilan",
+          "wikidata": "Q156250"
+        },
+        {
+          "titel": "Greifvogel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1148",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Greifvögel",
+      "bild_beschreibung": "Bart- oder Lämmergeier (Gypaetus barbatus aureus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bartgeier",
+          "beschriftung": "Bart- oder Lämmergeier",
+          "haupt": true,
+          "artikel": "Bartgeier",
+          "wikidata": "Q126167"
+        },
+        {
+          "titel": "Greifvogel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1149",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Greifvögel",
+      "bild_beschreibung": "Mäusebussard (Buteo buteo)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mäusebussard",
+          "beschriftung": "Mäusebussard",
+          "haupt": true,
+          "artikel": "Mäusebussard",
+          "wikidata": "Q25385"
+        },
+        {
+          "titel": "Greifvogel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1150",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Greifvögel",
+      "bild_beschreibung": "Turmfalke (Falco tinnunculus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turmfalke",
+          "beschriftung": "Turmfalke",
+          "haupt": true,
+          "artikel": "Turmfalke",
+          "wikidata": "Q26490"
+        },
+        {
+          "titel": "Greifvogel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1151",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Greifvögel",
+      "bild_beschreibung": "Habicht (Accipiter gentilis)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Habicht",
+          "beschriftung": "Habicht",
+          "haupt": true,
+          "artikel": "Habicht",
+          "wikidata": "Q137474876"
+        },
+        {
+          "titel": "Greifvogel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1152",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-08",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Greifvögel",
+      "bild_beschreibung": "Steinadler (Aquila chrysaetos)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1400000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steinadler",
+          "beschriftung": "Steinadler",
+          "haupt": true,
+          "artikel": "Steinadler",
+          "wikidata": "Q41181"
+        },
+        {
+          "titel": "Greifvogel",
+          "beschriftung": "Greifvögel",
+          "haupt": false,
+          "artikel": "Greifvögel",
+          "wikidata": "Q21736"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1153",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1965-12-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1. Todestag von Otto Grotewohl",
+      "bild_beschreibung": "Otto Grotewohl (1894–1964), Politiker, erster Ministerpräsident der DDR",
+      "entwerfer": "Axel Bengs",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto Grotewohl",
+          "beschriftung": "Otto Grotewohl",
+          "haupt": true,
+          "artikel": "Otto Grotewohl",
+          "wikidata": "Q77210"
+        },
+        {
+          "titel": "Ministerpräsident",
+          "beschriftung": "Ministerpräsident",
+          "haupt": false,
+          "artikel": "Ministerpräsident",
+          "wikidata": "Q3099723"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1087",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-02-10",
+      "wert": "1 MDN",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht, Großformat (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Karl Wolf",
+      "auflage": 57385000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1087.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1088",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1965-02-10",
+      "wert": "2 MDN",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Staatsratsvorsitzender Walter Ulbricht, Großformat (II)",
+      "bild_beschreibung": "Porträt von Walter Ulbricht",
+      "entwerfer": "Karl Wolf",
+      "auflage": 29882000,
+      "commons_datei": "Stamps of Germany (DDR) 1965, MiNr 1088.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    }
+  ]
+}

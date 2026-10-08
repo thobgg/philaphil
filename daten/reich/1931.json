@@ -1,0 +1,274 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1931,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1931 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1931_der_Deutschen_Reichspost",
+    "revision": 236181340,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 454,
+    "mi_nr_bis": 462,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 8,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "455",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-05",
+      "wert": "1 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1937-12-31",
+      "anlass": "Flugpostmarke",
+      "bild_beschreibung": "Luftschiff LZ 127 Graf Zeppelin",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1931 455 Zeppelin.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostmarke",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "LZ 127",
+          "beschriftung": "LZ 127",
+          "haupt": false,
+          "artikel": "LZ 127",
+          "wikidata": "Q721226"
+        }
+      ]
+    },
+    {
+      "mi_nr": "456",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-07-20",
+      "wert": "1 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-11-30",
+      "anlass": "Polarfahrt mit LZ 127",
+      "bild_beschreibung": "Flugpostserie mit Aufdruck „Polarfahrt 1931“",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1931 456 Zeppelin Polarfahrt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nordpol",
+          "beschriftung": "Polar",
+          "haupt": true,
+          "artikel": "Nordpol",
+          "wikidata": "Q934"
+        }
+      ]
+    },
+    {
+      "mi_nr": "457",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-07-20",
+      "wert": "2 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-11-30",
+      "anlass": "Polarfahrt mit LZ 127",
+      "bild_beschreibung": "Flugpostserie mit Aufdruck „Polarfahrt 1931“",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "Zeppelinmarke Polarf.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "458",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-07-20",
+      "wert": "4 Reichsmark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1931-11-30",
+      "anlass": "Polarfahrt mit LZ 127",
+      "bild_beschreibung": "Flugpostserie mit Aufdruck „Polarfahrt 1931“",
+      "entwerfer": "unbekannt",
+      "auflage": null,
+      "commons_datei": "DR 1931 458 Zeppelin Polarfahrt.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "459",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-11-01",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1932-08-31",
+      "anlass": "Nothilfe Bauwerke",
+      "bild_beschreibung": "Dresdner Zwinger.",
+      "entwerfer": "unbekannt",
+      "auflage": 4679176,
+      "commons_datei": "DR 1931 459 Nothilfe Bauwerke Dresdner Zwinger.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwinger",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        }
+      ]
+    },
+    {
+      "mi_nr": "460",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-11-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1932-08-31",
+      "anlass": "Nothilfe Bauwerke",
+      "bild_beschreibung": "Breslauer Rathaus",
+      "entwerfer": "unbekannt",
+      "auflage": 4135786,
+      "commons_datei": "DR 1931 460 Nothilfe Bauwerke Breslau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Breslauer Rathaus",
+          "beschriftung": "Breslauer Rathaus",
+          "haupt": true,
+          "artikel": "Rathaus (Breslau)",
+          "wikidata": "Q910225"
+        }
+      ]
+    },
+    {
+      "mi_nr": "461",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-11-01",
+      "wert": "25+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1932-08-31",
+      "anlass": "Nothilfe Bauwerke",
+      "bild_beschreibung": "Heidelberger Schloss",
+      "entwerfer": "unbekannt",
+      "auflage": 429333,
+      "commons_datei": "DR 1931 461 Nothilfe Bauwerke Heidelberger Schloss.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heidelberger Schloss",
+          "beschriftung": "Heidelberger Schloss",
+          "haupt": true,
+          "artikel": "Heidelberger Schloss",
+          "wikidata": "Q327265"
+        }
+      ]
+    },
+    {
+      "mi_nr": "462",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1931-11-01",
+      "wert": "50+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1932-08-31",
+      "anlass": "Nothilfe Bauwerke",
+      "bild_beschreibung": "Holstentor Lübeck",
+      "entwerfer": "unbekannt",
+      "auflage": 204854,
+      "commons_datei": "DR 1931 462 Nothilfe Bauwerke Holstentor Lübeck.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Holstentor",
+          "beschriftung": "Holstentor",
+          "haupt": true,
+          "artikel": "Holstentor",
+          "wikidata": "Q321229"
+        },
+        {
+          "titel": "Lübeck",
+          "beschriftung": "Lübeck",
+          "haupt": false,
+          "artikel": "Lübeck",
+          "wikidata": "Q2843"
+        }
+      ]
+    },
+    {
+      "mi_nr": "454",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1931-02-15",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1935-12-31",
+      "anlass": "Ergänzungswert zur Dauermarkenserie Reichspräsidenten",
+      "bild_beschreibung": "Paul von Hindenburg",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1931 454 Paul von Hindenburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reichspräsidenten",
+          "beschriftung": "Reichspräsidenten",
+          "haupt": true,
+          "artikel": "Reichspräsidenten",
+          "wikidata": "Q2139627"
+        },
+        {
+          "titel": "Paul von Hindenburg",
+          "beschriftung": "Paul von Hindenburg",
+          "haupt": false,
+          "artikel": "Paul von Hindenburg",
+          "wikidata": "Q2667"
+        }
+      ]
+    },
+    {
+      "mi_nr": "D 127",
+      "block": null,
+      "art": "Dienstmarke",
+      "ausgabetag": "1931",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1936-12-31",
+      "anlass": "Dienstmarken (Ergänzungswert zur Ausgabe von 1927)",
+      "bild_beschreibung": "Wertziffer auf sogenanntem “Strohhut- oder auch Korbdeckelmuster”",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR-D 1931 127 Dienstmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Dienstmarken (Deutsches Reich)",
+          "beschriftung": "Dienstmarken",
+          "haupt": true,
+          "artikel": "Dienstmarken (Deutsches Reich)",
+          "wikidata": "Q13560070"
+        },
+        {
+          "titel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "beschriftung": "1927",
+          "haupt": false,
+          "artikel": "Briefmarken-Jahrgang 1927 der Deutschen Reichspost",
+          "wikidata": "Q914327"
+        }
+      ]
+    }
+  ]
+}

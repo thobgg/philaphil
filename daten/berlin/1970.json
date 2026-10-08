@@ -1,0 +1,615 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1970,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1970 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1970_der_Deutschen_Bundespost_Berlin",
+    "revision": 251522308,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 353,
+    "mi_nr_bis": 378,
+    "luecken": [
+      360,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      370,
+      371
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 13,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "353",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Theodor Fontane",
+      "bild_beschreibung": "Gemälde von Hanns Fechner",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 15365000,
+      "commons_datei": "DBPB 1970 353 Theodor Fontane.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Theodor Fontane",
+          "beschriftung": "Theodor Fontane",
+          "haupt": true,
+          "artikel": "Theodor Fontane",
+          "wikidata": "Q76632"
+        },
+        {
+          "titel": "Hanns Fechner",
+          "beschriftung": "Hanns Fechner",
+          "haupt": false,
+          "artikel": "Hanns Fechner",
+          "wikidata": "Q1576415"
+        }
+      ]
+    },
+    {
+      "mi_nr": "354",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1970: Minnesänger",
+      "bild_beschreibung": "Heinrich von Stretlingen (zweite Hälfte des 13. Jh.), Miniatur aus der Manessischen Liederhandschrift",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 3038000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stretelingen",
+          "beschriftung": "Heinrich von Stretlingen",
+          "haupt": true,
+          "artikel": "Heinrich von Stretelingen",
+          "wikidata": "Q1599689"
+        },
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniatur",
+          "haupt": false,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        },
+        {
+          "titel": "Manessische Liederhandschrift",
+          "beschriftung": "Manessischen Liederhandschrift",
+          "haupt": false,
+          "artikel": "Codex Manesse",
+          "wikidata": "Q165353"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "355",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1970: Minnesänger",
+      "bild_beschreibung": "Meinloh von Sevelingen (um 1170), Miniatur aus der Weingartner Liederhandschrift",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 3126000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meinloh von Sevelingen",
+          "beschriftung": "Meinloh von Sevelingen",
+          "haupt": true,
+          "artikel": "Meinloh von Sevelingen",
+          "wikidata": "Q835026"
+        },
+        {
+          "titel": "Weingartner Liederhandschrift",
+          "beschriftung": "Weingartner Liederhandschrift",
+          "haupt": false,
+          "artikel": "Weingartner Liederhandschrift",
+          "wikidata": "Q1545661"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "356",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1970: Minnesänger",
+      "bild_beschreibung": "Burkhart von Hohenfels (1212–1242), Miniatur aus der Manessischen Liederhandschrift",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2987000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burkart von Hohenfels",
+          "beschriftung": "Burkhart von Hohenfels",
+          "haupt": true,
+          "artikel": "Burkart von Hohenfels",
+          "wikidata": "Q104484"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "357",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1970: Minnesänger",
+      "bild_beschreibung": "Albrecht von Johannesdorf (1180–1209), Miniatur aus der Manessischen Liederhandschrift",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 2971000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrecht von Johansdorf",
+          "beschriftung": "Albrecht von Johannesdorf",
+          "haupt": true,
+          "artikel": "Albrecht von Johansdorf",
+          "wikidata": "Q328140"
+        },
+        {
+          "titel": "Minnesang",
+          "beschriftung": "Minnesänger",
+          "haupt": false,
+          "artikel": "Minnesang",
+          "wikidata": "Q830634"
+        }
+      ]
+    },
+    {
+      "mi_nr": "358",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Filmfestspiele Berlin",
+      "bild_beschreibung": "Filmstreifen in den Farben des Spektrums",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 6000000,
+      "commons_datei": "DBPB 1970 358 Filmfestspiele.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Filmfestspiele Berlin",
+          "beschriftung": "Internationale Filmfestspiele Berlin",
+          "haupt": true,
+          "artikel": "Internationale Filmfestspiele Berlin",
+          "wikidata": "Q130871"
+        },
+        {
+          "titel": "Einzelbild (Film)",
+          "beschriftung": "Filmstreifen",
+          "haupt": false,
+          "artikel": "Einzelbild (Film)",
+          "wikidata": "Q795160"
+        },
+        {
+          "titel": "Lichtspektrum",
+          "beschriftung": "Spektrums",
+          "haupt": false,
+          "artikel": "Elektromagnetisches Spektrum",
+          "wikidata": "Q133139"
+        }
+      ]
+    },
+    {
+      "mi_nr": "372",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berliner Festwochen",
+      "bild_beschreibung": "Farbgrafik (Musik, Tanz, Theater und Kunst)",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1970 372 Festwochen.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Festspiele",
+          "beschriftung": "Berliner Festwochen",
+          "haupt": true,
+          "artikel": "Berliner Festspiele",
+          "wikidata": "Q325448"
+        },
+        {
+          "titel": "Grafik",
+          "beschriftung": "Farbgrafik",
+          "haupt": false,
+          "artikel": "Grafik",
+          "wikidata": "Q1027879"
+        },
+        {
+          "titel": "Musik",
+          "beschriftung": "Musik",
+          "haupt": false,
+          "artikel": "Musik",
+          "wikidata": "Q638"
+        },
+        {
+          "titel": "Tanz",
+          "beschriftung": "Tanz",
+          "haupt": false,
+          "artikel": "Tanz",
+          "wikidata": "Q11639"
+        },
+        {
+          "titel": "Theater",
+          "beschriftung": "Theater",
+          "haupt": false,
+          "artikel": "Theater",
+          "wikidata": "Q11635"
+        },
+        {
+          "titel": "Kunst",
+          "beschriftung": "Kunst",
+          "haupt": false,
+          "artikel": "Kunst",
+          "wikidata": "Q735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "373",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1970: Marionetten",
+      "bild_beschreibung": "Marionetten der Puppentheatersammlung München; Kasperl",
+      "entwerfer": "Erna de Vries",
+      "auflage": 6180000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Münchner Stadtmuseum",
+          "beschriftung": "Puppentheatersammlung",
+          "haupt": true,
+          "artikel": "Münchner Stadtmuseum",
+          "wikidata": "Q452685"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Kasper",
+          "beschriftung": "Kasper",
+          "haupt": false,
+          "artikel": "Kasper",
+          "wikidata": "Q954170"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "374",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1970: Marionetten",
+      "bild_beschreibung": "Polichinelle",
+      "entwerfer": "Erna de Vries",
+      "auflage": 6031000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pulcinella",
+          "beschriftung": "Polichinelle",
+          "haupt": true,
+          "artikel": "Pulcinella",
+          "wikidata": "Q1147934"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "375",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1970: Marionetten",
+      "bild_beschreibung": "Punch",
+      "entwerfer": "Erna de Vries",
+      "auflage": 6215000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": true,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "376",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1970: Marionetten",
+      "bild_beschreibung": "Pulcinella",
+      "entwerfer": "Erna de Vries",
+      "auflage": 4560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pulcinella",
+          "beschriftung": "Pulcinella",
+          "haupt": true,
+          "artikel": "Pulcinella",
+          "wikidata": "Q1147934"
+        },
+        {
+          "titel": "Marionette",
+          "beschriftung": "Marionette",
+          "haupt": false,
+          "artikel": "Marionette",
+          "wikidata": "Q189888"
+        }
+      ]
+    },
+    {
+      "mi_nr": "377",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-23",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "175. Geburtstag von Leopold von Ranke",
+      "bild_beschreibung": "Gemälde von Julius Schrader",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 7500000,
+      "commons_datei": "DBPB 1970 377 Leopold von Ranke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leopold von Ranke",
+          "beschriftung": "Leopold von Ranke",
+          "haupt": true,
+          "artikel": "Leopold von Ranke",
+          "wikidata": "Q77184"
+        },
+        {
+          "titel": "Julius Schrader",
+          "beschriftung": "Julius Schrader",
+          "haupt": false,
+          "artikel": "Julius Schrader",
+          "wikidata": "Q70758"
+        }
+      ]
+    },
+    {
+      "mi_nr": "378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-12",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1970",
+      "bild_beschreibung": "Engel, Krippenfigur aus dem Ursulinenkloster Innsbruck",
+      "entwerfer": "Erna de Vries",
+      "auflage": 5545000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Engel",
+          "beschriftung": "Engel",
+          "haupt": false,
+          "artikel": "Engel",
+          "wikidata": "Q235113"
+        },
+        {
+          "titel": "Weihnachtskrippe",
+          "beschriftung": "Krippenfigur",
+          "haupt": false,
+          "artikel": "Weihnachtskrippe",
+          "wikidata": "Q31732"
+        },
+        {
+          "titel": "Ursulinen",
+          "beschriftung": "Ursulinen",
+          "haupt": false,
+          "artikel": "Ursulinen",
+          "wikidata": "Q2250880"
+        },
+        {
+          "titel": "Innsbruck",
+          "beschriftung": "Innsbruck",
+          "haupt": false,
+          "artikel": "Innsbruck",
+          "wikidata": "Q1735"
+        }
+      ]
+    },
+    {
+      "mi_nr": "359",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-07-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 21042000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "361",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-10-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 120236000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "362",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-10-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 117530000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    },
+    {
+      "mi_nr": "369",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-07-23",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Bundespräsident Gustav Heinemann",
+      "bild_beschreibung": "",
+      "entwerfer": "Karl Hans Walter",
+      "auflage": 15359000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Gustav Heinemann",
+          "haupt": true,
+          "artikel": "Bundespräsident Gustav Heinemann (Briefmarkenserie)",
+          "wikidata": "Q1006515"
+        }
+      ]
+    }
+  ]
+}

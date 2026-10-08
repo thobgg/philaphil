@@ -1,0 +1,46 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1877,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1877 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1877_der_Deutschen_Reichspost",
+    "revision": 255531240,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 38,
+    "mi_nr_bis": 38,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "38",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1877-03-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler im Oval",
+      "bild_beschreibung": "Adler",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1877 38 Adler PFENNIGE.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ziffer / Adler im Oval",
+          "beschriftung": "Ziffer / Adler im Oval",
+          "haupt": true,
+          "artikel": "Ziffer / Adler im Oval",
+          "wikidata": null
+        }
+      ]
+    }
+  ]
+}

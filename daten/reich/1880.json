@@ -1,0 +1,173 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1880,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1880 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1880_der_Deutschen_Reichspost",
+    "revision": 269100001,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 39,
+    "mi_nr_bis": 44,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "39",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler",
+      "bild_beschreibung": "Ziffer im Oval mit Krone",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1880 39 Krone.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "40",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler",
+      "bild_beschreibung": "Ziffer im Oval mit Krone",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1880 40 Krone.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "41",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler",
+      "bild_beschreibung": "geprägter Adler im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1880 41 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Einprägen",
+          "beschriftung": "geprägter",
+          "haupt": true,
+          "artikel": "Einprägen",
+          "wikidata": "Q1308508"
+        },
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "42",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler",
+      "bild_beschreibung": "geprägter Adler im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1880 42 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "43",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler",
+      "bild_beschreibung": "geprägter Adler im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1880 43 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    },
+    {
+      "mi_nr": "44",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": null,
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1891-01-31",
+      "anlass": "Dauermarkenserie: Ziffer / Adler",
+      "bild_beschreibung": "geprägter Adler im Oval",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1880 44 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsadler",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Reichsadler",
+          "wikidata": "Q2139378"
+        }
+      ]
+    }
+  ]
+}

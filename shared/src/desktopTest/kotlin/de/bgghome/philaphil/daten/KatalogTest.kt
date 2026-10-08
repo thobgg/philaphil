@@ -14,15 +14,28 @@ class KatalogTest {
 
     @Test
     fun alleJahrgaenge() {
-        val jahre = katalog.jahrgaenge.map { it.jahr }
+        val jahre = katalog.jahrgaenge.filter { it.gebiet == "Bund" }.map { it.jahr }
         assertEquals(1949L, jahre.first())
         assertTrue(jahre.last() >= 2026L)
         assertEquals(jahre.size, jahre.distinct().size)
-        assertTrue(katalog.jahrgaenge.sumOf { it.anzahl } > 3800)
+        assertTrue(katalog.jahrgaenge.filter { it.gebiet == "Bund" }.sumOf { it.anzahl } > 3800)
         assertEquals(43, katalog.markenImJahr("Bund", 1978).size)
         val block = katalog.markenImJahr("Bund", 1978).first { it.mi_nr == "959" }
         assertEquals("Block 16", block.block)
         assertEquals(listOf("1037", "1038"), katalog.markenImJahr("Bund", 1980).filter { it.art == "Dauermarke" }.map { it.mi_nr })
+    }
+
+    @Test
+    fun vierGebiete() {
+        val gebiete = katalog.gebiete
+        assertEquals(listOf("Bund", "Berlin", "DDR", "Reich"), gebiete.map { it.name })
+        assertTrue(gebiete.all { it.anzahl > 800 })
+        // Reich beginnt 1872 mit MiNr 1, DDR 1949, Berlin 1948
+        assertEquals("1", katalog.markenImJahr("Reich", 1872).first().mi_nr)
+        assertTrue(katalog.markenImJahr("DDR", 1965).any { it.mi_nr == "1084" })
+        assertTrue(katalog.markenImJahr("Berlin", 1965).isNotEmpty())
+        // Die Suche geht ueber alle Gebiete: Albert Schweitzer steht in der DDR 1965 (MiNr 1084)
+        assertTrue(katalog.suche("Schweitzer").any { it.gebiet == "DDR" && it.mi_nr == "1084" })
     }
 
     @Test
@@ -49,7 +62,7 @@ class KatalogTest {
         val wal = katalog.markenImJahr("Bund", 1979).first { it.mi_nr == "1005" }
         val luftfahrt = katalog.themenZurMarke(wal.id).first { it.thema.titel == "Luftfahrt" }
         assertTrue(luftfahrt.weitereMarken >= 11)
-        assertEquals(listOf("964", "965", "966", "967", "1005"), katalog.markenZumThema(luftfahrt.thema.id).map { it.mi_nr }.take(5))
+        assertEquals(listOf("964", "965", "966", "967", "1005"), katalog.markenZumThema(luftfahrt.thema.id).filter { it.gebiet == "Bund" }.map { it.mi_nr }.take(5))
     }
 
     @Test

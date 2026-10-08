@@ -1,0 +1,705 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1990,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1990 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1990_der_Deutschen_Bundespost_Berlin",
+    "revision": 259739432,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 860,
+    "mi_nr_bis": 879,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 18,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "860",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "500 Jahre internationale Postverbindungen in Europa",
+      "bild_beschreibung": "Der kleine Postreiter (Albrecht Dürer)",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 15618000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "internationale Postverbindungen",
+          "haupt": true,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Postreiter",
+          "beschriftung": "Postreiter",
+          "haupt": false,
+          "artikel": "Postreiter",
+          "wikidata": "Q28925765"
+        },
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": false,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        }
+      ]
+    },
+    {
+      "mi_nr": "861",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250 Jahre öffentlicher Personenverkehr in Berlin",
+      "bild_beschreibung": "Pferdekutsche",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 9800000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Öffentlicher Personennahverkehr",
+          "beschriftung": "öffentlicher Personenverkehr in Berlin",
+          "haupt": true,
+          "artikel": "Öffentlicher Personennahverkehr",
+          "wikidata": "Q294362"
+        },
+        {
+          "titel": "Kutsche",
+          "beschriftung": "Pferdekutsche",
+          "haupt": false,
+          "artikel": "Kutsche",
+          "wikidata": "Q4655519"
+        }
+      ]
+    },
+    {
+      "mi_nr": "862",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-01-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Ernst Rudorff",
+      "bild_beschreibung": "Musiklehrer, Vorkämpfer des Heimat- und Naturschutzes",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 14600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ernst Rudorff",
+          "beschriftung": "Ernst Rudorff",
+          "haupt": true,
+          "artikel": "Ernst Rudorff",
+          "wikidata": "Q67479"
+        },
+        {
+          "titel": "Musikpädagogik",
+          "beschriftung": "Musiklehrer",
+          "haupt": false,
+          "artikel": "Musikpädagogik",
+          "wikidata": "Q27908"
+        },
+        {
+          "titel": "Heimat",
+          "beschriftung": "Heimat",
+          "haupt": false,
+          "artikel": "Heimat",
+          "wikidata": "Q629593"
+        },
+        {
+          "titel": "Naturschutz",
+          "beschriftung": "Naturschutz",
+          "haupt": false,
+          "artikel": "Naturschutz",
+          "wikidata": "Q20113959"
+        }
+      ]
+    },
+    {
+      "mi_nr": "864",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1990: Beliebte Sportarten",
+      "bild_beschreibung": "Wasserball",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 3225000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserball",
+          "beschriftung": "Wasserball",
+          "haupt": true,
+          "artikel": "Wasserball",
+          "wikidata": "Q7707"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "865",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "140+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1990: Beliebte Sportarten",
+      "bild_beschreibung": "Rollstuhl-Basketball",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 3279000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rollstuhlbasketball",
+          "beschriftung": "Rollstuhl-Basketball",
+          "haupt": true,
+          "artikel": "Rollstuhlbasketball",
+          "wikidata": "Q1128216"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "866",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Freie Volksbühne Berlin",
+      "bild_beschreibung": "Theater der Freien Volksbühne, stilisierter Theatervorhang",
+      "entwerfer": "Ernst Kößlinger",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volksbühne Berlin",
+          "beschriftung": "Freie Volksbühne Berlin",
+          "haupt": true,
+          "artikel": "Volksbühne am Rosa-Luxemburg-Platz",
+          "wikidata": "Q617244"
+        },
+        {
+          "titel": "Theater der Freien Volksbühne",
+          "beschriftung": "Theater der Freien Volksbühne",
+          "haupt": false,
+          "artikel": "Haus der Berliner Festspiele",
+          "wikidata": "Q1590736"
+        },
+        {
+          "titel": "Vorhang (Theater)",
+          "beschriftung": "Theatervorhang",
+          "haupt": false,
+          "artikel": "Vorhang (Theater)",
+          "wikidata": "Q945148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "867",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "40 Jahre Bundeshaus in Berlin",
+      "bild_beschreibung": "Bundeshaus in der Bundesallee",
+      "entwerfer": "Bernd Görs",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Bundeshaus (Berlin)",
+          "beschriftung": "Bundeshaus",
+          "haupt": true,
+          "artikel": "Bundeshaus (Berlin)",
+          "wikidata": "Q1006172"
+        },
+        {
+          "titel": "Bundesallee (Berlin)",
+          "beschriftung": "Bundesallee",
+          "haupt": false,
+          "artikel": "Bundesallee (Berlin)",
+          "wikidata": "Q1005415"
+        }
+      ]
+    },
+    {
+      "mi_nr": "868",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1990: 125 Jahre Max und Moritz",
+      "bild_beschreibung": "Aber Moritz aus der Tasche zieht die Flintenpulverflasche",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2217000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 868.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pulverflasche",
+          "beschriftung": "Flintenpulverflasche",
+          "haupt": true,
+          "artikel": "Pulverflasche",
+          "wikidata": "Q14830135"
+        },
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": false,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        }
+      ]
+    },
+    {
+      "mi_nr": "869",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "70+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1990: 125 Jahre Max und Moritz",
+      "bild_beschreibung": "Und der Meister Bäcker schrie: „Ach herrje! Da laufen sie!“",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2217000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 869.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Meister",
+          "beschriftung": "Meister",
+          "haupt": true,
+          "artikel": "Meister",
+          "wikidata": "Q2309621"
+        },
+        {
+          "titel": "Bäcker",
+          "beschriftung": "Bäcker",
+          "haupt": false,
+          "artikel": "Bäcker",
+          "wikidata": "Q160131"
+        },
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": false,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        }
+      ]
+    },
+    {
+      "mi_nr": "870",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1990: 125 Jahre Max und Moritz",
+      "bild_beschreibung": "Wozu müssen auch die beiden Löcher in die Säcke schneiden",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2212000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 870.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sack",
+          "beschriftung": "Säcke",
+          "haupt": true,
+          "artikel": "Sack",
+          "wikidata": "Q6675561"
+        },
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": false,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        }
+      ]
+    },
+    {
+      "mi_nr": "871",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-04-19",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1990: 125 Jahre Max und Moritz",
+      "bild_beschreibung": "Schon faßt einer, der voran, Onkel Fritzens Nase an",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2232000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 871.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max und Moritz",
+          "beschriftung": "Max und Moritz",
+          "haupt": true,
+          "artikel": "Max und Moritz",
+          "wikidata": "Q316894"
+        }
+      ]
+    },
+    {
+      "mi_nr": "872",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200 Jahre Drehorgel",
+      "bild_beschreibung": "„Hofsänger in Berlin“ Radierung nach Ludwig Knaus",
+      "entwerfer": "Antonia Graschberger",
+      "auflage": 8140000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Drehorgel",
+          "beschriftung": "Drehorgel",
+          "haupt": true,
+          "artikel": "Drehorgel",
+          "wikidata": "Q752638"
+        },
+        {
+          "titel": "Ludwig Knaus",
+          "beschriftung": "Ludwig Knaus",
+          "haupt": false,
+          "artikel": "Ludwig Knaus",
+          "wikidata": "Q567361"
+        }
+      ]
+    },
+    {
+      "mi_nr": "873",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-05-03",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Deutscher Katholikentag 1990 in Berlin",
+      "bild_beschreibung": "Plakat",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 14641000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 873.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Deutscher Katholikentag 1990",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Plakat",
+          "beschriftung": "Plakat",
+          "haupt": false,
+          "artikel": "Plakat",
+          "wikidata": "Q429785"
+        }
+      ]
+    },
+    {
+      "mi_nr": "875",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-08-09",
+      "wert": "100",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Deutsche Pharmazeutische Gesellschaft",
+      "bild_beschreibung": "Mörser, Aspirin-Molekül, Symbol der Gesellschaft",
+      "entwerfer": "Reinhold Ertle",
+      "auflage": 8150000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 875.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutsche Pharmazeutische Gesellschaft",
+          "beschriftung": "Deutsche Pharmazeutische Gesellschaft",
+          "haupt": true,
+          "artikel": "Deutsche Pharmazeutische Gesellschaft",
+          "wikidata": "Q1203668"
+        },
+        {
+          "titel": "Mörser (Werkzeug)",
+          "beschriftung": "Mörser",
+          "haupt": false,
+          "artikel": "Mörser (Werkzeug)",
+          "wikidata": "Q18341850"
+        },
+        {
+          "titel": "Acetylsalicylsäure",
+          "beschriftung": "Aspirin",
+          "haupt": false,
+          "artikel": "Acetylsalicylsäure",
+          "wikidata": "Q18216"
+        }
+      ]
+    },
+    {
+      "mi_nr": "876",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1990: Geschichte der Post und Telekommunikation",
+      "bild_beschreibung": "Bahnpost um 1900",
+      "entwerfer": "Peter Steiner",
+      "auflage": 8442000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bahnpost",
+          "beschriftung": "Bahnpost",
+          "haupt": true,
+          "artikel": "Bahnpost",
+          "wikidata": "Q134011864"
+        },
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "Geschichte der Post",
+          "haupt": false,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Telekommunikation",
+          "beschriftung": "Telekommunikation",
+          "haupt": false,
+          "artikel": "Telekommunikation",
+          "wikidata": "Q418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "877",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "80+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1990: Geschichte der Post und Telekommunikation",
+      "bild_beschreibung": "Telefonarbeiten um 1900",
+      "entwerfer": "Peter Steiner",
+      "auflage": 5334000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Telefon",
+          "beschriftung": "Telefon",
+          "haupt": true,
+          "artikel": "Telefon",
+          "wikidata": "Q11035"
+        },
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "Geschichte der Post",
+          "haupt": false,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Telekommunikation",
+          "beschriftung": "Telekommunikation",
+          "haupt": false,
+          "artikel": "Telekommunikation",
+          "wikidata": "Q418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "878",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "100+50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1990: Geschichte der Post und Telekommunikation",
+      "bild_beschreibung": "Elektro-Paketzustellwagen um 1930",
+      "entwerfer": "Peter Steiner",
+      "auflage": 11190000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste der Postfahrzeuge",
+          "beschriftung": "Elektro-Paketzustellwagen",
+          "haupt": true,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        },
+        {
+          "titel": "Geschichte der Post",
+          "beschriftung": "Geschichte der Post",
+          "haupt": false,
+          "artikel": "Geschichte der Post",
+          "wikidata": "Q1516929"
+        },
+        {
+          "titel": "Telekommunikation",
+          "beschriftung": "Telekommunikation",
+          "haupt": false,
+          "artikel": "Telekommunikation",
+          "wikidata": "Q418"
+        }
+      ]
+    },
+    {
+      "mi_nr": "879",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1990-09-27",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Adolph Diesterweg",
+      "bild_beschreibung": "Adolph Diesterweg, Pädagoge",
+      "entwerfer": "Bernd Görs",
+      "auflage": 6100000,
+      "commons_datei": "Stamps of Germany (Berlin) 1990, MiNr 879.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolph Diesterweg",
+          "beschriftung": "Adolph Diesterweg",
+          "haupt": true,
+          "artikel": "Adolph Diesterweg",
+          "wikidata": "Q77434"
+        },
+        {
+          "titel": "Pädagoge",
+          "beschriftung": "Pädagoge",
+          "haupt": false,
+          "artikel": "Pädagoge",
+          "wikidata": "Q1231865"
+        }
+      ]
+    },
+    {
+      "mi_nr": "863",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-02-15",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Löwenstandbild in Braunschweig",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 25412000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Braunschweiger Löwe",
+          "beschriftung": "Löwenstandbild",
+          "haupt": true,
+          "artikel": "Braunschweiger Löwe",
+          "wikidata": "Q573683"
+        },
+        {
+          "titel": "Braunschweig",
+          "beschriftung": "Braunschweig",
+          "haupt": false,
+          "artikel": "Braunschweig",
+          "wikidata": "Q2773"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "874",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1990-06-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Helgoland",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": 14758000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helgoland",
+          "beschriftung": "Helgoland",
+          "haupt": true,
+          "artikel": "Helgoland",
+          "wikidata": "Q3038"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    }
+  ]
+}

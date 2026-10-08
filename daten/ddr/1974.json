@@ -1,0 +1,3784 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1974,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1974 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1974_der_Deutschen_Post_der_DDR",
+    "revision": 264963639,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1907,
+    "mi_nr_bis": 2011,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 99,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1907",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Edwin Hoernle (1883–1952), Mitbegründer des NKFD",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Edwin Hoernle",
+          "beschriftung": "Edwin Hoernle",
+          "haupt": true,
+          "artikel": "Edwin Hoernle",
+          "wikidata": "Q119719"
+        },
+        {
+          "titel": "Nationalkomitee Freies Deutschland",
+          "beschriftung": "NKFD",
+          "haupt": false,
+          "artikel": "Nationalkomitee Freies Deutschland",
+          "wikidata": "Q700570"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1908",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Etkar André (1894–1936), Mitbegründer des Roten Frontkämpferbundes, NS-Opfer",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Etkar André",
+          "beschriftung": "Etkar André",
+          "haupt": true,
+          "artikel": "Etkar André",
+          "wikidata": "Q74697"
+        },
+        {
+          "titel": "Roter Frontkämpferbund",
+          "beschriftung": "Roten Frontkämpferbundes",
+          "haupt": false,
+          "artikel": "Roter Frontkämpferbund",
+          "wikidata": "Q702302"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1909",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Paul Merker (1894–1969)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Paul Merker",
+          "beschriftung": "Paul Merker",
+          "haupt": true,
+          "artikel": "Paul Merker",
+          "wikidata": "Q78321"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1910",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Hermann Duncker (1874–1960)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hermann Duncker",
+          "beschriftung": "Hermann Duncker",
+          "haupt": true,
+          "artikel": "Hermann Duncker",
+          "wikidata": "Q1610938"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1911",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Fritz Heckert (1884–1936)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz Heckert",
+          "beschriftung": "Fritz Heckert",
+          "haupt": true,
+          "artikel": "Fritz Heckert",
+          "wikidata": "Q108840"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1912",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Otto Grotewohl (1894–1964), erster Ministerpräsident der DDR",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Otto Grotewohl",
+          "beschriftung": "Otto Grotewohl",
+          "haupt": true,
+          "artikel": "Otto Grotewohl",
+          "wikidata": "Q77210"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1913",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Wilhelm Florin (1894–1944)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Florin",
+          "beschriftung": "Wilhelm Florin",
+          "haupt": true,
+          "artikel": "Wilhelm Florin",
+          "wikidata": "Q172154"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1914",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-08",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Georg Handke (1894–1962), DDR-Außenhandelsminister",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Ulrich Handke",
+          "beschriftung": "Georg Handke",
+          "haupt": true,
+          "artikel": "Georg Ulrich Handke",
+          "wikidata": "Q1506244"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1915",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-07-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Rudolf Breitscheid (1874–1944)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudolf Breitscheid",
+          "beschriftung": "Rudolf Breitscheid",
+          "haupt": true,
+          "artikel": "Rudolf Breitscheid",
+          "wikidata": "Q70890"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1916",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-07-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Kurt Bürger (1894–1951), Ministerpräsident von Mecklenburg",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurt Bürger (Politiker)",
+          "beschriftung": "Kurt Bürger",
+          "haupt": true,
+          "artikel": "Kurt Bürger (Politiker)",
+          "wikidata": "Q98317"
+        },
+        {
+          "titel": "Land Mecklenburg",
+          "beschriftung": "Mecklenburg",
+          "haupt": false,
+          "artikel": "Land Mecklenburg",
+          "wikidata": "Q578002"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1917",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-07-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Persönlichkeiten der deutschen Arbeiterbewegung (II)",
+      "bild_beschreibung": "Carl Moltmann (1884–1960)",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Moltmann",
+          "beschriftung": "Carl Moltmann",
+          "haupt": true,
+          "artikel": "Carl Moltmann",
+          "wikidata": "Q1039801"
+        },
+        {
+          "titel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "beschriftung": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "haupt": false,
+          "artikel": "Persönlichkeiten der deutschen Arbeiterbewegung",
+          "wikidata": "Q2072525"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1918",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Rat für gegenseitige Wirtschaftshilfe (RGW)",
+      "bild_beschreibung": "Sinnbildliche Darstellung mit Flaggen der Mitgliedsländer",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 8100000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Rat für gegenseitige Wirtschaftshilfe",
+          "beschriftung": "Rat für gegenseitige Wirtschaftshilfe",
+          "haupt": true,
+          "artikel": "Rat für gegenseitige Wirtschaftshilfe",
+          "wikidata": "Q191582"
+        },
+        {
+          "titel": "Flagge",
+          "beschriftung": "Flagge",
+          "haupt": false,
+          "artikel": "Flagge",
+          "wikidata": "Q14660"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1921",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-01-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "1. Todestag von Pablo Neruda",
+      "bild_beschreibung": "Pablo Neruda (1904–1973), Chilenischer Lyriker",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pablo Neruda",
+          "beschriftung": "Pablo Neruda",
+          "haupt": true,
+          "artikel": "Pablo Neruda",
+          "wikidata": "Q34189"
+        },
+        {
+          "titel": "Chile",
+          "beschriftung": "Chile",
+          "haupt": false,
+          "artikel": "Chile",
+          "wikidata": "Q298"
+        },
+        {
+          "titel": "Lyrik",
+          "beschriftung": "Lyrik",
+          "haupt": false,
+          "artikel": "Lyrik",
+          "wikidata": "Q182357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1922",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-12",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (II)",
+      "bild_beschreibung": "Kugelkaktus (Echinopsis multiplex)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echinopsis multiplex",
+          "beschriftung": "Echinopsis multiplex",
+          "haupt": true,
+          "artikel": "Echinopsis oxygona",
+          "wikidata": "Q142776"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1923",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-12",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (II)",
+      "bild_beschreibung": "Kugelkaktus (Lobivia haageana)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 20000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echinopsis marsoneri",
+          "beschriftung": "Lobivia haageana",
+          "haupt": true,
+          "artikel": "Echinopsis marsoneri",
+          "wikidata": "Q1280591"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1924",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-12",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (II)",
+      "bild_beschreibung": "Igelkaktus (Parodia sanguiniflora)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Parodia microsperma",
+          "beschriftung": "Parodia sanguiniflora",
+          "haupt": true,
+          "artikel": "Parodia microsperma",
+          "wikidata": "Q148629"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1925",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-12",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (II)",
+      "bild_beschreibung": "Igelkaktus (Gymnocalycium monvillei)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 16000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gymnocalycium monvillei",
+          "beschriftung": "Gymnocalycium monvillei",
+          "haupt": true,
+          "artikel": "Gymnocalycium monvillei",
+          "wikidata": "Q291771"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1926",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-12",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (II)",
+      "bild_beschreibung": "Igelkaktus (Neoporteria rapifera)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neoporteria rapifera",
+          "beschriftung": "Neoporteria rapifera",
+          "haupt": true,
+          "artikel": "Eriosyce subgibbosa",
+          "wikidata": "Q292273"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1927",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-12",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (II)",
+      "bild_beschreibung": "Igelkaktus (Notocactus concinnus)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Parodia concinna",
+          "beschriftung": "Notocactus concinnus",
+          "haupt": true,
+          "artikel": "Parodia concinna",
+          "wikidata": "Q309985"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1928",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hallenhandball-Weltmeisterschaft der Männer",
+      "bild_beschreibung": "Die folgenden drei Marken wurden als Zusammendruck ausgegeben:; Torwurf",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wurftechnik (Handball)",
+          "beschriftung": "Torwurf",
+          "haupt": true,
+          "artikel": "Wurftechnik (Handball)",
+          "wikidata": "Q2595233"
+        },
+        {
+          "titel": "Handball-Weltmeisterschaft der Männer 1974",
+          "beschriftung": "Hallenhandball-Weltmeisterschaft der Männer",
+          "haupt": false,
+          "artikel": "Handball-Weltmeisterschaft der Männer 1974",
+          "wikidata": "Q305085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1929",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hallenhandball-Weltmeisterschaft der Männer",
+      "bild_beschreibung": "Abwehr",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verteidigung (Sport)",
+          "beschriftung": "Abwehr",
+          "haupt": true,
+          "artikel": "Verteidigung (Sport)",
+          "wikidata": "Q377213"
+        },
+        {
+          "titel": "Handball-Weltmeisterschaft der Männer 1974",
+          "beschriftung": "Hallenhandball-Weltmeisterschaft der Männer",
+          "haupt": false,
+          "artikel": "Handball-Weltmeisterschaft der Männer 1974",
+          "wikidata": "Q305085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1930",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-02-26",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hallenhandball-Weltmeisterschaft der Männer",
+      "bild_beschreibung": "Torhüter",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Handballtorwart",
+          "beschriftung": "Torhüter",
+          "haupt": true,
+          "artikel": "Handballtorwart",
+          "wikidata": "Q179789"
+        },
+        {
+          "titel": "Handball-Weltmeisterschaft der Männer 1974",
+          "beschriftung": "Hallenhandball-Weltmeisterschaft der Männer",
+          "haupt": false,
+          "artikel": "Handball-Weltmeisterschaft der Männer 1974",
+          "wikidata": "Q305085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1931",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Gleichspannungs-Prüfanlage für Hochspannungen bis 2000 kV",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gleichspannung",
+          "beschriftung": "Gleichspannung",
+          "haupt": true,
+          "artikel": "Gleichspannung",
+          "wikidata": "Q352670"
+        },
+        {
+          "titel": "Hochspannung",
+          "beschriftung": "Hochspannung",
+          "haupt": false,
+          "artikel": "Hochspannung",
+          "wikidata": "Q1139740"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1932",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Datenverarbeitungsanlage Robotron „EC 2040“ (Zentraleinheit)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Datenverarbeitung",
+          "beschriftung": "Datenverarbeitung",
+          "haupt": true,
+          "artikel": "Datenverarbeitung",
+          "wikidata": "Q6661985"
+        },
+        {
+          "titel": "Kombinat Robotron",
+          "beschriftung": "Robotron",
+          "haupt": false,
+          "artikel": "Kombinat Robotron",
+          "wikidata": "Q694537"
+        },
+        {
+          "titel": "Zentraleinheit",
+          "beschriftung": "Zentraleinheit",
+          "haupt": false,
+          "artikel": "Zentraleinheit",
+          "wikidata": "Q190369"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1933",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Riesenrötling (Rhodophyllus sinuatus)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Riesenrötling",
+          "beschriftung": "Riesenrötling",
+          "haupt": true,
+          "artikel": "Riesen-Rötling",
+          "wikidata": "Q1424216"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1934",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Satanspilz (Boletus satanas)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Satansröhrling",
+          "beschriftung": "Satanspilz",
+          "haupt": true,
+          "artikel": "Satans-Röhrling",
+          "wikidata": "Q26203731"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1935",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Pantherpilz (Amanita pantherina)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pantherpilz",
+          "beschriftung": "Pantherpilz",
+          "haupt": true,
+          "artikel": "Pantherpilz",
+          "wikidata": "Q45547"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1936",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Roter Fliegenpilz (Amanita muscaria)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fliegenpilz",
+          "beschriftung": "Roter Fliegenpilz",
+          "haupt": true,
+          "artikel": "Fliegenpilz",
+          "wikidata": "Q131227"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1937",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Frühjahrslorchel (Gyromitra esculenta)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frühjahrslorchel",
+          "beschriftung": "Frühjahrslorchel",
+          "haupt": true,
+          "artikel": "Frühjahrs-Giftlorchel",
+          "wikidata": "Q900804"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1938",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Ziegelroter Risspilz (Inocybe patouillardii)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ziegelroter Risspilz",
+          "beschriftung": "Ziegelroter Risspilz",
+          "haupt": true,
+          "artikel": "Ziegelroter Risspilz",
+          "wikidata": "Q107805287"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1939",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Grüner Knollenblätterpilz (Amanita phalloides)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Grüner Knollenblätterpilz",
+          "beschriftung": "Grüner Knollenblätterpilz",
+          "haupt": true,
+          "artikel": "Grüner Knollenblätterpilz",
+          "wikidata": "Q188643"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1940",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-19",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Europäische Giftpilze",
+      "bild_beschreibung": "Feldtrichterling (Clitocybe dealbata)",
+      "entwerfer": "Fritz Deutschendorf",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldtrichterling",
+          "beschriftung": "Feldtrichterling",
+          "haupt": true,
+          "artikel": "Feld-Trichterling",
+          "wikidata": "Q1402263"
+        },
+        {
+          "titel": "Giftpilz",
+          "beschriftung": "Giftpilz",
+          "haupt": false,
+          "artikel": "Giftpilz",
+          "wikidata": "Q359511"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1941",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-26",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (II)",
+      "bild_beschreibung": "Gustav Robert Kirchhoff (1824–1887), Physiker",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gustav Robert Kirchhoff",
+          "beschriftung": "Gustav Robert Kirchhoff",
+          "haupt": true,
+          "artikel": "Gustav Robert Kirchhoff",
+          "wikidata": "Q60052"
+        },
+        {
+          "titel": "Physiker",
+          "beschriftung": "Physiker",
+          "haupt": false,
+          "artikel": "Physiker",
+          "wikidata": "Q169470"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1942",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-26",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (II)",
+      "bild_beschreibung": "Immanuel Kant (1724–1804), Philosoph",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Immanuel Kant",
+          "beschriftung": "Immanuel Kant",
+          "haupt": true,
+          "artikel": "Immanuel Kant",
+          "wikidata": "Q9312"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1943",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (II)",
+      "bild_beschreibung": "Ehm Welk (1884–1966), Schriftsteller",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ehm Welk",
+          "beschriftung": "Ehm Welk",
+          "haupt": true,
+          "artikel": "Ehm Welk",
+          "wikidata": "Q92085"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1944",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-26",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (II)",
+      "bild_beschreibung": "Johann Gottfried von Herder (1744–1803), Schriftsteller, Philosoph und Theologe",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Gottfried von Herder",
+          "beschriftung": "Johann Gottfried von Herder",
+          "haupt": true,
+          "artikel": "Johann Gottfried Herder",
+          "wikidata": "Q155547"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Theologe",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologe",
+          "wikidata": "Q1234713"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1945",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-03-26",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Bedeutende Persönlichkeiten (II)",
+      "bild_beschreibung": "Lion Feuchtwanger (1884–1958), Schriftsteller",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lion Feuchtwanger",
+          "beschriftung": "Lion Feuchtwanger",
+          "haupt": true,
+          "artikel": "Lion Feuchtwanger",
+          "wikidata": "Q77024"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Bedeutende Persönlichkeiten",
+          "beschriftung": "Bedeutende Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Bedeutende Persönlichkeiten",
+          "wikidata": "Q813846"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1946",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-16",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag des ersten Weltfriedenskongresses, Paris",
+      "bild_beschreibung": "Erdkugel mit dem Wort Frieden in 5 Sprachen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltfriedensrat",
+          "beschriftung": "Weltfriedenskongresses",
+          "haupt": true,
+          "artikel": "Weltfriedensrat",
+          "wikidata": "Q1354497"
+        },
+        {
+          "titel": "Paris",
+          "beschriftung": "Paris",
+          "haupt": false,
+          "artikel": "Paris",
+          "wikidata": "Q90"
+        },
+        {
+          "titel": "Erdfigur",
+          "beschriftung": "Erdkugel",
+          "haupt": false,
+          "artikel": "Erdfigur",
+          "wikidata": "Q437882"
+        },
+        {
+          "titel": "Frieden",
+          "beschriftung": "Frieden",
+          "haupt": false,
+          "artikel": "Frieden",
+          "wikidata": "Q454"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1949",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-30",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre DDR",
+      "bild_beschreibung": "Motive aus dem gesellschaftlichen Leben",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1950",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre DDR",
+      "bild_beschreibung": "Motive aus dem gesellschaftlichen Leben",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5100000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1951",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-30",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre DDR",
+      "bild_beschreibung": "Motive aus dem gesellschaftlichen Leben",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1952",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-04-30",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre DDR",
+      "bild_beschreibung": "Motive aus dem gesellschaftlichen Leben",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1953",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-07",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme",
+      "bild_beschreibung": "Buk (erbaut 1878)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Buk",
+          "beschriftung": "Buk",
+          "haupt": true,
+          "artikel": "Leuchtturm Buk",
+          "wikidata": "Q1821409"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1954",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-07",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme",
+      "bild_beschreibung": "Warnemünde (erbaut 1898)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Warnemünde",
+          "beschriftung": "Warnemünde",
+          "haupt": true,
+          "artikel": "Leuchtturm Warnemünde",
+          "wikidata": "Q1697562"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1955",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-07",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme",
+      "bild_beschreibung": "Darßer Ort (erbaut 1848)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Darßer Ort",
+          "beschriftung": "Darßer Ort",
+          "haupt": true,
+          "artikel": "Leuchtturm Darßer Ort",
+          "wikidata": "Q1720366"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1956",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-07",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme",
+      "bild_beschreibung": "Arkona (erbaut 1827 und 1902)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Kap Arkona",
+          "beschriftung": "Arkona",
+          "haupt": true,
+          "artikel": "Leuchtturm Kap Arkona",
+          "wikidata": "Q108934967"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1957",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-07",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leuchttürme",
+      "bild_beschreibung": "Greifswalder Oie (erbaut 1855)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm Greifswalder Oie",
+          "beschriftung": "Greifswalder Oie",
+          "haupt": true,
+          "artikel": "Leuchtturm Greifswalder Oie",
+          "wikidata": "Q28376045"
+        },
+        {
+          "titel": "Leuchttürme, Leit-, Leucht- und Molenfeuer",
+          "beschriftung": "Leuchttürme",
+          "haupt": false,
+          "artikel": "Leuchttürme der DDR",
+          "wikidata": "Q1821476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1958",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-21",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Caspar David Friedrich",
+      "bild_beschreibung": "Zwei Männer in Betrachtung des Mondes",
+      "entwerfer": "Horst Naumann",
+      "auflage": 15000000,
+      "commons_datei": "Stamps of Germany (DDR) 1974, MiNr 1958.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": true,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1959",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-21",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Caspar David Friedrich",
+      "bild_beschreibung": "Die Lebensstufen",
+      "entwerfer": "Horst Naumann",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (DDR) 1974, MiNr 1959.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Die Lebensstufen",
+          "beschriftung": "Die Lebensstufen",
+          "haupt": true,
+          "artikel": "Die Lebensstufen",
+          "wikidata": "Q1214313"
+        },
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": false,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1960",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-21",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Caspar David Friedrich",
+      "bild_beschreibung": "Das große Gehege bei Dresden",
+      "entwerfer": "Horst Naumann",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1974, MiNr 1960.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Das Große Gehege (Gemälde)",
+          "beschriftung": "Das große Gehege bei Dresden",
+          "haupt": true,
+          "artikel": "Das Große Gehege (Gemälde)",
+          "wikidata": "Q3822640"
+        },
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": false,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1961",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-21",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Caspar David Friedrich",
+      "bild_beschreibung": "Ausblick ins Elbtal",
+      "entwerfer": "Horst Naumann",
+      "auflage": 4500000,
+      "commons_datei": "Stamps of Germany (DDR) 1974, MiNr 1961.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": true,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1962",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-05-21",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Caspar David Friedrich",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Selbstbildnis",
+      "entwerfer": "Joachim Rieß",
+      "auflage": 2200000,
+      "commons_datei": "Stamps of Germany (DDR) 1974, MiNr 1962.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Selbstbildnis",
+          "beschriftung": "Selbstbildnis",
+          "haupt": false,
+          "artikel": "Selbstbildnis",
+          "wikidata": "Q192110"
+        },
+        {
+          "titel": "Caspar David Friedrich",
+          "beschriftung": "Caspar David Friedrich",
+          "haupt": false,
+          "artikel": "Caspar David Friedrich",
+          "wikidata": "Q104884"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1963",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-06-11",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plauener Spitze (II)",
+      "bild_beschreibung": "Verschiedene Muster",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plauener Spitze (Briefmarkenserie)",
+          "beschriftung": "Plauener Spitze",
+          "haupt": true,
+          "artikel": "Plauener Spitze (Briefmarkenserie)",
+          "wikidata": "Q2098933"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1964",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-06-11",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plauener Spitze (II)",
+      "bild_beschreibung": "Verschiedene Muster",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plauener Spitze (Briefmarkenserie)",
+          "beschriftung": "Plauener Spitze",
+          "haupt": true,
+          "artikel": "Plauener Spitze (Briefmarkenserie)",
+          "wikidata": "Q2098933"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1965",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-06-11",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plauener Spitze (II)",
+      "bild_beschreibung": "Verschiedene Muster",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plauener Spitze (Briefmarkenserie)",
+          "beschriftung": "Plauener Spitze",
+          "haupt": true,
+          "artikel": "Plauener Spitze (Briefmarkenserie)",
+          "wikidata": "Q2098933"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1966",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-06-11",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Plauener Spitze (II)",
+      "bild_beschreibung": "Verschiedene Muster",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Plauener Spitze (Briefmarkenserie)",
+          "beschriftung": "Plauener Spitze",
+          "haupt": true,
+          "artikel": "Plauener Spitze (Briefmarkenserie)",
+          "wikidata": "Q2098933"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1969",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-08-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten, Berlin",
+      "bild_beschreibung": "Edles Warmblut; Springreiten",
+      "entwerfer": "Horst Naumann",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Edles Warmblut",
+          "beschriftung": "Edles Warmblut",
+          "haupt": true,
+          "artikel": "Edles Warmblut",
+          "wikidata": "Q1285445"
+        },
+        {
+          "titel": "Springreiten",
+          "beschriftung": "Springreiten",
+          "haupt": false,
+          "artikel": "Springreiten",
+          "wikidata": "Q211773"
+        },
+        {
+          "titel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "beschriftung": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "haupt": false,
+          "artikel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "wikidata": null
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1970",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-08-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten, Berlin",
+      "bild_beschreibung": "Traber; Trabrennen",
+      "entwerfer": "Horst Naumann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Traber",
+          "beschriftung": "Traber",
+          "haupt": true,
+          "artikel": "Traber",
+          "wikidata": "Q1897960"
+        },
+        {
+          "titel": "Trabrennsport",
+          "beschriftung": "Trabrennen",
+          "haupt": false,
+          "artikel": "Trabrennsport",
+          "wikidata": "Q1194269"
+        },
+        {
+          "titel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "beschriftung": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "haupt": false,
+          "artikel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "wikidata": null
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1971",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-08-13",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten, Berlin",
+      "bild_beschreibung": "Haflinger",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Haflinger",
+          "beschriftung": "Haflinger",
+          "haupt": true,
+          "artikel": "Haflinger",
+          "wikidata": "Q609630"
+        },
+        {
+          "titel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "beschriftung": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "haupt": false,
+          "artikel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "wikidata": null
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1972",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-08-13",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten, Berlin",
+      "bild_beschreibung": "Englisches Vollblut; Galopprennen",
+      "entwerfer": "Horst Naumann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Englisches Vollblut",
+          "beschriftung": "Englisches Vollblut",
+          "haupt": true,
+          "artikel": "Englisches Vollblut",
+          "wikidata": "Q210826"
+        },
+        {
+          "titel": "Galopprennen",
+          "beschriftung": "Galopprennen",
+          "haupt": false,
+          "artikel": "Galopprennsport",
+          "wikidata": "Q3214425"
+        },
+        {
+          "titel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "beschriftung": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "haupt": false,
+          "artikel": "Internationaler Kongreß für Pferdezucht der sozialistischen Staaten",
+          "wikidata": null
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1973",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-08-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Eisenbahndrehkran „EDK 2000“",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 7000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schienendrehkran",
+          "beschriftung": "Eisenbahndrehkran",
+          "haupt": true,
+          "artikel": "Schienendrehkran",
+          "wikidata": "Q2142500"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1974",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-08-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Rübenrodelader „KS-6“",
+      "entwerfer": "Paul Reißmüller",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landmaschinenbau Döbeln",
+          "beschriftung": "Rübenrodelader „KS-6“",
+          "haupt": true,
+          "artikel": "Landmaschinenbau Döbeln",
+          "wikidata": "Q1803629"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1975",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-10",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlossmuseum Arnstadt, Puppenstadt: Mon plaisir",
+      "bild_beschreibung": "Porzellan- und Spiegelkabinett",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porzellan",
+          "beschriftung": "Porzellan",
+          "haupt": true,
+          "artikel": "Porzellan",
+          "wikidata": "Q130693"
+        },
+        {
+          "titel": "Spiegelsaal",
+          "beschriftung": "Spiegelkabinett",
+          "haupt": false,
+          "artikel": "Spiegelsaal",
+          "wikidata": "Q3155645"
+        },
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": false,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        },
+        {
+          "titel": "Puppenstube",
+          "beschriftung": "Puppenstadt",
+          "haupt": false,
+          "artikel": "Puppenstube",
+          "wikidata": "Q1355866"
+        },
+        {
+          "titel": "Mon plaisir (Puppenstadt)",
+          "beschriftung": "Mon plaisir",
+          "haupt": false,
+          "artikel": "Mon plaisir (Puppenstadt)",
+          "wikidata": "Q1943910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1976",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlossmuseum Arnstadt, Puppenstadt: Mon plaisir",
+      "bild_beschreibung": "Ausrufer einer Schaubude",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schaubude",
+          "beschriftung": "Schaubude",
+          "haupt": true,
+          "artikel": "Schaubude",
+          "wikidata": "Q1298903"
+        },
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": false,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        },
+        {
+          "titel": "Puppenstube",
+          "beschriftung": "Puppenstadt",
+          "haupt": false,
+          "artikel": "Puppenstube",
+          "wikidata": "Q1355866"
+        },
+        {
+          "titel": "Mon plaisir (Puppenstadt)",
+          "beschriftung": "Mon plaisir",
+          "haupt": false,
+          "artikel": "Mon plaisir (Puppenstadt)",
+          "wikidata": "Q1943910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1977",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlossmuseum Arnstadt, Puppenstadt: Mon plaisir",
+      "bild_beschreibung": "Weinprobe im Hofkeller",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weinprobe",
+          "beschriftung": "Weinprobe",
+          "haupt": true,
+          "artikel": "Weinprobe",
+          "wikidata": "Q2166448"
+        },
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": false,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        },
+        {
+          "titel": "Puppenstube",
+          "beschriftung": "Puppenstadt",
+          "haupt": false,
+          "artikel": "Puppenstube",
+          "wikidata": "Q1355866"
+        },
+        {
+          "titel": "Mon plaisir (Puppenstadt)",
+          "beschriftung": "Mon plaisir",
+          "haupt": false,
+          "artikel": "Mon plaisir (Puppenstadt)",
+          "wikidata": "Q1943910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1978",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlossmuseum Arnstadt, Puppenstadt: Mon plaisir",
+      "bild_beschreibung": "Böttgermeister und Geselle",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Küfer",
+          "beschriftung": "Böttgermeister",
+          "haupt": true,
+          "artikel": "Küfer",
+          "wikidata": "Q38883"
+        },
+        {
+          "titel": "Geselle",
+          "beschriftung": "Geselle",
+          "haupt": false,
+          "artikel": "Geselle",
+          "wikidata": "Q582096"
+        },
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": false,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        },
+        {
+          "titel": "Puppenstube",
+          "beschriftung": "Puppenstadt",
+          "haupt": false,
+          "artikel": "Puppenstube",
+          "wikidata": "Q1355866"
+        },
+        {
+          "titel": "Mon plaisir (Puppenstadt)",
+          "beschriftung": "Mon plaisir",
+          "haupt": false,
+          "artikel": "Mon plaisir (Puppenstadt)",
+          "wikidata": "Q1943910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1979",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlossmuseum Arnstadt, Puppenstadt: Mon plaisir",
+      "bild_beschreibung": "Dudelsackspieler (Bärentanz)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sackpfeife (Musikinstrument)",
+          "beschriftung": "Dudelsackspieler",
+          "haupt": true,
+          "artikel": "Sackpfeife",
+          "wikidata": "Q8347"
+        },
+        {
+          "titel": "Bärentanz",
+          "beschriftung": "Bärentanz",
+          "haupt": false,
+          "artikel": "Bärentanz",
+          "wikidata": null
+        },
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": false,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        },
+        {
+          "titel": "Puppenstube",
+          "beschriftung": "Puppenstadt",
+          "haupt": false,
+          "artikel": "Puppenstube",
+          "wikidata": "Q1355866"
+        },
+        {
+          "titel": "Mon plaisir (Puppenstadt)",
+          "beschriftung": "Mon plaisir",
+          "haupt": false,
+          "artikel": "Mon plaisir (Puppenstadt)",
+          "wikidata": "Q1943910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1980",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-10",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Schlossmuseum Arnstadt, Puppenstadt: Mon plaisir",
+      "bild_beschreibung": "Fleischermeisterin und Bettlerin",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fleischer",
+          "beschriftung": "Fleischer",
+          "haupt": true,
+          "artikel": "Fleischer",
+          "wikidata": "Q329737"
+        },
+        {
+          "titel": "Bettler",
+          "beschriftung": "Bettler",
+          "haupt": false,
+          "artikel": "Bettler",
+          "wikidata": "Q273283"
+        },
+        {
+          "titel": "Arnstadt",
+          "beschriftung": "Arnstadt",
+          "haupt": false,
+          "artikel": "Arnstadt",
+          "wikidata": "Q490665"
+        },
+        {
+          "titel": "Puppenstube",
+          "beschriftung": "Puppenstadt",
+          "haupt": false,
+          "artikel": "Puppenstube",
+          "wikidata": "Q1355866"
+        },
+        {
+          "titel": "Mon plaisir (Puppenstadt)",
+          "beschriftung": "Mon plaisir",
+          "haupt": false,
+          "artikel": "Mon plaisir (Puppenstadt)",
+          "wikidata": "Q1943910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1981",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Mahnmal in den Ardeatinischen Höhlen bei Rom; Massaker in den Ardeatinischen Höhlen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ardeatinische Höhlen",
+          "beschriftung": "Ardeatinischen Höhlen",
+          "haupt": true,
+          "artikel": "Ardeatinische Höhlen",
+          "wikidata": null
+        },
+        {
+          "titel": "Rom",
+          "beschriftung": "Rom",
+          "haupt": false,
+          "artikel": "Rom",
+          "wikidata": "Q220"
+        },
+        {
+          "titel": "Massaker in den Ardeatinischen Höhlen",
+          "beschriftung": "Massaker in den Ardeatinischen Höhlen",
+          "haupt": false,
+          "artikel": "Massaker in den Ardeatinischen Höhlen",
+          "wikidata": "Q638761"
+        },
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1982",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-09-24",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Nationales Monument zum Gedenken der Helden der Résistance bei Châteaubriant, Frankreich; Erschießung von 27 Geiseln",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Résistance",
+          "beschriftung": "Résistance",
+          "haupt": true,
+          "artikel": "Résistance",
+          "wikidata": "Q157146"
+        },
+        {
+          "titel": "Châteaubriant",
+          "beschriftung": "Châteaubriant",
+          "haupt": false,
+          "artikel": "Châteaubriant",
+          "wikidata": "Q211187"
+        },
+        {
+          "titel": "Frankreich",
+          "beschriftung": "Frankreich",
+          "haupt": false,
+          "artikel": "Frankreich",
+          "wikidata": "Q142"
+        },
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1983",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-03",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre DDR",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Familie, Neubauten, Staatswappen",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": true,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1984",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Weltpostverein (UPU)",
+      "bild_beschreibung": "Modernes Frachtschiff und alter Raddampfer",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Frachtschiff",
+          "beschriftung": "Frachtschiff",
+          "haupt": true,
+          "artikel": "Frachtschiff",
+          "wikidata": "Q105999"
+        },
+        {
+          "titel": "Raddampfer",
+          "beschriftung": "Raddampfer",
+          "haupt": false,
+          "artikel": "Raddampfer",
+          "wikidata": "Q1121471"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1985",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Weltpostverein (UPU)",
+      "bild_beschreibung": "Diesellokomotive und historische Lokomotive",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Diesellokomotive",
+          "beschriftung": "Diesellokomotive",
+          "haupt": true,
+          "artikel": "Diesellokomotive",
+          "wikidata": "Q34336"
+        },
+        {
+          "titel": "Dampflokomotive",
+          "beschriftung": "Lokomotive",
+          "haupt": false,
+          "artikel": "Dampflokomotive",
+          "wikidata": "Q171043"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1986",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Weltpostverein (UPU)",
+      "bild_beschreibung": "Düsenflugzeug und Kolbenmotorflugzeug",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Strahlflugzeug",
+          "beschriftung": "Düsenflugzeug",
+          "haupt": true,
+          "artikel": "Strahlflugzeug",
+          "wikidata": "Q206592"
+        },
+        {
+          "titel": "Hubkolbenmotor",
+          "beschriftung": "Kolbenmotorflugzeug",
+          "haupt": false,
+          "artikel": "Hubkolbenmotor",
+          "wikidata": "Q630010"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1987",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-09",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Weltpostverein (UPU)",
+      "bild_beschreibung": "Postauto (IFA W50) und Postkutsche",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Liste von Postfahrzeugen",
+          "beschriftung": "Postauto",
+          "haupt": true,
+          "artikel": "Liste von Postfahrzeugen",
+          "wikidata": "Q1664155"
+        },
+        {
+          "titel": "IFA W50",
+          "beschriftung": "IFA W50",
+          "haupt": false,
+          "artikel": "IFA W50",
+          "wikidata": "Q525435"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1988",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-24",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten; Briefmarkenausstellung der DDR 1974",
+      "bild_beschreibung": "Details aus einem plastischen Ensemble in Chemnitz nach den Lobgedichten Bertolt Brechts; Die folgenden drei Marken wurden als Zusammendruck ausgegeben:; Reliefausschnitt von Eberhard Rossdeutscher",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": true,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        },
+        {
+          "titel": "Lobgedicht",
+          "beschriftung": "Lobgedicht",
+          "haupt": false,
+          "artikel": "Lobgedicht",
+          "wikidata": null
+        },
+        {
+          "titel": "Bertolt Brecht",
+          "beschriftung": "Bertolt Brecht",
+          "haupt": false,
+          "artikel": "Bertolt Brecht",
+          "wikidata": "Q38757"
+        },
+        {
+          "titel": "Relief",
+          "beschriftung": "Relief",
+          "haupt": false,
+          "artikel": "Relief",
+          "wikidata": "Q245117"
+        },
+        {
+          "titel": "Eberhard Rossdeutscher",
+          "beschriftung": "Eberhard Rossdeutscher",
+          "haupt": false,
+          "artikel": "Eberhard Rossdeutscher",
+          "wikidata": null
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1989",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten; Briefmarkenausstellung der DDR 1974",
+      "bild_beschreibung": "Reliefausschnitt von Jo Jastram",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jo Jastram",
+          "beschriftung": "Jo Jastram",
+          "haupt": true,
+          "artikel": "Jo Jastram",
+          "wikidata": "Q1170685"
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1990",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-10-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tag der Philatelisten; Briefmarkenausstellung der DDR 1974",
+      "bild_beschreibung": "Reliefausschnitt von Martin Wetzel",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 2550000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Martin Wetzel",
+          "beschriftung": "Martin Wetzel",
+          "haupt": true,
+          "artikel": "Martin Wetzel",
+          "wikidata": "Q1905246"
+        },
+        {
+          "titel": "Tag der Briefmarke (DDR)",
+          "beschriftung": "Tag der Philatelisten",
+          "haupt": false,
+          "artikel": "Tag der Briefmarke (DDR)",
+          "wikidata": "Q2387648"
+        },
+        {
+          "titel": "Briefmarkenausstellung",
+          "beschriftung": "Briefmarkenausstellung",
+          "haupt": false,
+          "artikel": "Briefmarkenausstellung",
+          "wikidata": "Q2634891"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1991",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-11-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zeichnungen Junger Pioniere",
+      "bild_beschreibung": "Die folgenden vier Marken wurden als Kleinbogen ausgegeben:; Über allem strahlt die Sonne; von Gabriele Mlosch (9 Jahre)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Junger Pioniere",
+          "haupt": false,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1992",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-11-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zeichnungen Junger Pioniere",
+      "bild_beschreibung": "Carsten, bester Schwimmer der Klasse; von Michael Kluge (10 Jahre)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Junger Pioniere",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1993",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-11-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zeichnungen Junger Pioniere",
+      "bild_beschreibung": "Mein Freund Sascha; von Birk Ozminski (9 Jahre)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Junger Pioniere",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1994",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-11-26",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Zeichnungen Junger Pioniere",
+      "bild_beschreibung": "Ich an der Wandtafel; von Petra Westphal (7 Jahre)",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schreibtafel",
+          "beschriftung": "Wandtafel",
+          "haupt": true,
+          "artikel": "Schreibtafel",
+          "wikidata": "Q235585"
+        },
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Junger Pioniere",
+          "haupt": false,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1995",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (IX), Zwitscher hin und zwitscher her",
+      "bild_beschreibung": "Russisches Volks-Wintermärchen, überarbeitet von Alexei Tolstoi; Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alexei Nikolajewitsch Tolstoi",
+          "beschriftung": "Alexei Tolstoi",
+          "haupt": true,
+          "artikel": "Alexei Nikolajewitsch Tolstoi",
+          "wikidata": "Q192279"
+        },
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": false,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Zwitscher hin und zwitscher her",
+          "beschriftung": "Zwitscher hin und zwitscher her",
+          "haupt": false,
+          "artikel": "Zwitscher hin und zwitscher her",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1996",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-03",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (IX), Zwitscher hin und zwitscher her",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Zwitscher hin und zwitscher her",
+          "beschriftung": "Zwitscher hin und zwitscher her",
+          "haupt": false,
+          "artikel": "Zwitscher hin und zwitscher her",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1997",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (IX), Zwitscher hin und zwitscher her",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Zwitscher hin und zwitscher her",
+          "beschriftung": "Zwitscher hin und zwitscher her",
+          "haupt": false,
+          "artikel": "Zwitscher hin und zwitscher her",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1998",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (IX), Zwitscher hin und zwitscher her",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Zwitscher hin und zwitscher her",
+          "beschriftung": "Zwitscher hin und zwitscher her",
+          "haupt": false,
+          "artikel": "Zwitscher hin und zwitscher her",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1999",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-03",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (IX), Zwitscher hin und zwitscher her",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Zwitscher hin und zwitscher her",
+          "beschriftung": "Zwitscher hin und zwitscher her",
+          "haupt": false,
+          "artikel": "Zwitscher hin und zwitscher her",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "2000",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-03",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (IX), Zwitscher hin und zwitscher her",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Zwitscher hin und zwitscher her",
+          "beschriftung": "Zwitscher hin und zwitscher her",
+          "haupt": false,
+          "artikel": "Zwitscher hin und zwitscher her",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "2001",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Museen Berlin; Gemälde",
+      "bild_beschreibung": "Stilleben mit Sonnenblumen und Quitten; Ronald Paris (1933–2021)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Stilleben",
+          "beschriftung": "Stilleben",
+          "haupt": true,
+          "artikel": "Stillleben",
+          "wikidata": "Q170571"
+        },
+        {
+          "titel": "Sonnenblume",
+          "beschriftung": "Sonnenblume",
+          "haupt": false,
+          "artikel": "Sonnenblume",
+          "wikidata": "Q171497"
+        },
+        {
+          "titel": "Quitten",
+          "beschriftung": "Quitten",
+          "haupt": false,
+          "artikel": "Quitte",
+          "wikidata": "Q43300"
+        },
+        {
+          "titel": "Ronald Paris",
+          "beschriftung": "Ronald Paris",
+          "haupt": false,
+          "artikel": "Ronald Paris",
+          "wikidata": "Q2165712"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Staatliche Museen Berlin",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2002",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-10",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Museen Berlin; Gemälde",
+      "bild_beschreibung": "Sinnendes Mädchen; Wilhelm Lachnit (1899–1962)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Lachnit",
+          "beschriftung": "Wilhelm Lachnit",
+          "haupt": true,
+          "artikel": "Wilhelm Lachnit",
+          "wikidata": "Q89725"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Staatliche Museen Berlin",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2003",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Museen Berlin; Gemälde",
+      "bild_beschreibung": "Fischerhaus in Vitte; Harald Hakenbeck (* 1926)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hiddensee",
+          "beschriftung": "Vitte",
+          "haupt": true,
+          "artikel": "Hiddensee",
+          "wikidata": "Q9291971"
+        },
+        {
+          "titel": "Harald Hakenbeck",
+          "beschriftung": "Harald Hakenbeck",
+          "haupt": false,
+          "artikel": "Harald Hakenbeck",
+          "wikidata": "Q1584523"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Staatliche Museen Berlin",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2004",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-10",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Museen Berlin; Gemälde",
+      "bild_beschreibung": "Mädchenporträt in Rot; Rudolf Bergander (1909–1970)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porträt",
+          "beschriftung": "Mädchenporträt",
+          "haupt": true,
+          "artikel": "Porträt",
+          "wikidata": "Q134307"
+        },
+        {
+          "titel": "Rudolf Bergander",
+          "beschriftung": "Rudolf Bergander",
+          "haupt": false,
+          "artikel": "Rudolf Bergander",
+          "wikidata": "Q104218"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Staatliche Museen Berlin",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2005",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-10",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatliche Museen Berlin; Gemälde",
+      "bild_beschreibung": "Meine Eltern III; Willi Sitte (1921–2013)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Willi Sitte",
+          "beschriftung": "Willi Sitte",
+          "haupt": true,
+          "artikel": "Willi Sitte",
+          "wikidata": "Q90856"
+        },
+        {
+          "titel": "Staatliche Museen zu Berlin",
+          "beschriftung": "Staatliche Museen Berlin",
+          "haupt": false,
+          "artikel": "Staatliche Museen zu Berlin",
+          "wikidata": "Q700216"
+        },
+        {
+          "titel": "Gemälde",
+          "beschriftung": "Gemälde",
+          "haupt": false,
+          "artikel": "Gemälde",
+          "wikidata": "Q3305213"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2006",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Minerale aus den Sammlungen der Bergakademie Freiberg (III)",
+      "bild_beschreibung": "Bandjaspis, Gnandstein (Sachsen)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 15000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jaspis",
+          "beschriftung": "Bandjaspis",
+          "haupt": true,
+          "artikel": "Jaspis",
+          "wikidata": "Q201175"
+        },
+        {
+          "titel": "Gnandstein",
+          "beschriftung": "Gnandstein",
+          "haupt": false,
+          "artikel": "Gnandstein",
+          "wikidata": "Q1533164"
+        },
+        {
+          "titel": "Sachsen",
+          "beschriftung": "Sachsen",
+          "haupt": false,
+          "artikel": "Sachsen",
+          "wikidata": "Q1202"
+        },
+        {
+          "titel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "beschriftung": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "wikidata": "Q1634313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2007",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-17",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Minerale aus den Sammlungen der Bergakademie Freiberg (III)",
+      "bild_beschreibung": "Rauchquarz, Pechtelsgrün (Vogtland)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rauchquarz",
+          "beschriftung": "Rauchquarz",
+          "haupt": true,
+          "artikel": "Rauchquarz",
+          "wikidata": "Q429935"
+        },
+        {
+          "titel": "Pechtelsgrün",
+          "beschriftung": "Pechtelsgrün",
+          "haupt": false,
+          "artikel": "Pechtelsgrün",
+          "wikidata": "Q26254828"
+        },
+        {
+          "titel": "Vogtland",
+          "beschriftung": "Vogtland",
+          "haupt": false,
+          "artikel": "Vogtland",
+          "wikidata": "Q708317"
+        },
+        {
+          "titel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "beschriftung": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "wikidata": "Q1634313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2008",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Minerale aus den Sammlungen der Bergakademie Freiberg (III)",
+      "bild_beschreibung": "Topas, Schneckenstein (Vogtland)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Topas",
+          "beschriftung": "Topas",
+          "haupt": true,
+          "artikel": "Topas",
+          "wikidata": "Q134985"
+        },
+        {
+          "titel": "Schneckenstein (Tannenbergsthal)",
+          "beschriftung": "Schneckenstein",
+          "haupt": false,
+          "artikel": "Schneckenstein (Tannenbergsthal)",
+          "wikidata": "Q2247156"
+        },
+        {
+          "titel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "beschriftung": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "wikidata": "Q1634313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2009",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Minerale aus den Sammlungen der Bergakademie Freiberg (III)",
+      "bild_beschreibung": "Amethyst mit Quarz, Geyer (Erzgebirge)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Amethyst",
+          "beschriftung": "Amethyst",
+          "haupt": true,
+          "artikel": "Amethyst",
+          "wikidata": "Q79058"
+        },
+        {
+          "titel": "Quarz",
+          "beschriftung": "Quarz",
+          "haupt": false,
+          "artikel": "Quarz",
+          "wikidata": "Q43010"
+        },
+        {
+          "titel": "Geyer",
+          "beschriftung": "Geyer",
+          "haupt": false,
+          "artikel": "Geyer",
+          "wikidata": "Q57891"
+        },
+        {
+          "titel": "Erzgebirge",
+          "beschriftung": "Erzgebirge",
+          "haupt": false,
+          "artikel": "Erzgebirge",
+          "wikidata": "Q4198"
+        },
+        {
+          "titel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "beschriftung": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "wikidata": "Q1634313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2010",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-17",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Minerale aus den Sammlungen der Bergakademie Freiberg (III)",
+      "bild_beschreibung": "Aquamarin, Irfersgrün (Vogtland)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aquamarin",
+          "beschriftung": "Aquamarin",
+          "haupt": true,
+          "artikel": "Aquamarin",
+          "wikidata": "Q58959"
+        },
+        {
+          "titel": "Lengenfeld (Vogtland)",
+          "beschriftung": "Irfersgrün",
+          "haupt": false,
+          "artikel": "Lengenfeld (Vogtland)",
+          "wikidata": "Q46869"
+        },
+        {
+          "titel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "beschriftung": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "wikidata": "Q1634313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2011",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1974-12-17",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Minerale aus den Sammlungen der Bergakademie Freiberg (III)",
+      "bild_beschreibung": "Achat im Porphyr, Sankt Egidien (Sachsen)",
+      "entwerfer": "Lothar Grünewald",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Achat",
+          "beschriftung": "Achat",
+          "haupt": true,
+          "artikel": "Achat",
+          "wikidata": "Q123314"
+        },
+        {
+          "titel": "Porphyr",
+          "beschriftung": "Porphyr",
+          "haupt": false,
+          "artikel": "Porphyr",
+          "wikidata": "Q337238"
+        },
+        {
+          "titel": "Sankt Egidien",
+          "beschriftung": "Sankt Egidien",
+          "haupt": false,
+          "artikel": "St. Egidien",
+          "wikidata": "Q17130"
+        },
+        {
+          "titel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "beschriftung": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "haupt": false,
+          "artikel": "Minerale aus den Sammlungen der Bergakademie Freiberg",
+          "wikidata": "Q1634313"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1919",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1974-01-22",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Großformat (VI)",
+      "bild_beschreibung": "Kronentor des Dresdner Zwingers",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kronentor",
+          "beschriftung": "Kronentor",
+          "haupt": true,
+          "artikel": "Kronentor",
+          "wikidata": "Q1789892"
+        },
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Dresdner Zwingers",
+          "haupt": false,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": false,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1920",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1974-01-22",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Großformat (VI)",
+      "bild_beschreibung": "Kröpeliner Tor und Haus Sonne, Rostock; Teepott und Leuchtturm, Warnemünde",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kröpeliner Tor",
+          "beschriftung": "Kröpeliner Tor",
+          "haupt": true,
+          "artikel": "Kröpeliner Tor",
+          "wikidata": "Q1790663"
+        },
+        {
+          "titel": "Haus Sonne",
+          "beschriftung": "Haus Sonne",
+          "haupt": false,
+          "artikel": "Haus zur Sonne (Braunschweig)",
+          "wikidata": "Q18748662"
+        },
+        {
+          "titel": "Rostock",
+          "beschriftung": "Rostock",
+          "haupt": false,
+          "artikel": "Rostock",
+          "wikidata": "Q2861"
+        },
+        {
+          "titel": "Teepott Warnemünde",
+          "beschriftung": "Teepott",
+          "haupt": false,
+          "artikel": "Teepott Warnemünde",
+          "wikidata": "Q2400135"
+        },
+        {
+          "titel": "Leuchtturm Warnemünde",
+          "beschriftung": "Leuchtturm",
+          "haupt": false,
+          "artikel": "Leuchtturm Warnemünde",
+          "wikidata": "Q1697562"
+        },
+        {
+          "titel": "Warnemünde",
+          "beschriftung": "Warnemünde",
+          "haupt": false,
+          "artikel": "Warnemünde",
+          "wikidata": "Q311849"
+        },
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": false,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1947",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1974-04-16",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (II)",
+      "bild_beschreibung": "Pelikan, Alfred-Brehm-Haus, Tierpark Berlin",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pelikane",
+          "beschriftung": "Pelikan",
+          "haupt": true,
+          "artikel": "Pelikane",
+          "wikidata": "Q19413"
+        },
+        {
+          "titel": "Alfred-Brehm-Haus",
+          "beschriftung": "Alfred-Brehm-Haus",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        },
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": false,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1948",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1974-04-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (II)",
+      "bild_beschreibung": "Neue Wache, Berlin",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neue Wache",
+          "beschriftung": "Neue Wache",
+          "haupt": true,
+          "artikel": "Neue Wache",
+          "wikidata": "Q152341"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": false,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1967",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1974-06-11",
+      "wert": "3 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Großformat (VII)",
+      "bild_beschreibung": "Staatswappen",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": true,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1968",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1974-07-09",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufbau in der DDR, Kleinformat (III)",
+      "bild_beschreibung": "Sowjetisches Ehrenmal, Berlin-Treptow",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Aufbau in der DDR",
+          "beschriftung": "Aufbau in der DDR",
+          "haupt": true,
+          "artikel": "Aufbau in der DDR",
+          "wikidata": "Q759500"
+        },
+        {
+          "titel": "Sowjetisches Ehrenmal (Treptower Park)",
+          "beschriftung": "Sowjetisches Ehrenmal",
+          "haupt": false,
+          "artikel": "Sowjetisches Ehrenmal im Treptower Park",
+          "wikidata": "Q48441"
+        },
+        {
+          "titel": "Bezirk Treptow",
+          "beschriftung": "Berlin-Treptow",
+          "haupt": false,
+          "artikel": "Bezirk Treptow",
+          "wikidata": "Q677833"
+        }
+      ]
+    }
+  ]
+}

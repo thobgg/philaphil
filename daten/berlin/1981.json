@@ -1,0 +1,802 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1981,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1981 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1981_der_Deutschen_Bundespost_Berlin",
+    "revision": 259739918,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 637,
+    "mi_nr_bis": 658,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 22,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "637",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Achim von Arnim",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 6650000,
+      "commons_datei": "Stamps of Germany (Berlin) 1981, MiNr 637.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Achim von Arnim",
+          "beschriftung": "Achim von Arnim",
+          "haupt": true,
+          "artikel": "Achim von Arnim",
+          "wikidata": "Q70988"
+        }
+      ]
+    },
+    {
+      "mi_nr": "638",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Adelbert von Chamisso",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 6650000,
+      "commons_datei": "Stamps of Germany (Berlin) 1981, MiNr 638.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adelbert von Chamisso",
+          "beschriftung": "Adelbert von Chamisso",
+          "haupt": true,
+          "artikel": "Adelbert von Chamisso",
+          "wikidata": "Q154782"
+        }
+      ]
+    },
+    {
+      "mi_nr": "639",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-01-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Karl Philipp von Gontard",
+      "bild_beschreibung": "Hintergrund Königskolonnaden am Kleistpark",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 6650000,
+      "commons_datei": "Stamps of Germany (Berlin) 1981, MiNr 639.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl von Gontard",
+          "beschriftung": "Karl Philipp von Gontard",
+          "haupt": true,
+          "artikel": "Carl von Gontard",
+          "wikidata": "Q68768"
+        },
+        {
+          "titel": "Königskolonnaden",
+          "beschriftung": "Königskolonnaden",
+          "haupt": false,
+          "artikel": "Königskolonnaden",
+          "wikidata": "Q1796412"
+        },
+        {
+          "titel": "Heinrich-von-Kleist-Park",
+          "beschriftung": "Kleistpark",
+          "haupt": false,
+          "artikel": "Heinrich-von-Kleist-Park",
+          "wikidata": "Q873246"
+        }
+      ]
+    },
+    {
+      "mi_nr": "640",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-02-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Karl Friedrich Schinkel",
+      "bild_beschreibung": "Nationaldenkmal für die Befreiungskriege, Berlin-Kreuzberg",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 12150000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Friedrich Schinkel",
+          "beschriftung": "Karl Friedrich Schinkel",
+          "haupt": true,
+          "artikel": "Karl Friedrich Schinkel",
+          "wikidata": "Q151759"
+        },
+        {
+          "titel": "Befreiungskriege",
+          "beschriftung": "Befreiungskriege",
+          "haupt": false,
+          "artikel": "Befreiungskriege",
+          "wikidata": "Q814235"
+        },
+        {
+          "titel": "Berlin-Kreuzberg",
+          "beschriftung": "Berlin-Kreuzberg",
+          "haupt": false,
+          "artikel": "Berlin-Kreuzberg",
+          "wikidata": "Q308928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "641",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-10",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1981: Optische Instrumente",
+      "bild_beschreibung": "Theodolit (um 1810)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3776000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodolit",
+          "beschriftung": "Theodolit",
+          "haupt": true,
+          "artikel": "Theodolit",
+          "wikidata": "Q181517"
+        },
+        {
+          "titel": "Technische Optik",
+          "beschriftung": "Optische Instrumente",
+          "haupt": false,
+          "artikel": "Technische Optik",
+          "wikidata": "Q640621"
+        }
+      ]
+    },
+    {
+      "mi_nr": "642",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-10",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1981: Optische Instrumente",
+      "bild_beschreibung": "Äquatorial (um 1820)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3227000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Äquatorial (Fernrohr)",
+          "beschriftung": "Äquatorial",
+          "haupt": true,
+          "artikel": "Äquatorial (Fernrohr)",
+          "wikidata": "Q255613"
+        },
+        {
+          "titel": "Technische Optik",
+          "beschriftung": "Optische Instrumente",
+          "haupt": false,
+          "artikel": "Technische Optik",
+          "wikidata": "Q640621"
+        }
+      ]
+    },
+    {
+      "mi_nr": "643",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1981: Optische Instrumente",
+      "bild_beschreibung": "Mikroskop (1790)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3265000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mikroskop",
+          "beschriftung": "Mikroskop",
+          "haupt": true,
+          "artikel": "Mikroskop",
+          "wikidata": "Q196538"
+        },
+        {
+          "titel": "Technische Optik",
+          "beschriftung": "Optische Instrumente",
+          "haupt": false,
+          "artikel": "Technische Optik",
+          "wikidata": "Q640621"
+        }
+      ]
+    },
+    {
+      "mi_nr": "644",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-10",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1981: Optische Instrumente",
+      "bild_beschreibung": "Sextant (um 1830)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3226000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sextant",
+          "beschriftung": "Sextant",
+          "haupt": true,
+          "artikel": "Sextant",
+          "wikidata": "Q179430"
+        },
+        {
+          "titel": "Technische Optik",
+          "beschriftung": "Optische Instrumente",
+          "haupt": false,
+          "artikel": "Technische Optik",
+          "wikidata": "Q640621"
+        }
+      ]
+    },
+    {
+      "mi_nr": "645",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-10",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1981",
+      "bild_beschreibung": "Frauen-Gruppengymnastik",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 4049000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "gymnastik",
+          "beschriftung": "gymnastik",
+          "haupt": true,
+          "artikel": "Gymnastik",
+          "wikidata": "Q107031718"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "646",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-04-10",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1981",
+      "bild_beschreibung": "Volkslauf",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 3462000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkslauf",
+          "beschriftung": "Volkslauf",
+          "haupt": true,
+          "artikel": "Volkslauf",
+          "wikidata": "Q992060"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "647",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Reinhold Begas",
+      "bild_beschreibung": "Skulptur „Amor und Psyche“",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8670000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Reinhold Begas",
+          "beschriftung": "Reinhold Begas",
+          "haupt": true,
+          "artikel": "Reinhold Begas",
+          "wikidata": "Q603105"
+        },
+        {
+          "titel": "Skulptur",
+          "beschriftung": "Skulptur",
+          "haupt": false,
+          "artikel": "Skulptur",
+          "wikidata": "Q860861"
+        },
+        {
+          "titel": "Amor und Psyche",
+          "beschriftung": "Amor und Psyche",
+          "haupt": false,
+          "artikel": "Amor und Psyche",
+          "wikidata": "Q135662"
+        }
+      ]
+    },
+    {
+      "mi_nr": "648",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Preußen-Ausstellung in Berlin-Kreuzberg",
+      "bild_beschreibung": "Orden „Pour le Mérite für Wissenschaften und Künste“",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 15170000,
+      "commons_datei": "Stamps of Germany (Berlin) 1981, MiNr 648.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Kreuzberg",
+          "beschriftung": "Berlin-Kreuzberg",
+          "haupt": true,
+          "artikel": "Berlin-Kreuzberg",
+          "wikidata": "Q308928"
+        },
+        {
+          "titel": "Orden und Ehrenzeichen",
+          "beschriftung": "Orden",
+          "haupt": false,
+          "artikel": "Orden und Ehrenzeichen",
+          "wikidata": "Q11796413"
+        },
+        {
+          "titel": "Pour le Mérite",
+          "beschriftung": "Pour le Mérite für Wissenschaften und Künste",
+          "haupt": false,
+          "artikel": "Pour le Mérite",
+          "wikidata": "Q156478"
+        }
+      ]
+    },
+    {
+      "mi_nr": "649",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-07-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung (IFA)",
+      "bild_beschreibung": "Haus des Rundfunks in Berlin-Charlottenburg",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7820000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung",
+          "beschriftung": "Internationale Funkausstellung",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Haus des Rundfunks",
+          "beschriftung": "Haus des Rundfunks",
+          "haupt": false,
+          "artikel": "Haus des Rundfunks",
+          "wikidata": "Q316021"
+        },
+        {
+          "titel": "Berlin-Charlottenburg",
+          "beschriftung": "Berlin-Charlottenburg",
+          "haupt": false,
+          "artikel": "Berlin-Charlottenburg",
+          "wikidata": "Q162049"
+        }
+      ]
+    },
+    {
+      "mi_nr": "650",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-08",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1981: Gefährdete Moor-, Sumpfwiesen- und Wasserpflanzen",
+      "bild_beschreibung": "Schlangenwurz Calla palustris",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 9490000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Drachenwurz",
+          "beschriftung": "Schlangenwurz",
+          "haupt": true,
+          "artikel": "Drachenwurz",
+          "wikidata": "Q175886"
+        },
+        {
+          "titel": "Moor",
+          "beschriftung": "Moor",
+          "haupt": false,
+          "artikel": "Moor",
+          "wikidata": "Q1681353"
+        },
+        {
+          "titel": "Feuchtwiese",
+          "beschriftung": "Sumpfwiesen",
+          "haupt": false,
+          "artikel": "Feuchtwiese",
+          "wikidata": "Q759978"
+        },
+        {
+          "titel": "Wasserpflanze",
+          "beschriftung": "Wasserpflanze",
+          "haupt": false,
+          "artikel": "Wasserpflanze",
+          "wikidata": "Q186101"
+        }
+      ]
+    },
+    {
+      "mi_nr": "651",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-08",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1981: Gefährdete Moor-, Sumpfwiesen- und Wasserpflanzen",
+      "bild_beschreibung": "Karlsszepter Pedicularis sceptrum-carolinum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8746000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karlszepter",
+          "beschriftung": "Karlsszepter",
+          "haupt": true,
+          "artikel": "Karlszepter",
+          "wikidata": "Q161654"
+        },
+        {
+          "titel": "Moor",
+          "beschriftung": "Moor",
+          "haupt": false,
+          "artikel": "Moor",
+          "wikidata": "Q1681353"
+        },
+        {
+          "titel": "Feuchtwiese",
+          "beschriftung": "Sumpfwiesen",
+          "haupt": false,
+          "artikel": "Feuchtwiese",
+          "wikidata": "Q759978"
+        },
+        {
+          "titel": "Wasserpflanze",
+          "beschriftung": "Wasserpflanze",
+          "haupt": false,
+          "artikel": "Wasserpflanze",
+          "wikidata": "Q186101"
+        }
+      ]
+    },
+    {
+      "mi_nr": "652",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-08",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1981: Gefährdete Moor-, Sumpfwiesen- und Wasserpflanzen",
+      "bild_beschreibung": "Sumpfgladiole Gladiolus palustris",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 10155000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sumpf-Siegwurz",
+          "beschriftung": "Sumpfgladiole",
+          "haupt": true,
+          "artikel": "Sumpf-Siegwurz",
+          "wikidata": "Q164542"
+        },
+        {
+          "titel": "Moor",
+          "beschriftung": "Moor",
+          "haupt": false,
+          "artikel": "Moor",
+          "wikidata": "Q1681353"
+        },
+        {
+          "titel": "Feuchtwiese",
+          "beschriftung": "Sumpfwiesen",
+          "haupt": false,
+          "artikel": "Feuchtwiese",
+          "wikidata": "Q759978"
+        },
+        {
+          "titel": "Wasserpflanze",
+          "beschriftung": "Wasserpflanze",
+          "haupt": false,
+          "artikel": "Wasserpflanze",
+          "wikidata": "Q186101"
+        }
+      ]
+    },
+    {
+      "mi_nr": "653",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-10-08",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1981: Gefährdete Moor-, Sumpfwiesen- und Wasserpflanzen",
+      "bild_beschreibung": "Sibirische Schwertlilie Iris sibirica",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4502000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sibirische Schwertlilie",
+          "beschriftung": "Sibirische Schwertlilie",
+          "haupt": true,
+          "artikel": "Sibirische Schwertlilie",
+          "wikidata": "Q145686"
+        },
+        {
+          "titel": "Moor",
+          "beschriftung": "Moor",
+          "haupt": false,
+          "artikel": "Moor",
+          "wikidata": "Q1681353"
+        },
+        {
+          "titel": "Feuchtwiese",
+          "beschriftung": "Sumpfwiesen",
+          "haupt": false,
+          "artikel": "Feuchtwiese",
+          "wikidata": "Q759978"
+        },
+        {
+          "titel": "Wasserpflanze",
+          "beschriftung": "Wasserpflanze",
+          "haupt": false,
+          "artikel": "Wasserpflanze",
+          "wikidata": "Q186101"
+        }
+      ]
+    },
+    {
+      "mi_nr": "654",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Christian Peter Wilhelm Beuth",
+      "bild_beschreibung": "",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 6670000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Christian Peter Wilhelm Beuth",
+          "beschriftung": "Christian Peter Wilhelm Beuth",
+          "haupt": true,
+          "artikel": "Peter Beuth (Politiker, 1781)",
+          "wikidata": "Q87360"
+        }
+      ]
+    },
+    {
+      "mi_nr": "655",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-12",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Skulpturen des 20. Jahrhunderts",
+      "bild_beschreibung": "„Tänzer Nijinsky“ von Georg Kolbe",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 12570000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vaslav Nijinsky",
+          "beschriftung": "Nijinsky",
+          "haupt": true,
+          "artikel": "Vaslav Nijinsky",
+          "wikidata": "Q194363"
+        },
+        {
+          "titel": "Georg Kolbe",
+          "beschriftung": "Georg Kolbe",
+          "haupt": false,
+          "artikel": "Georg Kolbe",
+          "wikidata": "Q561283"
+        },
+        {
+          "titel": "Skulptur",
+          "beschriftung": "Skulptur",
+          "haupt": false,
+          "artikel": "Skulptur",
+          "wikidata": "Q860861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "656",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-12",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Skulpturen des 20. Jahrhunderts",
+      "bild_beschreibung": "„Mutter Erde II“ von Ernst Barlach",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8170000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": true,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        },
+        {
+          "titel": "Skulptur",
+          "beschriftung": "Skulptur",
+          "haupt": false,
+          "artikel": "Skulptur",
+          "wikidata": "Q860861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "657",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-12",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Skulpturen des 20. Jahrhunderts",
+      "bild_beschreibung": "„Kniende Flora“ von Richard Scheibe",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8270000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Flora (Mythologie)",
+          "beschriftung": "Flora",
+          "haupt": true,
+          "artikel": "Flora (Mythologie)",
+          "wikidata": "Q209644"
+        },
+        {
+          "titel": "Richard Scheibe",
+          "beschriftung": "Richard Scheibe",
+          "haupt": false,
+          "artikel": "Richard Scheibe",
+          "wikidata": "Q896159"
+        },
+        {
+          "titel": "Skulptur",
+          "beschriftung": "Skulptur",
+          "haupt": false,
+          "artikel": "Skulptur",
+          "wikidata": "Q860861"
+        }
+      ]
+    },
+    {
+      "mi_nr": "658",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1981-11-12",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1981",
+      "bild_beschreibung": "Heilige Drei Könige, Hinterglasmalerei aus Buchers (um 1820)",
+      "entwerfer": "Paul Froitzheim",
+      "auflage": 6283000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Heilige Drei Könige",
+          "beschriftung": "Heilige Drei Könige",
+          "haupt": false,
+          "artikel": "Heilige Drei Könige",
+          "wikidata": "Q51671"
+        },
+        {
+          "titel": "Hinterglasmalerei",
+          "beschriftung": "Hinterglasmalerei",
+          "haupt": false,
+          "artikel": "Hinterglasmalerei",
+          "wikidata": "Q1316673"
+        },
+        {
+          "titel": "Pohoří na Šumavě",
+          "beschriftung": "Buchers",
+          "haupt": false,
+          "artikel": "Pohoří na Šumavě",
+          "wikidata": "Q2100647"
+        }
+      ]
+    }
+  ]
+}

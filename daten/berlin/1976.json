@@ -1,0 +1,598 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1976,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1976 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1976_der_Deutschen_Bundespost_Berlin",
+    "revision": 259738222,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 507,
+    "mi_nr_bis": 531,
+    "luecken": [
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515
+    ],
+    "ausreisser": [
+      496
+    ],
+    "sondermarken_gezaehlt": 16,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "516",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-01-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50 Jahre Internationale Grüne Woche",
+      "bild_beschreibung": "",
+      "entwerfer": "Willem Hölter",
+      "auflage": 6390000,
+      "commons_datei": "Stamps of Germany (Berlin) 1976, MiNr 516.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Grüne Woche Berlin",
+          "beschriftung": "Internationale Grüne Woche",
+          "haupt": true,
+          "artikel": "Grüne Woche",
+          "wikidata": "Q493494"
+        }
+      ]
+    },
+    {
+      "mi_nr": "517",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1976: Jugend trainiert für Olympia",
+      "bild_beschreibung": "Kugelstoßen, Frauen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2857000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kugelstoßen",
+          "beschriftung": "Kugelstoßen",
+          "haupt": true,
+          "artikel": "Kugelstoßen",
+          "wikidata": "Q180935"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "518",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1976: Jugend trainiert für Olympia",
+      "bild_beschreibung": "Hockey",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hockey",
+          "beschriftung": "Hockey",
+          "haupt": true,
+          "artikel": "Hockey",
+          "wikidata": "Q1455"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "519",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1976: Jugend trainiert für Olympia",
+      "bild_beschreibung": "Handball",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2850000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Handball",
+          "beschriftung": "Handball",
+          "haupt": true,
+          "artikel": "Handball",
+          "wikidata": "Q8418"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "520",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-04-06",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1976: Jugend trainiert für Olympia",
+      "bild_beschreibung": "Startsprung beim Schwimmen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2840000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schwimmsport",
+          "beschriftung": "Schwimmen",
+          "haupt": true,
+          "artikel": "Schwimmsport",
+          "wikidata": "Q31920"
+        },
+        {
+          "titel": "Jugend trainiert für Olympia",
+          "beschriftung": "Jugend trainiert für Olympia",
+          "haupt": false,
+          "artikel": "Jugend trainiert für Olympia & Paralympics",
+          "wikidata": "Q1711232"
+        }
+      ]
+    },
+    {
+      "mi_nr": "521",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Hockey-Weltmeisterschaft der Damen",
+      "bild_beschreibung": "",
+      "entwerfer": "Joachim Hans Hiller",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hockey-Weltmeisterschaft",
+          "beschriftung": "Hockey-Weltmeisterschaft",
+          "haupt": true,
+          "artikel": "Hockey-Weltmeisterschaft",
+          "wikidata": "Q1128219"
+        }
+      ]
+    },
+    {
+      "mi_nr": "522",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Chorfest des Deutschen Sängerbundes in Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Daniela von der Horst-Voigt",
+      "auflage": 7500000,
+      "commons_datei": "Stamps of Germany (Berlin) 1976, MiNr 522.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Chor (Musik)",
+          "beschriftung": "Chorfest",
+          "haupt": true,
+          "artikel": "Chor (Musik)",
+          "wikidata": "Q131186"
+        },
+        {
+          "titel": "Deutscher Sängerbund",
+          "beschriftung": "Deutschen Sängerbundes",
+          "haupt": false,
+          "artikel": "Deutscher Sängerbund",
+          "wikidata": "Q1205367"
+        }
+      ]
+    },
+    {
+      "mi_nr": "523",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-05-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "125 Jahre Berliner Feuerwehr",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Finke",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Feuerwehr",
+          "beschriftung": "Berliner Feuerwehr",
+          "haupt": true,
+          "artikel": "Berliner Feuerwehr",
+          "wikidata": "Q821517"
+        }
+      ]
+    },
+    {
+      "mi_nr": "524",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1976: Gartenblumen",
+      "bild_beschreibung": "Iris Iris germanica",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6530000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Schwertlilie",
+          "beschriftung": "Iris",
+          "haupt": true,
+          "artikel": "Deutsche Schwertlilie",
+          "wikidata": "Q161734"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "525",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1976: Gartenblumen",
+      "bild_beschreibung": "Goldlack Cheiranthus cheiri",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 6555000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Goldlack",
+          "beschriftung": "Goldlack",
+          "haupt": true,
+          "artikel": "Goldlack",
+          "wikidata": "Q159370"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "526",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1976: Gartenblumen",
+      "bild_beschreibung": "Dahlie Dahlia variabilis",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 8213000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Dahlien",
+          "beschriftung": "Dahlie",
+          "haupt": true,
+          "artikel": "Dahlien",
+          "wikidata": "Q130918"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "527",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-10-14",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1976: Gartenblumen",
+      "bild_beschreibung": "Hoher Rittersporn Delphinium elatum",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4560000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hoher Rittersporn",
+          "beschriftung": "Hoher Rittersporn",
+          "haupt": true,
+          "artikel": "Hoher Rittersporn",
+          "wikidata": "Q164246"
+        },
+        {
+          "titel": "Zierpflanze",
+          "beschriftung": "Gartenblumen",
+          "haupt": false,
+          "artikel": "Zierpflanze",
+          "wikidata": "Q199182"
+        }
+      ]
+    },
+    {
+      "mi_nr": "528",
+      "block": "Block 5",
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – Weihnachtsmarke 1976",
+      "bild_beschreibung": "Marienfenster im gotischen Chor der Frauenkirche Esslingen",
+      "entwerfer": "Dieter von Andrian",
+      "auflage": 6873000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Marienleben",
+          "beschriftung": "Marienfenster",
+          "haupt": false,
+          "artikel": "Marienleben",
+          "wikidata": "Q1446512"
+        },
+        {
+          "titel": "Gotik",
+          "beschriftung": "gotischen",
+          "haupt": false,
+          "artikel": "Gotik",
+          "wikidata": "Q46825"
+        },
+        {
+          "titel": "Chor (Architektur)",
+          "beschriftung": "Chor",
+          "haupt": false,
+          "artikel": "Chor (Architektur)",
+          "wikidata": "Q207707"
+        },
+        {
+          "titel": "Sehenswürdigkeiten der Stadt Esslingen am Neckar",
+          "beschriftung": "Frauenkirche Esslingen",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten der Stadt Esslingen am Neckar",
+          "wikidata": "Q2266323"
+        }
+      ]
+    },
+    {
+      "mi_nr": "529",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (I)",
+      "bild_beschreibung": "An der Havel",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 14630000,
+      "commons_datei": "Stamps of Germany (Berlin) 1976, MiNr 529.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Havel",
+          "beschriftung": "Havel",
+          "haupt": true,
+          "artikel": "Havel",
+          "wikidata": "Q1682"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "530",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (I)",
+      "bild_beschreibung": "Zitadelle Spandau",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 7630000,
+      "commons_datei": "Stamps of Germany (Berlin) 1976, MiNr 530.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zitadelle Spandau",
+          "beschriftung": "Zitadelle Spandau",
+          "haupt": true,
+          "artikel": "Zitadelle Spandau",
+          "wikidata": "Q206211"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "531",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1976-11-16",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten (I)",
+      "bild_beschreibung": "Tiergarten",
+      "entwerfer": "Bundesdruckerei Berlin",
+      "auflage": 9530000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Großer Tiergarten",
+          "beschriftung": "Tiergarten",
+          "haupt": true,
+          "artikel": "Großer Tiergarten",
+          "wikidata": "Q694020"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "496",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1976-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Leuchtturm Alte Weser",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 93000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leuchtturm",
+          "beschriftung": "Leuchtturm",
+          "haupt": true,
+          "artikel": "Leuchtturm",
+          "wikidata": "Q39715"
+        },
+        {
+          "titel": "Alte Weser",
+          "beschriftung": "Alte Weser",
+          "haupt": false,
+          "artikel": "Alte Weser",
+          "wikidata": "Q436392"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "507",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1976-02-17",
+      "wert": "500",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Radioteleskop",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 1390000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Radioteleskop",
+          "beschriftung": "Radioteleskop",
+          "haupt": true,
+          "artikel": "Radioteleskop",
+          "wikidata": "Q184356"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    }
+  ]
+}

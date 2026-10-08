@@ -1,0 +1,159 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1949,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1949 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1949_der_Deutschen_Post_der_DDR",
+    "revision": 263096739,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 242,
+    "mi_nr_bis": 245,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 4,
+    "sondermarken_laut_einleitung": 4
+  },
+  "marken": [
+    {
+      "mi_nr": "242",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-10-09",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-12-31",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Taube mit Brief, sowie Weltkugel",
+      "entwerfer": "Jacob und Weise",
+      "auflage": 3000000,
+      "commons_datei": "DDR 1949 242 75 Jahre Weltpostverein.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        },
+        {
+          "titel": "Tauben",
+          "beschriftung": "Taube",
+          "haupt": false,
+          "artikel": "Tauben",
+          "wikidata": "Q10856"
+        },
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": false,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Weltkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        }
+      ]
+    },
+    {
+      "mi_nr": "243",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-10-27",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-12-31",
+      "anlass": "Gründungskonferenz der internationalen Gewerkschaftsvereinigung für die Post im Weltgewerkschaftsbund",
+      "bild_beschreibung": "Brandenburger Tor, gebildet aus den Buchstaben „Berlin“, ein Globus und 2 Postbedienstete",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": 1500000,
+      "commons_datei": "DDR 1949 243 Gewerkschaftsvereinigung der Post.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": true,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        },
+        {
+          "titel": "Post",
+          "beschriftung": "Post",
+          "haupt": false,
+          "artikel": "Post",
+          "wikidata": "Q49845"
+        },
+        {
+          "titel": "Weltgewerkschaftsbund",
+          "beschriftung": "Weltgewerkschaftsbund",
+          "haupt": false,
+          "artikel": "Weltgewerkschaftsbund",
+          "wikidata": "Q748999"
+        }
+      ]
+    },
+    {
+      "mi_nr": "244",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-10-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-12-31",
+      "anlass": "Gründungskonferenz der internationalen Gewerkschaftsvereinigung für die Post im Weltgewerkschaftsbund",
+      "bild_beschreibung": "Brandenburger Tor, gebildet aus den Buchstaben „Berlin“, ein Globus und 2 Postbedienstete",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": 750000,
+      "commons_datei": "DDR 1949 244 Gewerkschaftsvereinigung der Post.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "245",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-10-30",
+      "wert": "12+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Der schwarze Bayern Einser von 1849 unter einer Lupe",
+      "entwerfer": "Fred Gravenhorst",
+      "auflage": 1000000,
+      "commons_datei": "DDR 1949 245 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Schwarzer Einser",
+          "beschriftung": "schwarze Bayern Einser",
+          "haupt": false,
+          "artikel": "Schwarzer Einser",
+          "wikidata": "Q252093"
+        },
+        {
+          "titel": "Lupe",
+          "beschriftung": "Lupe",
+          "haupt": false,
+          "artikel": "Lupe",
+          "wikidata": "Q166849"
+        }
+      ]
+    }
+  ]
+}

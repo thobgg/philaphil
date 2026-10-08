@@ -24,6 +24,7 @@ data class MarkenThema(val thema: Thema, val haupt: Boolean, val weitereMarken: 
 class Katalog private constructor(private val db: KatalogDb) {
 
     val jahrgaenge get() = db.katalogQueries.jahrgaenge().executeAsList()
+    val gebiete get() = db.katalogQueries.gebiete().executeAsList()
 
     fun markenImJahr(gebiet: String, jahr: Long): List<Marke> =
         db.katalogQueries.markenImJahr(gebiet, jahr).executeAsList()

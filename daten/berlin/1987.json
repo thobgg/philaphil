@@ -1,0 +1,922 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1987,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1987 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1987_der_Deutschen_Bundespost_Berlin",
+    "revision": 269178147,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 772,
+    "mi_nr_bis": 797,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 21,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "772",
+      "block": "Block 8",
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-15",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 750 Jahre Berlin",
+      "bild_beschreibung": "Stadtansicht, (1650)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Skyline",
+          "beschriftung": "Stadtansicht",
+          "haupt": true,
+          "artikel": "Skyline",
+          "wikidata": "Q465837"
+        },
+        {
+          "titel": "Geschichte Berlins",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "Geschichte Berlins",
+          "wikidata": "Q679741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "773",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 750 Jahre Berlin",
+      "bild_beschreibung": "Schloss Charlottenburg",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schloss Charlottenburg",
+          "haupt": true,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        },
+        {
+          "titel": "Geschichte Berlins",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "Geschichte Berlins",
+          "wikidata": "Q679741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 750 Jahre Berlin",
+      "bild_beschreibung": "Turbinenhalle der Firma AEG, (1909)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "AEG-Turbinenfabrik",
+          "beschriftung": "Turbinenhalle",
+          "haupt": true,
+          "artikel": "AEG-Turbinenfabrik",
+          "wikidata": "Q291123"
+        },
+        {
+          "titel": "AEG",
+          "beschriftung": "AEG",
+          "haupt": false,
+          "artikel": "AEG",
+          "wikidata": "Q158276"
+        },
+        {
+          "titel": "Geschichte Berlins",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "Geschichte Berlins",
+          "wikidata": "Q679741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Briefmarkenblock – 750 Jahre Berlin",
+      "bild_beschreibung": "Philharmonie und Kammermusiksaal, (1987)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6700000,
+      "commons_datei": "Stamps of Germany (Berlin) 1987, MiNr 775.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Philharmonie",
+          "beschriftung": "Philharmonie und Kammermusiksaal",
+          "haupt": true,
+          "artikel": "Berliner Philharmonie",
+          "wikidata": "Q32653910"
+        },
+        {
+          "titel": "Geschichte Berlins",
+          "beschriftung": "750 Jahre Berlin",
+          "haupt": false,
+          "artikel": "Geschichte Berlins",
+          "wikidata": "Q679741"
+        }
+      ]
+    },
+    {
+      "mi_nr": "776",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-01-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Berlin",
+      "bild_beschreibung": "Sehenswürdigkeiten Berlins, Stadtwappen; Als Hinweis auf das damals geteilte Berlin sind die „Ost-Sehenswürdigkeiten“ nur als Silhouette, die „West-Sehenswürdigkeiten“ hingegen komplett dargestellt.",
+      "entwerfer": "Peter Steiner",
+      "auflage": 11585000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Liste von Sehenswürdigkeiten in Berlin",
+          "beschriftung": "Sehenswürdigkeiten Berlins",
+          "haupt": true,
+          "artikel": "Architektur in Berlin",
+          "wikidata": "Q4787094"
+        },
+        {
+          "titel": "Wappen Berlins",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen Berlins",
+          "wikidata": "Q819737"
+        }
+      ]
+    },
+    {
+      "mi_nr": "777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1987",
+      "bild_beschreibung": "Deutsches Turnfest,; in Berlin",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2922000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Turnfest",
+          "beschriftung": "Deutsches Turnfest",
+          "haupt": true,
+          "artikel": "Deutsches Turnfest",
+          "wikidata": "Q1206071"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-12",
+      "wert": "120+55",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1987",
+      "bild_beschreibung": "Judo-Weltmeisterschaften,; in Essen",
+      "entwerfer": "Hans Peter Hoch",
+      "auflage": 2404000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Judo",
+          "beschriftung": "Judo",
+          "haupt": true,
+          "artikel": "Judo",
+          "wikidata": "Q11420"
+        },
+        {
+          "titel": "Essen",
+          "beschriftung": "Essen",
+          "haupt": false,
+          "artikel": "Essen",
+          "wikidata": "Q2066"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-02-12",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Louise Schroeder",
+      "bild_beschreibung": "Oberbürgermeisterin von Berlin",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 9587000,
+      "commons_datei": "Stamps of Germany (Berlin) 1987, MiNr 779.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Louise Schroeder",
+          "beschriftung": "Louise Schroeder",
+          "haupt": true,
+          "artikel": "Louise Schroeder",
+          "wikidata": "Q104581"
+        },
+        {
+          "titel": "Oberbürgermeister",
+          "beschriftung": "Oberbürgermeister",
+          "haupt": false,
+          "artikel": "Oberbürgermeister",
+          "wikidata": "Q147733"
+        }
+      ]
+    },
+    {
+      "mi_nr": "780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-09",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1987: Handwerksberufe",
+      "bild_beschreibung": "Böttcher",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2352000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Küfer",
+          "beschriftung": "Böttcher",
+          "haupt": true,
+          "artikel": "Küfer",
+          "wikidata": "Q38883"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "781",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-09",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1987: Handwerksberufe",
+      "bild_beschreibung": "Steinmetz",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2357000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Steinmetz",
+          "beschriftung": "Steinmetz",
+          "haupt": true,
+          "artikel": "Steinmetz",
+          "wikidata": "Q328325"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "782",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-09",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1987: Handwerksberufe",
+      "bild_beschreibung": "Kürschner",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2347000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kürschner",
+          "beschriftung": "Kürschner",
+          "haupt": true,
+          "artikel": "Kürschner",
+          "wikidata": "Q2295938"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "783",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-04-09",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1987: Handwerksberufe",
+      "bild_beschreibung": "Maler/Lackierer",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2354000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maler und Lackierer",
+          "beschriftung": "Maler/Lackierer",
+          "haupt": true,
+          "artikel": "Maler und Lackierer",
+          "wikidata": "Q288728"
+        },
+        {
+          "titel": "Handwerk",
+          "beschriftung": "Handwerk",
+          "haupt": false,
+          "artikel": "Handwerk",
+          "wikidata": "Q2207288"
+        }
+      ]
+    },
+    {
+      "mi_nr": "784",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Ansiedlung der Böhmen in Rixdorf vor 250 Jahren",
+      "bild_beschreibung": "Böhmische Glaubensflüchtlinge, Relief am Denkmal König Friedrich Wilhelms I., Berlin-Neukölln",
+      "entwerfer": "Bernd Görs",
+      "auflage": 9588000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Böhmisch-Rixdorf",
+          "beschriftung": "Ansiedlung der Böhmen in Rixdorf vor 250 Jahren",
+          "haupt": true,
+          "artikel": "Böhmisch-Rixdorf",
+          "wikidata": "Q325748"
+        },
+        {
+          "titel": "Relief",
+          "beschriftung": "Relief",
+          "haupt": false,
+          "artikel": "Relief",
+          "wikidata": "Q245117"
+        },
+        {
+          "titel": "Friedrich Wilhelm I. (Preußen)",
+          "beschriftung": "Friedrich Wilhelms I.",
+          "haupt": false,
+          "artikel": "Friedrich Wilhelm I. (Preußen)",
+          "wikidata": "Q105013"
+        },
+        {
+          "titel": "Berlin-Neukölln",
+          "beschriftung": "Berlin-Neukölln",
+          "haupt": false,
+          "artikel": "Berlin-Neukölln",
+          "wikidata": "Q169492"
+        }
+      ]
+    },
+    {
+      "mi_nr": "785",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-05-05",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Bauausstellung (IBA) in Berlin",
+      "bild_beschreibung": "Wohnungsneubau, Berlin-Kreuzberg",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 7088000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Bauausstellung",
+          "beschriftung": "Internationale Bauausstellung",
+          "haupt": true,
+          "artikel": "Internationale Bauausstellung",
+          "wikidata": "Q254832"
+        },
+        {
+          "titel": "Wohnung",
+          "beschriftung": "Wohnung",
+          "haupt": false,
+          "artikel": "Wohnung",
+          "wikidata": "Q188507"
+        },
+        {
+          "titel": "Berlin-Kreuzberg",
+          "beschriftung": "Berlin-Kreuzberg",
+          "haupt": false,
+          "artikel": "Berlin-Kreuzberg",
+          "wikidata": "Q308928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "786",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-07-16",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationaler Botanischer Kongress in Berlin",
+      "bild_beschreibung": "Kongressemblem",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 6088000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationaler Botanischer Kongress",
+          "beschriftung": "Internationaler Botanischer Kongress",
+          "haupt": true,
+          "artikel": "Internationaler Botanischer Kongress",
+          "wikidata": "Q646417"
+        }
+      ]
+    },
+    {
+      "mi_nr": "787",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-08-20",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin (IFA)",
+      "bild_beschreibung": "Mill-Opera-Grammophon (1907), Schellackplatte, Compact Disc",
+      "entwerfer": "Bernd Görs",
+      "auflage": 7088000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Grammophon",
+          "beschriftung": "Grammophon",
+          "haupt": false,
+          "artikel": "Grammophon",
+          "wikidata": "Q7112808"
+        },
+        {
+          "titel": "Schellackplatte",
+          "beschriftung": "Schellackplatte",
+          "haupt": false,
+          "artikel": "Schellackplatte",
+          "wikidata": "Q1781403"
+        },
+        {
+          "titel": "Compact Disc",
+          "beschriftung": "Compact Disc",
+          "haupt": false,
+          "artikel": "Compact Disc",
+          "wikidata": "Q34467"
+        }
+      ]
+    },
+    {
+      "mi_nr": "789",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1987: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Goldener Haubenschmuck, (5. Jahrhundert)",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 9396000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gold",
+          "beschriftung": "Gold",
+          "haupt": true,
+          "artikel": "Gold",
+          "wikidata": "Q897"
+        },
+        {
+          "titel": "Haube",
+          "beschriftung": "Haube",
+          "haupt": false,
+          "artikel": "Haube",
+          "wikidata": "Q1149531"
+        },
+        {
+          "titel": "Goldschmied",
+          "beschriftung": "Gold- und Silberschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmied",
+          "wikidata": "Q211423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "790",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1987: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Athenaschale, (1. Jahrhundert v. Chr.)",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 7214000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hildesheimer Silberfund",
+          "beschriftung": "Athenaschale",
+          "haupt": true,
+          "artikel": "Hildesheimer Silberfund",
+          "wikidata": "Q221632"
+        },
+        {
+          "titel": "Goldschmied",
+          "beschriftung": "Gold- und Silberschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmied",
+          "wikidata": "Q211423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "791",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-15",
+      "wert": "70+35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1987: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Oberarmschmuck „Armilla“, (um 1180)",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 4914000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Armilla",
+          "beschriftung": "Armilla",
+          "haupt": true,
+          "artikel": "Armilla",
+          "wikidata": "Q687066"
+        },
+        {
+          "titel": "Goldschmied",
+          "beschriftung": "Gold- und Silberschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmied",
+          "wikidata": "Q211423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "792",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-10-15",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1987: Gold- und Silberschmiedekunst",
+      "bild_beschreibung": "Schlangenarmreif, (um 300 v. Chr.)",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 11662000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Armband",
+          "beschriftung": "Schlangenarmreif",
+          "haupt": true,
+          "artikel": "Armband",
+          "wikidata": "Q201664"
+        },
+        {
+          "titel": "Goldschmied",
+          "beschriftung": "Gold- und Silberschmiedekunst",
+          "haupt": false,
+          "artikel": "Goldschmied",
+          "wikidata": "Q211423"
+        }
+      ]
+    },
+    {
+      "mi_nr": "797",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1987-11-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1987",
+      "bild_beschreibung": "Anbetung der Könige, Miniatur aus einem englischen Psalter (13. Jahrhundert)",
+      "entwerfer": "Fritz Lüdtke",
+      "auflage": 5890000,
+      "commons_datei": "Stamps of Germany (Berlin) 1987, MiNr 797.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": false,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Miniaturmalerei",
+          "beschriftung": "Miniatur",
+          "haupt": false,
+          "artikel": "Miniaturmalerei",
+          "wikidata": "Q282129"
+        },
+        {
+          "titel": "Psalter (Textbuch)",
+          "beschriftung": "Psalter",
+          "haupt": false,
+          "artikel": "Psalter (Textbuch)",
+          "wikidata": "Q956165"
+        }
+      ]
+    },
+    {
+      "mi_nr": "788",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1987-09-17",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Frauen der deutschen Geschichte",
+      "bild_beschreibung": "Maria Sibylla Merian",
+      "entwerfer": "Gerd Aretz",
+      "auflage": 22287000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Frauen der deutschen Geschichte",
+          "beschriftung": "Frauen der deutschen Geschichte",
+          "haupt": true,
+          "artikel": "Frauen der deutschen Geschichte",
+          "wikidata": "Q463408"
+        },
+        {
+          "titel": "Maria Sibylla Merian",
+          "beschriftung": "Maria Sibylla Merian",
+          "haupt": false,
+          "artikel": "Maria Sibylla Merian",
+          "wikidata": "Q62530"
+        }
+      ]
+    },
+    {
+      "mi_nr": "793",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1987-11-06",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Schloss Celle",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Celle",
+          "beschriftung": "Schloss Celle",
+          "haupt": true,
+          "artikel": "Celler Schloss",
+          "wikidata": "Q472403"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "794",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1987-11-06",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Freiburger Münster",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiburger Münster",
+          "beschriftung": "Freiburger Münster",
+          "haupt": true,
+          "artikel": "Freiburger Münster",
+          "wikidata": "Q250212"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "795",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1987-11-06",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Bavaria München",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bavaria (Statue)",
+          "beschriftung": "Bavaria München",
+          "haupt": true,
+          "artikel": "Bavaria (Statue)",
+          "wikidata": "Q707669"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "796",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1987-11-06",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Sehenswürdigkeiten",
+      "bild_beschreibung": "Zeche Zollern II Dortmund",
+      "entwerfer": "Sibylle und Fritz Haase",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeche Zollern",
+          "beschriftung": "Zeche Zollern II Dortmund",
+          "haupt": true,
+          "artikel": "Zeche Zollern",
+          "wikidata": "Q2603300"
+        },
+        {
+          "titel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "beschriftung": "Sehenswürdigkeiten",
+          "haupt": false,
+          "artikel": "Sehenswürdigkeiten (Briefmarkenserie)",
+          "wikidata": "Q2266332"
+        }
+      ]
+    },
+    {
+      "mi_nr": "ATM 1",
+      "block": null,
+      "art": "Automatenmarke",
+      "ausgabetag": "1987-05-04",
+      "wert": "5–9995",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Automatenmarke: Schloss Charlottenburg",
+      "bild_beschreibung": "",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 36000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Automatenmarke",
+          "beschriftung": "Automatenmarke",
+          "haupt": true,
+          "artikel": "Automatenmarke",
+          "wikidata": "Q787141"
+        },
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schloss Charlottenburg",
+          "haupt": false,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        }
+      ]
+    }
+  ]
+}

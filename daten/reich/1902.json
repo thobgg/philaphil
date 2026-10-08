@@ -1,0 +1,417 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1902,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1902 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1902_der_Deutschen_Reichspost",
+    "revision": 259562756,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 68,
+    "mi_nr_bis": 82,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "68",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1902 68 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "69",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1905 84 I Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "70",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1915 85 II Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "71",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1905 86 I Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "72",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1902 72 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "73",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1902 73 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "74",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1915 89 II Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "75",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1915 90 II Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "76",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1902 76 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "77",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Germania",
+      "bild_beschreibung": "",
+      "entwerfer": "Paul Eduard Waldraff",
+      "auflage": null,
+      "commons_datei": "DR 1902 77 Germania.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Germania (Briefmarke)",
+          "beschriftung": "Germania",
+          "haupt": true,
+          "artikel": "Germania (Briefmarke)",
+          "wikidata": "Q460623"
+        }
+      ]
+    },
+    {
+      "mi_nr": "78",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "1 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Reichspostamt in Berlin",
+      "entwerfer": "C. Frenzel",
+      "auflage": null,
+      "commons_datei": "DR 1902 78 Reichspostamt Berlin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspostamt",
+          "beschriftung": "Reichspostamt",
+          "haupt": true,
+          "artikel": "Reichspostamt",
+          "wikidata": "Q944210"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "79",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Symbolische Darstellungen Nord und Süd Detail aus dem Gemälde Victoria von Anton von Werner",
+      "entwerfer": "W. Lipinsky",
+      "auflage": null,
+      "commons_datei": "Germania79gotisch.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anton von Werner",
+          "beschriftung": "Anton von Werner",
+          "haupt": true,
+          "artikel": "Anton von Werner",
+          "wikidata": "Q77324"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "80",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "3 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Enthüllung des Denkmals Kaiser Wilhelm I in Berlin, nach einem Gemälde von W. Pape",
+      "entwerfer": "Reichsdruckerei",
+      "auflage": null,
+      "commons_datei": "Germania80A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaiser-Wilhelm-Nationaldenkmal",
+          "beschriftung": "Denkmals Kaiser Wilhelm I",
+          "haupt": true,
+          "artikel": "Kaiser-Wilhelm-Nationaldenkmal",
+          "wikidata": "Q125738"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "81",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-04-01",
+      "wert": "5 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Reichsgründungsgedenkfeier im weißen Saal des Berliner Schlosses, nach einem Gemälde von W. Pape",
+      "entwerfer": "Reichsdruckerei",
+      "auflage": null,
+      "commons_datei": "Germania81.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichsgründungstag",
+          "beschriftung": "Reichsgründungsgedenkfeier",
+          "haupt": true,
+          "artikel": "Reichsgründungstag",
+          "wikidata": "Q2139492"
+        },
+        {
+          "titel": "Berliner Stadtschloss",
+          "beschriftung": "Berliner Schlosses",
+          "haupt": false,
+          "artikel": "Berliner Schloss",
+          "wikidata": "Q170119"
+        },
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": false,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    },
+    {
+      "mi_nr": "82",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1902-05-24",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1922-10-31",
+      "anlass": "Dauermarkenserie: Repräsentative Darstellungen des Deutschen Kaiserreichs",
+      "bild_beschreibung": "Symbolische Darstellungen Nord und Süd Detail aus dem Gemälde Victoria von Anton von Werner",
+      "entwerfer": "W. Lipinsky",
+      "auflage": null,
+      "commons_datei": "Germania82A.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "beschriftung": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "haupt": true,
+          "artikel": "Repräsentative Darstellungen des Deutschen Kaiserreichs",
+          "wikidata": "Q2145247"
+        }
+      ]
+    }
+  ]
+}

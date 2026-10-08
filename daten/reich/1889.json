@@ -1,0 +1,166 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1889,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1889 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1889_der_Deutschen_Reichspost",
+    "revision": 248969776,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 45,
+    "mi_nr_bis": 50,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "45",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1889-10-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-01-31",
+      "anlass": "Dauermarkenserie: Krone/Adler",
+      "bild_beschreibung": "Ziffer im Oval unter Krone",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1889 45 Krone.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krone/Adler",
+          "beschriftung": "Krone/Adler",
+          "haupt": true,
+          "artikel": "Krone/Adler",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "46",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1889-10-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-01-31",
+      "anlass": "Dauermarkenserie: Krone/Adler",
+      "bild_beschreibung": "Ziffer im Oval unter Krone",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1889 46 Krone.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krone/Adler",
+          "beschriftung": "Krone/Adler",
+          "haupt": true,
+          "artikel": "Krone/Adler",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "47",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1889-10-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-01-31",
+      "anlass": "Dauermarkenserie: Krone/Adler",
+      "bild_beschreibung": "Reichsadler im Kreis",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1889 47 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krone/Adler",
+          "beschriftung": "Krone/Adler",
+          "haupt": true,
+          "artikel": "Krone/Adler",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "48",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1889-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-01-31",
+      "anlass": "Dauermarkenserie: Krone/Adler",
+      "bild_beschreibung": "Reichsadler im Kreis",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1889 48 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krone/Adler",
+          "beschriftung": "Krone/Adler",
+          "haupt": true,
+          "artikel": "Krone/Adler",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "49",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1889-10-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-01-31",
+      "anlass": "Dauermarkenserie: Krone/Adler",
+      "bild_beschreibung": "Reichsadler im Kreis",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1889 49 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krone/Adler",
+          "beschriftung": "Krone/Adler",
+          "haupt": true,
+          "artikel": "Krone/Adler",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "50",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1889-10-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1902-01-31",
+      "anlass": "Dauermarkenserie: Krone/Adler",
+      "bild_beschreibung": "Reichsadler im Kreis",
+      "entwerfer": "Schilling",
+      "auflage": null,
+      "commons_datei": "DR 1889 50 Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Krone/Adler",
+          "beschriftung": "Krone/Adler",
+          "haupt": true,
+          "artikel": "Krone/Adler",
+          "wikidata": null
+        }
+      ]
+    }
+  ]
+}

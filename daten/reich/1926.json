@@ -1,0 +1,679 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1926,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1926 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1926_der_Deutschen_Reichspost",
+    "revision": 236181358,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 378,
+    "mi_nr_bis": 401,
+    "luecken": [
+      386,
+      388
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 11,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "378",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "Stilisierter Adler",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 378 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "379",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 379 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "380",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 380 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "381",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 381 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "382",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "1 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 382 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "383",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "2 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 383 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "384",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-04-01",
+      "wert": "3 Mark",
+      "waehrung": "Pf",
+      "gueltig_bis": "1934-06-30",
+      "anlass": "Flugpostausgabe Adler",
+      "bild_beschreibung": "",
+      "entwerfer": "O. H. W. Hadank",
+      "auflage": null,
+      "commons_datei": "DR 1926 384 Flugpost Adler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Luftpost",
+          "beschriftung": "Flugpostausgabe",
+          "haupt": true,
+          "artikel": "Luftpost",
+          "wikidata": "Q3621307"
+        },
+        {
+          "titel": "Echte Adler",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Echte Adler",
+          "wikidata": "Q30085"
+        }
+      ]
+    },
+    {
+      "mi_nr": "398",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-12-01",
+      "wert": "5+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Württemberg",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 5268464,
+      "commons_datei": "DR 1926 398 Nothilfe Wappen Württemberg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Württembergs",
+          "beschriftung": "Wappen von Württemberg",
+          "haupt": true,
+          "artikel": "Wappen Württembergs",
+          "wikidata": "Q472638"
+        }
+      ]
+    },
+    {
+      "mi_nr": "399",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-12-01",
+      "wert": "10+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Wappen von Baden",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 4163636,
+      "commons_datei": "DR 1926 399 Nothilfe Wappen Baden.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Badens",
+          "beschriftung": "Wappen von Baden",
+          "haupt": true,
+          "artikel": "Wappen Badens",
+          "wikidata": "Q321948"
+        }
+      ]
+    },
+    {
+      "mi_nr": "400",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-12-01",
+      "wert": "25+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Thüringer Landeswappen",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 438290,
+      "commons_datei": "DR 1926 400 Nothilfe Wappen Thüringen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Thüringer Landeswappen",
+          "beschriftung": "Thüringer Landeswappen",
+          "haupt": true,
+          "artikel": "Thüringer Landeswappen",
+          "wikidata": "Q478239"
+        }
+      ]
+    },
+    {
+      "mi_nr": "401",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1926-12-01",
+      "wert": "50+50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1927-06-30",
+      "anlass": "Nothilfe Wappen",
+      "bild_beschreibung": "Landeswappen Hessens",
+      "entwerfer": "Sigmund von Weech",
+      "auflage": 210336,
+      "commons_datei": "DR 1926 401 Nothilfe Wappen Hessen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Landeswappen Hessens",
+          "beschriftung": "Landeswappen Hessens",
+          "haupt": true,
+          "artikel": "Landeswappen Hessens",
+          "wikidata": "Q329186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "385",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Johann Wolfgang von Goethe",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 385 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "387",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Friedrich Schiller",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 387 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "389",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Ludwig van Beethoven",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 389 Ludwig van Beethoven.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "390",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Friedrich der Große",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 390 Friedrich der Grosse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich II. (Preußen)",
+          "beschriftung": "Friedrich der Große",
+          "haupt": true,
+          "artikel": "Friedrich II. (Preußen)",
+          "wikidata": "Q33550"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "391",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Immanuel Kant",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 391 Immanuel Kant.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Immanuel Kant",
+          "beschriftung": "Immanuel Kant",
+          "haupt": true,
+          "artikel": "Immanuel Kant",
+          "wikidata": "Q9312"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "392",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Ludwig van Beethoven",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 392 Ludwig van Beethoven.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "393",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Johann Wolfgang von Goethe",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 393 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "394",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Gotthold Ephraim Lessing",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 394 Gotthold Ephraim Lessing.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gotthold Ephraim Lessing",
+          "beschriftung": "Gotthold Ephraim Lessing",
+          "haupt": true,
+          "artikel": "Gotthold Ephraim Lessing",
+          "wikidata": "Q34628"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "395",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Gottfried Wilhelm Leibniz",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 395 Gottfried Wilhelm Leibniz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gottfried Wilhelm Leibniz",
+          "beschriftung": "Gottfried Wilhelm Leibniz",
+          "haupt": true,
+          "artikel": "Gottfried Wilhelm Leibniz",
+          "wikidata": "Q9047"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "396",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Johann Sebastian Bach",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 396 Johann Sebastian Bach.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Sebastian Bach",
+          "beschriftung": "Johann Sebastian Bach",
+          "haupt": true,
+          "artikel": "Johann Sebastian Bach",
+          "wikidata": "Q1339"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    },
+    {
+      "mi_nr": "397",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1926-11-01",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1933-06-30",
+      "anlass": "Dauermarkenserie Köpfe berühmter Deutscher",
+      "bild_beschreibung": "Albrecht Dürer",
+      "entwerfer": null,
+      "auflage": null,
+      "commons_datei": "DR 1926 397 Albrecht Dürer.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Albrecht Dürer",
+          "beschriftung": "Albrecht Dürer",
+          "haupt": true,
+          "artikel": "Albrecht Dürer",
+          "wikidata": "Q5580"
+        },
+        {
+          "titel": "Köpfe berühmter Deutscher",
+          "beschriftung": "Köpfe berühmter Deutscher",
+          "haupt": false,
+          "artikel": "Köpfe berühmter Deutscher",
+          "wikidata": "Q1760460"
+        }
+      ]
+    }
+  ]
+}

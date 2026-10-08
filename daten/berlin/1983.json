@@ -1,0 +1,653 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1983,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1983 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1983_der_Deutschen_Bundespost_Berlin",
+    "revision": 259739927,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 689,
+    "mi_nr_bis": 707,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 19,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "689",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-01-13",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Straßenpumpen in Berlin um 1900",
+      "bild_beschreibung": "Lauchhammerpumpe, Klausenerplatz",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 12130000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Klausenerplatz",
+          "beschriftung": "Klausenerplatz",
+          "haupt": true,
+          "artikel": "Klausenerplatz",
+          "wikidata": "Q1745967"
+        },
+        {
+          "titel": "Schwengelpumpe",
+          "beschriftung": "Straßenpumpen",
+          "haupt": false,
+          "artikel": "Schwengelpumpe",
+          "wikidata": "Q625436"
+        }
+      ]
+    },
+    {
+      "mi_nr": "690",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-01-13",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Straßenpumpen in Berlin um 1900",
+      "bild_beschreibung": "Ventilbrunnen, Chamissoplatz",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8130000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Chamissoplatz",
+          "beschriftung": "Chamissoplatz",
+          "haupt": true,
+          "artikel": "Chamissoplatz",
+          "wikidata": "Q449337"
+        },
+        {
+          "titel": "Schwengelpumpe",
+          "beschriftung": "Straßenpumpen",
+          "haupt": false,
+          "artikel": "Schwengelpumpe",
+          "wikidata": "Q625436"
+        }
+      ]
+    },
+    {
+      "mi_nr": "691",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-01-13",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Straßenpumpen in Berlin um 1900",
+      "bild_beschreibung": "Lauchhammerpumpe, Schloßstraße",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8130000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloßstraße (Berlin-Charlottenburg)",
+          "beschriftung": "Schloßstraße",
+          "haupt": true,
+          "artikel": "Schloßstraße (Berlin-Charlottenburg)",
+          "wikidata": "Q2244944"
+        },
+        {
+          "titel": "Schwengelpumpe",
+          "beschriftung": "Straßenpumpen",
+          "haupt": false,
+          "artikel": "Schwengelpumpe",
+          "wikidata": "Q625436"
+        }
+      ]
+    },
+    {
+      "mi_nr": "692",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-01-13",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Historische Straßenpumpen in Berlin um 1900",
+      "bild_beschreibung": "Krausepumpe, Ecke Kurfürstendamm/Leibnizstraße",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7630000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurfürstendamm",
+          "beschriftung": "Kurfürstendamm",
+          "haupt": true,
+          "artikel": "Kurfürstendamm",
+          "wikidata": "Q160272"
+        },
+        {
+          "titel": "Schwengelpumpe",
+          "beschriftung": "Straßenpumpen",
+          "haupt": false,
+          "artikel": "Schwengelpumpe",
+          "wikidata": "Q625436"
+        }
+      ]
+    },
+    {
+      "mi_nr": "693",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-02-08",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150 Jahre Telegrafenlinie Berlin–Coblenz",
+      "bild_beschreibung": "Königlich-Preußische Telegraphen-Inspektoren vor der Dahlemer Dorfkirche",
+      "entwerfer": "Egon Falz",
+      "auflage": 8130,
+      "commons_datei": "Stamps of Germany (Berlin) 1983, MiNr 693.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Optische Telegrafie",
+          "beschriftung": "Telegrafenlinie",
+          "haupt": true,
+          "artikel": "Optische Telegrafie",
+          "wikidata": "Q378499"
+        },
+        {
+          "titel": "Preußischer optischer Telegraf",
+          "beschriftung": "Berlin–Coblenz",
+          "haupt": false,
+          "artikel": "Preußischer optischer Telegraf",
+          "wikidata": "Q870831"
+        },
+        {
+          "titel": "Dorfkirche Dahlem",
+          "beschriftung": "Dahlemer Dorfkirche",
+          "haupt": false,
+          "artikel": "Dorfkirche Dahlem",
+          "wikidata": "Q1244208"
+        }
+      ]
+    },
+    {
+      "mi_nr": "694",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1983: Historische Motorräder",
+      "bild_beschreibung": "Hildebrand & Wolfmüller (1894)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2921000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alois Wolfmüller",
+          "beschriftung": "Wolfmüller",
+          "haupt": true,
+          "artikel": "Alois Wolfmüller",
+          "wikidata": "Q110442"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "695",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1983: Historische Motorräder",
+      "bild_beschreibung": "Wanderer (1908)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2927000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wanderer-Werke",
+          "beschriftung": "Wanderer",
+          "haupt": true,
+          "artikel": "Wanderer-Werke",
+          "wikidata": "Q59183"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "696",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1983: Historische Motorräder",
+      "bild_beschreibung": "DKW-Lomos (1922)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2922000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DKW",
+          "beschriftung": "DKW",
+          "haupt": true,
+          "artikel": "DKW",
+          "wikidata": "Q639268"
+        },
+        {
+          "titel": "Motorroller",
+          "beschriftung": "Lomos",
+          "haupt": false,
+          "artikel": "Motorroller",
+          "wikidata": "Q193234"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "697",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1983: Historische Motorräder",
+      "bild_beschreibung": "Motorrad \"Weiße Mars\", (1925) aus den Mars-Werken",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 2906000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weiße Mars",
+          "beschriftung": "Weiße Mars",
+          "haupt": true,
+          "artikel": "Weiße Mars",
+          "wikidata": "Q1404615"
+        },
+        {
+          "titel": "Mars-Werke",
+          "beschriftung": "Mars-Werken",
+          "haupt": false,
+          "artikel": "Mars-Werke",
+          "wikidata": "Q471452"
+        },
+        {
+          "titel": "Motorrad",
+          "beschriftung": "Motorräder",
+          "haupt": false,
+          "artikel": "Motorrad",
+          "wikidata": "Q34493"
+        }
+      ]
+    },
+    {
+      "mi_nr": "698",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1983: Sportereignisse 1983",
+      "bild_beschreibung": "Europameisterschaften in den Lateinamerikanischen Tänzen ; in Berlin",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2762000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tanzsporteuropameisterschaft (Latein)",
+          "beschriftung": "Europameisterschaften in den Lateinamerikanischen Tänzen",
+          "haupt": true,
+          "artikel": "Tanzsporteuropameisterschaft (Latein)",
+          "wikidata": "Q1771894"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "699",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-04-12",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1983: Sportereignisse 1983",
+      "bild_beschreibung": "Eishockey-Weltmeisterschaft ; in Düsseldorf, Dortmund, München",
+      "entwerfer": "Fritz-Dieter Rothacker",
+      "auflage": 2752000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Eishockey-Weltmeisterschaft",
+          "beschriftung": "Eishockey-Weltmeisterschaft",
+          "haupt": true,
+          "artikel": "Eishockey-Weltmeisterschaft",
+          "wikidata": "Q190163"
+        },
+        {
+          "titel": "Düsseldorf",
+          "beschriftung": "Düsseldorf",
+          "haupt": false,
+          "artikel": "Düsseldorf",
+          "wikidata": "Q1718"
+        },
+        {
+          "titel": "Dortmund",
+          "beschriftung": "Dortmund",
+          "haupt": false,
+          "artikel": "Dortmund",
+          "wikidata": "Q1295"
+        },
+        {
+          "titel": "München",
+          "beschriftung": "München",
+          "haupt": false,
+          "artikel": "München",
+          "wikidata": "Q1726"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "700",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-05-05",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "300. Geburtstag von Antoine Pesne",
+      "bild_beschreibung": "La Barbarina (Barbara Campanini)",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 12130000,
+      "commons_datei": "Stamps of Germany (Berlin) 1983, MiNr 700.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Antoine Pesne",
+          "beschriftung": "Antoine Pesne",
+          "haupt": true,
+          "artikel": "Antoine Pesne",
+          "wikidata": "Q203758"
+        },
+        {
+          "titel": "Barbara Campanini",
+          "beschriftung": "Barbara Campanini",
+          "haupt": false,
+          "artikel": "Barbara Campanini",
+          "wikidata": "Q271819"
+        }
+      ]
+    },
+    {
+      "mi_nr": "701",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-07-14",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Joachim Ringelnatz",
+      "bild_beschreibung": "Scherenschnitt",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 10130000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Joachim Ringelnatz",
+          "beschriftung": "Joachim Ringelnatz",
+          "haupt": true,
+          "artikel": "Joachim Ringelnatz",
+          "wikidata": "Q552038"
+        },
+        {
+          "titel": "Scherenschnitt",
+          "beschriftung": "Scherenschnitt",
+          "haupt": false,
+          "artikel": "Scherenschnitt",
+          "wikidata": "Q12969198"
+        }
+      ]
+    },
+    {
+      "mi_nr": "702",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-07-14",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Funkausstellung Berlin (IFA)",
+      "bild_beschreibung": "Elektrisches Bildübertragungssystem nach Paul Nipkow",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 10130000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Internationale Funkausstellung Berlin",
+          "beschriftung": "Internationale Funkausstellung Berlin",
+          "haupt": true,
+          "artikel": "IFA (Messe)",
+          "wikidata": "Q695795"
+        },
+        {
+          "titel": "Paul Nipkow",
+          "beschriftung": "Paul Nipkow",
+          "haupt": false,
+          "artikel": "Paul Nipkow",
+          "wikidata": "Q63709"
+        }
+      ]
+    },
+    {
+      "mi_nr": "703",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1983: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Berghähnlein Anemone narcissiflora",
+      "entwerfer": "Karin Blume",
+      "auflage": 8540000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Narzissen-Windröschen",
+          "beschriftung": "Berghähnlein",
+          "haupt": true,
+          "artikel": "Narzissen-Windröschen",
+          "wikidata": "Q104253351"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "704",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1983: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Alpenaurikel Primula auricula",
+      "entwerfer": "Karin Blume",
+      "auflage": 7690000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Aurikel",
+          "beschriftung": "Alpenaurikel",
+          "haupt": true,
+          "artikel": "Aurikel",
+          "wikidata": "Q164186"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "705",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1983: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Zwerg-Primel Primula minima",
+      "entwerfer": "Karin Blume",
+      "auflage": 11330000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwerg-Primel",
+          "beschriftung": "Zwerg-Primel",
+          "haupt": true,
+          "artikel": "Zwerg-Primel",
+          "wikidata": "Q161413"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "706",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-10-13",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1983: Gefährdete Alpenblumen",
+      "bild_beschreibung": "Einseles Akelei (Kleinblütige Akelei) Aquilegia einseleana",
+      "entwerfer": "Karin Blume",
+      "auflage": 4230000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Akeleien",
+          "beschriftung": "Einseles Akelei (Kleinblütige Akelei)",
+          "haupt": true,
+          "artikel": "Akeleien",
+          "wikidata": "Q147641"
+        },
+        {
+          "titel": "Alpenflora",
+          "beschriftung": "Alpenblumen",
+          "haupt": false,
+          "artikel": "Alpenflora",
+          "wikidata": "Q1412527"
+        }
+      ]
+    },
+    {
+      "mi_nr": "707",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1983-11-10",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1983",
+      "bild_beschreibung": "Afrikanische Krippe (Yoruba-Krippe)",
+      "entwerfer": "Peter Steiner",
+      "auflage": 6980000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Yoruba (Volk)",
+          "beschriftung": "Yoruba-Krippe",
+          "haupt": false,
+          "artikel": "Yoruba (Ethnie)",
+          "wikidata": "Q190168"
+        }
+      ]
+    }
+  ]
+}

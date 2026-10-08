@@ -1,0 +1,987 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1982,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1982 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1982_der_Deutschen_Bundespost_Berlin",
+    "revision": 267283405,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 659,
+    "mi_nr_bis": 688,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 20,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "659",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-02-18",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "750 Jahre Stadt Spandau",
+      "bild_beschreibung": "Spandau (um 1232), Stadtwappen",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8200000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Spandau",
+          "beschriftung": "Spandau",
+          "haupt": true,
+          "artikel": "Berlin-Spandau",
+          "wikidata": "Q569827"
+        },
+        {
+          "titel": "Wappen",
+          "beschriftung": "Stadtwappen",
+          "haupt": false,
+          "artikel": "Wappen",
+          "wikidata": "Q14659"
+        }
+      ]
+    },
+    {
+      "mi_nr": "660",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "40+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1982: Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Daimler-Stahlradwagen (1889)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3443000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gottlieb Daimler",
+          "beschriftung": "Daimler",
+          "haupt": true,
+          "artikel": "Gottlieb Daimler",
+          "wikidata": "Q57098"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "661",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1982: Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Wanderer Puppchen (1911)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3409000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wanderer Puppchen",
+          "beschriftung": "Wanderer Puppchen",
+          "haupt": true,
+          "artikel": "Wanderer Puppchen",
+          "wikidata": "Q1774980"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "662",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1982: Historische Kraftfahrzeuge",
+      "bild_beschreibung": "Adler-Limousine (1913)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3396000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Adlerwerke",
+          "beschriftung": "Adler",
+          "haupt": true,
+          "artikel": "Adlerwerke",
+          "wikidata": "Q53098"
+        },
+        {
+          "titel": "Limousine",
+          "beschriftung": "Limousine",
+          "haupt": false,
+          "artikel": "Limousine",
+          "wikidata": "Q190578"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "663",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Für die Jugend 1982: Historische Kraftfahrzeuge",
+      "bild_beschreibung": "DKW F 1 (1931)",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 3337000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "DKW F 1",
+          "beschriftung": "DKW F 1",
+          "haupt": true,
+          "artikel": "DKW F 1",
+          "wikidata": "Q1154389"
+        },
+        {
+          "titel": "Kraftfahrzeug",
+          "beschriftung": "Kraftfahrzeug",
+          "haupt": false,
+          "artikel": "Kraftfahrzeug",
+          "wikidata": "Q752870"
+        }
+      ]
+    },
+    {
+      "mi_nr": "664",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1982",
+      "bild_beschreibung": "Leistungssport: Kurzstreckenlauf",
+      "entwerfer": "Hans Buschfeld",
+      "auflage": 3204000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leistungssport",
+          "beschriftung": "Leistungssport",
+          "haupt": true,
+          "artikel": "Leistungssport",
+          "wikidata": "Q1816033"
+        },
+        {
+          "titel": "Sprint",
+          "beschriftung": "Kurzstreckenlauf",
+          "haupt": false,
+          "artikel": "Sprint",
+          "wikidata": "Q624482"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "665",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "90+45",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Sporthilfe 1982",
+      "bild_beschreibung": "Jugendsport: Volleyball",
+      "entwerfer": "Hans Buschfeld",
+      "auflage": 3090000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Junioren",
+          "beschriftung": "Jugendsport",
+          "haupt": true,
+          "artikel": "Junioren",
+          "wikidata": "Q28107644"
+        },
+        {
+          "titel": "Volleyball",
+          "beschriftung": "Volleyball",
+          "haupt": false,
+          "artikel": "Volleyball",
+          "wikidata": "Q1734"
+        },
+        {
+          "titel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "beschriftung": "Sporthilfe",
+          "haupt": false,
+          "artikel": "Sporthilfe der Deutschen Bundespost Berlin",
+          "wikidata": "Q2312540"
+        }
+      ]
+    },
+    {
+      "mi_nr": "666",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-04-15",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100 Jahre Berliner Philharmonisches Orchester",
+      "bild_beschreibung": "Harfe im Prägedruck",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7215000,
+      "commons_datei": "Stamps of Germany (Berlin) 1982, MiNr 666 b.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Philharmoniker",
+          "beschriftung": "Berliner Philharmonisches Orchester",
+          "haupt": true,
+          "artikel": "Berliner Philharmoniker",
+          "wikidata": "Q152222"
+        },
+        {
+          "titel": "Harfe",
+          "beschriftung": "Harfe",
+          "haupt": false,
+          "artikel": "Harfe",
+          "wikidata": "Q47369"
+        },
+        {
+          "titel": "Prägedruck",
+          "beschriftung": "Prägedruck",
+          "haupt": false,
+          "artikel": "Prägedruck",
+          "wikidata": "Q1146140"
+        }
+      ]
+    },
+    {
+      "mi_nr": "667",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-05-08",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Aufnahme Salzburger Emigranten in Preußen vor 250 Jahren",
+      "bild_beschreibung": "",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8135000,
+      "commons_datei": "Stamps of Germany (Berlin) 1982, MiNr 667.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Salzburger Exulanten",
+          "beschriftung": "Salzburger Emigranten",
+          "haupt": true,
+          "artikel": "Salzburger Exulanten",
+          "wikidata": "Q328163"
+        },
+        {
+          "titel": "Preußen",
+          "beschriftung": "Preußen",
+          "haupt": false,
+          "artikel": "Preußen",
+          "wikidata": "Q38872"
+        }
+      ]
+    },
+    {
+      "mi_nr": "678",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Moderne Gemälde aus Berliner Sammlungen",
+      "bild_beschreibung": "„Italienische Steinträger“ von Max Pechstein",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 11485000,
+      "commons_datei": "Stamps of Germany (Berlin) 1982, MiNr 678.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Max Pechstein",
+          "beschriftung": "Max Pechstein",
+          "haupt": true,
+          "artikel": "Max Pechstein",
+          "wikidata": "Q162105"
+        }
+      ]
+    },
+    {
+      "mi_nr": "679",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Moderne Gemälde aus Berliner Sammlungen",
+      "bild_beschreibung": "„Zwei badende Mädchen“ von Otto Mueller",
+      "entwerfer": "Rudi Schmidt",
+      "auflage": 10135000,
+      "commons_datei": "Stamps of Germany (Berlin) 1982, MiNr 679.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwei badende Mädchen",
+          "beschriftung": "Zwei badende Mädchen",
+          "haupt": true,
+          "artikel": "Zwei badende Mädchen",
+          "wikidata": "Q135826296"
+        },
+        {
+          "titel": "Otto Mueller",
+          "beschriftung": "Otto Mueller",
+          "haupt": false,
+          "artikel": "Otto Mueller",
+          "wikidata": "Q317041"
+        }
+      ]
+    },
+    {
+      "mi_nr": "680",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1982: Gartenrosen",
+      "bild_beschreibung": "Floribunda-Grandiflora",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 13439000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Floribundarose",
+          "beschriftung": "Floribunda",
+          "haupt": true,
+          "artikel": "Floribundarose",
+          "wikidata": "Q1423152"
+        },
+        {
+          "titel": "Kulturrosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Kulturrosen",
+          "wikidata": "Q64140922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "681",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "60+30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1982: Gartenrosen",
+      "bild_beschreibung": "Teehybride",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 11941000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Teehybride",
+          "beschriftung": "Teehybride",
+          "haupt": true,
+          "artikel": "Teehybride",
+          "wikidata": "Q279919"
+        },
+        {
+          "titel": "Kulturrosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Kulturrosen",
+          "wikidata": "Q64140922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "682",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "80+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1982: Gartenrosen",
+      "bild_beschreibung": "Floribunda",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 10905000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kulturrosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": true,
+          "artikel": "Kulturrosen",
+          "wikidata": "Q64140922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "683",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-10-14",
+      "wert": "120+60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Wohlfahrtsmarken 1982: Gartenrosen",
+      "bild_beschreibung": "Miniatur-Rose",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": 4696000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rosenklassen",
+          "beschriftung": "Miniatur-Rose",
+          "haupt": true,
+          "artikel": "Rosenklassen",
+          "wikidata": "Q16007016"
+        },
+        {
+          "titel": "Kulturrosen",
+          "beschriftung": "Gartenrosen",
+          "haupt": false,
+          "artikel": "Kulturrosen",
+          "wikidata": "Q64140922"
+        }
+      ]
+    },
+    {
+      "mi_nr": "684",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "250. Geburtstag von Carl Gotthard Langhans",
+      "bild_beschreibung": "Schlosstheater in Charlottenburg",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 7635000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Carl Gotthard Langhans",
+          "beschriftung": "Carl Gotthard Langhans",
+          "haupt": true,
+          "artikel": "Carl Gotthard Langhans",
+          "wikidata": "Q313181"
+        },
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schlosstheater in Charlottenburg",
+          "haupt": false,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        }
+      ]
+    },
+    {
+      "mi_nr": "685",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten IV",
+      "bild_beschreibung": "Villa Borsig",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 12135000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Villa Borsig",
+          "beschriftung": "Villa Borsig",
+          "haupt": true,
+          "artikel": "Villa Borsig",
+          "wikidata": "Q894191"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "686",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten IV",
+      "bild_beschreibung": "Kirche St. Peter und Paul",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8135000,
+      "commons_datei": "Stamps of Germany (Berlin) 1982, MiNr 686.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "St. Peter und Paul (Berlin-Wannsee)",
+          "beschriftung": "Kirche St. Peter und Paul",
+          "haupt": true,
+          "artikel": "St. Peter und Paul (Berlin-Wannsee)",
+          "wikidata": "Q428320"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "687",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berlin-Ansichten IV",
+      "bild_beschreibung": "Villa von der Heydt",
+      "entwerfer": "Reinhold Gerstetter",
+      "auflage": 8135000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Villa von der Heydt (Berlin-Tiergarten)",
+          "beschriftung": "Villa von der Heydt",
+          "haupt": true,
+          "artikel": "Villa von der Heydt (Berlin-Tiergarten)",
+          "wikidata": "Q2525986"
+        },
+        {
+          "titel": "Berlin-Ansichten",
+          "beschriftung": "Berlin-Ansichten",
+          "haupt": false,
+          "artikel": "Berlin-Ansichten",
+          "wikidata": "Q821035"
+        }
+      ]
+    },
+    {
+      "mi_nr": "688",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1982-11-10",
+      "wert": "50+20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weihnachtsmarke 1982",
+      "bild_beschreibung": "Anbetung der Könige, Detail des Petri-Altars von Meister Bertram",
+      "entwerfer": "Bruno K. Wiese",
+      "auflage": 8954000,
+      "commons_datei": "Stamps of Germany (Berlin) 1982, MiNr 688.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "beschriftung": "Weihnachtsmarke",
+          "haupt": true,
+          "artikel": "Weihnachtsmarken der Deutschen Bundespost Berlin",
+          "wikidata": "Q1407878"
+        },
+        {
+          "titel": "Anbetung der Könige",
+          "beschriftung": "Anbetung der Könige",
+          "haupt": false,
+          "artikel": "Anbetung der Könige",
+          "wikidata": "Q488841"
+        },
+        {
+          "titel": "Hauptkirche St. Petri (Hamburg)",
+          "beschriftung": "Petri-Altars",
+          "haupt": false,
+          "artikel": "Hauptkirche Sankt Petri",
+          "wikidata": "Q535443"
+        },
+        {
+          "titel": "Meister Bertram",
+          "beschriftung": "Meister Bertram",
+          "haupt": false,
+          "artikel": "Meister Bertram",
+          "wikidata": "Q670632"
+        }
+      ]
+    },
+    {
+      "mi_nr": "668",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "110",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Fernsehkamera",
+      "entwerfer": "Reinhold Gerstetter (Idee: Beat Knoblauch)",
+      "auflage": 11000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Elektronische Kamera",
+          "beschriftung": "Fernsehkamera",
+          "haupt": true,
+          "artikel": "Elektronische Kamera",
+          "wikidata": "Q313625"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "669",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "130",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Brauanlage",
+      "entwerfer": "Hans-Joachim Fuchs (Idee: Beat Knoblauch)",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brauerei",
+          "beschriftung": "Brauanlage",
+          "haupt": true,
+          "artikel": "Brauerei",
+          "wikidata": "Q131734"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "670",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "190",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Löffelbagger",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 8500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löffelbagger",
+          "beschriftung": "Löffelbagger",
+          "haupt": true,
+          "artikel": "Bagger",
+          "wikidata": "Q182661"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "671",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "250",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Flughafen Frankfurt/Main",
+      "entwerfer": "Beat Knoblauch und Paul Beer",
+      "auflage": 10500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rhein-Main-Flughafen",
+          "beschriftung": "Flughafen Frankfurt/Main",
+          "haupt": true,
+          "artikel": "Flughafen Frankfurt Main",
+          "wikidata": "Q46033"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "672",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Industrie und Technik",
+      "bild_beschreibung": "Magnetschwebebahn (Transrapid)",
+      "entwerfer": "Egon Falz (Idee: Beat Knoblauch)",
+      "auflage": 10800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Magnetschwebebahn",
+          "beschriftung": "Magnetschwebebahn",
+          "haupt": true,
+          "artikel": "Magnetschwebebahn",
+          "wikidata": "Q160047"
+        },
+        {
+          "titel": "Transrapid",
+          "beschriftung": "Transrapid",
+          "haupt": false,
+          "artikel": "Transrapid",
+          "wikidata": "Q157018"
+        },
+        {
+          "titel": "Industrie und Technik (Briefmarkenserie)",
+          "beschriftung": "Industrie und Technik",
+          "haupt": false,
+          "artikel": "Industrie und Technik",
+          "wikidata": "Q1661991"
+        }
+      ]
+    },
+    {
+      "mi_nr": "673",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "35",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Lichtenstein",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Lichtenstein (Württemberg)",
+          "beschriftung": "Schloss Lichtenstein",
+          "haupt": true,
+          "artikel": "Schloss Lichtenstein (Württemberg)",
+          "wikidata": "Q155693"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "674",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Wilhelmsthal",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Wilhelmsthal (Calden)",
+          "beschriftung": "Schloss Wilhelmsthal",
+          "haupt": true,
+          "artikel": "Schloss Wilhelmsthal (Calden)",
+          "wikidata": "Q2244179"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "675",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "120",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Charlottenburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Charlottenburg",
+          "beschriftung": "Schloss Charlottenburg",
+          "haupt": true,
+          "artikel": "Schloss Charlottenburg",
+          "wikidata": "Q154996"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "676",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-07-15",
+      "wert": "280",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Ahrensburg",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Ahrensburg",
+          "beschriftung": "Schloss Ahrensburg",
+          "haupt": true,
+          "artikel": "Schloss Ahrensburg",
+          "wikidata": "Q315682"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    },
+    {
+      "mi_nr": "677",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1982-06-16",
+      "wert": "300",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Dauermarkenserie: Burgen und Schlösser",
+      "bild_beschreibung": "Schloss Herrenhausen",
+      "entwerfer": "Heinz Schillinger",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Herrenhausen",
+          "beschriftung": "Schloss Herrenhausen",
+          "haupt": true,
+          "artikel": "Schloss Herrenhausen",
+          "wikidata": "Q48966707"
+        },
+        {
+          "titel": "Burgen und Schlösser (Dauermarkenserie)",
+          "beschriftung": "Burgen und Schlösser",
+          "haupt": false,
+          "artikel": "Burgen und Schlösser (Dauermarkenserie)",
+          "wikidata": "Q1014841"
+        }
+      ]
+    }
+  ]
+}

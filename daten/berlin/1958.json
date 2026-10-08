@@ -1,0 +1,357 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1958,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1958 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1958_der_Deutschen_Bundespost_Berlin",
+    "revision": 251519417,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 163,
+    "mi_nr_bis": 181,
+    "luecken": [
+      166,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 7,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "163",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-10-24",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-06-30",
+      "anlass": "Männer aus der Geschichte Berlins (II)",
+      "bild_beschreibung": "Theodor Mommsen (1817–1903), Historiker und Altertumswissenschaftler, Literaturnobelpreis 1902",
+      "entwerfer": "Arthur Degner",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1957 163 Mommsen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Mommsen",
+          "beschriftung": "Theodor Mommsen",
+          "haupt": true,
+          "artikel": "Theodor Mommsen",
+          "wikidata": "Q25351"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        },
+        {
+          "titel": "Altertum",
+          "beschriftung": "Altertum",
+          "haupt": false,
+          "artikel": "Altertum",
+          "wikidata": "Q41493"
+        },
+        {
+          "titel": "Nobelpreis für Literatur",
+          "beschriftung": "Literaturnobelpreis",
+          "haupt": false,
+          "artikel": "Nobelpreis für Literatur",
+          "wikidata": "Q37922"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "164",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-01-10",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-06-30",
+      "anlass": "Männer aus der Geschichte Berlins (II)",
+      "bild_beschreibung": "Heinrich Zille (1858–1929), Grafiker, Lithograf, Maler, Zeichner und Fotograf",
+      "entwerfer": "Arthur Degner",
+      "auflage": 2000000,
+      "commons_datei": "DBPB 1957 164 Zille.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Zille",
+          "beschriftung": "Heinrich Zille",
+          "haupt": true,
+          "artikel": "Heinrich Zille",
+          "wikidata": "Q498211"
+        },
+        {
+          "titel": "Grafiker",
+          "beschriftung": "Grafiker",
+          "haupt": false,
+          "artikel": "Grafiker",
+          "wikidata": "Q1925963"
+        },
+        {
+          "titel": "Lithografie",
+          "beschriftung": "Lithograf",
+          "haupt": false,
+          "artikel": "Lithografie",
+          "wikidata": "Q133036"
+        },
+        {
+          "titel": "Malerei",
+          "beschriftung": "Maler",
+          "haupt": false,
+          "artikel": "Malerei",
+          "wikidata": "Q11629"
+        },
+        {
+          "titel": "Zeichnung (Kunst)",
+          "beschriftung": "Zeichner",
+          "haupt": false,
+          "artikel": "Zeichnung (Kunst)",
+          "wikidata": "Q93184"
+        },
+        {
+          "titel": "Fotografie",
+          "beschriftung": "Fotograf",
+          "haupt": false,
+          "artikel": "Fotografie",
+          "wikidata": "Q11633"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "165",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-09-29",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-06-30",
+      "anlass": "Männer aus der Geschichte Berlins (II)",
+      "bild_beschreibung": "Ernst Reuter (1889–1953), Regierender Bürgermeister von Berlin",
+      "entwerfer": "Arthur Degner",
+      "auflage": 2300000,
+      "commons_datei": "DBPB 1957 165 Reuter.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Reuter",
+          "beschriftung": "Ernst Reuter",
+          "haupt": true,
+          "artikel": "Ernst Reuter",
+          "wikidata": "Q213561"
+        },
+        {
+          "titel": "Regierender Bürgermeister von Berlin",
+          "beschriftung": "Regierender Bürgermeister von Berlin",
+          "haupt": false,
+          "artikel": "Regierender Bürgermeister von Berlin",
+          "wikidata": "Q641159"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "167",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-12-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-06-30",
+      "anlass": "Männer aus der Geschichte Berlins (II)",
+      "bild_beschreibung": "Friedrich Schleiermacher (1768–1834), Theologe, Philosoph und Pädagoge",
+      "entwerfer": "Kunstwerkstätten der Bundesdruckerei",
+      "auflage": 6000000,
+      "commons_datei": "DBPB 1957 167 Schleiermacher.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schleiermacher",
+          "beschriftung": "Friedrich Schleiermacher",
+          "haupt": true,
+          "artikel": "Friedrich Schleiermacher",
+          "wikidata": "Q76576"
+        },
+        {
+          "titel": "Theologie",
+          "beschriftung": "Theologe",
+          "haupt": false,
+          "artikel": "Theologie",
+          "wikidata": "Q34178"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Pädagoge",
+          "beschriftung": "Pädagoge",
+          "haupt": false,
+          "artikel": "Pädagoge",
+          "wikidata": "Q1231865"
+        },
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": false,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        }
+      ]
+    },
+    {
+      "mi_nr": "179",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-08-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "78. Deutscher Katholikentag in Berlin",
+      "bild_beschreibung": "Christusdarstellung, Kosmos-Symbol",
+      "entwerfer": "Ernst Finke",
+      "auflage": 2300000,
+      "commons_datei": "DBPB 1958 179 Katholikentag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Jesus Christus",
+          "beschriftung": "Christusdarstellung",
+          "haupt": true,
+          "artikel": "Jesus Christus",
+          "wikidata": "Q302"
+        },
+        {
+          "titel": "Universum",
+          "beschriftung": "Kosmos",
+          "haupt": false,
+          "artikel": "Universum",
+          "wikidata": "Q1"
+        },
+        {
+          "titel": "Symbol",
+          "beschriftung": "Symbol",
+          "haupt": false,
+          "artikel": "Symbol",
+          "wikidata": "Q80071"
+        },
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Katholikentag",
+          "haupt": false,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "180",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-08-13",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "78. Deutscher Katholikentag in Berlin",
+      "bild_beschreibung": "Christusdarstellung, Kosmos-Symbol",
+      "entwerfer": "Ernst Finke",
+      "auflage": 2300000,
+      "commons_datei": "DBPB 1958 180 Katholikentag.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Katholikentag",
+          "beschriftung": "Katholikentag",
+          "haupt": true,
+          "artikel": "Katholikentag",
+          "wikidata": "Q315469"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        }
+      ]
+    },
+    {
+      "mi_nr": "181",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1958-08-30",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "1. Todestag von Otto Suhr (1894–1957)",
+      "bild_beschreibung": "Otto Suhr war von 1955 bis zu seinem Tod Regierender Bürgermeister von Berlin",
+      "entwerfer": "Leon Schnell",
+      "auflage": 2300000,
+      "commons_datei": "DBPB 1958 181 Otto Suhr.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Otto Suhr",
+          "beschriftung": "Otto Suhr",
+          "haupt": true,
+          "artikel": "Otto Suhr",
+          "wikidata": "Q650878"
+        },
+        {
+          "titel": "Regierender Bürgermeister von Berlin",
+          "beschriftung": "Regierender Bürgermeister von Berlin",
+          "haupt": false,
+          "artikel": "Regierender Bürgermeister von Berlin",
+          "wikidata": "Q641159"
+        }
+      ]
+    }
+  ]
+}

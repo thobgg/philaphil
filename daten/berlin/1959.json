@@ -1,0 +1,361 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1959,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1959 der Deutschen Bundespost Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1959_der_Deutschen_Bundespost_Berlin",
+    "revision": 265017132,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 182,
+    "mi_nr_bis": 190,
+    "luecken": [],
+    "ausreisser": [
+      171
+    ],
+    "sondermarken_gezaehlt": 4,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "171",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-06",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Männer aus der Geschichte Berlins (II)",
+      "bild_beschreibung": "Alexander von Humboldt (1769–1859), Naturforscher und Geograph",
+      "entwerfer": "Arthur Degner",
+      "auflage": 4000000,
+      "commons_datei": "DBPB 1957 171 Humboldt.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Männer aus der Geschichte Berlins",
+          "beschriftung": "Männer aus der Geschichte Berlins",
+          "haupt": true,
+          "artikel": "Männer aus der Geschichte Berlins",
+          "wikidata": "Q1526510"
+        },
+        {
+          "titel": "Alexander von Humboldt",
+          "beschriftung": "Alexander von Humboldt",
+          "haupt": false,
+          "artikel": "Alexander von Humboldt",
+          "wikidata": "Q6694"
+        },
+        {
+          "titel": "Naturgeschichte",
+          "beschriftung": "Naturforscher",
+          "haupt": false,
+          "artikel": "Naturgeschichte",
+          "wikidata": "Q484591"
+        },
+        {
+          "titel": "Geograph",
+          "beschriftung": "Geograph",
+          "haupt": false,
+          "artikel": "Geograph",
+          "wikidata": "Q901402"
+        }
+      ]
+    },
+    {
+      "mi_nr": "188",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-05-12",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "10. Jahrestag der Beendigung der Blockade Berlins",
+      "bild_beschreibung": "mit an- und abfliegenden Flugzeugen stilisiertes Symbol der Luftbrücke",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1959 188 Berlin Blockade.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin-Blockade",
+          "beschriftung": "Blockade Berlins",
+          "haupt": true,
+          "artikel": "Berlin-Blockade",
+          "wikidata": "Q151349"
+        },
+        {
+          "titel": "Berliner Luftbrücke",
+          "beschriftung": "Luftbrücke",
+          "haupt": false,
+          "artikel": "Berliner Luftbrücke",
+          "wikidata": "Q12177407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "189",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-06-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1960-12-31",
+      "anlass": "Kommunaler Weltkongreß, Berlin",
+      "bild_beschreibung": "",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1959 189 Kommunaler Weltkongreß.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "190",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1959-11-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1961-12-31",
+      "anlass": "200. Geburtstag von Friedrich Schiller (1759–1805)",
+      "bild_beschreibung": "Dichter, Dramatiker, Philosoph und Historiker",
+      "entwerfer": "Rudolf Gerhardt",
+      "auflage": 5000000,
+      "commons_datei": "DBPB 1959 190 Friedrich Schiller.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Dramatiker",
+          "beschriftung": "Dramatiker",
+          "haupt": false,
+          "artikel": "Dramatiker",
+          "wikidata": "Q214917"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Historiker",
+          "beschriftung": "Historiker",
+          "haupt": false,
+          "artikel": "Historiker",
+          "wikidata": "Q201788"
+        }
+      ]
+    },
+    {
+      "mi_nr": "182",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-04-10",
+      "wert": "7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Bundespräsident Theodor Heuss (III)",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 52600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heuss Medaillon (Briefmarkenserie)",
+          "beschriftung": "Bundespräsident Theodor Heuss (III)",
+          "haupt": true,
+          "artikel": "Heuss Medaillon",
+          "wikidata": "Q1616555"
+        },
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": false,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "183",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-01-31",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Bundespräsident Theodor Heuss (III)",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 304500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "184",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-01-31",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Bundespräsident Theodor Heuss (III)",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 74500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "185",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-05-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Bundespräsident Theodor Heuss (III)",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 13000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "186",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-05-22",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Bundespräsident Theodor Heuss",
+      "bild_beschreibung": "Bundespräsident Theodor Heuss (III)",
+      "entwerfer": "Max Eugen Cordier",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bundespräsident (Deutschland)",
+          "beschriftung": "Bundespräsident",
+          "haupt": true,
+          "artikel": "Bundespräsident (Deutschland)",
+          "wikidata": "Q25223"
+        },
+        {
+          "titel": "Theodor Heuss",
+          "beschriftung": "Theodor Heuss",
+          "haupt": false,
+          "artikel": "Theodor Heuss",
+          "wikidata": "Q2594"
+        }
+      ]
+    },
+    {
+      "mi_nr": "187",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1959-02-14",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1964-12-31",
+      "anlass": "Dauermarken Berliner Stadtbilder",
+      "bild_beschreibung": "Das Rathaus in Neukölln",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 30630000,
+      "commons_datei": "DBPB 1959 187 Rathaus Neukölln.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berliner Stadtbilder (Briefmarkenserie)",
+          "beschriftung": "Berliner Stadtbilder",
+          "haupt": true,
+          "artikel": "Berliner Stadtbilder",
+          "wikidata": "Q821764"
+        },
+        {
+          "titel": "Rathaus Neukölln",
+          "beschriftung": "Das Rathaus in Neukölln",
+          "haupt": false,
+          "artikel": "Rathaus Neukölln",
+          "wikidata": "Q608280"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1945,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1945 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1945_der_Deutschen_Reichspost",
+    "revision": 270179030,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 907,
+    "mi_nr_bis": 910,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 4,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "907",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-01-06",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "600. Jahrestag der Verleihung der Stadtrechte an Oldenburg",
+      "bild_beschreibung": "Graf Anton Günther auf seinem Apfelschimmel Kranich",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1945 907 Oldenburg, Graf Anton Günther.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Stadtrecht",
+          "beschriftung": "Stadtrecht",
+          "haupt": true,
+          "artikel": "Stadtrecht",
+          "wikidata": "Q28942"
+        },
+        {
+          "titel": "Oldenburg (Oldenburg)",
+          "beschriftung": "Oldenburg",
+          "haupt": false,
+          "artikel": "Oldenburg (Oldb)",
+          "wikidata": "Q2936"
+        },
+        {
+          "titel": "Anton Günther (Oldenburg)",
+          "beschriftung": "Graf Anton Günther",
+          "haupt": false,
+          "artikel": "Anton Günther (Oldenburg)",
+          "wikidata": "Q69137"
+        },
+        {
+          "titel": "Schimmel (Pferd)",
+          "beschriftung": "Apfelschimmel",
+          "haupt": false,
+          "artikel": "Schimmel (Pferd)",
+          "wikidata": "Q1145422"
+        }
+      ]
+    },
+    {
+      "mi_nr": "908",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-02",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Volkssturm",
+      "bild_beschreibung": "Soldaten des Volkssturms unter einem Adler",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Volkssturm",
+          "beschriftung": "Volkssturm",
+          "haupt": true,
+          "artikel": "Volkssturm",
+          "wikidata": "Q157912"
+        },
+        {
+          "titel": "Adler (Wappentier)",
+          "beschriftung": "Adler",
+          "haupt": false,
+          "artikel": "Adler (Wappentier)",
+          "wikidata": "Q358148"
+        }
+      ]
+    },
+    {
+      "mi_nr": "909",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-04-20",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteiformationen SA und SS",
+      "bild_beschreibung": "Soldat der SA",
+      "entwerfer": "René Ahrlé",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sturmabteilung",
+          "beschriftung": "SA",
+          "haupt": true,
+          "artikel": "Sturmabteilung",
+          "wikidata": "Q150793"
+        }
+      ]
+    },
+    {
+      "mi_nr": "910",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-04-20",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Parteiformationen SA und SS",
+      "bild_beschreibung": "Soldat der SS; Im Hintergrund Jakob Grimminger mit der Blutfahne",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schutzstaffel",
+          "beschriftung": "SS",
+          "haupt": true,
+          "artikel": "Schutzstaffel",
+          "wikidata": "Q44687"
+        },
+        {
+          "titel": "Jakob Grimminger",
+          "beschriftung": "Jakob Grimminger",
+          "haupt": false,
+          "artikel": "Jakob Grimminger",
+          "wikidata": "Q73109"
+        },
+        {
+          "titel": "Blutfahne (NSDAP)",
+          "beschriftung": "Blutfahne",
+          "haupt": false,
+          "artikel": "Blutfahne (NSDAP)",
+          "wikidata": "Q699962"
+        }
+      ]
+    }
+  ]
+}

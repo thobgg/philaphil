@@ -1,0 +1,143 @@
+{
+  "gebiet": "Berlin",
+  "jahr": 1950,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1950 der Deutschen Post Berlin",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1950_der_Deutschen_Post_Berlin",
+    "revision": 251516817,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 71,
+    "mi_nr_bis": 73,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 3,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "71",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1950-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Eröffnung der deutschen Industrieausstellung",
+      "bild_beschreibung": "Die Weltkugel, mit der Inschrift ERP (European Recovery Program) für den Marshallplan, getragen auf dem Rücken von Atlas",
+      "entwerfer": "Piwczyk",
+      "auflage": 1000000,
+      "commons_datei": "DBPB 1950 71 Industrieausstellung.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Globus (Kartografie)",
+          "beschriftung": "Weltkugel",
+          "haupt": true,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Marshallplan",
+          "beschriftung": "Marshallplan",
+          "haupt": false,
+          "artikel": "Marshallplan",
+          "wikidata": "Q4576"
+        },
+        {
+          "titel": "Atlas (Mythologie)",
+          "beschriftung": "Atlas",
+          "haupt": false,
+          "artikel": "Atlas (Mythologie)",
+          "wikidata": "Q130818"
+        }
+      ]
+    },
+    {
+      "mi_nr": "72",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1950-10-29",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Wiederaufbau der Berliner Philharmonie",
+      "bild_beschreibung": "Harfe und Lorbeerzweig; Zuschlagmarke für den Wiederaufbau",
+      "entwerfer": "Alfred Goldammer",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1950 72 Philharmonie.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Harfe",
+          "beschriftung": "Harfe",
+          "haupt": true,
+          "artikel": "Harfe",
+          "wikidata": "Q47369"
+        },
+        {
+          "titel": "Echter Lorbeer",
+          "beschriftung": "Lorbeerzweig",
+          "haupt": false,
+          "artikel": "Echter Lorbeer",
+          "wikidata": "Q26006"
+        },
+        {
+          "titel": "Berliner Philharmonie",
+          "beschriftung": "Berliner Philharmonie",
+          "haupt": false,
+          "artikel": "Berliner Philharmonie",
+          "wikidata": "Q32653910"
+        }
+      ]
+    },
+    {
+      "mi_nr": "73",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1950-10-29",
+      "wert": "30+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1953-12-31",
+      "anlass": "Wiederaufbau der Berliner Philharmonie",
+      "bild_beschreibung": "Genter Altar (Ausschnitt) von Jan (um 1390–1441) und möglicherweise auch seinem Bruder Hubert van Eyck (um 1370–1426); Zuschlagmarke für den Wiederaufbau",
+      "entwerfer": "Leon Schnell",
+      "auflage": 500000,
+      "commons_datei": "DBPB 1950 73 Philharmonie.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Genter Altar",
+          "beschriftung": "Genter Altar",
+          "haupt": true,
+          "artikel": "Genter Altar",
+          "wikidata": "Q734834"
+        },
+        {
+          "titel": "Jan van Eyck",
+          "beschriftung": "Jan",
+          "haupt": false,
+          "artikel": "Jan van Eyck",
+          "wikidata": "Q102272"
+        },
+        {
+          "titel": "Hubert van Eyck",
+          "beschriftung": "Hubert van Eyck",
+          "haupt": false,
+          "artikel": "Hubert van Eyck",
+          "wikidata": "Q364350"
+        },
+        {
+          "titel": "Berliner Philharmonie",
+          "beschriftung": "Berliner Philharmonie",
+          "haupt": false,
+          "artikel": "Berliner Philharmonie",
+          "wikidata": "Q32653910"
+        }
+      ]
+    }
+  ]
+}

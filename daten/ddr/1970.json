@@ -1,0 +1,3647 @@
+{
+  "gebiet": "DDR",
+  "jahr": 1970,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1970 der Deutschen Post der DDR",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1970_der_Deutschen_Post_der_DDR",
+    "revision": 263885798,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1534,
+    "mi_nr_bis": 1631,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 97,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1534",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (IV)",
+      "bild_beschreibung": "Ernst Barlach (1870–1938), Bildhauer, Grafiker, Dichter",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": true,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        },
+        {
+          "titel": "Bildhauer",
+          "beschriftung": "Bildhauer",
+          "haupt": false,
+          "artikel": "Bildhauerei",
+          "wikidata": "Q17310537"
+        },
+        {
+          "titel": "Grafiker",
+          "beschriftung": "Grafiker",
+          "haupt": false,
+          "artikel": "Grafiker",
+          "wikidata": "Q1925963"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1535",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (IV)",
+      "bild_beschreibung": "Johannes Gutenberg (um 1397–1468), Erfinder des Buchdrucks",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 12000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1535.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johannes Gutenberg",
+          "beschriftung": "Johannes Gutenberg",
+          "haupt": true,
+          "artikel": "Johannes Gutenberg",
+          "wikidata": "Q8958"
+        },
+        {
+          "titel": "Buchdruck",
+          "beschriftung": "Buchdruck",
+          "haupt": false,
+          "artikel": "Buchdruck",
+          "wikidata": "Q11034"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1536",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (IV)",
+      "bild_beschreibung": "Kurt Tucholsky (1890–1935), Schriftsteller",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurt Tucholsky",
+          "beschriftung": "Kurt Tucholsky",
+          "haupt": true,
+          "artikel": "Kurt Tucholsky",
+          "wikidata": "Q57386"
+        },
+        {
+          "titel": "Schriftsteller",
+          "beschriftung": "Schriftsteller",
+          "haupt": false,
+          "artikel": "Schriftsteller",
+          "wikidata": "Q36180"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1537",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (IV)",
+      "bild_beschreibung": "Ludwig van Beethoven (1770–1827), Komponist",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1538",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (IV)",
+      "bild_beschreibung": "Friedrich Hölderlin (1770–1843), Dichter",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Hölderlin",
+          "beschriftung": "Friedrich Hölderlin",
+          "haupt": true,
+          "artikel": "Friedrich Hölderlin",
+          "wikidata": "Q75889"
+        },
+        {
+          "titel": "Dichter",
+          "beschriftung": "Dichter",
+          "haupt": false,
+          "artikel": "Dichter",
+          "wikidata": "Q1293108"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1539",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Berühmte Persönlichkeiten (IV)",
+      "bild_beschreibung": "Georg Wilhelm Friedrich Hegel (1770–1831), Philosoph",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1539.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Wilhelm Friedrich Hegel",
+          "beschriftung": "Georg Wilhelm Friedrich Hegel",
+          "haupt": true,
+          "artikel": "Georg Wilhelm Friedrich Hegel",
+          "wikidata": "Q9235"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Berühmte Persönlichkeiten",
+          "beschriftung": "Berühmte Persönlichkeiten",
+          "haupt": false,
+          "artikel": "Berühmte Persönlichkeiten",
+          "wikidata": "Q829357"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1541",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Leipziger Rauchwarenauktion",
+      "bild_beschreibung": "Hauskaninchen (Oryctolagus cuniculus forma domestica)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hauskaninchen",
+          "beschriftung": "Hauskaninchen",
+          "haupt": true,
+          "artikel": "Hauskaninchen",
+          "wikidata": "Q149017"
+        },
+        {
+          "titel": "Internationale Leipziger Rauchwarenauktion",
+          "beschriftung": "Internationale Leipziger Rauchwarenauktion",
+          "haupt": false,
+          "artikel": "Internationale Leipziger Rauchwarenauktion",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1542",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Leipziger Rauchwarenauktion",
+      "bild_beschreibung": "Rotfuchs (Vulpes vulpes)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rotfuchs",
+          "beschriftung": "Rotfuchs",
+          "haupt": true,
+          "artikel": "Rotfuchs",
+          "wikidata": "Q8332"
+        },
+        {
+          "titel": "Internationale Leipziger Rauchwarenauktion",
+          "beschriftung": "Internationale Leipziger Rauchwarenauktion",
+          "haupt": false,
+          "artikel": "Internationale Leipziger Rauchwarenauktion",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1543",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Leipziger Rauchwarenauktion",
+      "bild_beschreibung": "Europäischer Nerz (Mustela lutreola)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Europäischer Nerz",
+          "beschriftung": "Europäischer Nerz",
+          "haupt": true,
+          "artikel": "Europäischer Nerz",
+          "wikidata": "Q26559"
+        },
+        {
+          "titel": "Internationale Leipziger Rauchwarenauktion",
+          "beschriftung": "Internationale Leipziger Rauchwarenauktion",
+          "haupt": false,
+          "artikel": "Internationale Leipziger Rauchwarenauktion",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1544",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-05",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Internationale Leipziger Rauchwarenauktion",
+      "bild_beschreibung": "Großhamster (Cricetus cricetus)",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Feldhamster",
+          "beschriftung": "Großhamster",
+          "haupt": true,
+          "artikel": "Feldhamster",
+          "wikidata": "Q208077"
+        },
+        {
+          "titel": "Internationale Leipziger Rauchwarenauktion",
+          "beschriftung": "Internationale Leipziger Rauchwarenauktion",
+          "haupt": false,
+          "artikel": "Internationale Leipziger Rauchwarenauktion",
+          "wikidata": null
+        }
+      ]
+    },
+    {
+      "mi_nr": "1545",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-17",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (V): Brüderchen und Schwesterchen",
+      "bild_beschreibung": "Diese und die folgenden fünf Marken wurden zusammen als Kleinbogen ausgegeben:; Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarkenbogen",
+          "beschriftung": "Kleinbogen",
+          "haupt": true,
+          "artikel": "Briefmarkenbogen",
+          "wikidata": "Q914890"
+        },
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": false,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Brüderchen und Schwesterchen",
+          "beschriftung": "Brüderchen und Schwesterchen",
+          "haupt": false,
+          "artikel": "Brüderchen und Schwesterchen",
+          "wikidata": "Q513544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1546",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (V): Brüderchen und Schwesterchen",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Brüderchen und Schwesterchen",
+          "beschriftung": "Brüderchen und Schwesterchen",
+          "haupt": false,
+          "artikel": "Brüderchen und Schwesterchen",
+          "wikidata": "Q513544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1547",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-17",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (V): Brüderchen und Schwesterchen",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Brüderchen und Schwesterchen",
+          "beschriftung": "Brüderchen und Schwesterchen",
+          "haupt": false,
+          "artikel": "Brüderchen und Schwesterchen",
+          "wikidata": "Q513544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1548",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (V): Brüderchen und Schwesterchen",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Brüderchen und Schwesterchen",
+          "beschriftung": "Brüderchen und Schwesterchen",
+          "haupt": false,
+          "artikel": "Brüderchen und Schwesterchen",
+          "wikidata": "Q513544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1549",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-17",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (V): Brüderchen und Schwesterchen",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Brüderchen und Schwesterchen",
+          "beschriftung": "Brüderchen und Schwesterchen",
+          "haupt": false,
+          "artikel": "Brüderchen und Schwesterchen",
+          "wikidata": "Q513544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1550",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Märchen (V): Brüderchen und Schwesterchen",
+      "bild_beschreibung": "Szene aus dem Märchen",
+      "entwerfer": "Erika Bläser und Gerhard Bläser",
+      "auflage": 2500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "beschriftung": "Märchen",
+          "haupt": true,
+          "artikel": "Märchenmotive auf Kleinbogen der Deutschen Post der DDR",
+          "wikidata": "Q1957396"
+        },
+        {
+          "titel": "Brüderchen und Schwesterchen",
+          "beschriftung": "Brüderchen und Schwesterchen",
+          "haupt": false,
+          "artikel": "Brüderchen und Schwesterchen",
+          "wikidata": "Q513544"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1551",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Koordinatenschalterzentrale „ATZ 65“",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Koordinatenschalter",
+          "beschriftung": "Koordinatenschalter",
+          "haupt": true,
+          "artikel": "Koordinatenschalter",
+          "wikidata": "Q1929149"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1552",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-02-24",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Hochspannungs-Prüftransformator",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hochspannung",
+          "beschriftung": "Hochspannung",
+          "haupt": true,
+          "artikel": "Hochspannung",
+          "wikidata": "Q1139740"
+        },
+        {
+          "titel": "transformator",
+          "beschriftung": "transformator",
+          "haupt": false,
+          "artikel": "Transformator",
+          "wikidata": "Q11658"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1553",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-10",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Funde im Landesmuseum Halle",
+      "bild_beschreibung": "Reiterstein (um 700); Fundort Hornhausen, Kreis Oschersleben",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reiterstein von Hornhausen",
+          "beschriftung": "Reiterstein",
+          "haupt": true,
+          "artikel": "Reiterstein von Hornhausen",
+          "wikidata": "Q2142155"
+        },
+        {
+          "titel": "Hornhausen",
+          "beschriftung": "Hornhausen",
+          "haupt": false,
+          "artikel": "Hornhausen",
+          "wikidata": "Q585774"
+        },
+        {
+          "titel": "Kreis Oschersleben",
+          "beschriftung": "Kreis Oschersleben",
+          "haupt": false,
+          "artikel": "Kreis Oschersleben",
+          "wikidata": "Q1787439"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische Funde",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Landesmuseum für Vorgeschichte (Halle)",
+          "beschriftung": "Landesmuseum Halle",
+          "haupt": false,
+          "artikel": "Landesmuseum für Vorgeschichte (Halle (Saale))",
+          "wikidata": "Q1332407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1554",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-10",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Funde im Landesmuseum Halle",
+      "bild_beschreibung": "Spangenhelm (um 500); Stößen, Kreis Hohenmölsen",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Spangenhelm",
+          "beschriftung": "Spangenhelm",
+          "haupt": true,
+          "artikel": "Spangenhelm",
+          "wikidata": "Q1301485"
+        },
+        {
+          "titel": "Stößen",
+          "beschriftung": "Stößen",
+          "haupt": false,
+          "artikel": "Stößen",
+          "wikidata": "Q550848"
+        },
+        {
+          "titel": "Kreis Hohenmölsen",
+          "beschriftung": "Kreis Hohenmölsen",
+          "haupt": false,
+          "artikel": "Kreis Hohenmölsen",
+          "wikidata": "Q1787339"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische Funde",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Landesmuseum für Vorgeschichte (Halle)",
+          "beschriftung": "Landesmuseum Halle",
+          "haupt": false,
+          "artikel": "Landesmuseum für Vorgeschichte (Halle (Saale))",
+          "wikidata": "Q1332407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1555",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-10",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Funde im Landesmuseum Halle",
+      "bild_beschreibung": "Bronzebecken (um 1000 v. Chr.); Schadeleben, Kreis Aschersleben",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bronze",
+          "beschriftung": "Bronze",
+          "haupt": true,
+          "artikel": "Bronze",
+          "wikidata": "Q34095"
+        },
+        {
+          "titel": "Schadeleben",
+          "beschriftung": "Schadeleben",
+          "haupt": false,
+          "artikel": "Schadeleben",
+          "wikidata": "Q703801"
+        },
+        {
+          "titel": "Kreis Aschersleben",
+          "beschriftung": "Kreis Aschersleben",
+          "haupt": false,
+          "artikel": "Kreis Aschersleben",
+          "wikidata": "Q1232133"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische Funde",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Landesmuseum für Vorgeschichte (Halle)",
+          "beschriftung": "Landesmuseum Halle",
+          "haupt": false,
+          "artikel": "Landesmuseum für Vorgeschichte (Halle (Saale))",
+          "wikidata": "Q1332407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1556",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-03-10",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Funde im Landesmuseum Halle",
+      "bild_beschreibung": "Tontrommel (um 2500 v. Chr.); Leuna-Rössen, Kreis Merseburg",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "trommel",
+          "beschriftung": "trommel",
+          "haupt": true,
+          "artikel": "Trommel",
+          "wikidata": "Q11404"
+        },
+        {
+          "titel": "Rössen",
+          "beschriftung": "Leuna-Rössen",
+          "haupt": false,
+          "artikel": "Rössen",
+          "wikidata": "Q977138"
+        },
+        {
+          "titel": "Kreis Merseburg",
+          "beschriftung": "Kreis Merseburg",
+          "haupt": false,
+          "artikel": "Kreis Merseburg",
+          "wikidata": "Q1787406"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische Funde",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Landesmuseum für Vorgeschichte (Halle)",
+          "beschriftung": "Landesmuseum Halle",
+          "haupt": false,
+          "artikel": "Landesmuseum für Vorgeschichte (Halle (Saale))",
+          "wikidata": "Q1332407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1557",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "W.I.Lenin, Titelseite der Zeitung Iskra, Setzpult, Schnellpresse",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Iskra (russische Zeitung)",
+          "beschriftung": "Iskra",
+          "haupt": true,
+          "artikel": "Iskra (russische Zeitung)",
+          "wikidata": "Q219560"
+        },
+        {
+          "titel": "Schriftsetzer",
+          "beschriftung": "Setzpult",
+          "haupt": false,
+          "artikel": "Schriftsetzer",
+          "wikidata": "Q4108101"
+        },
+        {
+          "titel": "Schnellpresse",
+          "beschriftung": "Schnellpresse",
+          "haupt": false,
+          "artikel": "Schnellpresse",
+          "wikidata": "Q2247866"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1558",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-16",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "W.I.Lenin, Clara Zetkin",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Clara Zetkin",
+          "beschriftung": "Clara Zetkin",
+          "haupt": true,
+          "artikel": "Clara Zetkin",
+          "wikidata": "Q75823"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1559",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-16",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "W.I.Lenin; Titelblatt seines Werkes Staat und Revolution",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1700000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1559.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Staat und Revolution",
+          "beschriftung": "Staat und Revolution",
+          "haupt": true,
+          "artikel": "Staat und Revolution",
+          "wikidata": "Q509209"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1560",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-16",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "Lenin-Denkmal, Eisleben",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Lenindenkmal (Eisleben)",
+          "beschriftung": "Lenin-Denkmal",
+          "haupt": true,
+          "artikel": "Lenindenkmal (Eisleben)",
+          "wikidata": "Q1817739"
+        },
+        {
+          "titel": "Eisleben",
+          "beschriftung": "Eisleben",
+          "haupt": false,
+          "artikel": "Lutherstadt Eisleben",
+          "wikidata": "Q484870"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1561",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-16",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "Leninplatz und Lenin-Denkmal, Berlin",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Platz der Vereinten Nationen (Berlin)",
+          "beschriftung": "Leninplatz",
+          "haupt": true,
+          "artikel": "Platz der Vereinten Nationen (Berlin)",
+          "wikidata": "Q1820498"
+        },
+        {
+          "titel": "Lenindenkmal (Berlin)",
+          "beschriftung": "Lenin-Denkmal",
+          "haupt": false,
+          "artikel": "Lenindenkmal (Berlin)",
+          "wikidata": "Q106610246"
+        },
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": false,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1562",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-16",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "100. Geburtstag von Wladimir Iljitsch Lenin",
+      "bild_beschreibung": "Lenin mit einer Ausgabe der Prawda (Diese Marke wurde nur als Briefmarkenblock ausgegeben); W.I.Lenin",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1700000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1562.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Prawda",
+          "beschriftung": "Prawda",
+          "haupt": true,
+          "artikel": "Prawda",
+          "wikidata": "Q183644"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Wladimir Iljitsch Lenin",
+          "beschriftung": "Wladimir Iljitsch Lenin",
+          "haupt": false,
+          "artikel": "Wladimir Iljitsch Lenin",
+          "wikidata": "Q1394"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1563",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte heimische Pflanzen (III)",
+      "bild_beschreibung": "Seekohl (Crambe maritima)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echter Meerkohl",
+          "beschriftung": "Seekohl",
+          "haupt": true,
+          "artikel": "Echter Meerkohl",
+          "wikidata": "Q165299"
+        },
+        {
+          "titel": "Geschützte heimische Pflanzen",
+          "beschriftung": "Geschützte heimische Pflanzen",
+          "haupt": false,
+          "artikel": "Geschützte heimische Pflanzen",
+          "wikidata": "Q1518279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1564",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte heimische Pflanzen (III)",
+      "bild_beschreibung": "Aufrechte Kuh- oder Küchenschelle (Pulsatilla vulgaris)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewöhnliche Kuhschelle",
+          "beschriftung": "Aufrechte Kuh- oder Küchenschelle",
+          "haupt": true,
+          "artikel": "Gewöhnliche Kuhschelle",
+          "wikidata": "Q148623"
+        },
+        {
+          "titel": "Geschützte heimische Pflanzen",
+          "beschriftung": "Geschützte heimische Pflanzen",
+          "haupt": false,
+          "artikel": "Geschützte heimische Pflanzen",
+          "wikidata": "Q1518279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1565",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte heimische Pflanzen (III)",
+      "bild_beschreibung": "Fransenenzian (Gentiana ciliata)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewöhnlicher Fransenenzian",
+          "beschriftung": "Fransenenzian",
+          "haupt": true,
+          "artikel": "Gewöhnlicher Fransenenzian",
+          "wikidata": "Q159482"
+        },
+        {
+          "titel": "Geschützte heimische Pflanzen",
+          "beschriftung": "Geschützte heimische Pflanzen",
+          "haupt": false,
+          "artikel": "Geschützte heimische Pflanzen",
+          "wikidata": "Q1518279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1566",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-28",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte heimische Pflanzen (III)",
+      "bild_beschreibung": "Helmknabenkraut (Orchis militaris)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Helm-Knabenkraut",
+          "beschriftung": "Helmknabenkraut",
+          "haupt": true,
+          "artikel": "Helm-Knabenkraut",
+          "wikidata": "Q162755"
+        },
+        {
+          "titel": "Geschützte heimische Pflanzen",
+          "beschriftung": "Geschützte heimische Pflanzen",
+          "haupt": false,
+          "artikel": "Geschützte heimische Pflanzen",
+          "wikidata": "Q1518279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1567",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-28",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte heimische Pflanzen (III)",
+      "bild_beschreibung": "Sumpfporst (Ledum palustre)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sumpfporst",
+          "beschriftung": "Sumpfporst",
+          "haupt": true,
+          "artikel": "Sumpfporst",
+          "wikidata": "Q247714"
+        },
+        {
+          "titel": "Geschützte heimische Pflanzen",
+          "beschriftung": "Geschützte heimische Pflanzen",
+          "haupt": false,
+          "artikel": "Geschützte heimische Pflanzen",
+          "wikidata": "Q1518279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1568",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-04-28",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Geschützte heimische Pflanzen (III)",
+      "bild_beschreibung": "Rundblättriges Wintergrün (Pyrola rotundifolia)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rundblättriges Wintergrün",
+          "beschriftung": "Rundblättriges Wintergrün",
+          "haupt": true,
+          "artikel": "Rundblättriges Wintergrün",
+          "wikidata": "Q692248"
+        },
+        {
+          "titel": "Geschützte heimische Pflanzen",
+          "beschriftung": "Geschützte heimische Pflanzen",
+          "haupt": false,
+          "artikel": "Geschützte heimische Pflanzen",
+          "wikidata": "Q1518279"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1569",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-05",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Soldat der Roten Armee hisst die sowjetische Flagge auf dem Reichstagsgebäude; Motiv nach dem Foto Auf dem Berliner Reichstag, 2. Mai 1945 von Jewgeni Chaldej.",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rote Armee",
+          "beschriftung": "Roten Armee",
+          "haupt": true,
+          "artikel": "Rote Armee",
+          "wikidata": "Q251395"
+        },
+        {
+          "titel": "Reichstagsgebäude",
+          "beschriftung": "Reichstagsgebäude",
+          "haupt": false,
+          "artikel": "Reichstagsgebäude",
+          "wikidata": "Q151897"
+        },
+        {
+          "titel": "Auf dem Berliner Reichstag, 2. Mai 1945",
+          "beschriftung": "Auf dem Berliner Reichstag, 2. Mai 1945",
+          "haupt": false,
+          "artikel": "Auf dem Berliner Reichstag, 2. Mai 1945",
+          "wikidata": "Q702665"
+        },
+        {
+          "titel": "Jewgeni Ananjewitsch Chaldej",
+          "beschriftung": "Jewgeni Chaldej",
+          "haupt": false,
+          "artikel": "Jewgeni Ananjewitsch Chaldei",
+          "wikidata": "Q361163"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1570",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-05",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Titel der Zeitung Neues Deutschland; Kremlturm, Moskau;Portal des Staatsratsgebäude, Berlin; Staatswappen der DDR und der UdSSR",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Deutschland",
+          "beschriftung": "Neues Deutschland",
+          "haupt": true,
+          "artikel": "Nd",
+          "wikidata": "Q158547"
+        },
+        {
+          "titel": "Mauer und Türme des Moskauer Kremls",
+          "beschriftung": "Kremlturm",
+          "haupt": false,
+          "artikel": "Mauer und Türme des Moskauer Kremls",
+          "wikidata": "Q747658"
+        },
+        {
+          "titel": "Staatsratsgebäude",
+          "beschriftung": "Staatsratsgebäude",
+          "haupt": false,
+          "artikel": "Staatsratsgebäude",
+          "wikidata": "Q318235"
+        },
+        {
+          "titel": "Staatswappen",
+          "beschriftung": "Staatswappen",
+          "haupt": false,
+          "artikel": "Staatswappen",
+          "wikidata": "Q645466"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        },
+        {
+          "titel": "Staatswappen der Sowjetunion",
+          "beschriftung": "UdSSR",
+          "haupt": false,
+          "artikel": "Staatswappen der Sowjetunion",
+          "wikidata": "Q189925"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1571",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-05",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Gebäude des Rates für Gegenseitige Wirtschaftshilfe, Moskau; Flaggen der Mitgliedsländer",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 1900000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rat für gegenseitige Wirtschaftshilfe",
+          "beschriftung": "Rates für Gegenseitige Wirtschaftshilfe",
+          "haupt": true,
+          "artikel": "Rat für gegenseitige Wirtschaftshilfe",
+          "wikidata": "Q191582"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1572",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-05",
+      "wert": "70",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Befreiung vom Faschismus",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Figurengruppe in der Mahn- und Gedenkstätte Buchenwald von Fritz Cremer",
+      "entwerfer": "Karl Sauer und Gerhard Stauf",
+      "auflage": 2000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "KZ Buchenwald",
+          "beschriftung": "Mahn- und Gedenkstätte Buchenwald",
+          "haupt": true,
+          "artikel": "KZ Buchenwald",
+          "wikidata": "Q152802"
+        },
+        {
+          "titel": "Fritz Cremer",
+          "beschriftung": "Fritz Cremer",
+          "haupt": false,
+          "artikel": "Fritz Cremer",
+          "wikidata": "Q529593"
+        },
+        {
+          "titel": "Tag der Befreiung",
+          "beschriftung": "Befreiung vom Faschismus",
+          "haupt": false,
+          "artikel": "Tag der Befreiung",
+          "wikidata": "Q93617893"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1573",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-13",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Demokratischer Rundfunk",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck ausgegeben:; Kurzwellenantenne, Abzeichen von Radio Berlin International, Erdkugel",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kurzwelle",
+          "beschriftung": "Kurzwelle",
+          "haupt": true,
+          "artikel": "Kurzwelle",
+          "wikidata": "Q15115271"
+        },
+        {
+          "titel": "Radio Berlin International",
+          "beschriftung": "Radio Berlin International",
+          "haupt": false,
+          "artikel": "Radio Berlin International",
+          "wikidata": "Q675403"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Erdkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Rundfunk der DDR",
+          "beschriftung": "Deutscher Demokratischer Rundfunk",
+          "haupt": false,
+          "artikel": "Rundfunk der DDR",
+          "wikidata": "Q565566"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1574",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-13",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Demokratischer Rundfunk",
+      "bild_beschreibung": "Funkhaus des Deutschen Rundfunks in Berlin, Abzeichen des Berliner Rundfunks, von Radio DDR I/II und des Deutschlandsenders",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Funkhaus Nalepastraße",
+          "beschriftung": "Funkhaus des Deutschen Rundfunks",
+          "haupt": true,
+          "artikel": "Funkhaus Nalepastraße",
+          "wikidata": "Q1474428"
+        },
+        {
+          "titel": "Berliner Rundfunk",
+          "beschriftung": "Berliner Rundfunk",
+          "haupt": false,
+          "artikel": "Berliner Rundfunk",
+          "wikidata": "Q314023"
+        },
+        {
+          "titel": "Radio DDR I",
+          "beschriftung": "Radio DDR I",
+          "haupt": false,
+          "artikel": "Radio DDR I",
+          "wikidata": "Q314011"
+        },
+        {
+          "titel": "Radio DDR II",
+          "beschriftung": "II",
+          "haupt": false,
+          "artikel": "Radio DDR II",
+          "wikidata": "Q2126042"
+        },
+        {
+          "titel": "Deutschlandsender",
+          "beschriftung": "Deutschlandsender",
+          "haupt": false,
+          "artikel": "Deutschlandsender",
+          "wikidata": "Q1206369"
+        },
+        {
+          "titel": "Rundfunk der DDR",
+          "beschriftung": "Deutscher Demokratischer Rundfunk",
+          "haupt": false,
+          "artikel": "Rundfunk der DDR",
+          "wikidata": "Q565566"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1575",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-19",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Welt-Getreide- und Brotkongress, Dresden",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Ähre, Erdkugel",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ähre",
+          "beschriftung": "Ähre",
+          "haupt": true,
+          "artikel": "Ähre",
+          "wikidata": "Q123786564"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Erdkugel",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        },
+        {
+          "titel": "Welt-Getreide- und Brotkongress",
+          "beschriftung": "Welt-Getreide- und Brotkongress",
+          "haupt": false,
+          "artikel": "Welt-Getreide- und Brotkongress",
+          "wikidata": null
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1576",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-05-19",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Welt-Getreide- und Brotkongress, Dresden",
+      "bild_beschreibung": "Ähre vor Kulturpalast Dresden",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kulturpalast (Dresden)",
+          "beschriftung": "Kulturpalast Dresden",
+          "haupt": true,
+          "artikel": "Kulturpalast (Dresden)",
+          "wikidata": "Q1791798"
+        },
+        {
+          "titel": "Welt-Getreide- und Brotkongress",
+          "beschriftung": "Welt-Getreide- und Brotkongress",
+          "haupt": false,
+          "artikel": "Welt-Getreide- und Brotkongress",
+          "wikidata": null
+        },
+        {
+          "titel": "Dresden",
+          "beschriftung": "Dresden",
+          "haupt": false,
+          "artikel": "Dresden",
+          "wikidata": "Q1731"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1577",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-09",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Freier Deutscher Gewerkschaftsbund (FDGB); 25 Jahre Weltgewerkschaftsbund (WGB)",
+      "bild_beschreibung": "Fritz-Heckert-Medaille, Abzeichen des FDGB",
+      "entwerfer": "Axel Bengs",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fritz-Heckert-Medaille",
+          "beschriftung": "Fritz-Heckert-Medaille",
+          "haupt": true,
+          "artikel": "Fritz-Heckert-Medaille",
+          "wikidata": "Q1465374"
+        },
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freier Deutscher Gewerkschaftsbund",
+          "haupt": false,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Weltgewerkschaftsbund",
+          "beschriftung": "Weltgewerkschaftsbund",
+          "haupt": false,
+          "artikel": "Weltgewerkschaftsbund",
+          "wikidata": "Q748999"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1578",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-09",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Freier Deutscher Gewerkschaftsbund (FDGB); 25 Jahre Weltgewerkschaftsbund (WGB)",
+      "bild_beschreibung": "Abzeichen des WGB",
+      "entwerfer": "Axel Bengs",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freier Deutscher Gewerkschaftsbund",
+          "beschriftung": "Freier Deutscher Gewerkschaftsbund",
+          "haupt": true,
+          "artikel": "Freier Deutscher Gewerkschaftsbund",
+          "wikidata": "Q694238"
+        },
+        {
+          "titel": "Weltgewerkschaftsbund",
+          "beschriftung": "Weltgewerkschaftsbund",
+          "haupt": false,
+          "artikel": "Weltgewerkschaftsbund",
+          "wikidata": "Q748999"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1579",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Volkspolizei",
+      "bild_beschreibung": "Verkehrsüberwachung durch Motorradstreife",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Verkehrsüberwachung",
+          "beschriftung": "Verkehrsüberwachung",
+          "haupt": true,
+          "artikel": "Verkehrsüberwachung",
+          "wikidata": "Q2516531"
+        },
+        {
+          "titel": "Streifendienst",
+          "beschriftung": "Motorradstreife",
+          "haupt": false,
+          "artikel": "Streifendienst",
+          "wikidata": "Q11379765"
+        },
+        {
+          "titel": "Deutsche Volkspolizei",
+          "beschriftung": "Deutsche Volkspolizei",
+          "haupt": false,
+          "artikel": "Deutsche Volkspolizei",
+          "wikidata": "Q56040"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1580",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Volkspolizei",
+      "bild_beschreibung": "Volkspolizistin, Kinder",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsche Volkspolizei",
+          "beschriftung": "Deutsche Volkspolizei",
+          "haupt": true,
+          "artikel": "Deutsche Volkspolizei",
+          "wikidata": "Q56040"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1581",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Volkspolizei",
+      "bild_beschreibung": "Funkstreifenwagen GAZ M-21 Wolga",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "GAZ M-21 Wolga",
+          "beschriftung": "GAZ M-21 Wolga",
+          "haupt": true,
+          "artikel": "GAZ M-21 Wolga",
+          "wikidata": "Q1922450"
+        },
+        {
+          "titel": "Deutsche Volkspolizei",
+          "beschriftung": "Deutsche Volkspolizei",
+          "haupt": false,
+          "artikel": "Deutsche Volkspolizei",
+          "wikidata": "Q56040"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1582",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Volkspolizei",
+      "bild_beschreibung": "Transportpolizist mit Funksprechgerät vor Schnelltriebzug VT 175",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Transportpolizei",
+          "beschriftung": "Transportpolizist",
+          "haupt": true,
+          "artikel": "Transportpolizei",
+          "wikidata": "Q896886"
+        },
+        {
+          "titel": "Funkgerät",
+          "beschriftung": "Funksprechgerät",
+          "haupt": false,
+          "artikel": "Funkgerät",
+          "wikidata": "Q1474418"
+        },
+        {
+          "titel": "DR-Baureihe VT 18.16",
+          "beschriftung": "VT 175",
+          "haupt": false,
+          "artikel": "DR-Baureihe VT 18.16",
+          "wikidata": "Q125206"
+        },
+        {
+          "titel": "Deutsche Volkspolizei",
+          "beschriftung": "Deutsche Volkspolizei",
+          "haupt": false,
+          "artikel": "Deutsche Volkspolizei",
+          "wikidata": "Q56040"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1583",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutsche Volkspolizei",
+      "bild_beschreibung": "Tragflächenboot Typ Wolga der Wasserschutzpolizei",
+      "entwerfer": "Hilmar Zill",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wasserschutzpolizei",
+          "beschriftung": "Wasserschutzpolizei",
+          "haupt": true,
+          "artikel": "Wasserschutzpolizei",
+          "wikidata": "Q17152819"
+        },
+        {
+          "titel": "Deutsche Volkspolizei",
+          "beschriftung": "Deutsche Volkspolizei",
+          "haupt": false,
+          "artikel": "Deutsche Volkspolizei",
+          "wikidata": "Q56040"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1584",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Motive aus dem Löwentempel in Mussawwarat, Sudan; Die Götter Amun, Schu und Tefnut",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Löwentempel",
+          "beschriftung": "Löwentempel",
+          "haupt": true,
+          "artikel": "Löwentempel",
+          "wikidata": null
+        },
+        {
+          "titel": "al-Musawwarat as-sufra",
+          "beschriftung": "Mussawwarat",
+          "haupt": false,
+          "artikel": "Al-Musawwarat as-sufra",
+          "wikidata": "Q286426"
+        },
+        {
+          "titel": "Sudan",
+          "beschriftung": "Sudan",
+          "haupt": false,
+          "artikel": "Sudan",
+          "wikidata": "Q1049"
+        },
+        {
+          "titel": "Amun",
+          "beschriftung": "Amun",
+          "haupt": false,
+          "artikel": "Amun",
+          "wikidata": "Q58373"
+        },
+        {
+          "titel": "Schu",
+          "beschriftung": "Schu",
+          "haupt": false,
+          "artikel": "Schu",
+          "wikidata": "Q170138"
+        },
+        {
+          "titel": "Tefnut",
+          "beschriftung": "Tefnut",
+          "haupt": false,
+          "artikel": "Tefnut",
+          "wikidata": "Q116273"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1585",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Kopfbild des Königs Arnekhamani",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arnekhamani",
+          "beschriftung": "Arnekhamani",
+          "haupt": true,
+          "artikel": "Arnekhamani",
+          "wikidata": "Q693169"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1586",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Rinderfries (Detail)",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hausrind",
+          "beschriftung": "Rinderfries",
+          "haupt": true,
+          "artikel": "Hausrind",
+          "wikidata": "Q830"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1587",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Kopfbild des Prinzen Arka",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": true,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1588",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Gott Arensnuphis",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Arensnuphis",
+          "beschriftung": "Arensnuphis",
+          "haupt": true,
+          "artikel": "Arensnuphis",
+          "wikidata": "Q499413"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1589",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Gezähmte Kriegselefanten, Gefangene",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kriegselefant",
+          "beschriftung": "Kriegselefant",
+          "haupt": true,
+          "artikel": "Kriegselefant",
+          "wikidata": "Q223694"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1590",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-06-23",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Archäologische Forschung der Humboldt-Universität Berlin",
+      "bild_beschreibung": "Kopfbild des Löwengottes Apedemak",
+      "entwerfer": "Jochen Bertholdt",
+      "auflage": 3000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Apedemak",
+          "beschriftung": "Apedemak",
+          "haupt": true,
+          "artikel": "Apedemak",
+          "wikidata": "Q618126"
+        },
+        {
+          "titel": "Archäologie",
+          "beschriftung": "Archäologische",
+          "haupt": false,
+          "artikel": "Archäologie",
+          "wikidata": "Q23498"
+        },
+        {
+          "titel": "Humboldt-Universität zu Berlin",
+          "beschriftung": "Humboldt-Universität Berlin",
+          "haupt": false,
+          "artikel": "Humboldt-Universität zu Berlin",
+          "wikidata": "Q152087"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1591",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "20 Jahre Görlitzer Abkommen über die Oder-Neisse-Friedensgrenze",
+      "bild_beschreibung": "Staatswappen der DDR und Polens, Fahnenband",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 4500000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Görlitzer Abkommen",
+          "beschriftung": "Görlitzer Abkommen",
+          "haupt": true,
+          "artikel": "Görlitzer Abkommen",
+          "wikidata": "Q684485"
+        },
+        {
+          "titel": "Staatswappen der Deutschen Demokratischen Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Staatswappen der Deutschen Demokratischen Republik",
+          "wikidata": "Q48168"
+        },
+        {
+          "titel": "Wappen Polens",
+          "beschriftung": "Polens",
+          "haupt": false,
+          "artikel": "Wappen Polens",
+          "wikidata": "Q170496"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1592",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Kulturbund (DKB)",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck mit einem dazwischenliegenden Zierfeld ausgegeben:; Ehrennadel für 20-jährige Mitgliedschaft",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ehrennadel",
+          "beschriftung": "Ehrennadel",
+          "haupt": true,
+          "artikel": "Anstecknadel",
+          "wikidata": "Q213426"
+        },
+        {
+          "titel": "Kulturbund der DDR",
+          "beschriftung": "Deutscher Kulturbund",
+          "haupt": false,
+          "artikel": "Kulturbund der DDR",
+          "wikidata": "Q695933"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1593",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Deutscher Kulturbund (DKB)",
+      "bild_beschreibung": "Johannes-R.-Becher-Medaille",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johannes-R.-Becher-Medaille",
+          "beschriftung": "Johannes-R.-Becher-Medaille",
+          "haupt": true,
+          "artikel": "Johannes-R.-Becher-Medaille",
+          "wikidata": "Q1697119"
+        },
+        {
+          "titel": "Kulturbund der DDR",
+          "beschriftung": "Deutscher Kulturbund",
+          "haupt": false,
+          "artikel": "Kulturbund der DDR",
+          "wikidata": "Q695933"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1594",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-14",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade",
+      "bild_beschreibung": "Turnen am Seitpferd",
+      "entwerfer": "Axel Bengs",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Turnen",
+          "beschriftung": "Turnen",
+          "haupt": true,
+          "artikel": "Turnen",
+          "wikidata": "Q43450"
+        },
+        {
+          "titel": "Pauschenpferd",
+          "beschriftung": "Seitpferd",
+          "haupt": false,
+          "artikel": "Pauschenpferd",
+          "wikidata": "Q840330"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1595",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-14",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kinder- und Jugendspartakiade",
+      "bild_beschreibung": "Hürdenlauf",
+      "entwerfer": "Axel Bengs",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hürdenlauf",
+          "beschriftung": "Hürdenlauf",
+          "haupt": true,
+          "artikel": "Hürdenlauf",
+          "wikidata": "Q537769"
+        },
+        {
+          "titel": "Kinder- und Jugendspartakiade",
+          "beschriftung": "Kinder- und Jugendspartakiade",
+          "haupt": false,
+          "artikel": "Kinder- und Jugendspartakiade",
+          "wikidata": "Q97286042"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1596",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-28",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Pioniertreffen, Cottbus",
+      "bild_beschreibung": "Die folgenden zwei Marken wurden als Zusammendruck ausgegeben:; Junge und Mädchen mit zusammengeknüpften Pionier-Halstüchern",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pionier-Halstüchern",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Cottbus",
+          "beschriftung": "Cottbus",
+          "haupt": false,
+          "artikel": "Cottbus",
+          "wikidata": "Q3214"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1597",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-28",
+      "wert": "25+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Pioniertreffen, Cottbus",
+      "bild_beschreibung": "Junge und Mädchen mit zusammengeknüpften Pionier-Halstüchern",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pionierorganisation Ernst Thälmann",
+          "beschriftung": "Pioniertreffen",
+          "haupt": true,
+          "artikel": "Pionierorganisation Ernst Thälmann",
+          "wikidata": "Q333403"
+        },
+        {
+          "titel": "Cottbus",
+          "beschriftung": "Cottbus",
+          "haupt": false,
+          "artikel": "Cottbus",
+          "wikidata": "Q3214"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1598",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-28",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Unterzeichnung des Potsdamer Abkommens",
+      "bild_beschreibung": "Die folgenden drei Marken wurden als Zusammendruck ausgegeben:; Innenhof des Schlosses Cecilienhof, Potsdam",
+      "entwerfer": "Bernd Steinwendner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1598.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Cecilienhof",
+          "beschriftung": "Schlosses Cecilienhof",
+          "haupt": true,
+          "artikel": "Cecilienhof",
+          "wikidata": "Q321783"
+        },
+        {
+          "titel": "Potsdam",
+          "beschriftung": "Potsdam",
+          "haupt": false,
+          "artikel": "Potsdam",
+          "wikidata": "Q1711"
+        },
+        {
+          "titel": "Potsdamer Abkommen",
+          "beschriftung": "Potsdamer Abkommens",
+          "haupt": false,
+          "artikel": "Potsdamer Abkommen",
+          "wikidata": "Q277476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1599",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-28",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Unterzeichnung des Potsdamer Abkommens",
+      "bild_beschreibung": "Titelseite der Broschüre „Potsdamer Abkommen, Dokumente zur Deutschlandfrage“",
+      "entwerfer": "Bernd Steinwendner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1599.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Potsdamer Abkommen",
+          "beschriftung": "Potsdamer Abkommens",
+          "haupt": true,
+          "artikel": "Potsdamer Abkommen",
+          "wikidata": "Q277476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1600",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-07-28",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25. Jahrestag der Unterzeichnung des Potsdamer Abkommens",
+      "bild_beschreibung": "Delegationen der UdSSR, Großbritanniens und der USA während der Konferenz",
+      "entwerfer": "Bernd Steinwendner",
+      "auflage": 4000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1600.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sowjetunion",
+          "beschriftung": "UdSSR",
+          "haupt": true,
+          "artikel": "Sowjetunion",
+          "wikidata": "Q15180"
+        },
+        {
+          "titel": "Vereinigtes Königreich",
+          "beschriftung": "Großbritanniens",
+          "haupt": false,
+          "artikel": "Vereinigtes Königreich",
+          "wikidata": "Q145"
+        },
+        {
+          "titel": "Vereinigte Staaten",
+          "beschriftung": "USA",
+          "haupt": false,
+          "artikel": "Vereinigte Staaten",
+          "wikidata": "Q30"
+        },
+        {
+          "titel": "Potsdamer Abkommen",
+          "beschriftung": "Potsdamer Abkommens",
+          "haupt": false,
+          "artikel": "Potsdamer Abkommen",
+          "wikidata": "Q277476"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1601",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-08-25",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Herrenarmbanduhr Kaliber 74, Kleintaschenuhr Kaliber 78",
+      "entwerfer": "Dietrich Dorfstecher",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        },
+        {
+          "titel": "armbanduhr",
+          "beschriftung": "armbanduhr",
+          "haupt": false,
+          "artikel": "Armbanduhr",
+          "wikidata": "Q26965868"
+        },
+        {
+          "titel": "Kaliber (Uhr)",
+          "beschriftung": "Kaliber",
+          "haupt": false,
+          "artikel": "Kaliber (Uhr)",
+          "wikidata": "Q665240"
+        },
+        {
+          "titel": "taschenuhr",
+          "beschriftung": "taschenuhr",
+          "haupt": false,
+          "artikel": "Taschenuhr",
+          "wikidata": "Q849813"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1602",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-02",
+      "wert": "20+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Unbesiegbares Vietnam (IV)",
+      "bild_beschreibung": "1. Todestag von Präsident Ho Chi Minh (1890–1969), erster Präsident von Nordvietnam",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Unbesiegbares Vietnam",
+          "beschriftung": "Unbesiegbares Vietnam",
+          "haupt": true,
+          "artikel": "Unbesiegbares Vietnam",
+          "wikidata": "Q2492507"
+        },
+        {
+          "titel": "Ho Chi Minh",
+          "beschriftung": "Ho Chi Minh",
+          "haupt": false,
+          "artikel": "Hồ Chí Minh",
+          "wikidata": "Q36014"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1603",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Widerstandskämpfer; Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Theodor Neubauer, Magnus Poser",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Theodor Neubauer",
+          "beschriftung": "Theodor Neubauer",
+          "haupt": true,
+          "artikel": "Theodor Neubauer",
+          "wikidata": "Q121509"
+        },
+        {
+          "titel": "Magnus Poser",
+          "beschriftung": "Magnus Poser",
+          "haupt": false,
+          "artikel": "Magnus Poser",
+          "wikidata": "Q1517575"
+        },
+        {
+          "titel": "Liste von Widerstandskämpfern gegen den Nationalsozialismus",
+          "beschriftung": "Widerstandskämpfer",
+          "haupt": false,
+          "artikel": "Liste von Widerstandskämpfern gegen den Nationalsozialismus",
+          "wikidata": "Q324133"
+        },
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1604",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Widerstandskämpfer; Internationale Mahn- und Gedenkstätten",
+      "bild_beschreibung": "Mutter Heimat, Skulptur des sowjetischen Ehrenmals in Berlin-Treptow",
+      "entwerfer": "Hans Detlefsen",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sowjetisches Ehrenmal (Treptower Park)",
+          "beschriftung": "sowjetischen Ehrenmals in Berlin-Treptow",
+          "haupt": true,
+          "artikel": "Sowjetisches Ehrenmal im Treptower Park",
+          "wikidata": "Q48441"
+        },
+        {
+          "titel": "Liste von Widerstandskämpfern gegen den Nationalsozialismus",
+          "beschriftung": "Widerstandskämpfer",
+          "haupt": false,
+          "artikel": "Liste von Widerstandskämpfern gegen den Nationalsozialismus",
+          "wikidata": "Q324133"
+        },
+        {
+          "titel": "Internationale Mahn- und Gedenkstätten",
+          "beschriftung": "Internationale Mahn- und Gedenkstätten",
+          "haupt": false,
+          "artikel": "Internationale Mahn- und Gedenkstätten",
+          "wikidata": "Q1667377"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1605",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-15",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Orientierungslauf",
+      "bild_beschreibung": "Wettkampfkarte, Sportkompass",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "kompass",
+          "beschriftung": "kompass",
+          "haupt": true,
+          "artikel": "Kompass",
+          "wikidata": "Q34735"
+        },
+        {
+          "titel": "Orientierungslauf-Weltmeisterschaften",
+          "beschriftung": "Weltmeisterschaften im Orientierungslauf",
+          "haupt": false,
+          "artikel": "Orientierungslauf-Weltmeisterschaften",
+          "wikidata": "Q1517419"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1606",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-15",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Weltmeisterschaften im Orientierungslauf",
+      "bild_beschreibung": "Wettkampfkarte, Läufer in verschiedenen Wettkampfphasen",
+      "entwerfer": "Karl-Heinz Bobbe",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Orientierungslauf-Weltmeisterschaften",
+          "beschriftung": "Weltmeisterschaften im Orientierungslauf",
+          "haupt": true,
+          "artikel": "Orientierungslauf-Weltmeisterschaften",
+          "wikidata": "Q1517419"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1607",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-22",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstwoche; Gedenken an Otto Nagel, Käthe Kollwitz und Ernst Barlach",
+      "bild_beschreibung": "Otto Nagel: Der 70. Geburtstag des Waldarbeiters Scharf",
+      "entwerfer": "Klaus Wittkugel und Horst Naumann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunstwoche",
+          "beschriftung": "Kunstwoche",
+          "haupt": true,
+          "artikel": "Kunstwoche",
+          "wikidata": null
+        },
+        {
+          "titel": "Otto Nagel",
+          "beschriftung": "Otto Nagel",
+          "haupt": false,
+          "artikel": "Otto Nagel",
+          "wikidata": "Q69609"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1608",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-22",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstwoche; Gedenken an Otto Nagel, Käthe Kollwitz und Ernst Barlach",
+      "bild_beschreibung": "Otto Nagel: Mädchenbildnis",
+      "entwerfer": "Klaus Wittkugel und Horst Naumann",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunstwoche",
+          "beschriftung": "Kunstwoche",
+          "haupt": true,
+          "artikel": "Kunstwoche",
+          "wikidata": null
+        },
+        {
+          "titel": "Otto Nagel",
+          "beschriftung": "Otto Nagel",
+          "haupt": false,
+          "artikel": "Otto Nagel",
+          "wikidata": "Q69609"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1609",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-22",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstwoche; Gedenken an Otto Nagel, Käthe Kollwitz und Ernst Barlach",
+      "bild_beschreibung": "Käthe Kollwitz: Nie wieder Krieg (Plakat für den Mitteldeutschen Jugendtag 1924 in Leipzig)",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 1700000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1609.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunstwoche",
+          "beschriftung": "Kunstwoche",
+          "haupt": true,
+          "artikel": "Kunstwoche",
+          "wikidata": null
+        },
+        {
+          "titel": "Otto Nagel",
+          "beschriftung": "Otto Nagel",
+          "haupt": false,
+          "artikel": "Otto Nagel",
+          "wikidata": "Q69609"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1610",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-22",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstwoche; Gedenken an Otto Nagel, Käthe Kollwitz und Ernst Barlach",
+      "bild_beschreibung": "Käthe Kollwitz: Mutter mit Kind auf dem Arm",
+      "entwerfer": "Klaus Wittkugel und Horst Naumann",
+      "auflage": 3500000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1610.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunstwoche",
+          "beschriftung": "Kunstwoche",
+          "haupt": true,
+          "artikel": "Kunstwoche",
+          "wikidata": null
+        },
+        {
+          "titel": "Otto Nagel",
+          "beschriftung": "Otto Nagel",
+          "haupt": false,
+          "artikel": "Otto Nagel",
+          "wikidata": "Q69609"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1611",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-22",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstwoche; Gedenken an Otto Nagel, Käthe Kollwitz und Ernst Barlach",
+      "bild_beschreibung": "Ernst Barlach: Kopf des Güstrower Ehrenmals",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der Schwebende",
+          "beschriftung": "Güstrower Ehrenmals",
+          "haupt": true,
+          "artikel": "Der Schwebende",
+          "wikidata": "Q1196796"
+        },
+        {
+          "titel": "Kunstwoche",
+          "beschriftung": "Kunstwoche",
+          "haupt": false,
+          "artikel": "Kunstwoche",
+          "wikidata": null
+        },
+        {
+          "titel": "Otto Nagel",
+          "beschriftung": "Otto Nagel",
+          "haupt": false,
+          "artikel": "Otto Nagel",
+          "wikidata": "Q69609"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1612",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-09-22",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kunstwoche; Gedenken an Otto Nagel, Käthe Kollwitz und Ernst Barlach",
+      "bild_beschreibung": "Ernst Barlach: Der Flötenspieler",
+      "entwerfer": "Klaus Wittkugel",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kunstwoche",
+          "beschriftung": "Kunstwoche",
+          "haupt": true,
+          "artikel": "Kunstwoche",
+          "wikidata": null
+        },
+        {
+          "titel": "Otto Nagel",
+          "beschriftung": "Otto Nagel",
+          "haupt": false,
+          "artikel": "Otto Nagel",
+          "wikidata": "Q69609"
+        },
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": false,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Ernst Barlach",
+          "beschriftung": "Ernst Barlach",
+          "haupt": false,
+          "artikel": "Ernst Barlach",
+          "wikidata": "Q156890"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1613",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Briefmarkenausstellung der Jugend, Chemnitz (Karl-Marx-Stadt)",
+      "bild_beschreibung": "Der kleine Trompeter; Fritz-Weineck-Denkmal in Halle",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Der kleine Trompeter",
+          "beschriftung": "Der kleine Trompeter",
+          "haupt": true,
+          "artikel": "Der kleine Trompeter",
+          "wikidata": "Q1199282"
+        },
+        {
+          "titel": "Friedrich August Weineck",
+          "beschriftung": "Fritz-Weineck",
+          "haupt": false,
+          "artikel": "Friedrich August Weineck",
+          "wikidata": "Q1458254"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1614",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-01",
+      "wert": "15+5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "2. Briefmarkenausstellung der Jugend, Chemnitz (Karl-Marx-Stadt)",
+      "bild_beschreibung": "Briefmarke der DDR 1950, Mi.-Nr. 726",
+      "entwerfer": "Gerhard Voigt",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Briefmarken-Jahrgang 1959 der Deutschen Post der DDR",
+          "beschriftung": "1950",
+          "haupt": true,
+          "artikel": "Briefmarken-Jahrgang 1959 der Deutschen Post der DDR",
+          "wikidata": "Q914460"
+        },
+        {
+          "titel": "Chemnitz",
+          "beschriftung": "Chemnitz",
+          "haupt": false,
+          "artikel": "Chemnitz",
+          "wikidata": "Q2795"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1615",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-01",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Manöver Waffenbrüderschaft",
+      "bild_beschreibung": "Emblem des Herbstmanövers des Warschauer Paktes auf dem Territorium der DDR",
+      "entwerfer": "Klaus Bernsdorf und Horst Wende",
+      "auflage": 6000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Warschauer Pakt",
+          "beschriftung": "Warschauer Pakt",
+          "haupt": true,
+          "artikel": "Warschauer Pakt",
+          "wikidata": "Q41644"
+        },
+        {
+          "titel": "Deutsche Demokratische Republik",
+          "beschriftung": "DDR",
+          "haupt": false,
+          "artikel": "Deutsche Demokratische Republik",
+          "wikidata": "Q16957"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1616",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Manöver Waffenbrüderschaft",
+      "bild_beschreibung": "Emblem des Herbstmanövers des Warschauer Paktes auf dem Territorium der DDR",
+      "entwerfer": "Klaus Bernsdorf und Horst Wende",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "1617",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Moschusochse (Ovibos moschatus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Moschusochse",
+          "beschriftung": "Moschusochse",
+          "haupt": true,
+          "artikel": "Moschusochse",
+          "wikidata": "Q184004"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1618",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Schuhschnabel (Balaeniceps rex)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 4000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schuhschnabel",
+          "beschriftung": "Schuhschnabel",
+          "haupt": true,
+          "artikel": "Schuhschnabel",
+          "wikidata": "Q18700"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1619",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Mendesantilope (Addax nasomaculatus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mendesantilope",
+          "beschriftung": "Mendesantilope",
+          "haupt": true,
+          "artikel": "Mendesantilope",
+          "wikidata": "Q190154"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1620",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-06",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Tierpark Berlin",
+      "bild_beschreibung": "Malaienbär (Helarctos malayanus)",
+      "entwerfer": "Horst Naumann",
+      "auflage": 1700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Malaienbär",
+          "beschriftung": "Malaienbär",
+          "haupt": true,
+          "artikel": "Malaienbär",
+          "wikidata": "Q144923"
+        },
+        {
+          "titel": "Tierpark Berlin",
+          "beschriftung": "Tierpark Berlin",
+          "haupt": false,
+          "artikel": "Tierpark Berlin",
+          "wikidata": "Q702771"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1621",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-10-20",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "25 Jahre Vereinte Nationen (UNO)",
+      "bild_beschreibung": "UNO-Gebäude in New York, Emblem",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Vereinte Nationen",
+          "beschriftung": "Vereinte Nationen",
+          "haupt": true,
+          "artikel": "Vereinte Nationen",
+          "wikidata": "Q1065"
+        },
+        {
+          "titel": "UN-Hauptquartier",
+          "beschriftung": "UNO-Gebäude",
+          "haupt": false,
+          "artikel": "UNO-Hauptquartier",
+          "wikidata": "Q11297"
+        },
+        {
+          "titel": "New York City",
+          "beschriftung": "New York",
+          "haupt": false,
+          "artikel": "New York City",
+          "wikidata": "Q60"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1622",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-24",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Friedrich Engels",
+      "bild_beschreibung": "F. Engels, Publizist, Sozialist",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 10000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1622.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Publizist",
+          "beschriftung": "Publizist",
+          "haupt": true,
+          "artikel": "Publizist",
+          "wikidata": "Q6051619"
+        },
+        {
+          "titel": "Sozialismus",
+          "beschriftung": "Sozialist",
+          "haupt": false,
+          "artikel": "Sozialismus",
+          "wikidata": "Q7272"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1623",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Friedrich Engels",
+      "bild_beschreibung": "F.Engels und Karl Marx, Philosoph und Nationalökonom, Losung",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 8000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1623.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Philosoph",
+          "beschriftung": "Philosoph",
+          "haupt": false,
+          "artikel": "Philosoph",
+          "wikidata": "Q4964182"
+        },
+        {
+          "titel": "Volkswirtschaftslehre",
+          "beschriftung": "Nationalökonom",
+          "haupt": false,
+          "artikel": "Volkswirtschaftslehre",
+          "wikidata": "Q10660901"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1624",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-11-24",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "150. Geburtstag von Friedrich Engels",
+      "bild_beschreibung": "F.Engels, Titelblattausschnitt seines Werkes Anti-Dühring",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 2000000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1624.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Anti-Dühring",
+          "beschriftung": "Anti-Dühring",
+          "haupt": true,
+          "artikel": "Herrn Eugen Dührings Umwälzung der Wissenschaft",
+          "wikidata": "Q574630"
+        },
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": false,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1625",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-02",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (I)",
+      "bild_beschreibung": "Blattkaktus (Epiphyllum-Hybride)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 8000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Epiphyllum",
+          "beschriftung": "Epiphyllum",
+          "haupt": true,
+          "artikel": "Epiphyllum",
+          "wikidata": "Q310964"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1626",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-02",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (I)",
+      "bild_beschreibung": "Bischofsmütze (Astrophytum myriostigma)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Astrophytum myriostigma",
+          "beschriftung": "Astrophytum myriostigma",
+          "haupt": true,
+          "artikel": "Bischofsmütze (Kaktus)",
+          "wikidata": "Q637364"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1627",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-02",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (I)",
+      "bild_beschreibung": "Echinocereus salm-dyckianus",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 5000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Echinocereus scheeri",
+          "beschriftung": "Echinocereus salm-dyckianus",
+          "haupt": true,
+          "artikel": "Echinocereus scheeri",
+          "wikidata": "Q309815"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1628",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-02",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (I)",
+      "bild_beschreibung": "Königin der Nacht (Selenicereus grandiflorus)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 12000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Selenicereus grandiflorus",
+          "beschriftung": "Selenicereus grandiflorus",
+          "haupt": true,
+          "artikel": "Selenicereus grandiflorus",
+          "wikidata": "Q137139"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1629",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-02",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (I)",
+      "bild_beschreibung": "Borstiger Hakenstachelkaktus (Hamatocactus setispinus)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 1800000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hamatocactus setispinus",
+          "beschriftung": "Hamatocactus setispinus",
+          "haupt": true,
+          "artikel": "Thelocactus setispinus",
+          "wikidata": "Q150807"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1630",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-02",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Kakteen (I)",
+      "bild_beschreibung": "Warzenkaktus (Mammillaria boolii)",
+      "entwerfer": "Manfred Gottschall",
+      "auflage": 3500000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mammillaria boolii",
+          "beschriftung": "Mammillaria boolii",
+          "haupt": true,
+          "artikel": "Cochemiea boolii",
+          "wikidata": "Q109737824"
+        },
+        {
+          "titel": "Kakteen (Briefmarkenserie)",
+          "beschriftung": "Kakteen",
+          "haupt": false,
+          "artikel": "Kakteen (Briefmarkenserie)",
+          "wikidata": "Q1721895"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1631",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1970-12-10",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "200. Geburtstag von Ludwig van Beethoven",
+      "bild_beschreibung": "Diese Marke wurde als Briefmarkenblock ausgegeben:; Ludwig van Beethoven, Komponist",
+      "entwerfer": "Gerhard Stauf",
+      "auflage": 1900000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        },
+        {
+          "titel": "Briefmarkenblock",
+          "beschriftung": "Briefmarkenblock",
+          "haupt": false,
+          "artikel": "Briefmarkenblock",
+          "wikidata": "Q521461"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "1540",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1970-01-20",
+      "wert": "1 M",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Staatsratsvorsitzender Walter Ulbricht Kleinformat (V)",
+      "bild_beschreibung": "",
+      "entwerfer": "DWD",
+      "auflage": 9790000,
+      "commons_datei": "Stamps of Germany (DDR) 1970, MiNr 1540.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "beschriftung": "Staatsratsvorsitzender Walter Ulbricht",
+          "haupt": true,
+          "artikel": "Staatsratsvorsitzender Walter Ulbricht (Briefmarkenserie)",
+          "wikidata": "Q2325204"
+        }
+      ]
+    }
+  ]
+}

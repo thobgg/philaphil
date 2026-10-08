@@ -1,0 +1,1028 @@
+{
+  "gebiet": "Reich",
+  "jahr": 1941,
+  "quelle": {
+    "titel": "Briefmarken-Jahrgang 1941 der Deutschen Reichspost",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Jahrgang_1941_der_Deutschen_Reichspost",
+    "revision": 268668650,
+    "abgerufen": "2026-10-08",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 762,
+    "mi_nr_bis": 810,
+    "luecken": [
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 27,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "762",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-01-12",
+      "wert": "6+24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Postillon mit Posthorn vor einem Globus",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        },
+        {
+          "titel": "Postillon",
+          "beschriftung": "Postillon",
+          "haupt": false,
+          "artikel": "Postillon",
+          "wikidata": "Q596033"
+        },
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": false,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Globus",
+          "beschriftung": "Globus",
+          "haupt": false,
+          "artikel": "Globus",
+          "wikidata": "Q133792"
+        }
+      ]
+    },
+    {
+      "mi_nr": "763",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-01-30",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Deutsch-Italienische Waffenbrüderschaft",
+      "bild_beschreibung": "Adolf Hitler und Benito Mussolini",
+      "entwerfer": "Gottfried Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Adolf Hitler",
+          "beschriftung": "Adolf Hitler",
+          "haupt": true,
+          "artikel": "Adolf Hitler",
+          "wikidata": "Q352"
+        },
+        {
+          "titel": "Benito Mussolini",
+          "beschriftung": "Benito Mussolini",
+          "haupt": false,
+          "artikel": "Benito Mussolini",
+          "wikidata": "Q23559"
+        }
+      ]
+    },
+    {
+      "mi_nr": "764",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-01",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Messehaus „Haus der Nationen“ in der Weststraße 1 (1935 enteignetes Logenhaus der Freimaurerloge Minerva zu den drei Palmen, kriegszerstört)",
+      "entwerfer": "E. Stahl",
+      "auflage": null,
+      "commons_datei": "DR 1941 764 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freimaurerloge",
+          "beschriftung": "Freimaurerloge",
+          "haupt": true,
+          "artikel": "Freimaurerloge",
+          "wikidata": "Q1454597"
+        },
+        {
+          "titel": "Minerva zu den drei Palmen",
+          "beschriftung": "Minerva zu den drei Palmen",
+          "haupt": false,
+          "artikel": "Minerva zu den drei Palmen",
+          "wikidata": "Q1936631"
+        },
+        {
+          "titel": "Luftangriffe auf Leipzig",
+          "beschriftung": "kriegszerstört",
+          "haupt": false,
+          "artikel": "Luftangriffe auf Leipzig",
+          "wikidata": "Q1501573"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "765",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Gewandhaus in Leipzig",
+      "entwerfer": "E. Stahl",
+      "auflage": null,
+      "commons_datei": "DR 1941 765 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gewandhaus (Leipzig)",
+          "beschriftung": "Gewandhaus",
+          "haupt": true,
+          "artikel": "Gewandhaus (Leipzig)",
+          "wikidata": "Q519613"
+        },
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": false,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "766",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-01",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Alte Waage in Leipzig",
+      "entwerfer": "E. Stahl",
+      "auflage": null,
+      "commons_datei": "DR 1941 766 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Alte Waage (Leipzig)",
+          "beschriftung": "Alte Waage",
+          "haupt": true,
+          "artikel": "Alte Waage (Leipzig)",
+          "wikidata": "Q436368"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "767",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Hauptbahnhof in Leipzig",
+      "entwerfer": "E. Stahl",
+      "auflage": null,
+      "commons_datei": "DR 1941 767 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig Hauptbahnhof",
+          "beschriftung": "Hauptbahnhof",
+          "haupt": true,
+          "artikel": "Leipzig Hauptbahnhof",
+          "wikidata": "Q703916"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "768",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-08",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Wiener Frühjahrsmesse",
+      "bild_beschreibung": "Statue einer Tänzerin – Motto Modestadt Wien",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 768 Wiener Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Statue",
+          "beschriftung": "Statue",
+          "haupt": true,
+          "artikel": "Statue",
+          "wikidata": "Q179700"
+        },
+        {
+          "titel": "Tanz",
+          "beschriftung": "Tänzerin",
+          "haupt": false,
+          "artikel": "Tanz",
+          "wikidata": "Q11639"
+        },
+        {
+          "titel": "Messe Wien",
+          "beschriftung": "Wiener Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "VIECON – Vienna Congress and Convention Center",
+          "wikidata": "Q1924056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "769",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-08",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Wiener Frühjahrsmesse",
+      "bild_beschreibung": "Messehaus in Wien – Motto Messestadt Wien",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 769 Wiener Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wien",
+          "beschriftung": "Wien",
+          "haupt": true,
+          "artikel": "Wien",
+          "wikidata": "Q1741"
+        },
+        {
+          "titel": "Messe Wien",
+          "beschriftung": "Wiener Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "VIECON – Vienna Congress and Convention Center",
+          "wikidata": "Q1924056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "770",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-08",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Wiener Frühjahrsmesse",
+      "bild_beschreibung": "Burgtheater, Masken und Leier – Motto Wien • Stadt der Kultur",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 770 Wiener Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Burgtheater",
+          "beschriftung": "Burgtheater",
+          "haupt": true,
+          "artikel": "Burgtheater",
+          "wikidata": "Q308720"
+        },
+        {
+          "titel": "Maske",
+          "beschriftung": "Maske",
+          "haupt": false,
+          "artikel": "Maske",
+          "wikidata": "Q161524"
+        },
+        {
+          "titel": "Lyra (Zupfinstrument)",
+          "beschriftung": "Leier",
+          "haupt": false,
+          "artikel": "Lyra (Zupfinstrument)",
+          "wikidata": "Q201129"
+        },
+        {
+          "titel": "Messe Wien",
+          "beschriftung": "Wiener Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "VIECON – Vienna Congress and Convention Center",
+          "wikidata": "Q1924056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "771",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-03-08",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Wiener Frühjahrsmesse",
+      "bild_beschreibung": "Denkmal von Prinz Eugen in Wien – Motto Wien • Tor zum Südosten",
+      "entwerfer": "Wilhelm Dachauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 771 Wiener Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Denkmal (Gedenken)",
+          "beschriftung": "Denkmal",
+          "haupt": true,
+          "artikel": "Denkmal (Gedenken)",
+          "wikidata": "Q4989906"
+        },
+        {
+          "titel": "Eugen von Savoyen",
+          "beschriftung": "Prinz Eugen",
+          "haupt": false,
+          "artikel": "Eugen von Savoyen",
+          "wikidata": "Q152428"
+        },
+        {
+          "titel": "Messe Wien",
+          "beschriftung": "Wiener Frühjahrsmesse",
+          "haupt": false,
+          "artikel": "VIECON – Vienna Congress and Convention Center",
+          "wikidata": "Q1924056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "772",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-04-17",
+      "wert": "12+38",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "52. Geburtstag von Adolf Hitler",
+      "bild_beschreibung": "",
+      "entwerfer": "Ernst Rudolf Vogenauer",
+      "auflage": null,
+      "commons_datei": "DR 1941 772 Adolf Hitler.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "773",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-05-19",
+      "wert": "6+9",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Nachwuchslager in Zeesen",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zeesen",
+          "beschriftung": "Zeesen",
+          "haupt": true,
+          "artikel": "Zeesen",
+          "wikidata": "Q184414"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "774",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-05-19",
+      "wert": "8+12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Leistungswettkampf",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": true,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "775",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-05-19",
+      "wert": "12+18",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Geländefahrer",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Geländewagen",
+          "beschriftung": "Geländefahrer",
+          "haupt": true,
+          "artikel": "Geländewagen",
+          "wikidata": "Q946596"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "776",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-05-19",
+      "wert": "16+24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Postschutz",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postschutz",
+          "beschriftung": "Postschutz",
+          "haupt": true,
+          "artikel": "Postschutz",
+          "wikidata": "Q1778811"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "777",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-05-19",
+      "wert": "20+30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "100 Segelflugwerkstätten",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Segelflugzeug",
+          "beschriftung": "Segelflugwerkstätten",
+          "haupt": true,
+          "artikel": "Segelflugzeug",
+          "wikidata": "Q180173"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "778",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-05-19",
+      "wert": "24+36",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Kameradschaftsblock der Deutschen Reichspost",
+      "bild_beschreibung": "Postkutsche",
+      "entwerfer": "Werner und Maria von Axster-Heudtlass",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": true,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        },
+        {
+          "titel": "Reichspost",
+          "beschriftung": "Reichspost",
+          "haupt": false,
+          "artikel": "Reichspost",
+          "wikidata": "Q321586"
+        }
+      ]
+    },
+    {
+      "mi_nr": "779",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-06-20",
+      "wert": "25+100",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Rennen um Das Blaue Band in Hamburg",
+      "bild_beschreibung": "Kopf eines Rennpferdes",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Hamburg",
+          "beschriftung": "Hamburg",
+          "haupt": true,
+          "artikel": "Hamburg",
+          "wikidata": "Q1055"
+        },
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennpferdes",
+          "haupt": false,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        }
+      ]
+    },
+    {
+      "mi_nr": "780",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-07-20",
+      "wert": "42+108",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "8. Rennen um das Braune Band von München Riem",
+      "bild_beschreibung": "Zwei unbekleidete Amazonen mit Schild und Speer",
+      "entwerfer": "Richard Klein",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Pferderennen",
+          "beschriftung": "Rennen",
+          "haupt": true,
+          "artikel": "Pferderennen",
+          "wikidata": "Q187916"
+        },
+        {
+          "titel": "Braunes Band von Deutschland",
+          "beschriftung": "das Braune Band",
+          "haupt": false,
+          "artikel": "Braunes Band von Deutschland",
+          "wikidata": "Q901215"
+        },
+        {
+          "titel": "Trudering-Riem",
+          "beschriftung": "München Riem",
+          "haupt": false,
+          "artikel": "Trudering-Riem",
+          "wikidata": "Q538037"
+        },
+        {
+          "titel": "Amazonen",
+          "beschriftung": "Amazonen",
+          "haupt": false,
+          "artikel": "Amazonen",
+          "wikidata": "Q134154"
+        },
+        {
+          "titel": "Schild (Waffe)",
+          "beschriftung": "Schild",
+          "haupt": false,
+          "artikel": "Schild (Schutzwaffe)",
+          "wikidata": "Q131559"
+        },
+        {
+          "titel": "Speer",
+          "beschriftung": "Speer",
+          "haupt": false,
+          "artikel": "Speer",
+          "wikidata": "Q44475"
+        }
+      ]
+    },
+    {
+      "mi_nr": "803",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-09",
+      "wert": "25+50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Großer Preis von Berlin in Hoppegarten",
+      "bild_beschreibung": "Brandenburger Tor",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Berlin",
+          "beschriftung": "Berlin",
+          "haupt": true,
+          "artikel": "Berlin",
+          "wikidata": "Q64"
+        },
+        {
+          "titel": "Hoppegarten",
+          "beschriftung": "Hoppegarten",
+          "haupt": false,
+          "artikel": "Hoppegarten",
+          "wikidata": "Q375199"
+        },
+        {
+          "titel": "Brandenburger Tor",
+          "beschriftung": "Brandenburger Tor",
+          "haupt": false,
+          "artikel": "Brandenburger Tor",
+          "wikidata": "Q82425"
+        }
+      ]
+    },
+    {
+      "mi_nr": "804",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-16",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Wiener Herbstmesse",
+      "bild_beschreibung": "Blick vom oberen Belvedere",
+      "entwerfer": "Erwin Puchinger",
+      "auflage": null,
+      "commons_datei": "DR 1941 804 Wiener Herbstmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Belvedere",
+          "beschriftung": "Belvedere",
+          "haupt": true,
+          "artikel": "Schloss Belvedere",
+          "wikidata": "Q211818"
+        },
+        {
+          "titel": "Messe Wien",
+          "beschriftung": "Wiener Herbstmesse",
+          "haupt": false,
+          "artikel": "VIECON – Vienna Congress and Convention Center",
+          "wikidata": "Q1924056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "805",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-16",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Wiener Herbstmesse",
+      "bild_beschreibung": "Unteres Belvedere",
+      "entwerfer": "Fritz Zerritsch der Jüngere",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Messe Wien",
+          "beschriftung": "Wiener Herbstmesse",
+          "haupt": true,
+          "artikel": "VIECON – Vienna Congress and Convention Center",
+          "wikidata": "Q1924056"
+        }
+      ]
+    },
+    {
+      "mi_nr": "806",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-29",
+      "wert": "3+7",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Eingliederung von Steiermark, Kärnten und Krain in das Deutsche Reich",
+      "bild_beschreibung": "Die Burg in Marburg an der Drau",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maribor",
+          "beschriftung": "Marburg",
+          "haupt": true,
+          "artikel": "Maribor",
+          "wikidata": "Q1010"
+        },
+        {
+          "titel": "Drau",
+          "beschriftung": "Drau",
+          "haupt": false,
+          "artikel": "Drau",
+          "wikidata": "Q171009"
+        },
+        {
+          "titel": "Steiermark",
+          "beschriftung": "Steiermark",
+          "haupt": false,
+          "artikel": "Steiermark",
+          "wikidata": "Q41358"
+        },
+        {
+          "titel": "Kärnten",
+          "beschriftung": "Kärnten",
+          "haupt": false,
+          "artikel": "Kärnten",
+          "wikidata": "Q37985"
+        },
+        {
+          "titel": "Krain",
+          "beschriftung": "Krain",
+          "haupt": false,
+          "artikel": "Krain",
+          "wikidata": "Q193474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "807",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-29",
+      "wert": "6+9",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Eingliederung von Steiermark, Kärnten und Krain in das Deutsche Reich",
+      "bild_beschreibung": "Veldes mit der Wallfahrtskirche Maria am See",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bled",
+          "beschriftung": "Veldes",
+          "haupt": true,
+          "artikel": "Bled",
+          "wikidata": "Q202852"
+        },
+        {
+          "titel": "Wallfahrtskirche",
+          "beschriftung": "Wallfahrtskirche",
+          "haupt": false,
+          "artikel": "Wallfahrtskirche",
+          "wikidata": "Q10631691"
+        },
+        {
+          "titel": "Steiermark",
+          "beschriftung": "Steiermark",
+          "haupt": false,
+          "artikel": "Steiermark",
+          "wikidata": "Q41358"
+        },
+        {
+          "titel": "Kärnten",
+          "beschriftung": "Kärnten",
+          "haupt": false,
+          "artikel": "Kärnten",
+          "wikidata": "Q37985"
+        },
+        {
+          "titel": "Krain",
+          "beschriftung": "Krain",
+          "haupt": false,
+          "artikel": "Krain",
+          "wikidata": "Q193474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "808",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-29",
+      "wert": "12+13",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Eingliederung von Steiermark, Kärnten und Krain in das Deutsche Reich",
+      "bild_beschreibung": "Pettau mit Stadtturm und Theater",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ptuj",
+          "beschriftung": "Pettau",
+          "haupt": true,
+          "artikel": "Ptuj",
+          "wikidata": "Q15906"
+        },
+        {
+          "titel": "Theater",
+          "beschriftung": "Theater",
+          "haupt": false,
+          "artikel": "Theater",
+          "wikidata": "Q11635"
+        },
+        {
+          "titel": "Steiermark",
+          "beschriftung": "Steiermark",
+          "haupt": false,
+          "artikel": "Steiermark",
+          "wikidata": "Q41358"
+        },
+        {
+          "titel": "Kärnten",
+          "beschriftung": "Kärnten",
+          "haupt": false,
+          "artikel": "Kärnten",
+          "wikidata": "Q37985"
+        },
+        {
+          "titel": "Krain",
+          "beschriftung": "Krain",
+          "haupt": false,
+          "artikel": "Krain",
+          "wikidata": "Q193474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "809",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-09-29",
+      "wert": "25+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "Eingliederung von Steiermark, Kärnten und Krain in das Deutsche Reich",
+      "bild_beschreibung": "Blick auf den Triglav",
+      "entwerfer": "Erich Meerwald",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Triglav",
+          "beschriftung": "Triglav",
+          "haupt": true,
+          "artikel": "Triglav",
+          "wikidata": "Q1024"
+        },
+        {
+          "titel": "Steiermark",
+          "beschriftung": "Steiermark",
+          "haupt": false,
+          "artikel": "Steiermark",
+          "wikidata": "Q41358"
+        },
+        {
+          "titel": "Kärnten",
+          "beschriftung": "Kärnten",
+          "haupt": false,
+          "artikel": "Kärnten",
+          "wikidata": "Q37985"
+        },
+        {
+          "titel": "Krain",
+          "beschriftung": "Krain",
+          "haupt": false,
+          "artikel": "Krain",
+          "wikidata": "Q193474"
+        }
+      ]
+    },
+    {
+      "mi_nr": "810",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1941-11-28",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1942-12-31",
+      "anlass": "150. Todestag von Wolfgang Amadeus Mozart (1756–1791)",
+      "bild_beschreibung": "Komponist",
+      "entwerfer": "Hans Ranzoni",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Wolfgang Amadeus Mozart",
+          "beschriftung": "Wolfgang Amadeus Mozart",
+          "haupt": true,
+          "artikel": "Wolfgang Amadeus Mozart",
+          "wikidata": "Q254"
+        },
+        {
+          "titel": "Komponist",
+          "beschriftung": "Komponist",
+          "haupt": false,
+          "artikel": "Komponist",
+          "wikidata": "Q36834"
+        }
+      ]
+    }
+  ]
+}
