@@ -147,6 +147,9 @@ def hand_anwenden(marke, korrektur):
             marke[feld] = wert
 
 
+MIT_KI = False
+
+
 def bauen(ziel):
     ziel.parent.mkdir(parents=True, exist_ok=True)
     if ziel.exists():
@@ -158,7 +161,9 @@ def bauen(ziel):
     # Kurztexte aus Wikipedia (tools/themen_laden.py) und eigene Ergänzungen
     texte = json.loads((DATEN / "themen.json").read_text(encoding="utf-8")) if (DATEN / "themen.json").exists() else {}
     hand_themen = json.loads((DATEN / "themen.hand.json").read_text(encoding="utf-8")) if (DATEN / "themen.hand.json").exists() else {}
-    ki_saetze = json.loads((DATEN / "wusstest_ki.json").read_text(encoding="utf-8")) if (DATEN / "wusstest_ki.json").exists() else {}
+    # KI-Entwuerfe (daten/wusstest_ki.json) sind Rohmaterial und kommen nur mit --mit-ki in den Katalog:
+    # die Massentexte vom 08.10.2026 waren zu oft platt (Entscheidung Thomas, 09.10.2026)
+    ki_saetze = json.loads((DATEN / "wusstest_ki.json").read_text(encoding="utf-8")) if MIT_KI and (DATEN / "wusstest_ki.json").exists() else {}
 
     def thema_id(t):
         schluessel = t.get("wikidata") or "titel:" + t["artikel"]
@@ -288,7 +293,10 @@ def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     # Standardziel: als Compose-Ressource in der App (wird beim ersten Start in den Datenordner kopiert)
     p.add_argument("--ziel", type=Path, default=HIER.parent / "shared" / "src" / "commonMain" / "composeResources" / "files" / "katalog.db")
+    p.add_argument("--mit-ki", action="store_true", help="KI-Entwuerfe aus daten/wusstest_ki.json uebernehmen")
     args = p.parse_args()
+    global MIT_KI
+    MIT_KI = args.mit_ki
     bauen(args.ziel)
 
 

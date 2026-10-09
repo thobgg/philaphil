@@ -7,7 +7,9 @@ Ablauf in drei Schritten:
      {"<schluessel>": {"satz": "...", "beleg": "woertliches Zitat"}})
     tools/wusstest_ki.py uebernehmen build/wusstest/<los>          # pruefen und nach daten/wusstest_ki.json
 
-Gepruefte Saetze erscheinen in der App gekennzeichnet als KI-Entwurf. Ein Satz wird nur uebernommen,
+Stand 09.10.2026: Die Massentexte waren zu oft platt; sie liegen als Rohmaterial in daten/wusstest_ki.json
+und kommen nur mit tools/katalog_bauen.py --mit-ki in den Katalog.
+Gepruefte Saetze erscheinen dann in der App gekennzeichnet als KI-Entwurf. Ein Satz wird nur uebernommen,
 wenn sein Beleg woertlich im Artikeltext steht (wie in der App, KiGemeinsam.pruefen). Handgepflegte
 Saetze in daten/themen.hand.json haben immer Vorrang.
 """

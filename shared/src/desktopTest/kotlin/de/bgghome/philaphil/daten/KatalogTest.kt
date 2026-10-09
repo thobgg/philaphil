@@ -66,11 +66,11 @@ class KatalogTest {
     }
 
     @Test
-    fun kiSatzGekennzeichnet() {
+    fun keineKiEntwuerfeImKatalog() {
+        // Seit 09.10.2026 kommen KI-Entwuerfe nur mit --mit-ki in den Katalog
         val einstein = katalog.markenImJahr("Bund", 1979).first { it.mi_nr == "1019" }
         val haupt = katalog.themenZurMarke(einstein.id).first { it.haupt }
-        assertEquals("ki-entwurf", haupt.thema.wusstest_quelle)
-        assertTrue(!haupt.thema.wusstest_du.isNullOrBlank())
+        assertTrue(haupt.thema.wusstest_du.isNullOrBlank())
     }
 
     @Test
