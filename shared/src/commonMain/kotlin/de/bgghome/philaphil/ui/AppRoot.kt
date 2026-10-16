@@ -93,7 +93,7 @@ private val BREIT_AB = 840.dp
 fun AppRoot(viewModel: AppViewModel) {
     val zustand by viewModel.zustand.collectAsState()
 
-    BackHandler(enabled = zustand.zeitreiseOffen || zustand.heute != null || zustand.einstellungenOffen || zustand.vollbild || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
+    BackHandler(enabled = zustand.zeitreiseOffen || zustand.heute != null || zustand.einstellungenOffen || zustand.vollbild || zustand.satzSeite != null || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
         viewModel.zurueck()
     }
     if (zustand.einstellungenOffen) Einstellungen(zustand, viewModel, onClose = { viewModel.einstellungen(false) })
@@ -108,6 +108,8 @@ fun AppRoot(viewModel: AppViewModel) {
             // Handy: Themenseite und Marke sind eigene Seiten mit Zurueck-Pfeil.
             !breit && zustand.zeitreiseOffen && zustand.themaSeite == null && zustand.marke == null ->
                 Seite(stringResource(Res.string.zeitreise_titel, zustand.jahr.toString()), onZurueck = { viewModel.zeitreise(false) }) { Zeitreise(zustand, viewModel) }
+            !breit && zustand.satzSeite != null ->
+                Seite(zustand.satzSeite!!.titel, onZurueck = viewModel::satzSchliessen) { SatzTafel(zustand, viewModel) }
             !breit && zustand.themaSeite != null ->
                 Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
             !breit && zustand.marke != null ->
@@ -121,6 +123,7 @@ fun AppRoot(viewModel: AppViewModel) {
                         VerticalDivider(color = MaterialTheme.colorScheme.outlineVariant)
                         Box(Modifier.weight(1f).fillMaxHeight()) {
                             when {
+                                zustand.satzSeite != null -> Seite(zustand.satzSeite!!.titel, onZurueck = viewModel::satzSchliessen) { SatzTafel(zustand, viewModel) }
                                 zustand.themaSeite != null -> Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
                                 zustand.marke != null -> MarkenPager(zustand, viewModel)
                                 // Tablet/Desktop ohne gewaehlte Marke: die Zeitreise zum Jahrgang

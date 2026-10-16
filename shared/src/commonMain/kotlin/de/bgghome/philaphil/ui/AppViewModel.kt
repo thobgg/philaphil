@@ -7,6 +7,7 @@ import de.bgghome.philaphil.bestanddb.Bestand
 import de.bgghome.philaphil.daten.BildInfo
 import de.bgghome.philaphil.daten.CommonsBilder
 import de.bgghome.philaphil.daten.EigeneBilder
+import de.bgghome.philaphil.daten.PrivatBilder
 import de.bgghome.philaphil.daten.EigeneTexte
 import de.bgghome.philaphil.daten.EigenerSatz
 import de.bgghome.philaphil.daten.KiAntwort
@@ -49,6 +50,11 @@ import java.io.File
 
 /** Eine Themenseite: das Thema mit Kurztext und alle Marken dazu, ueber alle Jahrgaenge. */
 data class ThemaSeite(val thema: Thema, val marken: List<Marke>)
+
+/** Gesamtdarstellung eines Satzes oder einer Dauerserie wie auf einem Albumblatt. */
+data class SatzSeite(val titel: String, val marken: List<Marke>) {
+    val dauerserie: Boolean get() = titel.startsWith("Dauermarkenserie")
+}
 
 /** Ein Eintrag auf der Seite "Heute vor Jahren": ein Jahrestag eines Themas oder ein Ausgabetag. */
 data class HeuteEintrag(
@@ -94,6 +100,8 @@ data class AppZustand(
     val bilder: Map<String, BildInfo> = emptyMap(),
     /** Eigene Bilder je (Gebiet, MiNr). */
     val eigeneBilder: Map<Pair<String, String>, List<OrdnerDatei>> = emptyMap(),
+    /** Private Bilder aus dem lokalen Build (files/privat/), je (Gebiet, MiNr). */
+    val privatBilder: Map<Pair<String, String>, OrdnerDatei> = emptyMap(),
     /** Anzeigename des Sammlungsordners (bestand.json, Bilder/). */
     val sammlungsordner: String = "",
     /** Eigener Bestand: Erhaltungen je (Gebiet, MiNr) als Kurztext fuer die Liste. */
@@ -104,6 +112,10 @@ data class AppZustand(
     val eintraege: List<Bestand> = emptyList(),
     /** Geoeffnete Themenseite (liegt ueber der Marke). */
     val themaSeite: ThemaSeite? = null,
+    /** Satz bzw. Dauerserie der gewaehlten Marke (mehr als ein Wert: Knopf "Ganzer Satz"). */
+    val satz: List<Marke> = emptyList(),
+    /** Geoeffnete Satz-Tafel (liegt ueber der Marke). */
+    val satzSeite: SatzSeite? = null,
     /** Vollbild mit Wischen und Zoom ueber alle Marken der Liste mit Bild. */
     val vollbild: Boolean = false,
     val einstellungenOffen: Boolean = false,
@@ -145,10 +157,11 @@ data class AppZustand(
     fun eigenerSatz(thema: Thema): EigenerSatz? = eigeneSaetze[themaSchluessel(thema)]
     fun bild(marke: Marke?): BildInfo? = marke?.commons_datei?.let { bilder[it] }
     fun eigene(marke: Marke?): List<OrdnerDatei> = marke?.let { eigeneBilder[it.gebiet to it.mi_nr] }.orEmpty()
+    fun privat(marke: Marke?): OrdnerDatei? = marke?.let { privatBilder[it.gebiet to it.mi_nr] }
     fun bestandText(marke: Marke): String? = bestand[marke.gebiet to marke.mi_nr]
     fun imBestand(marke: Marke) = bestandText(marke) != null
-    /** Was die Liste und die Karte zeigen: eigener Scan vor Commons. */
-    fun vorschau(marke: Marke): Any? = eigene(marke).firstOrNull()?.modell ?: bild(marke)?.vorschauUrl
+    /** Was die Liste und die Karte zeigen: eigener Scan vor privatem Bild vor Commons. */
+    fun vorschau(marke: Marke): Any? = eigene(marke).firstOrNull()?.modell ?: privat(marke)?.modell ?: bild(marke)?.vorschauUrl
     val imJahrgangVorhanden: Int get() = jahrgang.count { imBestand(it) }
 }
 
@@ -182,7 +195,8 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 val bestand = withContext(Dispatchers.IO) { s.uebersicht() }
                 val scans = withContext(Dispatchers.IO) { eigene.einlesen() }
                 val saetze = withContext(Dispatchers.IO) { eigeneTexte.alle() }
-                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, sammlungsordner = ordner.anzeige,
+                val privat = PrivatBilder.laden()
+                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, privatBilder = privat, sammlungsordner = ordner.anzeige,
                     eigeneSaetze = saetze, kiAn = plattform.einstellungen.lesen(KI_AN) == "1") }
                 kiZustandLaden()
                 // Zuletzt gesehener Jahrgang, sonst Bund 1979
@@ -226,7 +240,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
     /** Bildadressen und Lizenzen - erst aus der Ablage, sonst von Commons. Marken mit eigenem Scan brauchen Commons nicht. */
     private fun bilderNachladen(marken: List<Marke>) {
         val z = _zustand.value
-        val fehlend = marken.filter { z.eigene(it).isEmpty() }.mapNotNull { it.commons_datei }.filter { it !in z.bilder }
+        val fehlend = marken.filter { z.eigene(it).isEmpty() && z.privat(it) == null }.mapNotNull { it.commons_datei }.filter { it !in z.bilder }
         if (fehlend.isEmpty()) return
         viewModelScope.launch {
             val infos = commons.infos(fehlend)
@@ -235,13 +249,15 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
     }
 
     fun waehlen(marke: Marke?) {
-        _zustand.update { it.copy(marke = marke, themen = emptyList(), eintraege = emptyList(), themaSeite = null) }
+        _zustand.update { it.copy(marke = marke, themen = emptyList(), eintraege = emptyList(), themaSeite = null, satzSeite = null,
+            satz = if (it.satz.any { s -> s.id == marke?.id }) it.satz else emptyList()) }
         if (marke == null) return
         viewModelScope.launch {
             val themen = withContext(Dispatchers.IO) { katalog?.themenZurMarke(marke.id).orEmpty() }
             val eintraege = withContext(Dispatchers.IO) { sammlung?.zurMarke(marke.gebiet, marke.mi_nr).orEmpty() }
+            val satz = withContext(Dispatchers.IO) { katalog?.satz(marke).orEmpty() }
             // Nur eintragen, wenn inzwischen keine andere Marke gewaehlt wurde.
-            _zustand.update { if (it.marke?.id == marke.id) it.copy(themen = themen, eintraege = eintraege) else it }
+            _zustand.update { if (it.marke?.id == marke.id) it.copy(themen = themen, eintraege = eintraege, satz = satz) else it }
         }
     }
 
@@ -486,13 +502,24 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
 
     fun themaSchliessen() = _zustand.update { it.copy(themaSeite = null) }
 
+    /** Satz-Tafel der gewaehlten Marke oeffnen. */
+    fun satzOeffnen() {
+        val z = _zustand.value
+        val titel = z.marke?.anlass ?: return
+        if (z.satz.size < 2) return
+        _zustand.update { it.copy(satzSeite = SatzSeite(titel, z.satz)) }
+        bilderNachladen(z.satz)
+    }
+
+    fun satzSchliessen() = _zustand.update { it.copy(satzSeite = null) }
+
     /** Von der Themenseite zu einer Marke springen: die Liste wechselt mit, damit Wischen und Rahmen stimmen. */
     fun zurMarke(marke: Marke) {
         val inListe = _zustand.value.liste.any { it.id == marke.id }
         if (!inListe) {
             val z = _zustand.value
-            val themaMarken = z.themaSeite?.marken.orEmpty()
-            _zustand.update { it.copy(suchtext = z.themaSeite?.thema?.titel.orEmpty(), suchtreffer = themaMarken, filter = BestandFilter.Alle) }
+            val (titel, marken) = z.satzSeite?.let { it.titel to it.marken } ?: (z.themaSeite?.thema?.titel.orEmpty() to z.themaSeite?.marken.orEmpty())
+            _zustand.update { it.copy(suchtext = titel, suchtreffer = marken, filter = BestandFilter.Alle) }
         }
         waehlen(marke)
     }
@@ -521,6 +548,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
             z.heute != null && !z.vollbild -> { heuteSchliessen(); true }
             z.zeitreiseOffen && z.themaSeite == null && z.marke == null -> { zeitreise(false); true }
             z.vollbild -> { vollbild(false); true }
+            z.satzSeite != null -> { satzSchliessen(); true }
             z.themaSeite != null -> { themaSchliessen(); true }
             z.marke != null -> { waehlen(null); true }
             z.suchtreffer != null -> { suchen(""); true }

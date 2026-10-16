@@ -1,5 +1,6 @@
 package de.bgghome.philaphil.ui
 
+import de.bgghome.philaphil.daten.PRIVAT_QUELLE
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
@@ -62,8 +63,10 @@ fun Bildbetrachter(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> 
     val mitBild = remember(liste, zustand.bilder, zustand.eigeneBilder) {
         liste.withIndex().mapNotNull { (i, m) ->
             val eigen = zustand.eigene(m).firstOrNull()
+            val privat = zustand.privat(m)
             when {
                 eigen != null -> Triple(i, m, BildInfo(eigen.name, eigen.modell.toString(), eigen.modell.toString(), "", 0, 0, "Eigenes Bild", null, null).also { it.eigenesModell = eigen.modell })
+                privat != null -> Triple(i, m, BildInfo(privat.name, privat.modell.toString(), privat.modell.toString(), "", 0, 0, PRIVAT_QUELLE, null, null).also { it.eigenesModell = privat.modell })
                 else -> zustand.bild(m)?.let { Triple(i, m, it) }
             }
         }

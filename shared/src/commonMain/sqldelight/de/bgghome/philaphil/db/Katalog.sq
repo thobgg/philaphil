@@ -133,6 +133,12 @@ ORDER BY marke_thema.haupt DESC, marke_thema.reihe;
 anzahlMarkenZumThema:
 SELECT COUNT(*) FROM marke_thema WHERE thema_id = ?;
 
+-- Satz einer Marke: gleicher Anlass im Gebiet und Jahr; Dauermarkenserien ueber alle Jahre
+satzMarken:
+SELECT * FROM marke
+WHERE gebiet = :gebiet AND anlass = :anlass AND (jahr = :jahr OR anlass LIKE 'Dauermarkenserie%')
+ORDER BY jahr, sortier_nr, mi_nr;
+
 markenZumThema:
 SELECT marke.* FROM marke_thema
 JOIN marke ON marke.id = marke_thema.marke_id

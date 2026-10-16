@@ -21,3 +21,7 @@ bilder/
 # Arbeitsnotizen bleiben lokal, nur README und daten/README gehen mit
 /*.md
 !/README.md
+
+# Private Bilder nur fuer den eigenen Build, nie ins Repo
+tools/privat/
+shared/src/commonMain/composeResources/files/privat/

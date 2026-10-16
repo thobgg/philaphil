@@ -38,6 +38,10 @@ class Katalog private constructor(private val db: KatalogDb) {
             )
         }
 
+    /** Alle Werte des Satzes bzw. der Dauerserie, zu der die Marke gehoert (die Marke selbst eingeschlossen). */
+    fun satz(marke: Marke): List<Marke> =
+        marke.anlass?.takeIf { it.isNotBlank() }?.let { db.katalogQueries.satzMarken(marke.gebiet, it, marke.jahr).executeAsList() }.orEmpty()
+
     fun markenZumThema(themaId: Long): List<Marke> = db.katalogQueries.markenZumThema(themaId).executeAsList()
 
     fun quelle(gebiet: String, jahr: Long) = db.katalogQueries.quelle(gebiet, jahr).executeAsOneOrNull()

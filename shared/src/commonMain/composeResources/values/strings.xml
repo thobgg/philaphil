@@ -63,4 +63,9 @@
     <string name="tag_zurueck">Voriger Tag</string>
     <string name="zeitreise_titel">Was %1$s geschah</string>
     <string name="zeitreise_quelle">Auswahl aus dem Wikipedia-Artikel „%1$s“, CC BY-SA 4.0. ★ = Thema einer Marke dieses Jahres</string>
+    <string name="ganzer_satz">Ganzer Satz (%1$d Werte)</string>
+    <string name="ganze_serie">Ganze Serie (%1$d Werte)</string>
+    <string name="satz_nach_wert">Nach Wert</string>
+    <string name="satz_nach_nummer">Nach MiNr.</string>
+    <string name="satz_kopf">%1$d Werte · %2$s</string>
 </resources>

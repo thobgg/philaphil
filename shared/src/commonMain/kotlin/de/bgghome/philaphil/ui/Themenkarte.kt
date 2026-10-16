@@ -1,5 +1,6 @@
 package de.bgghome.philaphil.ui
 
+import de.bgghome.philaphil.daten.PRIVAT_QUELLE
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -19,6 +20,7 @@ import androidx.compose.material3.AssistChip
 import androidx.compose.material3.AssistChipDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
@@ -35,6 +37,8 @@ import de.bgghome.philaphil.daten.zahlLesbar
 import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.db.Thema
 import de.bgghome.philaphil.res.Res
+import de.bgghome.philaphil.res.ganze_serie
+import de.bgghome.philaphil.res.ganzer_satz
 import de.bgghome.philaphil.res.am_rande
 import de.bgghome.philaphil.res.anmerkung_quelle
 import de.bgghome.philaphil.res.bild_eigenes
@@ -67,15 +71,18 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel, gezeigt: Marke? =
     val hauptthema = themen.firstOrNull { it.haupt }
     val bild = zustand.bild(marke)
     val eigenes = zustand.eigene(marke).firstOrNull()
+    val privat = if (eigenes == null) zustand.privat(marke) else null
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(20.dp)) {
         MarkenBild(
-            eigenes?.modell ?: bild?.vorschauUrl, marke,
+            eigenes?.modell ?: privat?.modell ?: bild?.vorschauUrl, marke,
             Modifier.fillMaxWidth().heightIn(min = 220.dp, max = 420.dp)
-                .clickable(enabled = eigenes != null || bild != null) { viewModel.vollbild(true) },
+                .clickable(enabled = eigenes != null || privat != null || bild != null) { viewModel.vollbild(true) },
         )
         Spacer(Modifier.height(6.dp))
         if (eigenes != null) {
             Text(stringResource(Res.string.bild_eigenes) + " · " + eigenes.name, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        } else if (privat != null) {
+            Text(PRIVAT_QUELLE, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         } else if (bild != null) {
             Text(
                 stringResource(Res.string.bild_quelle, bild.lizenz, bild.urheber ?: "Wikimedia Commons"),
@@ -100,6 +107,14 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel, gezeigt: Marke? =
                 Fakt(stringResource(Res.string.fakt_wert), wertLesbar(marke))
                 if (marke.auflage != null) Fakt(stringResource(Res.string.fakt_auflage), zahlLesbar(marke.auflage))
                 if (!marke.entwerfer.isNullOrBlank()) Fakt(stringResource(Res.string.fakt_entwurf), marke.entwerfer)
+            }
+        }
+
+        // Ganzer Satz bzw. ganze Dauerserie als Tafel
+        if (aktuell && zustand.satz.size > 1) {
+            Spacer(Modifier.height(12.dp))
+            FilledTonalButton(onClick = viewModel::satzOeffnen) {
+                Text(stringResource(if (marke.anlass.orEmpty().startsWith("Dauermarkenserie")) Res.string.ganze_serie else Res.string.ganzer_satz, zustand.satz.size))
             }
         }
 
