@@ -4,7 +4,7 @@
 
 Briefmarken als Zeitgeschichte. Ein Katalog, der erzählt – kein Katalog, der bewertet.
 
-Webseite: https://bgg-home.de/philaphil/
+Webseite: https://philaphil.bgg-home.de/ · Handbuch: https://philaphil.bgg-home.de/handbuch/ ([PDF](https://philaphil.bgg-home.de/handbuch/PhilaPhil-Handbuch-1.0.pdf), Quelle [docs/handbuch.md](docs/handbuch.md))
 
 Jede Marke steht für etwas: ein Ereignis, eine Person, eine Zeit. PhilaPhil nimmt dich an die Hand
 und führt in die Zeit der Herausgabe und in das Thema der Marke. Für Bewertung und Spezialwissen
@@ -17,14 +17,14 @@ gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und w
   mit Lizenzangabe unter jedem Bild. Keine Preise, keine Katalog-Systematik.
 
 <p>
-<img src="docs/bilder/handy-liste.png" width="230" alt="Markenliste eines Jahrgangs">&nbsp;
-<img src="docs/bilder/handy-marke.png" width="230" alt="Eine Marke mit Fakten">&nbsp;
-<img src="docs/bilder/handy-wusstest-du.png" width="230" alt="Themenkarte mit Kurztext und Wusstest du">
+<img src="docs/bilder/handbuch/liste.png" width="230" alt="Markenliste eines Jahrgangs mit Bestand">&nbsp;
+<img src="docs/bilder/handbuch/marke.png" width="230" alt="Eine Marke mit ihren Daten">&nbsp;
+<img src="docs/bilder/handbuch/zeitreise.png" width="230" alt="Was 1979 geschah">
 </p>
 
 <img src="docs/bilder/desktop-tablet.png" width="720" alt="Tablet und Desktop: Liste links, Marke und Themenkarte rechts">
 
-Stand: Bund 1949 bis 2026, Berlin 1948 bis 1990, DDR 1949 bis 1990 und Deutsches Reich 1872 bis 1945, zusammen 8936 Marken und 6877 Themen. Themenkarten mit Kurztext aus der Wikipedia und Anmerkungen aus den Listen, Zeitreise „Was in dem Jahr geschah“, Heute vor Jahren, Suche über alle Gebiete, eigener Bestand und eigene Bilder.
+Stand: Bund 1949 bis 2026, Berlin 1948 bis 1990, DDR 1949 bis 1990 und Deutsches Reich 1872 bis 1945, zusammen 8936 Marken und 6877 Themen. Themenkarten mit Kurztext aus der Wikipedia, ganze Sätze und Dauerserien als Tafel, Zeitreise „Was in dem Jahr geschah“, Heute vor Jahren, Suche über alle Gebiete, eigener Bestand und eigene Bilder, Abgleich zwischen Handy, Tablet und PC über die eigene NAS.
 
 ```
 daten/     JSON pro Gebiet und Jahrgang (CC BY-SA 4.0), später eigenes Repo briefmarken-daten
@@ -56,8 +56,7 @@ Kontakt: Thomas, thomas@bgg-mail.de – Fehler und Wünsche gern auch als Issue.
 
 ## Eigene Sammlung
 
-Bestand und eigene Bilder liegen in einem **Sammlungsordner**, den du in den Einstellungen wählst,
-zum Beispiel einen Ordner, den Synology Drive zwischen NAS, PC und Handy spiegelt:
+Bestand und eigene Bilder liegen auf dem Gerät in einem **Sammlungsordner**, den du in den Einstellungen wählst:
 
 ```
 Sammlungsordner/
@@ -70,6 +69,24 @@ Sammlungsordner/
 Eigene Bilder gelten für jede Marke, ob im Besitz oder nicht. Beim Hinzufügen über die App
 (Foto oder Galerie am Handy, Datei am PC) wird auf 1600 Pixel verkleinert. Nichts davon landet
 im Repo oder in einem Release.
+
+## Abgleich mit der NAS
+
+Damit Handy, Tablet und PC denselben Bestand haben, gleicht PhilaPhil mit einem WebDAV-Ordner ab, etwa auf
+einer Synology-NAS (Paket „WebDAV Server“) oder in Nextcloud. Jedes Gerät arbeitet offline weiter und gleicht
+beim Start, nach Änderungen und beim Zurückkehren in die App ab. Zusammengeführt wird je Eintrag: Es gilt die
+jüngste Änderung, Löschungen reisen als Vermerk mit, gleichzeitiges Schreiben fängt ein ETag-Vergleich ab.
+
+```
+PhilaPhil/              auf der NAS
+  bestand.json          gemeinsamer Bestand
+  Bilder/               eigene Bilder, in beide Richtungen abgeglichen
+  Privat/               Bilder nur für die eigenen Geräte, dazu quelle.txt mit der Zeile unter dem Bild;
+                        jedes Gerät holt sie einmal im WLAN und behält sie
+  Sicherung/            bestand-<datum>.json, eine je Tag, die letzten 30
+```
+
+Einrichtung Schritt für Schritt, auch mit Reverse Proxy für unterwegs, steht im [Handbuch](docs/handbuch.md).
 
 ## KI-Begleiter (freiwillig)
 
