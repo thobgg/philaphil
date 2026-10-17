@@ -1,0 +1,25 @@
+% Satz des Handbuchs: KOMA-Script, LuaLaTeX, Libertinus und Source Sans
+\usepackage{fontspec}
+% Zeichen, die Libertinus nicht hat (⊙ gestempelt, ▾), kommen aus DejaVu
+\directlua{luaotfload.add_fallback("ersatz", {"DejaVu Sans:mode=node;"})}
+\setmainfont{Libertinus Serif}[RawFeature={fallback=ersatz}]
+\setsansfont{Source Sans Pro}[RawFeature={fallback=ersatz}]
+\setmonofont{DejaVu Sans Mono}[Scale=0.85]
+\usepackage{xcolor}
+\definecolor{phila}{HTML}{7A4A1E}
+\addtokomafont{disposition}{\color{phila}}
+\addtokomafont{title}{\color{phila}}
+\usepackage{float}
+\floatplacement{figure}{H}
+\usepackage[font=small,labelformat=empty]{caption}
+\AtBeginDocument{\hypersetup{colorlinks=true, linkcolor=phila, urlcolor=phila}}
+\setlength{\emergencystretch}{3em}
+\titlehead{\centering\includegraphics[width=4cm]{icon/symbol.png}}
+\publishers{\small Freund der Philatelie · Briefmarken als Zeitgeschichte\\[1ex]\url{https://philaphil.bgg-home.de/}}
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\clearpairofpagestyles
+\ihead{\small\color{gray}PhilaPhil · Benutzerhandbuch}
+\ohead{\small\color{gray}\headmark}
+\cfoot{\small\pagemark}
+\automark{section}

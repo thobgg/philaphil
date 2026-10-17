@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PhilaPhil – Benutzerhandbuch</title>
+<meta name="description" content="Benutzerhandbuch für PhilaPhil, die App, die Briefmarken erzählen lässt: Blättern und suchen, Bestand, eigene Bilder, Abgleich mit der NAS per WebDAV, private Bilder, KI-Begleiter und deine Daten.">
+<meta name="author" content="Thomas Bugge">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://philaphil.bgg-home.de/handbuch/">
+<link rel="icon" type="image/png" sizes="192x192" href="https://philaphil.bgg-home.de/img/icon.png">
+<link rel="stylesheet" href="https://bgg-home.de/stil.css">
+<style>
+  .handbuch { max-width: 46rem; margin: 0 auto; padding: 2rem 1rem 3rem; line-height: 1.65; }
+  .handbuch h1 { font-size: 1.6rem; margin: 2.6rem 0 0.8rem; }
+  .handbuch h2 { font-size: 1.2rem; margin: 2rem 0 0.6rem; }
+  .handbuch p, .handbuch li { font-size: 1.02rem; }
+  .handbuch figure { margin: 1.4rem auto; text-align: center; }
+  .handbuch figure img { max-width: 300px; width: 100%; height: auto; border-radius: 14px; box-shadow: 0 6px 24px rgba(0,0,0,0.18); }
+  .handbuch figcaption { font-size: 0.9rem; opacity: 0.75; margin-top: 0.5rem; }
+  .handbuch table { border-collapse: collapse; margin: 1rem 0; width: 100%; font-size: 0.95rem; }
+  .handbuch th, .handbuch td { border-bottom: 1px solid rgba(128,128,128,0.3); padding: 0.4rem 0.6rem; text-align: left; vertical-align: top; }
+  .handbuch pre { overflow-x: auto; padding: 0.8rem 1rem; border-radius: 8px; background: rgba(128,128,128,0.12); font-size: 0.88rem; }
+  .handbuch code { font-size: 0.92em; overflow-wrap: anywhere; }
+  .handbuch nav#TOC { border-left: 3px solid rgba(128,128,128,0.35); padding: 0.2rem 0 0.2rem 1rem; margin: 1.5rem 0 2rem; }
+  .handbuch nav#TOC ul { list-style: none; padding-left: 0.9rem; margin: 0.2rem 0; }
+  .handbuch nav#TOC > ul { padding-left: 0; }
+  .handbuch .pdf { display: inline-block; margin: 0.4rem 0 1rem; }
+  /* Farben und Schrift wie die uebrige Seite (stil.css); Kapitel ohne deren grosse Abschnittsabstaende */
+  .handbuch section { padding: 0; margin: 0; max-width: none; }
+  .handbuch h1 { color: #fff; font-weight: normal; }
+  .handbuch h2 { color: var(--gold); font-weight: normal; }
+  .handbuch p, .handbuch li, .handbuch td { color: #cfc8b8; }
+  .handbuch p { margin-bottom: 1rem; }
+  .handbuch ul, .handbuch ol { margin: 0 0 1rem 1.3rem; }
+  .handbuch li { margin-bottom: 0.35rem; }
+  .handbuch strong, .handbuch th { color: #e8e6e0; font-weight: 600; }
+  .handbuch a { color: var(--rblue); text-decoration: none; border-bottom: 1px dotted var(--rblue); }
+  .handbuch a:hover { color: #fff; border-bottom-color: #fff; }
+  .handbuch nav#TOC a { border-bottom: none; font-family: -apple-system, sans-serif; font-size: 0.9rem; }
+  .handbuch nav#TOC li { margin-bottom: 0.15rem; }
+  .handbuch pre { background: rgba(255,255,255,0.06); color: #e8e6e0; }
+  .handbuch figcaption { font-family: -apple-system, sans-serif; color: var(--lgrey); }
+  .handbuch table { font-family: -apple-system, sans-serif; }
+</style>
+</head>
+<body>
+<nav class="topnav"><div class="topnav-in">
+    <a class="brand" href="https://philaphil.bgg-home.de/">PhilaPhil</a>
+    <a href="https://philaphil.bgg-home.de/">Übersicht</a>
+    <a href="#TOC">Inhalt</a>
+    <a class="dlnav" href="https://github.com/thobgg/philaphil/releases/latest">⬇ Download</a>
+</div></nav>
+
+<main class="handbuch">
+  <p class="section-label">Benutzerhandbuch · Version $version$</p>
+  <h1 style="margin-top:0.4rem">PhilaPhil</h1>
+  <a class="btn btn-ghost pdf" href="PhilaPhil-Handbuch-$version$.pdf">⬇ Handbuch als PDF</a>
+  <nav id="TOC" aria-label="Inhalt">
+$table-of-contents$
+  </nav>
+$body$
+</main>
+
+<footer>
+  <span><a href="https://philaphil.bgg-home.de/">← PhilaPhil</a></span>
+  <span>© 2026 Thomas Bugge · <a href="mailto:thomas@bgg-mail.de">thomas@bgg-mail.de</a> · <a href="https://bgg-home.de/impressum/">Impressum &amp; Datenschutz</a></span>
+</footer>
+<script src="https://bgg-home.de/tracker/bgg-tracker.js" async></script>
+</body>
+</html>

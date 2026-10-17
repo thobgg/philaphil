@@ -66,6 +66,7 @@ import de.bgghome.philaphil.db.Marke
 import de.bgghome.philaphil.res.Res
 import de.bgghome.philaphil.res.app_titel
 import de.bgghome.philaphil.res.bestand_zaehler
+import de.bgghome.philaphil.res.bestand_zaehler_kurz
 import de.bgghome.philaphil.res.einstellungen_titel
 import de.bgghome.philaphil.res.filter_alle
 import de.bgghome.philaphil.res.filter_fehlend
@@ -160,7 +161,8 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
                         Text(stringResource(Res.string.jahrgang_titel, if (breit) zustand.gebietAnzeige else zustand.gebiet, zustand.jahr.toString()), maxLines = 1)
                         Icon(Icons.Default.ArrowDropDown, contentDescription = stringResource(Res.string.jahrgang_waehlen))
                     }
-                    val zaehler = stringResource(Res.string.bestand_zaehler, zustand.imJahrgangVorhanden, zustand.jahrgang.size)
+                    // Am Handy ist neben den Pfeilen nur Platz fuer die Zahlen: "19 von 33 im" wuerde abgeschnitten
+                    val zaehler = stringResource(if (breit) Res.string.bestand_zaehler else Res.string.bestand_zaehler_kurz, zustand.imJahrgangVorhanden, zustand.jahrgang.size)
                     Text(if (breit) stringResource(Res.string.app_titel) + " · " + zaehler else zaehler,
                         style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
                 }
