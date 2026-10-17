@@ -13,6 +13,8 @@ interface Ordner {
     val anzeige: String
     fun liste(unterordner: String? = null): List<OrdnerDatei>
     fun lesen(name: String): ByteArray?
+    /** Eine Datei aus einem Unterordner (Bilder/…). */
+    fun lesenIn(unterordner: String, name: String): ByteArray?
     fun geaendert(name: String): Long
     fun schreiben(name: String, bytes: ByteArray)
     /** Legt eine neue Datei an (Bilder/Bund-1031.jpg); null, wenn es nicht geht. */
@@ -29,6 +31,7 @@ class DateiOrdner(val wurzel: File) : Ordner {
         ort(unterordner).listFiles()?.filter { it.isFile }?.map { OrdnerDatei(it.name, it, it.lastModified()) }.orEmpty()
 
     override fun lesen(name: String): ByteArray? = File(wurzel, name).takeIf { it.isFile }?.readBytes()
+    override fun lesenIn(unterordner: String, name: String): ByteArray? = File(ort(unterordner), name).takeIf { it.isFile }?.readBytes()
     override fun geaendert(name: String): Long = File(wurzel, name).lastModified()
     override fun schreiben(name: String, bytes: ByteArray) {
         wurzel.mkdirs()

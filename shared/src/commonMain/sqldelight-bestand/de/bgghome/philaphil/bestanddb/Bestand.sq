@@ -11,20 +11,21 @@ CREATE TABLE bestand (
   PRIMARY KEY (gebiet, mi_nr, erhaltung)
 );
 
+-- Anzahl 0 heisst geloescht: der Eintrag bleibt als Vermerk, damit der Abgleich die Loeschung weitergibt.
 alle:
+SELECT * FROM bestand WHERE anzahl > 0 ORDER BY gebiet, mi_nr, erhaltung;
+
+alleMitVermerken:
 SELECT * FROM bestand ORDER BY gebiet, mi_nr, erhaltung;
 
 zurMarke:
-SELECT * FROM bestand WHERE gebiet = ? AND mi_nr = ? ORDER BY erhaltung;
+SELECT * FROM bestand WHERE gebiet = ? AND mi_nr = ? AND anzahl > 0 ORDER BY erhaltung;
 
 setzen:
 INSERT OR REPLACE INTO bestand (gebiet, mi_nr, erhaltung, anzahl, notiz, geaendert) VALUES (?, ?, ?, ?, ?, ?);
 
 notizSetzen:
 UPDATE bestand SET notiz = ?, geaendert = ? WHERE gebiet = ? AND mi_nr = ?;
-
-loeschen:
-DELETE FROM bestand WHERE gebiet = ? AND mi_nr = ? AND erhaltung = ?;
 
 alleLoeschen:
 DELETE FROM bestand;

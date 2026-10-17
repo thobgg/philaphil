@@ -1,6 +1,5 @@
 package de.bgghome.philaphil.ui
 
-import de.bgghome.philaphil.daten.PRIVAT_QUELLE
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -80,7 +79,7 @@ fun MarkenDetail(zustand: AppZustand, viewModel: AppViewModel, gezeigt: Marke? =
         if (eigenes != null) {
             Text(stringResource(Res.string.bild_eigenes) + " · " + eigenes.name, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         } else if (privat != null) {
-            Text(PRIVAT_QUELLE, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            Text(zustand.privatQuelle, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         } else if (bild != null) {
             Text(
                 stringResource(Res.string.bild_quelle, bild.lizenz, bild.urheber ?: "Wikimedia Commons"),

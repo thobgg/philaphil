@@ -56,6 +56,8 @@ fun Einstellungen(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> U
                 Spacer(Modifier.height(8.dp))
                 Text(stringResource(Res.string.ordner_hinweis), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                 Spacer(Modifier.height(16.dp))
+                NasEinstellungen(zustand, viewModel)
+                Spacer(Modifier.height(16.dp))
                 KiEinstellungen(zustand, viewModel)
                 Spacer(Modifier.height(16.dp))
                 // Vorschaubilder fuer unterwegs

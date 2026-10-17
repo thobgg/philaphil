@@ -8,6 +8,9 @@ import de.bgghome.philaphil.daten.BildInfo
 import de.bgghome.philaphil.daten.CommonsBilder
 import de.bgghome.philaphil.daten.EigeneBilder
 import de.bgghome.philaphil.daten.PrivatBilder
+import de.bgghome.philaphil.daten.Abgleich
+import de.bgghome.philaphil.daten.WebDav
+import de.bgghome.philaphil.daten.WebDavFehler
 import de.bgghome.philaphil.daten.EigeneTexte
 import de.bgghome.philaphil.daten.EigenerSatz
 import de.bgghome.philaphil.daten.KiAntwort
@@ -100,8 +103,10 @@ data class AppZustand(
     val bilder: Map<String, BildInfo> = emptyMap(),
     /** Eigene Bilder je (Gebiet, MiNr). */
     val eigeneBilder: Map<Pair<String, String>, List<OrdnerDatei>> = emptyMap(),
-    /** Private Bilder aus dem lokalen Build (files/privat/), je (Gebiet, MiNr). */
+    /** Private Bilder, von der NAS aufs Geraet geholt (nur fuer dich), je (Gebiet, MiNr). */
     val privatBilder: Map<Pair<String, String>, OrdnerDatei> = emptyMap(),
+    /** Zeile unter einem privaten Bild (quelle.txt im Ordner Privat/ der NAS). */
+    val privatQuelle: String = PrivatBilder.QUELLE_VORGABE,
     /** Anzeigename des Sammlungsordners (bestand.json, Bilder/). */
     val sammlungsordner: String = "",
     /** Eigener Bestand: Erhaltungen je (Gebiet, MiNr) als Kurztext fuer die Liste. */
@@ -137,7 +142,18 @@ data class AppZustand(
     /** Vorladen der Vorschaubilder: (fertig, gesamt), null = laeuft nicht. */
     val vorladen: Pair<Int, Int>? = null,
     val vorladenMeldung: String? = null,
+    /** Abgleich mit der NAS (WebDAV): Adresse und Benutzer; das Passwort bleibt in der Ablage. */
+    val nasAdresse: String = "",
+    val nasBenutzer: String = "",
+    val nasPasswortGesetzt: Boolean = false,
+    val abgleichLaeuft: Boolean = false,
+    val abgleichMeldung: String? = null,
+    /** Private Bilder holen: (fertig, gesamt), null = laeuft nicht. */
+    val abgleichPrivat: Pair<Int, Int>? = null,
+    /** Rueckfrage: Die NAS meldet sich mit einem gueltigen Zertifikat fuer diesen Namen - vertrauen? */
+    val nasZertifikatFrage: String? = null,
 ) {
+    val nasEingerichtet: Boolean get() = nasAdresse.isNotBlank() && nasBenutzer.isNotBlank() && nasPasswortGesetzt
     /** Was die Liste zeigt: Suchtreffer oder der Jahrgang, nach Bestand gefiltert. */
     val liste: List<Marke> get() = (suchtreffer ?: jahrgang).filter {
         when (filter) {
@@ -166,6 +182,10 @@ data class AppZustand(
 }
 
 /** @param startMiNr Marke, die nach dem Laden gleich geoeffnet wird (Desktop: Aufruf mit --minr 1031). */
+const val NAS_ADRESSE = "nas_adresse"
+const val NAS_BENUTZER = "nas_benutzer"
+const val NAS_PASSWORT = "nas_passwort"
+const val NAS_ZERTIFIKAT = "nas_zertifikat"
 const val KI_AN = "ki_an"
 const val KI_SCHLUESSEL = "ki_schluessel"
 const val KI_ANBIETER = "ki_anbieter"
@@ -183,6 +203,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
     private val eigeneTexte = EigeneTexte(ordner)
     private var suchlauf: Job? = null
     private var notizlauf: Job? = null
+    private val privatOrdner = File(plattform.datenOrdner, "privat")
 
     init {
         viewModelScope.launch {
@@ -195,10 +216,12 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 val bestand = withContext(Dispatchers.IO) { s.uebersicht() }
                 val scans = withContext(Dispatchers.IO) { eigene.einlesen() }
                 val saetze = withContext(Dispatchers.IO) { eigeneTexte.alle() }
-                val privat = PrivatBilder.laden()
-                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, privatBilder = privat, sammlungsordner = ordner.anzeige,
+                val privat = withContext(Dispatchers.IO) { PrivatBilder.laden(privatOrdner) }
+                val privatQuelle = withContext(Dispatchers.IO) { PrivatBilder.quelle(privatOrdner) }
+                _zustand.update { it.copy(jahrgaenge = jahrgaenge, gebiete = gebiete, bestand = bestand, eigeneBilder = scans, privatBilder = privat, privatQuelle = privatQuelle, sammlungsordner = ordner.anzeige,
                     eigeneSaetze = saetze, kiAn = plattform.einstellungen.lesen(KI_AN) == "1") }
                 kiZustandLaden()
+                nasZustandLaden()
                 // Zuletzt gesehener Jahrgang, sonst Bund 1979
                 val gebiet = plattform.einstellungen.lesen("gebiet")?.takeIf { g -> jahrgaenge.any { it.gebiet == g } } ?: _zustand.value.gebiet
                 val jahr = plattform.einstellungen.lesen("jahr")?.toLongOrNull()?.takeIf { j -> jahrgaenge.any { it.gebiet == gebiet && it.jahr == j } }
@@ -213,6 +236,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                     val g = startGebiet ?: "Bund"
                     _zustand.value.jahrgaenge.firstOrNull { it.gebiet == g && (startJahr == null || it.jahr == startJahr) }?.let(::jahrgangWaehlen)
                 }
+                abgleichen(mitPrivat = true, still = true)
             } catch (e: Exception) {
                 _zustand.update { it.copy(laedt = false, fehler = e.message ?: e.toString()) }
             }
@@ -278,6 +302,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         viewModelScope.launch {
             withContext(Dispatchers.IO) { s.setzen(marke.gebiet, marke.mi_nr, erhaltung, anzahl) }
             bestandAktualisieren(marke)
+            abgleichBald()
         }
     }
 
@@ -292,6 +317,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
             delay(400)
             withContext(Dispatchers.IO) { s.notiz(marke.gebiet, marke.mi_nr, text) }
             bestandAktualisieren(marke)
+            abgleichBald()
         }
     }
 
@@ -308,6 +334,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 if (quelle.parentFile == plattform.cacheOrdner) quelle.delete()
             }
             bilderNeuEinlesen()
+            abgleichBald()
         }
     }
 
@@ -374,6 +401,107 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
                 }
             }.awaitAll()
             _zustand.update { it.copy(vorladen = null, vorladenMeldung = if (fehler == 0) "${dateien.size} Bilder geladen" else "${dateien.size - fehler} geladen, $fehler nicht erreichbar") }
+        }
+    }
+
+    // ------------------------------------------------------------ Abgleich mit der NAS
+
+    private var abgleichLauf: Job? = null
+    private var abgleichWarten: Job? = null
+
+    private fun nasZustandLaden() {
+        val e = plattform.einstellungen
+        _zustand.update { it.copy(nasAdresse = e.lesen(NAS_ADRESSE).orEmpty(), nasBenutzer = e.lesen(NAS_BENUTZER).orEmpty(),
+            nasPasswortGesetzt = !e.lesen(NAS_PASSWORT).isNullOrEmpty()) }
+    }
+
+    /** Zugang speichern (leeres Passwort = das gespeicherte behalten) und gleich abgleichen. */
+    fun nasEinstellen(adresse: String, benutzer: String, passwort: String) {
+        val e = plattform.einstellungen
+        val a = adresse.trim().let { if (it.isNotEmpty() && "://" !in it) "https://$it" else it }
+        if (a != e.lesen(NAS_ADRESSE)) e.schreiben(NAS_ZERTIFIKAT, null)
+        e.schreiben(NAS_ADRESSE, a.ifEmpty { null })
+        e.schreiben(NAS_BENUTZER, benutzer.trim().ifEmpty { null })
+        if (passwort.isNotEmpty()) e.schreiben(NAS_PASSWORT, passwort)
+        nasZustandLaden()
+        _zustand.update { it.copy(nasZertifikatFrage = null, abgleichMeldung = null) }
+        abgleichen(mitPrivat = true)
+    }
+
+    /** Abgleich ausschalten: Zugang vergessen. Bestand, Fotos und geholte Bilder bleiben auf dem Geraet. */
+    fun nasTrennen() {
+        listOf(NAS_ADRESSE, NAS_BENUTZER, NAS_PASSWORT, NAS_ZERTIFIKAT).forEach { plattform.einstellungen.schreiben(it, null) }
+        abgleichLauf?.cancel()
+        nasZustandLaden()
+        _zustand.update { it.copy(abgleichMeldung = null, nasZertifikatFrage = null, abgleichLaeuft = false, abgleichPrivat = null) }
+    }
+
+    fun nasZertifikatAnnehmen(annehmen: Boolean) {
+        val name = _zustand.value.nasZertifikatFrage ?: return
+        _zustand.update { it.copy(nasZertifikatFrage = null) }
+        if (annehmen) { plattform.einstellungen.schreiben(NAS_ZERTIFIKAT, name); abgleichen(mitPrivat = true) }
+        else _zustand.update { it.copy(abgleichMeldung = "Zertifikat nicht angenommen") }
+    }
+
+    /** Nach einer Aenderung kurz warten, dann Bestand und Fotos abgleichen (mehrere Tipps = ein Abgleich). */
+    private fun abgleichBald() {
+        if (!_zustand.value.nasEingerichtet) return
+        abgleichWarten?.cancel()
+        abgleichWarten = viewModelScope.launch { delay(3000); abgleichen(mitPrivat = false, still = true) }
+    }
+
+    /**
+     * Bestand, eigene Fotos und (mit `mitPrivat`) die privaten Bilder mit der NAS abgleichen. Private Bilder
+     * holt es von selbst nur im WLAN; `privatErzwingen` holt sie auch ueber mobile Daten.
+     * `still`: Fehler nur leise melden (Start, nach Aenderungen - unterwegs ist die NAS nicht erreichbar).
+     */
+    fun abgleichen(mitPrivat: Boolean = true, privatErzwingen: Boolean = false, still: Boolean = false) {
+        val z = _zustand.value
+        val s = sammlung ?: return
+        if (!z.nasEingerichtet || abgleichLauf?.isActive == true) return
+        val e = plattform.einstellungen
+        abgleichLauf = viewModelScope.launch {
+            _zustand.update { it.copy(abgleichLaeuft = true, abgleichMeldung = it.abgleichMeldung) }
+            val meldung = withContext(Dispatchers.IO) {
+                val dav = WebDav(plattform.http, e.lesen(NAS_ADRESSE)!!, e.lesen(NAS_BENUTZER)!!, e.lesen(NAS_PASSWORT)!!, e.lesen(NAS_ZERTIFIKAT))
+                try {
+                    try { dav.pruefen() } catch (x: javax.net.ssl.SSLPeerUnverifiedException) {
+                        val namen = dav.zertifikatNamenErfragen()
+                        if (namen.isNotEmpty()) { _zustand.update { it.copy(nasZertifikatFrage = namen.first()) }; return@withContext "Rückfrage zum Zertifikat" }
+                        throw x
+                    }
+                    val a = Abgleich(dav, s, ordner, privatOrdner)
+                    val bestandNeu = a.bestand()
+                    val (hoch, runter) = a.bilder()
+                    val holen = privatErzwingen || plattform.unbegrenztesNetz()
+                    val (privatNeu, privatGesamt) = if (mitPrivat) a.privat(holen) { n, g -> _zustand.update { it.copy(abgleichPrivat = n to g) } } else 0 to -1
+                    val wartet = mitPrivat && !holen && a.privatFehlt()
+                    // Neuen Stand anzeigen
+                    val uebersicht = s.uebersicht()
+                    val scans = if (runter > 0) eigene.einlesen() else null
+                    val privat = PrivatBilder.laden(privatOrdner)
+                    val quelle = PrivatBilder.quelle(privatOrdner)
+                    _zustand.update { it.copy(bestand = uebersicht, eigeneBilder = scans ?: it.eigeneBilder, privatBilder = privat, privatQuelle = quelle) }
+                    if (bestandNeu || runter > 0) withContext(Dispatchers.Main) { _zustand.value.marke?.let { waehlen(it) } }
+                    buildList {
+                        add("Abgeglichen um " + java.time.LocalTime.now().withNano(0).withSecond(0).toString())
+                        if (bestandNeu) add("Bestand aktualisiert")
+                        if (hoch > 0 || runter > 0) add("Fotos: $hoch hoch, $runter herunter")
+                        if (privatNeu > 0) add("$privatNeu private Bilder geholt")
+                        if (wartet) add("$privatGesamt private Bilder warten aufs WLAN")
+                        else if (privatGesamt > 0 && privatNeu == 0) add("$privatGesamt private Bilder auf dem Gerät")
+                    }.joinToString(" · ")
+                } catch (x: WebDavFehler) {
+                    "NAS: ${x.message}"
+                } catch (x: java.io.IOException) {
+                    "NAS nicht erreichbar" + (x.message?.let { " ($it)" } ?: "")
+                } catch (x: Exception) {
+                    if (x is kotlinx.coroutines.CancellationException) throw x
+                    System.err.println("Abgleich: " + x.stackTraceToString())
+                    "Abgleich gescheitert: ${x::class.simpleName}: ${x.message}"
+                }
+            }
+            _zustand.update { it.copy(abgleichLaeuft = false, abgleichPrivat = null, abgleichMeldung = meldung) }
         }
     }
 

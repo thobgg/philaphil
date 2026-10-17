@@ -37,16 +37,17 @@ class Sammlung(datenOrdner: File, private var ordner: Ordner, private val einste
         val gelesen = einstellungen.lesen("bestandStand:${ordner.anzeige}")?.toLongOrNull() ?: 0L
         if (stand > 0 && (stand > gelesen || alle().isEmpty())) {
             val text = ordner.lesen(BESTAND_JSON)?.toString(Charsets.UTF_8) ?: return
-            val eintraege = runCatching { json.decodeFromString<List<BestandEintrag>>(text) }.getOrNull() ?: return
-            db.transaction {
-                db.bestandQueries.alleLoeschen()
-                eintraege.forEach { db.bestandQueries.setzen(it.gebiet, it.mi_nr, it.erhaltung, it.anzahl, it.notiz, it.geaendert) }
-            }
+            val eintraege = bestandLesen(text) ?: return
+            eintraegeSetzen(eintraege)
             einstellungen.schreiben("bestandStand:${ordner.anzeige}", stand.toString())
         } else if (stand == 0L && alle().isNotEmpty()) {
             sichern()      // neuer Ordner ohne JSON: den lokalen Bestand hineinschreiben
         }
     }
+
+    fun bestandJson(eintraege: List<BestandEintrag>): String = json.encodeToString(eintraege)
+
+    fun bestandLesen(text: String): List<BestandEintrag>? = runCatching { json.decodeFromString<List<BestandEintrag>>(text) }.getOrNull()
 
     fun ordnerWechseln(neu: Ordner) { ordner = neu; abgleichen() }
 
@@ -62,8 +63,8 @@ class Sammlung(datenOrdner: File, private var ordner: Ordner, private val einste
 
     fun setzen(gebiet: String, miNr: String, erhaltung: String, anzahl: Long) {
         val notiz = zurMarke(gebiet, miNr).firstNotNullOfOrNull { it.notiz }
-        if (anzahl <= 0) db.bestandQueries.loeschen(gebiet, miNr, erhaltung)
-        else db.bestandQueries.setzen(gebiet, miNr, erhaltung, anzahl, notiz, jetzt())
+        // Entfernen setzt die Anzahl auf 0: der Vermerk reist mit, damit andere Geraete die Marke auch austragen
+        db.bestandQueries.setzen(gebiet, miNr, erhaltung, maxOf(anzahl, 0), notiz, jetzt())
         sichern()
     }
 
@@ -78,13 +79,39 @@ class Sammlung(datenOrdner: File, private var ordner: Ordner, private val einste
         sichern()
     }
 
+    /** Alle Eintraege samt Loeschvermerken, wie sie in bestand.json stehen. */
+    fun eintraege(): List<BestandEintrag> =
+        db.bestandQueries.alleMitVermerken().executeAsList().map { BestandEintrag(it.gebiet, it.mi_nr, it.erhaltung, it.anzahl, it.notiz, it.geaendert) }
+
+    /** Ergebnis eines Abgleichs uebernehmen: Datenbank ersetzen und bestand.json im Sammlungsordner schreiben. */
+    fun uebernehmen(eintraege: List<BestandEintrag>) {
+        eintraegeSetzen(eintraege)
+        sichern()
+    }
+
+    private fun eintraegeSetzen(eintraege: List<BestandEintrag>) {
+        db.transaction {
+            db.bestandQueries.alleLoeschen()
+            eintraege.forEach { db.bestandQueries.setzen(it.gebiet, it.mi_nr, it.erhaltung, it.anzahl, it.notiz, it.geaendert) }
+        }
+    }
+
     private fun jetzt() = LocalDateTime.now().withNano(0).toString()
 
     private fun sichern() {
         runCatching {
-            val text = json.encodeToString(alle().map { BestandEintrag(it.gebiet, it.mi_nr, it.erhaltung, it.anzahl, it.notiz, it.geaendert) })
+            val text = bestandJson(eintraege())
             ordner.schreiben(BESTAND_JSON, text.toByteArray(Charsets.UTF_8))
             einstellungen.schreiben("bestandStand:${ordner.anzeige}", ordner.geaendert(BESTAND_JSON).toString())
         }
     }
 }
+
+/**
+ * Zwei Fassungen des Bestands zusammenfuehren (dieses Geraet und die NAS): je Marke und Erhaltung gilt der
+ * zuletzt geaenderte Eintrag. Loeschvermerke (Anzahl 0) zaehlen mit, so geht keine Aenderung verloren.
+ */
+fun zusammenfuehren(a: List<BestandEintrag>, b: List<BestandEintrag>): List<BestandEintrag> =
+    (a + b).groupBy { Triple(it.gebiet, it.mi_nr, it.erhaltung) }.values
+        .map { l -> l.maxWith(compareBy<BestandEintrag>({ it.geaendert.orEmpty() }, { it.anzahl }, { it.notiz.orEmpty() })) }
+        .sortedWith(compareBy({ it.gebiet }, { it.mi_nr }, { it.erhaltung }))

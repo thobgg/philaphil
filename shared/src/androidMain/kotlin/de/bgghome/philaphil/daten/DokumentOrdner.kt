@@ -19,6 +19,9 @@ class DokumentOrdner(private val context: Context, private val baum: Uri) : Ordn
     override fun lesen(name: String): ByteArray? =
         wurzel?.findFile(name)?.takeIf { it.isFile }?.let { d -> context.contentResolver.openInputStream(d.uri)?.use { it.readBytes() } }
 
+    override fun lesenIn(unterordner: String, name: String): ByteArray? =
+        ort(unterordner)?.findFile(name)?.takeIf { it.isFile }?.let { d -> context.contentResolver.openInputStream(d.uri)?.use { it.readBytes() } }
+
     override fun geaendert(name: String): Long = wurzel?.findFile(name)?.lastModified() ?: 0L
 
     override fun schreiben(name: String, bytes: ByteArray) {
