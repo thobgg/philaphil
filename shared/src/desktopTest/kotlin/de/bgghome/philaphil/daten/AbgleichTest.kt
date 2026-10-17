@@ -28,6 +28,15 @@ class AbgleichTest {
         assertEquals(0L, z.first { it.mi_nr == "1019" }.anzahl)            // die Loeschung ist juenger
     }
 
+    @Test
+    fun alteOrtszeitUndNeueWeltzeit() {
+        // Alter Eintrag in Ortszeit (bis 0.7), neuer in Weltzeit: der juengere Zeitpunkt gewinnt, nicht der groessere Text
+        val alt = BestandEintrag("Bund", "1031", "**", 1, geaendert = "2026-07-01T12:00:00")     // 10:00 UTC (Sommerzeit)
+        val neu = BestandEintrag("Bund", "1031", "**", 3, geaendert = "2026-07-01T10:30:00Z")
+        assertEquals(3L, zusammenfuehren(listOf(alt), listOf(neu)).single().anzahl)
+        assertEquals(3L, zusammenfuehren(listOf(neu), listOf(alt)).single().anzahl)
+    }
+
     /** Laeuft nur mit einem WebDAV-Server: DAV_TEST_URL, DAV_TEST_BENUTZER, DAV_TEST_PASSWORT. */
     @Test
     fun zweiGeraeteUeberWebDav() {
@@ -69,5 +78,8 @@ class AbgleichTest {
         assertTrue(gesamt > 0 && neu == gesamt)
         assertEquals(0, b.privat(holen = true).first)
         assertTrue(PrivatBilder.laden(handyPrivat).isNotEmpty())
+
+        // Sicherung des Tages liegt auf dem Server
+        assertTrue(dav.liste(Abgleich.SICHERUNG).orEmpty().any { it.name == "bestand-${java.time.LocalDate.now()}.json" })
     }
 }

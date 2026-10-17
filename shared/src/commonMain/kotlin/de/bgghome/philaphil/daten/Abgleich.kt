@@ -1,6 +1,7 @@
 package de.bgghome.philaphil.daten
 
 import java.io.File
+import java.time.LocalDate
 
 /** Was ein Abgleich bewegt hat. */
 data class AbgleichErgebnis(
@@ -37,10 +38,24 @@ class Abgleich(private val dav: WebDav, private val sammlung: Sammlung, private 
             val lokalGeaendert = neu != zusammenfuehren(lokal, emptyList())
             if (lokalGeaendert) sammlung.uebernehmen(neu)
             if (neu == zusammenfuehren(fernListe, emptyList()) && fern != null) return lokalGeaendert
+            fern?.let { sichern(it.first) }
             val bytes = sammlung.bestandJson(neu).toByteArray(Charsets.UTF_8)
             if (dav.schreiben(BESTAND_JSON, bytes, etag = fern?.second?.takeUnless { it.startsWith("W/") }, neu = fern == null)) return lokalGeaendert
         }
         throw WebDavFehler(412, "bestand.json wird gerade von einem anderen Gerät geschrieben")
+    }
+
+    /**
+     * Vor der ersten Aenderung des Tages den bisherigen Stand der NAS aufheben: Sicherung/bestand-2026-10-17.json.
+     * Die letzten SICHERUNGEN Tage bleiben, aeltere werden entfernt.
+     */
+    private fun sichern(bisher: ByteArray) {
+        val name = "bestand-${LocalDate.now()}.json"
+        val vorhanden = dav.liste(SICHERUNG)?.map { it.name }?.filter { it.startsWith("bestand-") && it.endsWith(".json") }
+            ?: emptyList<String>().also { dav.ordnerAnlegen(SICHERUNG) }
+        if (name in vorhanden) return
+        dav.schreiben("$SICHERUNG/$name", bisher, neu = true)
+        (vorhanden + name).sorted().dropLast(SICHERUNGEN).forEach { dav.loeschen("$SICHERUNG/$it") }
     }
 
     /** Eigene Fotos: fehlende in beide Richtungen kopieren. Liefert (hochgeladen, heruntergeladen). */
@@ -94,6 +109,8 @@ class Abgleich(private val dav: WebDav, private val sammlung: Sammlung, private 
 
     companion object {
         const val PRIVAT = "Privat"
+        const val SICHERUNG = "Sicherung"
+        const val SICHERUNGEN = 30
         const val QUELLE = "quelle.txt"
         private val BILD = Regex("""(?i).+\.(jpe?g|png|webp)$""")
     }

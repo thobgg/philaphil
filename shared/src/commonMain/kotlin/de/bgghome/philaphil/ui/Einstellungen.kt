@@ -43,6 +43,8 @@ fun Einstellungen(zustand: AppZustand, viewModel: AppViewModel, onClose: () -> U
         title = { Text(stringResource(Res.string.einstellungen_titel)) },
         text = {
             Column(Modifier.verticalScroll(androidx.compose.foundation.rememberScrollState())) {
+                OutlinedButton(onClick = { viewModel.hilfe(true) }) { Text("Hilfe und Anleitung") }
+                Spacer(Modifier.height(12.dp))
                 Text(stringResource(Res.string.sammlungsordner), style = MaterialTheme.typography.titleMedium)
                 Spacer(Modifier.height(4.dp))
                 Text(zustand.sammlungsordner, style = MaterialTheme.typography.bodyMedium)

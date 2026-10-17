@@ -107,6 +107,13 @@ class WebDav(http: OkHttpClient, adresse: String, benutzer: String, passwort: St
         }
     }
 
+    /** Loescht eine Datei; eine fehlende ist kein Fehler. */
+    fun loeschen(pfad: String) {
+        client.newCall(Request.Builder().url(url(pfad)).delete().build()).execute().use { r ->
+            if (!r.isSuccessful && r.code != 404) throw fehler(r.code)
+        }
+    }
+
     /** Legt einen Unterordner an; einen vorhandenen laesst es stehen. */
     fun ordnerAnlegen(ordner: String) {
         val ziel = url(ordner).newBuilder().addPathSegment("").build()

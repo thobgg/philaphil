@@ -28,6 +28,8 @@ fun main(args: Array<String>) {
     val heute = "--heute" in args
     // --einstellungen: gleich mit geoeffneten Einstellungen starten (zum Testen)
     val einstellungen = "--einstellungen" in args
+    // --hilfe: gleich mit der Hilfe starten (fuer Bilder im Handbuch)
+    val hilfe = "--hilfe" in args
     // --jahr 1989: mit diesem Jahrgang starten (Gebiet aus --gebiet, sonst Bund)
     val startJahr = args.toList().zipWithNext().firstOrNull { it.first == "--jahr" }?.second?.toLongOrNull()
     // --gebiet Reich: mit diesem Sammelgebiet starten (zum Testen)
@@ -47,6 +49,7 @@ fun main(args: Array<String>) {
                 if (vorladen && !zustand.laedt) viewModel.vorladen(context)
                 if (heute && !zustand.laedt) viewModel.heuteOeffnen()
                 if (einstellungen && !zustand.laedt) viewModel.einstellungen(true)
+                if (hilfe && !zustand.laedt) viewModel.hilfe(true)
             }
             LaunchedEffect(zustand.vorladenMeldung) { if (vorladen) zustand.vorladenMeldung?.let { println("Vorladen: $it") } }
             PhilaTheme { AppRoot(viewModel) }

@@ -93,10 +93,11 @@ private val BREIT_AB = 840.dp
 fun AppRoot(viewModel: AppViewModel) {
     val zustand by viewModel.zustand.collectAsState()
 
-    BackHandler(enabled = zustand.zeitreiseOffen || zustand.heute != null || zustand.einstellungenOffen || zustand.vollbild || zustand.satzSeite != null || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
+    BackHandler(enabled = zustand.zeitreiseOffen || zustand.heute != null || zustand.einstellungenOffen || zustand.hilfeOffen || zustand.vollbild || zustand.satzSeite != null || zustand.themaSeite != null || zustand.marke != null || zustand.suchtreffer != null) {
         viewModel.zurueck()
     }
     if (zustand.einstellungenOffen) Einstellungen(zustand, viewModel, onClose = { viewModel.einstellungen(false) })
+    if (zustand.hilfeOffen) Hilfe(viewModel, onClose = { viewModel.hilfe(false) })
 
     BoxWithConstraints(Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background)) {
         val breit = maxWidth >= BREIT_AB

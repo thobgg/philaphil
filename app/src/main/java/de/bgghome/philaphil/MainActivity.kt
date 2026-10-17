@@ -24,4 +24,10 @@ class MainActivity : ComponentActivity() {
             PhilaTheme { AppRoot(viewModel) }
         }
     }
+
+    // Zurueck aus dem Hintergrund: Aenderungen der anderen Geraete von der NAS holen
+    override fun onResume() {
+        super.onResume()
+        viewModel.wiederAufgenommen()
+    }
 }

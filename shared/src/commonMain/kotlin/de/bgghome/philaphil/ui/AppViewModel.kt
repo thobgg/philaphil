@@ -124,6 +124,7 @@ data class AppZustand(
     /** Vollbild mit Wischen und Zoom ueber alle Marken der Liste mit Bild. */
     val vollbild: Boolean = false,
     val einstellungenOffen: Boolean = false,
+    val hilfeOffen: Boolean = false,
     /** KI-Begleiter: nur nach Opt-in und mit eigenem Schluessel. */
     val kiAn: Boolean = false,
     val kiArt: KiArt = KiArt.CLAUDE,
@@ -443,6 +444,15 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         else _zustand.update { it.copy(abgleichMeldung = "Zertifikat nicht angenommen") }
     }
 
+    private var letzterAbgleich = 0L
+
+    /** App kommt in den Vordergrund: abgleichen, aber hoechstens einmal pro Minute. */
+    fun wiederAufgenommen() {
+        val jetzt = System.currentTimeMillis()
+        if (sammlung == null || jetzt - letzterAbgleich < 60_000) return
+        abgleichen(mitPrivat = true, still = true)
+    }
+
     /** Nach einer Aenderung kurz warten, dann Bestand und Fotos abgleichen (mehrere Tipps = ein Abgleich). */
     private fun abgleichBald() {
         if (!_zustand.value.nasEingerichtet) return
@@ -460,6 +470,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
         val s = sammlung ?: return
         if (!z.nasEingerichtet || abgleichLauf?.isActive == true) return
         val e = plattform.einstellungen
+        letzterAbgleich = System.currentTimeMillis()
         abgleichLauf = viewModelScope.launch {
             _zustand.update { it.copy(abgleichLaeuft = true, abgleichMeldung = it.abgleichMeldung) }
             val meldung = withContext(Dispatchers.IO) {
@@ -617,6 +628,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
     }
 
     fun einstellungen(offen: Boolean) = _zustand.update { it.copy(einstellungenOffen = offen) }
+    fun hilfe(offen: Boolean) = _zustand.update { it.copy(hilfeOffen = offen) }
 
     // ------------------------------------------------------------ Themen, Suche, Vollbild
 
@@ -672,6 +684,7 @@ class AppViewModel(val plattform: Plattform, private val startMiNr: String? = nu
     fun zurueck(): Boolean {
         val z = _zustand.value
         return when {
+            z.hilfeOffen -> { hilfe(false); true }
             z.einstellungenOffen -> { einstellungen(false); true }
             z.heute != null && !z.vollbild -> { heuteSchliessen(); true }
             z.zeitreiseOffen && z.themaSeite == null && z.marke == null -> { zeitreise(false); true }

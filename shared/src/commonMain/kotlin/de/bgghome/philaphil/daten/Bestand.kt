@@ -8,7 +8,11 @@ import kotlinx.serialization.Serializable
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import java.io.File
+import java.time.Instant
 import java.time.LocalDateTime
+import java.time.OffsetDateTime
+import java.time.ZoneId
+import java.time.temporal.ChronoUnit
 
 /** Oeffnet bestand.db; legt das Schema an, wenn die Datei neu ist. */
 expect fun bestandTreiber(datei: File): SqlDriver
@@ -96,7 +100,8 @@ class Sammlung(datenOrdner: File, private var ordner: Ordner, private val einste
         }
     }
 
-    private fun jetzt() = LocalDateTime.now().withNano(0).toString()
+    /** Weltzeit (UTC), damit Geraete und Zeitumstellung die Reihenfolge nicht durcheinanderbringen. */
+    private fun jetzt() = Instant.now().truncatedTo(ChronoUnit.SECONDS).toString()
 
     private fun sichern() {
         runCatching {
@@ -113,5 +118,17 @@ class Sammlung(datenOrdner: File, private var ordner: Ordner, private val einste
  */
 fun zusammenfuehren(a: List<BestandEintrag>, b: List<BestandEintrag>): List<BestandEintrag> =
     (a + b).groupBy { Triple(it.gebiet, it.mi_nr, it.erhaltung) }.values
-        .map { l -> l.maxWith(compareBy<BestandEintrag>({ it.geaendert.orEmpty() }, { it.anzahl }, { it.notiz.orEmpty() })) }
+        .map { l -> l.maxWith(compareBy<BestandEintrag>({ zeitpunkt(it.geaendert) }, { it.anzahl }, { it.notiz.orEmpty() })) }
         .sortedWith(compareBy({ it.gebiet }, { it.mi_nr }, { it.erhaltung }))
+
+/**
+ * Zeitpunkt eines Eintrags: neu in Weltzeit ("…Z"), aeltere Fassungen (bis 0.7) schrieben Ortszeit ohne Zone -
+ * die gilt als Zeit dieses Geraets.
+ */
+fun zeitpunkt(s: String?): Instant {
+    if (s.isNullOrBlank()) return Instant.EPOCH
+    return runCatching { Instant.parse(s) }
+        .recoverCatching { OffsetDateTime.parse(s).toInstant() }
+        .recoverCatching { LocalDateTime.parse(s).atZone(ZoneId.systemDefault()).toInstant() }
+        .getOrDefault(Instant.EPOCH)
+}
