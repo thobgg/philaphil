@@ -17,6 +17,8 @@ __pycache__/
 
 # Eigene Scans bleiben privat
 bilder/
+# ... ausser den Bildern fuer README und Handbuch
+!docs/bilder/
 
 # Arbeitsnotizen bleiben lokal, nur README und daten/README gehen mit
 /*.md
