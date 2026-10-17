@@ -15,6 +15,9 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardActions
@@ -100,8 +103,21 @@ fun AppRoot(viewModel: AppViewModel) {
     if (zustand.einstellungenOffen) Einstellungen(zustand, viewModel, onClose = { viewModel.einstellungen(false) })
     if (zustand.hilfeOffen) Hilfe(viewModel, onClose = { viewModel.hilfe(false) })
 
+    // Die Liste behaelt ihre Position, auch wenn am Handy die Markenkarte darueber liegt
+    val listenZustand = rememberLazyListState()
     BoxWithConstraints(Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background)) {
         val breit = maxWidth >= BREIT_AB
+        // Neuer Jahrgang, neue Suche, anderer Filter: Liste von oben
+        LaunchedEffect(zustand.gebiet, zustand.jahr, zustand.suchtext, zustand.filter) { listenZustand.requestScrollToItem(0) }
+        // Gezeigte Marke (Tipp oder Wischen in der Karte): Liste zieht mit, beim Zurueckkommen steht man bei ihr
+        LaunchedEffect(zustand.marke?.id) {
+            val id = zustand.marke?.id ?: return@LaunchedEffect
+            val stelle = zustand.liste.indexOfFirst { it.id == id }
+            if (stelle < 0 || listenZustand.layoutInfo.visibleItemsInfo.any { it.key == id }) return@LaunchedEffect
+            val kopf = (if (!breit && zustand.suchtreffer == null && zustand.ereignisse.isNotEmpty()) 1 else 0) +
+                (if (zustand.suchtreffer != null) 1 else 0)
+            listenZustand.requestScrollToItem(maxOf(0, kopf + stelle - 1))
+        }
         when {
             zustand.vollbild && zustand.marke != null ->
                 Bildbetrachter(zustand, viewModel, onClose = { viewModel.vollbild(false) })
@@ -115,11 +131,13 @@ fun AppRoot(viewModel: AppViewModel) {
             !breit && zustand.themaSeite != null ->
                 Seite(zustand.themaSeite!!.thema.titel, onZurueck = viewModel::themaSchliessen) { ThemaSeite(zustand, viewModel) }
             !breit && zustand.marke != null ->
-                Seite("MiNr. ${zustand.marke!!.mi_nr}", onZurueck = { viewModel.waehlen(null) }) { MarkenPager(zustand, viewModel) }
+                Seite("MiNr. ${zustand.marke!!.mi_nr}", onZurueck = { viewModel.waehlen(null) }) {
+                    MarkenPager(zustand, viewModel, onSchliessen = if (viewModel.plattform.wischGesten) ({ viewModel.waehlen(null) }) else null)
+                }
             else -> Scaffold(topBar = { Kopf(zustand, viewModel, breit) }, containerColor = MaterialTheme.colorScheme.background) { innen ->
                 Row(Modifier.padding(innen).fillMaxSize()) {
                     Box(if (breit) Modifier.width(420.dp).fillMaxHeight() else Modifier.fillMaxSize()) {
-                        Markenliste(zustand, onWahl = viewModel::waehlen, breit = breit, onZeitreise = { viewModel.zeitreise(true) })
+                        Markenliste(zustand, listenZustand, onWahl = viewModel::waehlen, breit = breit, onZeitreise = { viewModel.zeitreise(true) })
                     }
                     if (breit) {
                         VerticalDivider(color = MaterialTheme.colorScheme.outlineVariant)
@@ -218,14 +236,14 @@ private fun Kopf(zustand: AppZustand, viewModel: AppViewModel, breit: Boolean) {
 }
 
 @Composable
-private fun Markenliste(zustand: AppZustand, onWahl: (Marke) -> Unit, breit: Boolean = true, onZeitreise: () -> Unit = {}) {
+private fun Markenliste(zustand: AppZustand, listenZustand: LazyListState, onWahl: (Marke) -> Unit, breit: Boolean = true, onZeitreise: () -> Unit = {}) {
     when {
         zustand.laedt -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
         zustand.fehler != null -> Text(stringResource(Res.string.fehler_laden, zustand.fehler), Modifier.padding(24.dp),
             color = MaterialTheme.colorScheme.error)
         zustand.suchtreffer?.isEmpty() == true -> Text(stringResource(Res.string.keine_treffer), Modifier.padding(24.dp),
             color = MaterialTheme.colorScheme.onSurfaceVariant)
-        else -> LazyColumn(Modifier.fillMaxSize()) {
+        else -> LazyColumn(Modifier.fillMaxSize(), state = listenZustand) {
             if (!breit && zustand.suchtreffer == null && zustand.ereignisse.isNotEmpty()) {
                 item {
                     Text(stringResource(Res.string.zeitreise_titel, zustand.jahr.toString()) + " ›",

@@ -26,6 +26,10 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.runtime.setValue
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.input.nestedscroll.nestedScroll
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextDecoration
@@ -239,7 +243,7 @@ private fun Fakt(name: String, wert: String) {
  */
 @OptIn(androidx.compose.foundation.ExperimentalFoundationApi::class)
 @Composable
-fun MarkenPager(zustand: AppZustand, viewModel: AppViewModel) {
+fun MarkenPager(zustand: AppZustand, viewModel: AppViewModel, onSchliessen: (() -> Unit)? = null) {
     val liste = zustand.liste
     val marke = zustand.marke ?: return
     val index = liste.indexOfFirst { it.id == marke.id }
@@ -254,7 +258,51 @@ fun MarkenPager(zustand: AppZustand, viewModel: AppViewModel) {
             aktuelleListe.value.getOrNull(seite)?.let { if (it.id != viewModel.zustand.value.marke?.id) viewModel.waehlen(it) }
         }
     }
-    androidx.compose.foundation.pager.HorizontalPager(state = pager, beyondViewportPageCount = 1, key = { liste[it].id }) { seite ->
+    val runterziehen = if (onSchliessen != null) Modifier.runterziehenSchliesst(onSchliessen) else Modifier
+    androidx.compose.foundation.pager.HorizontalPager(state = pager, beyondViewportPageCount = 1, key = { liste[it].id }, modifier = runterziehen) { seite ->
         MarkenDetail(zustand, viewModel, gezeigt = liste[seite])
     }
 }
+
+/**
+ * Karte am oberen Ende nach unten ziehen: Sie folgt dem Finger und wird blasser; ab SCHLIESSEN_AB geht sie zu,
+ * sonst springt sie zurueck. Wirkt erst, wenn der Inhalt schon ganz oben steht (Rest des Zugs aus dem Scrollen).
+ */
+@Composable
+private fun Modifier.runterziehenSchliesst(onSchliessen: () -> Unit): Modifier {
+    val schwelle = with(androidx.compose.ui.platform.LocalDensity.current) { SCHLIESSEN_AB.toPx() }
+    var zug by androidx.compose.runtime.remember { androidx.compose.runtime.mutableFloatStateOf(0f) }
+    val aktuell = androidx.compose.runtime.rememberUpdatedState(onSchliessen)
+    val verbindung = androidx.compose.runtime.remember {
+        object : androidx.compose.ui.input.nestedscroll.NestedScrollConnection {
+            override fun onPreScroll(available: androidx.compose.ui.geometry.Offset, source: androidx.compose.ui.input.nestedscroll.NestedScrollSource): androidx.compose.ui.geometry.Offset {
+                // Schon heruntergezogen und wieder nach oben: erst den Zug zuruecknehmen, dann scrollt der Inhalt
+                if (zug > 0f && available.y < 0f) {
+                    val teil = maxOf(available.y, -zug)
+                    zug += teil
+                    return androidx.compose.ui.geometry.Offset(0f, teil)
+                }
+                return androidx.compose.ui.geometry.Offset.Zero
+            }
+            override fun onPostScroll(consumed: androidx.compose.ui.geometry.Offset, available: androidx.compose.ui.geometry.Offset, source: androidx.compose.ui.input.nestedscroll.NestedScrollSource): androidx.compose.ui.geometry.Offset {
+                if (source == androidx.compose.ui.input.nestedscroll.NestedScrollSource.UserInput && available.y > 0f) {
+                    zug += available.y
+                    return androidx.compose.ui.geometry.Offset(0f, available.y)
+                }
+                return androidx.compose.ui.geometry.Offset.Zero
+            }
+            override suspend fun onPreFling(available: androidx.compose.ui.unit.Velocity): androidx.compose.ui.unit.Velocity {
+                if (zug <= 0f) return androidx.compose.ui.unit.Velocity.Zero
+                if (zug > schwelle) { aktuell.value(); zug = 0f }
+                else androidx.compose.animation.core.animate(zug, 0f) { wert, _ -> zug = wert }
+                return available
+            }
+        }
+    }
+    return this.nestedScroll(verbindung).graphicsLayer {
+        translationY = zug * 0.6f
+        alpha = 1f - (zug / (schwelle * 3f)).coerceIn(0f, 0.35f)
+    }
+}
+
+private val SCHLIESSEN_AB = 140.dp

@@ -27,6 +27,8 @@ interface Plattform {
     val http: OkHttpClient
     /** true, wenn das Netz nicht nach Volumen zaehlt (WLAN, LAN) - fuers Vorladen der Bilder. */
     fun unbegrenztesNetz(): Boolean = true
+    /** Bedienung mit dem Finger (Android): Gesten wie "Karte nach unten ziehen zum Schliessen". Am PC nicht, sonst schliesst das Mausrad. */
+    val wischGesten: Boolean get() = false
     /** Oeffnet eine Adresse im Browser des Systems (Wikipedia, Commons). */
     fun oeffneWeb(url: String)
 }

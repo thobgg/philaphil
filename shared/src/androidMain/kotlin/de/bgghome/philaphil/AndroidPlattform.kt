@@ -58,6 +58,8 @@ class AndroidPlattform(private val app: Application) : Plattform {
         return DateiOrdner((app.getExternalFilesDir("Sammlung") ?: File(app.filesDir, "Sammlung")).apply { mkdirs() })
     }
 
+    override val wischGesten: Boolean = true
+
     override fun unbegrenztesNetz(): Boolean {
         val cm = app.getSystemService(android.net.ConnectivityManager::class.java) ?: return false
         return cm.activeNetwork != null && !cm.isActiveNetworkMetered
