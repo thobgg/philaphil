@@ -34,6 +34,13 @@ interface Plattform {
 const val APP_NAME = "PhilaPhil"
 const val EINSTELLUNG_SAMMLUNG = "sammlung"
 
+/**
+ * Geheimnisse (NAS-Passwort, KI-Schluessel) liegen auf Android in einem eigenen Speicher, den die Android-Sicherung
+ * nicht in die Cloud uebernimmt. Die uebrigen Einstellungen duerfen mit.
+ */
+fun istGeheim(schluessel: String): Boolean =
+    schluessel == de.bgghome.philaphil.ui.NAS_PASSWORT || schluessel.startsWith(de.bgghome.philaphil.ui.KI_SCHLUESSEL)
+
 /** Wikimedia verlangt einen aussagekraeftigen User-Agent mit Kontaktmoeglichkeit. */
 fun userAgent(versionName: String, system: String) =
     "$APP_NAME/$versionName ($system; https://github.com/thobgg/philaphil) OkHttp"

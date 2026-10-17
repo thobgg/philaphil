@@ -15,10 +15,29 @@ import java.io.File
 /** Die eine Application der App - der SQLite-Treiber braucht einen Context. */
 object AndroidKontext { lateinit var app: Application }
 
+/**
+ * Einstellungen in SharedPreferences. Geheimnisse (istGeheim) kommen in "geheim.xml", das die Android-Sicherung
+ * ausschliesst (res/xml/sicherung_*.xml); aeltere Fassungen hatten sie in den normalen Einstellungen - beim ersten
+ * Lesen ziehen sie um.
+ */
 class AndroidAblage(context: Context, name: String) : Ablage {
     private val prefs = context.getSharedPreferences(name, Context.MODE_PRIVATE)
-    override fun lesen(schluessel: String): String? = prefs.getString(schluessel, null)
-    override fun schreiben(schluessel: String, wert: String?) { prefs.edit().apply { if (wert == null) remove(schluessel) else putString(schluessel, wert) }.apply() }
+    private val geheim = context.getSharedPreferences("geheim", Context.MODE_PRIVATE)
+
+    override fun lesen(schluessel: String): String? {
+        if (!istGeheim(schluessel)) return prefs.getString(schluessel, null)
+        geheim.getString(schluessel, null)?.let { return it }
+        val alt = prefs.getString(schluessel, null) ?: return null
+        geheim.edit().putString(schluessel, alt).commit()
+        prefs.edit().remove(schluessel).apply()
+        return alt
+    }
+
+    override fun schreiben(schluessel: String, wert: String?) {
+        val ziel = if (istGeheim(schluessel)) geheim else prefs
+        ziel.edit().apply { if (wert == null) remove(schluessel) else putString(schluessel, wert) }.apply()
+        if (istGeheim(schluessel)) prefs.edit().remove(schluessel).apply()
+    }
 }
 
 class AndroidPlattform(private val app: Application) : Plattform {
