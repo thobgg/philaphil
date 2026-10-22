@@ -1,0 +1,1061 @@
+{
+  "gebiet": "SBZ",
+  "jahr": 1948,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der sowjetischen Besatzungszone",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_sowjetischen_Besatzungszone",
+    "revision": 263890535,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 182,
+    "mi_nr_bis": 228,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 3,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "198",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1948-08-29",
+      "wert": "16+9",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-04-30",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Leipziger Herbstmesse 1459: Der erste Neujahrsmarkt",
+      "anmerkungen": [],
+      "entwerfer": "Gruner",
+      "auflage": 6000000,
+      "commons_datei": "SBZ 1948 198 Leipziger Herbstmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "199",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1948-08-29",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-04-30",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Leipziger Herbstmesse 1469: Zuzug auswärtiger Tuchmacher",
+      "anmerkungen": [],
+      "entwerfer": "Gruner",
+      "auflage": 6000000,
+      "commons_datei": "SBZ 1948 199 Leipziger Herbstmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Herbstmesse",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "228",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1948-10-23",
+      "wert": "12+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-04-30",
+      "anlass": "Tag der Briefmarke",
+      "bild_beschreibung": "Emblem des Institutes für Philatelie",
+      "anmerkungen": [],
+      "entwerfer": "Müller",
+      "auflage": 5000000,
+      "commons_datei": "SBZ 1948 228 Tag der Briefmarke.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Tag der Briefmarke",
+          "beschriftung": "Tag der Briefmarke",
+          "haupt": true,
+          "artikel": "Tag der Briefmarke",
+          "wikidata": "Q1928575"
+        }
+      ]
+    },
+    {
+      "mi_nr": "182",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Brand",
+      "auflage": 20343500,
+      "commons_datei": "SBZ 1948 182 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "183",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Brand",
+      "auflage": 38781000,
+      "commons_datei": "SBZ 1948 183 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "184",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Luckenbach",
+      "auflage": 24118500,
+      "commons_datei": "SBZ 1948 184 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "185",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Luckenbach",
+      "auflage": 29367400,
+      "commons_datei": "SBZ 1948 185 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "186",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [],
+      "entwerfer": "Rogmann",
+      "auflage": 73148500,
+      "commons_datei": "SBZ 1948 186 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "187",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Brand",
+      "auflage": 13289300,
+      "commons_datei": "SBZ 1948 187 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "188",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Maurer, Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Banach",
+      "auflage": 15658700,
+      "commons_datei": "SBZ 1948 188 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "189",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Luckenbach",
+      "auflage": 20247600,
+      "commons_datei": "SBZ 1948 189 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "190",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Maurer, Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Banach",
+      "auflage": 78210300,
+      "commons_datei": "SBZ 1948 190 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "191",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Brand",
+      "auflage": 12231400,
+      "commons_datei": "SBZ 1948 191 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "192",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [],
+      "entwerfer": "Rogmann",
+      "auflage": 21968000,
+      "commons_datei": "SBZ 1948 192 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "193",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Luckenbach",
+      "auflage": 19330200,
+      "commons_datei": "SBZ 1948 193 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "194",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Maurer, Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Banach",
+      "auflage": 16878800,
+      "commons_datei": "SBZ 1948 194 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "195",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [],
+      "entwerfer": "Rogmann",
+      "auflage": 21211700,
+      "commons_datei": "SBZ 1948 195 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "196",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [],
+      "entwerfer": "Rogmann",
+      "auflage": 14900100,
+      "commons_datei": "SBZ 1948 196 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "197",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-07-03",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Arbeiter mit Aufdruck",
+      "bild_beschreibung": "Maurer und Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Banach",
+      "auflage": 6141400,
+      "commons_datei": "SBZ 1948 197 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "200 A+B",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-19",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "Diese Ausgabe wurde, wie im Original, sowohl gezähnt (A-Type), wie auch durchstochen (B-Type) herausgegeben",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 3864500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "201",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-13",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 6680100,
+      "commons_datei": "SBZ 1948 201A Berliner Bär.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "202",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-13",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 49960400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "203",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-09",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 5445600,
+      "commons_datei": "SBZ 1948 203A Berliner Bär.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "204",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-13",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 1194800,
+      "commons_datei": "SBZ 1948 204A Berliner Bär.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "205",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-14",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 2553900,
+      "commons_datei": "SBZ 1948 205A Berliner Bär.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "206",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-10",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Berliner Bär mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 1235500,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "207",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-08",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Ziffern mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 13238000,
+      "commons_datei": "SBZ 1948 207 Overprint.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "208",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Ziffern mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 1695000,
+      "commons_datei": "SBZ 1948 208 Overprint.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "209",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-09",
+      "wert": "45",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Ziffern mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 2557600,
+      "commons_datei": "SBZ 1948 209 Overprint.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "210",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-17",
+      "wert": "75",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Ziffern mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 4212900,
+      "commons_datei": "SBZ 1948 210 Overprint.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "211",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-09-03",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-02-28",
+      "anlass": "Kontrollratsausgabe Ziffern mit Aufdruck",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 4370600,
+      "commons_datei": "SBZ 1948 211 Overprint.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "212",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-13",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Käthe Kollwitz",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Käthe Kollwitz",
+          "beschriftung": "Käthe Kollwitz",
+          "haupt": true,
+          "artikel": "Käthe Kollwitz",
+          "wikidata": "Q142472"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "213",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-11",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-03-31",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Gerhart Hauptmann",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gerhart Hauptmann",
+          "beschriftung": "Gerhart Hauptmann",
+          "haupt": true,
+          "artikel": "Gerhart Hauptmann",
+          "wikidata": "Q43523"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "214",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-16",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Karl Marx",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "215",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-16",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "August Bebel",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "August Bebel",
+          "beschriftung": "August Bebel",
+          "haupt": true,
+          "artikel": "August Bebel",
+          "wikidata": "Q76520"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "216",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-11",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Friedrich Engels",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Engels",
+          "beschriftung": "Friedrich Engels",
+          "haupt": true,
+          "artikel": "Friedrich Engels",
+          "wikidata": "Q34787"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "217",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-16",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Georg Wilhelm Friedrich Hegel",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Wilhelm Friedrich Hegel",
+          "beschriftung": "Georg Wilhelm Friedrich Hegel",
+          "haupt": true,
+          "artikel": "Georg Wilhelm Friedrich Hegel",
+          "wikidata": "Q9235"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "218",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-16",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Rudolf Virchow",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudolf Virchow",
+          "beschriftung": "Rudolf Virchow",
+          "haupt": true,
+          "artikel": "Rudolf Virchow",
+          "wikidata": "Q76432"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "219",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-27",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Käthe Kollwitz",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "220",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-11-04",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Ernst Thälmann",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": false,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "221",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-27",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Rudolf Virchow",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "222",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-27",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Friedrich Engels",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "223",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Gerhart Hauptmann",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "224",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-11-10",
+      "wert": "50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Karl Marx",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "225",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-11",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Georg Wilhelm Friedrich Hegel",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "226",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-11",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-04-15",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "Ernst Thälmann",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    },
+    {
+      "mi_nr": "227",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1948-10-11",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": "1954-02-28",
+      "anlass": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+      "bild_beschreibung": "August Bebel",
+      "anmerkungen": [
+        "Diese Ausgaben der SBZ wurden auf Papier mit Wasserzeichen 3 Kreuzblumen gedruckt. Ab 1952 gab die Post der DDR mit Ausnahme des Wertes zu 12 Pfennig Briefmarken mit gleichen Motiven, Farben und Wertstufen heraus, jedoch auf Papier mit Wasserzeichen 2 Posthorn DDR."
+      ],
+      "entwerfer": "Heinrich Ilgenfritz",
+      "auflage": null,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "beschriftung": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "haupt": true,
+          "artikel": "Persönlichkeiten aus Politik, Kunst und Wissenschaft",
+          "wikidata": "Q2072522"
+        }
+      ]
+    }
+  ]
+}

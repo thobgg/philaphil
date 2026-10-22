@@ -1,0 +1,491 @@
+{
+  "gebiet": "Kontrollrat",
+  "jahr": 1947,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben des Alliierten Kontrollrats",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_des_Alliierten_Kontrollrats",
+    "revision": 263889294,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 941,
+    "mi_nr_bis": 966,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 6,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "941",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1947-03-05",
+      "wert": "24+26",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse 1947",
+      "bild_beschreibung": "Leipzig erhält 1160 durch Markgraf Otto von Meissen das Marktrecht",
+      "anmerkungen": [
+        "Die Marken werden in Typ I Kupfertiefdruck und Typ II Stichtiefdruck unterschieden",
+        "Die Marken dieser Serie wurden zunächst vom Alliierten Kontrollrat eingeführt sowie von Herbst 1948 bis 1949 von der SBZ und 1950 noch von der DDR mit weiteren Marken fortgeführt"
+      ],
+      "entwerfer": "Erich Gruner",
+      "auflage": 3700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        },
+        {
+          "titel": "Otto (Meißen)",
+          "beschriftung": "Markgraf Otto von Meissen",
+          "haupt": false,
+          "artikel": "Otto (Meißen)",
+          "wikidata": "Q63437"
+        },
+        {
+          "titel": "Marktrecht",
+          "beschriftung": "Marktrecht",
+          "haupt": false,
+          "artikel": "Marktrecht",
+          "wikidata": "Q10577578"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse 1947",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "942",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1947-03-05",
+      "wert": "60+40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Frühjahrsmesse 1947",
+      "bild_beschreibung": "Schutz fremder Kaufleute durch einen Erlass des Markgrafen Dietrich von Landsberg, 1268",
+      "anmerkungen": [
+        "Die Marken werden in Typ I Kupfertiefdruck und Typ II Stichtiefdruck unterschieden",
+        "Die Marken dieser Serie wurden zunächst vom Alliierten Kontrollrat eingeführt sowie von Herbst 1948 bis 1949 von der SBZ und 1950 noch von der DDR mit weiteren Marken fortgeführt"
+      ],
+      "entwerfer": "Erich Gruner",
+      "auflage": 3700000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Markgraf",
+          "beschriftung": "Markgraf",
+          "haupt": true,
+          "artikel": "Markgraf",
+          "wikidata": "Q157802"
+        },
+        {
+          "titel": "Dietrich von Landsberg",
+          "beschriftung": "Dietrich von Landsberg",
+          "haupt": false,
+          "artikel": "Dietrich von Landsberg",
+          "wikidata": "Q69985"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Frühjahrsmesse 1947",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "963",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1947-05-15",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Heinrich von Stephan (1831–1897)",
+      "bild_beschreibung": "Porträt von Heinrich von Stephan",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 30000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "964",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1947-05-15",
+      "wert": "75",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "50. Todestag von Heinrich von Stephan (1831–1897)",
+      "bild_beschreibung": "Porträt von Heinrich von Stephan",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 10000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich von Stephan",
+          "beschriftung": "Heinrich von Stephan",
+          "haupt": true,
+          "artikel": "Heinrich von Stephan",
+          "wikidata": "Q215482"
+        }
+      ]
+    },
+    {
+      "mi_nr": "965",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1947-09-02",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse 1947",
+      "bild_beschreibung": "Verleihung des Messeprivilegs 1497 durch Maximilian I.",
+      "anmerkungen": [],
+      "entwerfer": "Erich Gruner",
+      "auflage": 10000000,
+      "commons_datei": "Alliierte Besetzung 1947 965 Leipziger Herbstmesse.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Messe (Wirtschaft)",
+          "beschriftung": "Messeprivilegs",
+          "haupt": true,
+          "artikel": "Messe (Wirtschaft)",
+          "wikidata": "Q57305"
+        },
+        {
+          "titel": "Maximilian I. (HRR)",
+          "beschriftung": "Maximilian I.",
+          "haupt": false,
+          "artikel": "Maximilian I. (HRR)",
+          "wikidata": "Q150726"
+        }
+      ]
+    },
+    {
+      "mi_nr": "966",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1947-09-02",
+      "wert": "75",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Leipziger Herbstmesse 1947",
+      "bild_beschreibung": "Schätzung und Erhebung des Budenzinses, 1365",
+      "anmerkungen": [],
+      "entwerfer": "Erich Gruner",
+      "auflage": 10000000,
+      "commons_datei": "Alliierte Besetzung 1947 966 Leipziger Herbstmesse.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "943",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "2",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Ludwig Brand",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 943 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "944",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Ludwig Brand",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 944 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "945",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Heinz Luckenbach",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 945 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "947",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [],
+      "entwerfer": "Joseph Rogmann",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 947 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "949",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Maurer und Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Gerd Banach",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 949 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "950",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Heinz Luckenbach",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 950 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "951",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Maurer und Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Gerd Banach",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 951 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "952",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "25",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Baumpflanzer",
+      "anmerkungen": [],
+      "entwerfer": "Ludwig Brand",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 952 Baumpflanzer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "954",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Sämann",
+      "anmerkungen": [],
+      "entwerfer": "Heinz Luckenbach",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 954 Sämann.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "956",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "60",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [
+        "Philatelisten unterscheiden hier zwei Farben, die 956 in eher rot, die A956 eher rötliches braun"
+      ],
+      "entwerfer": "Joseph Rogmann",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 956 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "957",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "80",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Arbeiter",
+      "anmerkungen": [],
+      "entwerfer": "Joseph Rogmann",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 957 Arbeiter.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "958",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-03-01",
+      "wert": "84",
+      "waehrung": "Pf",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Maurer und Bäuerin",
+      "anmerkungen": [],
+      "entwerfer": "Gerd Banach",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 958 Maurer, Bäuerin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "959",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-05-01",
+      "wert": "1",
+      "waehrung": "M",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Hände, Kette und Friedenstaube",
+      "anmerkungen": [],
+      "entwerfer": "H. W. Hoepfner",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 959 Hände, Kette und Friedenstaube.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hand",
+          "beschriftung": "Hände",
+          "haupt": true,
+          "artikel": "Hand",
+          "wikidata": "Q33767"
+        },
+        {
+          "titel": "Kette",
+          "beschriftung": "Kette",
+          "haupt": false,
+          "artikel": "Kette",
+          "wikidata": "Q2397485"
+        },
+        {
+          "titel": "Friedenstaube",
+          "beschriftung": "Friedenstaube",
+          "haupt": false,
+          "artikel": "Friedenstaube",
+          "wikidata": "Q87758078"
+        }
+      ]
+    },
+    {
+      "mi_nr": "960",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-05-01",
+      "wert": "2",
+      "waehrung": "M",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Hände, Kette und Friedenstaube",
+      "anmerkungen": [],
+      "entwerfer": "H. W. Hoepfner",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 960 Hände, Kette und Friedenstaube.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "961",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1947-05-01",
+      "wert": "3",
+      "waehrung": "M",
+      "gueltig_bis": null,
+      "anlass": "Arbeiter",
+      "bild_beschreibung": "Hände, Kette und Friedenstaube",
+      "anmerkungen": [],
+      "entwerfer": "H. W. Hoepfner",
+      "auflage": null,
+      "commons_datei": "Alliierte Besetzung 1947 961 Hände, Kette und Friedenstaube.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

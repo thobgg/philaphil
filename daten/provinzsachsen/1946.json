@@ -1,0 +1,159 @@
+{
+  "gebiet": "Provinz Sachsen",
+  "jahr": 1946,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für die Provinz Sachsen",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_die_Provinz_Sachsen",
+    "revision": 263890501,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 87,
+    "mi_nr_bis": 91,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 5,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "87A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-19",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Wiederaufbau",
+      "bild_beschreibung": "Wohnungsbau",
+      "anmerkungen": [],
+      "entwerfer": "Gebauer",
+      "auflage": 8876000,
+      "commons_datei": "SBZ Provinz Sachsen 1946 87A Wiederaufbau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wohnungsbau",
+          "beschriftung": "Wohnungsbau",
+          "haupt": true,
+          "artikel": "Wohnungsbau",
+          "wikidata": "Q1799415"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "88A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-19",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Wiederaufbau",
+      "bild_beschreibung": "Brücken- und Straßenbau",
+      "anmerkungen": [],
+      "entwerfer": "Gebauer",
+      "auflage": 8876000,
+      "commons_datei": "SBZ Provinz Sachsen 1946 88A Wiederaufbau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brücke",
+          "beschriftung": "Brücke",
+          "haupt": true,
+          "artikel": "Brücke",
+          "wikidata": "Q12280"
+        },
+        {
+          "titel": "Straßen- und Wegebau",
+          "beschriftung": "Straßenbau",
+          "haupt": false,
+          "artikel": "Straßen- und Wegebau",
+          "wikidata": "Q2349677"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "89A",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-19",
+      "wert": "42+28",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Wiederaufbau",
+      "bild_beschreibung": "Maschinenbau",
+      "anmerkungen": [],
+      "entwerfer": "Gebauer",
+      "auflage": 4665000,
+      "commons_datei": "SBZ Provinz Sachsen 1946 89A Wiederaufbau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Maschinenbau",
+          "beschriftung": "Maschinenbau",
+          "haupt": true,
+          "artikel": "Maschinenbau",
+          "wikidata": "Q101333"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "90",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-02-21",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Bodenreform",
+      "bild_beschreibung": "Ausgabe auf sehr dünnem, glasigen oder pergamentartigen Papier; Bauer mit Pflug",
+      "anmerkungen": [],
+      "entwerfer": "Gebauer",
+      "auflage": 6050000,
+      "commons_datei": "SBZ Provinz Sachsen 1946 90 Bodenreform.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "91",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-02-21",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Bodenreform",
+      "bild_beschreibung": "Bauer mit Pflug",
+      "anmerkungen": [],
+      "entwerfer": "Gebauer",
+      "auflage": 6050000,
+      "commons_datei": "SBZ Provinz Sachsen 1946 91 Bodenreform.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

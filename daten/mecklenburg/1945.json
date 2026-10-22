@@ -1,0 +1,403 @@
+{
+  "gebiet": "Mecklenburg-Vorpommern",
+  "jahr": 1945,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für Mecklenburg-Vorpommern (SBZ)",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_Mecklenburg-Vorpommern_%28SBZ%29",
+    "revision": 263890486,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 8,
+    "mi_nr_bis": 28,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "20",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-10-21",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-11-20",
+      "anlass": "Opfer des Faschismus",
+      "bild_beschreibung": "Rudolf Breitscheid (SPD)",
+      "anmerkungen": [
+        "Ausgabedatum/Datum auf den Briefmarken: Am 21. Oktober 1945 fand in Neubrandenburg eine KPD-Gedenkveranstaltung für die »Opfer des Faschismus« statt. Am 8. Oktober 1945 hatte der Ausschuß für die Opfer des Faschismus in Berlin erste Schätzungen der Zahl derjenigen bekannt gegeben, die durch nationalsozialistische Verbrechen ihr Leben verloren hatten (rund 20 Millionen Menschen)."
+      ],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 203400,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rudolf Breitscheid",
+          "beschriftung": "Rudolf Breitscheid",
+          "haupt": true,
+          "artikel": "Rudolf Breitscheid",
+          "wikidata": "Q70890"
+        },
+        {
+          "titel": "Faschismus",
+          "beschriftung": "Faschismus",
+          "haupt": false,
+          "artikel": "Faschismus",
+          "wikidata": "Q6223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "21",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-10-21",
+      "wert": "8+22",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-11-20",
+      "anlass": "Opfer des Faschismus",
+      "bild_beschreibung": "Erich Klausener (Zentrum)",
+      "anmerkungen": [
+        "Ausgabedatum/Datum auf den Briefmarken: Am 21. Oktober 1945 fand in Neubrandenburg eine KPD-Gedenkveranstaltung für die »Opfer des Faschismus« statt. Am 8. Oktober 1945 hatte der Ausschuß für die Opfer des Faschismus in Berlin erste Schätzungen der Zahl derjenigen bekannt gegeben, die durch nationalsozialistische Verbrechen ihr Leben verloren hatten (rund 20 Millionen Menschen)."
+      ],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 198900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Erich Klausener",
+          "beschriftung": "Erich Klausener",
+          "haupt": true,
+          "artikel": "Erich Klausener",
+          "wikidata": "Q64781"
+        },
+        {
+          "titel": "Faschismus",
+          "beschriftung": "Faschismus",
+          "haupt": false,
+          "artikel": "Faschismus",
+          "wikidata": "Q6223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "22",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-10-21",
+      "wert": "12+28",
+      "waehrung": "Pf",
+      "gueltig_bis": "1945-11-20",
+      "anlass": "Opfer des Faschismus",
+      "bild_beschreibung": "Ernst Thälmann (KPD)",
+      "anmerkungen": [
+        "Ausgabedatum/Datum auf den Briefmarken: Am 21. Oktober 1945 fand in Neubrandenburg eine KPD-Gedenkveranstaltung für die »Opfer des Faschismus« statt. Am 8. Oktober 1945 hatte der Ausschuß für die Opfer des Faschismus in Berlin erste Schätzungen der Zahl derjenigen bekannt gegeben, die durch nationalsozialistische Verbrechen ihr Leben verloren hatten (rund 20 Millionen Menschen)."
+      ],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 199200,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ernst Thälmann",
+          "beschriftung": "Ernst Thälmann",
+          "haupt": true,
+          "artikel": "Ernst Thälmann",
+          "wikidata": "Q77004"
+        },
+        {
+          "titel": "Faschismus",
+          "beschriftung": "Faschismus",
+          "haupt": false,
+          "artikel": "Faschismus",
+          "wikidata": "Q6223"
+        }
+      ]
+    },
+    {
+      "mi_nr": "23",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-12-08",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-02-28",
+      "anlass": "Bodenreform Junkerland in Bauernhand",
+      "bild_beschreibung": "Bauer mit Pflug",
+      "anmerkungen": [],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 421300,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": true,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        }
+      ]
+    },
+    {
+      "mi_nr": "24",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-12-08",
+      "wert": "8+22",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-02-28",
+      "anlass": "Bodenreform Junkerland in Bauernhand",
+      "bild_beschreibung": "Bauer beim Säen",
+      "anmerkungen": [],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 418900,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": true,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        }
+      ]
+    },
+    {
+      "mi_nr": "25",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-12-08",
+      "wert": "12+28",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-02-28",
+      "anlass": "Bodenreform Junkerland in Bauernhand",
+      "bild_beschreibung": "Bauer beim Schneiden von Getreide",
+      "anmerkungen": [],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 425100,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodenreform in Deutschland",
+          "beschriftung": "Bodenreform",
+          "haupt": true,
+          "artikel": "Bodenreform in Deutschland",
+          "wikidata": "Q889622"
+        }
+      ]
+    },
+    {
+      "mi_nr": "26",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-12-31",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-02-28",
+      "anlass": "Kinderhilfe",
+      "bild_beschreibung": "kleines Kind",
+      "anmerkungen": [],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 411000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "27",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-12-31",
+      "wert": "8+22",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-02-28",
+      "anlass": "Kinderhilfe",
+      "bild_beschreibung": "Mädchen",
+      "anmerkungen": [],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 448000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "28",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1945-12-31",
+      "wert": "12+28",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-02-28",
+      "anlass": "Kinderhilfe",
+      "bild_beschreibung": "Junge",
+      "anmerkungen": [],
+      "entwerfer": "Herbert Bartholomäus",
+      "auflage": 416000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "8",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-08-28",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Ziffer auf grünlichem Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 6996000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 08 Ziffern.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "9",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-11-16",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Ziffer auf weißem Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 3990000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 09 Ziffern.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "11",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-10-06",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauer mit Pflug, rosa Druck auf rosa Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 3993000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 11 Bauer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "12",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-10-19",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauer mit Pflug, schwarzer Druck auf lilarosa Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 500000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 12 Bauer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "13",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-11-03",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauer mit Pflug, graulila Druck auf hell blaugrünem Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 1002000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 13 Bauer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "14",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-11-02",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauer mit Pflug, schwarzer Druck auf hell blaugrünem Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 495000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 14 Bauer.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "16",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-08-28",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauernhaus und Ährengarbe, schwarzer Druck auf rosa Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 7000000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 16 Bauernhaus.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "17",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-11-09",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauernhaus und Ährengarbe, roter Druck auf weißem Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 3390000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 17 Bauernhaus.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "18",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-20",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie 1",
+      "bild_beschreibung": "Bauernhaus und Ährengarbe, rosa bis braunroter Druck auf weißem Papier",
+      "anmerkungen": [],
+      "entwerfer": "Gustav Otto",
+      "auflage": 1592000,
+      "commons_datei": "SBZ Mecklenburg-Vorpommern 1945 18 Bauernhaus.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

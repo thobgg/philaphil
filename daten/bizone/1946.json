@@ -1,0 +1,39 @@
+{
+  "gebiet": "Bizone",
+  "jahr": 1946,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der amerikanischen und britischen Zone in Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_amerikanischen_und_britischen_Zone_in_Deutschland",
+    "revision": 268669071,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 35,
+    "mi_nr_bis": 35,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "35",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1946-01-17",
+      "wert": "1",
+      "waehrung": "RM",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "M-Serie",
+      "bild_beschreibung": "deuts. Druck",
+      "anmerkungen": [],
+      "entwerfer": "Roach",
+      "auflage": 1363750,
+      "commons_datei": "Bi Zone 1945 35 DE M-Serie.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

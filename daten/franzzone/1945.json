@@ -1,0 +1,115 @@
+{
+  "gebiet": "Franz. Zone",
+  "jahr": 1945,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der französischen Zone in Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_franz%C3%B6sischen_Zone_in_Deutschland",
+    "revision": 251514710,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 5,
+    "mi_nr_bis": 11,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "5",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen des Rheinlands",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 1137000,
+      "commons_datei": "Fr. Zone 1945 5 Wappen Rheinland.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "6",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-17",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen der Pfalz",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 90400000,
+      "commons_datei": "Fr. Zone 1945 6 Wappen Pfalz.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "8",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen Württembergs",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 25100000,
+      "commons_datei": "Fr. Zone 1945 8 Wappen Württemberg.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "10",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-17",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen Badens",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 20500000,
+      "commons_datei": "Fr. Zone 1945 10 Wappen Baden.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "11",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-17",
+      "wert": "1",
+      "waehrung": "M",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Johann Wolfgang von Goethe",
+      "anmerkungen": [],
+      "entwerfer": "Achille Ouvré",
+      "auflage": 1044325,
+      "commons_datei": "Fr. Zone 1945 11 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    }
+  ]
+}

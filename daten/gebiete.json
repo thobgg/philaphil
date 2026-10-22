@@ -1,10 +1,11 @@
 {
-  "_hinweis": "Ein Eintrag je Sammelgebiet. Neues Gebiet: Zeile ergänzen, dann tools/wikipedia_import.py --gebiet <schluessel> --alle. {jahr} wird ersetzt; 'titel_ab' wechselt den Seitentitel ab einem Jahr. 'commons' ist die Jahreskategorie auf Wikimedia Commons, 'dateiname' das Kürzel für eigene Bilder (Reich-529.jpg).",
+  "_hinweis": "Ein Eintrag je Sammelgebiet. Neues Gebiet: Zeile ergänzen, dann tools/wikipedia_import.py --gebiet <schluessel> --alle. {jahr} wird ersetzt; 'titel_ab' wechselt den Seitentitel ab einem Jahr. 'commons' ist die Jahreskategorie auf Wikimedia Commons, 'dateiname' das Kürzel für eigene Bilder (Reich-529.jpg). 'gruppe' fasst Gebiete in der Auswahl zusammen (Besatzungszonen). Ein Titel ohne {jahr} ist ein Gebietsartikel über alle Jahre: der Import verteilt die Marken nach dem Ausgabetag auf die Jahrgangsdateien.",
   "bund": {
     "name": "Bund", "anzeige": "Bundesrepublik Deutschland", "von": 1949, "bis": 2026, "dateiname": "Bund",
     "titel": "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost",
     "titel_ab": {"1949": "Briefmarken-Jahrgang {jahr} der Deutschen Post", "1950": "Briefmarken-Jahrgang {jahr} der Deutschen Bundespost", "1995": "Briefmarken-Jahrgang {jahr} der Bundesrepublik Deutschland"},
-    "commons": "{jahr} Deutsche Bundespost stamps", "commons_ab": {"1995": "{jahr} stamps of Germany"}
+    "commons": "{jahr} Deutsche Bundespost stamps",
+    "commons_ab": {"1995": "{jahr} stamps of Germany"}
   },
   "berlin": {
     "name": "Berlin", "anzeige": "Berlin (West)", "von": 1948, "bis": 1990, "dateiname": "Berlin",
@@ -20,5 +21,83 @@
     "name": "Reich", "anzeige": "Deutsches Reich", "von": 1872, "bis": 1945, "dateiname": "Reich",
     "titel": "Briefmarken-Jahrgang {jahr} der Deutschen Reichspost",
     "commons": "{jahr} stamps of Germany"
+  },
+  "kontrollrat": {
+    "name": "Kontrollrat", "anzeige": "Alliierte Besetzung: Gemeinschaftsausgaben", "von": 1946, "bis": 1948, "dateiname": "Kontrollrat",
+    "titel": "Briefmarken-Ausgaben des Alliierten Kontrollrats",
+    "commons": "{jahr} stamps of Germany",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "bizone": {
+    "name": "Bizone", "anzeige": "Amerikanische und Britische Zone", "von": 1945, "bis": 1949, "dateiname": "Bizone",
+    "titel": "Briefmarken-Ausgaben der amerikanischen und britischen Zone in Deutschland",
+    "commons": "{jahr} stamps of the German Bizone",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "franzzone": {
+    "name": "Franz. Zone", "anzeige": "Französische Zone: Allgemeine Ausgabe", "von": 1945, "bis": 1946, "dateiname": "FrZone",
+    "titel": "Briefmarken-Ausgaben der französischen Zone in Deutschland",
+    "commons": "Stamps of the French Occupied Zone",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "baden": {
+    "name": "Baden", "anzeige": "Französische Zone: Baden", "von": 1947, "bis": 1949, "dateiname": "Baden",
+    "titel": "Briefmarken-Ausgaben der französischen Zone Baden",
+    "commons": "{jahr} stamps of the French Occupied Zone Baden in Germany",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "rheinlandpfalz": {
+    "name": "Rheinland-Pfalz", "anzeige": "Französische Zone: Rheinland-Pfalz", "von": 1947, "bis": 1949, "dateiname": "RhPf",
+    "titel": "Briefmarken-Ausgaben der französischen Zone Rheinland-Pfalz",
+    "commons": "{jahr} stamps of the French Occupied Zone Rhineland-Palatinate in Germany",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "wuerttemberg": {
+    "name": "Württemberg", "anzeige": "Französische Zone: Württemberg-Hohenzollern", "von": 1947, "bis": 1949, "dateiname": "Wuertt",
+    "titel": "Briefmarken-Ausgaben der französischen Zone Württemberg-Hohenzollern",
+    "commons": "{jahr} stamps of the French Occupied Zone Württemberg in Germany",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "sbz": {
+    "name": "SBZ", "anzeige": "Sowjetische Zone: Allgemeine Ausgaben", "von": 1948, "bis": 1949, "dateiname": "SBZ",
+    "titel": "Briefmarken-Ausgaben der sowjetischen Besatzungszone",
+    "commons": "{jahr} stamps of the Soviet Occupied Zone",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "berlinbrandenburg": {
+    "name": "Berlin-Brandenburg", "anzeige": "Sowjetische Zone: Berlin und Brandenburg", "von": 1945, "bis": 1946, "dateiname": "BerlinBrandenburg",
+    "titel": "Briefmarken-Ausgaben für Berlin und Brandenburg",
+    "commons": "1945 stamps of Berlin and Brandenburg",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "mecklenburg": {
+    "name": "Mecklenburg-Vorpommern", "anzeige": "Sowjetische Zone: Mecklenburg-Vorpommern", "von": 1945, "bis": 1946, "dateiname": "Mecklenburg",
+    "titel": "Briefmarken-Ausgaben für Mecklenburg-Vorpommern (SBZ)",
+    "commons": "Stamps of Mecklenburg-Vorpommern",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "provinzsachsen": {
+    "name": "Provinz Sachsen", "anzeige": "Sowjetische Zone: Provinz Sachsen", "von": 1945, "bis": 1946, "dateiname": "ProvSachsen",
+    "titel": "Briefmarken-Ausgaben für die Provinz Sachsen",
+    "commons": "Stamps of Province of Saxony",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "ostsachsen": {
+    "name": "Ost-Sachsen", "anzeige": "Sowjetische Zone: Ost-Sachsen", "von": 1945, "bis": 1946, "dateiname": "OstSachsen",
+    "titel": "Briefmarken-Ausgaben für Ost-Sachsen (SBZ)",
+    "commons": "Stamps of East Saxony",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "westsachsen": {
+    "name": "West-Sachsen", "anzeige": "Sowjetische Zone: West-Sachsen", "von": 1945, "bis": 1946, "dateiname": "WestSachsen",
+    "titel": "Briefmarken-Ausgaben für West-Sachsen (SBZ)",
+    "commons": "Stamps of West Saxony",
+    "gruppe": "Besatzungszonen 1945–1949"
+  },
+  "thueringen": {
+    "name": "Thüringen", "anzeige": "Sowjetische Zone: Thüringen", "von": 1945, "bis": 1946, "dateiname": "Thueringen",
+    "titel": "Briefmarken-Ausgaben für Thüringen (SBZ)",
+    "commons": "{jahr} stamps of Thuringia",
+    "gruppe": "Besatzungszonen 1945–1949"
   }
 }

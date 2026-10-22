@@ -1,0 +1,137 @@
+{
+  "gebiet": "Ost-Sachsen",
+  "jahr": 1946,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für Ost-Sachsen (SBZ)",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_Ost-Sachsen_%28SBZ%29",
+    "revision": 270033220,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 61,
+    "mi_nr_bis": 65,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 2,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "64",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-02-06",
+      "wert": "6+44",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Wiederaufbau",
+      "bild_beschreibung": "Zwinger (Dresden)",
+      "anmerkungen": [],
+      "entwerfer": "Heinz Walter",
+      "auflage": 1961550,
+      "commons_datei": "SBZ Ost-Sachsen 1946 64 Dresden, Zwinger.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Zwinger (Dresden)",
+          "beschriftung": "Zwinger (Dresden)",
+          "haupt": true,
+          "artikel": "Zwinger (Dresden)",
+          "wikidata": "Q155107"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "65",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-02-06",
+      "wert": "12+88",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Wiederaufbau",
+      "bild_beschreibung": "Neues Rathaus (Dresden)",
+      "anmerkungen": [],
+      "entwerfer": "Heinz Walter",
+      "auflage": 1559550,
+      "commons_datei": "SBZ Ost-Sachsen 1946 65 Dresden, Neues Rathaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Rathaus (Dresden)",
+          "beschriftung": "Neues Rathaus (Dresden)",
+          "haupt": true,
+          "artikel": "Neues Rathaus (Dresden)",
+          "wikidata": "Q1980363"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "61",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-15",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie VI",
+      "bild_beschreibung": "Ziffer",
+      "anmerkungen": [],
+      "entwerfer": "Chemnitz",
+      "auflage": 2317800,
+      "commons_datei": "SBZ Ost-Sachsen 1946 61 Ziffern.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "62",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-22",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie VI",
+      "bild_beschreibung": "Ziffer",
+      "anmerkungen": [],
+      "entwerfer": "Chemnitz",
+      "auflage": null,
+      "commons_datei": "SBZ Ost-Sachsen 1946 62 Ziffern.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "63",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-01",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie VI",
+      "bild_beschreibung": "Ziffer",
+      "anmerkungen": [],
+      "entwerfer": "Chemnitz",
+      "auflage": 2651300,
+      "commons_datei": "SBZ Ost-Sachsen 1946 63 Ziffern.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

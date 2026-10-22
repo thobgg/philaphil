@@ -34,7 +34,8 @@ CREATE TABLE gebiet (
   anzeige TEXT NOT NULL,         -- 'Deutsches Reich'
   dateiname TEXT NOT NULL,       -- Kuerzel fuer eigene Bilder: Reich-529.jpg
   von INTEGER, bis INTEGER,
-  reihe INTEGER                  -- Reihenfolge in der Auswahl
+  reihe INTEGER,                 -- Reihenfolge in der Auswahl
+  gruppe TEXT                    -- fasst Gebiete in der Auswahl zusammen ('Besatzungszonen 1945–1949'), sonst NULL
 );
 
 CREATE TABLE quelle (
@@ -187,7 +188,7 @@ def bauen(ziel):
 
     gebiete = {k: v for k, v in json.loads((DATEN / "gebiete.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
     for reihe, (k, g) in enumerate(gebiete.items()):
-        db.execute("INSERT INTO gebiet VALUES (?,?,?,?,?,?,?)", (k, g["name"], g.get("anzeige", g["name"]), g.get("dateiname", g["name"]), g.get("von"), g.get("bis"), reihe))
+        db.execute("INSERT INTO gebiet VALUES (?,?,?,?,?,?,?,?)", (k, g["name"], g.get("anzeige", g["name"]), g.get("dateiname", g["name"]), g.get("von"), g.get("bis"), reihe, g.get("gruppe")))
     dateien = sorted(p for p in DATEN.glob("*/*.json") if not p.name.endswith((".hand.json", ".commons.json")) and p.parent.name != "zeitgeschehen")
     if not dateien:
         sys.exit("Keine JSON-Dateien in daten/ gefunden")

@@ -12,7 +12,8 @@ CREATE TABLE gebiet (
   anzeige TEXT NOT NULL,
   dateiname TEXT NOT NULL,
   von INTEGER, bis INTEGER,
-  reihe INTEGER
+  reihe INTEGER,
+  gruppe TEXT
 );
 
 CREATE TABLE quelle (

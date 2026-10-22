@@ -1,0 +1,155 @@
+{
+  "gebiet": "Thüringen",
+  "jahr": 1945,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für Thüringen (SBZ)",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_Th%C3%BCringen_%28SBZ%29",
+    "revision": 263890510,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 94,
+    "mi_nr_bis": 99,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "94",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-10-20",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Tannen im Thüringer Wald",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 4600000,
+      "commons_datei": "SBZ Thüringen 1945 94 Tannen.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "95",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-10-01",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Brief und Posthorn",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 35700000,
+      "commons_datei": "SBZ Thüringen 1945 95 Posthorn.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Brief",
+          "beschriftung": "Brief",
+          "haupt": true,
+          "artikel": "Brief",
+          "wikidata": "Q133492"
+        },
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": false,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        }
+      ]
+    },
+    {
+      "mi_nr": "96",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-10-29",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Brief und Posthorn",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 4600000,
+      "commons_datei": "SBZ Thüringen 1945 96 Posthorn.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "97",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-10-19",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Friedrich Schiller",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 27000000,
+      "commons_datei": "SBZ Thüringen 1945 97 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "98",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-11-24",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Johann Wolfgang von Goethe; es gibt neben der gezähnten auch geschnittene Ausgaben",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 6200000,
+      "commons_datei": "SBZ Thüringen 1945 98A Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "99",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1945-12-22",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Johann Wolfgang von Goethe; es gibt neben der gezähnten auch geschnittene Ausgaben",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 4000000,
+      "commons_datei": "SBZ Thüringen 1945 99A Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

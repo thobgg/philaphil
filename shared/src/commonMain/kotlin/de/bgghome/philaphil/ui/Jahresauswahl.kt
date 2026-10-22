@@ -34,10 +34,15 @@ import org.jetbrains.compose.resources.stringResource
 /**
  * Oben die Sammelgebiete (kommen aus dem Katalog, also erweiterbar ueber daten/gebiete.json),
  * darunter die Jahrgaenge des gewaehlten Gebiets nach Jahrzehnten - wie die Kapitel eines Geschichtsbuchs.
+ *
+ * Gebiete mit gemeinsamer `gruppe` (die Besatzungszonen 1945-1949) stehen in der ersten Reihe als ein Eintrag;
+ * ist er gewaehlt, folgt eine zweite Reihe mit den Gebieten der Gruppe.
  */
 @Composable
 fun Jahresauswahl(gebiete: List<Gebiete>, jahrgaenge: List<Jahrgaenge>, aktuell: Jahrgaenge?, onWahl: (Jahrgaenge) -> Unit, onClose: () -> Unit) {
-    var gebiet by remember { mutableStateOf(aktuell?.gebiet ?: gebiete.firstOrNull()?.name ?: "Bund") }
+    val vorhandene = remember(gebiete) { gebiete.filter { it.anzahl > 0 } }
+    var gebiet by remember { mutableStateOf(aktuell?.gebiet ?: vorhandene.firstOrNull()?.name ?: "Bund") }
+    var gruppe by remember { mutableStateOf(vorhandene.firstOrNull { it.name == gebiet }?.gruppe) }
     val jahrzehnte = remember(jahrgaenge, gebiet) { jahrgaenge.filter { it.gebiet == gebiet }.groupBy { (it.jahr / 10) * 10 }.toList() }
     val liste = rememberLazyListState()
     LaunchedEffect(gebiet) {
@@ -50,8 +55,25 @@ fun Jahresauswahl(gebiete: List<Gebiete>, jahrgaenge: List<Jahrgaenge>, aktuell:
         text = {
             Column {
                 FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
-                    gebiete.filter { it.anzahl > 0 }.forEach { g ->
-                        FilterChip(selected = g.name == gebiet, onClick = { gebiet = g.name }, label = { Text(g.anzeige) })
+                    val gezeigteGruppen = mutableSetOf<String>()
+                    vorhandene.forEach { g ->
+                        val gr = g.gruppe
+                        if (gr == null) {
+                            FilterChip(selected = gruppe == null && g.name == gebiet, onClick = { gruppe = null; gebiet = g.name }, label = { Text(g.anzeige) })
+                        } else if (gezeigteGruppen.add(gr)) {
+                            // Die Gruppe als ein Eintrag; beim Wechsel in die Gruppe bleibt das zuletzt dort gewaehlte Gebiet, sonst das erste
+                            FilterChip(selected = gruppe == gr, onClick = {
+                                gruppe = gr
+                                if (vorhandene.firstOrNull { it.name == gebiet }?.gruppe != gr) gebiet = g.name
+                            }, label = { Text(gr) })
+                        }
+                    }
+                }
+                gruppe?.let { gr ->
+                    FlowRow(Modifier.padding(top = 6.dp), horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                        vorhandene.filter { it.gruppe == gr }.forEach { g ->
+                            FilterChip(selected = g.name == gebiet, onClick = { gebiet = g.name }, label = { Text(g.anzeige) })
+                        }
                     }
                 }
                 HorizontalDivider(Modifier.padding(vertical = 8.dp))

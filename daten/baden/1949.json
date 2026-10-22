@@ -1,0 +1,612 @@
+{
+  "gebiet": "Baden",
+  "jahr": 1949,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der französischen Zone Baden",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_franz%C3%B6sischen_Zone_Baden",
+    "revision": 269667035,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 32,
+    "mi_nr_bis": 57,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "32",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-07",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (III)",
+      "bild_beschreibung": "Schwarzwaldmädel",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Baden 1948 32 Schwarzwaldmädel.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "37",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-01",
+      "wert": "90",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (III)",
+      "bild_beschreibung": "Höllental im Schwarzwald",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Baden 1948 37 Höllental, Schwarzwald.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "38A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-03-24",
+      "wert": "4+16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-10-20",
+      "anlass": "Wiederaufbau der Stadt Freiburg im Breisgau",
+      "bild_beschreibung": "Kornhaus in Freiburg",
+      "anmerkungen": [],
+      "entwerfer": "Dietrich",
+      "auflage": 120495,
+      "commons_datei": "Fr. Zone Baden 1949 38A Kornhaus Freiburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiburg im Breisgau",
+          "beschriftung": "Freiburg im Breisgau",
+          "haupt": true,
+          "artikel": "Freiburg im Breisgau",
+          "wikidata": "Q2833"
+        }
+      ]
+    },
+    {
+      "mi_nr": "39A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-03-24",
+      "wert": "10+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-10-20",
+      "anlass": "Wiederaufbau der Stadt Freiburg im Breisgau",
+      "bild_beschreibung": "Freiburger Münster",
+      "anmerkungen": [],
+      "entwerfer": "Dietrich",
+      "auflage": 123458,
+      "commons_datei": "Fr. Zone Baden 1949 39A Freiburger Münster.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiburg im Breisgau",
+          "beschriftung": "Freiburg im Breisgau",
+          "haupt": true,
+          "artikel": "Freiburg im Breisgau",
+          "wikidata": "Q2833"
+        }
+      ]
+    },
+    {
+      "mi_nr": "40A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-03-24",
+      "wert": "20+30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-10-20",
+      "anlass": "Wiederaufbau der Stadt Freiburg im Breisgau",
+      "bild_beschreibung": "Posaunenengel Freiburg",
+      "anmerkungen": [],
+      "entwerfer": "Dietrich",
+      "auflage": 121529,
+      "commons_datei": "Fr. Zone Baden 1949 40A Posaunenengel Freiburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiburg im Breisgau",
+          "beschriftung": "Freiburg im Breisgau",
+          "haupt": true,
+          "artikel": "Freiburg im Breisgau",
+          "wikidata": "Q2833"
+        }
+      ]
+    },
+    {
+      "mi_nr": "41A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-03-24",
+      "wert": "30+50",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-10-20",
+      "anlass": "Wiederaufbau der Stadt Freiburg im Breisgau",
+      "bild_beschreibung": "Fischbrunnen Freiburg",
+      "anmerkungen": [],
+      "entwerfer": "Dietrich",
+      "auflage": 117783,
+      "commons_datei": "Fr. Zone Baden 1949 41A Fischbrunnen Freiburg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Fischbrunnen (Freiburg im Breisgau)",
+          "beschriftung": "Fischbrunnen",
+          "haupt": true,
+          "artikel": "Fischbrunnen (Freiburg im Breisgau)",
+          "wikidata": "Q1419859"
+        },
+        {
+          "titel": "Freiburg im Breisgau",
+          "beschriftung": "Freiburg im Breisgau",
+          "haupt": false,
+          "artikel": "Freiburg im Breisgau",
+          "wikidata": "Q2833"
+        }
+      ]
+    },
+    {
+      "mi_nr": "42A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "10+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Baden",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Badens",
+          "beschriftung": "Wappen von Baden",
+          "haupt": true,
+          "artikel": "Wappen Badens",
+          "wikidata": "Q321948"
+        },
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": false,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "43A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "20+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Baden",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "44A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "30+60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Baden",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "45A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "40+80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Baden",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "46",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-06-22",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-01-31",
+      "anlass": "Internationaler Ingenieur-Kongress Konstanz 1949",
+      "bild_beschreibung": "Stadtansicht",
+      "anmerkungen": [],
+      "entwerfer": "Hund",
+      "auflage": 125250,
+      "commons_datei": "Fr. Zone Baden 1949 46 Ingenieur Kongress Konstanz.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Konstanz",
+          "beschriftung": "Konstanz",
+          "haupt": true,
+          "artikel": "Konstanz",
+          "wikidata": "Q3834"
+        }
+      ]
+    },
+    {
+      "mi_nr": "47",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-12",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "Wohltätigkeitssonderausgabe zum 200. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Relief von Johann Peter Melchior (1775)",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 47 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Peter Melchior",
+          "beschriftung": "Johann Peter Melchior",
+          "haupt": true,
+          "artikel": "Johann Peter Melchior",
+          "wikidata": "Q1695799"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "48",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-12",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "Wohltätigkeitssonderausgabe zum 200. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Zeichnung von Johann Heinrich Lips (1791)",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 48 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Lips",
+          "beschriftung": "Johann Heinrich Lips",
+          "haupt": true,
+          "artikel": "Johann Heinrich Lips",
+          "wikidata": "Q1384162"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "49",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-12",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "Wohltätigkeitssonderausgabe zum 200. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Relief von Angelika Facius nach einer Büste von Rauch (1820)",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 49 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Angelika Facius",
+          "beschriftung": "Angelika Facius",
+          "haupt": true,
+          "artikel": "Angelica Bellonata Facius",
+          "wikidata": "Q533929"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "50",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-24",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100. Jahrestag der Badischen Revolution",
+      "bild_beschreibung": "Carl Schurz",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 50 Carl Schurz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl Schurz",
+          "beschriftung": "Carl Schurz",
+          "haupt": true,
+          "artikel": "Carl Schurz",
+          "wikidata": "Q127437"
+        },
+        {
+          "titel": "Badische Revolution",
+          "beschriftung": "Badischen Revolution",
+          "haupt": false,
+          "artikel": "Badische Revolution",
+          "wikidata": "Q799097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "51",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-24",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100. Jahrestag der Badischen Revolution",
+      "bild_beschreibung": "Carl Schurz",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 51 Carl Schurz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Badische Revolution",
+          "beschriftung": "Badischen Revolution",
+          "haupt": true,
+          "artikel": "Badische Revolution",
+          "wikidata": "Q799097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "52",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-24",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100. Jahrestag der Badischen Revolution",
+      "bild_beschreibung": "Carl Schurz",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 52 Carl Schurz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Badische Revolution",
+          "beschriftung": "Badischen Revolution",
+          "haupt": true,
+          "artikel": "Badische Revolution",
+          "wikidata": "Q799097"
+        }
+      ]
+    },
+    {
+      "mi_nr": "53",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100. Todestag von Conradin Kreutzer (1780–1849)",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Thorweger",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 53 Conradin Kreutzer.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Conradin Kreutzer",
+          "beschriftung": "Conradin Kreutzer",
+          "haupt": true,
+          "artikel": "Conradin Kreutzer",
+          "wikidata": "Q458732"
+        }
+      ]
+    },
+    {
+      "mi_nr": "54",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-09-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100 Jahre Deutsche Briefmarken",
+      "bild_beschreibung": "Vierspänner-Postkutsche",
+      "anmerkungen": [],
+      "entwerfer": "Meyer",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 54 Postkutsche.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vierspänner",
+          "beschriftung": "Vierspänner",
+          "haupt": true,
+          "artikel": "Vierspänner",
+          "wikidata": "Q3144341"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "55",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-09-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100 Jahre Deutsche Briefmarken",
+      "bild_beschreibung": "Postomnibus und Flugzeug",
+      "anmerkungen": [],
+      "entwerfer": "Pixa",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 55 Postbus und Flugzeug.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kraftpost",
+          "beschriftung": "Postomnibus",
+          "haupt": true,
+          "artikel": "Kraftpost",
+          "wikidata": "Q1785998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "56",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-10-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Posthorn, Weltkugel, Friedenszweig",
+      "anmerkungen": [],
+      "entwerfer": "Meyer und Pixa",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 56 Weltpostverein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "57",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-10-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Posthorn, Weltkugel, Friedenszweig",
+      "anmerkungen": [],
+      "entwerfer": "Meyer und Pixa",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Baden 1949 57 Weltpostverein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    }
+  ]
+}

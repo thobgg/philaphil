@@ -1,0 +1,374 @@
+{
+  "gebiet": "Thüringen",
+  "jahr": 1946,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für Thüringen (SBZ)",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_Th%C3%BCringen_%28SBZ%29",
+    "revision": 263890510,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 92,
+    "mi_nr_bis": 115,
+    "luecken": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 9,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "107AX",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-27",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau des Nationaltheaters Weimar",
+      "bild_beschreibung": "Diese Marken wurden nur als Briefmarkenblock 3 herausgegeben; Friedrich Schiller",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 436000,
+      "commons_datei": "SBZ Thüringen 1946 107A X Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        },
+        {
+          "titel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "beschriftung": "Nationaltheaters Weimar",
+          "haupt": false,
+          "artikel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "wikidata": "Q600939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "108AX",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-27",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau des Nationaltheaters Weimar",
+      "bild_beschreibung": "Johann Wolfgang von Goethe",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 436000,
+      "commons_datei": "SBZ Thüringen 1946 108A X Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": true,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        },
+        {
+          "titel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "beschriftung": "Nationaltheaters Weimar",
+          "haupt": false,
+          "artikel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "wikidata": "Q600939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "109AX",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-27",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau des Nationaltheaters Weimar",
+      "bild_beschreibung": "Franz Liszt",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 436000,
+      "commons_datei": "SBZ Thüringen 1946 109A X Franz Liszt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Franz Liszt",
+          "beschriftung": "Franz Liszt",
+          "haupt": true,
+          "artikel": "Franz Liszt",
+          "wikidata": "Q41309"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        },
+        {
+          "titel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "beschriftung": "Nationaltheaters Weimar",
+          "haupt": false,
+          "artikel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "wikidata": "Q600939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "110AX",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-27",
+      "wert": "16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau des Nationaltheaters Weimar",
+      "bild_beschreibung": "Christoph Martin Wieland",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 436000,
+      "commons_datei": "SBZ Thüringen 1946 110A X Christoph Martin Wieland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Christoph Martin Wieland",
+          "beschriftung": "Christoph Martin Wieland",
+          "haupt": true,
+          "artikel": "Christoph Martin Wieland",
+          "wikidata": "Q154010"
+        },
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": false,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        },
+        {
+          "titel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "beschriftung": "Nationaltheaters Weimar",
+          "haupt": false,
+          "artikel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "wikidata": "Q600939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "111AX",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-27",
+      "wert": "40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau des Nationaltheaters Weimar",
+      "bild_beschreibung": "Nationaltheater Weimar",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 436000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wiederaufbau",
+          "beschriftung": "Wiederaufbau",
+          "haupt": true,
+          "artikel": "Stadtbaugeschichte",
+          "wikidata": "Q19720696"
+        },
+        {
+          "titel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "beschriftung": "Nationaltheaters Weimar",
+          "haupt": false,
+          "artikel": "Deutsches Nationaltheater und Staatskapelle Weimar",
+          "wikidata": "Q600939"
+        }
+      ]
+    },
+    {
+      "mi_nr": "112",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-30",
+      "wert": "10+60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau der zerstörten Brücken Thüringens",
+      "bild_beschreibung": "diese Briefmarken wurden auch als Briefmarkenblock 4 herausgegeben; Saalburger Brücke",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 1000000,
+      "commons_datei": "SBZ Thüringen 1946 112 Wiederaufbau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saalburg-Ebersdorf",
+          "beschriftung": "Saalburger Brücke",
+          "haupt": true,
+          "artikel": "Saalburg-Ebersdorf",
+          "wikidata": "Q518398"
+        }
+      ]
+    },
+    {
+      "mi_nr": "113",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-30",
+      "wert": "12+68",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau der zerstörten Brücken Thüringens",
+      "bild_beschreibung": "Camsdorfer Brücke, Jena",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 1000000,
+      "commons_datei": "SBZ Thüringen 1946 113 Wiederaufbau PF II.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Camsdorfer Brücke",
+          "beschriftung": "Camsdorfer Brücke",
+          "haupt": true,
+          "artikel": "Camsdorfer Brücke",
+          "wikidata": "Q1031728"
+        },
+        {
+          "titel": "Jena",
+          "beschriftung": "Jena",
+          "haupt": false,
+          "artikel": "Jena",
+          "wikidata": "Q3150"
+        }
+      ]
+    },
+    {
+      "mi_nr": "114",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-30",
+      "wert": "16+74",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau der zerstörten Brücken Thüringens",
+      "bild_beschreibung": "Saaletalbrücke Göschwitz",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 1000000,
+      "commons_datei": "SBZ Thüringen 1946 114 Wiederaufbau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saaletalbrücke Jena",
+          "beschriftung": "Saaletalbrücke Göschwitz",
+          "haupt": true,
+          "artikel": "Saaletalbrücke Jena",
+          "wikidata": "Q1555455"
+        }
+      ]
+    },
+    {
+      "mi_nr": "115",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-03-30",
+      "wert": "24+76",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Wiederaufbau der zerstörten Brücken Thüringens",
+      "bild_beschreibung": "Ilmbrücke bei Mellingen",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 1000000,
+      "commons_datei": "SBZ Thüringen 1946 115 Wiederaufbau.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ilmbrücke bei Mellingen",
+          "beschriftung": "Ilmbrücke bei Mellingen",
+          "haupt": true,
+          "artikel": "Ilmbrücke bei Mellingen",
+          "wikidata": "Q133520518"
+        }
+      ]
+    },
+    {
+      "mi_nr": "92",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-04",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Die Marken mit den Werten zu 3, 4 und 5 Pfennig wurden auch als Briefmarkenblock 1, die Marken zu 4, 6, 12 und 20 Pfennig auch als Briefmarkenblock 2 herausgegeben; Tannen im Thüringer Wald",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 2000000,
+      "commons_datei": "SBZ Thüringen 1945 92 Tannen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Tannen",
+          "beschriftung": "Tannen",
+          "haupt": true,
+          "artikel": "Tannen",
+          "wikidata": "Q25350"
+        },
+        {
+          "titel": "Thüringer Wald",
+          "beschriftung": "Thüringer Wald",
+          "haupt": false,
+          "artikel": "Thüringer Wald",
+          "wikidata": "Q4210"
+        }
+      ]
+    },
+    {
+      "mi_nr": "93",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-04",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie",
+      "bild_beschreibung": "Tannen im Thüringer Wald",
+      "anmerkungen": [],
+      "entwerfer": "Engelbert Schoner",
+      "auflage": 2700000,
+      "commons_datei": "SBZ Thüringen 1945 93 Tannen.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

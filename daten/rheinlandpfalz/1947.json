@@ -1,0 +1,359 @@
+{
+  "gebiet": "Rheinland-Pfalz",
+  "jahr": 1947,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der französischen Zone Rheinland-Pfalz",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_franz%C3%B6sischen_Zone_Rheinland-Pfalz",
+    "revision": 261898481,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1,
+    "mi_nr_bis": 15,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-10",
+      "wert": "2",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Ludwig van Beethoven",
+      "anmerkungen": [],
+      "entwerfer": "Vytautas Kazimieras Jonynas",
+      "auflage": 15100000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 1 Ludwig van Beethoven.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Ludwig van Beethoven",
+          "beschriftung": "Ludwig van Beethoven",
+          "haupt": true,
+          "artikel": "Ludwig van Beethoven",
+          "wikidata": "Q255"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-10",
+      "wert": "3",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Wilhelm Emmanuel von Ketteler",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 20500000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 2 Wilhelm Emmanuel von Ketteler.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wilhelm Emmanuel von Ketteler",
+          "beschriftung": "Wilhelm Emmanuel von Ketteler",
+          "haupt": true,
+          "artikel": "Wilhelm Emmanuel von Ketteler",
+          "wikidata": "Q626805"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-09",
+      "wert": "10",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Winzerin vor Marksburg über Braubach am Rhein",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 15100000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 3 Winzerin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Marksburg",
+          "beschriftung": "Marksburg",
+          "haupt": true,
+          "artikel": "Marksburg",
+          "wikidata": "Q257210"
+        },
+        {
+          "titel": "Braubach",
+          "beschriftung": "Braubach",
+          "haupt": false,
+          "artikel": "Braubach",
+          "wikidata": "Q509038"
+        }
+      ]
+    },
+    {
+      "mi_nr": "4",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-04",
+      "wert": "12",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Porta Nigra in Trier",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 60000000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 4 Porta Nigra, Trier.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Porta Nigra",
+          "beschriftung": "Porta Nigra",
+          "haupt": true,
+          "artikel": "Porta Nigra",
+          "wikidata": "Q152339"
+        }
+      ]
+    },
+    {
+      "mi_nr": "5",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-05-05",
+      "wert": "15",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Karl Marx",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 17100000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 5 Karl Marx.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl Marx",
+          "beschriftung": "Karl Marx",
+          "haupt": true,
+          "artikel": "Karl Marx",
+          "wikidata": "Q9061"
+        }
+      ]
+    },
+    {
+      "mi_nr": "6",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-10",
+      "wert": "16",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Teufelstisch bei Kaltenbach",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 8050000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 6 Teufelstisch Kaltenbach.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Teufelstisch (Hinterweidenthal)",
+          "beschriftung": "Teufelstisch",
+          "haupt": true,
+          "artikel": "Teufelstisch (Hinterweidenthal)",
+          "wikidata": "Q2407274"
+        }
+      ]
+    },
+    {
+      "mi_nr": "7",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-10",
+      "wert": "20",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Winzerhäuser in Sankt Martin",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 15500000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 7 Winzerhäuser St. Martin.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Sankt Martin (Pfalz)",
+          "beschriftung": "Sankt Martin",
+          "haupt": true,
+          "artikel": "Sankt Martin (Pfalz)",
+          "wikidata": "Q660404"
+        }
+      ]
+    },
+    {
+      "mi_nr": "8",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-04",
+      "wert": "24",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Dom zu Worms",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 62100000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 8 Dom in Worms.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wormser Dom",
+          "beschriftung": "Dom zu Worms",
+          "haupt": true,
+          "artikel": "Wormser Dom",
+          "wikidata": "Q701996"
+        }
+      ]
+    },
+    {
+      "mi_nr": "10",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-05",
+      "wert": "45",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Dom zu Mainz",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 8000000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 10 Dom in Mainz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Mainzer Dom",
+          "beschriftung": "Dom zu Mainz",
+          "haupt": true,
+          "artikel": "Mainzer Dom",
+          "wikidata": "Q666960"
+        }
+      ]
+    },
+    {
+      "mi_nr": "12",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-10",
+      "wert": "60",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Ludwig van Beethoven",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 10100000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 12 Ludwig van Beethoven.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "13",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-06",
+      "wert": "75",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Gutenberg-Denkmal in Mainz",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 9000000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 13 Johannes Gutenberg Denkmal in Mainz.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "14",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-08",
+      "wert": "84",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Der Rhein bei Kaub, links Burg Gutenfels, im Strom die Pfalz",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 6000000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 14 Pfalz bei Kaub, Burg Gutenfels.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kaub",
+          "beschriftung": "Kaub",
+          "haupt": true,
+          "artikel": "Kaub",
+          "wikidata": "Q540860"
+        },
+        {
+          "titel": "Burg Gutenfels",
+          "beschriftung": "Burg Gutenfels",
+          "haupt": false,
+          "artikel": "Burg Gutenfels",
+          "wikidata": "Q164816"
+        },
+        {
+          "titel": "Burg Pfalzgrafenstein",
+          "beschriftung": "Pfalz",
+          "haupt": false,
+          "artikel": "Burg Pfalzgrafenstein",
+          "wikidata": "Q696951"
+        }
+      ]
+    },
+    {
+      "mi_nr": "15",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-07",
+      "wert": "1",
+      "waehrung": "RM",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Rheinland-Pfalz (I)",
+      "bild_beschreibung": "Karl der Große Goldschmiedearbeit am Aachener Karlsschrein",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 10000000,
+      "commons_datei": "Fr. Zone Rheinland-Pfalz 1947 15 Karl der Große.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Karl der Große",
+          "beschriftung": "Karl der Große",
+          "haupt": true,
+          "artikel": "Karl der Große",
+          "wikidata": "Q3044"
+        },
+        {
+          "titel": "Karlsschrein",
+          "beschriftung": "Karlsschrein",
+          "haupt": false,
+          "artikel": "Karlsschrein",
+          "wikidata": "Q1551658"
+        }
+      ]
+    }
+  ]
+}

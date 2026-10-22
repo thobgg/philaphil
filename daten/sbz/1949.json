@@ -1,0 +1,341 @@
+{
+  "gebiet": "SBZ",
+  "jahr": 1949,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der sowjetischen Besatzungszone",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_sowjetischen_Besatzungszone",
+    "revision": 263890535,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 229,
+    "mi_nr_bis": 241,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 13,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "229",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-01-15",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-12-31",
+      "anlass": "30. Todestag von Karl Liebknecht und Rosa Luxemburg",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Müller",
+      "auflage": 5000000,
+      "commons_datei": "SBZ 1949 229 Karl Liebknecht und Rosa Luxemburg.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Karl Liebknecht",
+          "beschriftung": "Karl Liebknecht",
+          "haupt": true,
+          "artikel": "Karl Liebknecht",
+          "wikidata": "Q75886"
+        },
+        {
+          "titel": "Rosa Luxemburg",
+          "beschriftung": "Rosa Luxemburg",
+          "haupt": false,
+          "artikel": "Rosa Luxemburg",
+          "wikidata": "Q7231"
+        }
+      ]
+    },
+    {
+      "mi_nr": "230",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-03-06",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Leipziger Frühjahrsmesse 1556: Erste Messe im Rathaus-Neubau",
+      "anmerkungen": [],
+      "entwerfer": "Gruner",
+      "auflage": 2500000,
+      "commons_datei": "SBZ 1949 230 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "231",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-03-06",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Leipziger Frühjahrsmesse",
+      "bild_beschreibung": "Leipziger Frühjahrsmesse 1536: Italiener auf der Leipziger Messe",
+      "anmerkungen": [],
+      "entwerfer": "Gruner",
+      "auflage": 2500000,
+      "commons_datei": "SBZ 1949 231 Leipziger Frühjahrsmesse.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "232",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-05-13",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-12-31",
+      "anlass": "Wahlen zum Deutschen Volkskongress",
+      "bild_beschreibung": "Friedenstaube mit Ölzweig",
+      "anmerkungen": [],
+      "entwerfer": "Gravenhorst",
+      "auflage": 3500000,
+      "commons_datei": "SBZ 1949 232 Wahlen zum Volkskongress.jpg",
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Deutscher Volkskongress",
+          "beschriftung": "Deutschen Volkskongress",
+          "haupt": true,
+          "artikel": "Deutscher Volkskongress",
+          "wikidata": "Q1205473"
+        }
+      ]
+    },
+    {
+      "mi_nr": "233",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-05-29",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-12-31",
+      "anlass": "Tagung des dritten Volkskongresses",
+      "bild_beschreibung": "Friedenstaube mit Ölzweig und Aufdruck „3. Deutscher Volkskongreß 29.–30. Mai 1949“",
+      "anmerkungen": [],
+      "entwerfer": "Gravenhorst",
+      "auflage": null,
+      "commons_datei": "SBZ 1949 233 Tagung Volkskongress.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "234",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-20",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Goethe als Student, Gemälde von Georg Friedrich Schmoll",
+      "anmerkungen": [],
+      "entwerfer": "Schoner",
+      "auflage": 1250000,
+      "commons_datei": "SBZ 1949 234 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Georg Friedrich Schmoll",
+          "beschriftung": "Georg Friedrich Schmoll",
+          "haupt": true,
+          "artikel": "Georg Friedrich Schmoll",
+          "wikidata": "Q1504345"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "235",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-20",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Goethe in der Campagna, Gemälde von Johann Heinrich Wilhelm Tischbein",
+      "anmerkungen": [],
+      "entwerfer": "Schoner",
+      "auflage": 1250000,
+      "commons_datei": "SBZ 1949 235 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Wilhelm Tischbein",
+          "beschriftung": "Johann Heinrich Wilhelm Tischbein",
+          "haupt": true,
+          "artikel": "Johann Heinrich Wilhelm Tischbein",
+          "wikidata": "Q213973"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "236",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-20",
+      "wert": "24+16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Goethe als Dichter und Minister, Gemälde von Johann Heinrich Lips",
+      "anmerkungen": [],
+      "entwerfer": "Schoner",
+      "auflage": 1250000,
+      "commons_datei": "SBZ 1949 236 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Lips",
+          "beschriftung": "Johann Heinrich Lips",
+          "haupt": true,
+          "artikel": "Johann Heinrich Lips",
+          "wikidata": "Q1384162"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "237",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-20",
+      "wert": "50+25",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Goethe als 68-jähriger Mann, Gemälde von Joseph Karl Stieler",
+      "anmerkungen": [],
+      "entwerfer": "Schoner",
+      "auflage": 1250000,
+      "commons_datei": "SBZ 1949 237 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Joseph Karl Stieler",
+          "beschriftung": "Joseph Karl Stieler",
+          "haupt": true,
+          "artikel": "Joseph Karl Stieler",
+          "wikidata": "Q467658"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "238",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-07-20",
+      "wert": "84+36",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "200. Geburtstag von Johann Wolfgang von Goethe (1749–1832)",
+      "bild_beschreibung": "Goethe im Alter, Kupferstich von Carl August Schwerdgeburth",
+      "anmerkungen": [],
+      "entwerfer": "Schoner",
+      "auflage": 1250000,
+      "commons_datei": "SBZ 1949 238 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Carl August Schwerdgeburth",
+          "beschriftung": "Carl August Schwerdgeburth",
+          "haupt": true,
+          "artikel": "Carl August Schwerdgeburth",
+          "wikidata": "Q1036898"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "239",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-08-22",
+      "wert": "50+450",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Goethe Festwochen in Weimar",
+      "bild_beschreibung": "Diese Briefmarke wurde nur als Briefmarkenblock ausgegeben",
+      "anmerkungen": [],
+      "entwerfer": "Gravenhorst",
+      "auflage": 155500,
+      "commons_datei": "SBZ 1949 239 Johann Wolfgang von Goethe.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "240",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-08-30",
+      "wert": "12+8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Leipziger Herbstmesse 1650: Russische Kaufleute auf der Messe",
+      "anmerkungen": [],
+      "entwerfer": "Gruner",
+      "auflage": 2000000,
+      "commons_datei": "SBZ 1949 240 Leipziger Herbstmesse.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "241",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1949-08-30",
+      "wert": "24+16",
+      "waehrung": "Pf",
+      "gueltig_bis": "1951-06-30",
+      "anlass": "Leipziger Herbstmesse",
+      "bild_beschreibung": "Leipziger Herbstmesse 1765: Der junge Goethe auf der Messe",
+      "anmerkungen": [],
+      "entwerfer": "Gruner",
+      "auflage": 2000000,
+      "commons_datei": "SBZ 1949 241 Leipziger Herbstmesse.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

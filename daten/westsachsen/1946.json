@@ -1,0 +1,562 @@
+{
+  "gebiet": "West-Sachsen",
+  "jahr": 1946,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für West-Sachsen (SBZ)",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_West-Sachsen_%28SBZ%29",
+    "revision": 270033221,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 138,
+    "mi_nr_bis": 165,
+    "luecken": [
+      156,
+      157,
+      158,
+      159,
+      160,
+      161
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 16,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "138",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-07",
+      "wert": "3+2",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 2125000,
+      "commons_datei": "SBZ West-Sachsen 1946 138 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "139",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "4+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1085000,
+      "commons_datei": "SBZ West-Sachsen 1946 139 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "140",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "5+3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1080000,
+      "commons_datei": "SBZ West-Sachsen 1946 140 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "141",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-07",
+      "wert": "6+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 2125000,
+      "commons_datei": "SBZ West-Sachsen 1946 141 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "142",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "8+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1080000,
+      "commons_datei": "SBZ West-Sachsen 1946 142 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "143",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1080000,
+      "commons_datei": "SBZ West-Sachsen 1946 143 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "144",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-07",
+      "wert": "12+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 2125000,
+      "commons_datei": "SBZ West-Sachsen 1946 144 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "145",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "15+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1065000,
+      "commons_datei": "SBZ West-Sachsen 1946 145 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "146",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1050000,
+      "commons_datei": "SBZ West-Sachsen 1946 146 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "147",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "30+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1065000,
+      "commons_datei": "SBZ West-Sachsen 1946 147 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "148",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-07",
+      "wert": "40+30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1405000,
+      "commons_datei": "SBZ West-Sachsen 1946 148 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "149",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-01-28",
+      "wert": "60+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-03-31",
+      "anlass": "Volkssolidarität",
+      "bild_beschreibung": "Ziffern",
+      "anmerkungen": [],
+      "entwerfer": "Otto Horn",
+      "auflage": 1060000,
+      "commons_datei": "SBZ West-Sachsen 1946 149 Volkssolidarität.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Volkssolidarität",
+          "beschriftung": "Volkssolidarität",
+          "haupt": true,
+          "artikel": "Volkssolidarität",
+          "wikidata": "Q2532186"
+        }
+      ]
+    },
+    {
+      "mi_nr": "162",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-05-08",
+      "wert": "6+14",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Leipziger Messe",
+      "bild_beschreibung": "Diese Marken wurden auch als Briefmarkenblock 5 herausgegeben; Altes Rathaus, Leipzig",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 2655850,
+      "commons_datei": "SBZ West-Sachsen 1946 162 Leipzig, Altes Rathaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Altes Rathaus (Leipzig)",
+          "beschriftung": "Altes Rathaus, Leipzig",
+          "haupt": true,
+          "artikel": "Altes Rathaus (Leipzig)",
+          "wikidata": "Q439431"
+        },
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Messe",
+          "haupt": false,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "163",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-05-08",
+      "wert": "12+18",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Leipziger Messe",
+      "bild_beschreibung": "Altes Rathaus",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 2655850,
+      "commons_datei": "SBZ West-Sachsen 1946 163 Leipzig, Altes Rathaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Messe",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "164",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-05-08",
+      "wert": "24+26",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Leipziger Messe",
+      "bild_beschreibung": "Altes Rathaus",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 2655850,
+      "commons_datei": "SBZ West-Sachsen 1946 164 Leipzig, Altes Rathaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Messe",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "165",
+      "block": null,
+      "art": "Sondermarke",
+      "ausgabetag": "1946-05-08",
+      "wert": "84+66",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Leipziger Messe",
+      "bild_beschreibung": "Altes Rathaus",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 2655850,
+      "commons_datei": "SBZ West-Sachsen 1946 165 Leipzig, Altes Rathaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipziger Messe",
+          "beschriftung": "Leipziger Messe",
+          "haupt": true,
+          "artikel": "Leipziger Messe",
+          "wikidata": "Q678262"
+        }
+      ]
+    },
+    {
+      "mi_nr": "150",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-12",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie Leipzig",
+      "bild_beschreibung": "Ab dem 12. Februar-Ausgabe auf Papier mit Wasserzeichen 1 (MiNr. 150–155), ab dem 15. März-Ausgabe auf Papier ohne Wasserzeichen (MiNr. 156–161); Stadtwappen von Leipzig",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 1075000,
+      "commons_datei": "SBZ West-Sachsen 1946 156 Leipzig, Stadtwappen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Leipzig",
+          "beschriftung": "Stadtwappen von Leipzig",
+          "haupt": true,
+          "artikel": "Leipzig",
+          "wikidata": "Q2079"
+        }
+      ]
+    },
+    {
+      "mi_nr": "151",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-12",
+      "wert": "4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie Leipzig",
+      "bild_beschreibung": "Stadtwappen von Leipzig",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 1075000,
+      "commons_datei": "SBZ West-Sachsen 1946 157 Leipzig, Stadtwappen.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "152",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-12",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie Leipzig",
+      "bild_beschreibung": "Nikolaikirche, Leipzig",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 985000,
+      "commons_datei": "SBZ West-Sachsen 1946 158 Leipzig, Nikolaikirche.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nikolaikirche (Leipzig)",
+          "beschriftung": "Nikolaikirche, Leipzig",
+          "haupt": true,
+          "artikel": "Nikolaikirche (Leipzig)",
+          "wikidata": "Q694286"
+        }
+      ]
+    },
+    {
+      "mi_nr": "153",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-12",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie Leipzig",
+      "bild_beschreibung": "Nikolaikirche",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 1050000,
+      "commons_datei": "SBZ West-Sachsen 1946 159 Leipzig, Nikolaikirche.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "154",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-12",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie Leipzig",
+      "bild_beschreibung": "Neues Rathaus, Leipzig",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 1000000,
+      "commons_datei": "SBZ West-Sachsen 1946 160 Leipzig, Neues Rathaus.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Neues Rathaus (Leipzig)",
+          "beschriftung": "Neues Rathaus, Leipzig",
+          "haupt": true,
+          "artikel": "Neues Rathaus (Leipzig)",
+          "wikidata": "Q676338"
+        }
+      ]
+    },
+    {
+      "mi_nr": "155",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-02-12",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Dauermarkenserie Leipzig",
+      "bild_beschreibung": "Neues Rathaus",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 1060000,
+      "commons_datei": "SBZ West-Sachsen 1946 161 Leipzig, Neues Rathaus.jpg",
+      "satz": true,
+      "themen": []
+    }
+  ]
+}

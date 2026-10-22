@@ -26,10 +26,17 @@ class KatalogTest {
     }
 
     @Test
-    fun vierGebiete() {
+    fun vierGebieteUndBesatzungszonen() {
         val gebiete = katalog.gebiete
-        assertEquals(listOf("Bund", "Berlin", "DDR", "Reich"), gebiete.map { it.name })
-        assertTrue(gebiete.all { it.anzahl > 800 })
+        assertEquals(listOf("Bund", "Berlin", "DDR", "Reich"), gebiete.filter { it.gruppe == null }.map { it.name })
+        assertTrue(gebiete.filter { it.gruppe == null }.all { it.anzahl > 800 })
+        // Die 13 Gebiete der Besatzungszeit bilden eine Gruppe mit eigener Zaehlung je Gebiet (MiNr 1 in Baden und in der Bizone)
+        val zonen = gebiete.filter { it.gruppe == "Besatzungszonen 1945–1949" }
+        assertEquals(13, zonen.size)
+        assertTrue(zonen.all { it.anzahl > 0 })
+        assertEquals("1", katalog.markenImJahr("Baden", 1947).first().mi_nr)
+        assertEquals("1", katalog.markenImJahr("Bizone", 1945).first { it.bild_beschreibung == "USA-Druck" }.mi_nr)
+        assertTrue(katalog.markenImJahr("Kontrollrat", 1946).any { it.mi_nr == "911" })
         // Reich beginnt 1872 mit MiNr 1, DDR 1949, Berlin 1948
         assertEquals("1", katalog.markenImJahr("Reich", 1872).first().mi_nr)
         assertTrue(katalog.markenImJahr("DDR", 1965).any { it.mi_nr == "1084" })

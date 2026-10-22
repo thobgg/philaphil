@@ -1,0 +1,159 @@
+{
+  "gebiet": "Berlin-Brandenburg",
+  "jahr": 1945,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben für Berlin und Brandenburg",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_f%C3%BCr_Berlin_und_Brandenburg",
+    "revision": 263890555,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1,
+    "mi_nr_bis": 7,
+    "luecken": [
+      6
+    ],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1AA",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-06-09",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Berliner Bär mit stilisiertem Wappenschild",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 38000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Berliner Bär",
+          "beschriftung": "Berliner Bär",
+          "haupt": true,
+          "artikel": "Berliner Bär",
+          "wikidata": "Q884928"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-07-18",
+      "wert": "6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Berliner Bär mit Spaten",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 45000000,
+      "commons_datei": "OPD BLN 1945 2A Berliner Bär.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "3A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-06-09",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Berliner Bär mit stilisiertem Wappenschild",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 46000000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "4A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-07-18",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Berliner Bär mit Ziegelstein",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 15000000,
+      "commons_datei": "OPD BLN 1945 4A Berliner Bär.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "5AA",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-07-05",
+      "wert": "12",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-07-05",
+      "anlass": "Berliner Bär mit Balken",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 73000000,
+      "commons_datei": "OPD BLN 1945 5A Berliner Bär.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "5A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-07-18",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "Berliner Stadtwappen mit aufrecht stehendem Wappenbären und fünftürmiger Mauerkrone",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Schwabe",
+      "auflage": 18000000,
+      "commons_datei": "OPD BLN 1945 6A Berliner Bär.jpg",
+      "satz": false,
+      "themen": []
+    },
+    {
+      "mi_nr": "7A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1945-07-18",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1946-10-31",
+      "anlass": "junge Eiche, die Halt an Ruinen sucht; Motiv der Ruinen entstanden nach einer Skizze der Ruinenlandschaft am Belle-Alliance-Platz",
+      "bild_beschreibung": "",
+      "anmerkungen": [],
+      "entwerfer": "Goldammer",
+      "auflage": 19000000,
+      "commons_datei": null,
+      "satz": false,
+      "themen": [
+        {
+          "titel": "Eiche",
+          "beschriftung": "Eiche",
+          "haupt": true,
+          "artikel": "Eichen",
+          "wikidata": "Q12004"
+        }
+      ]
+    }
+  ]
+}

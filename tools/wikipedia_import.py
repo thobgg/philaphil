@@ -8,6 +8,7 @@ und Jahrgang nach daten/<gebiet>/<jahr>.json.
 Aufruf:
     tools/wikipedia_import.py --gebiet bund --jahr 1979
     tools/wikipedia_import.py --gebiet bund --jahr 1979 --offline   (nur Cache)
+    tools/wikipedia_import.py --gebiet bizone                        (Gebietsartikel: alle Jahre aus einer Seite)
 
 Was das Skript macht:
 - Sätze erkennen: Zeilen ohne fette Überschrift gehören zum vorigen Anlass.
@@ -57,7 +58,20 @@ def titel_bund(jahr):
 
 # Waehrung aus der Kopfzeile "Werte in ..."
 WAEHRUNGEN = [("eurocent", "ct"), ("pfennig", "Pf"), ("cent", "ct"), ("euro", "€"), ("deutsche mark", "DM"), (" dm", "DM"),
-              ("groschen", "Gr"), ("kreuzer", "Kr"), ("reichsmark", "RM"), ("rentenmark", "RM")]
+              ("groschen", "Gr"), ("kreuzer", "Kr"), ("reichsmark", "RM"), ("ℛℳ", "RM"), ("rentenmark", "RM")]
+
+# Einheit in der Wertzelle (Zonen-Listen: "5 Pf", "1 Rpf", "3 Mark") -> Kuerzel wie in den Jahrgangslisten
+RE_WERT_EINHEIT = re.compile(r"^(.*?\d)\s*(Rpf|Pf|Pfennig|RM|ℛℳ|DM|Mark|M)\.?$")
+EINHEITEN = {"rpf": "Rpf", "pf": "Pf", "pfennig": "Pf", "rm": "RM", "ℛℳ": "RM", "dm": "DM", "mark": "M", "m": "M"}
+
+
+def wert_trennen(text, waehrung):
+    """'5 Pf' -> ('5', 'Pf'), '1 Mark' -> ('1', 'M'); ohne Einheit bleibt die Waehrung der Tabelle."""
+    m = RE_WERT_EINHEIT.match(text)
+    if m:
+        return m.group(1).strip(), EINHEITEN[m.group(2).lower()]
+    return text, waehrung
+
 
 # Spaltennamen der Kopfzeile -> Schluessel
 SPALTEN = [("bild", "bild"), ("beschreibung", "beschreibung"), ("wert", "wert"), ("ausgabe", "datum"),
@@ -81,6 +95,8 @@ def art_aus(abschnitt):
     t = abschnitt.lower()
     if t in ("groschen", "kreuzer", "pfennig", "mark"):
         return "Dauermarke"
+    if t.startswith("marken"):
+        return "Marke"                # Zonen-Artikel trennen nicht nach Dauer- und Sondermarken: "Marken (Werte in Reichsmark)"
     for wort, art in (("automatenmarke", "Automatenmarke"), ("dauermarke", "Dauermarke"), ("sondermarke", "Sondermarke"),
                       ("ganzsache", "Ganzsache"), ("postkarte", "Ganzsache"), ("block", "Block"), ("dienstmarke", "Dienstmarke"),
                       ("portomarke", "Portomarke"), ("zwangszuschlag", "Zwangszuschlagsmarke"), ("flugpost", "Sondermarke")):
@@ -93,6 +109,7 @@ KEINE_THEMEN = {
     "Zuschlagmarke", "Wohlfahrtsmarke", "Dauermarke", "Sondermarke",
     "Briefmarke", "Pfennig", "Michel-Katalog", "Deutsche Mark",
     "Kleinbogen", "Blockausgabe", "Zusammendruck",
+    "Reichsmark", "Reichspfennig", "Rentenpfennig", "Mark (1871)",
 }
 
 MONATE = {
@@ -259,6 +276,7 @@ def tabelle_parsen(wikitext):
     abschnitt = None
     waehrung = None
     spalten = dict(STANDARD_SPALTEN)
+    bilder = []         # mehrere Bildspalten (Bizone: USA-, englischer, deutscher Druck) als (Spalte, Bezeichnung)
     ergebnis = []
     laufend = {}    # Spaltenindex -> [verbleibende Zeilen, Inhalt]
     for zellen in rohe_zeilen:
@@ -268,11 +286,14 @@ def tabelle_parsen(wikitext):
             waehrung = waehrung_aus(abschnitt) or waehrung
             laufend = {}
             continue
-        if klartext(zellen[0][1]).strip().lower() == "bild" and len(zellen) > 3:
+        if klartext(zellen[0][1]).strip().lower().startswith("bild") and len(zellen) > 3:
             # Kopfzeile: Spalten nach Namen (bis 1968 gibt es "gültig bis"), Waehrung aus "Werte in …"
             spalten = {}
+            bilder = []
             for i, z in enumerate(zellen):
                 name = klartext(z[1]).lower()
+                if name.startswith("bild"):
+                    bilder.append((i, re.sub(r"(?i)^bild[\s:-]*", "", klartext(z[1])).strip()))
                 for wort, schluessel in SPALTEN:
                     if wort in name and schluessel not in spalten:
                         spalten[schluessel] = i
@@ -310,7 +331,10 @@ def tabelle_parsen(wikitext):
         if "gueltig_bis" in spalten and len(ausgabe) == max(spalten.values()):
             g = spalten["gueltig_bis"]
             belegung = {k: (i - 1 if i > g else i) for k, i in spalten.items() if k != "gueltig_bis"}
-        ergebnis.append((abschnitt, waehrung, {k: (ausgabe[i] if i < len(ausgabe) else "") for k, i in belegung.items()}))
+        zeile = {k: (ausgabe[i] if i < len(ausgabe) else "") for k, i in belegung.items()}
+        if len(bilder) > 1:
+            zeile["bilder"] = [(name, ausgabe[i] if i < len(ausgabe) else "") for i, name in bilder]
+        ergebnis.append((abschnitt, waehrung, zeile))
     return ergebnis
 
 
@@ -415,9 +439,9 @@ def minr_parsen(text):
     Liefert (mi_nr, block). Die erste reine Nummer ist die MiNr; eine Marke, die nur als Block
     erschien, bekommt 'Bl. 16' als Nummer.
     """
-    teile = [klartext(t) for t in re.split(r"<br\s*/?>", text, flags=re.IGNORECASE)]
-    teile = [t for t in teile if t]
-    nummern = [t for t in teile if re.fullmatch(r"\d+[A-Za-z]?", t)]
+    teile = [klartext(t) for t in re.split(r"<br\s*/?>|\s/\s", text, flags=re.IGNORECASE)]
+    teile = [t for t in teile if t and t != "-"]
+    nummern = [t for t in teile if re.fullmatch(r"\d+[A-Za-z]{0,2}", t)]
     block = next((t.replace("\xa0", " ") for t in teile if t.lower().startswith("block")), None)
     if nummern:
         return nummern[0], block
@@ -456,19 +480,29 @@ def themen_ableiten(anlass_wiki, beschreibung_wiki, im_satz):
 
 
 # ----------------------------------------------------------------- Hauptlauf
-def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
-    eintrag = gebiete_laden()[gebiet_schluessel]
-    gebiet = eintrag["name"]
-    seitentitel = nach_jahr(eintrag, "titel", jahr)
-    try:
-        wikitext, revision, seitentitel = wikitext_laden(seitentitel, offline=offline, frisch=frisch)
-    except SystemExit:
-        print(f"  keine Liste für {jahr} ({seitentitel})", file=sys.stderr)
-        return None
+def ist_gebietsartikel(eintrag):
+    """Ein Titel ohne {jahr}: eine Seite für alle Jahre des Gebiets (Besatzungszonen 1945–1949)."""
+    return "{jahr}" not in eintrag["titel"] and not eintrag.get("titel_ab")
 
-    m = re.search(r"umfasste (\d+) \[\[Sondermarke", wikitext)
-    erwartet_sondermarken = int(m.group(1)) if m else None
 
+def quelle_angabe(seitentitel, revision):
+    return {
+        "titel": seitentitel,
+        "url": "https://de.wikipedia.org/wiki/" + urllib.parse.quote(seitentitel.replace(" ", "_")),
+        "revision": revision,
+        "abgerufen": date.today().isoformat(),
+        "lizenz": "CC BY-SA 4.0",
+        "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    }
+
+
+def minr_teile(text):
+    """Die Zelle Zeile für Zeile: '1<br />10<br />17' -> ['1', '10', '17'] (Bizone: eine Nummer je Druck)."""
+    return [t for t in (klartext(t) for t in re.split(r"<br\s*/?>", text, flags=re.IGNORECASE)) if t]
+
+
+def marken_lesen(wikitext, jahr):
+    """Alle Marken der Tabelle; jahr ist die Vorgabe für Daten ohne Jahreszahl und für die Währung."""
     marken = []
     namen = benannte_fussnoten(wikitext)
     satz_fussnoten = []         # Fussnoten am Anlass gelten fuer alle Marken des Satzes
@@ -479,17 +513,15 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             continue
         bild, beschreibung, wert = zellen.get("bild", ""), zellen.get("beschreibung", ""), zellen.get("wert", "")
         datum, auflage, entwurf, minr = zellen.get("datum", ""), zellen.get("auflage", ""), zellen.get("entwurf", ""), zellen["minr"]
-        mi_nr, block = minr_parsen(minr)
-        if not mi_nr:
-            continue
-        if not any(ch.isdigit() for ch in mi_nr):
-            print(f"  Hinweis: Zeile ohne MiNr übersprungen ({mi_nr}): {klartext(beschreibung)[:50]}", file=sys.stderr)
-            continue
-        art = art_aus(abschnitt)
-        # Eigene Zaehlungen bekommen ein Vorzeichen, sonst kollidieren sie mit den Marken (Dienstmarke 16 ist nicht Marke 16)
-        vorzeichen = {"Automatenmarke": "ATM", "Dienstmarke": "D", "Portomarke": "P", "Zwangszuschlagsmarke": "Z"}.get(art)
-        if vorzeichen and mi_nr[0].isdigit():
-            mi_nr = f"{vorzeichen} {mi_nr}"
+        # Mehrere Drucke in einer Zeile (Bizone: USA, England, Deutschland): je Bildspalte eine MiNr, also eine Marke je Druck
+        bilder = zellen.get("bilder") or []
+        nummern = minr_teile(minr)
+        if len(bilder) > 1 and len(nummern) == len(bilder):
+            auflagen = minr_teile(auflage)
+            varianten = [(n, b, auflagen[k] if len(auflagen) == len(bilder) else auflage, druck)
+                         for k, (n, (druck, b)) in enumerate(zip(nummern, bilder)) if any(ch.isdigit() for ch in n)]
+        else:
+            varianten = [(minr, bild, auflage, None)]
         neuer_anlass, beschreibung_wiki = beschreibung_parsen(beschreibung)
         # Fussnoten: die der Anlasszeile gelten fuer den ganzen Satz, die uebrigen nur fuer diese Marke
         zeilen = [z for z in beschreibung.split("\n") if z.strip()]
@@ -500,28 +532,44 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             satz_fussnoten = fussnoten(anlass_zeile, namen)
             anlass_wiki = neuer_anlass
             anlass_abschnitt = abschnitt
-        datei = RE_DATEI.search(bild)
         ausgabetag, datum_text = datum_parsen(datum, jahr)
-        if not ausgabetag:
-            print(f"  Hinweis: Datum nicht erkannt bei MiNr {mi_nr}: {datum_text}", file=sys.stderr)
-        marke = {
-            "mi_nr": mi_nr,
-            "block": block,                 # 'Block 16', wenn die Marke nur im Block erschien
-            "art": art,
-            "ausgabetag": ausgabetag,
-            "wert": klartext(wert),
-            "waehrung": waehrung or ("ct" if jahr >= 2002 else "M" if 1919 <= jahr <= 1923 else "Pf"),
-            "gueltig_bis": datum_parsen(zellen.get("gueltig_bis", ""), jahr)[0] if zellen.get("gueltig_bis") else None,
-            "anlass": klartext(anlass_wiki or ""),
-            "bild_beschreibung": klartext(beschreibung_wiki),
-            "anmerkungen": satz_fussnoten + [f for f in eigene if f not in satz_fussnoten],
-            "entwerfer": klartext(entwurf) or None,
-            "auflage": zahl_parsen(auflage),
-            "commons_datei": datei.group(1).strip() if datei else None,
-            "_anlass_wiki": anlass_wiki,
-            "_beschreibung_wiki": beschreibung_wiki,
-        }
-        marken.append(marke)
+        art = art_aus(abschnitt)
+        for minr_text, bild_zelle, auflage_zelle, druck in varianten:
+            mi_nr, block = minr_parsen(minr_text)
+            if not mi_nr:
+                continue
+            if not any(ch.isdigit() for ch in mi_nr):
+                print(f"  Hinweis: Zeile ohne MiNr übersprungen ({mi_nr}): {klartext(beschreibung)[:50]}", file=sys.stderr)
+                continue
+            # Eigene Zaehlungen bekommen ein Vorzeichen, sonst kollidieren sie mit den Marken (Dienstmarke 16 ist nicht Marke 16)
+            vorzeichen = {"Automatenmarke": "ATM", "Dienstmarke": "D", "Portomarke": "P", "Zwangszuschlagsmarke": "Z"}.get(art)
+            if vorzeichen and mi_nr[0].isdigit():
+                mi_nr = f"{vorzeichen} {mi_nr}"
+            if not ausgabetag:
+                print(f"  Hinweis: Datum nicht erkannt bei MiNr {mi_nr}: {datum_text}", file=sys.stderr)
+            datei = RE_DATEI.search(bild_zelle)
+            beschreibung_text = klartext(beschreibung_wiki)
+            if druck:
+                beschreibung_text = f"{beschreibung_text} ({druck})" if beschreibung_text else druck
+            wert_text, wert_waehrung = wert_trennen(klartext(wert), waehrung or ("ct" if jahr >= 2002 else "M" if 1919 <= jahr <= 1923 else "Pf"))
+            marke = {
+                "mi_nr": mi_nr,
+                "block": block,                 # 'Block 16', wenn die Marke nur im Block erschien
+                "art": art,
+                "ausgabetag": ausgabetag,
+                "wert": wert_text,
+                "waehrung": wert_waehrung,
+                "gueltig_bis": datum_parsen(zellen.get("gueltig_bis", ""), jahr)[0] if zellen.get("gueltig_bis") else None,
+                "anlass": klartext(anlass_wiki or ""),
+                "bild_beschreibung": beschreibung_text,
+                "anmerkungen": satz_fussnoten + [f for f in eigene if f not in satz_fussnoten],
+                "entwerfer": klartext(entwurf) or None,
+                "auflage": zahl_parsen(auflage_zelle),
+                "commons_datei": datei.group(1).strip() if datei else None,
+                "_anlass_wiki": anlass_wiki,
+                "_beschreibung_wiki": beschreibung_wiki,
+            }
+            marken.append(marke)
 
     # Sätze erkennen: mehrere Marken mit demselben Anlass im selben Abschnitt
     anzahl_je_anlass = {}
@@ -531,8 +579,11 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
     for mk in marken:
         mk["satz"] = anzahl_je_anlass[(mk["art"], mk["anlass"])] > 1
         mk["themen"] = themen_ableiten(mk.pop("_anlass_wiki"), mk.pop("_beschreibung_wiki"), mk["satz"])
+    return marken
 
-    # Wikidata-IDs nachschlagen
+
+def themen_nachschlagen(marken, offline=False):
+    """Wikidata-IDs zu allen Themen der Marken."""
     alle_titel = [t["titel"] for mk in marken for t in mk["themen"]]
     print(f"  {len(marken)} Marken, {len(set(alle_titel))} Themen, Wikidata nachschlagen …", file=sys.stderr)
     ids = wikidata_ids(alle_titel, offline=offline)
@@ -542,7 +593,9 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
             t["artikel"] = ziel
             t["wikidata"] = qid
 
-    # Lückenprüfung
+
+def jahrgang_schreiben(gebiet_schluessel, eintrag, jahr, marken, quelle, erwartet_sondermarken=None, anderswo=frozenset()):
+    """Lückenprüfung und Ausgabe daten/<gebiet>/<jahr>.json; anderswo = Nummern, die in anderen Jahrgängen desselben Artikels stehen."""
     # Lueckenpruefung nur ueber die eigentliche Zaehlung (keine ATM, keine Bl.)
     def nummern_in(mi_nr):
         m = re.fullmatch(r"(\d+)\s*[-–]\s*(\d+)", mi_nr)
@@ -559,7 +612,7 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
         ausreisser.append(kern.pop(0))
     while len(kern) > 2 and kern[-1] - kern[-2] > 10:
         ausreisser.append(kern.pop())
-    luecken = [n for n in range(kern[0], kern[-1] + 1) if n not in kern] if kern else []
+    luecken = [n for n in range(kern[0], kern[-1] + 1) if n not in kern and n not in anderswo] if kern else []
     sonder = sum(1 for mk in marken if mk["art"] == "Sondermarke")
     pruefung = {
         "mi_nr_von": kern[0] if kern else None,
@@ -578,16 +631,9 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
     print(f"  Ohne Commons-Bild: {len(ohne_bild)} von {len(marken)}", file=sys.stderr)
 
     ausgabe = {
-        "gebiet": gebiet,
+        "gebiet": eintrag["name"],
         "jahr": jahr,
-        "quelle": {
-            "titel": seitentitel,
-            "url": "https://de.wikipedia.org/wiki/" + urllib.parse.quote(seitentitel.replace(" ", "_")),
-            "revision": revision,
-            "abgerufen": date.today().isoformat(),
-            "lizenz": "CC BY-SA 4.0",
-            "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-        },
+        "quelle": quelle,
         "pruefung": pruefung,
         "marken": marken,
     }
@@ -596,6 +642,54 @@ def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
     ziel.write_text(json.dumps(ausgabe, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"  geschrieben: {ziel.relative_to(HIER.parent)}", file=sys.stderr)
     return ausgabe
+
+
+def importieren(gebiet_schluessel, jahr, offline=False, frisch=False):
+    """Eine Jahrgangsliste (Bund 1979 …)."""
+    eintrag = gebiete_laden()[gebiet_schluessel]
+    seitentitel = nach_jahr(eintrag, "titel", jahr)
+    try:
+        wikitext, revision, seitentitel = wikitext_laden(seitentitel, offline=offline, frisch=frisch)
+    except SystemExit:
+        print(f"  keine Liste für {jahr} ({seitentitel})", file=sys.stderr)
+        return None
+    m = re.search(r"umfasste (\d+) \[\[Sondermarke", wikitext)
+    marken = marken_lesen(wikitext, jahr)
+    themen_nachschlagen(marken, offline=offline)
+    return jahrgang_schreiben(gebiet_schluessel, eintrag, jahr, marken, quelle_angabe(seitentitel, revision), int(m.group(1)) if m else None)
+
+
+def importieren_gebietsartikel(gebiet_schluessel, offline=False, frisch=False):
+    """Ein Artikel für alle Jahre (Besatzungszonen): die Marken wandern nach dem Jahr des Ausgabetags in die Jahrgangsdateien.
+
+    Ohne Ausgabetag zählt eine Marke zum Jahr der vorigen Zeile. Jahrgangsdateien, zu denen keine Marke mehr gehört, werden gelöscht.
+    """
+    eintrag = gebiete_laden()[gebiet_schluessel]
+    try:
+        wikitext, revision, seitentitel = wikitext_laden(eintrag["titel"], offline=offline, frisch=frisch)
+    except SystemExit:
+        print(f"  Seite nicht gefunden: {eintrag['titel']}", file=sys.stderr)
+        return
+    marken = marken_lesen(wikitext, eintrag["von"])
+    themen_nachschlagen(marken, offline=offline)
+    quelle = quelle_angabe(seitentitel, revision)
+    je_jahr = {}
+    jahr = eintrag["von"]
+    for mk in marken:
+        if mk["ausgabetag"] and mk["ausgabetag"][:4].isdigit():
+            jahr = int(mk["ausgabetag"][:4])
+        je_jahr.setdefault(jahr, []).append(mk)
+    alle_nummern = {int(z) for mk in marken for z in re.findall(r"\d+", re.sub(r"(Block|Bl\.)\s*\d+", "", mk["mi_nr"]))}
+    for j in sorted(je_jahr):
+        print(f"{gebiet_schluessel} {j}:", file=sys.stderr)
+        eigene = {int(z) for mk in je_jahr[j] for z in re.findall(r"\d+", mk["mi_nr"])}
+        jahrgang_schreiben(gebiet_schluessel, eintrag, j, je_jahr[j], quelle, anderswo=alle_nummern - eigene)
+    for alt in sorted((DATEN / gebiet_schluessel).glob("*.json")):
+        if alt.stem.isdigit() and int(alt.stem) not in je_jahr:
+            alt.unlink()
+            print(f"  gelöscht, keine Marke mehr in diesem Jahr: {alt.relative_to(HIER.parent)}", file=sys.stderr)
+    if any(j < eintrag["von"] or j > eintrag["bis"] for j in je_jahr):
+        print(f"  Hinweis: Jahre {sorted(je_jahr)} passen nicht zu von/bis {eintrag['von']}–{eintrag['bis']} in gebiete.json", file=sys.stderr)
 
 
 def main():
@@ -607,6 +701,11 @@ def main():
     p.add_argument("--frisch", action="store_true", help="Cache der Seite verwerfen und neu laden")
     args = p.parse_args()
     eintrag = gebiete_laden()[args.gebiet]
+    if ist_gebietsartikel(eintrag):
+        # Ein Artikel fuer alle Jahre: immer ganz lesen, --jahr spielt keine Rolle
+        print(f"{args.gebiet} ({eintrag['titel']}):", file=sys.stderr)
+        importieren_gebietsartikel(args.gebiet, offline=args.offline, frisch=args.frisch)
+        return
     jahre = range(eintrag["von"], eintrag["bis"] + 1) if args.alle else (args.jahr or [])
     for jahr in jahre:
         print(f"{args.gebiet} {jahr}:", file=sys.stderr)

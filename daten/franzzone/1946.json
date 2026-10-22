@@ -1,0 +1,214 @@
+{
+  "gebiet": "Franz. Zone",
+  "jahr": 1946,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der französischen Zone in Deutschland",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_franz%C3%B6sischen_Zone_in_Deutschland",
+    "revision": 251514710,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1,
+    "mi_nr_bis": 13,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-11",
+      "wert": "1",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen des Rheinlands",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 21600000,
+      "commons_datei": "Fr. Zone 1945 1 Wappen Rheinland.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Rheinland",
+          "beschriftung": "Rheinland",
+          "haupt": true,
+          "artikel": "Rheinland",
+          "wikidata": "Q152243"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-11",
+      "wert": "3",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen der Pfalz",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 44800000,
+      "commons_datei": "Fr. Zone 1945 2 Wappen Pfalz.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Pfalz (Region)",
+          "beschriftung": "Pfalz",
+          "haupt": true,
+          "artikel": "Pfalz (Region)",
+          "wikidata": "Q326359"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-11",
+      "wert": "5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen Württembergs",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 53600000,
+      "commons_datei": "Fr. Zone 1945 3 Wappen Württemberg.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Württemberg",
+          "beschriftung": "Württemberg",
+          "haupt": true,
+          "artikel": "Württemberg",
+          "wikidata": "Q159626"
+        }
+      ]
+    },
+    {
+      "mi_nr": "4",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-11",
+      "wert": "8",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen Badens",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 43300000,
+      "commons_datei": "Fr. Zone 1945 4 Wappen Baden.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Baden (Südbaden)",
+          "beschriftung": "Badens",
+          "haupt": true,
+          "artikel": "Baden (Südbaden)",
+          "wikidata": "Q261407"
+        }
+      ]
+    },
+    {
+      "mi_nr": "7",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-11",
+      "wert": "15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen Saarbrückens",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 22300000,
+      "commons_datei": "Fr. Zone 1945 7 Wappen Saarbrücken.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Saarbrücken",
+          "beschriftung": "Saarbrücken",
+          "haupt": true,
+          "artikel": "Saarbrücken",
+          "wikidata": "Q1724"
+        }
+      ]
+    },
+    {
+      "mi_nr": "9",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-01-11",
+      "wert": "24",
+      "waehrung": "Pf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Wappen Saarbrückens",
+      "anmerkungen": [],
+      "entwerfer": "Robert Louis",
+      "auflage": 64700000,
+      "commons_datei": "Fr. Zone 1945 9 Wappen Saarbrücken.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "12",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-04-01",
+      "wert": "2",
+      "waehrung": "M",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Friedrich Schiller",
+      "anmerkungen": [],
+      "entwerfer": "Achille Ouvré",
+      "auflage": 1032175,
+      "commons_datei": "Fr. Zone 1945 12 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Friedrich Schiller",
+          "beschriftung": "Friedrich Schiller",
+          "haupt": true,
+          "artikel": "Friedrich Schiller",
+          "wikidata": "Q22670"
+        }
+      ]
+    },
+    {
+      "mi_nr": "13",
+      "block": null,
+      "art": "Dauermarke",
+      "ausgabetag": "1946-04-01",
+      "wert": "5",
+      "waehrung": "M",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Gemeinschaftsausgabe der Französischen Zone",
+      "bild_beschreibung": "Heinrich Heine",
+      "anmerkungen": [],
+      "entwerfer": "Achille Ouvré",
+      "auflage": 1015200,
+      "commons_datei": "Fr. Zone 1945 13 Heinrich Heine.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Heinrich Heine",
+          "beschriftung": "Heinrich Heine",
+          "haupt": true,
+          "artikel": "Heinrich Heine",
+          "wikidata": "Q44403"
+        }
+      ]
+    }
+  ]
+}

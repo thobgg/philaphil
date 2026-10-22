@@ -51,7 +51,7 @@ Der Katalog ist in der App enthalten. Beim ersten Start braucht PhilaPhil kein N
 
 Beim ersten Start zeigt PhilaPhil den Jahrgang Bund 1979. Oben steht der Titel des Jahrgangs, darunter die Suche und die drei Filter, dann die Liste der Marken.
 
-- **Gebiet und Jahrgang wählen:** Tippe auf den Titel, etwa „Bund 1979 ▾“. Es öffnet sich die Auswahl mit allen Gebieten und Jahren.
+- **Gebiet und Jahrgang wählen:** Tippe auf den Titel, etwa „Bund 1979 ▾“. Es öffnet sich die Auswahl mit allen Gebieten und Jahren. Die Besatzungszonen 1945 bis 1949 stehen als ein Eintrag; wählst du ihn, erscheint darunter eine zweite Reihe mit den dreizehn Gebieten jener Jahre: Gemeinschaftsausgaben des Alliierten Kontrollrats, Amerikanische und Britische Zone, die französische Zone mit Baden, Rheinland-Pfalz und Württemberg-Hohenzollern sowie die sowjetische Zone mit Berlin-Brandenburg, Mecklenburg-Vorpommern, Provinz Sachsen, Ost-Sachsen, West-Sachsen und Thüringen.
 - **Blättern:** Die Pfeile neben den Jahreszahlen führen zum vorigen und nächsten Jahrgang desselben Gebiets.
 - **Heute vor Jahren:** Das Kalendersymbol oben rechts.
 - **Einstellungen:** Das Zahnrad oben rechts. Dort findest du auch „Hilfe und Anleitung“.
@@ -89,7 +89,7 @@ Ein Tipp auf eine Marke öffnet ihre Karte:
 
 **Themen.** Ein Thema führt zu allen Marken, die es berühren, über Gebiete und Jahrzehnte hinweg: Luftfahrt, Nobelpreisträger, Albert Schweitzer in der DDR und in der Bundesrepublik.
 
-**Bund, Berlin, DDR und Deutsches Reich.** Die Karte ist in allen Gebieten gleich aufgebaut. Wie viele Angaben sie zeigt, hängt von den Wikipedia-Listen ab: Beim Deutschen Reich fehlt meist die Auflage, dafür gibt es dort besonders viele Bilder. Fehlt eine Angabe, lässt die Karte die Zeile weg. Die Zeitreise gehört zum Jahr, nicht zum Gebiet: Berlin 1961 und DDR 1961 erzählen dasselbe Jahr.
+**Bund, Berlin, DDR, Deutsches Reich und die Besatzungszonen.** Die Karte ist in allen Gebieten gleich aufgebaut. In den Zonen hat jedes Gebiet seine eigene Zählung, die MiNr. 1 gibt es also in Baden, in Rheinland-Pfalz und in der Bizone; bei der Bizone zählt jeder Druck als eigene Marke (amerikanischer, englischer und deutscher Druck der M-Serie). Wie viele Angaben sie zeigt, hängt von den Wikipedia-Listen ab: Beim Deutschen Reich fehlt meist die Auflage, dafür gibt es dort besonders viele Bilder. Fehlt eine Angabe, lässt die Karte die Zeile weg. Die Zeitreise gehört zum Jahr, nicht zum Gebiet: Berlin 1961 und DDR 1961 erzählen dasselbe Jahr.
 
 # Zeitreise und Heute vor Jahren
 

@@ -24,7 +24,7 @@ gibt es den MICHEL-Katalog; PhilaPhil erzählt, *warum* es eine Marke gibt und w
 
 <img src="docs/bilder/desktop-tablet.png" width="720" alt="Tablet und Desktop: Liste links, Marke und Themenkarte rechts">
 
-Stand: Bund 1949 bis 2026, Berlin 1948 bis 1990, DDR 1949 bis 1990 und Deutsches Reich 1872 bis 1945, zusammen 8936 Marken und 6877 Themen. Themenkarten mit Kurztext aus der Wikipedia, ganze Sätze und Dauerserien als Tafel, Zeitreise „Was in dem Jahr geschah“, Heute vor Jahren, Suche über alle Gebiete, eigener Bestand und eigene Bilder, Abgleich zwischen Handy, Tablet und PC über die eigene NAS.
+Stand: Bund 1949 bis 2026, Berlin 1948 bis 1990, DDR 1949 bis 1990, Deutsches Reich 1872 bis 1945 und die Besatzungszonen 1945 bis 1949 (Gemeinschaftsausgaben, Bizone, französische und sowjetische Zone mit ihren Ländern), zusammen 9485 Marken und 6925 Themen. Themenkarten mit Kurztext aus der Wikipedia, ganze Sätze und Dauerserien als Tafel, Zeitreise „Was in dem Jahr geschah“, Heute vor Jahren, Suche über alle Gebiete, eigener Bestand und eigene Bilder, Abgleich zwischen Handy, Tablet und PC über die eigene NAS.
 
 ```
 daten/     JSON pro Gebiet und Jahrgang (CC BY-SA 4.0), später eigenes Repo briefmarken-daten

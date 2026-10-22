@@ -1,0 +1,545 @@
+{
+  "gebiet": "Württemberg",
+  "jahr": 1949,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der französischen Zone Württemberg-Hohenzollern",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_franz%C3%B6sischen_Zone_W%C3%BCrttemberg-Hohenzollern",
+    "revision": 269667041,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 31,
+    "mi_nr_bis": 52,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "31",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-03",
+      "wert": "6 (Pf)",
+      "waehrung": "DM",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Württemberg-Hohenzollern (III)",
+      "bild_beschreibung": "Friedrich Hölderlin",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Württemberg 1948 31 Friedrich Hölderlin.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "32",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-03",
+      "wert": "8 (Pf)",
+      "waehrung": "DM",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Württemberg-Hohenzollern (III)",
+      "bild_beschreibung": "Rathaus Bad Waldsee",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Württemberg 1948 32 Rathaus Bad Waldsee.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "35",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-07-18",
+      "wert": "40 (Pf)",
+      "waehrung": "DM",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Württemberg-Hohenzollern (III)",
+      "bild_beschreibung": "Kloster Bebenhausen",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Württemberg 1948 35 Kloster Bebenhausen.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "36",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-07-18",
+      "wert": "80 (Pf)",
+      "waehrung": "DM",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Württemberg-Hohenzollern (III)",
+      "bild_beschreibung": "Friedrich Schiller",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Württemberg 1948 36 Friedrich Schiller.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "37",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-07-18",
+      "wert": "90 (Pf)",
+      "waehrung": "DM",
+      "gueltig_bis": "1949-12-31",
+      "anlass": "Persönlichkeiten und Ansichten aus Württemberg-Hohenzollern (III)",
+      "bild_beschreibung": "Schloss Lichtenstein",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": null,
+      "commons_datei": "Fr. Zone Württemberg 1948 37 Schloss Lichtenstein.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "38",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-11",
+      "wert": "10+4",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Deutsche Skimeisterschaften der Nordischen Kombination in Isny im Allgäu",
+      "bild_beschreibung": "Isny mit Landschaft, davor Wappen von Isny und Skistöcke",
+      "anmerkungen": [],
+      "entwerfer": "Dorner",
+      "auflage": 250000,
+      "commons_datei": "Fr. Zone Württemberg 1949 38 Skimeisterschaften Isny.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nordische Kombination",
+          "beschriftung": "Nordischen Kombination",
+          "haupt": true,
+          "artikel": "Nordische Kombination",
+          "wikidata": "Q201965"
+        },
+        {
+          "titel": "Isny im Allgäu",
+          "beschriftung": "Isny im Allgäu",
+          "haupt": false,
+          "artikel": "Isny im Allgäu",
+          "wikidata": "Q513446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "39",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-11",
+      "wert": "20+6",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Deutsche Skimeisterschaften der Nordischen Kombination in Isny im Allgäu",
+      "bild_beschreibung": "Stadtansicht von Isny, davor Skifahrer",
+      "anmerkungen": [],
+      "entwerfer": "Dorner",
+      "auflage": 250000,
+      "commons_datei": "Fr. Zone Württemberg 1949 39 Skimeisterschaften Isny.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Nordische Kombination",
+          "beschriftung": "Nordischen Kombination",
+          "haupt": true,
+          "artikel": "Nordische Kombination",
+          "wikidata": "Q201965"
+        },
+        {
+          "titel": "Isny im Allgäu",
+          "beschriftung": "Isny im Allgäu",
+          "haupt": false,
+          "artikel": "Isny im Allgäu",
+          "wikidata": "Q513446"
+        }
+      ]
+    },
+    {
+      "mi_nr": "40A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "10+20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Württemberg",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Wappen Württembergs",
+          "beschriftung": "Wappen von Württemberg",
+          "haupt": true,
+          "artikel": "Wappen Württembergs",
+          "wikidata": "Q472638"
+        },
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": false,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "41A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "20+40",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Württemberg",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "42A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "30+60",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Württemberg",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "43A",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-02-25",
+      "wert": "40+80",
+      "waehrung": "Pf",
+      "gueltig_bis": "1949-09-15",
+      "anlass": "Wohltätigkeits-Ausgabe zugunsten des Deutschen Roten Kreuzes",
+      "bild_beschreibung": "Wappen von Württemberg",
+      "anmerkungen": [],
+      "entwerfer": "Eugen Bargatzky",
+      "auflage": 600000,
+      "commons_datei": null,
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Deutsches Rotes Kreuz",
+          "beschriftung": "Deutschen Roten Kreuzes",
+          "haupt": true,
+          "artikel": "Deutsches Rotes Kreuz",
+          "wikidata": "Q694104"
+        }
+      ]
+    },
+    {
+      "mi_nr": "44",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-12",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "Wohltätigkeitssonderausgabe zum 200. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Relief von Johann Peter Melchior (1775)",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 44 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Peter Melchior",
+          "beschriftung": "Johann Peter Melchior",
+          "haupt": true,
+          "artikel": "Johann Peter Melchior",
+          "wikidata": "Q1695799"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "45",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-12",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "Wohltätigkeitssonderausgabe zum 200. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Zeichnung von Johann Heinrich Lips (1791)",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 45 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Heinrich Lips",
+          "beschriftung": "Johann Heinrich Lips",
+          "haupt": true,
+          "artikel": "Johann Heinrich Lips",
+          "wikidata": "Q1384162"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "46",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-08-12",
+      "wert": "30+15",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "Wohltätigkeitssonderausgabe zum 200. Geburtstag von Johann Wolfgang von Goethe",
+      "bild_beschreibung": "Relief von Angelika Facius nach einer Büste von Rauch (1820)",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 46 Johann Wolfgang von Goethe.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Angelika Facius",
+          "beschriftung": "Angelika Facius",
+          "haupt": true,
+          "artikel": "Angelica Bellonata Facius",
+          "wikidata": "Q533929"
+        },
+        {
+          "titel": "Johann Wolfgang von Goethe",
+          "beschriftung": "Johann Wolfgang von Goethe",
+          "haupt": false,
+          "artikel": "Johann Wolfgang von Goethe",
+          "wikidata": "Q5879"
+        }
+      ]
+    },
+    {
+      "mi_nr": "47",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-09-03",
+      "wert": "10+5",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100 Jahre Gustav-Werner-Stiftung",
+      "bild_beschreibung": "Gustav Werner",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 47 Gustav-Werner-Stiftung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Gustav Werner (Pfarrer)",
+          "beschriftung": "Gustav Werner",
+          "haupt": true,
+          "artikel": "Gustav Werner (Pfarrer)",
+          "wikidata": "Q1556522"
+        },
+        {
+          "titel": "BruderhausDiakonie",
+          "beschriftung": "Gustav-Werner-Stiftung",
+          "haupt": false,
+          "artikel": "BruderhausDiakonie",
+          "wikidata": "Q992187"
+        }
+      ]
+    },
+    {
+      "mi_nr": "48",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-09-03",
+      "wert": "20+10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100 Jahre Gustav-Werner-Stiftung",
+      "bild_beschreibung": "Gustav Werner",
+      "anmerkungen": [],
+      "entwerfer": "unbekannt",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 48 Gustav-Werner-Stiftung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "BruderhausDiakonie",
+          "beschriftung": "Gustav-Werner-Stiftung",
+          "haupt": true,
+          "artikel": "BruderhausDiakonie",
+          "wikidata": "Q992187"
+        }
+      ]
+    },
+    {
+      "mi_nr": "49",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-09-17",
+      "wert": "10",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100 Jahre Deutsche Briefmarken",
+      "bild_beschreibung": "Vierspänner-Postkutsche",
+      "anmerkungen": [],
+      "entwerfer": "Meyer",
+      "auflage": 300000,
+      "commons_datei": "Fr. Zone Württemberg 1949 49 Postkutsche.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Vierspänner",
+          "beschriftung": "Vierspänner",
+          "haupt": true,
+          "artikel": "Vierspänner",
+          "wikidata": "Q3144341"
+        },
+        {
+          "titel": "Postkutsche",
+          "beschriftung": "Postkutsche",
+          "haupt": false,
+          "artikel": "Postkutsche",
+          "wikidata": "Q339249"
+        }
+      ]
+    },
+    {
+      "mi_nr": "50",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-09-17",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "100 Jahre Deutsche Briefmarken",
+      "bild_beschreibung": "Postomnibus und Flugzeug",
+      "anmerkungen": [],
+      "entwerfer": "Pixa",
+      "auflage": 300000,
+      "commons_datei": "Fr. Zone Württemberg 1949 50 Postbus und Flugzeug.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Kraftpost",
+          "beschriftung": "Postomnibus",
+          "haupt": true,
+          "artikel": "Kraftpost",
+          "wikidata": "Q1785998"
+        }
+      ]
+    },
+    {
+      "mi_nr": "51",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-10-04",
+      "wert": "20",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Posthorn, Weltkugel, Friedenszweig",
+      "anmerkungen": [],
+      "entwerfer": "Meyer und Pixa",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 51 Weltpostverein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Posthorn",
+          "beschriftung": "Posthorn",
+          "haupt": true,
+          "artikel": "Posthorn",
+          "wikidata": "Q996531"
+        },
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": false,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    },
+    {
+      "mi_nr": "52",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1949-10-04",
+      "wert": "30",
+      "waehrung": "Pf",
+      "gueltig_bis": "1950-03-31",
+      "anlass": "75 Jahre Weltpostverein",
+      "bild_beschreibung": "Posthorn, Weltkugel, Friedenszweig",
+      "anmerkungen": [],
+      "entwerfer": "Meyer und Pixa",
+      "auflage": 400000,
+      "commons_datei": "Fr. Zone Württemberg 1949 52 Weltpostverein.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Weltpostverein",
+          "beschriftung": "Weltpostverein",
+          "haupt": true,
+          "artikel": "Weltpostverein",
+          "wikidata": "Q17495"
+        }
+      ]
+    }
+  ]
+}

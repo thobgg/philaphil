@@ -31,14 +31,14 @@ private class Abschnitt(val titel: String, vararg val absaetze: String)
 /** Kurzhilfe in der App; das ausfuehrliche Handbuch liegt auf der Webseite (HANDBUCH_URL). */
 private val HILFE = listOf(
     Abschnitt("Blättern und suchen",
-        "Ein Tipp auf den Titel oben wählt Gebiet und Jahrgang: Bund, Berlin, DDR oder Deutsches Reich. Mit den Pfeilen blätterst du von Jahr zu Jahr.",
+        "Ein Tipp auf den Titel oben wählt Gebiet und Jahrgang: Bund, Berlin, DDR, Deutsches Reich oder die Besatzungszonen 1945 bis 1949. Die Zonen stehen als ein Eintrag; dahinter wählst du Gemeinschaftsausgaben, Bizone, die französischen Länder oder die sowjetischen Gebiete. Mit den Pfeilen blätterst du von Jahr zu Jahr.",
         "Die Suche findet Marken über alle Gebiete nach Anlass, Motiv, Thema oder MiNr. Darunter zeigen „Vorhanden“ und „Fehlend“ nur die Marken, die du hast oder die dir fehlen.",
         "„Was … geschah“ über der Liste erzählt das Jahr. Das Kalendersymbol öffnet „Heute vor Jahren“: Jahrestage zu den Menschen und Dingen auf den Marken."),
     Abschnitt("Die Marke",
         "Ein Tipp öffnet die Karte mit Ausgabetag, Wert, Auflage und Entwurf, darunter das Thema in wenigen Sätzen. Wische nach links oder rechts zur nächsten Marke des Jahrgangs.",
         "Ein Tipp aufs Bild zeigt es groß: mit zwei Fingern vergrößern, Doppeltipp zum Zoomen. Gehört die Marke zu einem Satz oder einer Dauerserie, zeigt „Ganzer Satz“ alle Werte nebeneinander.",
         "Jedes Thema führt zu allen anderen Marken dazu, über Jahre und Gebiete hinweg.",
-        "Die Karte ist bei Bund, Berlin, DDR und Deutschem Reich gleich aufgebaut. Fehlt eine Angabe in der Wikipedia-Liste, etwa die Auflage beim Deutschen Reich, lässt sie die Zeile weg. Die Zeitreise gehört zum Jahr: Berlin 1961 und DDR 1961 erzählen dasselbe Jahr."),
+        "Die Karte ist in allen Gebieten gleich aufgebaut. Fehlt eine Angabe in der Wikipedia-Liste, etwa die Auflage beim Deutschen Reich, lässt sie die Zeile weg. In den Besatzungszonen zählt jeder Druck als eigene Marke, die Bizone etwa hat für die M-Serie je eine Nummer für den amerikanischen, englischen und deutschen Druck. Die Zeitreise gehört zum Jahr: Berlin 1961 und DDR 1961 erzählen dasselbe Jahr."),
     Abschnitt("Dein Bestand",
         "Unter „Mein Bestand“ tippst du an, was du hast: ** postfrisch, * ungebraucht, ⊙ gestempelt, FDC Ersttagsbrief. Mit − und + änderst du die Anzahl, auf 0 ist der Eintrag wieder weg. Dazu passt eine Notiz.",
         "Die Liste zeigt deine Erhaltungen neben jeder Marke, oben steht etwa „26 von 38 im Bestand“."),

@@ -1,0 +1,264 @@
+{
+  "gebiet": "Baden",
+  "jahr": 1947,
+  "quelle": {
+    "titel": "Briefmarken-Ausgaben der französischen Zone Baden",
+    "url": "https://de.wikipedia.org/wiki/Briefmarken-Ausgaben_der_franz%C3%B6sischen_Zone_Baden",
+    "revision": 269667035,
+    "abgerufen": "2026-10-22",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenz_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pruefung": {
+    "mi_nr_von": 1,
+    "mi_nr_bis": 13,
+    "luecken": [],
+    "ausreisser": [],
+    "sondermarken_gezaehlt": 0,
+    "sondermarken_laut_einleitung": null
+  },
+  "marken": [
+    {
+      "mi_nr": "1",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-12",
+      "wert": "2",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Johann Peter Hebel",
+      "anmerkungen": [],
+      "entwerfer": "Vytautas Kazimieras Jonynas",
+      "auflage": 7200000,
+      "commons_datei": "Fr. Zone Baden 1947 01 Johann Peter Hebel.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Johann Peter Hebel",
+          "beschriftung": "Johann Peter Hebel",
+          "haupt": true,
+          "artikel": "Johann Peter Hebel",
+          "wikidata": "Q62512"
+        }
+      ]
+    },
+    {
+      "mi_nr": "2",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-12",
+      "wert": "3",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Bodensee Trachtenmädchen",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 10100000,
+      "commons_datei": "Fr. Zone Baden 1947 02 Bodensee Trachtenmädchen.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Bodensee",
+          "beschriftung": "Bodensee",
+          "haupt": true,
+          "artikel": "Bodensee",
+          "wikidata": "Q4127"
+        }
+      ]
+    },
+    {
+      "mi_nr": "3",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-12",
+      "wert": "10",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Hans Baldung",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 7100000,
+      "commons_datei": "Fr. Zone Baden 1947 03 Hans Baldung.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Hans Baldung",
+          "beschriftung": "Hans Baldung",
+          "haupt": true,
+          "artikel": "Hans Baldung",
+          "wikidata": "Q164696"
+        }
+      ]
+    },
+    {
+      "mi_nr": "4",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-05-10",
+      "wert": "12",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Johann Peter Hebel",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 37200000,
+      "commons_datei": "Fr. Zone Baden 1947 04 Johann Peter Hebel.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "5",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-12",
+      "wert": "15",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Bodensee Trachtenmädchen",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 10000000,
+      "commons_datei": "Fr. Zone Baden 1947 05 Bodensee Trachtenmädchen.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "6",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-12",
+      "wert": "16",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Schloss Rastatt",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 6000000,
+      "commons_datei": "Fr. Zone Baden 1947 06 Schloss Rastatt.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Schloss Rastatt",
+          "beschriftung": "Schloss Rastatt",
+          "haupt": true,
+          "artikel": "Schloss Rastatt",
+          "wikidata": "Q315030"
+        }
+      ]
+    },
+    {
+      "mi_nr": "8",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-05-01",
+      "wert": "24",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Schloss Rastatt",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 35000000,
+      "commons_datei": "Fr. Zone Baden 1947 08 Schloss Rastatt.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "9",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-07",
+      "wert": "45",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Bodensee Trachtenmädchen",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 5000000,
+      "commons_datei": "Fr. Zone Baden 1947 09 Bodensee Trachtenmädchen.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "11",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-06",
+      "wert": "75",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Hans Baldung",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 5000000,
+      "commons_datei": "Fr. Zone Baden 1947 11 Hans Baldung.jpg",
+      "satz": true,
+      "themen": []
+    },
+    {
+      "mi_nr": "12",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-08",
+      "wert": "84",
+      "waehrung": "Rpf",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Höllental im Schwarzwald",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 5000000,
+      "commons_datei": "Fr. Zone Baden 1947 12 Höllental, Schwarzwald.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Höllental (Schwarzwald)",
+          "beschriftung": "Höllental",
+          "haupt": true,
+          "artikel": "Höllental (Schwarzwald)",
+          "wikidata": "Q301685"
+        },
+        {
+          "titel": "Schwarzwald",
+          "beschriftung": "Schwarzwald",
+          "haupt": false,
+          "artikel": "Schwarzwald",
+          "wikidata": "Q4204"
+        }
+      ]
+    },
+    {
+      "mi_nr": "13",
+      "block": null,
+      "art": "Marke",
+      "ausgabetag": "1947-08",
+      "wert": "1",
+      "waehrung": "RM",
+      "gueltig_bis": "1948-06-20",
+      "anlass": "Persönlichkeiten und Ansichten aus Baden (I)",
+      "bild_beschreibung": "Freiburger Münster",
+      "anmerkungen": [],
+      "entwerfer": "Jonynas",
+      "auflage": 5000000,
+      "commons_datei": "Fr. Zone Baden 1947 13 Freiburger Münster.jpg",
+      "satz": true,
+      "themen": [
+        {
+          "titel": "Freiburger Münster",
+          "beschriftung": "Freiburger Münster",
+          "haupt": true,
+          "artikel": "Freiburger Münster",
+          "wikidata": "Q250212"
+        }
+      ]
+    }
+  ]
+}
