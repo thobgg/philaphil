@@ -46,10 +46,18 @@ fun Jahresauswahl(gebiete: List<Gebiete>, jahrgaenge: List<Jahrgaenge>, aktuell:
     var gruppe by remember { mutableStateOf(vorhandene.firstOrNull { it.name == gebiet }?.gruppe) }
     val jahrzehnte = remember(jahrgaenge, gebiet) { jahrgaenge.filter { it.gebiet == gebiet }.groupBy { (it.jahr / 10) * 10 }.toList() }
     val liste = rememberLazyListState()
+    // Ein Tipp auf ein Gebiet schaltet sofort um (auf das zuletzt gezeigte Jahr des Gebiets, sonst das erste);
+    // der Dialog bleibt offen, damit man noch ein Jahr waehlen kann. Ohne das wirkte die Auswahl am Handy tot.
+    fun gebietWaehlen(name: String) {
+        gebiet = name
+        val ziel = jahrgaenge.filter { it.gebiet == name }
+        (ziel.firstOrNull { it.jahr == aktuell?.jahr } ?: ziel.firstOrNull())?.let(onWahl)
+    }
     // Gebiete und Jahrzehnte stehen in EINER rollenden Liste: am Handy nehmen die Gebiete allein schon den
     // halben Bildschirm ein, und der Dialog selbst rollt nicht.
     val kopfZeilen = if (gruppe != null) 3 else 2
-    LaunchedEffect(gebiet) {
+    LaunchedEffect(Unit) {
+        // Nur beim Oeffnen zum aktuellen Jahrzehnt springen, nicht nach jedem Tipp auf ein Gebiet
         val start = jahrzehnte.indexOfFirst { (jz, _) -> aktuell != null && aktuell.gebiet == gebiet && jz == (aktuell.jahr / 10) * 10 }
         // Nur bei langen Listen (Bund, DDR …) zum Jahrzehnt springen; bei wenigen Jahrzehnten bleiben die Gebiete oben sichtbar
         liste.scrollToItem(if (start < 0 || jahrzehnte.size <= 3) 0 else start + kopfZeilen)
@@ -68,12 +76,12 @@ fun Jahresauswahl(gebiete: List<Gebiete>, jahrgaenge: List<Jahrgaenge>, aktuell:
                         vorhandene.forEach { g ->
                             val gr = g.gruppe
                             if (gr == null) {
-                                FilterChip(selected = gruppe == null && g.name == gebiet, onClick = { gruppe = null; gebiet = g.name }, label = { Text(if (schmal) g.name else g.anzeige) })
+                                FilterChip(selected = gruppe == null && g.name == gebiet, onClick = { gruppe = null; gebietWaehlen(g.name) }, label = { Text(if (schmal) g.name else g.anzeige) })
                             } else if (gezeigteGruppen.add(gr)) {
                                 // Die Gruppe als ein Eintrag; beim Wechsel in die Gruppe bleibt das zuletzt dort gewaehlte Gebiet, sonst das erste
                                 FilterChip(selected = gruppe == gr, onClick = {
                                     gruppe = gr
-                                    if (vorhandene.firstOrNull { it.name == gebiet }?.gruppe != gr) gebiet = g.name
+                                    if (vorhandene.firstOrNull { it.name == gebiet }?.gruppe != gr) gebietWaehlen(g.name)
                                 }, label = { Text(if (schmal) gr.substringBefore(" ") else gr) })
                             }
                         }
@@ -84,7 +92,7 @@ fun Jahresauswahl(gebiete: List<Gebiete>, jahrgaenge: List<Jahrgaenge>, aktuell:
                         // Kurze Namen (Bizone, Baden, SBZ …), die langen stehen im Titel des Hauptfensters
                         FlowRow(Modifier.padding(top = 6.dp), horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
                             vorhandene.filter { it.gruppe == gr }.forEach { g ->
-                                FilterChip(selected = g.name == gebiet, onClick = { gebiet = g.name }, label = { Text(g.name) })
+                                FilterChip(selected = g.name == gebiet, onClick = { gebietWaehlen(g.name) }, label = { Text(g.name) })
                             }
                         }
                     }
