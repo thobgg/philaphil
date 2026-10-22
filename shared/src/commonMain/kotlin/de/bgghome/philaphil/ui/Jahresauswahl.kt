@@ -1,6 +1,7 @@
 package de.bgghome.philaphil.ui
 
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Spacer
@@ -45,54 +46,65 @@ fun Jahresauswahl(gebiete: List<Gebiete>, jahrgaenge: List<Jahrgaenge>, aktuell:
     var gruppe by remember { mutableStateOf(vorhandene.firstOrNull { it.name == gebiet }?.gruppe) }
     val jahrzehnte = remember(jahrgaenge, gebiet) { jahrgaenge.filter { it.gebiet == gebiet }.groupBy { (it.jahr / 10) * 10 }.toList() }
     val liste = rememberLazyListState()
+    // Gebiete und Jahrzehnte stehen in EINER rollenden Liste: am Handy nehmen die Gebiete allein schon den
+    // halben Bildschirm ein, und der Dialog selbst rollt nicht.
+    val kopfZeilen = if (gruppe != null) 3 else 2
     LaunchedEffect(gebiet) {
         val start = jahrzehnte.indexOfFirst { (jz, _) -> aktuell != null && aktuell.gebiet == gebiet && jz == (aktuell.jahr / 10) * 10 }
-        liste.scrollToItem(start.coerceAtLeast(0))
+        // Nur bei langen Listen (Bund, DDR …) zum Jahrzehnt springen; bei wenigen Jahrzehnten bleiben die Gebiete oben sichtbar
+        liste.scrollToItem(if (start < 0 || jahrzehnte.size <= 3) 0 else start + kopfZeilen)
     }
     AlertDialog(
         onDismissRequest = onClose,
         title = { Text(stringResource(Res.string.jahrgang_waehlen)) },
         text = {
-            Column {
-                FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
-                    val gezeigteGruppen = mutableSetOf<String>()
-                    vorhandene.forEach { g ->
-                        val gr = g.gruppe
-                        if (gr == null) {
-                            FilterChip(selected = gruppe == null && g.name == gebiet, onClick = { gruppe = null; gebiet = g.name }, label = { Text(g.anzeige) })
-                        } else if (gezeigteGruppen.add(gr)) {
-                            // Die Gruppe als ein Eintrag; beim Wechsel in die Gruppe bleibt das zuletzt dort gewaehlte Gebiet, sonst das erste
-                            FilterChip(selected = gruppe == gr, onClick = {
-                                gruppe = gr
-                                if (vorhandene.firstOrNull { it.name == gebiet }?.gruppe != gr) gebiet = g.name
-                            }, label = { Text(gr) })
+            BoxWithConstraints {
+                // Am Handy kurze Namen (Bund, DDR …), sonst die langen; die langen stehen ohnehin im Fenstertitel
+                val schmal = maxWidth < 480.dp
+                LazyColumn(state = liste, modifier = Modifier.heightIn(max = if (schmal) 640.dp else 480.dp)) {
+                item(key = "gebiete") {
+                    FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                        val gezeigteGruppen = mutableSetOf<String>()
+                        vorhandene.forEach { g ->
+                            val gr = g.gruppe
+                            if (gr == null) {
+                                FilterChip(selected = gruppe == null && g.name == gebiet, onClick = { gruppe = null; gebiet = g.name }, label = { Text(if (schmal) g.name else g.anzeige) })
+                            } else if (gezeigteGruppen.add(gr)) {
+                                // Die Gruppe als ein Eintrag; beim Wechsel in die Gruppe bleibt das zuletzt dort gewaehlte Gebiet, sonst das erste
+                                FilterChip(selected = gruppe == gr, onClick = {
+                                    gruppe = gr
+                                    if (vorhandene.firstOrNull { it.name == gebiet }?.gruppe != gr) gebiet = g.name
+                                }, label = { Text(if (schmal) gr.substringBefore(" ") else gr) })
+                            }
                         }
                     }
                 }
                 gruppe?.let { gr ->
-                    FlowRow(Modifier.padding(top = 6.dp), horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
-                        vorhandene.filter { it.gruppe == gr }.forEach { g ->
-                            FilterChip(selected = g.name == gebiet, onClick = { gebiet = g.name }, label = { Text(g.anzeige) })
-                        }
-                    }
-                }
-                HorizontalDivider(Modifier.padding(vertical = 8.dp))
-                LazyColumn(state = liste, modifier = Modifier.heightIn(max = 420.dp)) {
-                    items(jahrzehnte, key = { it.first }) { (jahrzehnt, jahre) ->
-                        Column(Modifier.padding(vertical = 6.dp)) {
-                            Text("${jahrzehnt}er", style = MaterialTheme.typography.titleMedium)
-                            Spacer(Modifier.height(4.dp))
-                            FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-                                jahre.forEach { j ->
-                                    FilterChip(
-                                        selected = aktuell?.jahr == j.jahr && aktuell.gebiet == j.gebiet,
-                                        onClick = { onWahl(j); onClose() },
-                                        label = { Text(j.jahr.toString()) },
-                                    )
-                                }
+                    item(key = "gruppe") {
+                        // Kurze Namen (Bizone, Baden, SBZ …), die langen stehen im Titel des Hauptfensters
+                        FlowRow(Modifier.padding(top = 6.dp), horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            vorhandene.filter { it.gruppe == gr }.forEach { g ->
+                                FilterChip(selected = g.name == gebiet, onClick = { gebiet = g.name }, label = { Text(g.name) })
                             }
                         }
                     }
+                }
+                item(key = "trenner") { HorizontalDivider(Modifier.padding(vertical = 8.dp)) }
+                items(jahrzehnte, key = { it.first }) { (jahrzehnt, jahre) ->
+                    Column(Modifier.padding(vertical = 6.dp)) {
+                        Text("${jahrzehnt}er", style = MaterialTheme.typography.titleMedium)
+                        Spacer(Modifier.height(4.dp))
+                        FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
+                            jahre.forEach { j ->
+                                FilterChip(
+                                    selected = aktuell?.jahr == j.jahr && aktuell.gebiet == j.gebiet,
+                                    onClick = { onWahl(j); onClose() },
+                                    label = { Text(j.jahr.toString()) },
+                                )
+                            }
+                        }
+                    }
+                }
                 }
             }
         },
